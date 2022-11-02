@@ -10,6 +10,8 @@
 #app {
   height: 100vh;
   width: 100%;
+  position: relative;
+  z-index: 0;
 }
 </style>
 
@@ -26,3 +28,7 @@ export default
 
 
 </script>
+
+<style>
+
+</style>
