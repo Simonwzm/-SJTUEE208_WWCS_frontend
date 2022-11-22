@@ -7,11 +7,16 @@
 </template>
 
 <style lang="scss">
+
+body {
+  margin:0;
+}
 #app {
   height: 100vh;
   width: 100%;
   position: relative;
   z-index: 0;
+  margin: 0;
 }
 </style>
 
