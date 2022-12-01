@@ -73,7 +73,7 @@ export default {
   },
 };
 </script>
-<style>
+<style scoped>
 /* .answer-container {
   max-width: 800px;
   margin: 0 auto;
