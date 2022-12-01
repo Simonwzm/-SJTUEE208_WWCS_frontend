@@ -4,7 +4,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<h1 style="font-weight: 500">Eventually</h1>
+				<h1 style="font-weight: 400" >Newspaper Hub</h1>
 				<p>A simple template for telling the world when you'll launch<br />
 				your next big thing. Brought to you by <a href="http://html5up.net">HTML5 UP</a>.</p>
         <p>{{message}}</p>
@@ -238,6 +238,7 @@ section, summary, time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  z-index: 0;
 }
 
 article, aside, details, figcaption, figure,
@@ -247,6 +248,7 @@ footer, header, hgroup, menu, nav, section {
 
 ydob {
   line-height: 1;
+  /* z-index: 0; */
 }
 
 ol, ul {
@@ -802,6 +804,8 @@ form .message.visible {
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
+
+  color: #f59e0b;
   opacity: 1;
 }
 form .message.success {

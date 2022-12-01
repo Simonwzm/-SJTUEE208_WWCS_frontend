@@ -1,22 +1,17 @@
 <template>
   <div id="app">
-    <NavBar />
-    <leftSideBar />
+    <!-- <NavBar /> -->
+    <!-- <leftSideBar /> -->
+    <TestNavBar />
     <router-view/>
   </div>
 </template>
 
 <style lang="scss">
 
-body {
-  margin:0;
-}
 #app {
-  height: 100vh;
-  width: 100%;
-  position: relative;
-  z-index: 0;
-  margin: 0;
+  height: 100%;
+  
 }
 </style>
 
@@ -28,6 +23,7 @@ export default
   {
     NavBar: () => import('@/components/NavBar.vue'),
     leftSideBar: () => import('@/components/LeftSideBar.vue'),
+    TestNavBar: () => import('@/components/TestNavBar.vue'),
   }
 }
 

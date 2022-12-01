@@ -186,6 +186,7 @@ module.exports = {
     container: {},
     content: {
       none: 'none',
+      
     },
     cursor: {
       auto: 'auto',
@@ -974,5 +975,7 @@ module.exports = {
     wordBreak: ['responsive'],
     zIndex: ['responsive', 'focus-within', 'focus'],
   },
-  plugins: [],
+  plugins: [
+    require('flowbite/plugin')
+  ],
 }

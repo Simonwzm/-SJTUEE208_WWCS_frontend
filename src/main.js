@@ -5,6 +5,7 @@ import store from './store'
 import "tailwindcss/tailwind.css"
 import Antd from 'ant-design-vue';
 import 'ant-design-vue/dist/antd.css';
+// import 'flowbite'
 Vue.use(Antd);
 
 

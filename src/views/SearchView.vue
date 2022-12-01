@@ -1,12 +1,39 @@
 <template>
-    <div class="shell h-full w-screen">
-    <div class="left-container  w-2/3 float-left h-screen">
-        <div class="search-container h-1/4 overflow-hidden">
-            <InputBox style="margin-top:80px; margin-left:5px; " />
-        </div>
-        <div class="answer-container h-3/4 overflow-hidden  mx-4">
+    <div class="shell h-full w-screen container" style="position:relative">
+    <div class="search-container h-1/5 overflow-hidden mt-24 mx-12 z-10" style="position:sticky; top:2em;">
+      <div class="main-searchbox " style="width:60%">
+        <a-input-search 
+        placeholder="input search loading with enterButton"  
+        enter-button
+        size="large"
+         />
+      </div>
+      <div class="more-searchbox mt-6 overflow-hidden">
+          <a-input-group size="large" >
+          <a-row :gutter="20">
+            <a-col :span="4">
+              <a-input addon-before="Http://" placeholder="input website" />
+            </a-col>
+            <a-col :span="4">
+              <a-input addon-before="title" ></a-input>
+            </a-col>
+            <a-col :span="4">
+              <a-input addon-before="author" ></a-input>
+            </a-col>
+            <a-col :span="4">
+              <a-date-picker placeholder="select date" />
+            </a-col>
+            <a-button type="primary">More</a-button>
+          </a-row>
+
+          </a-input-group>
+
+         </div>
+    </div>
+    <div class="left-container h-3/4 w-2/3 float-left ml-12">
+        <div class="answer-container h-3/4   ">
             <a-list item-layout="vertical" size="large" :pagination="pagination" :data-source="listData">
-                <div slot="footer"><b>ant design vue</b> footer part</div>
+                <!-- <div slot="footer"><b>ant design vue</b> footer part</div> -->
                 <a-list-item slot="renderItem" key="item.title" slot-scope="item, index">
                 <!-- <template v-for="{ type, text } in actions" slot="actions">
                     <span :key="type">
@@ -27,10 +54,14 @@
                 </a-list-item-meta>
                 {{ item.content }}
                 </a-list-item>
+            <!-- <a-pagination :total="50" style="margin-top: 32px; text-align: center" /> -->
             </a-list>
         </div>
     </div>
-    <div class="right-container w-1/4 float-right h-full bg-black">
+    
+    <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="80%" color=#987cb9 SIZE=1></HR>
+
+    <div class="right-container w-1/4 float-right h-3/4 bg-black mt-6">
 
     </div>
     </div>
@@ -62,7 +93,7 @@ export default {
         onChange: page => {
           console.log(page);
         },
-        pageSize: 2,
+        pageSize: 4,
       },
       actions: [
         { type: 'star-o', text: '156' },
@@ -78,9 +109,15 @@ export default {
   max-width: 800px;
   margin: 0 auto;
 } */
-.shell {
+/* .shell {
     background-image: "@/assets/images/bg5.jpg";
     z-index:-2;
+} */
+
+a-input-search {
+
+    width: 100%;
+    margin: 0 auto;
 }
 
 /* .shell:after {
