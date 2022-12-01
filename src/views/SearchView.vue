@@ -55,7 +55,15 @@
             <!-- <a-pagination :total="50" style="margin-top: 32px; text-align: center" /> -->
             </a-list>
         </div>
-        <div class="pic-container overflow-y-scroll bg-black" style="height:580px;" v-if="!isListAnswer">
+        <div class="pic-container overflow-y-scroll" style="height:580px;" v-if="!isListAnswer">
+
+          <PicContainer
+              v-for="(item,index) in arr" 
+              :key="index"
+              :index="index"
+              >
+          </PicContainer>
+
         </div>
     </div>
     
@@ -127,10 +135,12 @@ for (let i = 0; i < 23; i++) {
 export default {
     name: 'SearchView',
     components: {
-        InputBox: () => import('@/components/InputBox.vue'),
+        // InputBox: () => import('@/components/InputBox.vue'),
+        PicContainer: () => import('@/components/PicContainer.vue'),
     },
   data() {
     return {
+      arr: [1,2,3,4,5,6,7,8,9],
       listData,
       isListAnswer: true,
       pagination: {
