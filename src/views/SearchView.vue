@@ -7,8 +7,8 @@
         enter-button
         size="large"
          />
-      <a-button class="test-button" @click="changeList" style="width:30%; float:right;">test switch</a-button>
-      </div>
+        </div>
+        <a-button class="test-button" @click="changeList" style="width:30%; float:right;">test switch</a-button>
       <div class="more-searchbox mt-6 h-3/4 ">
           <a-input-group size="large" >
           <a-row :gutter="20">
@@ -55,14 +55,26 @@
             <!-- <a-pagination :total="50" style="margin-top: 32px; text-align: center" /> -->
             </a-list>
         </div>
-        <div class="pic-container overflow-y-scroll" style="height:580px;" v-if="!isListAnswer">
-
-          <PicContainer
-              v-for="(item,index) in arr" 
-              :key="index"
-              :index="index"
-              >
-          </PicContainer>
+        <div class="pic-container overflow-y-scroll container" style="height:580px;	display: flex;flex-wrap: wrap;padding: 5px;" v-if="!isListAnswer">
+            <PicContainer
+                v-for="(item,index) in picUrlArr" 
+                :key="index"
+                :nowWidth="item.nowWidth"
+                :title="item.title"
+                :description="item.description"
+                :url="item.url"
+                style="display:flex;flex-grow: 1;margin: 10px;"
+                >
+            </PicContainer>
+            <!-- <div class="rowContainer" v-for="(thing, index) in picRow" :key="index">
+              <PicContainer
+                v-for="(item,index) in thing['picList']"
+                :key="index"
+                :props="item"
+                >
+            </PicContainer>
+            
+            </div> -->
 
         </div>
     </div>
@@ -132,6 +144,7 @@ for (let i = 0; i < 23; i++) {
   });
 }
 
+import axios from 'axios';
 export default {
     name: 'SearchView',
     components: {
@@ -140,7 +153,18 @@ export default {
     },
   data() {
     return {
-      arr: [1,2,3,4,5,6,7,8,9],
+      picUrlArr: [
+        {url:'@/assets/bg01.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg02.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg03.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/logo.png', title:'1', description:'2', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg1.png', title:'1', description:'2', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg2.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg3.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+    ],
+      // picRow: [{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',},{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',}], // 
+      referHight: 150,  // refer height for each pic in const height waterfall layout
+
       listData,
       isListAnswer: true,
       pagination: {
@@ -160,7 +184,41 @@ export default {
     callback(key) {
       console.log(key);
     },
+
+    getPicUrl() {
+      axios.get('http://localhost:8080/picUrl').then((res) => {
+        console.log(res.data);
+        this.picUrlArr = res.data;
+      });
+    },
+
+    // read all url in picUrlArr and record their originalWidth
+    getPicWidth() {
+      for (let i = 0; i < this.picUrlArr.length; i++) {
+        const img = new Image();
+        img.src = require('@/assets/'+this.picUrlArr[i].url.slice(9, this.picUrlArr[i].url.length));
+        img.onload = () => {
+          this.picUrlArr[i].originalWidth = img.width;
+          // this.picUrlArr[i].nowWidth = img.width;
+          console.log(i, img.width)
+        };
+      }
+      console.log('read width done')
+    },
+
+    //scale the image to reference height
+    scalePic() {
+      for (let i = 0; i < this.picUrlArr.length; i++) {
+        this.picUrlArr[i].nowWidth = this.picUrlArr[i].originalWidth * this.referHight / this.picUrlArr[i].originalHeight;
+      }
+      console.log('scaled:')
+      console.log(this.picUrlArr  )
+    },
+
     changeList() {
+      // getPicUrl();
+      this.getPicWidth();
+      this.scalePic();
       this.isListAnswer = !this.isListAnswer;
     },
   },
@@ -191,6 +249,10 @@ a-input-search {
     margin: 0 auto;
 }
 
+.pic-container::after {
+		content: '';
+		flex-grow: 99999;
+}
 /* .shell:after {
     content: "";
     position: absolute;

@@ -1,9 +1,9 @@
 <template>
-    <div class="card">
-        <img src="@/assets/bg01.jpg" alt="Pic failed to load">
-        <div class="text">
-            <h2>A man <span>can't</span> ride your back unless it is bent</h2>
-            <p>你的腰不弯，别人就不能骑在你的背上。</p>
+    <div class="card" v-bind:style="{ width: nowWidth + 'px' ,height: 150+'px'}">
+        <img :src='src' alt="Pic failed to load">
+        <div class="text" >
+            <h2>{{title}}</h2>
+            <p>{{description}}</p>
         </div>
     </div>
 </template>
@@ -14,36 +14,46 @@ export default
     name: 'PicContainer',
     data() {
         return {
+
+        }
+    },
+    props: ['nowWidth', 'title','description','url'],
+    computed: {
+        src() {
+            return require('@/assets/' + this.url.slice(9, this.url.length));
         }
     }
-
 }
 </script>
 
 <style scoped>
 .card{
-    width: 310px;
-    height: 220px;
+    width: auto;
+    height: 200px;
     overflow: hidden;
     margin: 10px;
-    background-color: #000;
+    background-color: #f5f4f3;
     color: #fff;
     cursor: pointer;
     position: relative;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
 .card img{
-    width: 100%;
+    /* width: 100%; */
     height: 100%;
+    margin:auto;
     /* 设置过渡 */
     transition: 0.35s;
 }
 .card .text{
     position: absolute;
-    top: 30px;
-    left: 30px;
-    bottom: 30px;
-    right: 30px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
     padding: 0 18px;
+    
 }
 .card .text::before{
     content: "";
@@ -52,7 +62,7 @@ export default
     bottom: 0;
     right: 0;
     left: 100%;
-    border-left: 4px solid rgba(255,255,255,0.8);
+    /* border-left: 10px solid rgba(255,255,255); */
     background-color: rgba(255,255,255,0.5);
     opacity: 0;
     /* 过渡 */
@@ -63,8 +73,12 @@ export default
 .card .text h2,
 .card .text p{
     margin-bottom: 6px;
+    margin-left: 6px;
     opacity: 0;
     transition: 0.35s;
+}
+.card .text h2 {
+    margin-top: 2em;
 }
 .card .text h2{
     font-weight: 300;
@@ -80,8 +94,11 @@ export default
     transform: translate(0%,30%);
 }
 /* 悬停样式开始 */
+/* .card:hover {
+   transform: scale(1.1)  
+} */
 .card:hover img{
-    opacity: 0.3;
+    /* opacity: 0.3; */
 }
 .card:hover .text h2{
     opacity: 1;
@@ -94,13 +111,13 @@ export default
     transition-delay: 0.6s;
 }
 .card:hover .text::before{
-    background-color: rgba(255,255,255,0);
+    background-color: rgba(0,0,0,0.7);
     left: 0;
     opacity: 1;
     transition-delay: 0s;
 }
 
-/* * {
+* {
     color: #fff;
-} */
+}
 </style>
