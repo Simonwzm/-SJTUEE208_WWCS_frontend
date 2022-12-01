@@ -4,6 +4,7 @@
     <!-- <leftSideBar /> -->
     <TestNavBar />
     <router-view/>
+    <!-- <PicContainer /> -->
   </div>
 </template>
 
@@ -11,7 +12,7 @@
 
 #app {
   height: 100%;
-  
+
 }
 </style>
 
@@ -23,6 +24,7 @@ export default
   {
     NavBar: () => import('@/components/NavBar.vue'),
     leftSideBar: () => import('@/components/LeftSideBar.vue'),
+    // PicContainer: () => import('@/components/PicContainer.vue'),
     TestNavBar: () => import('@/components/TestNavBar.vue'),
   }
 }

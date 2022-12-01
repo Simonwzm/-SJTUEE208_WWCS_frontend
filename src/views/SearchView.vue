@@ -7,6 +7,7 @@
         enter-button
         size="large"
          />
+      <a-button class="test-button" @click="changeList" style="width:30%; float:right;">test switch</a-button>
       </div>
       <div class="more-searchbox mt-6 h-3/4 ">
           <a-input-group size="large" >
@@ -131,7 +132,7 @@ export default {
   data() {
     return {
       listData,
-      isListAnswer: false,
+      isListAnswer: true,
       pagination: {
         onChange: page => {
           console.log(page);
@@ -148,6 +149,9 @@ export default {
   methods: {
     callback(key) {
       console.log(key);
+    },
+    changeList() {
+      this.isListAnswer = !this.isListAnswer;
     },
   },
 };
