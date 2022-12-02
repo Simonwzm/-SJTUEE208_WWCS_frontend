@@ -4,8 +4,8 @@
     <div class="nav-left h-full inline-block w-1/5 text-left pl-8 text-2xl" style="font-family: 'Freehand';line-height: 9vh; margin-left: 20px">NewsHub</div>
     <div class="nav">
         <ul class="text-lg text-stone">
-            <li><router-link to="/search">Search</router-link></li>
-            <li><a href="#">Unavailable</a></li>
+            <li><router-link to="/search">Text Search</router-link></li>
+            <li><router-link to="/picsearch">Pic Search</router-link></li>
             <li><a href="#">Unavailable</a></li>
             <li><a href="#">Unavailable</a></li>
             <li><a href="#">Unavailable</a></li>

@@ -1,5 +1,5 @@
 <template>
-  	<body class=" shell h-100vh w-screen container overflow-y-scroll overflow-x-hidden" style='margin-top:6em;' >
+  	<body class=" shell h-100vh w-screen container overflow-y-scroll overflow-x-hidden" style='margin-top: 6em;'>
 
 		<!-- Main -->
 		<div id="main" style="z-index:3; ;position:relative; float:right; padding-top:1em;">
@@ -21,6 +21,7 @@
 
 				<!-- Thumbnail -->
 					<section id="thumbnails">
+						<h1>留空</h1>
 						<!-- <article>
 							<a class="thumbnail" href="" data-position="left center"><img src="../assets/thumbs/01.jpg" alt="" /></a>
 							<h2>Diam tempus accumsan</h2>
@@ -88,11 +89,11 @@
 					
 					
 					<!-- Footer -->
-					<footer id="footer">
+					<!-- <footer id="footer">
 						<ul class="copyright">
 							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
 						</ul>
-					</footer>
+					</footer> -->
 					
 				</div>
 			<div class="inner-shell" style="width:100%; height: 80vh; margin-top:2vh;">
@@ -103,9 +104,9 @@
 					<div class="toggle"></div>
 				</div>
 				<div class="slide active">
-					<div class="image" >
-						<img src="@/assets/bg5.jpg" alt="" style="z-index:3; height:100%; margin:auto;" >
-						<div class="caption" >
+					<div class="image" v-bind:class="{'EmptyState': isEmpty}">
+						<img :src="srcPic" alt="" style="z-index:3; height:100%; margin:auto;" >
+						<div class="caption" v-if="!isEmpty">
 							<h2 style="z-index:5; colr:black;">Diam tempus accumsan</h2>
 							<p style="z-index:5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						</div>
@@ -121,7 +122,9 @@
 							:title="item.title"
 							:description="item.description"
 							:url="item.url"
+							:id="index"
 							style="display:flex;flex-grow: 1;margin: 10px;"
+							@sendID="changePic"
 							>
 						</PicContainer>
 					</div>
@@ -168,6 +171,8 @@ export default {
 			{url:'@/assets/bg3.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
 		],
 		referHight: 140,  // refer height for each pic in const height waterfall layout
+		srcPic: '',
+		isEmpty: true,
 		}
 	},
 	
@@ -206,13 +211,26 @@ export default {
       // getPicUrl();
       this.getPicWidth();
       this.scalePic();
-      this.isListAnswer = !this.isListAnswer;
+    //   this.isListAnswer = !this.isListAnswer;
     },
+	changePic(id) {
+		console.log(id)
+
+        this.srcPic = require('@/assets/'+this.picUrlArr[id].url.slice(9, this.picUrlArr[id].url.length));
+		// this.srcPic = this.picUrlArr[id].url
+	}
   },
-  mounted() {
+  created() {
 	// this.getPicUrl();
 	this.getPicWidth();
 	this.scalePic();
+	// if picUrlArr is empty, isEmpty is true
+	if (this.picUrlArr.length == 0) {
+		this.isEmpty = true;
+	} else {
+		this.isEmpty = false;
+		this.srcPic= require('@/assets/'+this.picUrlArr[0].url.slice(9, this.picUrlArr[0].url.length));
+	}
   },
 }
 </script>
@@ -232,24 +250,32 @@ background-position: left center;
 width:calc(100vw - 315px); 
 height: 75vh; position: relative; 
 overflow:hidden; 
-background-color:#d6d4d1; border-radius: 8px;
+background-color:#f5f4f3; border-radius: 8px;
 }
 .caption {
 	position: absolute; bottom:-20vh; left: 0; z-index:4; color:black; ; width:100%; height:20vh;
 /* background:linear-gradient(to top,rgba(0,0,0.8) , rgba(0,0,0,0.1)); */
-	background:hsla(0,0%,100%,.3);
+	background:linear-gradient(to top, hsla(0,0%,100%,.3), transparent);
+	color:black;
+	/* background:hsla(0,0%,100%,.3); */
 	padding: 2em 3em;
 	transition: 0.55s;
     transition-delay: 0.3s;
 
 }
+
+.image, .EmptyState {
+
+}
+
 .caption:before{
   content:'';
   position:absolute;
   left: 0;bottom: 0;
-  filter:blur(4px);
+  filter:blur(60px);
   background: hsl(20,40%,90%) fixed;
   width: 100%;
+  height:100%;
   /* background-image:linear-gradient(90deg,#fb3 11px,transparent 0),
   linear-gradient(90deg,#ab4 23px,transparent 0),
   linear-gradient(90deg,#655 41px,transparent 0);
@@ -263,6 +289,13 @@ background-color:#d6d4d1; border-radius: 8px;
 	transform: translate(0%, -100%);
 	transition-duration: 0.2s;
     transition-delay: 0;
+}
+.EmptyState {
+  background:
+      linear-gradient(217deg, rgba(255,0,0,.5), rgba(255,0,0,0) 70.71%),
+      linear-gradient(127deg, rgba(0,255,0,.5), rgba(0,255,0,0) 70.71%),
+      linear-gradient(336deg, rgba(0,0,255,.5), rgba(0,0,255,0) 70.71%);
+    border-radius: 8px;
 }
 /* .image:hover .caption::before{
 	transform: translate(0%, 100%);

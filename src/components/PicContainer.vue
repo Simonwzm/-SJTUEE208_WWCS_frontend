@@ -1,5 +1,5 @@
 <template>
-    <div class="card" v-bind:style="{ width: nowWidth + 'px' ,height: 150+'px'}">
+    <div class="card" v-bind:style="{ width: nowWidth + 'px' ,height: 150+'px'}" @click="sendID">
         <img :src='src' alt="Pic failed to load">
         <div class="text" >
             <h2>{{title}}</h2>
@@ -17,12 +17,17 @@ export default
 
         }
     },
-    props: ['nowWidth', 'title','description','url'],
+    props: ['nowWidth', 'title','description','url', 'id'],
     computed: {
         src() {
             return require('@/assets/' + this.url.slice(9, this.url.length));
         }
-    }
+    },
+    methods: {
+        sendID() {
+            this.$emit('sendID', this.id);
+        }
+    },
 }
 </script>
 

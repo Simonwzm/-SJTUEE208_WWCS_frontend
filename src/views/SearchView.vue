@@ -79,7 +79,8 @@
         </div>
     </div>
     
-    <HR style="z-index: -1;FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="80%" color=#987cb9 SIZE=1></HR>
+    <!-- <HR style="z-index: -1;FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#987cb9,direction:145,strength:15)" width="80%" color=#987cb9 SIZE=1></HR> -->
+    <HR style="z-index: -1;"></HR>
 
     <div class="right-container w-1/4 mx-12 float-right h-3/4 " style="width:30%;">
       <div style="margin-top:-44px; z-index:12;">

@@ -6,11 +6,12 @@
       :file-list="fileList"
       @preview="handlePreview"
       @change="handleChange"
+      class="pic-uploader"
       style="width: 100%; height:100%"
     >
       <div v-if="(fileList.length < 1)" style="width:200px; height:200px;">
-        <a-icon type="plus"  style="margin:auto;"/>
-        <div class="ant-upload-text">
+        <a-icon type="plus"  style="margin-top:45px;margin-bottom:-20px; width: 80px;height:80px" />
+        <div class="ant-upload-text" style="width:60px;height:60px;font-size:16px;margin-bottom:20px;margin-left:auto;margin-right:auto;">
           Upload
         </div>
       </div>
@@ -97,9 +98,21 @@ export default {
 } */
 /* you can make up upload button and sample style by using stylesheets */
 .ant-upload-select-picture-card i {
-  font-size: 32px;
-  color: #999;
+  font-size: 45px;
 
+    width: 200px;
+    height: 200px;
+  /* color: #999; */
+
+}
+.pic-uploader > .ant-upload {
+    width: 200px;
+    height: 200px;
+  background:
+      linear-gradient(217deg, rgba(255,0,0,.5), rgba(255,0,0,0) 70.71%),
+      linear-gradient(127deg, rgba(0,255,0,.5), rgba(0,255,0,0) 70.71%),
+      linear-gradient(336deg, rgba(0,0,255,.5), rgba(0,0,255,0) 70.71%);
+    border-radius: 8px;
 }
 
 .ant-upload-select-picture-card .ant-upload-text {
