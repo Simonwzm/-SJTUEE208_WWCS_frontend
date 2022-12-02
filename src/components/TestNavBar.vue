@@ -4,12 +4,12 @@
     <div class="nav-left h-full inline-block w-1/5 text-left pl-8 text-2xl" style="font-family: 'Freehand';line-height: 9vh; margin-left: 20px">NewsHub</div>
     <div class="nav">
         <ul class="text-lg text-stone">
-            <li><a href="#">HTML</a></li>
-            <li><a href="#">CSS</a></li>
-            <li><a href="#">JS</a></li>
-            <li><a href="#">Jquery</a></li>
-            <li><a href="#">VUE</a></li>
-            <li><a href="#">PHP</a></li>
+            <li><router-link to="/search">Search</router-link></li>
+            <li><a href="#">Unavailable</a></li>
+            <li><a href="#">Unavailable</a></li>
+            <li><a href="#">Unavailable</a></li>
+            <li><a href="#">Unavailable</a></li>
+            <li><a href="#">Unavailable</a></li>
             <div class="nav-box"></div>
         </ul>
     </div>

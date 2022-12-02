@@ -7,18 +7,18 @@ import Playground from '../views/Playground.vue'
 Vue.use(VueRouter)
 
 const routes = [
-  {
-    path: '/',
-    name: 'home',
-    component: HomeView
-  },
+  // {
+  //   path: '/',
+  //   name: 'home',
+  //   component: HomeView
+  // },
   {
     path: '/search',
     name: 'search',
     component: SearchView
   },
   {
-    path: '/test',
+    path: '/',
     name: 'test',
     component: TestView
   },
