@@ -1,10 +1,9 @@
 <template>
-  	<body class="is-preload-0 is-preload-1 is-preload-2">
+  	<body class=" shell h-100vh w-screen container overflow-y-scroll" style='margin-top:6em;' >
 
 		<!-- Main -->
-		<div class="shell" style="width:100%; height: 100vw; margin-top: 9vh;">
-			<div id="main" style="z-index:3;">
-
+		<div id="main" style="z-index:3; ;position:relative; float:right;">
+			
 				<!-- Header -->
 					<header id="header">
 						<h1>Lens</h1>
@@ -81,17 +80,18 @@
 							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
 						</article>
 					</section>
-
-
-				<!-- Footer -->
+					
+					
+					<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
 							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
 						</ul>
 					</footer>
-
-			</div>
-			<div id="new-viewer">
+					
+				</div>
+			<div class="inner-shell" style="width:100%; height: 80vh; padding-top: 30px; ">
+				<div id="new-viewer" >
 				<div class="inner">
 					<div class="nav-next"></div>
 					<div class="nav-previous"></div>
@@ -105,6 +105,9 @@
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						</div>
 					</div>
+				</div>
+				<div class="scroll-x bg-black" style="width:100%;height:20vh;">
+					
 				</div>
 			</div>
 
