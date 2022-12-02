@@ -12,7 +12,20 @@
 
 #app {
   height: 100%;
+  
+}
 
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+*{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+router-view {
+  overflow-x:hidden;
 }
 </style>
 

@@ -24,6 +24,7 @@ export default {
 </script>
 
 <style scoped>
+
         .con {
             width: 100vw;
             height: 9vh;
