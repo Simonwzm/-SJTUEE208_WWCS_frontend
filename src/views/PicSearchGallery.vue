@@ -107,7 +107,7 @@
 					<div class="image" v-bind:class="{'EmptyState': isEmpty}">
 						<img :src="srcPic" alt="" style="z-index:3; height:100%; margin:auto;" >
 						<div class="caption" v-if="!isEmpty">
-							<h2 style="z-index:5; colr:black;">Diam tempus accumsan</h2>
+							<h2 style="z-index:5; color:white;">Diam tempus accumsan</h2>
 							<p style="z-index:5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						</div>
 					</div>
@@ -255,8 +255,8 @@ background-color:#f5f4f3; border-radius: 8px;
 .caption {
 	position: absolute; bottom:-20vh; left: 0; z-index:4; color:black; ; width:100%; height:20vh;
 /* background:linear-gradient(to top,rgba(0,0,0.8) , rgba(0,0,0,0.1)); */
-	background:linear-gradient(to top, hsla(0,0%,100%,.3), transparent);
-	color:black;
+	background:linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+	color:white;
 	/* background:hsla(0,0%,100%,.3); */
 	padding: 2em 3em;
 	transition: 0.55s;
@@ -273,7 +273,7 @@ background-color:#f5f4f3; border-radius: 8px;
   position:absolute;
   left: 0;bottom: 0;
   filter:blur(60px);
-  background: hsl(20,40%,90%) fixed;
+  background: rgb(32, 30, 30) fixed;
   width: 100%;
   height:100%;
   /* background-image:linear-gradient(90deg,#fb3 11px,transparent 0),

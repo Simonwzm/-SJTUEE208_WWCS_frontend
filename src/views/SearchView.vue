@@ -1,14 +1,22 @@
 <template>
     <div class="shell h-full w-screen container" style="position:relative">
-    <div class="search-container h-1/5 overflow-hidden mt-24 mx-12 z-10" style="position:sticky; top:2em;">
-      <div class="main-searchbox " style="width:60%">
+    <div class="search-container h-1/5 overflow-hidden mt-24 mx-12 z-10" style="position:sticky; top:calc(2em - 8px);">
+      <div class="main-searchbox " style="width:100%">
+        <div class="c" style="width:60%;">
+
         <a-input-search 
         placeholder="input search loading with enterButton"  
         enter-button
         size="large"
          />
         </div>
-        <a-button class="test-button" @click="changeList" style="width:30%; float:right;">test switch</a-button>
+         <div class="btnBox" style="width:35%; float:right; display:flex;justify-content: space-evenly;">
+
+           <a-button class="test-button" @click="changeList" >test switch</a-button>
+           <a-button class="test-button" @click="changeList" >test switch</a-button>
+           <a-button class="test-button" @click="changeList" >test switch</a-button>
+         </div>
+        </div>
       <div class="more-searchbox mt-6 h-3/4 ">
           <a-input-group size="large" >
           <a-row :gutter="20">
@@ -85,7 +93,7 @@
     <div class="right-container w-1/4 mx-12 float-right h-3/4 " style="width:30%;">
       <div style="margin-top:-44px; z-index:12;">
           <a-tabs default-active-key="1" @change="callback" style="z-index:12">
-            <a-tab-pane key="1" tab="Tab 1" style="z-index:12">
+            <a-tab-pane key="1" tab="extension 1" style="z-index:12">
               <a-card hoverable style="width: 300px">
                   <img
                     slot="cover"
@@ -105,7 +113,7 @@
                   </a-card-meta>
                 </a-card>
             </a-tab-pane>
-            <a-tab-pane key="2" tab="Tab 2" force-render style="z-index:12">
+            <a-tab-pane key="2" tab="extension 2" force-render style="z-index:12">
               <template>
                 <a-card hoverable style="width: 240px">
                   <img
@@ -122,7 +130,7 @@
               </template>
 
             </a-tab-pane>
-            <a-tab-pane key="3" tab="Tab 3" style="z-index:12">
+            <a-tab-pane key="3" tab="extension 3" style="z-index:12">
               Content of Tab Pane 3
             </a-tab-pane>
           </a-tabs>
