@@ -161,6 +161,13 @@ export default {
         {url:'@/assets/bg1.png', title:'1', description:'2', originalWidth:NaN, nowWidth:NaN},
         {url:'@/assets/bg2.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
         {url:'@/assets/bg3.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg01.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg02.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg03.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/logo.png', title:'1', description:'2', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg1.png', title:'1', description:'2', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg2.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
+        {url:'@/assets/bg3.png', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
     ],
       // picRow: [{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',},{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',}], // 
       referHight: 150,  // refer height for each pic in const height waterfall layout
