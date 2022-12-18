@@ -22,6 +22,9 @@
 				<!-- Thumbnail -->
 					<section id="thumbnails">
 						<h1>留空</h1>
+						<input class="file" name="file" type="file" accept="image/png,image/gif,image/jpeg" @change="update"/>
+						
+
 						<!-- <article>
 							<a class="thumbnail" href="" data-position="left center"><img src="../assets/thumbs/01.jpg" alt="" /></a>
 							<h2>Diam tempus accumsan</h2>
@@ -146,6 +149,7 @@
 import $ from 'jquery'
 import jQuery from 'jquery';
 import breakpoints from '@/assets/js/breakpoints.min.js'
+import axios from 'axios'
 export default {
     name : 'picSearchGallery',
 	components: {
@@ -177,6 +181,25 @@ export default {
 	},
 	
 	methods: {
+      update(e){
+        let file = e.target.files[0];
+        let param = new FormData(); //创建form对象
+        param.append('file',file);//通过append向form对象添加数据
+        console.log(param.get('file')); //FormData私有类对象，访问不到，可以通过get判断值是否传进去
+        this.$axios.post('http://127.0.0.1:5000/upload',param,{headers:{'Content-Type':'application/x-www-form-urlencoded' }}, ) //请求头要为表单
+          .then(response=>{
+            console.log(response.data);
+			console.log('success')
+          })
+          .catch(function (error) {
+            console.log(error);
+			console.log('error')
+          })
+      },
+
+
+    
+
     getPicUrl() {
       axios.get('http://localhost:8080/picUrl').then((res) => {
         console.log(res.data);

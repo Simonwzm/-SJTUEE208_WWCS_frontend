@@ -7,8 +7,12 @@
         <a-input-search 
         placeholder="input search loading with enterButton"  
         enter-button
+		@search="onSearch"
         size="large"
+		v-model="searchInput"
          />
+
+
         </div>
          <div class="btnBox" style="width:35%; float:right; display:flex;justify-content: space-evenly;">
 
@@ -21,13 +25,13 @@
           <a-input-group size="large" >
           <a-row :gutter="20">
             <a-col :span="4">
-              <a-input addon-before="Http://" placeholder="input website" />
+              <a-input addon-before="Http://" placeholder="input website" v-model="url"/>
             </a-col>
             <a-col :span="4">
-              <a-input addon-before="title" ></a-input>
+              <a-input addon-before="title" v-model="title"></a-input>
             </a-col>
             <a-col :span="4">
-              <a-date-picker placeholder="select date" />
+              <a-date-picker valueFormat="YYYY-MM-DD" placeholder="select date" v-model="date"/>
             </a-col>
             <a-button type="primary">More</a-button>
           </a-row>
@@ -162,6 +166,10 @@ export default {
     },
   data() {
     return {
+		searchInput: '',
+		url:'',
+		title:'',
+		date:undefined,
       picUrlArr: [
         {url:'@/assets/bg01.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
         {url:'@/assets/bg02.jpg', title:'1', description:'1', originalWidth:NaN, nowWidth:NaN},
@@ -197,6 +205,31 @@ export default {
     };
   },
   methods: {
+
+	// get the value in inputbox
+	onSearch(){
+		//alert(this.searchInput);
+		//alert(this.url);
+		//alert(this.title);
+		//alert(this.date);
+		axios.post('http://127.0.0.1:5000/search', {
+			url: this.url,
+			title: this.title,
+			date: this.date,
+			keyword: this.searchInput,
+		})
+		.then(function (response) {
+			console.log(response);
+		})
+	},
+	test(){
+		this.$http.post('http://127.0.0.1:5000/search')
+		.then(response => {
+			this.demo = response.data;
+			console.log(response.data);
+		})
+	},
+
     callback(key) {
       console.log(key);
     },
