@@ -36,7 +36,11 @@ def run(searcher, analyzer,command,site='',date=["0000","00","00"],title_only=0)
         unit_dict["source"]=doc.get("webname")
         unit_dict["url"]=doc.get("url")
         try:
+
             unit_dict["content"]=doc.get("content")
+
+            if unit_dict["content"]==None:
+                unit_dict["content"]=doc.get("contentEnglish")
         except:
             unit_dict["contentEnglish"]=doc.get("contentEnglish")
         unit_dict["img"]=doc.get("image")

@@ -234,19 +234,20 @@ export default {
       console.log(response)
       for (let el in response.data) {
         console.log(response.data[el])
+        let ava = ''
         if (response.data[el].source == 'cnn') {
-          let avatar = '@/assets/avatar/CNN.jpg'
+          let ava = '@/assets/avatar/CNN.jpg'
         }
         else if (response.data[el].source == 'sina') {
-          let avatar = '@/assets/avatar/sina.jpg'
+          let ava = '@/assets/avatar/sina.jpg'
         }
         else if (response.data[el].source == 'stdaily') {
-          let avatar = '@/assets/avatar/stdaily.jpg'
+          let ava = '@/assets/avatar/stdaily.jpg'
         }
         that.listData.push({
           href: response.data[el].url,
           title: response.data[el].title,
-          avatar:avatar,
+          avatar:ava,
           content: that.hasChinese? response.data[el].content : response.data[el].contentEnglish,
         });
       }
