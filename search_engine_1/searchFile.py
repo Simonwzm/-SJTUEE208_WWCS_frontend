@@ -3,6 +3,7 @@
 INDEX_DIR = "IndexFiles.index"
 
 import sys, os, lucene
+import jpype
 
 from java.util import HashMap
 from java.io import File
@@ -75,7 +76,11 @@ def is_Chinese(query):
 
 def main(command,site,date,title_only):
     STORE_DIR = "./search_engine_1/index"
-    lucene.initVM(vmargs=['-Djava.awt.headless=true'])
+    try:
+        vm_env = lucene.initVM(vmargs=['-Djava.awt.headless=true'])
+    except:
+        vm_env = lucene.getVMEnv()
+    vm_env.attachCurrentThread()
     #base_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
     directory = SimpleFSDirectory(File(STORE_DIR).toPath())
     searcher = IndexSearcher(DirectoryReader.open(directory))
