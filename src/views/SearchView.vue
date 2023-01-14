@@ -1,5 +1,20 @@
 <template>
     <div class="shell h-full w-screen container" style="position:relative">
+
+  
+    <div>
+      <a-modal v-model="visible" title="Basic Modal" @ok="handleOk">
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+        <p>Some contents...</p>
+      </a-modal>
+    </div>
     <div class="search-container h-1/5 overflow-hidden mt-24 mx-12 z-10" style="position:sticky; top:calc(2em - 8px);">
       <div class="main-searchbox " style="width:100%">
         <div class="c" style="width:60%;">
@@ -63,7 +78,12 @@
                     <a-avatar slot="avatar" :src="item.avatar"  />
                 </a-list-item-meta>
                 {{ item.content }}
+
+        <a-button type="primary" @click="showModal(index)">
+          Learn More
+        </a-button>
                 </a-list-item>
+
             <!-- <a-pagination :total="50" style="margin-top: 32px; text-align: center" /> -->
             </a-list>
         </div>
@@ -155,6 +175,7 @@ export default {
     },
   data() {
     return {
+  visible: false,
 		searchInput: '',
 		url:'',
 		title:'',
@@ -315,6 +336,14 @@ export default {
       this.getPicWidth();
       this.scalePic();
       this.isListAnswer = !this.isListAnswer;
+    },
+    showModal(index) {
+      console.log(index);
+      this.visible = true;
+    },
+    handleOk(e) {
+      console.log(e);
+      this.visible = false;
     },
   },
 };

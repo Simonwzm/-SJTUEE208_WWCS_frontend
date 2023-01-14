@@ -34,9 +34,7 @@ def run(searcher, analyzer,command,site='',date=["0000","00","00"],title_only=0)
         if(site and doc.get("webname")!=site or date and (doc.get("time")[0:4]!=date[0] or doc.get("time")[5:7]!=date[1] or doc.get("time")[8:10]!=date[2]) ):
             continue
         unit_dict["source"]=doc.get("webname")
-        print(unit_dict["source"])
         unit_dict["url"]=doc.get("url")
-        print(unit_dict["url"])
         try:
             unit_dict["content"]=doc.get("content")
             fullcontent=doc.get("content")
@@ -65,7 +63,6 @@ def run(searcher, analyzer,command,site='',date=["0000","00","00"],title_only=0)
         unit_dict["date"]=doc.get("time")
         unit_dict["title"]=doc.get("title")
         tar_list.append(unit_dict)
-        print(tar_list)
     return tar_list
 
 def is_Chinese(query):
