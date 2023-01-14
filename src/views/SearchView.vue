@@ -144,18 +144,7 @@
 </template>
 <script>
 /* eslint-disable */
-const listData = [];
-for (let i = 0; i < 23; i++) {
-  listData.push({
-    href: 'https://www.antdv.com/',
-    title: `ant design vue part ${i}`,
-    avatar: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
-    description:
-      'Ant Design, a design language for background applications, is refined by Ant UED Team.',
-    content:
-      'We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.',
-  });
-}
+// const listData = [];
 
 import axios from 'axios';
 export default {
@@ -189,7 +178,7 @@ export default {
       // picRow: [{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',},{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',}], // 
       referHight: 150,  // refer height for each pic in const height waterfall layout
 
-      listData,
+      listData: [],
       isListAnswer: true,
       pagination: {
         onChange: page => {
@@ -204,6 +193,23 @@ export default {
       ],
     };
   },
+  computed: {
+    hasTitle() {
+      if (this.title == '') {
+        return false;
+      } else {
+        return true;
+      }
+    },
+    hasChinese() {
+      var pattern = new RegExp("[\u4E00-\u9FA5]+");
+      if (pattern.test(this.searchInput) || pattern.test(this.title)) {
+        return true;
+      } else {
+        return false;
+      }
+    },
+  },
   methods: {
 
 	// get the value in inputbox
@@ -212,21 +218,56 @@ export default {
 		//alert(this.url);
 		//alert(this.title);
 		//alert(this.date);
+    let that = this;
+
+    var pattern = new RegExp("[\u4E00-\u9FA5]+");
+    console.log(this.hasTitle)
 		axios.post('http://127.0.0.1:5000/search', {
 			url: this.url,
 			title: this.title,
 			date: this.date,
+      hasTitle: this.hasTitle,
 			keyword: this.searchInput,
+      
 		})
 		.then(function (response) {
-			console.log(response);
+      console.log(response)
+      for (let el in response.data) {
+        console.log(response.data[el])
+        if (response.data[el].source == 'cnn') {
+          let avatar = '@/assets/avatar/CNN.jpg'
+        }
+        else if (response.data[el].source == 'sina') {
+          let avatar = '@/assets/avatar/sina.jpg'
+        }
+        else if (response.data[el].source == 'stdaily') {
+          let avatar = '@/assets/avatar/stdaily.jpg'
+        }
+        that.listData.push({
+          href: response.data[el].url,
+          title: response.data[el].title,
+          avatar:avatar,
+          content: that.hasChinese? response.data[el].content : response.data[el].contentEnglish,
+        });
+      }
 		})
 	},
 	test(){
-		this.$http.post('http://127.0.0.1:5000/search')
+    let that = this
+    this.$http.post('http://127.0.0.1:5000/search')
 		.then(response => {
-			this.demo = response.data;
-			console.log(response.data);
+      for (let i = 0; i < 23; i++) {
+        console.log('here')
+        that.listData.push({
+          href: 'https://www.antdv.com/',
+          title: `ant design vue part ${i}`,
+          avatar: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+          description:
+            'Ant Design, a design language for background applications, is refined by Ant UED Team.',
+          content:
+            'We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently.',
+        });
+}
 		})
 	},
 
