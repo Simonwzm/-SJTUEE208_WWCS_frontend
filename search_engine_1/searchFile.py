@@ -34,19 +34,38 @@ def run(searcher, analyzer,command,site='',date=["0000","00","00"],title_only=0)
         if(site and doc.get("webname")!=site or date and (doc.get("time")[0:4]!=date[0] or doc.get("time")[5:7]!=date[1] or doc.get("time")[8:10]!=date[2]) ):
             continue
         unit_dict["source"]=doc.get("webname")
+        print(unit_dict["source"])
         unit_dict["url"]=doc.get("url")
+        print(unit_dict["url"])
         try:
-
             unit_dict["content"]=doc.get("content")
-
-            if unit_dict["content"]==None:
-                unit_dict["content"]=doc.get("contentEnglish")
-        except:
+            fullcontent=doc.get("content")
             unit_dict["contentEnglish"]=doc.get("contentEnglish")
+            if not fullcontent:
+                fullcontent=doc.get("contentEnglish")
+        except:
+            # unit_dict["contentEnglish"]=doc.get("contentEnglish")
+            pass
+        try:
+            length=len(fullcontent)
+            pos=fullcontent.find(command)
+        except:
+            continue
+        if pos<30:
+            st=0
+        else:
+            st=pos-30
+        if length-pos<30:
+            ed=length
+        else:
+            ed=pos+30
+        nearbycontents=fullcontent[st:ed]
+        unit_dict["para"]=nearbycontents
         unit_dict["img"]=doc.get("image")
         unit_dict["date"]=doc.get("time")
         unit_dict["title"]=doc.get("title")
         tar_list.append(unit_dict)
+        print(tar_list)
     return tar_list
 
 def is_Chinese(query):

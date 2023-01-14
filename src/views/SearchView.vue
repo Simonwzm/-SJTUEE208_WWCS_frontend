@@ -218,6 +218,8 @@ export default {
 		//alert(this.url);
 		//alert(this.title);
 		//alert(this.date);
+    //clear listData
+    this.listData = [];
     let that = this;
 
     var pattern = new RegExp("[\u4E00-\u9FA5]+");
@@ -248,7 +250,9 @@ export default {
           href: response.data[el].url,
           title: response.data[el].title,
           avatar:ava,
-          content: that.hasChinese? response.data[el].content : response.data[el].contentEnglish,
+          // content: that.hasChinese? response.data[el].content : response.data[el].contentEnglish,
+          content: response.data[el].para,
+          fullcontent:response.data[el].content,
         });
       }
 		})
