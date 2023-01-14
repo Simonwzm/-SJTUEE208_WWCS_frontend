@@ -1,0 +1,9 @@
+(CNN Business) For those who don't think Zoom meetings are a good enough substitute for the real thing, Facebook has another idea: a virtual reality app that lets you and your coworkers feel like you're sitting around a table in a conference room.
+
+Facebook FB On Thursday,unveiled Horizon Workrooms , a free app for users of its Oculus Quest 2 headset, a device that starts at $299. The app stands out as the company's most ambitious effort yet to enable groups to socialize in VR and move the still niche medium beyond entertainment uses such as gaming.
+
+Workrooms allows up to 16 VR headset users to meet in a virtual conference room, with each of them represented by a customizable cartoon-like avatar that appears as just an upper body floating slightly above a virtual chair at a table. The app supports up to 50 participants in a single meeting, with the rest able to join as video callers who appear in a grid-like flat screen inside the virtual meeting room.
+
+Headset-wearing meeting participants can use their actual fingers and hands to gesticulate in VR, and their avatars' mouths appear to move in lifelike ways while they speak. A virtual whiteboard lets people share pictures or make presentations.
+
+"The pandemic in the last 18 months has only given us greater confidence in the importance of this as a technology," Andrew Bosworth, VP of Facebook Reality Labs, said while addressing a (virtual) room of about a dozen people on Tuesday. He said Facebook has been using the app internally for about a year.

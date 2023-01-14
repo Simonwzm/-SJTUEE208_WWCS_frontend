@@ -1,0 +1,57 @@
+London CNN Business —
+
+Austrian lawyer Max Schrems is good at making life difficult for Big Tech. But his latest case could have major implications for all sorts of companies.
+
+The privacy activist notched a major legal victory in 2015, when he convinced Europe’s top court to invalidate a data sharing agreement with the United States.
+
+A second related case, which will be heard starting Tuesday at the European Court of Justice, could wipe out two more mechanisms that allow companies to move personal data from the European Union to the United States.
+
+The original target was Facebook (FB). But Omer Tene, chief knowledge officer at the International Association of Privacy Professionals, said the case has huge potential implications for other companies.
+
+If the court issues a broad ruling that has the effect of restricting data flows, Tene said “the disruption to businesses particularly in the European digital economy will be massive.”
+
+“Businesses are watching this with a lot of anxiety,” he added.
+
+Privacy concerns
+
+In the 2015 case, Schrems convinced the court to strike down an agreement known as Safe Harbor that allowed EU data to flow to the United States.
+
+Thousands of companies relied on the agreement when transferring sensitive data such as personal information or payslips. The ruling meant European regulators could easily have stopped them from sharing data.
+
+Data transfers are essential for businesses, which rely on them for internal functions such as human resources and to understand their customers. Many companies — banks and tech firms, for example — need them to perform basic operations.
+
+Companies dodged the bullet, however, when the United States provided assurances that led to a new agreement, called Privacy Shield.
+
+The case starting on Tuesday, which some analysts are calling Schrems 2.0, could have implications for Privacy Shield and another method of data transfer known as Standard Contractual Clauses.
+
+“There is a significant risk the [court] will declare these transfer mechanisms as invalid,” law firm DLA Piper said in an analysis of the case.
+
+“If this happens, many organizations will be left without any practical solution to legitimize the international transfer of personal data,” it added.
+
+Companies could be exposed to substantial penalties under General Data Protection Regulation (GDPR), the tough privacy rules that came into force last year in the European Union.
+
+Any organization that holds or uses data on people inside the European Union is subject to the rules, regardless of where it is based. Companies that breach the law can be fined up to 4% of their annual revenue.
+
+Schrems originally filed his latest case with the Irish Data Protection Commissioner, which regulates Facebook in Europe. He argues that data sent by the social media giant would be exposed to US government snooping.
+
+The activist wants Facebook data transfers stopped.
+
+“We don’t have a problem with ‘Standard Contractual Clauses,’ we have a problem with enforcement,” he said in a statement.
+
+A final judgment in the case is expected sometime next year.
+
+Facebook in focus
+
+Facebook’s position is that the current protections are adequate.
+
+“We are grateful for the consideration of the Court of Justice of the European Union on these complex questions,” Facebook associate general counsel Jack Gilbert said in a statement.
+
+“Standard Contractual Clauses provide important safeguards to ensure that Europeans’ data are protected once transferred overseas,” he added.
+
+Paul Gallagher, another lawyer for Facebook, warned in court on Tuesday that “the effect on trade would be immense” if Standard Contractual Clauses were made invalid. He warned that annual EU service imports into the United States could decline by up to 24%.
+
+In the United States, some privacy advocates are hoping for a decision that leads to changes at home.
+
+“We’re hoping for a court ruling defending the fundamental right to privacy,” American Civil Liberties Union staff attorney Ashley Gorski told CNN Business.
+
+“If the court strikes down Privacy Shield because of the United States’ mass surveillance practices, it should lead to a significant push for congressional reform of US surveillance law,” she said.

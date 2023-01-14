@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200729092839-apple-google-amazon-facebook-stock.jpg?q=x_126,y_166,h_984,w_1749,c_crop/w_800

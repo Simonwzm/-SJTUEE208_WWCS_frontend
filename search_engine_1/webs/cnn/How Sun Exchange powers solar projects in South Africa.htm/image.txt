@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190923170738-sun-exchange-1.jpg?q=x_4,y_202,h_2192,w_3895,c_crop/w_800

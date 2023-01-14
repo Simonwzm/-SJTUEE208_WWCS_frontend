@@ -1,0 +1,11 @@
+(CNN) Tens of millions of current, former or prospective T-Mobile (TMUS) customers' personal information has been leaked to hackers, the wireless carrier said Tuesday, disclosing further details on a data breach it has been investigating since the weekend.
+
+The breach affects as many as 7.8 million postpaid subscribers, 850,000 prepaid customers and "just over" 40 million past or prospective customers who have applied for credit with T-Mobile, the company said in a post on its website.
+
+While no customer financial information appears to have been exposed, the stolen personal information includes names, dates of birth, Social Security numbers and driver's license numbers for "a subset of current and former postpay customers and prospective T-Mobile customers."
+
+The company is recommending that all T-Mobile postpaid customers preemptively change the PINs protecting their accounts, though it said it has no evidence those PINs have been compromised. Account PINs belonging to the 850,000 prepaid customers were compromised, however, and T-Mobile said it has unilaterally reset those PINs as a security precaution.
+
+Customers of other T-Mobile prepaid brands including Metro, Boost and former Sprint prepaid customers have not had their PINs or names exposed, T-Mobile added.
+
+Read More

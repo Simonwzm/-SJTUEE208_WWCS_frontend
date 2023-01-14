@@ -1,0 +1,27 @@
+CNN Business —
+
+Twitter (TWTR) is defending an employee whose 2016 and 2017 tweets criticizing President Trump came under scrutiny after Twitter (TWTR) appended a fact check message to false tweets by the President.
+
+Twitter’s move on Tuesday was the first time the company had put such a message on the President’s tweets directly, and Yoel Roth, Twitter’s head of site integrity, rapidly became the subject of backlash and allegations that he was ultimately responsible for appending the message to the President’s tweets.
+
+Fox News referred to Roth as a “Twitter exec in charge of effort to fact-check Trump,” and The Daily Mail referred to him as the head of the company’s fact-checking team. White House counselor Kellyanne Conway, in an appearance on “Fox & Friends” Wednesday morning, criticized Roth’s tweets and read his Twitter handle out on air and encouraged “someone in San Francisco to go wake him up and tell him he’s about to get more followers.”
+
+But Twitter pushed back Wednesday on the notion that Roth was solely responsible for or had the authority to make decisions about appending the message to President Trump’s tweets.
+
+“No one person at Twitter is responsible for our policies or enforcement actions, and it’s unfortunate to see individual employees targeted for company decisions,” a Twitter spokesperson said, adding that the company’s CEO Jack Dorsey “was informed, not a decision-maker.”
+
+The President’s tweets falsely claimed that the governor of California was sending out mail-in ballots to “anyone living in the state, no matter who they are or how they got there.” A Twitter spokesperson said the tweets contained “potentially misleading information about voting processes” and had been “labeled to provide additional context.” Twitter appended a message to each tweet that read “Get the facts about mail-in ballots” that linked to a curated fact-checking page populated with journalists and news article summaries debunking the claim.
+
+Roth is part of Twitter’s Trust and Safety team, which works to protect users and to build trust in the platform. Roth reports to Del Harvey, Twitter’s vice-president of trust and safety. Harvey in turn reports to Vijaya Gadde, Twitter’s legal, policy, trust, and safety lead, who reports to Dorsey. Gadde recently gave birth and is on maternity leave, and the company said her role is being covered by Sean Edgett, Twitter’s general counsel.
+
+Gadde tweeted in support, saying, “We are a team with different points of view and we stand behind our people and our decisions to protect the health of the public conversation on our platform.”
+
+Among the tweets critical of Trump, Roth tweeted on Election Day 2016, “I’m just saying, we fly over those states that voted for a racist tangerine for a reason.”
+
+A Twitter spokesperson told CNN Business that Twitter was handling press inquiries on behalf of Roth.
+
+Jon Levine, a New York Post reporter, tweeted screenshots of the old tweets on Tuesday night and they were later picked up by Fox News and the President’s two eldest sons.
+
+Last year at a Recode conference, Gadde (whose role is being filled by Edgett) gave some insight into how decisions, such as removing a user from a platform or adding a misinformation tag, are formed without Dorsey.
+
+“I cannot remember a time where I talked to Jack about a decision that we’re making. I inform Jack about a decision we’re making so if he’s going to read about it on Twitter or in the media, he’s aware of it,” Gadde said at the conference last year. “What I do involve, very deeply in conversations with Jack, is where our policies are going and how that ties very closely to the product and what we’re trying to build.”

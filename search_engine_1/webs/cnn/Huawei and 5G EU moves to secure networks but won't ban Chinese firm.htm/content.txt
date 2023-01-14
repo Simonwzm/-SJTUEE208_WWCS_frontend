@@ -1,0 +1,27 @@
+London CNN Business —
+
+The European Union has directed its member states to take steps to ensure their 5G networks are secure, but new guidelines published by the bloc on Wednesday stop well short of the blanket ban on China’s Huawei sought by the United States.
+
+EU countries should “apply relevant restrictions for suppliers considered to be high risk,” such as leaving them out of “critical and sensitive” functions, said the European Commission. But it did not bar specific suppliers altogether.
+
+It’s the second time in two days that Europe has diverged from the path of zero-tolerance for Huawei taken by the United States. The United Kingdom, which leaves the European Union this week, said Tuesday it would allow Huawei a limited and highly regulated role in its 5G networks.
+
+“We’re not picking on anybody,” European Commissioner Thierry Breton said at a press conference. “We’re not ostracizing firms.”
+
+The EU recommendations were unveiled as part of a “toolbox” designed to help member states secure their networks, which Margrethe Vestager, another top official at the European Commission, identified as an issue of “high strategic importance.”
+
+5G allows greater and faster data processing, and is seen as an integral component of new interconnected technologies such as automated vehicles and smart appliances. Huawei, which is a leader in the next-generation wireless technology and also one of the world’s biggest sellers of smartphones, has seen its business targeted in a concerted campaign by the United States.
+
+The Trump administration has asked allies to block Huawei from their 5G networks on national security grounds. Huawei has denied that its products pose a security risk.
+
+Huawei welcomed the EU announcement, saying it would enable the company to continue to participate in the roll-out of 5G in Europe.
+
+“This non-biased and fact-based approach towards 5G security allows Europe to have a more secure and faster 5G network,” it said in as statement.
+
+In the United Kingdom, the company will be excluded from “security critical” areas of the networks — those that identify customers or make decisions about routing traffic. But it will be able to supply mobile operators with less sensitive products such as radio technology and base stations, so long as its market share is limited to 35%.
+
+The United Kingdom was involved in the EU risk assessment. Breton said the bloc and Britain had developed parallel policies.
+
+“[The] UK was a very active partner in the process right through to last year,” he said.
+
+Attention now shifts to Germany, which still needs to make a decision on Huawei. German Chancellor Angela Merkel has been reluctant to exclude specific providers from the country’s 5G networks.

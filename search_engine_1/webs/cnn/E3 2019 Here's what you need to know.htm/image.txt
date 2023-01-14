@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190607184720-e3-2018.jpg?q=x_37,y_119,h_903,w_1604,c_crop/w_800

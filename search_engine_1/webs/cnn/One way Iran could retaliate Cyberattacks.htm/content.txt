@@ -1,0 +1,43 @@
+New York CNN Business —
+
+Iran has vowed revenge after a US air strike ordered by President Donald Trump killed the country’s top general Qasem Soleimani. One likely way it could retaliate is through cyber attacks, experts say.
+
+“Iran has a long history of politically motivated cyber attacks across the world,” Evercore analysts Ken Talanian and Kirk Materne wrote to investors in a note shared with CNN Business. “The attacks often follow closely to changes in [US] sanctions.”
+
+Iran’s Supreme Leader Ayatollah Ali Khamenei, has vowed “harsh revenge” for the killing of Soleimani, the head of the Islamic Revolutionary Guards Corps Quds Force and the country’s second most powerful leader. The Trump administration says Soleimani was to blame for deadly attacks in the Middle East.
+
+Soleimani was revered by Iran as a national hero.
+
+Of all the tools Tehran has to retaliate, including its large military, Iranian-backed proxies around the Middle East, and robust disinformation operations, experts believe it is likely to inflict damage through a cyber attack.
+
+“Killing Soleimani crossed a significant threshold in the US-Iran conflict,” said Kiersten Todt, managing director of the Cyber Readiness Institute. “Iranians will certainly try to retaliate — definitely in the region and they will also look at options in our homeland. Of the options available to them, cyber is most compelling.”
+
+Cyber attacks have a few advantages, Columbia University computer science professor Steven Bellovin told CNN Business. “First, they’re more deniable. If there is a missile attack on a US base or a diplomat is kidnapped, that’s much more easily traceable,” he said. “Second, it doesn’t risk your own personnel.”
+
+Iran possesses strong cyber capabilities, as history has shown. From late 2011 to mid-2013, Iranian hackers targeted major banks like JPMorgan Chase, Bank of America and Wells Fargo with large “denial of service” attacks, making it difficult for customers to log into their accounts and access their money.
+
+The banks were overwhelmed by huge amounts of traffic that caused their websites to crash. Seven Iranians were indicted in 2016 by a New York grand jury for the hacking. The seven were employed by two Iranian companies that worked for the Iranian government.
+
+Since those hacks, Iran’s “capabilities and resources have increased,” said Todt.
+
+In 2013, Iran hackers infiltrated the control system of a New York dam, raising concerns that American infrastructure could be quietly targeted. In 2018, nine Iranians were charged with hacking hundreds of universities and companies to steal their data and intellectual property.
+
+“We should expect an Iranian attempt against our infrastructure,” said Todt. “But the US government is aware of the intent and capabilities of Iran and is prepared for its response.”
+
+While Iran ranks below Russia and China in cyber capabilities, it has teams that can pull off recon and target analysis, Bryson Bort, CEO and founder of Scythe, a start-up building an attack emulation platform, told CNN Business. Besides “denial of service” attacks, Iran also has espionage, ransomware and destructive attacks at its disposal.
+
+Iran and American allies have dueled in cyberspace before. Nearly a decade ago, hackers believed to be from the United States and Israel, successfully infiltrated an Iranian nuclear facility and destroyed centrifuges, but it was never confirmed the Stuxnet worm came from the United States.
+
+Bellovin, the Columbia professor, said that Iran hackers likely wouldn’t be able to infiltrate tough targets like the NSA, CIA or tech giants like Google and Amazon. “But most companies aren’t as good as these,” he said.
+
+US businesses could be impacted if hackers target global supply chains and American infrastructure, such as electrical utilities, power grids, factories, bridges and dams.
+
+Many businesses would not be able to prepare for an Iranian cyber attack, experts say, but they can at least save data to another location and make sure the back-ups are working.
+
+“The most important thing to realize is that this is going to be a marathon not a sprint,” said Bellovin. “It might take Iran a few years to develop an attack against a particular target… will people stay alert for that long?”
+
+Talanian and Materne, the Evercore analysts, pointed out that Iran is said to care more about a hacker’s religious values and political loyalty to the government rather than how good they are as a hacker. “In theory, this could be a benefit to organizations trying to defend against these attacks,” the analysts wrote.
+
+Cybersecurity experts also say that hacking might only be one form of retaliation.
+
+“Iran has to find the proper response to save face, but not escalate the fight to traditional warfare,” said Bort. “I think we’ll see cyber activity increase because it’s easy to do, but it won’t feel settled for them until there has been an equivalent loss of life.”

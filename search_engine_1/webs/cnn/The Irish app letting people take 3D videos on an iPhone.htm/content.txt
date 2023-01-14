@@ -1,0 +1,13 @@
+(CNN Business) When you see a 3D image of a real person in a video game or as a visual effect in a movie, that virtual human has usually been constructed through an intricate process known as "volumetric capture."
+
+Dozens of cameras surround the subject and record a 360-degree video, capturing its dimensions and volume. The different viewpoints are then merged to create a digitized 3D image. Typically, the process is carried out by technicians in a professional studio — both time-consuming and expensive.
+
+But this could be about to change, as Irish startup Volograms has made the process available to anyone with an iPhone via its free app Volu. Launched on the App Store in September and soon to be available on Android, it's the first content creation app capable of turning standard mobile video into augmented reality, Volograms says.
+
+The app enables users to take 3D videos of real people that can be cut out and superimposed on any image. Credit: Volograms
+
+While the phone camera only captures video from one angle, the app uses artificial intelligence to estimate the 3D shape and texture of a person in areas that the camera does not see. It uses algorithms that have been trained on thousands of human models captured in Vologram's professional studios. Then it converts the moving image to a hologram, or what the company refers to as a "vologram."
+
+Users can then play with the vologram in creative ways, shrinking or enlarging the figure and superimposing it on any backdrop, adding filters that change the transparency or color of the image, and mixing realities by adding a virtual doppelganger to a standard video.
+
+I have never tried to combine so many "realities" within one shot, and I have to admit: I was rather "confused" 😅. Is this how the #metaverse is going to look like?#virtualreality in @Tvorium #mixedreality with @LIV #hologram in #augmentedreality with @volograms pic.twitter.com/RuLN9IikgN — Gabriele Romagnoli (@GabRoXR) August 17, 2021

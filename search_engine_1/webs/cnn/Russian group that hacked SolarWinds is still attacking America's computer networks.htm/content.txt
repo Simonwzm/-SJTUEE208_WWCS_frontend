@@ -1,0 +1,11 @@
+New York (CNN Business) Nobelium, the Russian hacking group responsible for breaching SolarWinds, is still at it.
+
+The Russian hackers behind that successful 2020 breach of US federal agencies compromised as many as 14 technology firms since May as part of another apparent espionage campaign, Microsoft said Monday.
+
+The hackers have been hitting a different part of the supply chain than in the 2020 breach: companies that buy and distribute software and manage cloud computing services. Microsoft did not name the victim companies or identify the ultimate targets of the alleged Russian spies.
+
+The Microsoft statement follows CNN's reporting earlier this month that the Russian hacking group had been leveraging compromised technology vendors to try to infiltrate US and European government networks in previously unreported activity.
+
+"This recent activity is another indicator that Russia is trying to gain long-term, systematic access to a variety of points in the technology supply chain and establish a mechanism for surveilling -- now or in the future -- targets of interest to the Russian government," said Tom Burt, Microsoft's corporate vice president, customer security and trust.
+
+Read More

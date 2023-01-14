@@ -1,0 +1,43 @@
+New York CNN Business —
+
+Some Disney+ customers are having trouble logging into their accounts, complaining on social media that their accounts have been compromised.
+
+Hackers have gained access to thousands of Disney+ user accounts, selling them for between $3 and $11, according to multiple investigations. Some people were complaining that hackers locked them out of their accounts after online thieves gained access and changed their accounts’ usernames and passwords.
+
+Disney (DIS) said in a statement that there is “no indication of a security breach on Disney (DIS)+” and that it takes “users’ data very seriously.”
+
+Disney+ itself does not appear to have been hacked. Instead, Disney+ customers’ credentials were stolen in other security breaches. Many people use the same email logins and passwords for multiple accounts, including the streaming service, which have been stolen during previous security breaches.
+
+This is the second time Disney+ customers had trouble logging in since the service launched last week. When the service first went live, Disney+ experienced an outage.
+
+Disney said if a user is locked out, they should contact customer support immediately for assistance.
+
+If you suspect your password has been compromised, here are some easy tips to make sure it doesn’t happen again:
+
+Change your password
+
+Don’t use common passwords. A recent survey from the UK’s National Cyber Security Centre revealed the world’s most common passwords and found that “123456” is the internet’s most vulnerable password. The password “123456789” was used on 7.7 million accounts, while “qwerty” and “password” were each used by more than 3 million.
+
+The organization recommended using three “random but memorable” terms in a password, to reduce the risk of having an account breached.
+
+Use different passwords
+
+It’s simple: Use a different password for each account. Jot them down safely (on paper) and store them in a place you’ll remember.
+
+Use tools from Chrome
+
+Google’s browser has a Password Checkup feature that automatically checks all your saved passwords for security problems and alerts you if passwords have been exposed in a third-party data breach. The tool will also tell you if your password is being reused across different sites by bad actors or if you have a weak password that should be updated.
+
+It’s available as an extension and can be installed here.
+
+Use third-party tools
+
+Paid services, including Dashlane and 1Password will monitor logins and inform people when their credentials have been compromised. The easy-to-use tools create a secure password that can be used across multiple accounts through a browser extension.
+
+Chrome also has a free service that suggests strong passwords for new sign-ins.
+
+Use two-factor authentication
+
+Some popular services, including Google’s Gmail or Apple, offer two-factor authentication. That’s an extra security step where the service texts or emails you a one-time use PIN code needed to log-in.
+
+– CNN Business’ Kaya Yurieff contributed to this report.

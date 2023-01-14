@@ -1,0 +1,75 @@
+Washington, DC (CNN) Waymo says its self-driving vans have given tens of thousands of rides since the company launched a public robotaxi service in Chandler, Arizona a year ago.
+
+CNN Business tested Waymo's service this month and spoke with eight Waymo customers who have used the service over the past year. They say they're generally very satisfied and prefer it to Uber, Lyft or car ownership. Their stories suggest that there's demand for robotaxis, but there are also significant barriers to self-driving cars becoming a mainstay in Americans lives anytime soon.
+
+A rider can request a ride via the Waymo app and is directed to walk to a pick-up point where the robotaxi can safely stop to pick them up. A Waymo Chrysler Pacifica minivan pulls up, displaying the riders initials on the dashboard so that it can't be confused with another Waymo van.
+
+"Good afternoon," a recording greets riders as they enter. "This car is all yours with no one up front."
+
+The vans still have a steering wheel, which turns right and left as the car navigates. A piece of plastic separates the front seats from passengers in the back, where riders are supposed to stay. Riders hit a button to start their trip.
+
+Trips are generally longer and less direct than an Uber or Lyft trip. The taxis still aren't using shared turn lanes, the company said. That forces them to sometimes take roundabout routes, like three right turns instead of one left turn.
+
+Waymo says its vehicles have driven more than 20 million autonomous miles on public roads, but rainy days and puddles that linger on roads afterwards can still confuse the robotaxis enough that Waymo has to revert to an older, less impressive version of its robotaxis, featuring a human test driver behind the wheel.
+
+The robotaxi service in Arizona is the culmination of 12 years of work since Google created its self-driving car project, which was later re-named Waymo, and made a separate subsidiary of Alphabet. The project began with grand ambition and promises. Google co-founder Sergey Brin said in 2012 that "you can count on one hand the number of years until ordinary people can experience this."
+
+The reality has turned out differently. Following years of promise, Waymo offers a robotaxi service in a 50 square mile portion of Chandler, Arizona, and has yet to offer fully autonomous rides to the public elsewhere.
+
+There are advantages to a computer driving the car over a human, customers say. Some like riding alone, rather than being driven by a stranger. Waymo's prices can be cheaper and the vehicles all drive with the same cautious personality, unlike ridehail drivers, whose driving styles vary, the riders say.
+
+They say they've seen Waymo improve. Two riders said they had experienced sudden braking in Waymo taxis that appeared to be due to birds near the car, as no other vehicles were around. But both riders said the cars are no longer braking sharply when near birds. Waymo declined to comment on the riders' experiences with sudden braking around birds. The Waymo vans are also more confident driving in crowded parking lots, according to riders.
+
+But much work remains to be done. Waymo remains focused on learning to improve its services, rather than profitability according to Waymo co-CEO Tekedra Mawakana.
+
+more than 700 vehicles. Former CEO John Krafcik, who led the deal, exited Waymo struck a deal in 2018 with Fiat Chrysler to add up to 62,000 Pacifica Hybrids to its fleet. Three years later, the fleet remains at only slightlymore than 700 vehicles. Former CEO John Krafcik, who led the deal, exited the role earlier this year.
+
+Three rights make a left turn
+
+Chandler resident John Mitkowski gave his car to his college-age daughter after Waymo began offering rides. He figured he could use a combination of Waymo, Uber and Lyft to get around. He rides Waymo to work, run errands and go golfing, and calls it his favorite mode of transportation.
+
+He's taken more than 400 rides, more than anyone using the service, according to Waymo, which introduced CNN Business to Mitkowski.
+
+He told CNN Business that he'll only use Lyft or Uber today if Waymo has no cars available. He arranges his schedule to be somewhat flexible in case a Waymo car is immediately available or not available for 15 minutes.
+
+He does work on his laptop during trips, so he doesn't mind if they're slightly longer than in an Uber or Lyft. He said he saves money with Waymo because there's no need to tip a robotaxi. Riders told CNN Business that Waymo prices were generally comparable to Uber and Lyft.
+
+Waymo riders said they regularly draw attention from people who approach them with questions after drop-offs or attempt to record trips while driving alongside Waymos.
+
+"In the corner of my eye, I'll notice a car driving erratically. I'll look up from my laptop and it's like, 'What is he doing?'" Mitkowski said. "My car might be trying to make a right, but the guy doesn't see it because he's trying to record me and the no driver in the car."
+
+Waymo's vehicles avoid making a left turn from a busy street into his neighborhood. Mitkowski said that instead they take a slight detour into a neighborhood across the busy street so that they can cross the busy street at a traffic signal.
+
+"The object of their game appears to be the safest route," Mitkowski said. "How do we not put the driver, the car and the passenger in danger?"
+
+Waymo rider Sophia Lovasz told CNN Business that a recent trip that would usually be a 10-minute drive took her 27 minutes with Waymo.
+
+"If you had somewhere to be at a specific time, you may not want to call a Waymo," Lovasz said.
+
+Even so, Lovasz said she's a very satisfied Waymo customer and views it as like a better second car for her family. She said she prefers it to Uber and Lyft and feels more independent in it.
+
+Lovasz took her first ride this April, requesting a ride from the public library in Tempe, which neighbors Chandler. Lovasz said Waymo asked her to cross a seven-lane road and wait on a residential street across from the library to be picked up.
+
+Lovasz crossed the street and walked into the neighborhood, waiting on a narrow median as the sun set, she said.
+
+"That was a little bit awkward as a Black woman just standing in the middle of some neighborhood where no one's seen me before. I was really uncomfortable," Lovasz said.
+
+Waymo has since updated its service so that riders can be picked up directly at the library. A CNN Business reporter requested a ride from the library last week. Following a 15-minute wait, a Waymo van appeared about to turn into the library.
+
+Instead it drove past the library, turned around, drove past again rather than making a left turn into the library, and then took a circuitous 15-minute route before finally entering the library.
+
+A Waymo spokeswoman explained that the Waymo van appeared unable to change lanes to get in the proper lane to make its initial turn into the library. After doubling back, the Waymo van didn't make a left into the library because its vehicles aren't using shared turn lanes. The spokeswoman said such turns are tricky because local law requires drives to exit the lane within a few hundred feet, which can lead to tight turns.
+
+Even so, Chandler is well-suited to self-driving cars in many ways, according to autonomous vehicles experts.
+
+There's little inclement weather, which is challenging for self-driving cars. Waymo has human test drivers behind the wheel on days with expected rain, and often afterwards. Light reflecting off puddles can make driving difficult for the vehicles.
+
+Riders on Waymo can hit buttons in the van's cabin to start and end their ride.
+
+Another advantage of Chandler is the lack of pedestrians and cyclists. CNN Business encountered a single cyclist and no pedestrians, aside from in a Whole Foods parking lot, during its two rides,
+
+Riders told CNN Business they've seen Waymo vehicles get more confident and assertive in parking lots, where the vehicles have to deal with crossing pedestrians and vehicles backing out. But there are still problems that sometimes emerge.
+
+Rajan Phadnis said that when he was dropped at a Walmart recently, the vehicle stopped in a way that parked in a driver in the lot. Phadnis said the driver of the vehicle yelled at him, making him feel uncomfortable, as he couldn't control and move the Waymo vehicle.
+
+He contacted Waymo's support, and said after a couple minutes the Waymo vehicle moved out of the way.

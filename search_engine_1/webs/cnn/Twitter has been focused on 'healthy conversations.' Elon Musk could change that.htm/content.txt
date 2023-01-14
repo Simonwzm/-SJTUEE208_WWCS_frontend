@@ -1,0 +1,79 @@
+New York (CNN Business) Four years ago, Twitter cofounder and then-CEO Jack Dorsey laid out four key focus areas that would propel the company's growth. Among them: promoting "healthy conversation" on the platform.
+
+After years of criticism for Twitter's apparent failures to prevent its platform from turning toxic, Dorsey acknowledged the scourge of "abuse, harassment, troll armies," as well as bots, misinformation campaigns and "increasingly divisive echo chambers" on the social network , and he called on researchers to help improve the situation.
+
+"We think it is a growth vector over the long term, and it's the right thing to do for the people on Twitter, and also for the world," Dorsey said on the company's earnings call for the fourth quarter of 2018 of the focus on the "health" of the platform.
+
+In the years since,has made significant progress toward that goal , including banning manyaccounts promoting abuse and spam, adding labels for false or misleading information, banning the misgendering of transgender people and launching a team dedicated to studying and increasing transparency around the technology that determines what content is promoted on the site. Just last week, Twitter said it would embrace third-party tools for users to help prevent harassment.
+
+But some who've been following the work Twitter has done in recent years worry it could be unraveled now that billionaire Elon Musk has succeeded in his bid to acquire Twitter in a deal worth about $44 billion.
+
+Musk, a controversial Twitter user with a history of erratic behavior on and off the platform, has called for freer speech on the social network and policies that would favor leaving up most tweets and accounts.
+
+"If in doubt, let the speech exist," Musk said in an on-stage interview at the TED conference earlier this month. "If it's a gray area, I would say, let the tweet exist. But obviously in the case where there's perhaps a lot of controversy, you would not necessarily want to promote that tweet."
+
+Under his ownership, Twitter could unwind steps taken in recent years to make the platform more palatable for its most vulnerable users, typically women, the LGBTQ community and people of color, according to safety experts.
+
+Beyond potentially alienating employees who have worked on or support efforts to improve content moderation on the platform, undoing Twitter's progress on "healthy conversations" also risks losing users at a time when the company has been fighting to reverse sluggish growth. It could also turn off advertisers wary of having their ads run next to harmful content. While Musk has said his bid for Twitter is "not a way to make money," it is still a business and advertising remains its central revenue driver.
+
+Though smaller than some rival platforms, Twitter also has an outsized influence in the online (and offline) world because it is popular among influential figures in media, politics and entertainment, and because it has often acted as a model for other platforms on how to address thorny harmful content issues. Thus, changes to Twitter's policies could have broader ripple effects on politics and society.
+
+Twitter has certainly not been perfect on content moderation issues, but as Kirsten Martin, professor of technology ethics at Notre Dame's Mendoza College of Business, put it: "Twitter has consistently strived to be a responsible social media company through not only their content moderation but also their hires in the area of machine learning ethics."
+
+"I would be worried as to how this would change Twitter's values," Martin added.
+
+Twitter and Musk did not immediately respond to requests for comment.
+
+A billionaire with a history of trolling
+
+Musk has a mixed reputation in the tech industry. He is undoubtedly one of the most ambitious and successful innovators and entrepreneurs of this era, but he is also someone who has courted controversy, often from his own Twitter profile, where he has 83 million followers.
+
+Over the years, Musk has used Twitter to make misleading claims about the Covid-19 pandemic, to make a baseless accusation that a man who helped rescue children from a cave in Thailand is a sexual predator, to mock people who display their gender pronouns on the platform and to make countless jokes involving the numbers 420 and 69. He has also tweeted a (since deleted) photo comparing Canadian Prime Minister Justin Trudeau to Adolf Hitler and he has compared Twitter's new CEO Parag Agrawal to Joseph Stalin.
+
+Elon Musk is one of the highest profile but most controversial users on Twitter, where he has more than 83 million followers.
+
+Musk and others have pointed out that most of Twitter's board has little experience actually using the platform. The same cannot be said of Musk, an avid Twitter user with a rabid following who well understands the dynamics of the platform. Still, Musk's experience of using Twitter as an ultra-rich, White man, is inherently different than that of most users, and especially those who are women or from other marginalized communities Twitter has tried to protect and who now may be at risk if its moderation policies are rolled back.
+
+"Any time somebody says free speech, it always means free speech for the powerful. It does not mean free speech for the less powerful," said Leslie Miley, a former Twitter engineering manager who started its product safety and security team and left the company in 2015 . "[Musk] says he wants to make it a free speech platform. What he wants is a platform to say what he wants — and wants other people like him to say what they want — without any accountability."
+
+For his part, Musk said on Twitter Monday: "I hope that even my worst critics remain on Twitter, because that is what free speech means."
+
+Prominent users like game developer Brianna Wu have for years spoken out about how online Twitter mobs can spiral from online hate speech to real-world harm. She now worries the progress she and other users have pushed for on Twitter will be reversed.
+
+"There have been so many hard fought battles over these [safety] policies behind the scenes," Wu, who now serves as executive director of a PAC for progressives, told CNN Business. "I am extremely concerned Musk is going to roll back all the hard work that's been done to combat hate speech on the platform."
+
+Musk's plan for Twitter
+
+At the TED conference earlier this month, Musk presented his broad strokes vision for Twitter, including making its algorithm public to increase transparency around its decisions about content enforcement and promotion — a move that experts say it is far from a silver bullet . Moreover, Musk said Twitter would be more "reluctant to delete things" and "very cautious with permanent bans."
+
+"My strong intuitive sense is that having a public platform that is maximally trusted and broadly inclusive is extremely important to the future of civilization," Musk said.
+
+Many followers of the company have speculated that if his takeover bid succeeds, Musk could restore the Twitter account of former President Donald Trump, who was banned early last year following the insurrection at the US Capitol. Such a move could have huge implications for the upcoming 2024 presidential election as Twitter was a key tool for Trump to rally his base, promote political allies and deride critics and spread false and misleading claims.
+
+"If Musk buys Twitter, then he will surely return Trump to the platform, opening the door for a viable 2024 run," Joan Donovan, research director at Harvard's Shorenstein Center on Media, Politics and Public Policy, said on Twitter Monday before the deal was announced.
+
+Donovan also noted that under Musk's leadership, Twitter could "further become a terrain of culture wars. With a mandate for 'free speech,' the kind of harassment that content moderation tampers will go into overdrive targeting lgbtq groups, women, BIPOC, and anyone else fighting for civil rights."
+
+Musk said in a statement Monday that he also wants "to make Twitter better than ever by enhancing the product with new features, making the algorithms open source to increase trust, defeating the spam bots, and authenticating all humans."
+
+A platform with more work to do
+
+Each of the major social media platforms have faced pressure from lawmakers, researchers and the public to do more to crack down on abuse, harassment and misinformation, and have taken different approaches with varying degrees of success. Twitter has in many cases been seen as a leader in the industry in terms of how it handles problematic content, and in being transparent about its approach and the success of its efforts. Most notably, Twitter was the first of the major platforms to ban Trump for violating its policy on inciting violence, pushing other platforms to follow suit.
+
+"It's not great today, but it's better," Wu said. "I think people don't understand how much we have to lose."
+
+Twitter's board is said to be nearing an agreement to sell the social media company to Elon Musk.
+
+Anti-Defamation League CEO Jonathan Greenblatt said he's hopeful that Twitter remains a place where people can speak freely while also feeling safe. "When I say safe and secure, I mean from bigotry, and the kind of terrible trolling that makes it too toxic for so many of us," he added.
+
+Others, however, are less optimistic. Imran Ahmed, CEO of the Center for Countering Digital Hate, said that Musk has a "fairly unsophisticated view" of the factors a platform must consider when it "provides access for bad actors to normal people."
+
+Harmful content can have real-world consequences — the Myanmar Genocide and the Capitol Riot are two of the most egregious examples, but a deluge of harassment and veiled threats of offline harm can severely impact users on an individual basis, as well — and social media platforms face a difficult balancing act in considering how to allow users to speak as freely as possible while also protecting them from such harms.
+
+While Musk has said he wants to allow "all legal speech on Twitter," the lines for what is legal can be blurry and vary from country to country — and may also be soon to change, as regulators home in on the harms social media platforms can have on users, especially young people, and civic processes.
+
+"[Twitter has] started to talk about the morality of what they do, in a way that implies that they get it," Ahmed said. But with Musk, "it feels like ... we have to go and re-educate another kind of billionaire, libertarian, man-child that [Twitter] is the real world ... I would hope he can see the difference between you know, being a douche and being dangerous."
+
+Some experts also question whether a less-moderated platform would be a sustainable business. Several new platforms launched in recent years have promised to take a less restrictive approach to content moderation, often in hopes of attracting right-leaning users frustrated with the Big Tech giants, but have largely failed to gain significant adoption. The most recent example: Trump's Truth Social . Online advertisers are also hesitant to have their ads run alongside dangerous or controversial content.
+
+"The general public doesn't want to see more conspiracy theories and more harassment and more hate speech," said Karen Kornbluh, a senior fellow and director of the Digital Innovation and Democracy Initiative at the German Marshall Fund. "There's this [disconnect] between what he's saying he wants to do [to loosen content restrictions], which sounds like a culture war initiative, versus saying that he wants to increase their profits. It doesn't seem to add up."

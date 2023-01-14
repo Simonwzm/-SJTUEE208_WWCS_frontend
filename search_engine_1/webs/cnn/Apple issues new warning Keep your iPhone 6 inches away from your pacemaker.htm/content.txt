@@ -1,0 +1,11 @@
+New York (CNN Business) An important heads-up for iPhone owners: Apple is warning customers that its smartphones could interfere with medical devices, including pacemakers.
+
+In a notice published on Apple's support page Saturday, the company expanded upon previously issued safety information , warning users that iPhones contain magnets and radios that emit electromagnetic fields, both of which "may interfere" with medical devices such as implanted pacemakers and defibrillators.
+
+Apple AAPL The Saturday notice specifically warns users about "the magnets inside" all four iPhone 12 models, as well as MagSafe accessories.notes that iPhone 12 versions contain more magnets than prior iPhone models, but it also said they don't pose a greater risk of magnetic interference with medical devices than earlier models.
+
+Apple said in the update that medical devices can contain sensors that may react to magnets or radio waves that come in close proximity. The company recommends keeping iPhones and MagSafe chargers a "safe distance" away from medical devices — which it defines as more than 6 inches apart, or 15 inches apart when wirelessly charging.
+
+When Apple unveiled the iPhone 12 last fall, the company also announced the return of MagSafe — formerly a beloved MacBook feature — for the iPhone. Customers can buy MagSafe charging docks to wirelessly juice-up their devices, and other magnetic accessories including cases and wallets that attach to the back of the phones.
+
+Read More

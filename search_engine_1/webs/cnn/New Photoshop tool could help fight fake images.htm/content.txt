@@ -1,0 +1,11 @@
+(CNN Business) Adobe's popular photo-editing software has long been used to manipulate media, and as digital tools get better and better it's becoming more difficult to tell what's real from what's Photoshopped.
+
+The company is trying to do something to fix this problem, which its software didn't originate but helped propagate for decades (such as with this popular faked image of a shark swimming on a flooded freeway ). On Tuesday, Adobe announced the release of a "beta" version of an attribution tool for Photoshop, with the hope it will encourage people to trust that the images they see are truthful (or at least make more informed judgments).
+
+Adobe ADBE The feature, which is optional and will be available initially just to select users, lets photo editors append images with detailed information known as metadata that, in essence, travels around with it online. This information will go far beyond the basic details that can currently be added to pictures and may include who created the image and where, a thumbnail of the original image, and data about how it has been altered — as well as whether AI tools were used to change the picture. This data will be secure and it will be clear if it has been tampered with,said.
+
+"If you have something that you want people to believe is true, then this is a tool to help you get people to believe in it," Dana Rao, Adobe's general counsel, told CNN Business.
+
+The release is part of the company's Content Authenticity Initiative to fight against dis- and misinformation, which Adobe launched a year ago with Twitter and The New York Times. Initially, the content attribution tool will be for publishing still images to Behance , an Adobe-owned social network for sharing creative work. Over time, the company hopes this kind of authenticating information will be added to different types of content, and be shared widely on social media platforms and through media companies.
+
+Read More

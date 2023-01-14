@@ -1,0 +1,11 @@
+Washington (CNN Business) A bipartisan group of attorneys general sued Google on Monday, alleging that the technology giant has used "dark patterns" and deceptive practices to track users' physical location even when those users have made efforts to block Google from doing so.
+
+The parallel lawsuits by the District of Columbia, Texas, Indiana and Washington state zero in on Google's collection of location data, which can be used to target advertising and build profiles on internet users.
+
+The DC Attorney General's lawsuit alleges that since 2014, Google ( GOOG ) has made misleading public statements about how users can opt out of location tracking. Despite offering settings in users' Google accounts that promised to restrict location data tracking, Google allegedly failed to mention how certain other settings — such as in individual apps or in other areas of Google's settings panel — might continue to allow the tech giant to keep collecting location data unbeknownst to the user.
+
+According to the complaint, Google also allegedly tried to circumvent users' expressed preferences with workarounds, such as using IP addresses to determine a user's location or collecting location data via Google's apps installed on mobile devices. The allegedly illegal behavior affects virtually all mobile users who interact with Google, according to the complaint, whether they own an Android device, an iPhone, a PC or a tablet.
+
+To facilitate its data collection, Google allegedly relied on "dark patterns" — subtle design choices intended to guide users toward adopting behavior favorable to Google.
+
+Read More

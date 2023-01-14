@@ -1,0 +1,131 @@
+New York CNN Business —
+
+This year didn’t end up exactly how many in the spaceflight industry had hoped.
+
+Rocket launches were delayed. Explosions and development setbacks pushed off exciting milestones. NASA astronauts still don’t have the option to fly aboard American spacecraft.
+
+But there were also numerous indicators that the burgeoning commercial space industry is in good health.
+
+Investments in the sector are growing exponentially. And Wall Street banks, from Goldman Sachs to Morgan Stanley, predict the global space industry will grow to $1 trillion or more over the next two decades.
+
+SpaceX paved the way for a private-sector revolution. Its reusable rocket technology made access to space cheaper and invigorated a new generation of space companies that are working on everything from cheap rockets to satellite communications networks. And the US government says it’s committed to fostering a competitive marketplace.
+
+Here’s a look back at some of the most important events from 2019.
+
+NASA declares return to moon — with commercial partners
+
+On March 26, Vice President Mike Pence made a stunning announcement: NASA was directed to return American astronauts to the lunar surface within the next five years “by any means necessary.”
+
+The program was dubbed Artemis, and NASA says its mission includes putting the first woman on the moon.
+
+Pence’s directive required the space agency, which had been targeting 2028 for the next moon landing, to drastically accelerate its timeline. And NASA chief Jim Bridenstine said he planned to achieve that goal by delegating work to private-sector partners.
+
+“We’re doing it entirely different than we did in the 1960s,” Bridenstine told CNN Business in June. “The reason we need commercial operators is because they can drive innovation if they’re competing.”
+
+NASA is already working with Boeing to build a gargantuan (and long overdue) rocket capable of making the trek.
+
+Startups and established commercial heavyweights like SpaceX are now competing for potentially lucrative contracts for other tasks, such as ferrying cargo to the moon. For example, Blue Origin, the venture founded by Amazon multibillionaire Jeff Bezos, is partnering with legacy firms Lockheed Martin and Northrop Grumman on a proposed lunar lander.
+
+It’s not yet clear, however, if Congress will give NASA enough funding for all its ambitions. The space agency will get most, but not all, of the money it requested for Artemis in the spending bill lawmakers passed in mid-December.
+
+Rocket to Mars: SpaceX tests early prototype of Starship
+
+SpaceX, Elon Musk’s rocket venture, makes its money by launching spacecraft into orbit for government and commercial customers. But the company’s ultimate goal is to establish a human settlement on Mars.
+
+After years of laying out blueprints for a reusable interplanetary spacecraft called Starship, SpaceX finally built and tested its first prototype in 2019.
+
+A scaled-down vehicle called Starhopper took shape at a testing site in South Texas, and it conducted a series of short “hop tests” designed to work out how the vehicle will safely touch back down on Earth — or another planet — after launch.
+
+Starhopper’s biggest test took place on August 27 when the prototype soared about 150 meters in the air and made a controlled landing on a nearby ground pad.
+
+SpaceX then constructed a more powerful and advanced test vehicle called Starship Mark 1. Musk celebrated its completion at a media event in September, where he explained the latest updates to Starship’s design.
+
+The Mark 1 prototype was quickly abandoned, however, after it burst apart during a pressure test. The company is now working on a third iteration.
+
+SpaceX’s Crew Dragon: Pristine test flight, then explosion
+
+SpaceX and Boeing spent a decade building two spacecraft capable of ferrying astronauts to and from the International Space Station for NASA’s $8 billion Commercial Crew program.
+
+At various points in 2019, SpaceX’s Crew Dragon capsule and Boeing’s Starliner both appeared to be on the home stretch with only one major test left to complete before they could launch their first crewed missions. But they encountered major setbacks.
+
+NASA remains anxious to get to get Commercial Crew on track after relying on Russia to get US astronauts to orbit since the Space Shuttle program retired in 2011.
+
+SpaceX’s Crew Dragon nailed a crucial test flight in March. It launched to orbit without crew on board, docked autonomously with the space station and returned safely home.
+
+Then, less than two months later, the capsule suddenly exploded during a ground test. NASA was forced to adjust its expectations for the vehicle’s timeline — again.
+
+SpaceX worked for months to correct the problem and get a new vehicle back to Florida for Crew Dragon’s last key test, which is now scheduled for no earlier than January 11. The test will demonstrate the abort system that would carry Crew Dragon and its passengers to safety if a rocket misfires.
+
+Boeing’s botched Starliner test flight
+
+A minor blemish for Boeing’s Starliner capsule came in November during a test of its emergency abort system. It was declared a success even though only two of the vehicle’s three parachutes deployed.
+
+The company powered ahead with its uncrewed demonstration mission in December, which could have put Starliner in a position to launch astronauts in early 2020 if everything went according to plan.
+
+But shortly after launch, Starliner failed to light its engines at the correct moment, throwing it off its path toward the ISS. Boeing and NASA decided to bring the vehicle back home, and it landed in the desert of New Mexico last weekend.
+
+It’s not yet clear if NASA will require Boeing to repeat the mission or how long it will take to pinpoint the problem.
+
+After years of racing, the setback may put SpaceX’s Crew Dragon in a position to be the first spacecraft to launch astronauts from US soil in nine years.
+
+The success of the Commercial Crew program is also considered vital to demonstrating that the private sector can be trusted with taxpayer dollars, validating NASA’s efforts to hand over more of its duties.
+
+In the past, the space agency has typically controlled design and development of new spacecraft. But under Commercial Crew, Boeing and SpaceX will own and operate their vehicles, while NASA will act as a customer.
+
+Starlink internet takes shape
+
+Starlink — not to be confused with Boeing’s Starliner capsule or SpaceX’s Starship prototype — is the name of a satellite constellation that SpaceX is building. It hopes to blanket the globe in cheap, high-speed broadband connectivity.
+
+SpaceX made enormous strides this year by launching 60 satellites on its first dedicated Starlink launch in May, and it put up 60 more in November.
+
+The company hopes to roll out Starlink internet service in the US as soon as next year. It could expand into other markets as SpaceX builds up the constellation, which could grow to more than 40,000 satellites.
+
+Startups have previously tried and failed to beam cheap consumer broadband from space. SpaceX is among a new crop of companies, including Amazon and Softbank-backed OneWeb, that are trying again.
+
+It could bring in billions of dollars in revenue, but it will also cost billions of dollars to get such a network up and running. SpaceX noted in January when it cut about 10% of its workforce that endeavors similar to Starlink have bankrupted other companies.
+
+One key question is whether SpaceX can develop user terminals that consumers can afford. (Starlink customers will need user terminals to set up usable broadband connections at their home or office.)
+
+Virgin Galactic goes public
+
+On October 28, Virgin Galactic (SPCE) became the first space tourism company ever to make a stock market debut.
+
+It was also a symbolic step for the so-called “new space” industry, in which startups are spurring technology development after decades of domination by space agencies and their contractors.
+
+British billionaire Richard Branson founded Virgin Galactic in 2004 with the goal of developing a rocket-powered space plan that could shuttle passengers on brief trips to suborbital space. They’ll be able to experience a few minutes of weightlessness and stunning views for about $250,000 per seat.
+
+After numerous delays and setbacks, including a fatal 2014 crash, Galactic demonstrated its second successful test flight to space in February. And it expects to start flying customers next year.
+
+Virgin Galactic listed on the New York Stock Exchange as part of a reverse merger, which made for an atypical IPO. After a disappointing first week, the stock jumped around between $7 and $12 per share.
+
+The stock was given a boost in early December when Morgan Stanley released a report predicting Galactic’s shares could rise as high as $60 over the coming years if the company can make good on plans to use its hypersonic plane for travel between cities.
+
+“A viable space tourism business is what you pay for today,” Morgan Stanley analyst Adam Jonas wrote in a note to investors. “But a chance to disrupt the multi-trillion-dollar airline [total addressable market] is what is really likely to drive the upside.”
+
+Blue Origin is working on similar plans for a space tourism business and expects to start commercial operations next year. Its suborbital rocket completed its 12th successful test flight on December 11.
+
+Record-breaking investments
+
+With $5 billion invested in space companies during the first nine months of the year, 2019 is on track to shatter records, according to investment firm Space Angels.
+
+SpaceX remains the darling of the rocket industry, as evidenced by the company’s ability to raise more than $1 billion in six months.
+
+But other ventures are maturing. Two launch vehicles currently under development, including one from Blue Origin, are already competing with SpaceX’s Falcon rockets for military launch contracts.
+
+And this year brought more concrete evidence of how the launch market has shifted since SpaceX’s Falcon 9 began flying in 2010: Hefty satellites that require a dedicated rocket are going out of style, and there’s now insatiable demand for launching batches of small satellites, or smallsats.
+
+SpaceX announced in August that it would start booking rideshare services for smallsats. Meanwhile, US-based Rocket Lab, which builds lightweight rockets designed specifically for smallsats, notched its ninth successful launch in December.
+
+For all the attention rockets attract, however, analysts note that the launch industry makes up only a small slice of the space economy. There’s far more money in satellite businesses and the ground systems and software that support them.
+
+SpaceX and OneWeb, which raised $1.25 billion in 2019, sold their backers on plans for satellite internet. Investors also poured hundreds of millions of dollars into startups focused on Earth observation; they’re promising clients the ability to track global shipments, detect criminal activity, help first responders in disaster zones, or even survey for cracks in bridges using satellites.
+
+About 250 new devices were launched this year, bringing the total number of satellites in Earth’s orbit to over 2,000. Companies are pushing plans to launch another 20,000-plus over the next decade.
+
+That poses extraordinary questions for regulators as they consider heightened risks of disastrous collisions in space. And astronomers are already raising concerns about satellites impacting their view of the night sky.
+
+Space-based technologies transformed global economies and our daily lives over the past half century. What’s now clear is that governments are no longer the primary drivers of activity in space, research firm Deloitte wrote in a 2019 report, and innovation is happening at a faster pace.
+
+“The last decade has seen widespread change,” the report states. “Tomorrow’s disruptive space technologies increasingly will be driven by commercial forces.”
+
+Correction: An earlier version of this story misidentified the month of SpaceX's Crew Dragon launch.

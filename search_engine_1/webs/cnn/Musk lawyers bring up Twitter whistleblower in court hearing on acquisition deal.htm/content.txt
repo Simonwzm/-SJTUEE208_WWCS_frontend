@@ -1,0 +1,11 @@
+New York (CNN Business) Elon Musk's lawyers repeatedly referenced claims from a Twitter whistleblower in court on Wednesday, in an early preview of how the billionaire's side might use the new allegations in his legal battle with the social media company over their $44 billion acquisition agreement.
+
+Twitter TWTR The hearing, which was focused on how much informationshould have to provide to Musk's legal team about user counts and spam bot measurements, came one day after a stunning whistleblower disclosure by former Twitter head of security Peiter "Mudge" Zatko. In the disclosure, first reported Tuesday by CNN and the Washington Post, Zatko alleges that Twitter is rife with security and privacy vulnerabilities and claims that executives have misled Musk and the public about the prevalence of fake and spam bot accounts on its platform. Twitter has broadly defended itself and criticized Zatko's allegations.
+
+Musk lawyer Alex Spiro suggested during the hearing that the billionaire's team does not trust Twitter's estimate for spam accounts and monetizable daily active users (mDAU), a key metric it provides to investors, and said Musk's team is requesting information that would allow them to test the measurements. He said the requests include information related to the inputs that Twitter's human reviewers consider when determining whether an account is a bot, how the company measures mDAU, and information about the engagement levels of mDAU accounts.
+
+"They have an economic incentive to mislead," Spiro said. "There's a whistleblower complaint that has now been filed publicly that talks about the false information provided."
+
+At another point, Musk's lawyer referred to Zatko's claim that Twitter executives "had no appetite to properly measure bots."
+
+Read More

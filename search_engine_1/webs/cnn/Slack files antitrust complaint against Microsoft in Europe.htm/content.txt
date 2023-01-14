@@ -1,0 +1,23 @@
+London CNN Business —
+
+Slack is ratcheting up its battle with Microsoft, filing an antitrust complaint in the European Union against its rival.
+
+The company claims Microsoft (MSFT) is engaging in “illegal and anti-competitive practice of abusing its market dominance to extinguish competition” by tying in its own communications platform, called Teams, to its popular Microsoft (MSFT) Office suite. Slack (WORK) says in its complaint Microsoft (MSFT) force-installs Teams for millions of people and blocks its removal.
+
+“We’re confident that we will win on the merits of our product, but we can’t ignore illegal behavior that deprives customers of access to the tools and solutions they want,” Jonathan Prince, Slacks’ Vice President of Communications and Policy said in a statement. “Slack threatens Microsoft’s hold on business email, the cornerstone of Office, which means Slack threatens Microsoft’s lock on enterprise software.”
+
+Microsoft has been hoping to unseat Slack with its Teams collaborative workplace app, offering a free version of the tool a bundling Teams into its Office 365 Business Premium and Office 365 E3 cloud-based subscription offerings. That’s hurt Slack’s stock, as many investors don’t think Slack can take on Microsoft.
+
+In an interview with The Verge in May, Slack CEO Stewart Butterfield said that Microsoft “is perhaps unhealthily preoccupied with killing us.” Butterfield said he thinks Microsoft wants to hurt the company because Slack’s success could impact how much people use email.
+
+“If email becomes less important, then that whole $35, $40 billion-a-year collaboration productivity business unit is threatened,” Butterfield said.
+
+The coronavirus pandemic has led businesses to embrace Teams “in record numbers while Slack suffered from its absence of video-conferencing,” a Microsoft spokesperson said in a statement.
+
+“We’re committed to offering customers not only the best of new innovation, but a wide variety of choice in how they purchase and use the product,” the spokesperson added. “We look forward to providing additional information to the European Commission and answering any questions they may have.”
+
+Last month Slack teamed up with another tech giant to bolster itself against Microsoft, Amazon announcing a wide-ranging partnership with Amazon, including rolling out Slack to all Amazon employees integrating Amazon’s Chime, the communications platform developed by Amazon Web Services, to support Slack’s voice and video calling functions.
+
+For the most part, Microsoft has avoided much of the antitrust scrutiny currently being leveled on big tech internet firms, like Google, Apple and Facebook. But Microsoft is well-versed in such battles, something Slack alluded to in its announcement claiming its current activity is “a carbon copy of their illegal behavior during the ‘browser wars.’”
+
+In the 1990s and early 2000s, Microsoft paid big fines in the United States and European Union to settle various charges that it engaged in monopolistic practices related to its dominant position in the business software market through its ownership of Windows and the Internet Explorer web browser. But it avoided the worst-case scenario: being broken up.

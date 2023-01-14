@@ -1,0 +1,11 @@
+New York (CNN Business) I stood outside a busy New York City subway stop recently, dressed like a celebrity trying not to be recognized. My face was covered with sunglasses, a baseball cap and my black KN95 mask.
+
+But my iPhone immediately recognized me as its rightful owner, without needing me to uncover my face. The device swiftly unlocked when I swiped up to use Face ID.
+
+For much of the past two years, many iPhone users, myself included, have lost some of the convenience of being able to seamlessly unlock the device with their face because they were masked. Apple's latest software update is intended to address that pandemic headache.
+
+to ensure Face ID, one of the iPhone's signature features, works without requiring the phone's owner to remove their mask in public, a technical feat given the fewer facial details it has available to analyze. The new feature is still in beta and could launch to the public for iPhone 12 devices and newer in the weeks or months ahead. (The timing is perhaps a bit ironic considering many states are actively The update, iOS 15.4, aimsto ensure Face ID, one of the iPhone's signature features, works without requiring the phone's owner to remove their mask in public, a technical feat given the fewer facial details it has available to analyze. The new feature is still in beta and could launch to the public for iPhone 12 devices and newer in the weeks or months ahead. (The timing is perhaps a bit ironic considering many states are actively lifting mask mandates .)
+
+I downloaded an early version of the update and tested Face ID with a series of patterned masks, black K95 masks, masks with beards and even one with Kevin's face from the movie "Home Alone." Face ID worked with many of these on the first attempt, but the overall experience was inconsistent. I was often asked to type in my passcode after a failed attempt.
+
+Read More

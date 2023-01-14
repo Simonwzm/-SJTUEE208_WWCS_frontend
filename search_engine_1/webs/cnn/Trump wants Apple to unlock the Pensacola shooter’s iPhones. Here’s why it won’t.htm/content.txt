@@ -1,0 +1,31 @@
+San Francisco CNN Business —
+
+President Donald Trump just slammed Apple for refusing to allow the US government access to the iPhones “used by killers, drug dealers and other violent criminal elements.”
+
+In a tweet on Tuesday, Trump said the tech giant “will have to step up to the plate and help our great Country.”
+
+Trump’s tweet came hours after Apple declined requests from US Attorney General William Barr and the FBI to unlock two iPhones believed to have been used by a 21-year-old man who killed three sailors in a shooting last month at a Pensacola, Florida, Air Force base.
+
+Barr also expressed frustration that Apple’s built-in encryption prevented the FBI from getting into the phones. “We call on Apple and other technology companies to help us find a solution so that we can better protect the lives of Americans and prevent future attacks,” he said.
+
+Why Apple won’t budge
+
+Apple’s commitment to protecting the privacy of its users is well known. The iPhone maker has hammered on privacy as a marketing pitch in recent years, with CEO Tim Cook repeatedly calling privacy a fundamental human right. Cook told CNN in 2018 that he wants governments around the world to restrict how much data companies can collect from their customers.
+
+Apple (AAPL) has pushed back against suggestions it isn’t cooperating with authorities on the Pensacola case, saying in a statement Monday that it “responded to each request promptly … with all the information that we had.”
+
+But the company also said creating special access to its devices for the government was where it would draw the line.
+
+“We have always maintained there is no such thing as a backdoor just for the good guys. Backdoors can also be exploited by those who threaten our national security and the data security of our customers,” Apple added. “Today, law enforcement has access to more data than ever before in history, so Americans do not have to choose between weakening encryption and solving investigations. We feel strongly encryption is vital to protecting our country and our users’ data.”
+
+Not the first time
+
+Apple has squared off against the US government before under similar circumstances. In 2016, the company opposed a court order to help the FBI unlock the iPhone of one of two shooters who opened fire in San Bernardino, California, killing 14 people.
+
+The FBI ended up getting into the phone by purchasing a “tool” from a private company that cost more than $1 million, the agency’s then-director James Comey said in April 2016. Comey would not elaborate on the company or the services provided.
+
+Apple’s stance on the San Bernardino shooter’s phone was supported by several of its big tech peers, including Facebook (FB), Google (GOOGL) and Microsoft (MSFT).
+
+Facebook has faced a similar tussle on the other side of the world, squaring off against India’s government over its mobile messaging service, WhatsApp. India — the company’s biggest market with 400 million-plus WhatsApp users — demanded in 2018 that Facebook add the ability to track individual messages after a series of lynchings tied to viral hoax forwards.
+
+WhatsApp has repeatedly refused, saying encryption is fundamental to its private nature. “We will not weaken the privacy protections WhatsApp provides,” a spokesperson said at the time.

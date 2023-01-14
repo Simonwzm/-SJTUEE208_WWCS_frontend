@@ -1,0 +1,55 @@
+CNN —
+
+If you have one or more drawers filled with old gadgets and wires, you’re not alone.
+
+Decades of the tech sector’s pressure to “innovate or die” have led to a long list of useful and flashy household tech products, but many of these same devices also have a need to be replaced at almost the same rapid rate that new technology emerges.
+
+The result of this so-called planned obsolescence, combined with a limited number of options to repair older devices over the years, is a tsunami of electronic waste, also known as e-waste. And the fallout from it extends far beyond the headache of figuring out what to do with the clutter tucked away inside your home.
+
+“Planned obsolescence just makes it worse. People now expect to get a new computer every three or four years, a new phone every two years,” said Jim Puckett, executive director of the Basel Action Network, a Seattle-based e-waste watchdog group. “It’s a mountain that just keeps growing.”
+
+The most recent United Nation’s data indicates the world generated a staggering 53.6 million metric tons of e-waste in 2019, and only 17.4% of that was recycled. The burden and harms of e-waste often fall to those in developing countries. The US Environmental Protection Agency estimates that an “undetermined amount of used electronics is shipped from the United States and other developed countries to developing countries that lack the capacity to reject imports or to handle these materials appropriately.”
+
+The World Health Organization (WHO) warned last year that the disposal and processing of soaring e-waste can cause a range of “adverse child health impacts,” including changes in lung function, DNA damage and increased risk of some chronic illnesses such as cancer and cardiovascular disease later in life.
+
+Moreover, there are more than 18 million children and adolescents “actively engaged” in the informal e-waste processing industry, the WHO warned. Children and adolescents are often used to scour through mountains of e-waste in search of valuable materials such as copper and gold “because their small hands are more dexterous than those of adults,” the WHO said.
+
+The issue of e-waste is “all about environmental justice at the global level,” Puckett said. “It’s about keeping the rich countries from dumping their waste and dirty technologies on developing countries.”
+
+A man sits in front of electronic waste or e-waste from computers at a workshop in New Delhi, India, in July 2020. Amarjeet Kumar Singh/SOPA Images/Shutterstock
+
+The growing environmental crisis is now catching the attention of lawmakers from Europe to the United States, as well as communities in the developing nations where e-waste has historically been offshored.
+
+EU officials last month approved a new law requiring all phones and electronics to use a standard, brand-agnostic charger, with the potential to limit how many different wires the average consumer needs to own. Three progressive American lawmakers urged in a letter for the US to follow suit.
+
+Sens. Ed Markey, Elizabeth Warren and Bernie Sanders said the novel EU policy “has the potential to significantly reduce e-waste and help consumers who are tired of having to rummage through junk drawers full of tangled chargers to find a compatible one, or buy a new one,” in a letter addressed to the US Commerce secretary. The senators alluded to the bipartisan hot topic of “taking on powerful technology companies” in the interest of consumers and the environment.
+
+For now, though, regulation around e-waste exists primarily at the state level and there are few signs of federal policy moving forward in the near future. In its absence, the onus continues to be on consumers – and companies – to take initiative and find better ways to deal with old electronics.
+
+What consumers and companies can do about it
+
+When Corey Dehmey worked in corporate IT departments, he had to figure out what to do with hundreds of company computers that were no longer up to date. Now, as executive director of non-profit Sustainable Electronics Recycling International (SERI), he is part of a group trying to tackle the e-waste crisis by bolstering cooperation between the government, private sector and consumers.
+
+“E-waste is the result of not planning for the product throughout its lifecycle,” Dehmey said. “We’re just reacting to a problem we created years ago. And so if we want to get in front of this thing, we have to think about these things on the front end – what we’re designing and what we as consumers are purchasing as well.”
+
+To do that, SERI introduced and oversees its own certification standards for e-waste recycling that makes sure facilities are properly disposing of e-waste. It also hosts events for businesses and other stakeholders and engages in advocacy work to pressure companies and governments to take more sustainable approaches to developing electronics.
+
+“We’ve got to figure out ways to use [an electronic device] longer, repair it, reuse it,” Dehmey said, noting this will require mindset shifts from both consumers and companies.
+
+In recent months, there has been some cause for optimism on this front. The surge in e-waste has led to increased pressure on manufacturers to ease restrictions on fixing devices for individuals and independent repair shops in a push known as the “right to repair” movement. President Joe Biden last year passed an executive order that directed the Federal Trade Commission to issue rules requiring companies to allow DIY repairs, and the FTC vowed to “root out” illegal repair restrictions.
+
+Now, a handful of tech companies have launched initiatives to help with repairing old gadgets. Earlier this year, Apple and Samsung launched their self-service repair stores, offering parts for users seeking do-it-yourself fixes for their smartphones. Google similarly promised parts for repairing Pixel phones will be available to the public later this year.
+
+A sea of electronic waste stacked over six feet high cover the landscape at Westmoreland Cleanways and Recycling, in Unity, Pa., on Friday, March 24, 2017. Dan Speicher/Pittsburgh Tribune-Review/AP
+
+Various coalitions have also emerged in recent years to give consumers the option to responsibly dispose of their devices. Puckett helped launch the e-waste recycling initiative e-Stewards, for example, which certifies and audits electronics recyclers to make sure they are properly disposing of e-waste using “very rigorous standards.”
+
+With this tool, consumers can look up nearby recycling centers. SERI also offers an online tool to find a certified recycling center.
+
+Jeff Seibert, the chief provocateur (yes, that’s his real title) at SERI, also recommends consumers check with their local municipality to see if they have a designated plan for recycling e-waste. A handful of US retailers, including Staples and Best Buy, also have programs that let consumers bring in e-waste for recycling in the absence of broader infrastructure. Other companies, including Apple, have programs to offer credits or free recycling in exchange for trading in used gadgets.
+
+Before opting to donate or recycle used electronics, the EPA recommends considering upgrading the hardware or software of a computer instead of buying a brand new product. If you do decide to recycle, the EPA urges consumers to remove any batteries that may need to be recycled separately. The agency says that recycling one million laptops saves the energy equivalent of the electricity used by more than 3,500 US homes in a year. For every one million cell phones that are recycled, the agency says 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold and 33 pounds of palladium can be recovered.
+
+Apart from these options, Seibert simply urges consumers to start thinking about electronics like we think about cars: we don’t trash our vehicles when we need new tires or if the windshield cracks.
+
+“Everybody wants to do the right thing,” Seibert said. “So we’ve got to give them the resources to be able to do that, and that’s still a work in progress.”

@@ -1,0 +1,49 @@
+San Francisco (CNN Business) Now that coronavirus vaccines are starting to roll out in the US and abroad, many people may be dreaming of the day when they can travel, shop and go to the movies again. But in order to do those activities, you may eventually need something in addition to the vaccine: a vaccine passport application.
+
+Several companies and technology groups have begun developing smartphone apps or systems for individuals to upload details of their Covid-19 tests and vaccinations, creating digital credentials that could be shown in order to enter concert venues, stadiums, movie theaters, offices, or even countries.
+
+The Common Trust Network , an initiative by Geneva-based nonprofit The Commons Project and the World Economic Forum, has partnered with several airlines including Cathay Pacific, JetBlue, Lufthansa, Swiss Airlines, United Airlines and Virgin Atlantic, as well as hundreds of health systems across the United States and the government of Aruba.
+
+The CommonPass app created by the group allows users to upload medical data such as a Covid-19 test result or, eventually, a proof of vaccination by a hospital or medical professional,generating a health certificate or pass in the form of a QR code that can be shown to authorities without revealing sensitive information. For travel, the app lists health pass requirements at the points of departure and arrival based on your itinerary.
+
+"You can be tested every time you cross a border. You cannot be vaccinated every time you cross a border," Thomas Crampton, chief marketing and communications officer for The Commons Project, told CNN Business. He stressed the need for a simple and easily transferable set of credentials, or a "digital yellow card," referring to the paper document generally issued as proof of vaccination.
+
+IBM IBM Large tech firms are also getting in on the act.developed its own app, called Digital Health Pass , which allows companies and venues to customize indicators they would require for entry including coronavirus tests, temperature checks and vaccination records. Credentials corresponding to those indicators are then stored in a mobile wallet.
+
+IBM's Digital Health Pass app creates an online vaccine credential that can be stored in a mobile wallet.
+
+In an effort to address one challenge around returning to normalcy after vaccines are distributed widely, developers may now have to confront other challenges, ranging from privacy issues to representing the varied effectiveness of different vaccines. But the most pressing challenge may simply be avoiding the disjointed implementation and mixed success of tech's previous attempt to address the public health crisis: contact tracing apps.
+
+Apple AAPL Google GOOG Early on in the pandemic,andset aside their smartphone rivalry to jointly develop a Bluetooth-based system to notify users if they'd been exposed to someone with Covid-19. Many countries and state governments around the world also developed and used their own apps.
+
+"I think where exposure notification ran into some challenges was more of the piecemeal implementation choices, lack of federal leadership ... where each state had to go it alone and so each state had to figure it out independently," said Jenny Wanger, who leads the exposure notification initiatives for Linux Foundation Public Health , a tech-focused organization helping public health authorities around the world combat Covid-19.
+
+and is also working with IBM and CommonPass to help develop a set of universal standards for vaccine credential apps. To encourage better coordination this time, The Linux Foundation has partnered with the Covid-19 Credentials Initiative , a collective of more than 300 people representing dozens of organizations across five continentsand is also working with IBM and CommonPass to help develop a set of universal standards for vaccine credential apps.
+
+"If we're successful, you should be able to say: I've got a vaccine certificate on my phone that I got when I was vaccinated in one country, with a whole set of its own kind of health management practices... that I use to get on a plane to an entirely different country and then I presented in that new country a vaccination credential so I could go to that concert that was happening indoors for which attendance was limited to those who have demonstrated that they've had the vaccine," said Brian Behlendorf, executive director of Linux Foundation.
+
+"It should be interoperable in the same way that email is interoperable, the same way that the web is interoperable," he said. "Right now, we're in a situation where there's some moving parts that get us closer to that, but I think there's a sincere commitment from everybody in the industry."
+
+Part of ensuring wide usage for vaccine passports is accounting for the large subset of the global population that still doesn't use or have access to smartphones . A few companies within the Covid-19 Credentials Initiative are also developing a smart card that strikes a middle ground between the traditional paper vaccine certificates and an online version that's easier to store and reproduce.
+
+"For us it's [about] how that digital credential can be stored, can be presented, not only through smartphones but also in other ways for those people who don't have access to stable internet and also who don't own smartphones," said Lucy Yang, co-lead of the Covid-19 Credentials Initiative. "We're looking into it, and there are companies who are doing really promising work.
+
+CommonPass has partnered with several airlines to start rolling out its health credential app on select international flights.
+
+Once they build a vaccine passport, companies will need to make sure people are comfortable using it. That means confronting concerns about the handling of private medical information.
+
+CommonPass, IBM and the Linux Foundation have all stressed privacy as central to their initiatives. IBM says it allows users to control and consent to the use of their health data and allows them to choose the level of detail they want to provide to authorities.
+
+"Trust and transparency remain paramount when developing a platform like a digital health passport, or any solution that handles sensitive personal information," the company said in a blog post . "Putting privacy first is an important priority for managing and analyzing data in response to these complex times."
+
+With vaccines manufactured by multiple companies across several countries in varying stages of development, there are a lot of variables that passport makers will need to account for.
+
+"A point of entry — whether that's a border, whether that's a venue — is going to want to know, did you get the Pfizer vaccine, did you get the Russian vaccine, did you get the Chinese vaccine, so they can make a decision accordingly," said Crampton. The variance can be wide: the vaccine developed by Chinese state-owned pharmaceutical giant Sinopharm, for example, has an efficacy of 86% against Covid-19, while the vaccines made by Pfizer and Moderna each have an efficacy of around 95%
+
+It's also unclear how effective the vaccines are in stopping the transmission of the virus, says Dr. Julie Parsonnet, an infectious disease specialist at Stanford University. So while a vaccine passport app will show that you've received the shot, it may not be a guarantee that you safely attend an event or get on a flight.
+
+"We still don't know if vaccinated people can transmit infection or not," she told CNN Business. "Until that is clarified, we won't know whether 'passports' will be effective."
+
+Still, Behlendorf anticipates that the rollout and adoption of vaccine passports will happen rather quickly once everything falls into place and expects a variety of apps that can work with each other to be "widely available" within the first half of 2021.
+
+"Rest assured, the nerds are on it," he said.

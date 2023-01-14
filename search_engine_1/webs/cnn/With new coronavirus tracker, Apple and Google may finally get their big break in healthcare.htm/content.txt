@@ -1,0 +1,69 @@
+CNN —
+
+For years, Apple and Google have dreamed of breaking into the enormous market for personal health. Apple CEO Tim Cook has said he wants health tech to be considered Apple’s “greatest contribution” to humanity, and sought clearance from the Food and Drug Administration so that the latest Apple Watches can monitor your heart rhythm. Google has poured hundreds of millions into research on aging, cancer and neuroscience. Both have acquired health startups, and poached health executives.
+
+But perhaps no effort may give the companies as much of a foothold in the trillion-dollar health care industry as their joint plan, announced earlier this month, to track the spread of coronavirus.
+
+The undertaking is massive: By embedding disease-monitoring capabilities into virtually every smartphone on the planet, the tech giants hope to create a globe-spanning Covid-19 warning system. Soon, potentially millions of people could be having their first-ever interactions with Apple and Google in a health-related context.
+
+Convincing huge audiences to think of Apple (AAPL) and Google (GOOG) as natural players in the health space is likely to open even more doors for the companies in the bureaucratic, highly regulated and massively complex health care sector.
+
+There are a lot of ways the initiative could fail. It might not attract enough users to be effective. Governments may reject the technology. And years from now, the project could be remembered inside the health care industry as another example of Big Tech’s soaring ambitions outmatching their ability to deliver results.
+
+A high-profile failure to gain the trust of users, public health agencies and industry partners could “come back to haunt Apple and Google” in future health initiatives, said Joy Pritts, a health privacy expert and a former top adviser for privacy and security at the Department of Health and Human Services. But if they can pull it off, she and other experts said, it could finally establish Apple and Google’s credentials with the public as trusted, leading players in the health field — paving the way for even bigger opportunities.
+
+Neither Apple nor Google responded to requests for comment.
+
+In Silicon Valley, a history of big health ideas and stumbles
+
+Bold bets — and occasional dead ends — are nothing new for Silicon Valley’s efforts in health care. From immortality quests and supposedly revolutionary blood sampling to affordable genetic testing, “disrupting” health has been a perennial dream for an industry that prides itself on applying cutting-edge engineering and an innovator’s mindset to the thorniest problems.
+
+Those same sweeping aspirations to change the world were on display when Apple and Google, pledging to save lives, declared they would be joining the fight this month against the coronavirus.
+
+“All of us at Apple and Google believe there has never been a more important moment to work together to solve one of the world’s most pressing problems,” the companies said. “Through close cooperation and collaboration with developers, governments and public health providers, we hope to harness the power of technology to help countries around the world slow the spread of Covid-19 and accelerate the return of everyday life.”
+
+The move made headlines, not least because it saw two longtime rivals partner up. But Google’s ambitions in this area have long been clear. In 2008, Google announced a new project, Google Health, to host users’ medical data. By allowing participants to share their health information with CVS, Quest Diagnostics, Walgreens and others, the goal was to create an easy way for patients to manage their health care online.
+
+Since then, various units of Google’s parent company have embarked on even bigger projects. Calico was formed in 2013, dedicated to nothing less than lengthening the human lifespan. Verily has tinkered with smart, glucose-monitoring contact lenses and AI algorithms trained to detect heart disease. (More recently, Verily built a website to direct thousands of Californians to coronavirus testing locations.)
+
+In a reflection of Silicon Valley’s fail-fast, fail-often ethos, though, many of these experiments have remained just that. The glucose-tracking contact lens effort was shelved in 2018. Google Health shut down in 2012 after executives admitted it “didn’t catch on the way we would have hoped,” though it was later resurrected as a partnership with one of the country’s largest health care systems in a move that has attracted some federal scrutiny.
+
+Apple’s record in health is somewhat more limited, but its goals are equally lofty. In 2014, it rolled out HealthKit and the Health iOS app, which serve as the connective tissue linking health apps, doctors’ offices and health data created by and stored on iPhones. Apple has since partnered with hundreds of medical providers, including the Department of Veterans Affairs, to make patient health records viewable from the Health app itself. And it has increasingly positioned the Apple Watch as a health assistant, going so far as to secure Food and Drug Administration clearance for the Apple Watch’s electrocardiogram feature. The device can even dial for help if users experience a fall.
+
+“If you zoom out into the future, and you look back, and you ask the question, ‘What was Apple’s greatest contribution to mankind?’ It will be about health,” Apple CEO Tim Cook said on CNBC last year.
+
+Apple and Google’s contact tracing plan gets a mixed reception
+
+Compared to Apple and Google’s previous expeditions into health, though, no project stands to affect so many of their users so directly, or so immediately, as the contact-tracing feature the companies are calling “exposure notification.” But it also may create friction with certain governments, who have a big say in whether the companies’ technology will be used in their countries.
+
+Under the companies’ pandemic plan, public health officials will be able to build special Covid-19 apps that use Bluetooth wireless signals, not location data, to track when two or more devices come into contact with one another. Through a new feature in iOS and Android, the apps will be able to work together even if they’re built by different agencies. Only organizations that Apple and Google have recognized will be allowed to tap into the technology, the companies have said, and those developing the apps will need to adhere to strict guidelines established by the platforms.
+
+Most of the data collection and computation associated with the project will take place on individuals’ own phones, rather than on a centralized server controlled by authorities or the companies.
+
+The limitations have rubbed some governments the wrong way. France has pleaded with Apple and Google to ease the privacy guardrails that prevent officials from collecting user data, despite a record of privacy toughness. Britain and Australia have also moved to reject the tech companies’ approach, over similar concerns. The Australian app asks users to supply their names, phone numbers, postal codes and approximate age.
+
+Closer to home, some US states are forging ahead without the companies. Residents of North and South Dakota have already begun using an official contact tracing app, as has Utah. Those apps, unlike the system envisioned by Apple and Google, do collect some location information. The location data will help make contact tracing more effective, officials behind the apps told Reuters, and they hope Apple and Google will reconsider their stance on GPS data.
+
+Privacy researchers say using GPS data could potentially reveal more about a person than using Bluetooth data alone because the Bluetooth approach tracks only when devices have been in close proximity and without regard to their locations in the physical world. For example, the system could register two people sharing a park bench as having been in close contact without knowing that a visit to the park was ever involved.
+
+So far, Apple and Google have pushed for stricter privacy standards in their solution. In a recent press briefing, the companies said they would double down with additional encryption and layers of data obfuscation. The stonewall strategy seems to be working: This week, Germany caved and said it would drop its support for an alternative European proposal that did not conform to the tech companies’ approach.
+
+Now, Apple and Google just need the rest of the world to get on board. Experts say at least 50% to 60% of people would need to opt in for maximum effectiveness; anything less could result in missing links in understanding the chain of transmission, undercutting efforts by public health officials to track the virus.
+
+Even after users agree to participate, they will need to comply with the public-health advice provided through the system, including choosing to report their own positive test results. All of that is far from guaranteed.
+
+Partners with very different business models — for now
+
+Even though the two companies are working on this initiative together, their underlying business models could not be more different. While the exposure notification system’s privacy-first approach may imply bigger risks for Google, whose core business model revolves around mining personal information for advertising, experts say Google’s long-term vision is more sophisticated.
+
+Both companies have already promised not to monetize the Covid-19 exposure notification technology. And because the solution specifically minimizes the amount of personal data that users will generate, the system doesn’t lend itself to supporting ads.
+
+That makes the pandemic monitoring system less of a viable business in itself than a way for Google to show public health agencies what may be possible for them as future Google customers, said Lucia Savage, chief privacy and regulatory officer at the virtual care company Omada Health.
+
+Google’s approach so far suggests it’s more interested in organizing and interpreting information as a paid service for medical organizations — not free products supported by advertising, Savage said.
+
+“That could be the next phase,” she said, “bringing these data science and search and algorithmic processes that are ubiquitous in Silicon Valley to the public health realm.”
+
+For Apple’s part, Savage said the exposure notification project fits neatly into the company’s existing strategy with HealthKit: Building platforms and tools that help patients manage their own health care, digitally.
+
+If there had been no pandemic, Apple and Google would probably have discovered, in their own time, how to break into the health sector in a major way. But in responding to the current global crisis, the companies now have a chance to make a highly visible impact on the health of entire populations — and make the case this is an area they truly belong.

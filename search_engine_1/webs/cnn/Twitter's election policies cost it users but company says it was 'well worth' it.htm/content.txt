@@ -1,0 +1,11 @@
+(CNN Business) Twitter said Tuesday that its efforts to tackle misleading content around the US elections cost the platform some users.
+
+Twitter TWTR The company reported having 192 million monetizable daily active users -- or users who can be served ads on the platform -- during the quarter ending in December, up 27% from the year prior but lower than what Wall Street analysts were expecting. In a letter to shareholders,said product changes around the election dented its user numbers for the quarter.
+
+Ahead of the US election , the company introduced a number of changes to its product in an effort to clamp down on misinformation. Those efforts included removing tweet recommendations in users' feeds and notifications, and encouraging users to reshare posts with an added comment -- also known as a quote tweet -- rather than simply retweeting.
+
+After the election, Twitter rolled back those two changes because it noticed encouraging quote tweets didn't seem to be increasing context. As for hiding recommended tweets, it did not see a "statistically significant" difference in misinformation as a result of the move.
+
+In the letter to shareholders , Twitter acknowledged that some of the changes were "very effective," while others were "less effective and, as a result, have been discontinued."
+
+Read More

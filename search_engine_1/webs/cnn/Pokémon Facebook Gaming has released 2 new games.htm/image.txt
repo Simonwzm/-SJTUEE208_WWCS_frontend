@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191225103811-01-pokmon-tower-battle.jpg?q=x_5,y_0,h_897,w_1594,c_crop/w_800

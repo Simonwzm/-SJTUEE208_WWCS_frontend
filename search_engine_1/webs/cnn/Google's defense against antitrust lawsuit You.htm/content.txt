@@ -1,0 +1,75 @@
+Washington (CNN Business) In its two decades, Google has amassed a dizzying amount of power, building a search and advertising behemoth that many critics believe is an illegal monopoly. But the fact you get most of Google's services for free, and that many people seem to prefer them over alternatives, could -— Google hopes — save it from a landmark federal lawsuit challenging that alleged monopoly.
+
+Google's claim that it's benefited billions of consumers is quickly emerging as a pillar of the company's strategy for defending itself from the suit, which the Department of Justice filed Tuesday. That position takes advantage of a shift in how US law treats antitrust cases. Enormous companies like the Rockefellers' Standard Oil and " Ma Bell "-eraonce got broken up because they were deemed harmful to competition. Now they're spared that if the government can't prove they're harming consumers — by, for example, fixing or raising prices.
+
+Should Google's benefits to consumers cancel out any alleged abuses of its economic might? That's where the company and the US government may inevitably clash in court.
+
+How a judge answers the question could have far wider ramifications than this one case. It reflects deep tensions between what critics of US law say has allowed decades of corporate concentration, and what its defenders say is a feature of the system — not a bug — that keeps the focus squarely on consumers' welfare in a free market.
+
+The outcome could have lasting consequences for the internet and the rest of the economy.
+
+Where's the harm?
+
+Unlike in some other countries, US antitrust law is enforced by the courts, not directly by regulatory agencies. If the Justice Department or the Federal Trade Commission wants to go after a company it must first file a lawsuit like the kind now facing Google.
+
+That's put federal judges in an extremely powerful position. By interpreting the nation's antitrust laws, judges can bless or reject proposed industry-shaking mergers, decide whether a company has harmed competition, and, yes, order a behemoth broken up. Or they can turn a blind eye to what many others would consider anticompetitive behavior.
+
+Beginning in the 1970s, many judges came to adopt a strain of market-minded thought that's shaped generations of antitrust cases. The idea went like this: There's nothing inherently illegal about a big company, or even a monopoly. So long as consumers are benefiting, and the market is operating efficiently, the government shouldn't get too involved.
+
+Decades of judges appointed by both parties embraced this philosophy, often looking at consumer prices as a key metric for deciding cases. Through years of court precedent, it's now become a defining characteristic of modern antitrust litigation.
+
+"Antitrust law requires proving three key elements: The first is market power. The second is abuse of market power. And the third is consumer harm," said Carl Szabo, vice president and general counsel of NetChoice, a tech advocacy organization. What's missing from the DOJ complaint, Szabo said, is the third element.
+
+The people's choice
+
+Apple AAPL The government's lawsuit against Google focuses on two main areas. First is the company's decision to make Google search the default on Android, its mobile operating system and the world's most popular, which is distributed on its own phones as well as on phones made by some other manufacturers. Second are Google's contracts with, Samsung and other device manufacturers that make Google search the default on their phones.
+
+Both practices are anticompetitive, according to the complaint, largely because they keep other search providers from getting bigger. That allegedly reduces consumer choice and, as Deputy Attorney General Jeffrey Rosen told reporters on Tuesday, could mean "Americans may never get to see the next Google" if the company isn't stopped.
+
+But on a conference call with reporters Tuesday, Google representatives noted the suit appears to contain no specific allegations of consumers being harmed, and argued that Google's business decisions are perfectly justifiable, largely because they give consumers what they want.
+
+"The bigger point is that people don't use Google because they have to, they use it because they choose to," the company said in its official blog post responding to the suit. "We remain absolutely focused on delivering the free services that help Americans every day. Because that's what matters most."
+
+By invoking consumer preferences and the low price of its services, what Google's doing here is laying the groundwork for the debate it wants to have, not the one the government is raising in its suit.
+
+Based on the way courts have thought about antitrust for decades, it's a logical strategy.
+
+"Consumer harm is an element of the crime," Szabo said. "If the DOJ has evidence of consumer harm, it should have been in the complaint. Since it's not in there, I have to assume it doesn't exist. And anyone who's ever seen an episode of 'Law and Order' knows if you don't prove all the elements of a crime, there is no crime that's been committed."
+
+Calls for a new approach to antitrust
+
+But just because judges have interpreted the law for decades one way doesn't mean they can't go in another direction — or back to basics, said Sally Hubbard, director of enforcement strategy for the Open Markets Institute, an antitrust advocacy organization.
+
+At its core, she said, US antitrust laws prohibit harms to competition writ large, not just harms to consumers.
+
+"Nothing in Sherman Act Section 1, or Section 2, or the Clayton Act says anything about prices or consumer welfare," said Hubbard.
+
+Hubbard's view is emblematic of a push by a newer wave of lawyers and advocates to rethink the conventional antitrust wisdom.
+
+Judges' myopic, outdated obsession with consumer prices has blinded them to other ways in which consumers can be hurt by corporations, they say, particularly in a digital era in which services like Google technically don't charge consumers a cent but could still pose massive problems for competition.
+
+"Most general search engines do not charge a cash price to consumers," it said. "That does not mean, however, that these general search engines are free. When a consumer uses Google, the consumer provides personal information and attention in exchange for search results."
+
+The push to revisit the scope of antitrust law is gaining traction at a pivotal moment in US history. High-profile political figures including Sens. Bernie Sanders, Elizabeth Warren and Amy Klobuchar attribute many of the nation's economic ills to unchecked corporate power — and a lack of effective antitrust enforcement. Inequality is on the rise. Wages have stagnated. "Millionaires and billionaires" have become a popular rhetorical target.
+
+To prevent corporations from getting out of control, antitrust law was purposely written broadly so that regulators and courts had wide freedom to intervene, Klobuchar said last week while questioning Supreme Court nominee Amy Coney Barrett.
+
+But, Klobuchar said, "as of right now, it has been so narrowed in its interpretation ... that it's almost become impossible for people to bring those cases in any big way."
+
+History repeats
+
+The Justice Department isn't trying to break any new ground in the Google case, or argue for alternative interpretations of the law. Instead, it's sticking to a more tried-and-true approach.
+
+The Google suit is carefully written to follow, beat by beat, one of the signature antitrust tech cases of all time, US v. Microsoft, said William Kovacic, a law professor at George Washington University and a former chairman of the FTC.
+
+Microsoft MSFT In that pivotal 1998 suit, the government allegedwas illegally using its monopoly in desktop operating systems to shut out competition among web browsers.
+
+And in a twist of fate, Google now occupies the same position Microsoft once did, according to DOJ's latest complaint.
+
+"Back then, Google claimed Microsoft's practices were anticompetitive, and yet, now, Google deploys the same playbook to sustain its own monopolies," the suit said.
+
+The government didn't split up Microsoft. But the resulting settlement limiting how Microsoft could operate is widely recognized as having paved the way for new competition in internet services, including the rise of Google.
+
+The Microsoft case remains a powerful precedent in US antitrust law, said Kovacic. In presenting what it says is a similar case to the same court, the Justice Department is trying to stay within the bounds of convention — hoping lightning can strike twice.
+
+"What they're telling the court is, 'You've seen this before, and you don't have to be scared by this,'" Kovacic said.

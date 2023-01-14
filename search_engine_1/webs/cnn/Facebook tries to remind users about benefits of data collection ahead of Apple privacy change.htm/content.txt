@@ -1,0 +1,21 @@
+(CNN Business) Facebook said Monday that it is testing a new pop-up alert for iPhone and iPad users that stresses the benefits of its apps collecting personal data. The test comes ahead of an Apple privacy change with the potential to upend the social network's core business.
+
+is set to introduce a new requirement for users to give explicit permission for apps to track them across the internet, a move that has roiled Facebook , which relies on data collection to target ads.
+
+Now, Facebook plans to show a prompt "of our own, along with Apple's" in an effort to show users how personalized ads "support small businesses and keep apps free," the company said in an update Monday to an older blog post called "Speaking Up for Small Businesses."
+
+"As we shared in December, we disagree with Apple's approach, but will be showing their prompt to ensure stability for the businesses and people who use our services," Facebook said in the post.
+
+For, the stakes of Apple's new privacy change couldn't be higher. The social media company, which makes almost all of its revenue from advertising, has repeatedlywarned investors that Apple's software changes could hurt its business if users reject tracking permissions.
+
+held a press event to trot out small businesses opposed to the change and debuted a new hashtag to discuss it. In December, Facebook took out ads in The New York Times, Wall Street Journal and Washington Post, saying the requirement could be "devastating" to millions of small businesses that advertise on its platform. It alsoheld a press event to trot out small businesses opposed to the change and debuted a new hashtag to discuss it.
+
+Mark Zuckerberg, Facebook's CEO and cofounder, hammered a similar point on a conference call with analysts last month to discuss the company's most recent earnings report.
+
+"Apple has every incentive to use their dominant platform position to interfere with how our apps and other apps work, which they regularly do, to preference their own," Zuckerberg said. "This impacts the growth of millions of businesses around the world, including with the upcoming iOS 14 changes. Many small businesses will no longer be able to reach their customers with targeted ads."
+
+While this latest move may seem like yet another shot fired at Apple, Facebook is taking Apple up on its offer for any developer to explain why it wants certain permissions for tracking. "We feel that people deserve the additional context, and Apple has said that providing education is allowed," Facebook said in the blog post.
+
+On Apple's privacy and data webpage , the company said developers are allowed to do this "so long as you are transparent to users about your use of the data in your explanation. ... Apps must respect the user's permission settings and not attempt to manipulate, trick, or force people to consent to unnecessary data access."
+
+Facebook did not immediately respond to a request for comment. Apple declined to comment.

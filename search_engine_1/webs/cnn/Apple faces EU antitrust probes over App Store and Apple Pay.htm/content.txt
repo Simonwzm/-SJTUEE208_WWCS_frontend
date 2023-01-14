@@ -1,0 +1,31 @@
+London CNN Business —
+
+European regulators on Tuesday announced formal antitrust investigations into Apple’s App Store and its Apple Pay system.
+
+The first stems from complaints filed by Spotify (SPOT) and Rakuten. (RKUNF) They have claimed that Apple (AAPL) is violating EU competition rules by requiring the use of its in-app purchase system to access music and books, and by preventing apps from informing users of cheaper ways to buy that content outside the App Store.
+
+Apple charges app developers a 30% commission on all digital content bought via its in-app system.
+
+EU officials are concerned that Apple’s practices may harm consumers by preventing them from benefiting from greater choice and lower prices. A preliminary investigation found that Apple’s competitors have passed on its fees in the form of higher prices to customers, or disabled the in-app purchase systems altogether.
+
+The European Commission’s top antitrust official, Margrethe Vestager, said in a statement that it appears Apple has a “gatekeeper” role when it comes to the distribution of apps and content to iPhone and iPad users.
+
+“We need to ensure that Apple’s rules do not distort competition in markets where Apple is competing with other app developers, for example with its music streaming service Apple Music or with Apple Books,” Vestager said.
+
+Spotify filed its complaint in March 2019, claiming that Apple puts its competitors at an unfair disadvantage by requiring it and other content providers to pay the 30% commission. Apple Music doesn’t have to pay the fee.
+
+Rakuten, Japan’s biggest e-commerce company, filed a similar complaint against Apple in March this year, arguing that it is engaging in anti-competitive behavior when it takes the 30% cut on ebooks and audiobooks sold through the App Store while pushing its own ebook service.
+
+The second antitrust investigation will look into the impact of Apple’s conduct on competition in mobile payments.
+
+The European Commission said it was concerned that Apple Pay’s terms and conditions for buying goods and services on apps and websites on Apple devices “may distort competition and reduce choice and innovation.”
+
+It also has concerns that Apple is limiting access to its “tap and go” functionality on iPhones for payments in stores, and may be refusing rivals access to Apple Pay.
+
+In a statement responding to both investigations, Apple said it was “disappointing” to see the Commission advance “baseless complaints from a handful of companies who simply want a free ride, and don’t want to play by the same rules as everyone else.”
+
+“At the end of the day, our goal is simple: for our customers to have access to the best app or service of their choice, in a safe and secure environment. We welcome the opportunity to show the European Commission all we’ve done to make that goal a reality,” the Apple spokesperson said.
+
+Apple is already facing antitrust pressure around the world. In March, the French Competition Authority announced it was fining the company a record €1.1 billion ($1.2 billion) over restrictions it placed in contracts with wholesalers. In the United States, several agencies are probing Apple, and Congress is expected to hold an antitrust hearing later this summer featuring its CEO, alongside those of Amazon, Facebook and Google.
+
+— Brian Fung contributed to this report.

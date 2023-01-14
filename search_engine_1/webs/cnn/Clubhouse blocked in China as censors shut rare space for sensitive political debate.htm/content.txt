@@ -1,0 +1,37 @@
+Hong Kong (CNN Business) Clubhouse appears to have been blocked in China just days after it became the go-to app for uncensored conversations on a host of sensitive issues banned on other platforms.
+
+Over the weekend, several large Chinese-language chat rooms wereset up on the invite-only audio app, where guests talked about politically-charged topics such as the ongoing crackdown against the Uyghurs in Xinjiang democracy in Hong Kong and the sovereignty of Taiwan
+
+By Monday evening, many Clubhouse users in mainland China reported that the app had been censored. When they tried to log onto the app, they received a red error message showing "a secure connection to the server cannot be made."
+
+However, likeand many other platforms that are blocked by China's Great Firewall — a sprawling censorship and surveillance apparatus — the app can still be accessed by using a virtual private network. VPNs use encryption to disguise internet traffic, helping people in China get around the firewall. Clubhouse did not immediately respond to a request for comment.
+
+On Clubhouse, several chat rooms soon sprang up to discuss the blocking of the app. They were joined by hundreds of users, including some who said they were based in mainland China. Greatfire.org, a group which monitors internet censorship in China, also confirmed that the app had been blocked.
+
+The ban on Clubhouse comes as little surprise. With its political discussions drawing so much interest from mainland China, many users and observers expected it was only a matter of time before the app was blocked. While the censorship might deter new users, it is unclear how many existing users will be kept off the platform.
+
+Susan Liang, a 31-year-old from Shenzhen, said she would continue to join Clubhouse chats on sensitive topics via a VPN because she didn't want to give up the frank and open discussions.
+
+"It is too rare an opportunity. Everyone has lived under the Great Firewall for so long, but on this platform, we can talk about anything," she told CNN Business. "It's like someone drowning, and can finally breathe in a large gulp of air."
+
+But Liang expects some other users might be discouraged by having to use a VPN, as that technology has been increasingly targeted by Chinese government crackdowns. Any VPN not approved by the government is illegal.
+
+Benjamin Ismail, an expert with Apple Censorship — a project run by GreatFire.org — said some users would be discouraged by the block but "it might not kill the app immediately" in China.
+
+Apple AAPL There were other obstacles for Chinese users to navigate, even before the reported blockage. The app is only available on iPhones, and only to those with a non-Chineseaccount. Once downloaded, prospective users also require an invite code, which can be hard to come by. On Monday, some were being sold on Chinese e-commerce platform Taobao for between $13 and $30 each.
+
+Popular political chat rooms
+
+While the app first became popular in China among tech industry circles, its political chat rooms quickly drew newcomers eager for release from the tight censorship at home. As it grew in popularity, many Chinese also joined to discuss topics such as culture, lifestyle and celebrity gossip. But the space for free, inclusive political discussions was one of the rarest qualities of the app for Chinese-speaking communities.
+
+One chat room hosted by Taiwan-based blogger Zola was running non-stop for almost 120 hours, joined by Chinese speakers in different time zones.
+
+Another popular chat room invited young people from both sides of the Taiwan Strait to share their views and personal stories. The discussions started with lighthearted subjects but soon turned to politics, with users comparing the political systems of China and Taiwan and debating the prospects of unification.
+
+"I don't think these topics should be off limits," Jimmy Tan, a Guangzhou-based user who opened the chat room with his designer friend in Taiwan, wrote on social media Saturday. "The fact that our chats can so quickly switch to these topics exactly means that we should talk about them — they are relevant to every one of us — and it also means that we've been holding our tongues for way too long."
+
+Other users and outside observers expressed skepticism over how representative the groups engaging in these political discussions are of Chinese public opinion, pointing to the self-selecting nature of the participants, as well as the barriers to using Clubhouse itself which prevent it from being a completely public app.
+
+And the warning signs were already looming before the censors struck. On Monday, Global Times, a state-run nationalist tabloid, accused political discussions on the app of being "one-sided."
+
+"Political topics on the platform are not discussed as rationally as other topics like technology or culture," the paper said.

@@ -1,0 +1,25 @@
+New York CNN Business —
+
+IBM on Sunday announced an initiative to increase access to high performance computing for groups researching and fighting the novel coronavirus, also known as COVID-19.
+
+IBM (IBM) partnered with the White House Office of Science and Technology Policy and the Department of Energy to create the COVID-19 High Performance Computing Consortium. The effort, which IBM (IBM) started just last week, is expected to harness powerful high performance computing, or “supercomputing,” resources that will massively increase the speed and capacity of coronavirus-related research.
+
+“How can we find new treatments? Or ultimately vaccines and a cure?” Director of IBM Research Dario Gil asked in an interview with CNN Business. “Those are the areas we’ll be looking at … We’re going to bring an unprecedented amount of computing power” to address coronavirus.
+
+The system will harness 16 supercomputing systems from IBM, national laboratories, several universities, Amazon (AMZN), Google (GOOGL), Microsoft (MSFT) and others. Computing power will be provided via remote access to researchers whose projects are approved by the consortium’s leadership board, which will be comprised of tech industry leaders and White House and Energy Department officials. The group plans to begin accepting research proposals through an online portal that will go live Sunday evening.
+
+Supercomputers can solve calculations and run experiments that, if done on traditional computing systems or by hand, would take months or years.
+
+In traditional computing systems and data centers, each computer functions and does calculations independently. By contrast, high performance computers can work together and pass calculations between one another to process information more quickly. Such computers are also especially good for conducting research in areas like epidemiology and molecular modeling because the systems mirror the interconnectivity that exists in nature, Gil said.
+
+The consortium will also connect researchers with top computational scientists to ensure the machines are used as efficiently and effectively as possible. The services and computing power will be provided for free to researchers.
+
+“We’re bringing together expertise … even across competitors, to work on this,” Gil said. “We think it’s important to bring a sense of community and to bring science and capability against this goal. These systems are some of the most in demand scientific and computational systems that we have.”
+
+Supercomputing systems, especially those at national laboratories, are used for critical work such as safeguarding the country’s nuclear stockpile. The consortium, Gil said, will manage priorities for the system and ensure as much supercomputing power is allocated to coronavirus research as possible.
+
+An early project by researchers at the University of Tennessee using IBM’s Summit supercomputer at the Oak Ridge National Laboratory has highlighted the potential for the technology.
+
+Researchers used the supercomputer to screen 8,000 compounds to identify the 77 most likely to bind to the main “spike” protein in the coronavirus and render it incapable of attaching to host cells in the human body. Those 77 compounds can now be experimented on with the aim of developing a coronavirus treatment. The supercomputer, Gil said, made it possible to avoid the lengthy process of experimenting on all 8,000 of those compounds.
+
+“America is coming together to fight COVID-19, and that means unleashing the full capacity of our world-class supercomputers to rapidly advance scientific research for treatments and a vaccine,” Michael Kratsios, Chief Technology Officer for the United States, said in an emailed statement. “We thank the private sector and academic leaders who are joining the federal government as part of the Trump Administration’s whole-of-America response.”

@@ -1,0 +1,11 @@
+(CNN Business) The Justice Department has created a new task force dedicated to rooting out and responding to the growing threat of ransomware, according to an agency memo obtained by CNN Business.
+
+The new initiative follows what the memo describes as the worst year ever for ransomware attacks — incidents in which hackers seize control of victims' computers and refuse to unlock them until they receive a payment.
+
+The DOJ effort highlights how cybersecurity threats have become a major focus of the Biden administration, particularly following other recent high-profile network security incidents such as the Russian-backed SolarWinds hacking campaign and the Microsoft Exchange server vulnerabilities that Microsoft has attributed to Chinese hackers
+
+"Although the Department has taken significant steps to address cybercrime, it is imperative that we bring the full authorities and resources of the Department to bear to confront the many dimensions and root causes of this threat," Acting Deputy Attorney General John Carlin wrote to DOJ department heads, US attorneys and the FBI on Tuesday.
+
+The new task force will unify efforts across the federal government to pursue and disrupt ransomware attackers, according to the memo. Actions could include everything from "takedowns of servers used to spread ransomware to seizures of these criminal enterprises' ill-gotten gains," the memo continued.
+
+Read More

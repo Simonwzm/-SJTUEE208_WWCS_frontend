@@ -1,0 +1,17 @@
+New York (CNN Business) Slack shares shot up as much as 28% Wednesday, despite being halted twice for volatility, following a report that Salesforce has been in talks to acquire the workplace messaging app. Salesforce shares were down more than 4% on the news.
+
+Any deal would likely value Slack at more than its market capitalization of $17 billion earlier Wednesday, according to the Journal. The report also notes that there is no guarantee the talks will lead to a deal. As of Wednesday afternoon, Slack's stock price reached more than $36 and its market cap grew to nearly $21 billion.
+
+Slack is a workplace communications tool that has long been popular among tech companies, media firms and retailers — it is used byand others (including CNN).
+
+The pandemic has accelerated Slack's growth as many companies scramble to manage remote teams. Slack's stock is up more than 59% since the start of 2020. In its most recent quarterly earnings report in September, the company said it had more than 130,000 paid customers, up 30% year-over-year.
+
+Microsoft MSFT The company does, however, face steep competition in the remote collaboration space, including from. And it has not yet turned a profit since its initial public offering last year.
+
+A Salesforce acquisition of Slack could be a sensible combination. Like Slack, Salesforce is also a software company that aims to improve business operations. It sells cloud-based customer relationship management software, as well as other enterprise applications for services such as marketing and data analytics.
+
+A deal to buy Slack would likely mark Salesforce's largest acquisition ever. Salesforce last year acquired data analytics firm Tableau Software for $15.7 billion, in a bid to help companies better visualize and make use of their data. In 2018, it bought Mulesoft, a software company that helps link different systems together, for $6.5 billion.
+
+"This deal would be a major shot across the bow at Microsoft with the company's Teams offering a direct messaging competitor against Slack that has been a clear hurdle to growth and now would be a two horse race between Microsoft and Salesforce," Wedbush analyst Dan Ives said in a note to investors. "For Microsoft this would competitively change the landscape and make Salesforce even that much more of a competitor."
+
+Ives added that a deal between Slack and Salesforce could set the stage for more merger and acquisition activity in the cloud software space in 2021.

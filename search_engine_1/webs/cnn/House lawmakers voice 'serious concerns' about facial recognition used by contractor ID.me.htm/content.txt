@@ -1,0 +1,25 @@
+(CNN) Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the " efficacy, privacy and security " of its services and products. The move, which comes months after the IRS halted a plan to require taxpayers to use ID.me when logging onto their accounts amid a privacy backlash, further ratchets up scrutiny of the service in Washington.
+
+Carolyn B. Maloney, chair of the House Oversight Committee, and James E. Clyburn, chair of the House select subcommittee on the Coronavirus crisis, sent a letter to Blake Hall, CEO and founder of ID.me, asking for documents and information relating to the company's contracts with federal agencies and states.
+
+The 10-page letter, which was first reported by The Washington Post, noted that a number of reports have "raised concerns about ID.me's performance on government contracts and the effectiveness of its products and services" and that users of ID.me have indicated long wait times to get their identities verified that range "from hours to weeks, as well as other roadblocks that have led to denied benefits."
+
+Many Americans encountered ID.me — and facial-recognition software — for the first time during the pandemic, as state employment agencies started working with the company to verify users online in hopes of cutting down on a surge of fraudulent claims for state and federal benefits that cropped up alongside a tidal wave of authentic unemployment claims. Ten federal agencies and 30 states use the company, and facial-recognition software is typically used as part of the process to prove that a person is who they say they are. ID.me says it has 81 million users and adds more than 145,000 new ones each day.
+
+ID.me was set to become the sole identity verification tool for taxpayers who want to log in to the IRS's website — requiring those who wanted to access certain IRS online services to first submit a picture of a photo ID and then take a video selfie with a smartphone or computer so facial recognition software could compare the two. But the IRS halted that plan in February after backlash from privacy groups and lawmakers.
+
+In a statement Thursday, ID.me spokesman Patrick Dornton said, "We look forward to providing important information to the Committee on how ID.me has expanded access to government for disadvantaged Americans, including individuals who do not have credit history, are underbanked, or are without a home." He added that the company "adheres to the federal guidelines for identity verification and login while providing services to public sector agencies. These standards have proved remarkably effective at preventing fraud."
+
+The letter asked ID.me to provide the committees with a slew of documents and data by April 28. They include a list of all the federal, state and local government contracts with which ID.me used biometric authentication from 2014 to the present, along with details such as how many users provided face-scan data to the company under these contracts.
+
+Additional requests included details about how ID.me determines if biometric data is "suspicious or fraudulent" and the number of people that used ID.me to verify their identities to access unemployment insurance from March 2020 to February 2022.
+
+The letter also noted how ID.me said as recently as January 24 that it does not use what's known as one-to-many facial recognition, which attempts to match a photo of a person to ones in a database of faces (the kind of software police might use). But days later, Hall wrote in a LinkedIn post that the company does use one-to-many facial recognition software to check selfies against an internal database of known bad actors.
+
+The lawmakers also asked ID.me for all of its communications with the IRS about one-to-many facial-recognition technology. Treasury spokeswoman Alexandra LaManna said the agency declined to comment.
+
+Facial-recognition software has been criticized by privacy and digital rights groups for years over privacy issues and other real and potential dangers. For instance, such technology has been shown to be less accurate when identifying people of color, and several Black men, at least, have been wrongfully arrested due to the use of facial recognition.
+
+The new probe follows months of criticism of ID.me in particular by privacy advocates and some lawmakers. Even as facial-recognition technology has proliferated and been embraced by law enforcement, lawmakers on both sides of the political aisle have expressed serious concerns about its deployment.
+
+"I am deeply concerned that the federal government lacks a clear plan, leaving agencies like the IRS to enter contracts worth tens of millions of dollars with questionable terms and oversight mechanisms," Maloney said in a statement. She added that she hopes the investigation "leads to more transparency and accountability in the federal government's use of facial recognition technology."

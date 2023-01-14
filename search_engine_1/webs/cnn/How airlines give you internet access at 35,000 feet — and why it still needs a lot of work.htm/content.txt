@@ -1,0 +1,57 @@
+(CNN Business) Flights used to be a chance to sit back (albeit a bit cramped) and watch a recently released movie or catch up on some reading. Now they're just another place to log on.
+
+Delta and United each host more than 1.5 million inflight WiFi sessions a month, the airlines told CNN Business, while JetBlue said its service is used by "millions of customers" every year. Southwest declined to share specific numbers but said inflight Wifi is "popular."
+
+Alaska Airlines, meanwhile, estimates that about 35% of its passengers on average make use of its $8 onboard WiFi services which include surfing the web and streaming.
+
+While most airlines will allow certain messaging apps for free, full internet access in the skies usually comes at a premium, with Delta charging nearly $50 for a monthly pass on US flights (though the airline plans to switch to a $5 per flight per device offering by the end of this year). But with a market that's currently estimated at around $5 billion and projected to grow to more than $12 billion by 2030, according to research firm Verified Market Research, there's a lot of room for improvement.
+
+Inflight internet has been around for nearly two decades, with aircraft manufacturer Boeing announcing its service, known as Connexion, in April 2000 and debuting it on a Munich-Los Angeles Lufthansa flight in 2004. Boeing discontinued the service in 2006, saying the market for it had "not materialized" as expected. But the advent of smartphones and subsequent efforts by a host of satellite providers and airlines have helped the technology evolve significantly in the past decade — though it still has some catching up to do in order to compare to home and office networks.
+
+How it works
+
+There are two main types of inflight connections. The first, known as air-to-ground or ATG, relies on antennae attached to the aircraft that catch the signal from cellphone towers on the ground.
+
+Intelsat, which launched air-to-ground services with American Airlines in 2008, currently operates a version of the technology on more than 1,000 aircraft across North America.
+
+The one major drawback of this technology is that, much like cellphone service on the ground, it is dependent on the density and connectivity of towers, and so flights over rural areas, deserts or large water bodies are likely to suffer drops in connectivity. The maximum speeds for these systems are currently around 5 megabits per second (which is shared by hundreds of passengers), according to Andrew Zignani, a research director at technology intelligence firm ABI Research who specializes in wireless connectivity. By comparison, median global download speeds for mobile and fixed broadband are around 30 megabits per second and 67 megabits per second respectively, according to recent data from monitoring app Speedtest.
+
+"To date, the biggest issues have been speed, limited availability, gaps in coverage, dropouts, and price," Zignani told CNN Business.
+
+That's why airlines and providers are increasingly switching to satellite-based connections that are relatively less susceptible to interruptions because they can more effectively cover the entirety of the flight path from space and keep the signal active as it moves through the air.
+
+That includes Intelsat, which has a network of over 50 satellites serving airlines such as Alaska, American, Delta, United, Air Canada, British Airways and Cathay Pacific.
+
+"As regional jet fleets are refreshed we expect the majority to migrate to satellite-based solutions," Jeff Sare, Intelsat's president of commercial aviation, told CNN Business.
+
+Viasat, another major provider used by several airlines around the world, uses its own network of satellites that provide high-speed connectivity and is gearing up to launch another satellite constellation later this year. The company debuted its services with JetBlue in 2013 and now serves more than a dozen airlines around the world.
+
+But even satellite connections are currently capable of around 100 megabits per second per aircraft or around 15 megabits per second per passenger device, a far cry from the speeds terrestrial WiFi is capable of.
+
+Many airlines use a combination of WiFi providers and types of technologies, depending on the type of aircraft and routes they need to be deployed on.
+
+Newer players such as Starlink, the satellite internet service run by billionaire Elon Musk's company SpaceX, are also entering the fray. Earlier this year, SpaceX announced a partnership with Hawaiian Airlines to provide high-speed internet through Starlink's network of low-earth orbit satellites.
+
+"Some of these solutions also adopt a hybrid approach, combining the best of both technologies to ensure optimal coverage depending on the specific flight path," said Zignani. "I believe we will see opportunities for all technologies in the coming years, and recent partnerships are showing that each technology will have its own part to play," he added.
+
+Challenges and opportunities
+
+There are still gaps between inflight WiFi and the networks you would use in your home, office, a coffee shop, or anywhere on the ground.
+
+While most airline WiFi connections now support messaging and social media functions, and some even have live TV and video streaming capabilities, providing users with the same level of bandwidth and connectivity mid-air can be a challenge.
+
+"The biggest point of difference for inflight WiFi is the complexity added by the mobility element," Don Buchman, vice president and general manager for commercial aviation at Viasat, told CNN Business. "The aircraft is traveling at a high rate of speed, typically banking during the flight, and often flying across large geographical areas that demand consistent coverage for a high-quality in-flight connectivity experience."
+
+And while satellites solve for some of the restrictions that cellphone towers face, expanding the satellite network to keep up with increasing demand is not always straightforward.
+
+As Sare of Intelsat puts it: "It is much faster and cheaper to deploy new cellular towers than to launch a satellite on a rocket."
+
+In a survey by Intelsat last year of airlines, service providers and equipment manufacturers, 65% of respondents said they anticipate increases in the number of passengers who expect to be connected while flying. The two biggest impediments to increasing inflight WiFi adoption, the survey indicated, were the high price of the service and "poor internet connection."
+
+Companies such as Viasat, Intelsat and Starlink continue to expand that capacity, however, launching more satellites every year in anticipation of the growing demand for their services. That added capacity will not only enhance the online experience for users, but could also potentially give airlines more avenues to monetize and lower the price.
+
+"One example is ad sponsored inflight WiFi so passengers can access WiFi for free and use it however they would like," Buchman said, adding that Viasat is also exploring ways to use its connectivity services to help airlines with functions such as crew management and aircraft maintenance.
+
+The biggest priority, according to Sare of Intelsat, is shortening the time it takes to make those technological advances happen, and he foresees more partnerships between companies to help move the industry standard forward.
+
+"Our vision is achieved when passengers can't tell the difference between being connected on the ground and in the air."

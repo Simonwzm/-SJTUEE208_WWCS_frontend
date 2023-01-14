@@ -1,0 +1,57 @@
+New York CNN Business —
+
+Sprint is a storied American brand, but it’s one that could cease to exist if its $26 billion merger with T-Mobile is approved.
+
+If the long-awaited merger goes through, it would mean not only the end of Sprint (S)’s long corporate history, it would also mark the end of several bruising decades of failed bets and teetering on the brink of bankruptcy. Even if the deal falls through, the future of Sprint (S) will still be up in the air.
+
+Both the Federal Communications Commission and the Department of Justice have approved the merger with T-Mobile. But the deal’s opponents — including 15 states and the District of Columbia suing to block it — argue it will consolidate the US wireless market from four to just three nearly equal-sized carriers, leading to higher prices and fewer options for consumers.
+
+Though it remains the fourth-largest wireless provider in the country, Sprint’s missteps have put it well behind larger rivals Verizon (VZ) and AT&T (T) (CNN’s parent company) in terms of customer numbers and network performance, and as the costly rollout of 5G looms large. Many think that without T-Mobile (TMUS), Sprint may struggle to stay afloat and will probably find itself in bankruptcy court, something even Sprint has begun to hint at.
+
+“Sprint’s just jammed between all of these forces with no right to win,” said Jonathan Chaplin, managing partner at New Street Research.
+
+The Slow Decline
+
+Sprint was born out of the thousands of miles of telegraph wire that ran along the Southern Pacific Railroad’s tracks to facilitate train dispatches. The name “Sprint” was an acronym for the system: Southern Pacific Railroad Internal Networking Telecommunications. In the 1970s, the group opened up access to the long-distance calling network for private customers.
+
+Two decades later, the Sprint Corporation became its own company and entered the wireless business with the 1992 acquisition of Centel, making it the country’s only provider of wireless, long distance and local calling. The following years were relatively successful for Sprint, perhaps helped by its famous “pin drop” commercials starring “Murphy Brown’s” Candace Bergen touting the performance of the network.
+
+In 2004, Sprint merged with Nextel in a bid to dramatically grow its wireless customer base and — sound familiar? — better compete with Verizon and AT&T. But that deal was an abject failure, and all of Sprint’s success came crashing down.
+
+“The company has been in declining condition ever since,” Chaplin said. “And they’ve allowed themselves to sink deeper and deeper into a hole that would be hard to get out of at this point.”
+
+The Nextel deal had several issues, including incompatible technologies: Nextel phones didn’t work on Sprint’s network, and vice versa. That meant the merged company couldn’t reap the benefits of their combined infrastructure. Customers fled Nextel and didn’t necessarily join Sprint. Sprint eventually wrote down nearly all of the merger’s value and shut down Nextel’s network in 2013.
+
+The failed merger left Sprint’s balance sheet depleted, so it didn’t have the same kind of cash to invest in improvements to its network as competitors.
+
+They’ve allowed themselves to sink deeper and deeper into a hole that would be hard to get out of at this point.” Jonathan Chaplin, managing partner at New Street Research
+
+Sprint also made a wrong bet on 4G technology. It rode the WiMax horse, which was the Betamax of 4G. That left it “wrong footed” when all the other carriers chose the LTE standard for their 4G networks, said Craig Moffett, founding partner at research firm MoffettNathanson. SoftBank acquired Sprint in 2013 and made a first attempt at merging it with T-Mobile, but the effort was scuttled by regulatory concerns.
+
+Still, a below-average network used to be enough to draw in customers, because Sprint was willing to charge below-average prices. As time went on, though, that became a less appealing offer. These days, people need their phones for everything from banking to paying for the subway, so low prices matter less than having a network that works everywhere, all the time.
+
+“Sprint used the comical tagline: We’re almost as good for less money,” Moffett said. “And almost as good is, for obvious reasons, not a terribly compelling value proposition.”
+
+Moffett says the company has lost money on many of the customers it drew in with steep promotions — they would choose Sprint over competitors when it offered them discounted service, but when it raised their rates to a price that was sustainable for the business, they would switch carriers.
+
+In the first six months of its fiscal 2019, Sprint posted net losses in the hundreds of millions of dollars. It also lost tens of thousands of postpaid subscribers, who are the customers most likely to pay their monthly bills and least likely to switch carriers.
+
+Counting on a merger
+
+Now, Sprint is trying to convince regulators that it needs to join forces with T-Mobile. The two companies argue their combined networks will provide better service to more customers and make it possible to roll out 5G, the next generation of wireless technology, more quickly.
+
+Opponents worry the merger will be a bad deal for consumers. Both T-Mobile and Sprint are known for bringing innovative customer benefits to the market, such as unlimited plans and the end of the two-year contract.
+
+“These two companies have been mavericks that have helped to lower prices,” said Gigi Sohn, who served as a senior advisor to former FCC Chairman Tom Wheeler under the Obama Administration. “You go from a four carrier market, where everybody has the incentive to compete, to a three carrier market, where the incentives are to all act in concert.”
+
+Sohn also said she doesn’t buy that consumers won’t pay less for below-average coverage, or that building out 5G more quickly will be worth the trade-off. Sprint has already been building out 5G in major US cities this year.
+
+But it’s unclear that Sprint will continue to be a real competitor if the merger is blocked. The company itself said so in an April filing with the FCC.
+
+“Sprint is unlikely to play a meaningful competitive role as a standalone company in the years to come, and any assessment of the impact its proposed merger will have on competition or the public interest should account for its diminished ability to be an effective competitor absent the transaction,” the filing reads. “Sprint is in a very difficult situation that is only getting worse.”
+
+If the states suing to block the merger win and the deal falls through, analysts say Sprint will likely end up in Chapter 11 bankruptcy court restructuring its assets. The process could help Sprint rid itself of debt and put it in a position to reinvest in its network so it can compete more effectively. But the timing for a potential bankruptcy is not ideal.
+
+“Bankruptcy is a long process …By the time they get out with this lean, mean balance sheet ready to invest, it may be way too late,” Chaplin said. “The rest of the industry is investing, the rest of the industry is getting more competitive, everyone is investing in 5G. It’s the worst possible time a company could go into bankruptcy and not be able to invest in its business.”
+
+Whether or not Sprint will have to face that uncertain future will probably be decided when the states’ suit to block the merger goes to trial, which is expected to begin next month.

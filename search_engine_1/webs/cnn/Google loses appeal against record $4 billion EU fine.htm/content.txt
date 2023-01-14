@@ -1,0 +1,35 @@
+Google (GOOGL) suffered one of its biggest setbacks on Wednesday when a top European court fined it 4.125 billion euros ($4.13 billion) for using its Android mobile operating system to thwart rivals, offering a precedent for other regulators to ratchet up pressure.
+
+The unit of US tech giant Alphabet had challenged an earlier ruling, but the decision was broadly upheld by the Europe’s second-highest court in Wednesday’s ruling and the fine was reduced only modestly from 4.34 billion euros ($4.34 billion).
+
+It is a record fine for an antitrust violation. The European Commission has imposed a total of 8.25 billion euros in antitrust fines on the world’s most popular internet search engine in three investigations stretching back more than a decade.
+
+This is the second court defeat for Google which lost its challenge to a 2.42 billion euro ($2.42 billion) fine last year, the first of a trio of cases.
+
+“The General Court largely confirms the Commission’s decision that Google imposed unlawful restrictions on manufacturers of Android mobile devices and mobile network operators in order to consolidate the dominant position of its search engine,” the court said.
+
+“In order better to reflect the gravity and duration of the infringement, the General Court considers it appropriate however to impose a fine of 4.125 billion euros on Google, its reasoning differing in certain respects from that of the Commission,” judges said.
+
+Google, which can appeal on matters of law to the EU Court of Justice, Europe’s highest, voiced its disappointment.
+
+“We are disappointed that the Court did not annul the decision in full. Android has created more choice for everyone, not less, and supports thousands of successful businesses in Europe and around the world,” a spokesperson said.
+
+Antitrust boost
+
+The ruling is a boost for EU antitrust chief Margrethe Vestager following setbacks in cases involving other tech giants such as Intel (INTC) and Qualcomm (QCOM) this year.
+
+Vestager has made her crackdown against Big Tech a hallmark of her job, a move which has encouraged regulators in the United States and elsewhere to follow suit.
+
+She is currently investigating Google’s digital advertising business, its Jedi Blue ad deal with Meta, Apple’s (AAPL) App Store rules, Meta’s marketplace and data use and Amazon’s (AMZN) online selling and market practices.
+
+The Court agreed with the Commission’s assessment that iPhone maker Apple was not in the same market and therefore could not be a competitive constraint against Android.
+
+The court backing could strengthen the EU antitrust watchdog in its investigations into Apple’s business practices in the music streaming market where the regulator says the company dominates.
+
+FairSearch, whose 2013 complaint triggered the EU case, said the judgment will further strengthen Vestager’s landmark tech rules aimed at curbing US tech giants which will go into force next year.
+
+“This victory will embolden the Commission in enforcing its new regulation reigning in Big Tech, the Digital Markets Act,” its lawyer Thomas Vinje said.
+
+The Commission in its 2018 decision said Google used Android to cement its dominance in general internet search via payments to large manufacturers and mobile network operators and restrictions.
+
+Google said it acted like countless other businesses and that such payments and agreements help keep Android a free operating system, criticizing the EU decision as out of step with the economic reality of mobile software platforms.

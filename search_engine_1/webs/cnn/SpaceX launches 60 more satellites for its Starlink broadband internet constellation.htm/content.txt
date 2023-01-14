@@ -1,0 +1,19 @@
+New York CNN Business —
+
+SpaceX launched its fourth batch of internet-beaming satellites Wednesday as the company makes an unprecedented push to build a broadband internet business by deploying hundreds of satellites in one year.
+
+About 60 small satellites were fired into orbit atop a SpaceX Falcon 9 rocket from Cape Canaveral Air Force Station in Florida. Liftoff occurred shortly after 9 a.m. ET.
+
+This batch of satellites will join more than 170 others that SpaceX launched on three previous missions. As many as 22 more launches are lined up for 2020, potentially growing the company’s broadband constellation — called Starlink — to more than 1,500 satellites.
+
+SpaceX has regulatory approval to launch a total of more than 10,000 satellites. The company is also seeking approval to deploy another 30,000 on top of that.
+
+The goal is to offer affordable internet service to parts of the United States and Canada by mid-2020, and eventually to beam cheap high-speed broadband across the globe – including rural areas that do not currently have internet access.
+
+It’s a business plan that could bring in billions of dollars per year in revenue for SpaceX, according to CEO and chief engineer Elon Musk. But it also comes with enormous questions -— and risks.
+
+The price of building and launching the satellites will likely run as high as $10 billion, according to one early estimate from the company. There are also technical hurdles, such as how to build affordable user terminals. Starlink customers will need these user terminals, which will use complex antennas, to set up usable broadband connections at their home or office.
+
+Astronomers have also raised concerns about the multitudes of Starlink satellites disrupting their view of the night sky. SpaceX says it’s working with the science community on ways to address those issues.
+
+SpaceX, its competitors and other startups have plans to deploy tens of thousands of satellites over the next decade. That also presents daunting questions about the risks of satellites colliding in orbit and how regulators can keep pace with the rapid development of commercial activity in Earth’s orbit.

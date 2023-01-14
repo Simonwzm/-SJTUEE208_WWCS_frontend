@@ -1,0 +1,51 @@
+Washington, DC CNN Business —
+
+The calendar will soon turn to 2020, and you can be forgiven if you’re wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end.
+
+Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla’s Elon Musk talked of autonomous cross-country trips in 2017. GM promised self-driving rides would be available in 2019. Ford was more cautious with its choice of 2021.
+
+But now those deadlines are passing and humans are still behind the wheel. Uber, once one of the hardest charging companies in the field, put its program on hold for nine months in 2018 after one of its test vehicles struck and killed a pedestrian in Arizona. It’s going to be a while — maybe a really long while — before self-driving cars transform our daily lives.
+
+“Robotaxis have been three years away for probably the last five years,” said Matthew Johnson-Roberson, co-founder of Refraction AI, a startup making delivery robots. “We’re seeing a reckoning between what technologists understood to be the hard problems that were going to take us 10, 15, 20 years to solve, and what was a hype cycle.”
+
+Johnson-Roberson’s work in autonomous vehicles dates to a 2004 Pentagon-sponsored race. He says he’s amazed at the progress since then, but has shifted his focus to slow, lightweight robots, because they’re simpler to build.
+
+A long list of challenges has slowed self-driving cars and trucks. It’s hard to prove that they’re safe. Their sensors struggle in bad weather. The vehicles lack the human touch to smoothly navigate four-way stops, and merge into traffic. Some experts believe the vehicles won’t go mainstream without a technological breakthrough.
+
+A few years ago, Google’s self-driving unit Waymo “seemed remarkably confident. I thought maybe they knew something that I didn’t,” said Pedro Domingos, a professor at the University of Washington who researches artificial intelligence. “But I’m starting to think, actually, they don’t know something I know.”
+
+Domingos is among those who believe a technological leap is needed so that self-driving vehicles can interact with humans and handle novel situations gracefully. Artificial intelligence struggles when it faces a challenge it hasn’t seen before.
+
+Waymo is now on its fourth and fifth generation self-driving vehicles. Waymo
+
+Some of the largest developers of autonomous vehicles, including GM (GM) and Aurora, declined to comment on whether a breakthrough is necessary for the technology to enter our daily lives or if they believe its achievable if they simply continue down the current path. Waymo referred CNN to an interview in which its chief technology officer Dmitri Dolgov discussed the company’s wide-ranging efforts to develop the next generation of software and hardware.
+
+“These are all going to come together,” Dolgov said in March of this year. “I think all of them will click. And then you will start to see massive deployments across different geographies.”
+
+From science project to US highways
+
+Ten years ago, self-driving vehicles were little more than science projects, but the results from government-sponsored races impressed Google (GOOG) co-founders Sergey Brin and Larry Page. In 2009, they launched a self-driving project with 20 people, some used Toyota Prius vehicles and off-the-shelf sensors, according to a spokesman.
+
+These vehicles were primitive. But they made major strides early this decade following breakthroughs in a type of artificial intelligence called deep learning.
+
+Google spun off its self-driving project as an independent company in 2016. Waymo has driven more than 10 million autonomous miles on roads and has offered more than 100,000 rides through its service in Chandler, Arizona.
+
+“It’s a massive achievement,” said Oliver Cameron, CEO of the self-driving company Voyage, which is focused on offering rides in retirement communities. “There is a question mark about if the approach can be cost effectively scaled across the country and the world.”
+
+Argo AI, Ford’s self-driving arm, said this year that advances are required for its own self-driving cars to navigate complex conditions with dramatically lower computing power.
+
+“Until we’re able to do so at scale, the visionary benefits that have been spelled out for society won’t be achieved,” wrote Deva Ramanan, its principal scientist.
+
+One of Waymo's first self-driving vehicles is shown. It's since moved on to larger, faster vehicles. Google
+
+There are other challenges. The gains in AI that propelled self-driving vehicles have come with drawbacks. The systems are black boxes, making it hard to know why the car drives as it does. And when a self-driving vehicles makes an ill-advised decision, it’s extremely difficult to debug the vehicles.
+
+“We’re between a rock and hard place. Machine learning is right now not explainable or certifiable,” said Raj Rajkumar, a Carnegie Mellon University professor, who like Johnson-Roberson, competed in the government-sponsored races that helped spawn the self-driving industry.
+
+Researchers are trying to build tools to help AI explain itself, as well as build simulation technology, so the cars can be certified. There are also unanswered ethical questions over whether a car should, say, protect its passengers’ lives over those of pedestrians.
+
+Legislators are giving themselves a timeline of years to figure out how to regulate the technology, and it may arrive even later than the cars. Draft legislation on Capitol Hill, which was viewed by CNN Business, calls for allowing 10 years to issue safety standards for autonomous vehicles.
+
+Charles Isbell, a Georgia Tech professor researching automation and robotics, expects a tragedy involving a self-driving vehicle will trigger legislation that will radically change the trajectory of automation.
+
+“What is the right thing for the car to do when something bad is about to happen?” Isbell said. “It would be nice if we wrestled with these questions in 2020, rather than 2030.”

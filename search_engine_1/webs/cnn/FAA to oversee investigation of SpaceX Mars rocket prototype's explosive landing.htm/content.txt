@@ -1,0 +1,45 @@
+Austin, Texas (CNN Business) The Federal Aviation Administration said it will oversee an investigation into a crash landing of a SpaceX prototype rocket on Tuesday. The announcement comes after the FAA forced SpaceX to delay the launch as it investigated a previous explosion of a similar rocket prototype.
+
+The destroyed vehicle, SpaceX's Starship SN9, was an early prototype for a rocket the company hopes will carry the first humans to Mars. Launched in a high-altitude test flight Tuesday, the vehicle traveled a few miles up in the air, hovered for a moment, and then conducted a belly flop-like maneuver on descent before making an explosive landing back on the launch pad.
+
+"The FAA's top priority in regulating commercial space transportation is ensuring that operations are safe, even if there is an anomaly," an agency spokesperson said in a statement, using the industry term for a launch failure. "The FAA will oversee the investigation of today's landing mishap involving the SpaceX Starship SN9 prototype in Boca Chica, Texas. Although this was an uncrewed test flight, the investigation will identify the root cause of today's mishap and possible opportunities to further enhance safety as the program develops."
+
+When asked how the investigation would be carried out, the spokesperson said "we have nothing further to add tonight."
+
+But public FAA documents say that when a rocket "mishap" occurs, the FAA's Office of Commercial Space Transportation "may elect to conduct the investigation or authorize the launch operator to conduct the investigation" under FAA supervision.
+
+The FAA defines a mishap as a "launch or reentry accident, launch or reentry incident, launch site accident, failure to complete a launch or reentry as planned, or an unplanned event or series of events resulting in up to $25,000 worth of damage, a fatality or serious injury.
+
+SpaceX said Wednesday morning that during the launch the rocket's three engines ignited, throttled off, and then two of the engines attempted to re-ignited for the landing, but only one successfully powered back on, causing the rocket burst into a fireball when it returned to the launch pad.
+
+SpaceX engineer John Insprucker said on the company's livestream of the event that much of the test flight "looked to be very good," and engineers were able to gather data to help improve the Starship design throughout the flight, which reached about 10 km, or six miles, high.
+
+"We demonstrated the ability to transition the engines to the landing propellant tanks, the subsonic reentry looked very good and stable," Insprucker said. "We've just got to work on that landing a little bit."
+
+The test launch comes after the 160-foot tall rocket prototype had been stranded on its launchpad in the Texas over the weekend. It was poised to take off for the test launch last week, but it stayed grounded because SpaceX violated a public safety agreement it had with federal regulators during a previous test launch, according to the Federal Aviation Administration.
+
+Starship | SN9 | High-Altitude Flight Test
+
+Last Thursday, with Starship SN9 fueled and able to launch at any moment, the FAA sent out a surprising advisory that said the launch had been scrubbed.
+
+The FAA, which oversees US airspace as well as licenses rocket launches, ordered SpaceX to halt operations at its testing facilities in South Texas "that could affect public safety," the agency said. After previously declining to comment on its investigation, which was first reported by The Verge , the FAA said Tuesday that it concluded this week that SpaceX took "corrective action" and is now complying with public safety rules. The agency did not disclose the nature of the public safety issue or what corrective action was undertaken.
+
+The FAA reinstated SpaceX's authorization to launch its rocket prototypes late Monday, according to a statement from the agency.
+
+The company did not respond to requests for comment for this story, nor has it responded to requests for comment in more than eight months.
+
+At the root of the rift between SpaceX and the FAA was a test launch SpaceX carried out in December of SN9's predecessor, known as Starship SN8, which also exploded on the launch pad. Prior to that launch, SpaceX had "sought a waiver to exceed the maximum public risk allowed by federal safety regulations," according to the FAA. The agency denied that waiver request.
+
+But SpaceX proceeded with the test launch anyway , conducting a high-altitude "hop test" that saw it successfully reach its desired altitude and maneuver through a series of in-air acrobatics before it explosively crash landed back at its launch site. Before the launch, Musk predicted that SN8 would have a one-in-three chance of surviving the test flight.
+
+Despite the tweet, the FAA said in a statement Tuesday that SpaceX failed to assess and document the risks to "public health and safety" associated with a crash or explosion, violating a federal regulation.
+
+"The FAA required SpaceX to conduct an investigation of the incident, including a comprehensive review of the company's safety culture, operational decision-making and process discipline," an FAA spokesperson said in a statement Tuesday. "All testing that could affect public safety at the Boca Chica launch site was suspended until the investigation was completed and the FAA approved the company's corrective actions."
+
+The FAA did not say what the corrective actions were. The spokesperson added that the FAA plans to take "no further enforcement action on SN8 matter."
+
+"The FAA-approved corrective actions implemented by SpaceX enhanced public safety. Those actions were incorporated into today's SN9 launch," the statement reads.
+
+The FAA was already focused on reconfiguring its launch licensing process to make it more "streamlined." But it's not clear if the updated procedures, which are expected to go into effect in the near future, would have helped SpaceX quickly obtain authorization to loosen the public safety restrictions on its launch license that it requested prior to the SN8 launch.
+
+SpaceX already has yet another Starship prototype, SN10, assembled. It's not clear when the company will attempt to launch it, but over the weekend, the company rolled the vehicle out a launch pad adjacent to where the SN9 took off.

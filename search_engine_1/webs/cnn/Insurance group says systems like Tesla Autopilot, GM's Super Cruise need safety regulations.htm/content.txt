@@ -1,0 +1,31 @@
+Washington, DC CNN —
+
+The Insurance Institute for Highway Safety is calling for the creation of safety regulations of partially automated driver assistance systems, like Tesla’s Autopilot and GM’s Super Cruise.
+
+The organization, which is funded by the car insurance industry, recommended increased monitoring of drivers to ensure they’re engaged, prohibiting automated lane changing and restricting the use of these systems to the roads they’re designed for. It warned that when too much of the driving shifts away from humans, they stop paying attention and fail to control their vehicle.
+
+The announcement comes two weeks after the National Transportation Safety Board reiterated its recommendations that Tesla make safety changes to its Autopilot system following a fatal crash involving a distracted driver who was using the company’s driver assistance system.
+
+IIHS president David Harkey said his organization’s recommendations were motivated by the recent increase in partially self-driving systems, which are not regulated. The federal government has been focused on figuring out how to regulate fully automated vehicles, which don’t require a human driver, before they come onto the mass market.
+
+Partially automated vehicles are already being sold now. Tesla released Autopilot in 2015 and GM followed suit with its Super Cruise technology two years later. Since then, automakers, such as Acura, BMW, Mercedes-Benz and Nissan, have released similar systems.
+
+“We thought it was time to put these recommendations down on paper,” Harkey told CNN Business. “Let’s make sure these systems are designed in a way that maximizes safety and do not create unintended consequences.”
+
+Harkey’s organization is sharing its recommendations with the National Highway Traffic Safety Administration, with the hope that it will form the basis of future regulations. The NHTSA said in a statement that it will review the IIHS report and that it recommends developers of systems, like Autopilot and Super Cruise, “incorporate appropriate driver-vehicle interaction strategies.” However, the NHTS did not elaborate on what those strategies might be.
+
+Among other things, the IIHS report calls for tracking drivers’ engagement levels using a combination of measures, including eye movements, blinking, head tilt, steering wheel input, and the speed of responses to alerts.
+
+IIHS said there are limitations to relying on a single measure for tracking drivers’ engagement. Tesla’s Autopilot monitors solely steering wheel torque; GM’s Super Cruise uses only eye-tracking.
+
+A disengaged driver might absentmindedly tap the steering wheel, the organization said. And eye tracking is difficult to monitor in vehicles today, they said, because the systems must be calibrated to each individual driver.
+
+The organization cited research showing that drivers still crash into hazards even when their eyes are on the road and hands are on the wheel. The researchers, who conducted driving experiments on test tracks, concluded that the crashes resulted from the driver overly relying on the automation technology.
+
+Tesla did not immediately respond to a request for comment. A GM spokeswoman said that Super Cruise uses an infrared camera to determine where the driver is looking and delivers an escalating series of prompts if the driver’s attention should return to the road.
+
+IIHS also recommended prohibiting automated lane changes, a feature on Autopilot and one that was recently added to Super Cruise. Harkey said that automated lane changes risk creating an unsafe environment because drivers are less engaged.
+
+The institute also said drivers should only be able to activate partially self-driving systems on roads for which they were designed. Some systems use GPS and other mapping technologies to identify the roadway.
+
+GM, for example, restricts Super Cruise’s usage to select highways. Tesla says that Autopilot is intended for use only on highways and limited-access roads. It says drivers should not use it on city streets, construction zones or areas where bicyclists or pedestrians may be present. But Tesla drivers can turn on and use Autopilot on a wide range of roads.

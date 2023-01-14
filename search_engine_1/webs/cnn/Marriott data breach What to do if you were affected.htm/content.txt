@@ -1,0 +1,67 @@
+New York CNN Business —
+
+If you’ve stayed at a Starwood hotel in recent years, there’s a good chance you’ve been impacted by a massive data breach that potentially exposed the personal data of about 500 million guests.
+
+Marriott — which owns Starwood hotels such as the St. Regis and the Westin — on Friday disclosed that the Starwood guest reservation system had been hacked, in a breach dating back to 2014.
+
+For 327 million people, Marriott says, the exposed information includes names, phone numbers, email addresses, passport numbers and dates of birth. For millions of others, credit card numbers and card expiration dates were potentially compromised. This kind of information could be used to steal your identity and open bank accounts, credit cards or loans in your name.
+
+It’s the second biggest corporate data breach in history, behind one involving Yahoo, which said last year that 3 billion accounts among several of its brands were compromised.
+
+Marriott said it will start emailing users who were impacted and it has set up a website with information about the breach.
+
+In the meantime, here’s what you can do to protect yourself:
+
+Change your password
+
+Marriott says guests should change their passwords regularly and pick ones that aren’t easily guessed. For example, instead of a common phrase, choose a combination of four or more unrelated words with numbers, characters and a mix of upper and lower-case letters.
+
+You should also have different passwords for all the services you use.
+
+“Changing your password will just add one more roadblock to a potential hacker getting into your system,” said Aaron Brantly, a cybersecurity expert at Virginia Tech.
+
+Many websites, including social media and financial accounts, offer two-factor authentication for an added layer of security. Even if someone obtains your password, you can’t access your accounts without a second piece of information, like a code texted to your phone.
+
+Monitor your accounts for suspicious activity
+
+Marriott recommends customers keep an eye on their Starwood Preferred Guest account for any suspicious activity. Guests should also check their bank, retirement, and brokerage accounts, as well as credit card statements to look for any unauthorized transactions.
+
+Some experts recommend signing up for credit monitoring services or identity theft protection. A more extreme step is putting a freeze on your credit, which blocks anyone from accessing your credit reports without permission.
+
+“Unfortunately, the reality is [these consumers] have to monitor continuously, for generally the rest of their lives,” said Brantly. “These types of accounts are sold regularly on the dark web. … You can usually buy credit card information for a couple dollars per credit card online.”
+
+Vivek Lakshman, VP of innovation at cybersecurity firm ThumbSignIn, says consumers can also enroll in services like WebWatcher – which Marriott is providing for free for a year – to track their exposure. These sites monitor websites where personal information is shared and alerts consumers if there’s evidence of their information exposed online.
+
+Open a separate credit card for online transactions
+
+Yair Levy, a cybersecurity and information systems expert at Nova Southeastern University, recommends having a credit card dedicated to online shopping. This makes it easier to track transactions and spot fraudulent activity.
+
+If that credit card is compromised, you also won’t have to update automatic payments for things like bills.
+
+Limit the information you share
+
+Experts say not to provide information unless it’s absolutely required to buy a product or service.
+
+“Consumers should limit what they provide companies based on their need to know. Often, companies gather data that they may not need, but take if volunteered,” said Marty Puranik, the CEO of Atlantic.Net, a cloud computing and hosting services provider.
+
+For example, a travel company may ask for passport information, but it may not be required. If it is, you can ask what other forms of identification you can provide instead.
+
+“If you give lower level information, or information that can be changed – for example, a second credit card to verify your identity – it is easier to change and protect that than a social security number or passport ID,” he said.
+
+But this isn’t always possible. If you are traveling internationally, a company like Marriott may require a passport number.
+
+Avoid saving credit card information on websites
+
+Experts recommend minimizing the number of places where you store credit card information. However, this doesn’t mean your data will be safe or protected – it just helps cut down on the risk.
+
+Another option is to use services such as PayPal, Google Pay, or Apple Pay, which let you pay for goods and services without divulging your credit card to the company you’re buying from.
+
+Be vigilant
+
+Consumers should work under the assumption cyber criminals already have access to their information as breaches become increasingly common.
+
+“Having a very healthy dose of skepticism moving forward is probably the best way to safeguard yourself in an era where all your information has been divulged, unfortunately,” said Brantly.
+
+Experts caution internet users to be wary of “phishing” attempts by bad actors looking to steal your data, including through bogus emails, fake links and fraudulent websites. On its informational website about the hack, Marriott reminded members the company will not ask you to provide your password by phone or email.
+
+“Know you are consistently being exposed [and] consistently under threat – not necessarily through any fault of your own but accidental disclosures by companies or carelessness by companies. It requires us in the modern era to be vigilant consistently,” said Brantly.

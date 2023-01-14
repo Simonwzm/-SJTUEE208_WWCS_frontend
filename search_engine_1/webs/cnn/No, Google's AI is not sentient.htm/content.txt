@@ -1,0 +1,37 @@
+(CNN Business) Tech companies are constantly hyping the capabilities of their ever-improving artificial intelligence. But Google was quick to shut down claims that one of its programs had advanced so much that it had become sentient.
+
+According to an eye-opening tale in the Washington Post on Saturday, one Google engineer said that after hundreds of interactions with a cutting edge, unreleased AI system called LaMDA , he believed the program had achieved a level of consciousness.
+
+In interviews and public statements, many in the AI community pushed back at the engineer's claims, while some pointed out that his tale highlights how the technology can lead people to assign human attributes to it. But the belief that Google's AI could be sentient arguably highlights both our fears and expectations for what this technology can do.
+
+LaMDA, which stands for "Language Model for Dialog Applications," is one of several large-scale AI systems that has been trained on large swaths of text from the internet and can respond to written prompts. They are tasked, essentially, with finding patterns and predicting what word or words should come next. Such systems have become increasingly good at answering questions and writing in ways that can seem convincingly human — and Google itself presented LaMDA last May in a blog post as one that can "engage in a free-flowing way about a seemingly endless number of topics." But results can also be wacky, weird, disturbing, and prone to rambling.
+
+The engineer, Blake Lemoine, reportedly told the Washington Post that he shared evidence with Google that LaMDA was sentient, but the company didn't agree. In a statement, Google said Monday that its team, which includes ethicists and technologists, "reviewed Blake's concerns per our AI Principles and have informed him that the evidence does not support his claims."
+
+On June 6, Lemoine posted on Medium that Google put him on paid administrative leave "in connection to an investigation of AI ethics concerns I was raising within the company" and that he may be fired "soon." (He mentioned the experience of Margaret Mitchell, who had been a leader of Google's Ethical AI team until Google fired her in early 2021 following her outspokenness regarding the late 2020 exit of then-co-leader Timnit Gebru . Gebru was ousted after internal scuffles, including one related to a research paper the company's AI leadership told her to retract from consideration for presentation at a conference, or remove her name from.)
+
+A Google spokesperson confirmed that Lemoine remains on administrative leave. According to The Washington Post, he was placed on leave for violating the company's confidentiality policy.
+
+Lemoine was not available for comment on Monday.
+
+The continued emergence of powerful computing programs trained on massive troves data has also given rise to concerns over the ethics governing the development and use of such technology. And sometimes advancements are viewed through the lens of what may come, rather than what's currently possible.
+
+Responses from those in the AI community to Lemoine's experience ricocheted around social media over the weekend, and they generally arrived at the same conclusion: Google's AI is nowhere close to consciousness. Abeba Birhane, a senior fellow in trustworthy AI at Mozilla, tweeted on Sunday, "we have entered a new era of 'this neural net is conscious' and this time it's going to drain so much energy to refute."
+
+Gary Marcus, founder and CEO of Geometric Intelligence, which was sold to Uber, and author of books including "Rebooting AI: Building Artificial Intelligence We Can Trust," called the idea of LaMDA as sentient "nonsense on stilts" in a tweet. He quickly wrote a blog post pointing out that all such AI systems do is match patterns by pulling from enormous databases of language.
+
+Blake Lemoine poses for a portrait in Golden Gate Park in San Francisco, California on Thursday, June 9, 2022.
+
+In an interview Monday with CNN Business, Marcus said the best way to think about systems such as LaMDA is like a "glorified version" of the auto-complete software you may use to predict the next word in a text message. If you type "I'm really hungry so I want to go to a," it might suggest "restaurant" as the next word. But that's a prediction made using statistics.
+
+"Nobody should think auto-complete, even on steroids, is conscious," he said.
+
+In an interview, Gebru, who is the founder and executive director of the Distributed AI Research Institute , or DAIR, said Lemoine is a victim of numerous companies making claims that conscious AI or artificial general intelligence — an idea that refers to AI that can perform human-like tasks and interact with us in meaningful ways — are not far away.
+
+For instance, she noted, Ilya Sutskever, a co-founder and chief scientist of OpenAI, tweeted in February that "it may be that today's large neural networks are slightly conscious." And last week, Google Research vice president and fellow Blaise Aguera y Arcas wrote in a piece for the Economist that when he started using LaMDA last year, "I increasingly felt like I was talking to something intelligent." (That piece now includes an editor's note pointing out that Lemoine has since "reportedly been placed on leave after claiming in an interview with the Washington Post that LaMDA, Google's chatbot, had become 'sentient.'")
+
+"What's happening is there's just such a race to use more data, more compute, to say you've created this general thing that's all knowing, answers all your questions or whatever, and that's the drum you've been playing," Gebru said. "So how are you surprised when this person is taking it to the extreme?"
+
+In its statement, Google pointed out that LaMDA has undergone 11 "distinct AI principles reviews," as well as "rigorous research and testing" related to quality, safety, and the ability to come up with statements that are fact-based. "Of course, some in the broader AI community are considering the long-term possibility of sentient or general AI, but it doesn't make sense to do so by anthropomorphizing today's conversational models, which are not sentient," the company said.
+
+"Hundreds of researchers and engineers have conversed with LaMDA and we are not aware of anyone else making the wide-ranging assertions, or anthropomorphizing LaMDA, the way Blake has," Google said.

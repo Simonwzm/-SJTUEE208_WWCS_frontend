@@ -1,0 +1,41 @@
+New York (CNN) Salesforce is buying workplace messaging app Slack for $27.7 billion, marking the largest acquisition in the San Francisco-based cloud-based company's history.
+
+Under the terms of the agreement,shareholders will receive $26.79 in cash and 0.0776 shares of Salesforce stock per Slack share. announced the deal Tuesday in conjunction with its earnings release for its third quarter of fiscal 2021.
+
+The move will allow, which sells cloud-based customer relationship management software and other enterprise applications, to bolster its business offerings.
+
+Slack's stock was essentially flat in after hours trading Tuesday. Salesforce shares fell more than 4%.
+
+Salesforce on Tuesday posted third quarter revenue of $5.42 billion, up 20% from the same period in the prior year, and diluted earnings per share of $1.15. The results beat analyst expectations, but revenue growth slowed compared to the two earlier quarters in this fiscal year.
+
+The company raised its revenue guidance for the full 2021 fiscal year to approximately $21.10 billion to $21.11 billion, which would mark a year-over-year increase of about 23%. It also provided full year 2022 revenue guidance of approximately $25.45 billion to $25.55 billion, which includes about $600 million related to the Slack acquisition.
+
+The company also announced the retirement of Chief Financial Officer and President Mark Hawkins, who will leave his role on January 31 and transition to an advisory role as Salesforce's CFO emeritus through October 2021. He will be replaced by Amy Weaver, who is currently Salesforce's president and chief legal officer.
+
+The Salesforce-Slack deal
+
+Slack is a workplace communications tool popular among tech companies, media firms and retailers — it is used by Amazon AMZN IBM IBM TD Ameritrade AMTD Launched in 2013,Slack is a workplace communications tool popular among tech companies, media firms and retailers — it is used byand others, including CNN. It's been an especially strong year for the company, with its stock up more than 59% since the beginning of 2020, as businesses scrambled to manage remote teams.
+
+In June, Slack CEO Stewart Butterfield told CNN there is still uncertainty around its growth, especially as businesses pull back on spending: "Existing customers are using Slack more. Individual users are using Slack at a greater percentage of their day ... But at the same time, when [our customers] feel pain, we feel pain."
+
+In its most recent quarterly earnings report in September, the company reported more than 130,000 paid customers, up 30% year-over-year.
+
+However, Slack has not turned a profit since its initial public offering last year.
+
+An acquisition from an enterprise software and services giant like Salesforce could help accelerate Slack's user growth even more.
+
+Salesforce CEO Marc Benioff in a call with analysts Tuesday called Slack a "supercharger" for Salesforce. He said he plans to expand Slack in the enterprise space especially by combining the companies' capabilities and creating "this amazing hub of productivity of collaboration, integration and applications that now leverage all this amazing data." He added that currently, 90% of Slack's enterprise customers are also Salesforce customers.
+
+"Together, Salesforce and Slack will shape the future of enterprise software and transform the way everyone works in the all-digital, work-from-anywhere world," Benioff said in a statement.
+
+Microsoft MSFT The acquisition will position Salesforce and, with its Teams chat platform, as closer competitors in the remote collaboration space.
+
+Because Teams comes bundled with Microsoft's Office products often used in the workplace, it has seen significant growth as more people work remotely. CEO Satya Nadella s aid Teams' grew to 75 million daily active users by the end of April, up from 44 million from mid-March. In October 2019, the last time it reported this s pecific metric, Slack said it had 12 million active daily users.
+
+"The core reason for this deal in our opinion is to keep pace with the cloud behemoth in Redmond," Wedbush analyst Dan Ives said in a note to investors Tuesday, referring to Microsoft. "Slack despite facing stiff competition from Microsoft has been a clearly successful solution set further penetrating enterprises and thus looks like the natural fit for Salesforce to beef up its collaboration and messaging footprint and keep pace with [Microsoft]."
+
+Last year, Salesforce acquired data analytics firm Tableau Software for $15.7 billion, to help companies better visualize their data, and previously bought Mulesoft, a software company that connects different systems together, for $6.5 billion.
+
+The deal is expected to close in the second quarter of Salesforce's fiscal year 2022, subject to approval by Slack shareholders and regulators.
+
+Correction: A previous version of this article misstated the terms of Salesforce's acquisition of Slack.

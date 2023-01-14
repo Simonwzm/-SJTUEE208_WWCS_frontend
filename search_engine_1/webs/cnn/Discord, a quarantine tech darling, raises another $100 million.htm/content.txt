@@ -1,0 +1,53 @@
+New York CNN Business —
+
+One of the fastest growing communications apps is Discord, known primarily within the gaming community. If you ever talk to a gamer online, chances are you’ll talk on the voice chat platform that just raised another $100 million in funding, led by Index Ventures and existing investors.
+
+Discord was launched in 2015 in a beta testing phase and quickly attracted gamers who favored Discord’s relative reliability, its anonymity and focus on voice over video unlike platforms like Skype.
+
+Discord allows people to join a voice call at any time and type in various channels to communicate with other gamers. They can sit in a call and listen to music, mute themselves or “deafen” themselves – meaning they can’t hear anyone else – if they want to appear online only to friends without speaking.
+
+Now Discord is aiming to grow beyond its gamer base.
+
+Discord announced its new funding on Tuesday in a blog post that disclosed Discord is rebranding itself beyond gaming. The company has raised a total of $379.3 million.
+
+The platform has flourished during the current pandemic, growing its monthly active users by 47% since February. It now has more than 100 million monthly active users and is taking off in countries where it already had a toehold, including Italy, France, Spain and the United States.
+
+Some 30% of users don’t use Discord primarily for gaming, as of 2019. They are teachers, parents, Korean pop music fans, fashion enthusiasts and others using the platform to connect with like-minded groups.
+
+Discord’s success has also translated financially. It’s set to have sales of $120 million this year, compared to about $70 million last year, and a $3.5 billion valuation, according to Forbes. It declined to say if it was profitable. Its primary money earner is Discord Nitro, a subscription service that unlocks the use of custom emoji on the platform and livestreams at a higher resolution.
+
+Discord capitalized on the opportunity presented when millions across the globe began to stay at home this year and the number of users increased.
+
+“You want to raise money when you don’t need it, that’s how you get good terms,” said Discord CEO Jason Citron. “If you need money, then you have to take whatever you can get.”
+
+Discord has a feature that lets gamers share their screens and livestream the game they’re playing to friends in a voice call. Livestreaming on Discord is fairly simple. The software detects the game being played and, with a single click, users can begin streaming.
+
+At the start of the growing pandemic in March, Discord increased the number of people who can tune into a livestream to 50 users. Livestreams were previously limited to 10.
+
+Screenshot of a Discord community server Courtesy Discord
+
+However, Discord isn’t the easiest software for newbies to learn. It’s not as intuitive as Zoom, for example, which has fewer features, requires no sign-in and nudges users into downloading the app.
+
+In a test conducted by CNN Business in May, an online birthday party of 19 people quickly ran into technical issues, as new users had to download the Discord app or encountered audio issues when speaking via the web browser page.
+
+And when trying a new video game during a media Discord event, CNN Business observed other users using the wrong channel to ask for tech support and having difficulty getting the mic and audio to work.
+
+“Because Discord looks kind of different and works a bit differently than other kinds of communication services that people are used to, it can be hard to learn,” said Citron, who is himself a software engineer. “We’ve spent a lot of time trying to improve the user experience. So, when you sign up, we’ve added things that are prompts and almost like conceptual road signs to help you understand.”
+
+Discord is not end-to-end encrypted, although it offers encryption when data is in transit. And if the situation calls for it, the company may report behavior to law enforcement at its discretion.
+
+Discord’s run in with the alt right
+
+The app doesn’t require users to verify their identities and allows them to make private servers on the platform that can’t be searched, features that have made it popular among white supremacists. The 2017 Unite the Right rally in Charlottesville, Virginia, for example, was organized on Discord by alt-right leaders. (One person was killed and 19 injured at the rally when a car ran into protesters.) Discord later banned several servers that promoted Nazi ideology.
+
+“When we encounter, you know, people doing evil things, we kicked them off the platform,” said Citron. “I think you can see today that that Discord feels much more hostile to these folks.”
+
+He said that while Discord doesn’t read people’s messages, it employs techniques to find discover servers that violate its guidelines. The company declined to share any details on its methods.
+
+Today, Discord supports Black Lives Matter and Pride, a month for LGBTQ celebration, according to statement on blog posts and on its platform.
+
+Last month, Discord said it was creating a task force to make the company more diverse and more inclusive. The platform will undergo a third-party audit by a group that researches the spread of racism and hate, which will then make recommendations for how to be more effective at eliminating it from the platform.
+
+On the engineering side, Discord said it would provide open-source tools so other companies can build on what it learns about combating online abuse.
+
+“It’s important, given the position that we’re in, that we are proactive in trying to improve the community and the world around us,” said Citron. “Our goal is not to be political, our goal is to do the right thing.”

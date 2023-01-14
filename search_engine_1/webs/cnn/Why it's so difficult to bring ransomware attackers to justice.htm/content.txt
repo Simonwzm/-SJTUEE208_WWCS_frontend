@@ -1,0 +1,51 @@
+That's typically how we think of addressing a crime. But as some ransomware victims may now be discovering, that process is much more complicated when the criminal is on another continent and the crime takes place virtually.
+
+And it's not just REvil. Hackers with links to Russia are believed to have been behind the high-profile SolarWinds and Colonial Pipeline attacks. Moreover, recent ransomware attacks onand VPN firm PulseSecure have been linked to hackers in China.
+
+Ransomware gangs have extracted payments worth millions of dollars in recent months and REvil is now demanding $70 million for a decryptor tool following its attack on Kaseya. US authorities generally discourage companies from paying ransoms, on the grounds that doing so only emboldens cyber criminals.
+
+Bringing them to justice, however, is a more complex process involving a web of local, federal and even international authorities. The process can take years, with no guarantee of a successful outcome. And during that time, the number of ransomware attacks only continues to grow.
+
+Tracking them down
+
+Prominent hacker groups such as REvil are often quick to take public credit for their attacks, but tracing the actual individuals behind those groups and their whereabouts can be incredibly difficult.
+
+Cybersecurity experts recommend that impacted organizations contact local law enforcement and the FBI. Other federal agencies such as the Department of Homeland Security and the US Computer Emergency Readiness Team often get involved early in the process , too.
+
+In April, the US Department of Justice launched a ransomware task force after what an agency memo described as the worst year ever for those types of cyberattacks. The goal is to unify efforts across the federal government to pursue and disrupt ransomware attackers.
+
+"The hackers' groups are part of organized criminal rings and often operate remotely and in a decentralized fashion," Beenu Arora, cofounder and CEO of cybersecurity firm Cyble, told CNN Business. "These actors often deploy intermediaries to communicate with each other," he added.
+
+The private companies that are most often victims of these ransomware attacks can be blindsided about "who actually attacked them" because of the sophisticated nature of the attackers, according to Anup Ghosh, CEO of Fidelis Cybersecurity and a former researcher at the Department of Defense.
+
+"Unlike a physical attack where you can do identification, in cyberspace it's very difficult to do attribution with certainty," he said.
+
+Cross-border chases
+
+If the ransomware attackers are based in a different country, as they often are, that requires US officials to pursue international cooperation and diplomacy that can further slow down and complicate the prosecution process.
+
+"The major challenges in bringing international hacker groups to justice are having to conduct foreign operations through additional layers of bureaucracy of our international counterparts," said Bret Fund, head of cybersecurity at the Flatiron School. "This includes less access to on-the-ground resources to investigate, gather intelligence and support the prosecution across borders."
+
+If that's not enough, some countries also use access to cyber criminals as a diplomatic bargaining chip, according to Bryan Hornung, CEO of cybersecurity firm Xact IT Solutions.
+
+"Russia sees cyberattacks... as a way to sow discord and give the US and democracy a black eye," Hornung said, pointing to Russia's stated willingness to extradite criminals only if the United States reciprocates.
+
+The code behind REvil's attack was written in such a way that it avoids Russian or related languages, according to a report by cybersecurity firm Trustwave SpiderLabs, which was obtained by NBC News . The firm said this is likely designed to avoid running afoul of local enforcement in the countries they operate in.
+
+The Biden administration is stepping up its effort to finalize a government-wide strategy on how to respond to ransomware attacks, with the National Security Council working to coordinate a plan of action in recent days, according to officials and experts involved in the discussions. Another meeting on the subject is expected to take place next week between US and Russian officials, White House Press Secretary Jen Psaki said Wednesday.
+
+President Joe Biden confronted Russian President Vladimir Putin about the scourge of ransomware attacks during a summit in Geneva last month, a meeting he referenced again over the weekend shortly after the Kaseya attack.
+
+"[If] it is either with the knowledge of and/or the consequence of Russia, then I told Putin we will respond," the president said Saturday.
+
+Extradition
+
+After the attackers or hacker groups are located and prosecuted overseas — often with the help of law enforcement agencies such as Interpol and Europol — the next challenge is to bring them back to the US justice system.
+
+Those extraditions can often take years, with US authorities having little control over the process and timeline. Both Burkov and Nikulin, for instance, were sentenced more than five years after their initial crimes were said to have taken place. In Burkov's case, the extradition process alone took nearly four years.]
+
+"The United States works with foreign authorities to locate wanted persons and then to request the extradition of the person," the Department of Justice explains on its website . "However, the extradition case is handled by the foreign authorities in the foreign courts. Once the extradition request is submitted to the foreign government, the United States does not control the pace of the proceedings."
+
+While there is a greater push to cooperate on cybersecurity issues from the United States as well as other countries, coordinating those responses is turning into a race against time as new ransomware attacks continue to take place by the week, if not by the day.
+
+"You can think of this as closer to organized crime, and the kind of task force that you've seen in the past against organized crime," said Ghosh. "It takes a long time to really map these criminal gangs, understand their heads and take them down, and requires cooperation of other countries, so those are longer timelines."

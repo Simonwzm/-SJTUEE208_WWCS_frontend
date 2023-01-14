@@ -1,0 +1,43 @@
+(CNN Business) Just two days after he announced he would buy Twitter, Elon Musk sent out a deluge of tweets about his plans for the social media platform. One stood out for its broad appeal.
+
+"Twitter DMs should have end to end encryption like Signal, so no one can spy on or hack your messages," he wrote
+
+With that statement, Musk waded into a long-running debate among technologists and privacy advocates around the level of encryption apps and platforms should provide to their users. Growing concerns about privacy have led to questions about how much user data tech companies collect, and many platforms — including the Signal messaging app Musk referred to — have begun to tout end-to-end encryption as a key feature.
+
+That capability means communications can only be seen by the senders and recipients, without the platform being able to access them. While some apps, such as Signal and WhatsApp, have end-to-end encryption by default, others including Telegram, Instagram and Facebook Messenger allow users to opt into encrypted messaging.
+
+Videoconferencing platform Zoom quickly introduced end-to-end encryption in 2020, soon after the pandemic caused a surge in users, putting a spotlight on its security practices.
+
+Meta, which owns WhatsApp, Instagram and Facebook Messenger, has said it plans to roll out default end-to-end encryption for all its apps globally by 2023
+
+Twitter, on the other hand, has not yet outlined a plan to offer end-to-end encryption for its direct messages, despite calls from industry experts and advocates for years. Those calls intensified in mid-2020, after a massive hack of the platform that compromised the accounts of several prominent individuals, including former US President Barack Obama and Musk himself. (End-to-end encryption may not have prevented that attack, since hackers directly accessed the accounts, but experts say it would reduce the scope of the information attackers could target in the future.)
+
+Twitter did not respond to a request for comment.
+
+"It would be a significant move in favor of user privacy if Twitter were to turn on [end-to-end encryption] for DMs, as it would keep the company from reading its users' conversations or disclosing them to anyone else," Riana Pfefferkorn, a research scholar at the Stanford Internet Observatory whose work focuses on encryption, told CNN Business. "For the company to tie its own hands in this way would prevent a bad actor within the company from abusing the access they have as an employee to user data."
+
+In November 2019, the Justice Department accused two former Twitter employees of spying on users on behalf of Saudi Arabia when they were at the company.
+
+And the fact that the influential platform will now be under new ownership is raising fresh questions about what data it has access to.
+
+Hours after Musk announced he would take over Twitter, Oregon Sen. Ron Wyden — a longtime advocate for digital privacy — issued another warning.
+
+"If the US had a privacy law with teeth, or if Twitter encrypted DMs like I urged years ago, Americans wouldn't be left wondering what today's sale means for their private information," he tweeted . "The protection of Americans' privacy must be a condition of any sale."
+
+Twitter's relatively smaller size — its global user base is a fraction of Facebook, Instagram and WhatsApp — and the fact that it is not seen primarily as a messaging platform, may have allowed it to fly slightly under the radar, according to Bruce Schneier, a security technologist and fellow at Harvard University's Berkman Center for Internet and Society.
+
+"Twitter is used less for that kind of direct conversation than Signal, SMS, WhatsApp and Telegram," he said. "It's more semi-public."
+
+Also, Twitter's architecture — a single platform that includes public tweets and DMs, and is accessed on its website as well as mobile apps across multiple operating systems — could make full encryption more complicated than mobile-first messaging platforms such as Signal, according to Deirdre Connolly, a cryptographic engineer.
+
+"No web service has slapped end-to-end encrypted messaging onto it — after its initial deployment — successfully," Connolly said, adding that most apps offering it have either started from a mobile platform and expanded, or "have designed their web and mobile apps for [end-to-end encrypted] messaging from the get-go."
+
+"Building a secure web application that runs in a modern, patched web browser is a fundamentally different and more difficult task than doing the same on desktop or especially mobile," she said. "They haven't done it yet because it's hard. Really hard."
+
+hasn't made any commitments. But experts say giving Twitter DMs end-to-end encryption by default is an important and worthy goal. Jack Dorsey, Twitter's co-founder and former CEO, has hinted in the past that he would be open to adding the capability (Wyden also cited Dorsey as saying in 2018 that Twitter was working on it ), but the companyhasn't made any commitments.
+
+Twitter and other companies often have policies and controls in place to prevent unauthorized access to private messages. But encrypting those messages "goes beyond policy or access controls by making access impossible in the first place [and] would also limit what information a malicious outsider could obtain about a particular user, whether that's a hacker or someone posing as law enforcement," said Pfefferkorn.
+
+One caveat, she added, is that fully encrypting DMs could make it harder to crack down on malicious content and cooperate with law enforcement on investigations, issues that companies such as WhatsApp and Apple have dealt with in the past. But those companies have repeatedly cited a need to protect their users.
+
+"In total, [end-to-end encryption] for DMs would be a net gain for user privacy and security," Pfefferkorn said.

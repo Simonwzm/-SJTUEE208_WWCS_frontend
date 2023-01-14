@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200520035708-kevin-mayer-restricted.jpg?q=x_3,y_275,h_1297,w_2306,c_crop/w_800

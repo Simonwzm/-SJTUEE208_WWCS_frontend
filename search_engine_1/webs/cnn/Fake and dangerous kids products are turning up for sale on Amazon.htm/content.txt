@@ -1,0 +1,133 @@
+New York CNN Business —
+
+The listing on Amazon (AMZN) described it as a “4 in 1 Baby car seat and Stroller” and featured images of a popular brand called Doona, including a photo of the US President’s daughter, Ivanka Trump, with hers. Listed for $299, this copycat was $200 cheaper than a real Doona. It was also potentially dangerous for children.
+
+The car seat broke into pieces in a 30 mph crash test commissioned by CNN, failing to meet the basic standards set by US regulators. Video of the test shows the toddler dummy twisting as the car seat fractures and slides forward, with plastic pieces that have broken off it flying through the air. In an identical crash test scenario, an authentic Doona met federal requirements, with the car seat remaining in one piece and in place around the dummy.
+
+Dr. Alisa Baer, a pediatrician and nationally certified child passenger safety instructor, reviewed the test results and said in a real crash such a car seat failure could put a child in “grave danger,” and lead to injuries to a child’s chest, neck or head, including a traumatic brain injury.
+
+CNN bought the copycat Doona and had it crash-tested at the University of Michigan Transportation Research Institute as part of a months-long investigation into the sale of counterfeit and patent-infringing children’s products on Amazon. Seven different business owners told CNN their products were being actively targeted by counterfeiters using Amazon’s marketplace for third-party vendors. The businesses said Amazon put the onus on them to report suspicious listings and that this often amounted to a game of “whack-a-mole,” in which new listings appeared almost as soon as flagged ones were taken down.
+
+A car seat purchased on Amazon fractured in a 30 mph crash test, failing to meet federal standards CNN
+
+Under current US case law, Amazon is not liable when third-party products sold on its site directly infringe on intellectual property or have safety defects. The liability lies with the third-party seller. This is fundamentally different from how the law treats brick-and-mortar retailers like Target (TGT) or Walmart (WMT) or even your corner grocery. If you find a product at a physical store that infringes on your trademark, or you buy something defective there, you can sue the store even though they didn’t make the product.
+
+Counterfeits are a problem for many ecommerce platforms, not just Amazon, but Amazon is the world’s largest ecommerce platform and its dominance is growing. According to an estimate from data firm eMarketer, Amazon controls 37.7% of US ecommerce sales and that share is expected to grow. Many of the brands that spoke to CNN told us they can’t afford not to sell their products on Amazon. As an Amazon spokesperson said to CNN in a statement, “our customers expect that when they make a purchase through Amazon’s store—either directly from Amazon or from one of its millions of third-party sellers—they will receive authentic products.”
+
+Amiad Raviv, the commercial manager of Doona, said the company has found more than 40 Amazon listings this year that contained fake versions of its products or versions that infringed on its intellectual property. Doona flags the listings they are concerned about to Amazon, which then removes them. According to Raviv and the other business owners CNN spoke with, this piecemeal process means listings are often online for several days, leading to a significant window when consumers can buy the potentially dangerous product.
+
+The imitation Doonas are sold through Amazon’s website or app, but not by Amazon directly. According to Amazon’s 2018 annual report, 58% of Amazon’s sales came from its millions of third-party sellers, many of whom ship directly to consumers. Many legitimate brands, including Doona, sell products through authorized third parties. However, items purchased this way may never be checked by Amazon employees or pass through an Amazon warehouse.
+
+“A lot of people on the Amazon platform think that because it’s on Amazon, it is a genuine product. And that’s actually really not the case,” said Raviv.
+
+The product CNN bought was listed by a seller called Strolex and shipped from China. All US car seats are required to be certified according to NHTSA standards, but this seat did not have any US certification labels. On the Amazon listing, it claimed to have European certification, but when it arrived it was missing a required European certification label and the European registration number in the instruction manual was a copy of Doona’s.
+
+CNN
+
+Baer examined the car seat before the crash test and pointed out several things she saw as red flags. The word “always” was misspelled “aiways” on the anti-rebound bar, the seat featured European warning labels instead of American ones and a safety label was sewn through the webbing of the child harness straps, which she believes could potentially weaken them.
+
+The Strolex listing disappeared from Amazon shortly after CNN ordered the seat, but the seller Strolex remained on the site though with no active listings. When reached by phone in China, a representative of Strolex said in English “my products are safe,” but refused to give his name or answer any other questions.
+
+The results of the crash test were sent by CNN to Amazon for review. A week later, Amazon sent an email to customers who bought the product, warning them of a safety issue and saying it “may not be a genuine product.” The email urged customers to stop using the product immediately and offered a full refund.
+
+Amazon told CNN safety was a top priority, but also that sellers are responsible for meeting Amazon’s “high bar” for the quality of products. “We require all products offered in our store to comply with applicable laws and regulations and have developed industry-leading tools to prevent unsafe or non-compliant products from being listed in our stores,” an Amazon spokesperson said in an emailed statement.
+
+Not just car seats
+
+Luanne Whiting-Lager and Bengt Lager first realized their “Love to Dream” baby swaddle was being copied last year when a customer called to complain that a zipper pull had broken off the swaddle, frightening the new mom and creating a potential choking hazard for her baby. The customer thought she had purchased a real version of the $34.99 swaddle through Amazon’s marketplace, but the couple’s company, Regal Lager, examined it and realized it was a counterfeit. The fake product used the Love to Dream trademark and also copied the brand’s patented swaddle shape, which allows the baby to bring their hands to their mouth while swaddled. Regal Lager provided CNN a photo of the fake swaddle and the original invoice.
+
+Regal Lager is the exclusive distributor for the “Love to Dream” swaddle in the United States and participates in the Amazon Brand Registry, Amazon’s official program to help businesses protect their intellectual property.
+
+The company found complaints online about the fake product’s zippers falling off and the product’s neck opening being too large or small, another potential safety problem since it can ride up over the baby’s mouth while it sleeps or be too restrictive around the neck.
+
+The real "Love to Dream" swaddle Clare Lapworth/Love to Dream
+
+Eventually, the company hired an agency, Marketplace Ninjas, which helps brands operating on Amazon and the two convinced Amazon to take down 20 different listings for infringing upon versions of their product. The agency monitors Amazon and other e-commerce site all the time, watching as the counterfeiters employ new tactics to get past safeguards, like listing the product as Luv 2 Dream initially and then changing it to match their trademark Love to Dream. “One taken down, another pops up,” Whiting-Lager said.
+
+Regal Lager says the cheaper copycats have had a negative impact on their business. They estimated they’ve lost about $250,000 in the whole ordeal or about 3% of their Amazon sales, based on their sales volum
+
+The couple like working with Amazon, but think the company needs to take full responsibility for the products on the platform and could take steps to restrict who can post products using Amazon’s specific identification numbers to control counterfeits.
+
+“The whack-a-mole game”
+
+Amazon offers three programs designed to help companies protect their brand from counterfeits. While business owners CNN spoke to say Amazon’s initiatives have helped tackle the problem, they complain the responsibility — and cost — of policing fakes feels like it falls on them rather than on Amazon.
+
+The company said more than 200,000 companies participate in the Amazon Brand Registry. This program started in 2017, is free and gives rights owners tools to help manage and protect their brands, including the ability to search their global listing by word or image and flag potential infringers. Amazon also automatically scans its site to proactively remove suspicious listings. According to Amazon, “brands in Brand Registry on average are finding and reporting 99% fewer suspected infringements than before the launch of Brand Registry.”
+
+Aaron Muderick, the founder of Crazy Aaron’s Thinking Putty, said his receptionist spends 15 to 20 hours a week submitting forms asking Amazon and other ecommerce sites to remove products that use his company’s trademarks. He has registered the phrases “Thinking Putty,” “Liquid Glass,” and “Puttyworld” and even a cartoon image of him in glasses.
+
+Aaron Muderick, founder of Crazy Aaron's Thinking Putty. © Crazy Aaron Enterprises All Rights Reserved
+
+He participates in the Amazon Brand Registry. He says the tool is useful and has improved over time, but he finds it disappointing given Amazon’s reputation for AI and software prowess.
+
+“It doesn’t work as well as I would expect,” Muderick said. “While the whack-a-mole game has gotten a little bit better, it still exists every single day.”
+
+Charlotte Wenham, the Executive Officer of pNeo, also participated in Amazon’s brand registry when she discovered in 2018 that sophisticated counterfeiters were targeting her company’s Baby Shusher, a sound machine designed to help babies sleep. Based the seller complaints, Wenham believed there was a real risk of harm should the battery fluid leak from a counterfeit product onto a sleeping baby.
+
+Wenham said the counterfeit products used Baby Shusher’s branding and replicated the real product’s packaging and user manual. Iris Wilbur-Kamien thought she had bought a genuine Baby Shusher on Amazon until it fell apart just five months after she purchased it. Only when the real company asked her to send a photo of the product’s identification code did she realize it was a counterfeit, she told CNN. There wasn’t one.
+
+Wenham said the impact on her business from the flood of counterfeits was significant, costing more than $100,000 by her estimate. She believes in cases where a genuine manufacturer is being besieged by counterfeits, Amazon should move a lot faster. Every day the counterfeits remained on the site, she said, was a day she lost sales.
+
+A counterfeit Baby Shusher product (left) next to the genuine article (right). pNeo LLC
+
+“Amazon does not provide any real support. It was entirely up to us to manage it,” Wenham said. The counterfeits are no longer appearing on Amazon in the United States, but she is still testing products bought on the site in other countries.
+
+Amazon also provides a service called Transparency, where brands can add unique codes to products. These codes can be scanned by Amazon and by customers to confirm authenticity, but brands have to buy the special labels from Amazon at a cost of from 1-5 cents per item. The brands also have pay to add the labels to each product. Amazon said over 6,000 brands have enrolled in Transparency.
+
+Regal Lager declined to participate in Transparency, primarily because of the costs involved. “It’s like the good guys are having to pay for the bad guys’ behavior and it just seems backwards,” Bengt Lager said.
+
+Recently, Amazon added a third brand protection service called Project Zero, which uses the ecommerce giant’s machine learning technology. Amazon describes the program as giving brands access to a “self-service counterfeit removal tool” that allows them to instantly remove counterfeits from the platform while also providing feedback into Amazon’s automated system to identify fakes.
+
+At his headquarters in Norristown, Pennsylvania, Aaron Muderick keeps a wall of shame showing copycat products. Children’s putty may not sound like a risky product, but European regulators have issued 19 separate safety alerts for putty and slime products in the last year, ordering sales bans or recalls because of high levels of boron, lead and barium and potentially dangerous magnets.
+
+As Muderick has become more aggressive about flagging trademark violations, he sees the competing products reappear under new names and packaging. These generic product names do not violate his trademarks, but he continues to be concerned about their safety. He estimated the infringing and copycat products cost him 10-30% of his sales.
+
+CNN purchased a six-pack of generic magnetic putty on Amazon. Each tin of the product included putty and a small magnet that could be used to attract or repel it. Testing found the magnets included in the set did not meet federal standards for toys intended for children under 14. The product listing on Amazon was labelled as suitable for children ages 3 and up. Magnets that are both small and powerful are not permitted in children’s toys because of the risk a child could swallow a magnet and metal item, leading to an intestinal blockage or perforation. Researchers affiliated with Rutgers University tested the magnet for CNN and found it was substantially stronger than the federal limit for a magnet that is small enough to be swallowed.
+
+Muderick said he’s frequently found generic putty products that he believes are unsafe, but it’s not clear to him how to alert Amazon to his concerns. While Amazon is responsive when he submits a form saying a listing violates his copyrights and trademarks, he said the process is much more opaque when it comes to reporting suspected safety issues.
+
+Amazon said they are investigating counterfeits associated with the brands included in CNN’s reporting and will take “appropriate action against the sellers involved.” An Amazon spokesperson described the various issues these businesses reported to CNN as “isolated incidents that do not reflect the fantastic products and customer experience provided by millions of small businesses selling in our store.”
+
+“I am sort of just mystified”
+
+Amazon’s spokesperson told CNN they know customers expect an authentic product when shopping on Amazon, no matter who the seller is. But legally Amazon has not been held to that expectation. Numerous US courts have upheld the notion that liability doesn’t apply to ecommerce sites in the same way as a physical store. When it comes to third-party sales, ecommerce sites argue they are just a platform providing a virtual meeting place for buyers and sellers to interact. Amazon has also argued that it is protected by section 230 of the Communications Decency Act, a federal law that protects online sites from liability for speech by others on their platforms, because the company believes it covers the claims and the warnings made in product listings.
+
+Now, some courts are beginning to question whether it’s time to rethink past decisions on Amazon’s liability, given the company’s extensive control over its marketplace and the difficulties involved for consumers trying to sue third-party sellers.
+
+A Philadelphia appeals court recently ruled Amazon could be held liable in the case of a woman who was blinded in one eye when a defective dog collar she had purchased from Amazon broke and a retractable dog leash attached to it hit her. Neither she nor Amazon could locate the third-party company from which she had bought the collar. In their decision, the judges in the case concluded, among other things, that Amazon exerts “substantial control” over its vendors and was the only party available to the injured plaintiff for redress.
+
+Sadie the dog. When a defective collar purchased from Amazon that Sadie was wearing broke, a retractable leash attached to it snapped back and hit her owner, blinding her in one eye. David Wilk, attorney for Heather Oberdorf
+
+Amazon had argued that it was not the seller in this case, but a marketplace provider, and thus not subject to the liability claims. It also argues it was protected the claims were barred by the Communications Decency Act.
+
+Given the significance of the decision, the entire Third Circuit Court of Appeals has agreed to review the decision in 2020. The initial decision has no legal effect pending that review.
+
+Mark Geistfeld, a professor at the NYU School of Law who specializes in product liability, said he believes it’s just a matter of time until legal interpretations begin to change regarding Amazon’s liabilities. He said the key issue is consumer expectations. A shopper in a physical store or on Amazon understands something could be manufactured by a third party, but, with both purchases, they are expecting the product is not defective or counterfeit.
+
+“I am sort of just mystified by the failure of the court to see why Amazon is not the seller for the purposes of liability law,” he said.
+
+Also at issue is the amount of control Amazon exerts over its site, in terms of how listings are presented to customers, the terms it makes sellers sign and the level of information available using artificial intelligence software. Trademark cases such as Tiffany v. eBay, which set out in 2010 that ecommerce platforms were not responsible for infringing sellers, now look out of date to some lawyers.
+
+“Something is shifting. It can’t be the same standard that was used 10 years ago,” said Kari Kammel, from the Center for Anti-Counterfeiting and Product Protection at Michigan State University.
+
+Jason Drangel, a lawyer who represents several major toy manufacturers in counterfeiting lawsuits, agrees.
+
+“The platforms that exist now basically control the products, they understand that the products come from a specific country, a specific seller located in China,” he said. “It’s a different world and that’s part of the problem.”
+
+Politicians are also beginning to pile on the pressure over counterfeits and safety in the Amazon marketplace.
+
+In August, three Democratic senators wrote a letter to Amazon CEO Jeff Bezos, expressing their “grave concerns regarding Amazon’s failure to remove illegal, deadly and deceptive products, and to provide visible warnings on the products sold on your platform.” The letter was in response to a Wall Street Journal investigation into counterfeits on the site. Senators Richard Blumenthal, Robert Menendez and Edward Markey included a list of questions for Bezos about how he will ensure safety on the platform. Senator Menendez’s office told CNN the response from Amazon didn’t adequately address their concerns.
+
+At a July House hearing on counterfeits, Republican Congressman Doug Collins questioned why representatives of Amazon, eBay (EBAY) and Walmart failed to attend. He urged platforms to find a more effective, automated process for detecting and blocking counterfeit listings, to create better ways to vet sellers and prevent counterfeiters from listing products again and again under different names, and to stop counterfeiters from using genuine photos of brands to market their products without their consent.
+
+“These solutions are well within the grasp of our large online marketplaces and practices they should have already implemented on their own,” Rep. Collins said.
+
+Amazon did not provide CNN with a direct response to either the letter from the senators or Representative Collins’ comments, but did tell CNN that in 2018, its teams used a mixture of proprietary technology and manual reviewers to proactively block more than three billion suspect listings for various forms of abuse, including non-compliance, before they appeared in the store.
+
+Muderick from Crazy Aaron’s thinks a legislative change may be the only way to end the game brands like his are playing against the fake listings of infringing and potentially dangerous products.
+
+“I think unless someone is liable, nothing is going to get better,” he said.
+
+Kelly Burns, Jacqueline Davalos and Winston Lo contributed reporting.
+
+Update: This story has been updated to clarify Amazon’s comments to legislators.

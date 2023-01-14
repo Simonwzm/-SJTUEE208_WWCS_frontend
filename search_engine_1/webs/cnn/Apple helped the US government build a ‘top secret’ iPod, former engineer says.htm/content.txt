@@ -1,0 +1,19 @@
+CNN Business —
+
+David Shayer was sitting at his desk in 2005 when his boss’s boss at Apple (AAPL) asked him to take on a “special assignment” for the company: help the US Department of Energy build a “top secret” iPod.
+
+Shayer, one of the early software engineers hired to work on the first iPod, detailed the request this week in a blog post. In addition to the head of iPod software, who approached him that day, Shayer claimed only two others within Apple knew about the project: the vice president of the iPod division and the senior vice president of hardware. All those involved have since left the company, he said.
+
+Shayer said he met with two engineers from Bechtel, a US defense contractor, and was told they would build the iPod — all he had to do was provide any assistance they required from Apple. The iPods had to look and function like regular iPods, but would contain some custom hardware that could record data and not be detected by the average user, Shayer said.
+
+The "top secret" iPod Shayer worked on was supposed to look and function exactly like a regular one, he said. Justin Sullivan/Getty Images
+
+“This wasn’t a collaboration with Bechtel with a contract and payment,” Shayer wrote. “It was Apple doing a favor under the table for the Department of Energy.”
+
+Apple, Bechtel and the Department of Energy did not immediately respond to a request for comment on the project.
+
+The apparent collaboration with the government to add secret features to Apple’s products runs in sharp contrast to the company’s clashes with the FBI and Department of Justice in recent years over its refusal to build backdoors in iPhones. Apple has repeatedly pushed back against US authorities’ demands to allow access to the iPhones of suspects in mass shootings, saying building such a workaround would compromise privacy for all its users.
+
+Shayer said he never found out exactly what kind of hardware the two Bechtel engineers were looking to add to the secret iPod, and they were careful to keep it from him. But he does have a theory: they may have been building a “stealth Geiger counter” for measuring radioactivity.
+
+“You could walk around a city, casually listening to your tunes, while recording evidence of radioactivity—scanning for smuggled or stolen uranium, for instance, or evidence of a dirty bomb development program—with no chance that the press or public would get wind of what was happening,” he wrote.

@@ -1,0 +1,11 @@
+Washington (CNN Business) Cyberattacks that seize control of computers and hold them for ransom are on the rise, with the United States seeing a doubling of so-called "ransomware" attacks over the last three months compared to the previous quarter, according to Check Point Research, a cybersecurity firm.
+
+The data back up a slew of alarming recent disclosures from hospital systems , city and county governments , and other targets that have been hit. Check Point recorded more than 300 ransomware attacks in the third quarter, up from roughly 150 in the second quarter.
+
+News of the spike comes as Americans brace for a chaotic election — and a bumpy flu season that could exacerbate the ongoing effects of the coronavirus pandemic.
+
+And it follows a series of attacks that became highly publicized last week: One targeting Tyler Technologies, a software vendor used by numerous local governments, and Universal Health Services, one of the nation's largest hospital companies. A statement on Tyler Technologies' website has said the company does not directly make election software and the software it does produce that is used by election officials to display voting information is separate from its internal systems that were affected by the attack.
+
+UHS said in a statement Monday that it is continuing to restore service to its IT network and that no electronic medical records were directly affected by a cyberattack that took place Sept. 27.
+
+Read More

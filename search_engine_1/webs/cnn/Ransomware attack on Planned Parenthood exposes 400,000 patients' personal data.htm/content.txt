@@ -1,0 +1,11 @@
+(CNN Business) The Los Angeles chapter of Planned Parenthood suffered a ransomware attack in October that compromised the personal information of about 400,000 patients, the health care provider said Wednesday.
+
+The unidentified perpetrator stole documents from the Planned Parenthood affiliate that contained sensitive data on some patients such as their insurance information, their diagnosis, procedure or prescription, according to a breach notification the organization sent to victims.
+
+"Law enforcement was notified of this incident," John Erickson, a spokesperson for Planned Parenthood Los Angeles, said in an email to CNN. "Unfortunately, we do not know the identity of the person responsible, which is not uncommon in these situations. However, we have no indication this was a targeted attack."
+
+Erickson said the incident was confined to Planned Parenthood's Los Angeles chapter and that there is no evidence that the stolen information had been used for fraudulent purposes. Erickson declined to address questions about whether there was a ransom demand or what type of ransomware was used.
+
+The Washington Post first reported on the incident.
+
+Read More

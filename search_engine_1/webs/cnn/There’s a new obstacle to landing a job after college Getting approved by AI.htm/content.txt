@@ -1,0 +1,105 @@
+San Francisco CNN —
+
+College career centers used to prepare students for job interviews by helping them learn how to dress appropriately or write a standout cover letter. These days, they’re also trying to brace students for a stark new reality: They may be vetted for jobs in part by artificial intelligence.
+
+At schools such as Duke University, Purdue University, and the University of North Carolina at Charlotte, career counselors are now working to find out which companies use AI and also speaking candidly with students about what, if anything, they can do to win over the algorithms. This shift in preparations comes as more businesses interested in filling internships and entry-level positions that may see a glut of applicants turn to outside companies such as HireVue to help them quickly conduct vast numbers of video interviews.
+
+With HireVue, businesses can pose pre-determined questions — often recorded by a hiring manager — that candidates answer on camera through a laptop or smartphone. Increasingly, those videos are then pored over by algorithms analyzing details such as words and grammar, facial expressions and the tonality of the job applicant’s voice, trying to determine what kinds of attributes a person may have. Based on this analysis, the algorithms will conclude whether the candidate is tenacious, resilient, or good at working on a team, for instance.
+
+Much has been written about the potential of AI to replace human jobs in the future, but the use of services like HireVue highlights a different concern: that AI can act as a gatekeeper for the jobs of today. Companies may not be ready to outsource vetting candidates for C-Suite and executive positions to algorithms, but the stakes are lower for entry-level roles and internships. That means some of today’s college students are effectively the guinea pigs for a largely unproven mechanism for evaluating applicants.
+
+To make matters more complicated, there is little in the way of regulations or industry standards surrounding disclosure of technology usage -— though Illinois, for example, changed that with a recently-enacted law. So interviewees may not know when (or how) AI is analyzing their interview, and when it isn’t. That creates a sense of uncertainty for those trying to guide college students and new graduates through the interview process, and for the job seekers themselves.
+
+What worries me about AI is AI can’t tell the heart of a person and the drive a person has. Matthew French, assistant director for employer relations at UNC Charlotte
+
+“It’s kind of the wild, wild west right now of interviewing,” said Matthew French, assistant director for employer relations at UNC Charlotte’s university career center.
+
+IAN BERRY/CNN
+
+Sarah Ali, a Duke undergraduate student, has gone through about eight HireVue interviews with various companies for jobs and internships in fields like tech and marketing. Except for the first interview, which helped her snag a marketing internship, none of them led to a job. Even now, she’s unsure what role, if any, AI played in the process — a possibility she only contemplated after speaking with friends about it following the first one.
+
+Even though she landed the internship after that first interview, Ali said she would have done a lot of things differently had she known for sure AI was involved. She might have used key words or phrases that would be picked up by AI and also kept direct eye contact with the camera.
+
+“Once I understood the AI interview process, I definitely started thinking about it as a game and how I could optimize for certain qualities or gestures,” Ali said.
+
+Sarah Ali, a Duke University undergraduate student, said she now thinks of the AI interview process as a "game." Teresa O'Reilly
+
+Why some companies turn to AI in interviews
+
+HireVue may be the most well-known video interview company with nearly 800 companies as clients (including CNN, which does not use its AI features). It is used to interview about 1 million people every 90 days, according to HireVue CEO Kevin Parker.
+
+“We’ll interview probably a million college kids this year,” Parker told CNN Business.
+
+Parker said the Utah-based company began using AI in 2014 as a way to help companies sort through video interviews. He won’t say how many clients use AI assessments today, beyond noting that it’s a “smaller subset” of the companies it works with. HireVue highlights several of them on its website, including multiple Fortune 500 companies, such as Unilever.
+
+As with other companies like Yobs and Talview that offer AI-based assessments of video interviews, HireVue believes it can be helpful for ushering a massive number of people through the interview process quickly and reviewing them in a fair, consistent way.
+
+A mockup of a report that a company would receive after AI is used to assess a job candidate's HireVue interview, showing how the person compared to others who were interviewed and an average recommendation for the candidate. In this example, the candidate also completed a coding task and answered multiple-choice questions. HireVue
+
+Parker said its algorithms consider things such as word usage, pronouns and facial expressions to determine how likely a job candidate is to possess a specific attribute a client is looking for in a certain job, such as empathy or willingness to learn.
+
+These AI assessments are often used for filling entry-level jobs because candidates don’t have a lot of work history. The goal, according to Parker, is that the AI can act as a way to evaluate abilities and talent.
+
+After an AI assessment is performed on an interview – video interviews can take roughly 20 to 25 minutes – the client gets a report scoring the candidate on the attributes deemed key to the job. This, Parker said, gives the company offering the job an almost standardized-test-score view of the candidate, showing what they’re good at and how they stand relative to other candidates. A report can also be generated for the job candidate to give them feedback, but it’s up to the employer to share that.
+
+“We recommend that customers do it and I think it’s great feedback for the candidate, but it’s customer specific,” Parker said. It’s unclear how many companies do applicants the courtesy of taking this step.
+
+Stephen Roach, a career services consultant at Purdue's Center for Career Opportunities, sometimes takes an almost dismissive approach when coaching students on dealing with AI. "They can't know how that platform's going to judge them," he said. Xinrui Xu
+
+“We don’t know what it’s looking for”
+
+For Meredith McCook, assistant director at the Duke career center, the rise of this kind of interview — via video, and possibly with AI in the background analyzing that video — has meant some changes to how she works with students. She’s often talking to students about the new ways technology may be part of the interview process, and coaching them to practice by doing things such as turning on their laptop’s video camera and spending time talking to it. Duke offers students online video interview practice sessions, too.
+
+“With AI, we don’t know what it’s looking for,” McCook said. But in case AI is analyzing the interview, she suggests students raise their laptop to be eye level with the camera so it appears they’re maintaining eye contact, even though there isn’t a human on the other side of the lens.
+
+At UNC Charlotte, French is trying to help students become more informed about when AI is being used. This year, he said, the school will be asking employers it partners with whether they use AI for their virtual interviews in hopes of getting some data on how widespread the practice is.
+
+He remains troubled about the use of AI in the recruitment process, though. “Everyone makes snap judgments on students, on applicants, when first meeting them,” he said. “But what worries me about AI is AI can’t tell the heart of a person and the drive a person has.”
+
+Meredith McCook, assistant director at the Duke career center, admits that she and her peers don't even know what AI is looking for when screening students. Rob Ferrell
+
+Others like Stephen Roach, a career services consultant at Purdue’s center for career opportunities, sometimes take an almost dismissive approach when coaching students on dealing with a potential AI assessment. For example, he may tell them not to worry about it, since it’s outside their control.
+
+“If it is looking at their facial expressions or tone of voice, it might just be them being who they are,” he said. “They can’t know how that platform’s going to judge them.”
+
+These career counselors might soon have more tools to help students crack the black box. Interview prep platform Big Interview, which is used by more than 500 colleges and universities including Purdue and UNC Charlotte, is building its own AI system for scoring mock video interviews and giving would-be interviewees feedback. Big Interview cofounder and chief coach Pamela Skillings said the feedback will include details such as how quickly the person speaks and how much confident or negative language they use. The company plans to roll it out next month.
+
+The impetus for developing the tool, Skillings said, is from seeing people getting screened out after doing video interviews and feeling like they “deserve to know how they’re coming across.”
+
+College students and career counselors are still trying to figure out how to deal with the new role that AI plays in job interviews EQRoy/Shutterstock
+
+But does it even work?
+
+Regardless of how clued in candidates are to when and how AI evaluates their interviews, plenty of people encountering this kind of interview technology — from college career counselors to AI scholars to technology rights activists — are unconvinced it can really work.
+
+“When you start saying, ‘We’ll use things like cadence and facial animation and things of that nature,’ I’m really skeptical that there’s real validity there,” said Aaron Rieke, a managing director at technology rights nonprofit Upturn.
+
+There are also concerns about how well AI can apply to the interview process. Arvind Narayanan, an associate professor of computer science at Princeton, said that while AI can be helpful at, say, identifying whether a photo contains a cat or a dog, it’s much harder to automate things such as predicting future social outcomes — like who will succeed at a job.
+
+He’s particularly doubtful of companies claiming they can analyze facial expressions in order to assess a person’s suitability for a job. (HireVue’s AI assessments can include this, Parker said, but he stressed that it’s used “very, very little”.)
+
+“Once I understood the AI interview process, I definitely started thinking about it as a game and how I could optimize for certain qualities or gestures.” Sarah Ali, a Duke undergraduate student
+
+One group, the Electronic Privacy Information Center, or EPIC, has gone as far as asking the Federal Trade Commission to investigate HireVue for what it calls “unfair and deceptive trade practices” related to its use of AI — particularly “secret, unproven algorithms” — in the interview process.
+
+HireVue said in a statement that it believes the complaint is without merit. “We uphold the highest levels of rigor and ethics as we work every day to increase fairness and objectivity in the hiring process,” the company said.
+
+Coming face-to-face with artificial intelligence
+
+To get a sense for what it’s actually like to be knowingly graded by a computer, I recently tried out a simulator that’s available online from Los Angeles-based startup Yobs, which uses AI to help a range of companies.
+
+The interview started with a familiar question: Name your biggest strengths and weaknesses. In the back of my mind, however, I wondered what an algorithm would make of my answer, complete with nervous pauses and frowns.
+
+After completing a mock video interview via Yobs, CNN Business' Rachel Metz received an AI assessment scoring her personality traits, including extraversion and agreeableness. FROM YOBS
+
+As I stared into my laptop camera, talking to nobody about myself and why I should be a potential employee at the faux Your Dream Company, I couldn’t help but feel a lot more anxious than I ever recall feeling during a phone or in-person interview.
+
+After answering the warm-up question about my strengths and weaknesss, which I was allowed to watch and redo as many times as I wanted, I recorded an ersatz interview where I had to talk about topics such as a time I faced a challenge with a team. Yobs gave me 30 seconds to prepare an answer to each of the questions, and each answer needed to be one to three minutes long. Without a human on the other side of my desk, I struggled to speak for even 40 seconds straight.
+
+The AI assessment of my performance arrived in my inbox soon after. It included computer-generated scores of the so-called Big Five personality traits — including openness and conscientiousness, where I scored highly, and neuroticism where, to my surprise, I scored low. The report also rated me on what are often known as “soft” or interpersonal skills: According to Yobs, my answers indicated a tendency to be cooperative, humble, and analytical, but less likely to be assertive or empathetic.
+
+To score these traits and skills, Yobs cofounder and CEO Raphael Danilo said the company’s AI assessment analyzes what interviewees say and how they say it — a method that sounds similar to HireVue’s. If a video is poor quality or the speaker has an unclear voice, he said, a trained human reviewer (who’s been given guidelines by psychologists working for Yobs on how to measure the same things the AI system is assessing) will look it over.
+
+Danilo acknowledges that using AI to look over interviews is challenging; he’s not, for instance, comfortable letting it completely automate the hiring process at this point. But he’s convinced it can help employers find good employees quickly.
+
+If you’re looking at 100,000 applications for 500 spots, for instance, “you can’t talk to everybody,” he said. “You can’t take everyone out to lunch. So you have to use signals.”

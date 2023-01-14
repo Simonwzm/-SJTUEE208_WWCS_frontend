@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190919120919-microsoft-file.jpg?q=x_5,y_220,h_2563,w_4556,c_crop/w_800

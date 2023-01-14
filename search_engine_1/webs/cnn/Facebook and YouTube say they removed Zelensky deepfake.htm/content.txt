@@ -1,0 +1,23 @@
+(CNN Business) Facebook and YouTube said Wednesday that they removed uploads of a deepfake video of Ukranian President Volodymyr Zelensky that purported to show him yielding to Russia.
+
+The deepfake spread widely online Wednesday, as noticed earlier by Vice's Motherboard . In the video, which CNN Business has reviewed, Zelensky appears to stand behind a presidential podium and in front of a backdrop, both of which feature the Ukranian coat of arms. Wearing a green shirt, Zelensky speaks in Ukranian, appearing to tell Ukranians to put down their weapons in the weeks-old war against Russia.
+
+Deepfakes — which combine the terms "deep learning" and "fake" — are persuasive-looking but false video and audio files. Made using cutting-edge and relatively accessible AI technology, they aim to show a real person doing or saying something they did not. Experts have long been concerned that, as they improve, they would be used to spread misinformation
+
+In a series of posts on Twitter Wednesday afternoon, Meta's head of security policy, Nathaniel Gleicher, wrote that the company spotted and removed the video earlier that day. "We've quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms," he wrote.
+
+YouTube spokesperson Ivy Choi said the video and reuploads of it have been removed from the platform because it violates the company's misinformation policies. "We do allow this video if it provides sufficient education, documentary, scientific or artistic context," Choi said in a statement.
+
+A Twitter spokesperson said the company is tracking how the video is shared across the social network, and has taken "enforcement action" in cases where it violates company rules (such as its synthetic and manipulated media policy , which forbids users from sharing altered content that may confuse people or lead to harm; in some cases, Twitter may label tweets containing misleading media to give users more context).
+
+While the video doesn't look tremendously doctored, there are some telltale signs that the video is not what it appears to be. And Zelensky himself appeared in a video posted to an official Ukraine defense account on Twitter, saying he is continuing to defend Ukraine and refusing to lay down weapons against Russia.
+
+Hany Farid, a professor at the University of California, Berkeley, and digital forensics expert, pointed out several of the obvious signs that the video is a deepfake. First, it's a low-quality, low-resolution recording; this is a common trick to hide the distortions created when making a deepfake, as our brains tend to be more forgiving of glitches in low-quality videos. Second, the Zelensky in the video looks straight ahead without moving his arms throughout the clip — it's very tricky to make a convincing deepfake that includes head motions and hands moving in front of the face. Third, there are little visual inconsistencies in the video, he pointed out, that occur during the process of making a deepfake, which is created a single frame at a time. Though Zelensky's voice is harder for Farid to comment on, in part because he doesn't speak Ukranian, he said it sounds a bit off to him.
+
+The video comes weeks after the official Facebook account for Ukraine Land Forces posted a warning that such videos of Zelensky may appear . "Be aware - this is a fake!" the account wrote, soon adding, "Rest assured - Ukraine will not capitulate!" That warning was accompanied by an image that appeared to show Zelensky in a similar shirt as what appeared in the deepfake video, in front of the same backdrop and behind the same podium.
+
+As of Wednesday afternoon, the video could still be found online, such as in some posts CNN Business spotted on Twitter and YouTube in which users made clear that it was a deepfake.
+
+While Farid doesn't think the video fooled people, he thinks it "muddies the information waters," making it harder for anyone to trust what they see.
+
+"Casting doubt on what you see and hear and read is a very powerful weapon in the information war and deepfakes are now playing a role in that," Farid said.

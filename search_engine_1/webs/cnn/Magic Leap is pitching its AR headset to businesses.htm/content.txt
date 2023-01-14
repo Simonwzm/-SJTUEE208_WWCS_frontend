@@ -1,0 +1,23 @@
+San Francisco CNN Business —
+
+More than a year since releasing its first augmented reality headset to developers, Magic Leap is now wooing companies with new enterprise-geared software. It’s a move that looks a lot like what Microsoft is doing with its HoloLens device, and raises further questions whether AR headsets can succeed as consumer products — or will remain tools for businesses.
+
+On Tuesday, Magic Leap introduced a range of enterprise software that can do things that might appeal to both business and consumer users. These include the ability to conduct virtual meetings in a way that makes it look like a remote person is in the room with you while you both look at virtual 3-D models, or create virtual experiences that tie in with the real world (such as a virtual exploration of an artifact in an actual museum exhibit).
+
+A visitor tries a virtual reality helmet Magic Leap One during the Virtuality Paris 2019 show on November 21, 2019 in Paris, France. Chesnot/Getty Images
+
+Like Microsoft (MSFT) with its HoloLens, the startup hopes this move will convince business customers that their employees should use a gadget that mixes 3-D images with the real world. The software will be sold with a Magic Leap One headset for $2,995. The software includes the kinds of features that allow businesses to manage numerous devices, such as the ability to manage different employee accounts and remotely delete data from a headset.
+
+Omar Khan, Magic Leap’s Chief Product Officer, told CNN Business making its headset work for enterprise customers is a “huge step forward” for the company, and that Magic Leap worked with partners (which include airline JetBlue, contract manufacturer Jabil, and CNN’s parent company, AT&T) to determine the best use cases for the headset.
+
+Several of the features — such as the ability to consult a remote expert who can view what you see through a camera on the goggles — are similar to ones that Microsoft offers with HoloLens. Magic Leap One was released in August 2018 and costs $2,295 to $3,290, depending on whether users want a service plan. The latest version of HoloLens, HoloLens 2, began shipping in November and costs $3,500.
+
+The AR headset market is quite small compared to other gadgets like smartphones and video-game consoles. Tech market researcher IDC recently forecast that $18.8 billion will be spent on AR and virtual reality headsets, services, and software in 2020, up from $10.5 billion in 2019. Most of that money will go toward headsets, and be spent by companies. For now, the market for VR is larger than for AR, IDC predicted.
+
+It’s hard to tell how well individual companies are faring, as those making headsets, such as Magic Leap and Microsoft, haven’t divulged sales numbers. Echoing IDC’s view of the market, Microsoft told CNN Business in November that it’s mostly selling HoloLens to business customers. The technology has only really appealed to consumers thus far in smartphone apps for things like gaming and trying on makeup.
+
+Magic Leap’s enterprise software announcement comes less than a week after a report in tech publication The Information that the company forecast it would sell at least 100,000 headsets in the year after the One’s release, but sold just a fraction of that in the first six months.
+
+In response, Magic Leap said in a statement that the report is “littered with inaccuracies and misleading statements” and “erroneously portrays Magic Leap’s operations, internal plans and overall strategy.” In an interview with CNN Business on Monday the company declined to elaborate or speak about how headset sales compared to forecasts.
+
+Magic Leap, based in Plantation, Florida, has raised $2.6 billion from investors since 2014, and is in the midst of raising a series E round of funding.

@@ -1,0 +1,2 @@
+tech
+This AI image generator lets you type in words and get weird pictures back - CNN

@@ -1,0 +1,17 @@
+CNN Business —
+
+Uber said Thursday that it was investigating a “cybersecurity incident” after a hacker shared evidence that they had breached the ride-hailing giant’s computer systems with journalists and security researchers.
+
+“We are currently responding to a cybersecurity incident,” Uber’s communications team said in a tweet Thursday evening. “We are in touch with law enforcement and will post additional updates here as they become available.”
+
+The New York Times was first to report the incident.
+
+Uber said in an update Friday afternoon that there was “no evidence that the incident involved access to sensitive user data” such as passengers’ ride history.
+
+“Internal software tools that we took down as a precaution yesterday are coming back online this morning,” Uber said Friday. “All of our services including Uber, Uber Eats, Uber Freight, and the Uber Driver app are operational.”
+
+Andrew Hasbun, an Uber spokesperson, declined to comment further on the incident.
+
+It’s not the first time Uber (UBER) has dealt with a security breach. Hackers stole data on 57 million driver and rider accounts in 2016, and Uber (UBER) paid to cover up the breach.
+
+Uber allegedly paid the hackers $100,000 to get rid of the data. The company in 2018 agreed to pay $148 million in a settlement related to the incident with attorneys general from 50 states and DC.

@@ -1,0 +1,63 @@
+New York (CNN Business) Throughout thousands of pages of leaked Facebook documents, there's an uncomfortable refrain echoing from the company's own employees: Something must be done.
+
+The documents make clear that senior leadership, including CEO Mark Zuckerberg, were made aware of the potential for real-world harms from its various platforms — amplifying hate speech, encouraging eating disorders in teens, inciting violence — and did nothing about it.
+
+There's little, if anything, in the revelations that looks good for Zuckerberg, the 37-year-old founder who built Facebook from a dorm room project into a nearly trillion-dollar company on the mantra "move fast and break things." Outraged activists, pundits and lawmakers are demanding Zuckerberg take responsibility — the fish rots from the head down, after all. But holding Zuckerberg accountable is much easier said than done.
+
+For its part, Facebook has pushed back on many of the reports leaked to the media, saying they are misleading and mischaracterize its research and actions. On an earnings call Monday, Zuckerberg sought to reframe the so-called Facebook Papers as a "coordinated effort to selectively use leaked documents to paint a false picture of our company."
+
+Toothless shareholders
+
+Facebook's tiered stock structure makes ousting Zuckerberg practically impossible. Although he owns less than half the company's stock, the class of shares Zuckerberg holds vote with much more power than common stock.
+
+That means Zuckerberg controls a majority of the company's voting shares. Even if the board and every shareholder united against him, Zuckerberg would still be able to get his way.
+
+"He's a king, he's not a CEO," former Facebook employee Yael Eisenstat told Time earlier this month.
+
+His powerful position at the helm of Facebook, Instagram and WhatsApp gives Zuckerberg "unilateral control over 3 billion people," Frances Haugen, the Facebook whistleblower, told UK lawmakers on Monday.
+
+And shareholders aren't likely to complain too much anyway. Facebook, for all its faults, has made them immensely wealthy . Although Facebook stock has lagged behind tech competitors like Apple and Google, shares are up nearly 75% since October 2019.
+
+On Friday, a consortium of 17 US news organizations began publishing a series of stories — collectively called "The Facebook Papers" — based on a trove of hundreds of internal company documents which were included in disclosures made to the Securities and Exchange Commission and provided to Congress in redacted form by Haugen's legal counsel. The consortium, which includes CNN, reviewed the redacted versions received by Congress.
+
+Wall Street shrugged Monday, as scathing headlines based on the Facebook Papers spread across the internet. But Tuesday, following Facebook's earnings report in which it missed analysts' expectations for sales, its stock fell 4% Tuesday. Investors care only about dollars and cents.
+
+Gridlock in DC
+
+In Washington, lawmakers have been playing catch-up to try to regulate a company that has easily sidestepped government oversight. Lawmakers have introduced several pieces of bipartisan antitrust legislation in the House targeting Big Tech broadly. But Facebook's structure is uniquely murky , even among tech companies, according to Haugen.
+
+"At other large tech companies like Google, any independent researcher can download from the Internet the company's search results and write papers about what they find," Haugen told Congress earlier this month. "But Facebook hides behind walls that keep researchers and regulators from understanding the true dynamics of their system."
+
+In other words, it's a complex problem that'd be hard to solve even if Congress weren't hobbled by its own internal squabbling.
+
+The antitrust angle is slow-going, too. Over the summer, a federal judge tossed out the Federal Trade Commission's case arguing that Facebook was a monopoly, citing lack of evidence. The FTC refiled its case, and Facebook again filed a motion to dismiss it earlier this month
+
+Some have proposed an entirely new regulatory body focused on tech giants.
+
+"Digital companies complain (not without some merit) that current regulation with its rigid rules is incompatible with rapid technology developments," writes Tom Wheeler , a former chairman of the Federal Communications Commission. "Oversight of digital platforms should not be a bolt-on to an existing agency but requires full-time specialized focus."
+
+Tech leaders, including Zuckerberg, have expressed openness to the idea in the past. Of course, it's easy to say yes to a hypothetical. And not everyone's buying it.
+
+Facebook may countenance the idea of external regulation, but "at the same time it is fighting that regulation tooth and nail, day and night, with armies of lawyers, millions of dollars in lobbying," said Senator Richard Blumenthal on CNN's "Reliable Sources" Sunday. "Facebook saying it wants regulation is the height of disingenuousness."
+
+Advertisers can't afford to leave
+
+Big advertisers could potentially score PR points with a boycott of the site, but even that is unlikely to make a major dent in Facebook's bottom line. That's because the vast majority of Facebook's ad revenue comes from small businesses who can hardly afford to leave.
+
+In the summer of 2020, hundreds of household name brands boycotted the platform over its handling of hate speech in the #StopHateforProfit campaign. But Facebook's stock prices and ad revenue have only grown since then.
+
+Facebook generated more than $28 billion in ad revenue during the third quarter alone. That's up by 33% from a year ago.
+
+Changes afoot?
+
+The Facebook Papers offer some of the most damning evidence that Facebook is directly responsible for real, tangible harm. And worse, it's been ignoring the harm for years.
+
+Far more than any previous scandals the company has weathered, this one feels like a turning point. But the resolution to this scandal won't be swift or simple.
+
+If the whistleblower's documents show us anything, it's that there are meaningful concerns among some employees, including Haugen herself -- and multiple whistleblowers are coming forward to keep pressure on the company. But of course it's unclear if that alone would be enough.
+
+Washington won't be able to suddenly resolve the regulation issues, and Wall Street isn't going to turn its back on a money-making machine. Critically, the 3 billion people using Instagram, WhatsApp and Facebook aren't going to turn the apps off on principle. For many, those apps have become vital tools for communication, synonymous with the internet itself.
+
+The company will keep spinning its own narrative and downplaying critics, and it may even work on addressing the problems in the meantime. But given Facebook's scale — and its track record of evading regulation while minting money for shareholders — a full-scale reckoning seems unlikely.
+
+—CNN Business' Clare Duffy, Paul R. La Monica and Matt Egan contributed to this report.

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191218154602-uber-suv-file.jpg?q=x_3,y_243,h_1684,w_2993,c_crop/w_800

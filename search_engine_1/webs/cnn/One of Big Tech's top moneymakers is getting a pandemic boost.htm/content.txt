@@ -1,0 +1,45 @@
+New York (CNN Business) As much of the world shut down in the spring because of the pandemic, businesses were forced to rely more heavily on technology than ever before. It was cloud computing's time to shine.
+
+"Everyone had almost a Black Friday level of stress on their IT," Hillery Hunter, chief technology officer ofCloud, said of the early days of the pandemic.
+
+The crisis demonstrated that in many cases, investments in cloud computing had been worthwhile.
+
+"Customers that had invested in cloud technology, that had adopted digital capabilities, were the ones able to pivot more quickly," said Julia White, corporate vice president ofAzure. "Retailers who had a great e-commerce platform did much better than those who did not. Organizations who had used AI as part of their supply chain to do more real-time forecasting did better."
+
+Those benefits have meant a growing number of companies investing in moving to the cloud, despite ongoing economic uncertainty. In particular, companies in industries such as health care and finance that have been slower to adopt cloud technology have a new sense of urgency to make the transition.
+
+Research firm Gartner noted in a July report that the public cloud market is likely to be a "bright spot," despite an expected decline in overall IT spending this year because of the recession. Likewise, Wedbush analyst Dan Ives wrote Friday that he'd projected that the total number of workloads in the cloud would climb to 55% in 2022 from 33% today -- but that target could be reached by next year given the uptick.
+
+"While (companies) wanted to transform or had various levels of digital transformation planning in place before, during the early days of the pandemic, they realized that they needed to put the foot down on the pedal in terms of investment ... in cloud technology," CCS Insights analyst Nick McQuire said.
+
+Relying on cloud during the pandemic
+
+Cloud computing is essentially a way of of renting space on remote servers to store and process information, rather than relying on traditional, on-premises data centers.
+
+Amazon AMZN This set-up provides greater flexibility, which can help companies navigate upheavals in business. When demand for services such as Zoom and Instacart, for example, skyrocketed, the companies were able to quickly rent more computing power so their sites wouldn't buckle under the massive jump in usage, said Matt Garman, vice president of worldwide sales and marketing forWeb Services.
+
+"If they weren't running in the cloud, that wouldn't have been possible," Garman said. "If they had to go procure servers, or set up data center space, folks like Instacart and Zoom would never have been able to scale (as quickly)."
+
+On the other end of the spectrum, travel businesses and others running on the cloud that experienced a sudden drop in demand could scale back the amount of computing power and space they were paying for, cutting costs while waiting for business to recover.
+
+"I think that this period of time has underscored the value of cloud in a way that was for some organizations maybe more theoretical before, and it's now very real," IBM's Hunter said.
+
+In addition to the basic storage and computing capabilities, companies increasingly relied on cloud-based applications as they scrambled to manage remote workforces.
+
+Microsoft's White said demand for the company's cloud-based remote working tools, such as Teams, Virtual Desktop and cloud security applications have been "off the charts" in recent months. She added that there has also been growing interest in Microsoft's "Power Apps" tool, which helps companies build "low-code," cloud-based apps without the help of a professional developer.
+
+White said hospital networks have used Power Apps to make applications for tracking the location and availability of personal protective equipment during the pandemic. Such an application could be easily built by a hospital's IT manager, and accessed by health care providers on their phones.
+
+"[Previously], if you were sitting behind a PC and had access to the right supply chain systems, you'd have that," White said. "But suddenly everyone needed it real time, on their phone, on the go."
+
+Continued cloud growth
+
+As demand for the cloud grows, so too does the competition to capture that business. A major point of focus for the big cloud players is security.
+
+"Having a leading position in data protection and security is particularly important at this moment in time as everyone is looking to move more workloads to the cloud, because moving more to the cloud means getting into more sensitive types of data that is more confidential to the enterprise," IBM's Hunter said. Part of IBM's cloud strategy is developing cloud services that meet the data security needs of highly regulated industries, such as finance.
+
+Although the pandemic presents a major growth opportunity, there has been some investor concern in recent quarters around the slowing growth rates of major cloud businesses. However, CCS Insight's McQuire said that is to be expected: as businesses now worth tens of billions of dollars, they can only be expected to grow so quickly.
+
+And the big industry players still see plenty of remaining runway.
+
+"Any system that exists today can be migrated and run in the cloud and any new system, any new application being built can be run with the cloud," Microsoft's White said. "So there's kind of no limit in terms of how we look at the market, and I don't expect there to be for many, many years."

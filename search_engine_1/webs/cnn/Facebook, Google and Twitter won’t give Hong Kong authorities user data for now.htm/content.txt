@@ -1,0 +1,39 @@
+London CNN Business —
+
+Most of the world’s major internet and social media platforms have stopped processing requests for user data made by Hong Kong law enforcement authorities while they carry out an assessment of a controversial security law imposed by China on the city last week.
+
+Facebook and its messaging service WhatsApp said in statements Monday that they would “pause” the review of information requests from the Hong Kong government “pending further assessment of the impact of the National Security Law, including formal human rights due diligence and consultations with human rights experts.”
+
+Facebook (FB) said the company believes “freedom of expression is a fundamental human right and support the right of people to express themselves without fear for their safety or other repercussions.”
+
+Twitter (TWTR) confirmed to CNN Business that it has also paused all requests from Hong Kong authorities for data and information while it reviews the law. “Like many public interest organizations, civil society leaders and entities, and industry peers, we have grave concerns regarding both the developing process and the full intention of this law,” a spokesperson said.
+
+A Google (GOOG) spokesperson told CNN Business that when the law took effect, it “paused production on any new data requests from Hong Kong authorities, and we’ll continue to review the details of the new law.”
+
+Popular video conferencing platform Zoom (ZM) followed suit on Tuesday, saying in a statement that it will pause processing data requests from and related to the Hong Kong government. The company said it is “actively monitoring the developments in Hong Kong SAR, including any potential guidance from the US government.”
+
+A spokesperson for LinkedIn also confirmed it is pausing responses to local law enforcement requests in Hong Kong.
+
+The law imposed last week by Beijing criminalizes secession, subversion, terrorism, and collusion with foreign powers, a sweeping change that critics describe as an attack on freedoms of speech and the press that have long existed in Hong Kong but are prohibited on the Chinese mainland.
+
+The vaguely defined rules broaden the power of officials to investigate, prosecute and punish both foreign nationals and citizens for anything deemed to be promoting secession or subversion of the government, like ‘inciting hatred’ of the central Chinese authority.
+
+On Monday, the Hong Kong government said police would be given new powers to investigate offenses related to the law, including demanding publishing platforms and internet service providers remove content that authorities believe undermines national security.
+
+Service providers who fail to comply with the requirement to remove such messages or provide assistance to law enforcement would be liable to a maximum fine of $12,903 ($100,000 Hong Kong dollars) and six months’ imprisonment.
+
+The law is a major shift for Hong Kong, which has been run under the “one country, two systems” principle since Britain formally handed authority of the territory over to China in 1997. The internet is not censored in Hong Kong, Asia’s premier financial hub, and residents are able to access social media platforms such as Facebook, Whatsapp and Google (GOOGL) that are banned on the mainland.
+
+Hong Kong authorities insist freedom of speech and the press still exists in the city. But just displaying the popular slogan “liberate Hong Kong, revolution of our times,” could result in a sedition charge under the new law, they said last week.
+
+The government has moved quickly to enforce the new law. The first person to be prosecuted under the legislation was denied bail after appearing in court on Monday.
+
+Facebook and WhatsApp said they only comply with information requests from law enforcement authorities in accordance with their terms of service and only when the requests are in line with international human rights standards.
+
+In its transparency report for July to December of 2019, Facebook said it received 241 information requests on 257 users or accounts from Hong Kong authorities. Of those requests, Facebook said 46% resulted in “some data produced.”
+
+WhatsApp, which encrypts messages between users, would not comment on whether or how user data has been shared with Hong Kong authorities in the past. Instead, a spokesperson referred CNN Business to an information page for law enforcement, which states that the company will only disclose information “in accordance with our terms of service and applicable law.”
+
+Hong Kong police did not immediately respond to a request for comment.
+
+— Sandi Sidhu, Eric Cheung and Anna Kam contributed to this report

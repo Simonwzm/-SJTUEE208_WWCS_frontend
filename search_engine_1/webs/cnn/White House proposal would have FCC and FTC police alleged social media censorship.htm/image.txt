@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg?c=16x9&q=w_800,c_fill

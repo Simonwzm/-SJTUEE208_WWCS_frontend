@@ -1,0 +1,25 @@
+Washington CNN Business —
+
+Capital One and Amazon are now facing congressional scrutiny over the banking giant’s enormous data breach, disclosed on Monday, that affected roughly 100 million Americans.
+
+Lawmakers on the House Oversight Committee sent letters to the companies on Thursday seeking information on the incident. They also sought details about the Amazon (AMZN) cloud computing software that underpins Capital One’s operations, and which could play a role in both the military’s future and the 2020 census.
+
+“The Committee may carefully examine the consequences of this breach,” Republican lawmakers Jim Jordan, Michael Cloud and Mark Meadows said in a letter to Amazon CEO Jeff Bezos. It was not immediately clear why the letter was not signed by committee Democrats.
+
+Contacted by CNN, Rep. Elijah Cummings, the Democrat who chairs the committee, did not say why his name was not on the letter. But, he said in a statement, the panel has a long history of bipartisan investigations into data breaches.
+
+“We look forward to hearing more information about what happened from Capital One,” Cummings said.
+
+The legislators also wrote to Capital One (COF) CEO Richard Fairbank, requesting answers on the scope of the breach and the company’s response. Neither company immediately responded to a request for comment.
+
+The suspected hacker in the attack, a former Amazon Web Services employee named Paige Thompson, has been arrested. Thompson allegedly stole tens of thousands of Social Security numbers, bank account numbers and personal information such as names and dates of birth, according to a Justice Department complaint.
+
+But the lawmakers’ concerns are not limited to the breach. Amazon stands to win a multi-billion dollar Pentagon contract to supply the military with a cloud computing system, and is expected to provide support for the 2020 Census, said Jordan, Cloud and Meadows, who requested staff briefings from both companies by August 15.
+
+Amazon’s potential involvement in the Defense Department contract has attracted the attention of another major Republican: President Trump. Trump has vowed to take a “strong look” at the Pentagon procurement process amid allegations by Amazon’s rivals that the proposed contract was tailor-made for the company.
+
+Despite internal audits that found there was no conflict of interest when former Amazon employees went to work for the Pentagon to help design the contract, competitors such as Oracle (ORCL) have sought to convince the White House otherwise — including by drawing up a document alleging a massive conspiracy to help Amazon win the deal. That document found its way to Trump’s desk in recent weeks.
+
+Meanwhile, the possibility that malicious actors could seek to influence or manipulate the 2020 census — the first one to allow online responses on a massive scale — has prompted numerous tech companies to scramble in preparation. In recent weeks, for example, Facebook (FB) has announced a civil rights task force that it says will fight efforts to meddle in the census.
+
+Amazon has said that Amazon Web Services “was not compromised in any way” in the incident. Capital One agreed, saying the breach occurred due to a “configuration vulnerability in our infrastructure.” And the Justice Department’s complaint against Thompson offered more details, blaming a “firewall misconfiguration” for a specific Capital One server that allowed unauthorized outsiders to issue commands to it.

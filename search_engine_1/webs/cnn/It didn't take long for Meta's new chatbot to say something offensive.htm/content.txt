@@ -1,0 +1,11 @@
+(CNN Business) Meta's new chatbot can convincingly mimic how humans speak on the internet — for better and worse.
+
+In conversations with CNN Business this week, the chatbot, which was released publicly Friday and has been dubbed BlenderBot 3, said it identifies as "alive" and "human," watches anime and has an Asian wife. It also falsely claimed that Donald Trump is still president and there is "definitely a lot of evidence" that the election was stolen.
+
+If some of those responses weren't concerning enough for Facebook's parent company, users were quick to point out that the artificial intelligence-powered bot openly blasted Facebook . In one case, the chatbot reportedly said it had "deleted my account" over frustration with how Facebook handles user data.
+
+While there's potential value in developing chatbots for customer service and digital assistants, there's a long history of experimental bots quickly running into trouble when released to the public, such as with Microsoft's "Tay" chatbot more than six years ago. The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data.
+
+"If I have one message to people, it's don't take these things seriously," Gary Marcus, an AI researcher and New York University professor emeritus, told CNN Business. "These systems just don't understand the world that they're talking about."
+
+Read More

@@ -2,6 +2,9 @@ from flask import Flask, render_template, request, redirect, url_for,jsonify,Blu
 import json
 import os
 
+# import search_engine.searchFile as searchFile
+import search_engine_1.searchFile as searchFile
+
 from flask_cors import CORS
 from flask_sqlalchemy import SQLAlchemy
 
@@ -16,9 +19,20 @@ CORS(app,supports_credentials=True)
 @app.route('/search', methods=['GET', 'POST'])
 def index():
     data = request.get_json(silent=True)
+    
     print(data)
-    #ret = func(data)
-    return jsonify(data)
+
+    keyword = data["keyword"]
+    url = data["url"]
+    title = data["title"]
+    if "date" not in data.keys():
+        date = None
+    else:
+        date = data["date"]
+        date = date.split("-")
+    result = searchFile.main(keyword,url,date,title)
+    print(result)
+    return jsonify(result)
 
 @app.route('/upload',methods=["POST"]) # 方法要与前端一致
 def upload():

@@ -1,0 +1,13 @@
+New York (CNN Business) Twitter has suspended an annoying bot that automatically responded with the next day's solution when people posted their Wordle scores on the platform.
+
+The account, @wordlinator, would tweet: "Guess what. People don't care about your mediocre linguistic escapades. To teach you a lesson, tomorrow's word is...," then adding the spoiler at the end. Twitter removed the account on Tuesday.
+
+Wordle.
+
+A Twitter spokesperson said the account was "suspended for violating the Twitter rules and the automation rules around sending unsolicited @mentions." The platform's terms of service state an account can't be used to disrupt other peoples' experiences using Twitter, including sending a high-volume of unsolicited replies.
+
+The bot was able to spoil future puzzles because the answers to Wordle can easily be found in the game's source code, according to an engineer . Words are assigned to a date and are stored in the player's browser.
+
+Wordle is essentially a modern version of the old game show "Lingo," in which players are given six tries to answer the correct five-letter word. Letters that aren't in the word turn gray, letters that are in the word but in the wrong spot turn yellow and those placed in the right spot turn green.
+
+Read More

@@ -1,0 +1,53 @@
+CNN Business —
+
+This past week I watched doctor and wellness advocate Deepak Chopra lead a short meditation over Zoom.
+
+“Close your eyes. Bring your awareness to your heart. And mentally ask yourself only four questions: Who am I? What do I want? What am I grateful for? What’s my purpose?” Chopra said on Wednesday morning. He was speaking at a technology conference as part of a discussion, talking to fellow panelists including Twitter cofounder Biz Stone and venture capitalist Cyan Banister.
+
+The group kept their eyes closed as Chopra continued to speak. After another moment of guided meditation, he finished up; everyone opened their eyes.
+
+“How was that?” Chopra asked.
+
+“It went great!” said Stone.
+
+“Wonderful!” chimed in Banister.
+
+“So weird!” I muttered, to myself.
+
+AI Foundation
+
+I don’t have anything against meditation. I was reacting to the fact that Chopra, Stone, Banister and two other people I’d been viewing via Zoom — Laura Ulloa, a peace activist, and Lars Buttler, cofounder and CEO of the AI Foundation and moderator of this panel discussion — were all digital personas created with artificial intelligence.
+
+That is, each one of them looked and sounded a lot like the person they were meant to represent. But these ersatz versions of their flesh-and-blood counterparts were built by Buttler’s AI Foundation, a San Francisco company and nonprofit that promotes the idea that each of us should have our own AI identity.
+
+Each avatar was trained by the person they emulate: The human was filmed making different consonant and vowel sounds, as well as answering a slew of questions to help the AI counterpart learn about how they speak and who they are. They are meant to be digital extensions that can communicate on behalf of their real selves. It’s an idea that sounds both creepy and full of possibilities. Imagine sending your AI proxy to handle a day of work meetings, while you read a book.
+
+The conversation, which mostly centered around what it’s like to have your own personal AI agent (neat, according to Stone’s AI, as it could still be around after he dies), was part of the second annual Virtual Beings Summit. Last year, this conference took place in San Francisco, with attendees watching speaker sessions at Fort Mason; this year, it was conducted online.
+
+The conference, according to its website, is meant for “exploring the growing impact of next-gen avatars on social networks, commerce, and the arts.”
+
+While the AI folks talking and meditating appeared to be logged in to the Zoom session from different locations (Banister on a bench outdoors in front of a thicket of bamboo, Buttler in the AI Foundation office, and so on), the conference also included numerous speaker sessions hosted within the video game Animal Crossing, with each speaker embodied by a cute character. Regular people like me could view it all from afar via Zoom.
+
+Watching the panel of AI creations was transfixing, due to its proximity to realness and its feeling of spontaneity. It’s the first conversation I’ve seen conducted in real time by AI creations modeled after actual humans, without a script. While there were shortcomings, such as the AI version of Buttler repeatedly saying “Sorry about this” as a technical glitch delayed Chopra’s AI from getting online, it was fascinating to watch the AI speakers interact. At one point, Buttler’s AI asked Chopra’s if he’s often asked questions about the universe, and the result felt weirdly natural.
+
+“Ah, yes.” he answered. “People are often curious about what I believe the purpose of existence is.”
+
+What struck me immediately was the simultaneous sense of awe and Uncanny Valley-unease I felt just looking at the AI beings engage in conversation.
+
+They had a number of the mannerisms of regular people: Banister blinked regularly, Buttler’s adam’s apple moved occasionally, and Stone’s shoulders shifted every so often.
+
+But they were unlike their real-world counterparts in some obvious ways. They were very human-like, but still looked kind of like animated characters and mostly existed only from the shoulders up. Their voices sounded stiff when they replied to questions, and there was always an unnaturally long pause between a query and answer. When they spoke, their mouths moved more like those of animatronic puppets than people or even cartoon characters. At the very end of the discussion, the real-life Buttler joined, making the strangeness of these AI creations even more pronounced.
+
+While the event wasn’t scripted, the real-life Buttler told me that his AI had the set goal of asking the panelists what their purpose was, and each AI panelist was set to listen for its name being spoken so it would only give an answer when addressed directly. In general, if an AI being doesn’t know the answer to a question, Buttler said, it’s supposed to ask its corresponding human about it at another time.
+
+Most of the panelists have a connection to the AI Foundation: Stone is part of its AI council and nonprofit board, Chopra is also on the nonprofit board, and Banister is an investor.
+
+Buttler said each human “owns” their AI counterpart, and they were all aware that the AI version of themselves would be participating in this panel discussion. Different AI beings have been trained for different lengths of time; Buttler said Stone trained his AI for a few hours, while Chopra has spent “dozens” of hours working on his. The more you train it, the implication is, the more it will be a true representation of yourself.
+
+“We don’t want to replace human beings,” Buttler said, soon adding, “These are extensions of real people that help them do their jobs better.”
+
+Banister, who watched part of the panel that included her AI avatar, wants the AI version of herself to be able to listen to pitches from entrepreneurs, enabling her to hear many more ideas than she ever could herself.
+
+In the present, though, she sees a more practical benefit to having her own AI persona.
+
+“For the first time ever I wasn’t stressed out about giving a talk,” she said. “So that was super nice.”

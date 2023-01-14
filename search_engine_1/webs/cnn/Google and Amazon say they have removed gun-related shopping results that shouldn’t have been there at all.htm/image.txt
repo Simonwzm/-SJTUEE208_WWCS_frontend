@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190806220439-amazon-shopping-0806.jpg?q=x_3,y_75,h_1645,w_2923,c_crop/w_800

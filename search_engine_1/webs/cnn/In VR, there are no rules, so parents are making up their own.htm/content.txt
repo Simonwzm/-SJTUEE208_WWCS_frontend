@@ -1,0 +1,55 @@
+(CNN) Last summer, Allen Roach saw something that really disturbed him: His then-11-year-old son, Peyton, used a sword to slice off the arms and legs of characters in a virtual reality medieval fantasy game, Blade & Sorcery , then threw the dismembered digital bodies off a bridge.
+
+Sure, it all happened in VR. But for Roach — who spotted this gory scene while monitoring his son's VR gaming on a computer screen that mirrored what Peyton was doing with an Oculus Quest 2 headset — it felt uncomfortably real.
+
+Roach knew when Peyton looked down in VR he was seeing a weapon held in virtual hands, not just a plastic game controller. It didn't matter that it was a single-player game, which meant that the characters weren't represented by other human players.
+
+"It bothered me in a way it doesn't on flat screens even, because they're doing it with their hands in physical presence," he said.
+
+Roach, who lives in Kansas City, Missouri and works as community manager for VR-based learning platform Edstutia, sat down with Peyton at the time and talked about what had happened. He also stopped letting his three oldest children (Peyton, now 12, and his 11- and 14-year-old brothers) play that game.
+
+Roach is one of a growing number of parents navigating a new frontier in technology, and learning as they go. More kids have access to VR headsets than ever before — and with it, access to a still-niche but expanding virtual world of games, avatar-driven hangouts, and many more activities. And the number of kids who use it is only likely to increase after the most recent holiday season.
+
+Cooper Albrecht, 8, and Rylee Albrecht, 10, play with their new Oculus Quest 2 headsets that they purchased in December using Christmas money.
+
+the Oculus app that complements the headset Tech market researcher IDC forecast shipments of 9.4 million VR headsets in 2021, 3.6 million of which were expected to ship out during the holiday season, research manager Jitesh Ubrani said. IDC believes the Quest 2 makes up more than three-quarters of those headsets. While demographic data isn't available, Urbani suspects that lots of kids received them as holiday gifts. (Meta, the company formerly known as Facebook, which acquired Oculus in 2014, doesn't release its VR headset sales figures. Butthe Oculus app that complements the headset shot to the top spot in Apple's App Store rankings on Christmas day , indicating a spike in headsets received as holiday gifts.)
+
+While the headsets are popping up in more homes, several models, including the Quest 2, lack established parental controls like time limits and maturing settings for profiles that you can find on a traditional video game console or a service like Netflix.
+
+Companies selling the headsets often set age limits for the gadgets. The Quest 2, for example, is intended for ages 13 and up, and requires a Facebook account, which is limited to those 13 and up. But parents may disagree or not even notice. The only indication of an age limit on the Quest 2 box, for instance, is in small type on the rear corner of a slide-off paper sleeve, making it the most disposable part of the headset's packaging.
+
+Meta spokesperson Kristina Milian told CNN Business that the company is "constantly looking to improve upon the protections and controls" offered to users, and that Quest devices were "not designed" for children younger than 13. Milian also said that its "headset packaging, health and safety warnings [and] onboarding safety video" make this age restriction "clear."
+
+But some parents feel they have to come up with their own rules and VR-safety strategies on the fly. These range from watching kids' every virtual move in realtime via a smartphone or other display, to limiting what they can download — or even only allowing them to use the technology with an adult.
+
+"I think it should be easier for parents," said Amber Albrecht, a Bend, Oregon-based parent who let her daughter Rylee, 10, and son Cooper, 8, buy Quest 2 headsets with Christmas money in December.
+
+Sometimes I feel like somebody's watching me
+
+Normally, parents can see what their kids are watching or playing on a screen like a TV, tablet, or smartphone. It's trickier with VR, however, as the display sits on the user's face, hidden from anyone around them.
+
+Both Roach and Albrecht told CNN Business that one way they get around this is by using a feature that is intended to let non-VR users in on what's happening behind the headset, known as casting. This option lets you see what the VR headset-wearer is doing in real time on a smartphone or other flat screen.
+
+"Any time my kids jump into VR I take advantage of the casting feature," said Roach, whose family has both a Quest 2 and a PlayStation VR headset, the latter of which does offer parental controls such as play time restrictions via a PlayStation 4. In his home, he said, it's actually easier to monitor their three-dimensional activities than two-dimensional gaming on the PS4, which is tucked away in a bedroom.
+
+In hopes of preventing — or at least minimizing — negative experiences in virtual spaces, Roach and other parents said they're monitoring the apps their kids download and setting rules about what types of content are off limits. Roach said his kids aren't allowed to download any apps, though they can suggest titles to him and he'll research them (and, typically, play them himself) to ensure they're appropriate. His experience with Blade & Sorcery helped him settle on a no-realistic-violence policy for VR play, but he's okay with cartoonish brutality.
+
+A child wearing an Oculus Quest 2 VR head set.
+
+Albrecht, who works in public relations in the tech industry, doesn't allow any VR apps that include guns, violence, or zombies, she said. Since she set up both her kids' Quest 2 headsets with her own Facebook account, which connects to the Oculus app on her phone, she can check the app to see if they've downloaded any free apps. The kids use the headsets next to her or her husband, she said, where the adults can hear (via the Quest 2's built-in speakers) what's going on, too.
+
+For all the potential risks, Albrecht and other parents said they also see how VR can be fun and useful for their kids. "It's also like this new frontier of their social lives, where they're learning to communicate," she said. "We work in a remote world. They have to learn those skills, too."
+
+Impact over time is not clear
+
+While casting and limiting types of content kids can access may help adults track what their children are doing, it doesn't eliminate the possibility that a child will encounter violence or abuse in a virtual setting.
+
+Additionally, very little is known about how VR usage can impact children over time. A range of studies have been conducted over the years , but it remains unclear whether and how VR can harm a child's eyes, brain, or psychological development. Pearlman hopes to see more research this year. Such work may be financed by Meta itself, as it announced in 2021 a $50 million investment in research geared in part toward "youth digital literacy programs" for the so-called metaverse.
+
+Beyond monitoring what kids are doing when wearing a headset, Pearlman recommends talking to kids about not talking to strangers in VR (as she pointed out, "that could be anyone" you're interacting with). The XR Safety Initiative lists a host of recommendations for parents whose kids use VR online — including that they check individual apps for the existence of different safety settings. Pearlman also advised that kids spend no more than 20 minutes using VR at a time, though she acknowledged it's an arbitrary time limit.
+
+"I think the time limit really depends on the amount of stimulant the experience gives to the child, which we can't really calculate on the fly," she said.
+
+Even if parents don't set a time limit, however, a quirk of existing wireless VR headsets may become a benefit for those weary of tracking their kids' virtual activities, as they only have a few hours of charge and may run out far faster than other gadgets kids might use.
+
+"I will say that is the other parental control: the battery life. It does not last that long," Albrecht said.

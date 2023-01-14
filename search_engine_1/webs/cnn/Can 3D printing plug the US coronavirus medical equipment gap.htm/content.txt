@@ -1,0 +1,77 @@
+San Francisco CNN Business —
+
+As frontline workers and hospitals struggle to get access to enough medical equipment to deal with the rapid spread of coronavirus, a growing number of businesses are pushing what could be a promising fix: 3D-printed supplies.
+
+A sprawling network of multinationals, local firms, universities and even individual hobbyists have stepped in to fill a void by using 3D printers to make face shields, respirator masks, nasal swabs and even ventilator parts in recent weeks.
+
+“3D printing actually has the capability to react very, very quickly — in terms of hours you can go from idea, to design, to prototype, to produce,” Ramon Pastor, acting president of 3D printing and digital manufacturing for HP (HPQ), told CNN Business. The same process can take days or even weeks for traditional manufacturers, he added.
+
+The list of products that can be 3D printed is a testament to the technology’s potential to ease the medical supply crisis. HP alone has printed and distributed more than 50,000 products from its centers in the US and Spain over the last two months, including face shields, protective masks and door handles you can open with your elbow to avoid touching them with your hands. It’s also working on developing nasal swabs that can be used to test for the virus and an emergency field ventilator made with 3D-printed parts that it aims to start producing in the coming weeks following additional tests.
+
+Despite this groundswell of activity, there are limitations on how far 3D printing can go to genuinely bridge the gap. While some hospitals have turned to this technology to shore up their supplies, safety concerns remain for 3D printing certain critical medical equipment, including ventilators. Hospital leaders may not be comfortable with using these products. The US Food and Drug Administration has sounded a note of caution on the effort, and government authorities have only approved a fraction of the 3D-printed device applications they have received so far.
+
+“While the FDA understands that 3D printing may occur to provide wider availability of devices during the COVID-19 public health emergency,” the agency notes on its website, “some devices are more amenable to 3D printing than others.”
+
+‘A war effort’
+
+Inside the 3D printing community – as well as parts of the medical community – hopes appear to be high. University and school libraries are bringing their machines together, individual enthusiasts are pitching in from home, and smaller companies are joining forces with rivals to speed up the production of medical equipment.
+
+Tangible Creative, which has 100 3D printers at its warehouse in Newark, New Jersey, has partnered with Brooklyn-based competitor MakerBot and Columbia University to create a coalition called the Covid Makers Response. The group is currently printing roughly 2,000 face shields a day, which volunteers pick up and drop off at the 92nd Street Y in Manhattan. They are then assembled and sent to more than 30 hospitals in the area.
+
+“It was like a war effort,” said Tangible’s co-founder and CEO Nevaris A.C.
+
+It’s part of a larger movement among big and small businesses to reorient their manufacturing operations toward producing medical supplies. Major US automakers are now making ventilators, tech firms such as Apple (AAPL) are designing face shields and companies that make phone accessories and gaming hardware are switching to mask production. While most of those companies are repurposing their existing manufacturing bases for the equipment, Ford said it will use 3D printing to make some disposable masks at its Advanced Manufacturing Center.
+
+A large network of 3D printers from major multinationals to individual hobbyists is pitching in to make medical supplies. Superfeet
+
+“One of the really incredible things that’s happened over the entire time scale of the crisis is this incredible community,” said Anthony Costa of New York’s Mount Sinai hospital network. Costa is a professor at the hospital’s medical school and the director of Sinai Biodesign, a center that works on medical innovations that has been helping source 3D-printed equipment for the network’s hospitals.
+
+“They have done it at sort of a crowd-sourced level,” he added. “Everyone who has a 3D printer in their basement, all the way to the prototyping facilities that we work with throughout the city, have all retooled all of their resources to make sure that we get to components that can have an impact.”
+
+President Trump earlier this month invoked the Defense Production Act to speed up the production of ventilators and other equipment, but the bulk of deliveries aren’t expected to arrive until June.
+
+3D printing companies say they can’t substitute traditional manufacturing, but their relative speed and ability to scale could make them an effective stopgap solution as medical workers continue to operate in crisis mode.
+
+“It allows you to move very quickly and so it allows you to fill those short-term supply chain gaps … and obviously that’s what this is,” said Greg Kessler, CEO of 3D printing company Shapeways. “That’s why 3D printing is a very good solution during these times.”
+
+Shapeways has also been supplying face shields to New York hospitals and is working on producing nasal swabs and ventilator splitters that allow one ventilator to be used by multiple patients.
+
+Not all 3D-printed medical equipment is the same
+
+Some medical equipment is easier to produce than others. That’s why so much of the 3D-printing effort has been focused on items like face shields.
+
+“Typically, as long as face shields fit comfortably and snugly across the forehead, are long enough to cover one’s facemask but not so long that they bump against the provider’s upper chest when looking down, and the plastic shield is clear and easy to see through, then the shield is good to go,” Jeanne Noble, a professor of emergency medicine and director of coronavirus response at the University of California, San Francisco medical center, told CNN Business.
+
+The specific requirements of more fundamental medical equipment such as ventilators and masks make them tougher to design and often require approval from the FDA to produce. Ventilators in particular are becoming increasingly critical, as several states face massive shortages and have warned they may struggle to save patients when the pandemic peaks.
+
+“As you move up the risk scale, senior leadership starts to get involved to better understand, what risk are we really putting patients at?” said Costa, of Mount Sinai. “And certainly for something like a ventilator, you know, a life-sustaining device, we’re not just going to get a part from a store and implement it, we’re not simply going to 3D print something and not study it.”
+
+Tangible Creative has 100 3D printers at its warehouse in New Jersey. Tangible Creative
+
+The FDA has released guidance cautioning that 3D-printed equipment provides a physical barrier but may not be able to keep out smaller liquid or airborne particles as effectively.
+
+“3D-printed masks may look like conventional PPE,” according to the FDA website. “However, they may not provide the same level of barrier protection, fluid resistance, filtration, and infection control.”
+
+A spokesperson for the FDA said the agency has formed a partnership with the National Institutes of Health and the Department of Veterans Affairs to assess 3D printed designs. So far only one face mask and eight face shields have been approved through the partnership for clinical use. Another four mask designs have been approved only for community use.
+
+“We are willing to be flexible and adapt to this pandemic, so that we can get essential medical devices to those in need,” the spokesperson said. “As long as data supports the application, we are authorizing these products quickly.”
+
+A massive network, ready to go
+
+Right now, some hospitals are continuing to move forward with select 3D-printed supplies. UCSF, for example, is working with 3D printing firm Carbon to create nasal swabs for coronavirus testing that Noble estimates will be available in the next two weeks.
+
+“This is a critical contribution given the scarcity of testing swabs that we are still facing,” she said.
+
+And there’s a huge potential network of 3D printers across the country that could be tapped into. Nearly 600,000 consumer 3D printers priced at less than $5000 were sold in the US in 2018, according to report last year by the Federation of American Scientists.
+
+Tangible Creative, HP and Shapeways have all made their design files available online for anyone that is able and willing to print them.
+
+“It’s not like you need a mold,” said Eugene Chang, Tangible’s co-founder and industrial design director. “You have this digital file and you can just send it to people, and they can hit print, just like how you send an email and can print it out on a 2D printer.”
+
+But Costa said more advanced equipment, even with the necessary approvals, would require industrial grade printers. As of 2018, according to the FAS report, 140,000 of those were sold worldwide.
+
+Once the regulatory and testing hurdles are cleared, however, 3D printing firms say they can move very quickly into mass production. Pastor said HP has the capacity to print 1 million swabs a week in the US alone.
+
+“Even building a new 3D printing factory is actually a question of weeks,” he said. “You can react within weeks and actually double, triple, quadruple your capacity if you want to.”
+
+Correction: An earlier version of this story misstated the FDA's role in vetting 3D printed device applications. The Department of Veterans Affairs assesses 3D printed designs.

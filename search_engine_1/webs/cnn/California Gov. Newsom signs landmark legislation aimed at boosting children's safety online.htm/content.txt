@@ -1,0 +1,11 @@
+Washington (CNN Business) A landmark California bill aimed at promoting children's digital welfare became law on Thursday, as Gov. Gavin Newsom announced he had signed the legislation imposing strict requirements on websites "likely to be accessed" by kids.
+
+"We're taking aggressive action in California to protect the health and wellbeing of our kids," Newsom said in a statement.
+
+The law marks a defeat for tech giants that had spent hundreds of thousands of dollars lobbying on the bill, which establishes new prohibitions on how companies can collect and use personal data, and new requirements in their approach to children.
+
+For example, the law prohibits the tracking of children's geolocation, unless that data is essential for providing a website's service, and requires websites to default to the most privacy-protective settings available for children. It bans so-called "dark patterns" that use manipulative design techniques that may dupe kids into giving up their personal information. And it requires businesses to determine the rough ages of its young users.
+
+Companies subject to the law, known as the California Age-Appropriate Design Code Act, may not sell children's personal data and must perform a so-called "data protection impact assessment" before offering any new service that is likely to be accessed by children.
+
+Read More

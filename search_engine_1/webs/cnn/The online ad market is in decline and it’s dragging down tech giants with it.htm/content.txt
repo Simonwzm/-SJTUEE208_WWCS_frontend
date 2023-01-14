@@ -1,0 +1,33 @@
+New York CNN Business —
+
+Much of contemporary Silicon Valley was built on advertising dollars. That dependence made even the most powerful companies look at least somewhat vulnerable this week after reporting their latest earnings results.
+
+“We seem to have entered an economic downturn that will have a broad impact on the digital advertising business,” Meta CEO Mark Zuckerberg told analysts at the start of the company’s earnings call on Wednesday. “It’s always hard to predict how deep or how long these cycles will be, but I’d say that the situation seems worse than it did a quarter ago.”
+
+Meta, Twitter (TWTR), Snap (SNAP), Google (GOOGL), Apple (AAPL) and Microsoft (MSFT) all reported that shrinking advertising budgets — a result of the recent market downturn and economic uncertainty — took some toll on their previous quarter earnings and would likely continue to be a challenge in the coming quarters. Spotify (SPOT) also said it saw “softening” in its ad business starting in the last two weeks of June.
+
+Even those with dominant market positions weren’t immune. Google’s core advertising business grew just 11.6% year-over-year, compared to the nearly 69% increase it posted during the same period last year. Meta, Facebook and Instagram’s parent company, posted its first year-over-year quarterly revenue decline in its history as a public company. (Advertising accounts for the vast majority of Meta’s revenue.)
+
+Those much less dependent on advertising felt the pinch as well. Microsoft said it took a revenue hit of $100 million during the second quarter from a reduction in advertising spend. Apple CEO Tim Cook told analysts Thursday that “digital advertising was clearly impacted by the macroeconomic environment during the June quarter,” weighing on its services revenue.
+
+Shares of Meta were down around 7% from the start of this week as of Friday morning. Snap shares fell more than 25% after it reported earnings last week.
+
+“Today’s results are very much reflecting the impact of a challenging economic environment which is hurting almost every mega tech company,” Haris Anwar, a senior analyst at Investing.com, said in a statement.
+
+It’s a stark reversal for the online advertising industry. After a brief dip at the start of the pandemic, advertisers began funneling money into online ads to reach consumers who were spending more time plugged into screens. This time last year, Meta and Snap both reported that quarterly sales had doubled from the prior year, and Google’s grew by 62%.
+
+But the world is a very different place now. Russia’s monthslong war in Ukraine caused some uncertainty among advertisers, and many tech companies responded to the attack by cutting off the ability for Russian-based companies to advertise on their platforms.
+
+More recently, a surge inflation, a market downturn and fears of a recession have prompted companies to pull back on their ad budgets, tech giants said during their earnings reports this week. Many companies, including in the tech industry, have recently slowed hiring and investments amid the economic uncertainty.
+
+The very nature of how some online ad campaigns are run has made the pain immediate. Snap CFO Derek Anderson noted in the company’s earnings call last week that “advertising spending — in particular auction-driven direct response advertising — is among the very few line items in a company’s cost structure that they can reduce immediately in response to pressure” on other parts of their business.
+
+Those macroeconomic challenges are expected to drag into the rest of this year. Meta said Wednesday it expects revenue for the current quarter to be between $26 billion and $28.5 billion, which would mark a second year-over-year quarterly revenue decline. Although Snap declined to provide financial guidance because of the uncertain environment, it said third quarter revenue was so far flat compared to the previous year.
+
+The downturn also comes after Apple’s app tracking changes, which went into effect in the second half of last year, had already been taking a toll on some tech giant’s businesses. Apple introduced a feature that lets users opt out of some tracking by apps, taking away some crucial data that social media platforms use to target ads. The change hurt ad businesses at Meta, Twitter and Snap, as well as smaller players such as Pinterest. Meta’s ad revenue alone took a $10 billion hit from the privacy update last year, and Snap’s Anderson said last week that the changes “upended a decade of advertising industry standards.”
+
+And while Google has the benefit of its own third-party data, YouTube’s ad business hasn’t been entirely spared.
+
+“Right now is essentially a perfect storm for digital advertising,” D.A. Davidson analyst Tom Forte said. For companies reliant on advertising, “there’s a high risk to your revenue.”
+
+–CNN’s Rishi Iyengar contributed to this report.

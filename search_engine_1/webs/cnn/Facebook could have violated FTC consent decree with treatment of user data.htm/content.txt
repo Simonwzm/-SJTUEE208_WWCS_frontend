@@ -1,0 +1,35 @@
+New York CNN Business —
+
+Facebook could face additional scrutiny from federal regulators after a new report that it offered more of its users’ data to companies than it had previously admitted.
+
+The New York Times reported late Tuesday that Facebook shared user data with more than 150 companies, including several large technology firms, citing internal Facebook documents. Bing, Microsoft’s search engine, was allowed to “see the names of virtually all Facebook users’ friends without consent,” according to the report, while Netflix and Spotify were given access to the private messages of Facebook users.
+
+The data sharing arrangements may have violated a 2011 consent agreement between Facebook and the Federal Trade Commission, former FTC officials and antitrust experts told CNN Business. The original agreement required Facebook to have a “comprehensive privacy program” and to get the “express consent” of users before sharing their data,
+
+“The behavior described here is certainly inconsistent with that commitment,” William Kovacic, FTC chairman under President George W. Bush, told CNN Business.
+
+Facebook, for its part, pushed back at this assertion. “None of these partnerships or features gave companies access to information without people’s permission, nor did they violate our 2012 settlement with the FTC,” Konstantinos Papamiltiadis, Facebook’s director of developer platforms and programs, wrote in a blog post Tuesday in response to the Times’ report.
+
+Facebook told the Times that the 2011 FTC agreement didn’t require it to have explicit consent for sharing user data with these partners’ platforms because Facebook considered them to be extensions of its social network, where users engage with their Facebook contacts.
+
+Kovacic noted there could be some difference in how the company and the agency interpret the obligations agreed to in a consent order, but what ultimately matters is whether FTC officials believe the company has run afoul of the agreement and how aggressively they act.
+
+Facebook stock was down more than 6% in midday trading Wednesday following the report.
+
+In the wake of Facebook’s Cambridge Analytica scandal earlier this year, the FTC confirmed it had an open investigation into the company’s data privacy practices. As the privacy scandals have continued to pile up, some former FTC officials now suggest Facebook may have violated the consent decree multiple times.
+
+“I don’t think there’s any doubt that Facebook violated the consent decree. I think the question is, you know, how many violations there are,” said David Vladeck, the director of the FTC’s Bureau of Consumer Protection from 2009 to 2012. “I think there may be fresh violations.”
+
+A spokesperson for the FTC declined to comment for this story.
+
+If the FTC does believe Facebook violated the agreement, the company could face a “stupendous fine” from the agency, according to Kovacic, potentially totaling in the billions. Others, like Ashkan Soltani, a former chief technologist at the FTC, think it’s more likely the fine would be in the $500 million to $1 billion range.
+
+As Soltani points out, FTC fines are more often in the millions, not the billions. While a fine of hundreds of millions of dollars would certainly be a blow to Facebook, it would not cripple the company, which made more than $5 billion in profit in the three months ending in September.
+
+But a large fine levied against the company is only one of the FTC’s levers.
+
+Sally Hubbard, a former assistant attorney general in the New York state Attorney General’s antitrust bureau, said the FTC could use the threat of taking Facebook to court as leverage to push the company into a stricter privacy agreement. It could also go after individual Facebook executives with fines.
+
+“A lot of it will be based on the political will of the agency, in terms of whether they want to see this matter closed,” Soltani said. In the past, he said, “a lot of the FTC settlements were not that strong.”
+
+But this time could be different. “This has emerged as a powerful test of the FTC’s credibility as a privacy data protection authority,” Kovacic said. “If it seems to conclude this in a way that is weak, it will suffer tremendously.”

@@ -1,0 +1,31 @@
+San Francisco CNN Business —
+
+All eyes may be on TikTok this weekend as the Trump administration blocks it from app stores, but there’s another big Chinese-owned app that will suffer a similar — if not worse — fate.
+
+WeChat, owned by China’s Tencent (TCEHY), will also no longer be available on US app stores after Sunday night, according to Department of Commerce officials. That means, like TikTok, it cannot be downloaded, and while people who already have the app may continue to use it, they won’t be able to receive future updates or security patches.
+
+Additionally, companies that make up the backbone of the internet, such as web hosting services and server networks, will be prohibited from hosting or carrying WeChat internet traffic from Sunday onwards, the Department of Commerce said in a release. The order doesn’t impact home and wireless internet providers, Commerce officials told CNN Business, so existing WeChat users can continue using the app but may face some outages as a result of the hosting restrictions.
+
+“Given that WeChat is heavily reliant on content delivery services in the United States to optimize the app — to make sure content can be delivered with necessary speeds — by prohibiting those services, users will experience some dysfunction and latency to the point there will be an outage or a message will time out,” said one of the officials. “We do expect it may be useable, but it may not be particularly functional after Sunday.”
+
+TikTok will not face those restrictions until November 12, the deadline set by President Trump’s executive order last month calling for the short-form video app to completely divest its US business.
+
+Tencent said it was “reviewing” the Commerce Department’s announcement and has held “extensive discussions” in recent weeks seeking to address the US government’s concerns. Trump has made no demand for a sale or any other specific action, leaving no clear path to any resolution.
+
+“WeChat was designed to serve international users outside of mainland China and has always incorporated the highest standards of user privacy and data security,” a company spokesperson said in a statement. “The restrictions announced today are unfortunate, but… we will continue to discuss with the government and other stakeholders in the U.S. ways to achieve a long-term solution.”
+
+WeChat is hugely popular in the United States, particularly among the Chinese-American community who use it to stay in touch with relatives in China.
+
+The app is common among older generations of immigrants who left China decades ago but want to stay connected. And during the pandemic, when traveling to China is complicated, expensive and involves an extra period in quarantine, many are staying put, making WeChat even more essential.
+
+WeChat has been downloaded a total of 22 million times in the United States since January 2014, according to analytics firm Sensor Tower, accounting for around 7% of the app’s total downloads outside of China in that period. Sensor Tower estimates that 1.1 million first-time users have downloaded WeChat so far this year.
+
+Tencent has previously emphasized that the international version of WeChat is separate from the Chinese app, which is known as Weixin.
+
+Analysts and experts have also questioned whether US officials would force Apple (AAPL) to remove WeChat and Weixin from its Chinese app store. Such a move would deal a big blow to Apple (AAPL) and other US companies operating in China, where Weixin has become a daily necessity for hundreds of millions of people who use it to pay for goods, hail rides, order food, pay bills and more.
+
+Wedbush analyst Dan Ives said that it is unlikely the US ban will hit the Apple App Store in China. (Google’s Play Store is banned in China.)
+
+“Despite the noise, based on our recent discussions with contacts within [Washington] we strongly believe the WeChat ban will not negatively impact or disrupt Apple’s iPhone ecosystem within the key China market,” Ives wrote in a note last week.
+
+CNN’s Brian Fung, Kaya Yurieff, Sherisse Pham and Shannon Liao contributed to this report.

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/120914042347-yelp-company-sign.jpg?q=x_510,y_238,h_1315,w_2338,c_crop/w_800

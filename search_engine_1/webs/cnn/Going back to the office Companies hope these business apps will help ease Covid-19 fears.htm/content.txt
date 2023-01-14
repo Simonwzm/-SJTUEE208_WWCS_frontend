@@ -1,0 +1,61 @@
+London CNN Business —
+
+Bringing tens of thousands of employees back to the office during a pandemic is a huge task. Siemens, the 173-year-old German industrial giant, thinks an app can help.
+
+Since the Covid-19 pandemic hit, Siemens (SIEGY) has raced to give its workplace app Comfy a makeover for the coronavirus era.
+
+Want to reserve an open desk as offices are rearranged for social distancing? Check. Need to locate your coworkers? Check. Looking to book a conference room that’s big enough for two people to stay six feet apart? That’s taken care of, too.
+
+Siemens, which employs 385,000 people, plans to roll out a basic version of the product to 100,000 of its workers across 30 countries by October. It’s a sign of how quickly companies are deploying new technology and encouraging data sharing as they bring employees back to the office.
+
+“Comfy is used hopefully like WhatsApp,” said Rainer Haueis, head of digital enterprise business at Siemens’ smart infrastructure unit.
+
+Apps to fight ‘fear’
+
+Even before Covid-19, companies were preparing to make workplaces “smarter” for the internet-everywhere age, integrating functions like room temperature control and repair requests into new apps for employee use. Siemens bought California-based Comfy in 2018, part of its effort to create “personalized and responsive buildings.”
+
+Yet the technology could quickly become mainstream as employers grapple with how to encourage often wary staff to return safely to their offices during the pandemic.
+
+“It’s just taken on a new, heightened sense of importance,” said Eddy Wagoner, digital chief information officer at JLL Technologies, a business division of Jones Lang LaSalle. The real estate consultancy has its own app for clients. “People are embracing it more, or in fact demanding it, because of the uncertainty [and] that fear of coming back.”
+
+Haueis said Siemens has held conversations with most firms listed on Germany’s DAX 30, the country’s elite stock index, about making its app available to them.
+
+Siemens' Comfy app has been updated for the Covid-19 era. Comfy
+
+Comfy predates coronavirus and the workplace challenges it has thrown up, but some quick changes have allowed it to meet the moment.
+
+The app can be used to check in for work, so managers can monitor how many employees are present at their offices. Workers are prompted to report their plans and the floor they intend to work from before heading in.
+
+Comfy can also be used to call the elevator and request a floor, so employees can move throughout the building without touching buttons. Coworkers can locate each other within the office using data from sensors made by another Siemens company, Enlighted.
+
+Enlighted launched a contact tracing app called “Safe” in July that relies on sensors in ID badges to determine who may have been exposed if an employee tests positive for Covid-19.
+
+This product is available to clients, but there are no plans to launch it within Siemens offices at this time, according to a company spokesperson.
+
+However, such offerings are poised to become more integrated in the months to come. Siemens is working with Salesforce (CRM) to combine the capabilities of both Comfy and Enlighted with Work.com, a platform for businesses to manage and monitor reopening efforts.
+
+Brave new world?
+
+The rise of return-to-work apps managed by employers has raised some concerns among privacy advocates, who warn that their use could rapidly expand and systematize methods of surveillance, and turn the disclosure of more information to employers into an accepted practice.
+
+“If you’re going to roll out one of these apps, start out with a policy of how are these apps going to collect data, how are you going to use it,” said Vanessa Matsis-McCready, associate general counsel and director of human resources for Engage PEO, a professional services firm. “[Employees] need to know what they’re consenting to.”
+
+Comfy is not mandatory for Siemens employees, and the company said that all of its location-tracing functions will be optional. Third-party customers are encouraged to adopt a similar policy. The option to locate coworkers only works inside corporate offices since it relies on sensors.
+
+Haueis said data is stored locally, and regular audits will be conducted by accredited outsiders. Comfy’s new functions were also discussed with Germany’s powerful works councils, which advocate on behalf of workers, he added.
+
+Employees can book desks in advance through the Comfy app, helping the employer monitor and enforce social distancing. Comfy
+
+“Everything is on a voluntary basis,” Haueis said. “That’s the basis of the whole system.”
+
+Despite some anxiety about the broader ramifications, companies are moving quickly to adopt these workplace apps, some with tracing features. And Comfy isn’t the only option on the market.
+
+PwC launched its own contact tracing app last month. Rob Mesirow, who runs the consulting group’s connected solutions practice, said that the firm has already signed 40 contracts, and has deals with 800 companies and universities in the pipeline.
+
+“We have not seen any industry not impacted by this,” Mesirow said. “We’re trying to get people on board as quickly as we possibly can.”
+
+PwC’s app uses signals emitted from mobile phones to locate other coworkers nearby. A trace can be performed in just 30 seconds, and will apply a “proximity score” to individuals to help assess their risk, Mesirow said.
+
+The app can only trace workers in the office, and won’t directly notify anyone who may have been exposed to an infected person, he added. Only an authorized person at the company, usually in the human resources department, will have access to the data.
+
+PwC plans to make the app mandatory for its 55,000 US workers when they return to the office, though the schedule for getting employees back is still being finalized.

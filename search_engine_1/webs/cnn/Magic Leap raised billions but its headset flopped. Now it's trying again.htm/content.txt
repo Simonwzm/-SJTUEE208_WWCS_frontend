@@ -1,0 +1,11 @@
+(CNN Business) In 2018, Magic Leap released an augmented reality headset that could show crisp, three-dimensional images as though they were right in front of you on a coffee table or living room floor. It was years in the making, and came after the company raised billions in funding — and it was a flop.
+
+Now, the company is trying again, with plans to launch a new headset later this year. But this time, it's doing some things very differently. For starters, Magic Leap is no longer aiming the product at developers and other early adopters who it had hoped would come up with compelling uses for it (and then, perhaps, drive consumers to pick it up). Instead, it's focusing on a narrow range of companies that might find its AR offering more useful and also be less intimidated by the price tag, which has yet to be announced but will continue to run more than $2,000 per headset.
+
+The company is also hoping its timing will be better in 2022. While the market for AR headsets is still tiny, a related technology — virtual reality — is growing at a rapid clip thanks to the popularity of Meta's Oculus Quest 2 headset. (While virtual reality headsets can give the wearer a sense that they're in an entirely different world, AR headsets mix the real and the virtual.) Growing comfort with headsets in general and interest in the idea of a "metaverse" — that still-squishy concept of an interconnected virtual world — could help Magic Leap gain fans.
+
+Magic Leap's upcoming headset, Magic Leap 2, will be aimed at businesses, rather than consumers.
+
+"Absolutely, we're taking it," Magic Leap CEO Peggy Johnson, who took over after founder and CEO Rony Abovitz left the company in 2020, told CNN Business this week about the broader embrace of headsets. Despite the fact that VR has been taking up much of the conversation, Meta's announcement in late 2021 that it would focus on building a metaverse "was a tailwind" for Magic Leap, she added.
+
+Johnson, who was previously an executive at Microsoft, said Magic Leap is pushing the headset toward three types of business uses: visualizing objects in 3-D; training employees (such as for medical procedures ); and getting remote assistance (such as a factory worker who needs help fixing a piece of machinery).

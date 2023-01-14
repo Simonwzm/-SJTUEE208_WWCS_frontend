@@ -1,0 +1,23 @@
+Minneapolis CNN Business —
+
+Just months after cutting 9% of its workforce, Robinhood on Tuesday announced plans to lay off another 23%.
+
+The latest cuts, which will affect 780 employees, continues a massive freefall for the once high-flying online brokerage. In a separate development Tuesday, the state of New York hit the Menlo Park, California, firm with a $30 million fine.
+
+In a blog post on the company’s website, Robinhood CEO Vlad Tenev said the “deterioration of the macro environment” — notably decades-high inflation coupled with a cryptocurrency crash — has reduced the company’s customer trading activity and assets under custody.
+
+In its second-quarter earnings report, also released Tuesday, the company showed a 44% drop in revenue from a year ago. Robinhood’s monthly active users in June decreased by more than 7 million, or 34%, and that assets under custody have dropped by more than $37 billion, or 37%, from the second quarter of last year.
+
+The company’s staffing and operations approach, he added, was tailored for a continuation of the high-growth crypto boom of the pandemic era.
+
+“Last year, we staffed many of our operations functions under the assumption that the heightened retail engagement we had been seeing with the stock and crypto markets in the COVID era would persist into 2022,” Tenev wrote in a message to employees. “In this new environment, we are operating with more staffing than appropriate.”
+
+He added: ” As CEO, I approved and took responsibility for our ambitious staffing trajectory – this is on me.”
+
+The layoffs will affect employees across all functions of the company, with operations, marketing and program management positions being the hardest hit, he said. The company planned to notify all employees via email and Slack on Tuesday with their status as well as resources if they were affected.
+
+Separately on Tuesday, the New York State Department of Financial Services fined Robinhood’s cryptocurrency arm $30 million for allegedly violating reporting requirements related to anti-money laundering and cybersecurity regulations.
+
+“As its business grew, Robinhood Crypto failed to invest the proper resources and attention to develop and maintain a culture of compliance – a failure that resulted in significant violations of the department’s anti-money laundering and cybersecurity regulations,” Adrienne A. Harris, the department’s superintendent said in a statement.
+
+Correction: An earlier version of this story misstated the percentage decline in Robinhood's assets under custody. Those fell by 37% in the second quarter.

@@ -1,0 +1,11 @@
+(CNN Business) Meta, the parent company of Facebook, has a new feature aimed at cutting down on harassment and assault in virtual reality: It will give avatars in its Horizon Worlds social app and Horizon Venues events app an invisible "personal boundary" of four feet to stop others from getting too close.
+
+got too close to another avatar in Horizon Worlds or Horizon Venues. (Horizon Venues can be used with Meta FB In a blog post Friday, Horizon vice president Vivek Sharma said the new four-foot distance is being turned on by default for all users of those two apps. With the feature, if an avatar advances to the edges of your boundary, they'll simply be stopped. Until the introduction of this feature, an avatar's hands would disappear if theygot too close to another avatar in Horizon Worlds or Horizon Venues. (Horizon Venues can be used with's Quest and Quest 2 VR headsets; Horizon Worlds works with Quest 2 and Rift S headsets.)
+
+Meta is giving avatars four-foot personal boundaries in its Horizon Worlds and Horizon Venues VR apps; this image gives a sense for what that will be like, though the buffer zones will be invisible.
+
+While the VR market is still quite small, such problems are likely to become more common as more people use the technology. Meta is a driving force behind growing the VR market, and its Quest 2 headset is by far the most popular. Tech market researcher IDC believes the Quest 2 makes up the majority of an estimated 9.4 million VR headsets shipped in 2021.
+
+Sharma said the personal boundary feature will be turned on by default "because we think this will help to set behavioral norms — and that's important for a relatively new medium like VR."
+
+Read More

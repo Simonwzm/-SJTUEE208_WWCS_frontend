@@ -1,0 +1,9 @@
+(CNN Business) After days of controversy over its decision not to crack down on misinformation about Covid-19, Reddit is somewhat backtracking, taking action against dozens of its groups known as "subreddits."
+
+The social media site on Wednesday banned one prominent subreddit called r/NoNewNormal, which described itself as hosting a "[skeptical] discussion of the 'new normal' that has manifested as an outcome of the coronavirus (COVID-19) pandemic" and has been flagged by several prominent subreddits as a significant source of Covid-19 and vaccine misinformation.
+
+According to a post by Reddit's security team, however, r/NoNewNormal was banned not specifically for sharing misinformation but for breaking the platform's rules against "brigading," a practice that refers to "targeted interference" or harassment of other communities
+
+"We found very clear signals indicating that r/NoNewNormal was the source of around 80 brigades in the last 30 days (largely directed at communities with more mainstream views on COVID or location-based communities that have been discussing COVID restrictions)," the post said.
+
+And while r/NoNewNormal was the only subreddit banned outright, Reddit also said it had placed 54 other subreddits under "quarantine" — a term the platform uses for communities it places behind a warning and removes from search and recommendations. The most common reason for communities to be quarantined, according to Reddit's page on the policy , is if they host "highly offensive or upsetting" content or are "dedicated to promoting hoaxes ... that warrant additional scrutiny."

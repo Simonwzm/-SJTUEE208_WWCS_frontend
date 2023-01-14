@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191113115948-google-new-york-0306.jpg?q=x_3,y_88,h_1684,w_2993,c_crop/w_800

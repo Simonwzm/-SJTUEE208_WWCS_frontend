@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191122112131-wework-0218-restricted.jpg?q=x_220,y_218,h_1564,w_2779,c_crop/w_800

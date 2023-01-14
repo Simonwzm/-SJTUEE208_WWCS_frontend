@@ -1,0 +1,11 @@
+(CNN Business) Apple on Thursday said it will begin testing a new system to automatically match photos on iPhones and uploaded iCloud accounts to a database of child sexual abuse images and alert authorities as needed.
+
+The new service will turn photos on devices into an unreadable set of hashes -- or complex numbers -- stored on user devices, the company explained at a press conference. Those numbers will be matched against a database of hashes provided by the National Center for Missing and Exploited Children.
+
+Apple AAPL Google GOOG Facebook FB In taking this step,is following some other big tech companies such asand. But it's also trying to strike a balance between safety and privacy, the latter of which Apple has stressed as a central selling point for its devices.
+
+Some privacy advocates were quick to raise concerns about the effort.
+
+"Apple is replacing its industry-standard end-to-end encrypted messaging system with an infrastructure for surveillance and censorship, which will be vulnerable to abuse and scope-creep not only in the US, but around the world," says Greg Nojeim, co-director of the Security & Surveillance Project at the Center for Democracy & Technology. "Apple should abandon these changes and restore its users' faith in the security and integrity of their data on Apple devices and services."
+
+Read More

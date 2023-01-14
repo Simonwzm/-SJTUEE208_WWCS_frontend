@@ -1,0 +1,27 @@
+Washington, DC CNN —
+
+Outside Charlotte, North Carolina, white drones that resemble tiny airplanes are being loaded with personal protective equipment and launched into the skies to help a local hospital respond to Covid-19. The drones, which have an 11-foot wingspan, fly over neighborhoods, a reservoir and an Interstate highway at speeds of 63 mph on their way to Huntersville Medical Center.
+
+Once there, a compartment in the drone opens, and a package falls toward the ground. A parachute on the package deploys so the deliveries land gently on a gravel lot as the drone returns to the hospital’s distribution center for another mission. These deliveries will play out about 10 times a day.
+
+Novant Health, which operates 15 hospitals in the Southeast, including Huntersville Medical Center, has no shortage of existing delivery options. But it’s testing drones because it believes they may be helpful in future health crises.
+
+Delivering medical supplies can be more challenging following a natural disaster or geopolitical unrest, according to Angela Yochem, chief digital and technology officer at Novant Health.
+
+“We need to be prepared to break down barriers associated with access to supplies, access to care,” Yochem said. “If realtime delivery, on-demand delivery of critical supplies is necessary to save lives, we want to do that.”
+
+Novant Health received a temporary waiver from the Federal Aviation Administration to fly drones over people and beyond the visual line of sight of a person responsible for the drone. Zipline, the startup operating the drones on behalf of Novant Health, will have a human monitoring the autonomous North Carolina flights on a screen in the distribution center where the drones launch from in Kannapolis, North Carolina.
+
+Businesses have been slow to adopt drones for deliveries in the US as critical regulations, such as remote identification of drones, are still in the works. The US has a more complex and crowded airspace than countries where drone delivery is already common. Zipline says it has delivered more than 110,000 medical products. It began operations in Rwanda in 2016 and expanded to Ghana this year.
+
+The FAA has been granting exemptions, such as the one Novant Health received, to help businesses and governments test the technology. Novant Health’s waiver will be in effect until Oct. 31, or whenever all Covid-related restrictions on travel, business and mass gatherings in North Carolina lift, according to an FAA spokeswoman.
+
+Yochem, the Novant Health official, also described how one day drones might deliver vaccines to a clinic near a customer’s home, so they don’t have to sit in traffic on their way to a more distant medical facility.
+
+“Imagine a world in which you are deciding to travel somewhere exotic. And you discover that you need a vaccine that may not be stocked in your neighborhood clinic,” Yochem said. “Fifteen, 20 minutes later, you have your exotic vaccine that was delivered to your corner clinic.”
+
+Novant Health isn’t the only health care company interested in drones. WakeMed, another North Carolina hospital operator, has used drones to transport medical supplies on one of its campuses, in partnership with UPS.
+
+Experts say Novant Health’s drone flights related to Covid-19 may spur broader use of drones.
+
+“There’s a very valid public interest reason,” said Anne Swanson, an attorney at Wilkinson Barker Knaeur, who specializes in regulatory matters surrounding emerging technologies such as drones. “It’s going to start opening up the industry to other reasons, once the FAA and regulators see it works in this context.”

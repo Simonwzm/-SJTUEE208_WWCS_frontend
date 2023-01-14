@@ -1,0 +1,67 @@
+New York (CNN Business) Nearly a year into the Covid-19 pandemic, many Americans remain stuck trying to work, attend school and socialize from home. For tens of millions of them, this is made more difficult because they lack access to fast, reliable internet at home .
+
+That means millions of American kids are unable to do at-home schoolwork. Millions of Americans — in the midst of a recession — can't apply for jobs at home. Millions of Americans will struggle to access online portals for Covid-19 vaccine sign-ups.
+
+This "digital divide" is nothing new, but the pandemic's spotlight on the issue has galvanized lawmakers on both sides of the aisle to fix it. And many experts say economic recovery will depend on it.
+
+"The reality is that we are not going to be able to turbocharge the economy the way we need to, we're not going to be able to include everybody in the economy ... if they don't have broadband," said Larry Irving, a telecom and IT consultant. "It's that simple."
+
+In normal times, people without internet at home can often find it at work, school or public libraries — access points that have now largely been cut off. Lower-income Americans and people of color, who have been hit especially hard by the pandemic, are also more likely to lack home broadband, the Pew Research Center found
+
+The Federal Communications Commission's latest broadband deployment report concluded that the "digital divide is rapidly closing." But there is disagreement even within the FCC over that assessment.
+
+"If this crisis has revealed anything, it is the hard truth that the digital divide is very real and very big," FCC Commissioner Jessica Rosenworcel said in a statement released along with the report last month. Rosenworcel has since taken over as the agency's acting chairwoman following President Joe Biden's inauguration, replacing Ajit Pai, who was promoted to the FCC's top job by former President Donald Trump.
+
+"It confounds logic that today the FCC decides to release a report that says that broadband is being deployed to all Americans in a reasonable and timely fashion," Rosenworcel said in the statement.
+
+Industry players now say the FCC must play a role in coordinating the many parties that want to contribute to a solution.
+
+"It is an ecosystem — it can't just be a government responsibility," said Gary Smith, CEO of telecom equipment firm Ciena. "It's communities, it's individuals, corporations, all coming together where we can get scale and heft and address these issues. Because if we don't address them ... this is not going to end well."
+
+Understanding the problem
+
+Irving coined the term "digital divide" about a quarter century ago while working as the assistant secretary of commerce for communications and information in the Clinton administration.
+
+"In July of 1999, I stated that the digital divide was one of the most crucial economic and civil rights issues of the decade," Irving said. "I had no idea that more than two decades later, we'd still be talking about the digital divide."
+
+The issue persists despite the fact that both the Obama and Trump administrations promised to address it. Both focused heavily on broadband availability, providing funding to incentivize network operators to build in less densely populated areas. But poor people across the country are still being left behind, experts say.
+
+Biden has committed to expanding broadband access to "every American," too, as part of his plan for rural America
+
+Among the challenges to making progress: There isn't good data on how many Americans still don't have broadband at home.
+
+The FCC's most recent report found that approximately 17% of rural Americans, 21% of Americans on tribal lands and 1% of urban Americans lacked access to a fixed broadband coverage (generally considered necessary to do things like make a Zoom call from home) as of the end of 2019. But that doesn't account for people who live in an area where broadband is available but can't afford it.
+
+The most recent available data from Pew Research, published in 2019, found that around 27% of Americans don't have home broadband. That percentage is higher for Americans whose annual income is less than $30,000 (44%), Black and Hispanic Americans (34% and 39%, respectively), rural Americans (37%) and those whose highest education level is high school or less (44%).
+
+In April, 22% of parents whose child's school closed said they are likely to have to use public Wi-Fi for schoolwork because there isn't a reliable internet connection at home, according to a Pew Research survey . That number jumped to 40% for low-income families.
+
+The United States also lacks reliable maps of exactly where broadband infrastructure does and doesn't exist, something the FCC is currently working to remedy
+
+"(Carriers) don't always understand what fiber inventory they've got," Ciena's Smith said. "Because of multiple acquisitions, multiple builds, decades of evolution of these networks not always precisely documented, things like understanding what the inventory is is a big deal."
+
+Creating permanent solutions
+
+Short-term fixes are in the works.
+
+In December, Congress allocated $3.2 billion for an emergency broadband benefit program that will provide up to $50 a month to subsidize internet subscriptions for many low-income Americans. The FCC said last week it plans to have rules to administer the program ready within 60 days.
+
+Industry players have tried to help, too. Wireless trade association CTIA created a portal where school districts can submit their connectivity needs, and the organization connects them to network operators offering free or discounted service and devices in their area.
+
+But experts say longer-term solutions are needed to quash the problem for good.
+
+Earlier efforts to solve the problem focused largely on broadband "availability" — in most cases, that meant looking at the rural-urban divide and spending to build infrastructure in areas where it's unavailable. Going forward, experts say policy makers should place a greater emphasis on affordability.
+
+"Once you started breaking it into political constituencies, you got this issue where billions of dollars are allocated to connecting rural, pretty much ignoring the need to connect low-income," said Irving, the telecom consultant. "The worst connectivity is for low-income people in rural America, so if you really focused on connecting the poor, it would help everybody."
+
+That would likely mean allocating more money to two FCC's programs: E-Rate and Lifeline, which provide funding for internet connectivity to schools and libraries and low-income consumers. But some say those decades-old programs need updating, too.
+
+Some carriers, for example, have suggested providing monthly Lifeline internet funds directly to low-income consumers, rather than having companies create special, low-cost plans and file for government reimbursement. Such a model — which would mirror other benefits programs, such as food stamps — could give consumers greater choice and cut down on administrative costs.
+
+And by tweaking the E-Rate policy, Irving said the program's funds could be used to install antennas at schools and libraries, extending the internet service there into surrounding communities.
+
+"We already have the broadband, the US taxpayers already paid for that, and with slightly more investment, we could ... give every kid in that community access," he said.
+
+With so many key players now motivated to address the digital divide, Irving said he hopes policy makers will be willing to take some of these bolder actions.
+
+"What I think we don't want to see is the American taxpayers spend billions of dollars so that we can connect people for a short-term win, when those same billions of dollars, if they're repurposed, could give people long-term connectivity," he said. "We're going to need some public investment and balancing how do we spend scarce taxpayer dollars so that we have permanent solutions."

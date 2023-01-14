@@ -1,0 +1,61 @@
+London CNN Business —
+
+For people living in South Korea, emergency texts from officials now come about three to five times a day.
+
+They detail the exact locations and movements of people who have tested positive with novel coronavirus. Or they issue regular reminders and instructions on how to prevent the disease from spreading.
+
+One district sent out a message on February 25 detailing a person’s movements four days previously, down to the specific hours they were at an elementary school, town center and grocery store.
+
+Another from the Central Disaster Relief Headquarters on March 26 gave what has become for South Koreans a near daily instruction on social distancing, hand washing, coughing etiquette, and how to care for seniors.
+
+South Korea has apparently managed — for the time being — to “flatten the curve” and limit the spread of the virus. Experts attribute the recent decline in new cases in the country to its early testing efforts, contact tracing and surveillance.
+
+South Korea’s emergency alert system uses cell broadcasting, meaning that through technology installed within the mobile network, the government can blast out messages, reaching most people with a cell phone.
+
+But the United Kingdom and other European countries lag behind places like South Korea on emergency text messages, a service experts in security and emergency preparedness believe could be vital in helping inform populations and control the virus.
+
+So how do governments get messages directly to millions of people? Do they have everyone’s number?
+
+There are three main ways to get mass mobile messages to people, and in all of them, governments don’t need direct access to every single number.
+
+The first is through cell phone companies, which is how UK residents received an alert earlier this week about new stay at home rules. The government had to ask each mobile network operator to send out the alerts on their behalf, and as a result some people received the message hours after others.
+
+There are another two ways governments can blast out messages to all users without asking the network operators for permission, said Javier Colado, senior vice president of Everbridge (EVBG), a software company that provides governments and organizations tools to manage critical events.
+
+Both require specific technology and hardware to be embedded within mobile networks, and operators can be compelled by governments to allow that.
+
+The first option is the cell broadcast service used by South Korea and the United States where the government uses the network operators’ cellular towers and radio cells to push out a message in a matter of seconds, without officials needing access to any specific information on SIM cards or phone numbers.
+
+Though this system typically reaches more than 80% of the population (including people who have mobile data switched off), those with older phones or the cell broadcast feature somehow disabled may not receive the message.
+
+The second option, called SMS location-based messaging, can target people based on a specific location, get more information on them and interact with them.
+
+Governments can choose a specific area on a map and send a message to all cell phones active in that area. Though the messages don’t go out as quickly as the cell broadcast service, Colado said, the upside is governments can ask people if they need help, or if they have symptoms of the disease.
+
+Michael Hallowes, who previously lead the implementation of the emergency alert system in Australia as emergency commissioner for Victoria, told CNN Business that a SMS location-based service can be so finely tailored it could send messages to everyone crowding in a park, or just a single apartment block. If people need to disperse or be evacuated, the system could message all cell phones in the area, and be able to check on a heat map whether they complied.
+
+The system in Australia, Hallowes said, has a 97% successful delivery rate, which Hallowes said is far above mass cell broadcasting or asking the operators to text their subscriber base.
+
+These types of text messages work, said Dr. Fred Muench, president of the US-based Center on Addiction who has conducted extensive research on using digital messaging for public health.
+
+“Overall, SMS campaigns for public health are the most effective medium for mass dissemination due to their reach, immediacy, opportunity for data collection and personalization, ability to tailor and adapt information, and opportunity to link to other sources,” Muench told CNN Business. “We found that personalizing and adaptively tailoring text messages has the largest effects compared to other types of messages.”
+
+EU and UK lagging behind
+
+Hallowes, now managing director of Zefonar which advises governments on emergency alert systems, said personal information used for this purpose is anonymized and data protection laws such as GDPR contain specific caveats for processing of certain data for emergencies and public health issues like pandemics.
+
+“The ability to remotely monitor and manage the human impacts of this coronavirus through data our mobile phones naturally generate and operator networks process lawfully everyday has got to be of great utility to protecting our key workers from having to encounter people in breach, as well was giving us the analysis in real time of how widespread the infection is,” Hallowes said.
+
+An EU directive passed in 2018 says that by June 2022, all member countries should have a mobile alert system in place that can warn citizens and visitors in a specific area about any local emergency.
+
+In 2014, the United Kingdom tried out an emergency alert system, but it was never put into place despite a government report recommending it, hence the need this week to ask the mobile network operators to send out a message on their behalf.
+
+Toby Harris, a Labour Party member of the House of Lords who has long advocated for emergency alert systems and resiliency planning, slammed the UK government for dragging its feet on a system he believes could “undoubtedly” save lives.
+
+“This shilly shallying has been going on for the last six years. Now is the time to take action,” Lord Harris told CNN Business. “What seems to have happened, they did some testing, and no one could agree which department should lead on it and which would pay for it and in the end nothing happened.”
+
+Colado said as a result of the coronavirus pandemic, several countries are just now ramping up efforts, reaching out to his company in recent weeks for help.
+
+“It’s a pity because the reality today we face is a lot of countries coming to us asking what we can do quickly and these things don’t get set up in 24 hours so we need more time,” he said.
+
+— Jake Kwan contributed to this report from South Korea.

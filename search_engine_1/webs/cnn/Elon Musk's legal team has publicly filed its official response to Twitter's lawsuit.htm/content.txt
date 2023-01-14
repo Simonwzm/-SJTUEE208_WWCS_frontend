@@ -1,0 +1,11 @@
+New York (CNN Business) Elon Musk's legal team on Friday made public its official response to Twitter's lawsuit attempting to force him to complete their $44 billion acquisition deal.
+
+In the answer to Twitter's complaint, which includes counter-claims against the company, Musk's team attempts to refute the company's allegations that the Tesla CEO is unjustly trying to exit the deal. His team repeats allegations that Twitter has misstated the number of fake and spam bot accounts on its platform — a central charge Musk has made to justify terminating the acquisition agreement after originally citing a desire to "defeat the spam bots" as a reason for buying the company.
+
+Musk's response, which was filed publicly on Friday, states that the billionaire's team conducted an analysis of fake and spam accounts on the platform using data provided by Twitter's "firehose" of tweets and a public tool called Botometer created by researchers at the University of Indiana. It did not further detail the process of that evaluation and added that its analysis was "constrained" by a lack of time and information from Twitter.
+
+Based on that analysis, Musk alleges that during the first week of July, spam bots accounted for 33% of visible accounts on the platform and about 10% of Twitter's monetizable daily active users, or mDAU. (Twitter, for its part, has consistently reported that spam and fake bot accounts make up less than 5% of its mDAU.)
+
+Twitter TWTR Twitter has repeatedly denied Musk's claims about the prevalence of spam bots on the platform. Twitter Board Chair Bret Taylor tweeted on Thursday evening a link to the company's response to his answer and counterclaims. (Musk's team had filed a confidential version of the answer last week to givetime to review it for company information that should be redacted, before making it publicly available Friday.) Taylor called Musk's claims "factually inaccurate, legally insufficient, and commercially irrelevant."
+
+Read More

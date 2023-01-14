@@ -1,0 +1,47 @@
+Hong Kong CNN Business —
+
+Facial recognition checks are about to become even more ubiquitous in China, as rules come into force requiring anyone registering a new mobile phone number to submit to facial scans.
+
+While the government says the implementation of biometric data “effectively [protects] citizens’ legitimate rights and interests in cyberspace” and helps fight fraud, the move brings with it considerable privacy and security concerns in one of the most tightly controlled online environments in the world.
+
+The country already enforces “real-name registration” policies which require people to link online accounts with their official government ID. But the latest move, which was formally adopted Sunday, further removes any sense of anonymity in using the Chinese internet.
+
+More than 850 million people across China — about 65% of the population — use their mobile devices to access the internet, according to the government, far more than those who use desktop services. Apps like Tencent’s WeChat have largely become the internet for many Chinese people, offering everything from messaging and social networking to taxi services, food delivery and tax payment.
+
+The new rules only apply to mobile phone numbers registered from December 1, and not to those already registered.
+
+Facial recognition, meanwhile, is everywhere in China, from airports and office buildings to trash sorting facilities. Last week, Beijing’s subway system even began trialing new facial recognition gates at security checkpoints.
+
+A screen shows visitors being filmed by AI security cameras with facial recognition technology at the 14th China International Exhibition on Public Safety and Security at the China International Exhibition Center in Beijing on October 24, 2018. NICOLAS ASFOURI/AFP/AFP via Getty Images
+
+Privacy concerns
+
+While anyone registering a new phone number in China was already required to provide ID and photos, the addition of full facial scans introduces more concerns about government surveillance and the ability of the country’s state-run mobile providers to protect sensitive information about their customers.
+
+Writing in September, four Chinese researchers specializing in AI and biometrics wrote that potential breaches involving this type of information could have “severe and lasting” ramifications for the people affected.
+
+“Facial recognition-powered surveillance systems, if improperly deployed or secured, will not only fail to effectively safeguard public safety, but also may infringe on people’ freedom/privacy and provide a source for abuse,” they added.
+
+The US-based Electronic Frontier Foundation, a nonprofit that recommends opting out of the tech whenever possible, notes that it’s “easy for companies and agencies to tout the convenience of this sort of massive data collection and sharing scheme.”
+
+“But as we’ve seen in notable privacy fiascos over the last few years … it’s the customers and passengers who will bear the burden when things go wrong, and they will go wrong.”
+
+Government control
+
+China’s latest policy also raises alarms because of how it could potentially be used by the country’s vast surveillance state.
+
+According to recent analysis from consumer site Comparitech, cities in China are among the most monitored in the world, with more than 100 CCTV cameras per thousand people in both Shanghai and Shenzhen.
+
+In the country’s far-western region of Xinjiang, where authorities have increasingly tightened security in the name of cracking down on Islamic extremism, ubiquitous surveillance cameras form part of a hyper-securitized system that tracks and monitors citizens — particularly those of the predominantly Muslim Uyghur minority. In parts of some cities in Xinjiang, there are facial surveillance cameras about every 150 feet (45 meters) that feed images back to central command centers, where people’s faces and routines are monitored and cross-referenced.
+
+Elsewhere in China, the advance of facial recognition has not been entirely smooth. Last month, Guo Bing, an associate professor of law at Zhejiang Sci-Tech University, sued a safari park in Hangzhou after it required all season ticket holders to scan their faces if they wanted to visit in future.
+
+“The purpose of the lawsuit is not to get compensation but to fight the abuse of facial recognition,” Guo told local media. The park later said that it would allow people to opt out of facial scans.
+
+And in August, anti-government protesters in Hong Kong tore down several “smart” lampposts over fears they could be used to implement facial recognition and other advanced surveillance in the semi-autonomous city.
+
+Many countries are struggling with how to regulate the new technology, and China is no different. In September, officials said they wanted to curb its use by schools after Chinese media reported that a university in Nanjing was trialing the tech to monitor student attendance and engagement in class.
+
+Last month, China established a national-level working group of 28 technology companies to set standards for the facial recognition, state media reported. Some of the companies involved have been linked to the surveillance of Muslims in Xinjiang, a fact noted by privacy campaigners.
+
+– CNN’s Steven Jiang and Yong Xiong contributed reporting from Beijing.

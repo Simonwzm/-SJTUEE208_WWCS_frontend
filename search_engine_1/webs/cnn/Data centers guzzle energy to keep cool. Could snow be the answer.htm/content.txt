@@ -1,0 +1,11 @@
+(CNN Business) A city in Japan has found a way to cool the vast servers that support the global digital economy without fueling the climate crisis.
+
+Bibai, in Japan's northernmost island of Hokkaido, and its White Data Center have turned to snow.
+
+At WDC, snow is collected and piled up in an insulated mound outside the building. Heat captured from its servers slowly melts the snow, and the water cools pipes containing antifreeze — which then flows around the data center via an AC system, keeping temperatures around 25 degrees Celsius (77 degrees Fahrenheit).
+
+"Temperature range is controlled by combining the coldness of snow and the warmth of IT exhaust heat to keep the temperature at the right level all year round," says WDC director Kota Honma.
+
+The number of data centers around the world continues to grow , to keep up with the rise of streaming, cloud-based gaming, and cryptocurrency mining. But they typically consume a lot of power, and are already responsible for roughly 1% of global energy demand , according to the International Energy Agency.
+
+Read More

@@ -1,0 +1,67 @@
+Washington, DC CNN Business —
+
+The explosive conclusion by cybersecurity consultants and United Nations officials that the richest man in the world, Amazon (AMZN) CEO Jeff Bezos, was hacked has raised fresh questions about the security of the ordinary apps and devices millions of people use every day.
+
+How did attackers get into Bezos’s iPhone in the first place? And if someone as powerful as Bezos can be compromised this way, could you be at risk, too?
+
+Here’s what we know so far.
+
+What happened to Bezos
+
+Bezos was hacked in May 2018 after receiving a WhatsApp message from Saudi Crown Prince Mohammed bin Salman, according to a forensic analysis conducted by a team hired by Bezos and reviewed by UN investigators.
+
+A source close to the UN team said UN investigators did not have direct physical access to Bezos’s phone but that they extensively vetted the research done by FTI Consulting, the independent cyber security experts hired by Bezos.
+
+According to the experts’ findings, the suspicious message contained a video file. Soon after the video was delivered, the device transferred hundreds of megabytes of data off of the phone, apparently without Bezos’s knowledge.
+
+If the forensic analysis is accurate, whoever was behind the attack stole more than 6 gigabytes of information this way over the next few months, UN investigators said in their assessment.
+
+Saudi Arabia denied it was responsible for hacking Bezos’s device.
+
+“Recent media reports that suggest the Kingdom is behind a hacking of Mr. Jeff Bezos’ phone are absurd,” the Saudi embassy in Washington tweeted Tuesday. “We call for an investigation on these claims so that we can have all the facts out.”
+
+In his first public remarks Wednesday since news of the hack emerged, Bezos tweeted a picture of himself attending a memorial service for Jamal Khashoggi, the Washington Post journalist who was slain by Saudi agents in 2018, in an attack the CIA has said was personally ordered by the crown prince. “#Jamal,” the tweet said. The Post is owned by Bezos. (The crown prince has said that, as the leader of Saudi Arabia, he takes “full responsibility” for Khashoggi’s death, but he denies personal responsibility.)
+
+How the attack worked
+
+Studying Bezos’s iPhone, the forensics experts appeared to find nothing wrong with the video itself, according to the UN assessment. But the rest of the message included a bit of inscrutable additional code. Under normal circumstances, this extra code is harmless. It helps WhatsApp transmit messages to and from its users. But because WhatsApp scrambles its messages — using a technology called encryption — the researchers weren’t able to tell if, this time, the code also happened to contain malicious software written by hackers.
+
+The encrypted software, and what it might hide, is emerging as a focal point for data and national security experts who say further investigation is still needed. On Wednesday, experts at Citizen Lab, a research group based at the University of Toronto, offered a possible solution for decrypting the additional software so that it can be studied.
+
+Should I be worried about getting hacked like Bezos?
+
+It takes a sophisticated actor and significant resources to pull off a hack like the one laid out in the report, cybersecurity experts say, making it a waste to use intrusion tools on most ordinary people.
+
+Market prices for cellphone exploits can range from $50,000 to $150,000, said James Lewis, a senior vice president and cybersecurity expert at the Center for Strategic and International Studies.
+
+But powerful business executives and high-ranking government officials do have good reason to be worried, Lewis added.
+
+“If you’re a zillionaire who owns a newspaper, yeah, they’re going to go after you,” said Lewis. “If you’re a human rights activist, if you’re a politician, if you’re a senior official, you’re a good target.”
+
+That list could also include Trump administration officials such as Jared Kushner — who, like Bezos, has reportedly communicated with the Saudi crown prince on WhatsApp. White House lawyers have determined WhatsApp is permitted for use so long as staffers do not share classified information and keep records of their conversations. Kushner knows those rules and complies with them, an administration official previously told CNN. The National Security Council declined to comment on Wednesday when asked about Kushner’s WhatsApp conversations with the crown prince and any concerns over them.
+
+Attacks like the one alleged in the report are part of a worrying trend, said Sen. Ron Wyden (D-Ore.), in a letter to Bezos on Wednesday obtained by CNN. Wyden cited several examples of the Saudi government purchasing hacking software from various vendors. Wyden asked Bezos to provide as much information as possible from the investigation.
+
+“I am particularly interested in the technical details,” Wyden wrote, “which could help the United States Government, businesses and independent researchers discover who else may have been targeted and take steps to protect themselves.”
+
+Even if I’m not a target, is there a risk to using WhatsApp?
+
+Not necessarily, but it’s hard to tell from this one attack.
+
+Facebook-owned WhatsApp has faced security issues before. Last year, WhatsApp sued Israeli technology company NSO Group, alleging that the company’s surveillance software abused WhatsApp’s video calling features to spy on activists and journalists. WhatsApp called it a form of “cyber attack” and closed off the software’s ability to further monitor users. NSO Group at the time denied the spying allegations and vowed to “vigorously fight” the suit, which is currently still pending before a federal court in California.
+
+NSO Group was back in the news this week when its software was identified as the “most likely” cause of data being transferred off of Bezos’s phone, according to the UN investigators’ assessment of the FTI Consulting report.
+
+In a statement to CNN Wednesday, NSO Group denied any involvement in hacking Bezos’s phone, and threatened legal action against those who claimed otherwise.
+
+“Our technology was not used in this instance,” the statement said. “We know this because of how our software works and our technology cannot be used on US phone numbers. Our products are only used to investigate terror and serious crime. Any suggestion that NSO is involved is defamatory and the company will take legal counsel to address this.”
+
+Then, in November, WhatsApp released another update, addressing a vulnerability that sounds similar to the attack that is said to have compromised Bezos’s phone. That flaw allowed attackers to compromise a WhatsApp user by sending them a “specially crafted MP4 file.” At the moment, it’s unclear if Bezos fell victim to this vulnerability, or a different one. WhatsApp declined to comment.
+
+In any case, experts say, to steal as much data as the investigation claims was stolen from Bezos’s phone would likely require taking advantage of multiple vulnerabilities affecting a variety of systems on a phone, not just a WhatsApp vulnerability.
+
+“Typically, an app-specific vulnerability would likely give the attacker the ability to run commands or access files within the targeted app,” said Ashkan Soltani, an information security expert and former chief technologist of the Federal Trade Commission. “However, sophisticated attackers often combine the attack with other exploits … in order to access files outside of the WhatsApp sandbox.”
+
+What can I do to protect myself?
+
+If you’re a WhatsApp user, make sure your app is up to date.

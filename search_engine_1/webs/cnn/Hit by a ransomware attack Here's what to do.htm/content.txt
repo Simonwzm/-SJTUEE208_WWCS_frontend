@@ -1,0 +1,51 @@
+(CNN Business) A ransomware attack on a single software vendor may have impacted as many as 1,500 businesses around the world, in the latest example of cyber criminals crippling computer systems and demanding millions of dollars to restore them.
+
+The list of high-profile ransomware attacks grows longer and more alarming by the week, impacting everything from gas pipelines and meat supplies to ferries . Those companies and agencies that get hit must scramble to protect their systems and a tough decision on whether to pay hackers to remove the disruption.
+
+In the face of that situation, affected companies may rush to reach out to their IT teams, police, crisis PR, lawyers and law enforcement. But, frequently, one of the first calls is to their insurance provider.
+
+Companies often purchase specific cyber insurance plans to help protect their systems and cover any losses from a cyberattack. And ransomware, which allows hackers to take over computer systems (or even physical infrastructure ) and extract fees running into the millions of dollars to unblock them, has only boosted the demand for that insurance.
+
+But this lifeline may also be getting harder to access for companies because of rising costs, more stringent requirements from insurers and increased scrutiny from the government when foreign hackers are involved.
+
+Growing demand
+
+AIG, one of the world's largest insurers, says it saw a 150% increase in ransom and extortion claims between 2018 and 2020. Ransom demands now account for one in every five cyber insurance claims, the company added.
+
+"Data-intensive companies were the first ... but over the last number of years all types of industries have started purchasing cyber insurance," Tracie Grella, AIG's global head of cyber insurance, told CNN Business. "I think at this point it's certainly clear that all industries are impacted, all have to manage cyber risk."
+
+Depending on the size of the company and what needs to be covered — from security teams and lawyers to potential lawsuits and reimbursement for business losses or even ransom payments — plans can cost anywhere from "a couple hundred dollars ... up to multimillion-dollar programs," Grella said, adding that AIG's clients make ransom payments roughly 50% of the time.
+
+The FBI and cyber security experts recommend against paying ransoms, saying the payments encourage cyber criminals to step up their targeting of businesses and infrastructure.
+
+The average cost of a cyber insurance policy in 2019 was $1,500 a year for $1 million in coverage with a $10,000 deductible, according to Mark Friedlander of the New York-based Insurance Information Institute.
+
+It's getting harder and more expensive
+
+As the frequency and range of targets for ransomware attacks goes up, that cost is increasing. According to an April report from Fitch Ratings, total premiums for cyber insurance coverage clocked in at $2.7 billion in 2020, a 22% increase over the previous year, and is expected to go up further in 2021.
+
+Companies that want cyber insurance are also now subject to much more severe scrutiny of their existing cyber security measures before they can get approved for a plan.
+
+AIG gives prospective clients a list of 25 questions specific to their protections against ransomware, which include details on how often they test employees against email phishing attacks and how long they take to deploy critical security patches (ranging from "within 24 hours" to "more than 7 days").
+
+"Right now ransomware is more prevalent, so we do have a deeper dive, more specific underwriting strategy around ransomware ," Grella said. "If certain controls are not met, we will likely still provide coverage ... but it will be reduced cover."
+
+Some cyber security experts also warn against treating insurance as a catch-all solution, particularly when demand is spiking.
+
+"In some cases organizations are a little too ready to transfer this kind of risk through insurance. They think that that's a real healthy backstop and they can avoid doing some of the other, more painful investments in security," said Mike Hamilton, the chief information security officer at cyber security firm Critical Insight.
+
+And with the US government deciding this week that it will use similar protocols to deal with ransomware attacks as it does with terrorism, particularly those linked to nation-states, Hamilton says insurance providers have a potential avenue to avoid paying out cyber insurance claims. Terrorism insurance is often a separate plan offered to businesses, and rarely covers events that are considered acts of war.
+
+"If insurance companies can call anything a nation-state act or an act of terrorism, they don't have to make good on their policies, and that's going to be a problem," he added.
+
+Who else to contact
+
+With or without a cyber insurance policy, most companies' first line of defense against cyberattacks remains their internal IT department. It's not uncommon for firms to have contracts with external cyber security firms that can deploy incident response teams and cyber ransom negotiators.
+
+But experts say getting law enforcement and government agencies involved early on is also important. The FBI is the main agency in charge of investigating cyber attacks, and provides resources such as the Internet Crime Complaint Center and National Cyber Investigative Joint Task Force where companies can flag incidents.
+
+Other agencies handling cyberattacks include the Department of Homeland Security's National cyber security and Communications Integration Center and the US Computer Emergency Readiness Team. Most of those agencies have online portals to report incidents, and many also provide phone numbers.
+
+"The first thing a company should do is call the federal government," said Andrew Rubin, founder and CEO of cyber security firm Illumio.
+
+"When companies operate in a silo, things get out of hand," he added. "Information sharing between the private and public sectors is critical."

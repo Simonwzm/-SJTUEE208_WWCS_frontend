@@ -1,0 +1,11 @@
+Washington (CNN Business) A member of the Federal Communications Commission is renewing calls for Apple and Google to remove TikTok from their app stores, citing national security concerns surrounding TikTok's Chinese-based parent company, ByteDance.
+
+AAPL AAPL GOOGL GOOGL In a June 24 letter to the CEOs of Apple () and Google (), FCC Commissioner Brendan Carr described ByteDance as "beholden" to the Chinese government and "required by law to comply with [Chinese government] surveillance demands." Citing a recent BuzzFeed News report that ByteDance's Chinese staff had accessed US TikTok users' data on multiple occasions, Carr said the allegations showed how TikTok is "out of compliance with the policies that both of your companies require every app to adhere to."
+
+Apple and Google didn't immediately respond to a request for comment. In a statement, TikTok called the BuzzFeed report "misleading."
+
+"Like many global companies, TikTok has engineering teams around the world," TikTok said. "We employ access controls like encryption and security monitoring to secure user data, and the access approval process is overseen by our US-based security team. TikTok has consistently maintained that our engineers in locations outside of the US, including China, can be granted access to U.S. user data on an as-needed basis under those strict controls."
+
+In a statement, Buzzfeed News said it "stands categorically behind our reporting that US user data was accessed by China-based TikTok employees far more frequently than previously known, and we're glad that TikTok even confirmed this in its own statement."
+
+Read More

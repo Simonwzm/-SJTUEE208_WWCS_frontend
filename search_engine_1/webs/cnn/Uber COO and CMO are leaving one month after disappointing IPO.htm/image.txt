@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/180522113044-uber-office.jpg?q=x_0,y_232,h_1688,w_3000,c_crop/w_800

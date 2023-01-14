@@ -1,0 +1,41 @@
+But the money, according to Wozniak's co-founder in this new venture, couldn't be further from the point. "I don't think Steve [Wozniak] gives a damn about making another 10 cents, and I really couldn't care less," Alex Fielding, a longtime business acquaintance of Wozniak's who will serve as CEO of the new venture, called Privateer, told CNN Business.
+
+Privateer's mission is to develop better tracking of objects in space, and to use this data to help avert disastrous collisions. To aid in this effort, Wozniak and Fielding brought in Moriba Jah, a PhD and orbital mechanics professor who has dedicated most of his life to academia and attempting to raise awareness about the ever-growing threat posed by the proliferation of debris and garbage in outer space. It's a threat that could wipe out satellites that provide communications services to Earth or even bring space travel to a grinding halt. He's led research at the University of Texas. He's appeared at Congressional hearings. He's advocated for change on the world's stage. But Jah told CNN Business recently came to a solemn conclusion: There is not enough funding in academia to develop the technologies he envisions the world needs to combat the space junk issue , he says.
+
+So, Jah went searching for that funding. And it brought him to Wozniak, the coding savant who co-founded Apple with Steve Jobs.
+
+The trio are not chasing the same dreams as Elon Musk and Jeff Bezos. Privateer won't develop flashy new rockets and launch people toward the stars. It will instead focus solely on battling the looming threat of debris in Earth's orbit, millions of pieces of which are flying around uncontrolled, threatening to destroy active satellites they may come into contact with. It's an issue that's gained increasing attention as the number of active satellites in space has proliferated in recent years
+
+The ever-looming risk is that collisions between objects in space can set off disastrous chain reactions, spawning dangerous clouds of debris. Too much junk in one orbital field can render it useless. And too much junk around Earth could lead to a day when launching a rocket to orbit is simply too dangerous.
+
+"We're at a clear inflection point and facing exponential growth of space commercialization," Wozniak told CNN Business via email. "Having a better, global understanding of what's already up in space is critical to powering the new space economy."
+
+On Tuesday, Privateer is officially leaving "stealth mode" and debuting the first version of its software, which will monitor traffic in space. In interviews with CNN Business, the founders laid out a grand vision, with goals to build the type of database that space traffic experts — including governments — currently only dream of.
+
+Whether Privateer can actually build such a database and make enough money to sustain itself is open question. Fielding declined to comment on how much money the company has raised so far, though he noted Wozniak has put funds behind it and said Privateer would be seeking additional backing "relatively soon."
+
+But at the company's foundational core, according to Jah and Fielding, is a desire to confront what they see as an environmental crisis plaguing outer space.
+
+Privateer's software
+
+"There's a real need for us here on Earth who don't work in the space industry to begin to understand how space debris impacts us every day," Wozniak said. "Many of us don't realize how much of our lives are reliant on services delivered from and through space — GPS services, financial transactions, climate monitoring. Our life on Earth is connected to space and even the smallest debris orbiting the Earth can damage and destroy these critical capabilities for some of the most basic aspects of our day-to-day life."
+
+At the core of his new company, Privateer, is a software program that evolved out of one that Jah created at the University of Texas at Austin, where he is still an associate professor. The software attempts to take all of the available data about debris in space — collected from ground radars, and eventually, Privateer's own satellites — and synthesize it into the world's clearest picture of where things are in orbit.
+
+Much of the data will be publicly available, as it will be today on Privateer's website. But the program also aims to give satellite operators precise information that could help them confidently avert potential collisions in space or even help navigate spacecraft that could one day snag garbage and drag it out of orbit, which is where the money-making side comes in. Satellite operators hoping to ensure their satellites aren't on a collision course, Privateer hopes, will pay for the expertise Privateer lends them. (Fielding declined to share specific price points.)
+
+There are services out there already that attempt to do this. The US government has long served as the world's de facto space traffic cop, keeping the largest catalog of objects in space and alerting satellite operators — via an email service — about potential collisions. A few commercial services also exist, including LeoLabs and Compsoc, a spin off from Analytical Graphics Inc., or AGI
+
+But Jah and Fielding said Privateer plans to go after information that others aren't, making their database more precise. They hope to build a catalog so detailed it will not only show where a piece of spaceborne garbage is, but also tell you what shape and size it is and where the garbage came from — i.e. is it a hunk of that defunct Russian satellite that collided with a US telecom satellite in 2009? Or shrapnel from a Chinese or Russian or American military exercise in which they blew up their own satellites?
+
+All that information could be crucial to not only better predicting the trajectory of pieces of space junk and avoiding future accidental collisions in space, but also to helping pin down culpability. As things stand now, for most of the debris in space, we have no idea who created it, making accountability on the international, geopolitical stage nearly impossible to dole out.
+
+Eventually, Privateer also hopes to deploy a series of satellites that will use sensors capable of keeping tabs on even the smallest pieces of debris — the currently elusive pieces of garbage under 10 cm. They plan to call the satellites Pono, a Hawaiian word that roughly translates to "do the right thing."
+
+Fielding said the company could have its first assets in space this year by putting its sensors on a satellite already slated for launch. Privateer could launch its own, custom Pono satellites in the years to come as needed, to fill in any blind spots, Fielding said.
+
+If successful, they could provide an unprecedented picture of how our orbital environment is evolving.
+
+For too long, the world has been flying blind, Jah said.
+
+"My hope — if I'm going to dream big — is that Privateer provides information that helps humanity know more about itself and motivates people to see themselves as stewards of the environment and custodians," Jah said. "Stewardship is something that we all need to embrace."

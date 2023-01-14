@@ -1,0 +1,25 @@
+Washington, DC CNN —
+
+Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages.
+
+Waymo, the self-driving arm of Google (GOOG)’s parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe, Arizona. (It will not be delivering packages to customers’ doorsteps.) The tests will begin in the coming weeks and last for several months. Waymo will have a driver on board to monitor the vehicle and take control of the van if needed.
+
+UPS (UPS) and Waymo declined to disclose any financial details of the partnership, other than to say Waymo will be paid. They also did not disclose how many packages would be shipped during the testing period.
+
+As rival Amazon (AMZN) continues to build out its own cutting-edge logistics network, UPS and FedEx have increasingly embraced new delivery technologies, such as self-driving cars, drones and delivery robots.
+
+As with any adoption of automated technologies, questions about job losses arise. A UPS spokesperson said that the company values its employees and views autonomous technologies as a complement to its human workers.
+
+Waymo will transport UPS packages from stores in Phoenix to a facility in Tempe. Waymo
+
+Bala Ganesh, who leads the UPS advanced technologies group, told CNN Business that using a Waymo van will be more efficient than using a traditional human-driven UPS truck. The Waymo self-driving vans may sit idle for extended periods of time between trips at the UPS facilities, which is an unproductive use of drivers’ time, he said.
+
+Since it was first launched as Google’s self-driving car project in 2009, Waymo has been largely focused on transporting people. But it has recently branched into deliveries, which provides another business opportunity and perhaps a faster path to market. It’s easier to move a box than a human being. By carrying packages there’s no ethical dilemma about whether to program the car to prioritize the safety of a human passenger over a pedestrian, for example.
+
+Waymo began delivering car parts between the Phoenix branches of auto retailer AutoNation a few months ago. It’s also using its self-driving software on long-haul trucks, including in New Mexico and Texas.
+
+Generally, the self-driving industry has missed its deadlines as it struggles to build safe vehicles and gain the approval of regulators. The software and hardware powering an autonomous vehicle is also extremely complex.
+
+Waymo is widely seen as the self-driving company with the most advanced technology. It currently operates a limited self-driving ride service in the Phoenix area that has given more than 100,000 rides since 2017.
+
+“Waymo provides a beacon of autonomous progress and capability,” said Tasha Keeney, who analyzes autonomous vehicles at the investment firm Ark Invest. “They show that technological progress is possible.”

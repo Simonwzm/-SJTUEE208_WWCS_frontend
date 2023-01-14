@@ -1,0 +1,11 @@
+Washington (CNN Business) European officials have reached agreement on a sweeping set of competition rules for Big Tech that could mark a global turning point for technology regulation.
+
+The proposed framework, known as the Digital Markets Act, could label large companies such as Facebook-parent Meta or Google as "gatekeepers," and subject them to new requirements and prohibitions.
+
+For example , under the DMA, tech giants would be required to open up access to their platforms to third parties, and would be banned from giving their own products and services preference over those of competing providers. Platforms would not be able to push users toward certain apps or products simply by pre-installing them on devices and making them the default. And app stores would have to allow third-party payment systems, rather than requiring app developers to use the platform owner's systems.
+
+During negotiations late Thursday, European lawmakers also agreed that large online messaging services such as WhatsApp and iMessage will have to be compatible with other messaging providers. The change could enable users to send messages across different platforms — a major departure from how those services currently operate.
+
+Repeat violations of the DMA could result in fines of up to 20% of a company's global revenue, according to a release
+
+Read More

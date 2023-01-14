@@ -1,0 +1,19 @@
+New York CNN Business —
+
+A staggering $1.9 billion worth of cryptocurrency was stolen in hacks of various services in the first seven months of this year, marking a 60% increase from the same period in the year prior, according to a report released Tuesday from blockchain analysis firm Chainalysis.
+
+The surge comes even as the value of many cryptocurrencies plunged in the first half of this year. The report attributed much of the spike to hacks on decentralized finance (DeFi) protocols. The term refers to services that attempt to replace traditional financial institutions with software that allows users to transact directly with each other via the blockchain, the digital ledger that underpins cryptocurrencies.
+
+Some of the biggest crypto hacks of 2022 were on DeFi protocols, including the $625 million hack of video game Axie Infinity’s Ronin network in March. Some of these thefts, including the Axie incident, have since been attributed to hackers associated with North Korea.
+
+An estimated $1 billion has been stolen from DeFi protocols by North Korea-affiliated hackers so far this year, according to the Chainalysis report. These thefts are thought to be part of a broader strategy to help bring in revenue for the North Korean regime as it has largely been cut off from the world.
+
+DeFi transactions, based mainly on Ethereum blockchain technology, have rapidly exploded in popularity over the past two years. These protocols are “uniquely vulnerable to hacking” thanks to their open source code, large pools of assets and rapid growth that may have led to a lapse in security best practices, according to Elliptic, a blockchain analysis firm.
+
+“The technology is relatively immature in general. This space has only really emerged just the past couple of years,” Tom Robinson, chief scientist at Elliptic, told CNN Business. “Mistakes are being made, mistakes are being learned from, but there’s always bugs in software. I think the problem here is that the software is the only thing securing these assets.”
+
+Chainalysis warns that the increase in crypto thefts shows no sign of letting up despite the drop in the crypto market. “As long as crypto assets held in DeFi protocol pools and other services have value and are vulnerable, bad actors will try to steal them,” according to the report.
+
+Chainalysis points to two recent large-scale DeFi hacks, including the $190 million reportedly stolen from cryptocurrency bridge provider Nomad, which occurred after the data cutoff point for the report.
+
+But there may be at least one silver lining in the report: The amount of money lost in cryptocurrency scams, such as the $2 billion dollar Ponzi scheme carried out by BitConnect founder Satish Kumbhani, was 65% less than the year prior as the falling value of crypto made it a less enticing investment opportunity for potential victims.

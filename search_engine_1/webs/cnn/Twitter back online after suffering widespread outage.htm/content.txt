@@ -1,0 +1,9 @@
+(CNN Business) Twitter, already under fire from lawmakers and regulators, appeared to go down altogether on Thursday.
+
+An unknown number of users were unable to access the social network's website and mobile apps, with tracking website Downdetector recording more than 57,000 reports by 6 p.m. ET.
+
+Twitter TWTR said Thursday evening that the issue was "caused by an inadvertent change we made to our internal systems."
+
+"Twitter should be working for everyone within the next few hours," the company said around 8 p.m. ET. By early Friday, the company said that all systems were operational.
+
+The disruption comes a few months after a massive hack of some of Twitter's biggest accounts, including those belonging to Barack Obama, Joe Biden, Jeff Bezos and Kim Kardashian West, which regulators in New York this week said originated in a tech support scam

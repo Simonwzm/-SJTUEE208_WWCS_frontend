@@ -1,0 +1,67 @@
+(CNN Business) Even if you're not an avid gamer, there's a good chance you've heard of "Call of Duty," "World of Warcraft" or "Candy Crush." Those games, which are played by hundreds of millions of people around the world and have in some cases attained the status of cultural phenomena, all belong to one California company helmed by one of America's longest-serving CEOs.
+
+That company, Activision Blizzard, is now being roiled by a scandal. Over the past several days, accusations of discrimination and harassment at the gaming giant have snowballed into an avalanche of dissent . Amid that dissent, the first high-profile departure from the company was announced Tuesday morning, when Activision Blizzard COO Daniel Alegre told employees that J. Allen Brack, president of the company's Blizzard Entertainment studio, would be leaving his post.
+
+The unfolding crisis, and the response to it from employees, echoes similar controversies at major tech firms. And the fallout from what happens at Activision Blizzard is likely to have major ripple effects not only across the gaming world but also the tech industry and corporate America at large.
+
+What you should know
+
+The backlash against (and within) Activision Blizzard began with a lawsuit filed by California's Department of Fair Employment and Housing.
+
+The lawsuit alleged a "frat boy" work culture where multiple female employees were subjected to gender discrimination, sexual harassment, and unequal pay, and that "the company's executives and human resources personnel knew of the harassment and failed to take reasonable steps to prevent the unlawful conduct, and instead retaliated against women who complained."
+
+Several former Activision Blizzard employees had already begun sharing their experiences on social media in the wake of the lawsuit, but the company's effort to paint the suit's claims as "inaccurate" and "distorted" prompted more than 2,000 current and former workers to sign a petition slamming that response as "abhorrent and insulting."
+
+Activision Blizzard CEO Bobby Kotick tried to dial the temperature down, admitting in a note to employees last week that the company's initial response had been "tone deaf" and that it was hiring an outside law firm to investigate the claims.
+
+But that didn't stop dozens of employees from staging a walkout at the company's campus in Irvine, California (with hundreds more joining virtually) on Wednesday. Some of the demands included greater pay transparency and an end to mandatory arbitration.
+
+Activision Blizzard employees staged a walkout on Wednesday to protest the company's responses to the lawsuit and demand more equitable treatment for underrepresented staff.
+
+A watershed moment
+
+It sets up a standoff between Kotick, an industry veteran who became CEO of Activision in 1991, and his employees. And that could end up being a watershed moment not just for Activision Blizzard, but for the gaming and tech industries at large, both of which have faced accusations of sexism, racism and a broader lack of diversity for years.
+
+"We know that gaming is a little bit less diverse than even some other aspects of the technology industry, and that there is a bro culture there," said Y-Vonne Hutchinson, founder of inclusion consultancy firm ReadySet and author of the upcoming book "How to Talk to Your Boss About Race."
+
+Game development, which involves long hours and even overnight marathons for days at a time, creates "this unhealthy working culture generally, and one that ... relies on the person's love of gaming, as opposed to compensation, to get people to do these things," she added. "And then you compound it with the bro culture that you often do see in gaming, and in particular, certain kinds of gaming companies."
+
+Spurred on by the California lawsuit and its aftermath, several employees across the gaming industry are now speaking out about sexual harassment, pay disparities and other aspects of the culture. All eyes will now be on how Activision Blizzard's leadership handles the situation and whether it faces more consequences or changes beyond the Tuesday announcement of Brack's departure.
+
+Laws against sexual harassment and discrimination have "finally become more and more empowered and enforced," said Walter Foster, a labor and employment lawyer at the firm Eckert Seamans Cherin & Mellott in Boston who previously worked in the Massachusetts state attorney general's office.
+
+"The allegations brought by the California state department [are] seminal, and probably bellwether type litigation for this industry," he said. "It's being brought by a state agency, so they have the resources of the state. They don't invest in those litigations until they know they have a good case. ... You take a case to make an example."
+
+Activision Blizzard CEO Bobby Kotick is under pressure from California authorities as well as his own employees.
+
+Activision Blizzard ATVI So far, Kotick appears to be following a similar playbook to other tech companies faced with corporate scandals — most notably Uber and Zenefits — by launching an investigation by an outside law firm. But those investigations don't always result in the outcome employees might hope for, andemployees are already pushing back against Kotick for not including them in the process of selecting the third party auditing their company culture.
+
+"Too often, investigations go awry. Victims are silenced and the bad behavior continues," said Melanie Leslie, dean of the Cardozo School of Law at Yeshiva University. Companies often use investigations to gather ammunition to defend against lawsuits or to "whitewash the scandal" in the public forum, she added. Even well-intentioned investigations can struggle to get at the truth because employees may be afraid to be candid with company-appointed lawyers.
+
+"Most important, internal investigations do little to get at the real problem -- the need to change a particular corporate culture," Leslie said. "What's really needed is effective ethical leadership."
+
+What's next for Activision?
+
+So far, in Activision Blizzard's case, there has been no explicit demand for the common next step in corporate scandals: the resignation of the CEO. Workers participating in the walkout have said they want to work with the leadership team on their demands.
+
+"We expect a prompt response and a commitment to action from leadership ... and look forward to maintaining a constructive dialogue on how to build a better Activision Blizzard for all employees," the walkout participants said in a statement responding to Kotick's letter that was seen by CNN Business.
+
+Under Kotick's leadership, Activision Blizzard has grown into one of the world's biggest gaming companies, with revenue of $2.2 billion last quarter and more than 9,500 employees worldwide. Kotick's compensation, one of the largest in the business, has been controversial. In April, he agreed to reduce his 2021 annual salary from $1.75 million to $875,000 "to address shareholder concerns regarding the quantum of the CEO's compensation," according to the company's latest proxy statement . But just two months later, Kotick received a $155 million pay package — most of it tied to Activision Blizzard's stock performance — which was narrowly approved by shareholders despite pressure from an activist investor to reject it.
+
+Activision Blizzard's board on Monday expressed its support for Kotick.
+
+"First and foremost, the Board recognizes and thanks all those who have bravely come forward. There is no place for discrimination, harassment, or unequal treatment at Activision Blizzard or anywhere," Brian Kelly, the board's chairman, and Robert Morgado, its lead independent director, said in a statement to CNN Business.
+
+"We have complete confidence in Bobby's leadership. He has successfully led the company for over three decades in a rapidly evolving industry while increasing the value of the company by tens of billions, and has been unwavering in his commitment to create a supportive and respectful culture," they added. "He understands that the talent at Activision Blizzard is the lifeblood of the company and it's essential to have a safe, diverse, and inclusive workplace. We are working with him and his leadership team to ensure that action is taken as we move forward and look toward the future."
+
+But Hutchinson said, based on her work on diversity and inclusion in the tech industry, that when scandals like this happen an overhaul at the top may ultimately be necessary to truly fix the problem.
+
+"An investigation is not going to substitute for the need to change leadership," she said. "The message that it sends if you run an investigation and everybody still stays there is that actually it's okay. So I think they're going to have to clean house."
+
+For now, the biggest change is at the Blizzard division, with Brack out. Brack will be replaced by Blizzard executives Jen Oneal and Mike Ybarrra, who will co-lead the division. While the company did not detail a reason for his exit, Brack said in a statement: "I am confident that Jen Oneal and Mike Ybarra will provide the leadership Blizzard needs to realize its full potential and will accelerate the pace of change."
+
+However the situation shakes out, Activision Blizzard's leadership will find the enormous public pressure — in addition to the pressure from California's investigation itself — impossible to ignore or brush off. And much of that comes down to how empowered employees feel to voice their opinions and their discontent.
+
+"We are living in the middle of the great resignation, where a lot of people are looking at their workplaces and saying this no longer serves me," Hutchinson said. "And I think that part of that reflection and that walking away is going to have to do with these toxic bro cultures that hurt everyone."
+
+-- CNN Business' Clare Duffy contributed reporting.

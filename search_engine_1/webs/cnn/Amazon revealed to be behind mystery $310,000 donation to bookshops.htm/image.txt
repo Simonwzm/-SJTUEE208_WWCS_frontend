@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200423110928-daunt-books-restricted.jpg?q=x_2,y_112,h_1211,w_2153,c_crop/w_800

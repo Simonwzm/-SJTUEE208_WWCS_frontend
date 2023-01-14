@@ -1,0 +1,25 @@
+New York CNN Business —
+
+The new iPhone 12 is probably going to have the expected upgrades: a faster processor, the latest iOS software, 5G wireless connectivity and a host of other updates that should make the iPhone 12 the fastest smartphone Apple ever produced.
+
+But more than any other new bell or whistle, one new feature could make the iPhone 12 feel significantly zippier: A high-refresh-rate screen.
+
+OK, we’re entering Reddit rabbit-hole rumor territory here, but if it pans out, Apple (AAPL) fans will be thrilled. One rumor that has persisted this year is a 120 Hz display. That’s a screen that can display 120 different frames, or images, per second.
+
+The iPhone’s current screen, like most smartphone and computer displays, is stuck at 60 Hz, or 60 frames per second. That doesn’t feel slow, because that’s what we’re used to. But get your hands on a 120 Hz display, and you’ll wonder how you ever survived with a measly 60 frames per second.
+
+Screens with high refresh rates appear faster. When you scroll, tap on an app or play a game, the phone seems to be obeying your commands instantaneously. Even on phones with slower processors, high-refresh-rate screens feel faster than 60 Hz phones.
+
+High-end Android phones, including the Samsung Galaxy S20, the Google Pixel 4 and the OnePlus 8 Pro, have 90 Hz or 120 Hz screens. But most iPhone users probably don’t know the difference – or what they’re missing.
+
+The problems with high-refresh-rate screens are two-fold:
+
+First, they often sacrifice pixel density, dialing 4K displays down to 1080p HD screens – but with Retina displays that offer clarity far beyond what the human eye can perceive, that won’t make much of a difference to most people.
+
+The second is a real drag: High-refersh-rate screens suck up a lot of battery. It takes much more power to keep the screen updating that quickly.
+
+Apple has prized its battery life as one of the biggest selling points for the iPhone. That’s why, if Apple features a high-refresh-rate screen, it will probably automatically turn it on and off depending on the app you’re using. Android phones tend to have adaptable refresh rates that switch on and off in certain situations to save battery life.
+
+Maintaining battery life will be especially important for the iPhone 12, which is expected to include 5G connectivity – itself a major drain on battery life. The iPad Pro has a 120 Hz display, but it has a significantly bigger battery than the iPhone.
+
+So will it show up in the iPhone 12? Color this reporter skeptical. But if the iPhone 12 brings 5G and a 120 Hz screen, that’s going to represent a serious leap forward for Apple.

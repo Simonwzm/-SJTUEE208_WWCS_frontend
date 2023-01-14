@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200809211203-apple-store-0731-restricted.jpg?q=x_0,y_160,h_898,w_1596,c_crop/w_800

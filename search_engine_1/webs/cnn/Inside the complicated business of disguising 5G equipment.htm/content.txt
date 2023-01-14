@@ -1,0 +1,13 @@
+(CNN Business) For years, artificial cacti have lined the sandy roadsides of North Scottsdale, Arizona. They look real at first glance but tucked inside are antennas and radio equipment that provide 4G LTE wireless connectivity to the area. Large concealment structures like this, which in this case are about 24 feet tall, have become so good it's sometimes hard to tell the real cacti from the fakes.
+
+Across the United States, clunky 4G cell towers are often "disguised" with regionally-prominent foliage. Evergreens are attached to sites in the Northeast. In the South, they're decorated to look like palm trees. And then there's the cacti out West. In some cases, the equipment is tucked into existing church bell towers, town square signs and on the side of historic landmarks. On farmland, 4G-enabled water towers are set up as props to give the impression they're part of the landscape.
+
+But with the rollout of 5G, the next-generation of wireless speed, cities like Scottsdale will rely less on elaborate cover ups and more on a piece of architecture that's been a mainstay in urban and suburban environments for well over a century: street lights.
+
+A 4G and 5G capable cactus in the Scottsdale, Arizona area built by Valmont Industries
+
+It's not as creative as hiding technology in a faux plant but the shift is currently playing out all over the world. "Design will be just as important moving forward with the 5G installations, but we will have a greater focus on streetlights than the cacti," said Keith Niederer, telecom policy coordinator for Scottsdale.
+
+That's because 5G radio signals for small cell sites operate at a higher millimeter wave frequency than 4G, making them more easily blocked by objects, such as wooden fixtures or leaves, and certain materials. Consequently, installations must be set up every couple hundred feet -- and that distance will shrink even more as data-needy technology like self-driving cars hit the roads. They also need to be close to street level for people to access the signals and the antennas, for the most part, must remain exposed.
+
+Read More

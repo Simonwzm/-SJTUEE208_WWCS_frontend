@@ -1,0 +1,11 @@
+(CNN Business) The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups.
+
+The IRS said in a statement Monday that it will "transition away from using a third-party verification service involving facial recognition." The IRS said it will bring online an "additional authentication process" that doesn't use facial recognition technology, and work with other partners in government to come up with ways to authenticate taxpayers that "protect taxpayer data and ensure broad access to online tools." It did not explain what that authentication process will include.
+
+"The IRS takes taxpayer privacy and security seriously, and we understand the concerns that have been raised," said IRS commissioner Chuck Rettig. "Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition."
+
+The reversal, which comes as tax season is underway, hints at public discomfort around the expanded use of facial recognition technology in our daily lives and could raise questions about other parts of government that rely on the same private company as the IRS for verification purposes. It also raises questions about whether other government agencies will pull back on their own use of facial recognition software more broadly as the technology has been widely used across the US government for years
+
+verification process for logging in to its website starting this summer, which would include taking a picture of a photo ID, like a driver's license or passport, and then taking a video selfie with a smartphone or computer so software could compare the two. The IRS had previously planned to require a newverification process for logging in to its website starting this summer, which wouldinclude taking a picture of a photo ID, like a driver's license or passport, and then taking a video selfie with a smartphone or computer so software could compare the two.
+
+Read More

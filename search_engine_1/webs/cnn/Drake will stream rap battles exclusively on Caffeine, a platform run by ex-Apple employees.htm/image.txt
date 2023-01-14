@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200208135734-01-drake-file.jpg?q=x_0,y_0,h_1371,w_2436,c_fill/w_800

@@ -1,0 +1,75 @@
+New York CNN Business —
+
+The commercial spaceflight industry is growing up.
+
+The last decade gave rise to more than 500 startups in the commercial spaceflight sector, prompting analysts to dub it one of the most exciting new markets to watch. Investors have put more than $25 billion into makers of satellites, rockets and other space innovations since 2009, according to a report published Tuesday by investment firm Space Angels.
+
+This year could bring even more attention to the industry, as young companies continue to evolve from wannabes with pitch decks into legitimate businesses.
+
+Instead of chasing angel investments and seed funding, some are graduating to growth capital or attracting more mainstream backers. One or two established startups might even file for an IPO, some investors speculate, potentially giving the industry more credibility on Wall Street.
+
+But just like any maturing industry, some companies will go bankrupt, others will join forces to survive and some could be snapped up by bigger competitors.
+
+IPOs
+
+Last year, Virgin Galactic (SPCE), the venture founded by British billionaire Richard Branson, became the first space tourism company ever to make a stock market debut.
+
+Many heralded the move as a sign of the space industry’s maturity. But the listing took place through a reverse merger. That meant the company bypassed the dog and pony show that comes with more typical IPOs, in which companies reveal extensive financial information and work with a major bank to go public.
+
+“It will be even better when a new space company actually goes through the traditional IPO process,” Dylan Taylor, a prominent investor in space companies, told CNN Business.
+
+And once that trail is blazed, Taylor said, it could encourage venture capitalists to fund other space startups.
+
+The biggest names in space likely won’t be the ones to go public. Elon Musk’s SpaceX and Blue Origin, the rocket venture founded by Amazon’s Jeff Bezos, have plenty of funding and likely no desire to take on the scrutiny that comes with a public listing.
+
+But a couple of other venture-backed companies could take the plunge, though it’s not clear if it’ll happen in 2020.
+
+Taylor cautions, however, that geopolitical issues or an economic downturn could dampen IPO hopes. And he pointed out that last year was disappointing for public offerings in general as Wall Street grew increasingly wary of unprofitable tech firms.
+
+Mergers and shakeouts
+
+Mergers could also sweep the industry as startups look to form strategic alliances and establish their footing.
+
+Several companies — including SpaceX, Softbank-backed OneWeb, Amazon’s Project Kuiper and Canada’s Telesat — are racing to build constellations of hundreds of internet-beaming satellites.
+
+It’s a very expensive endeavor. And these companies are fighting one another over the rights to use certain radio frequencies and areas of orbit for their constellations.
+
+“There’s only so many good orbits, and it’s like a land grab,” said Chad Anderson, who heads Space Angels, the most active investors in the space industry.
+
+That could encourage some consolidation in the sector, Anderson added. And, if one or more companies find themselves on uneasy financial footing, that could prompt more deals.
+
+There’s also a staggering number of startups — more than 100 by one account — attempting to build rockets designed specifically to haul small satellites into orbit. These rockets would be much smaller and cheaper than SpaceX’s Falcon rockets which are designed to haul large payloads to space.
+
+Only one such company, Rocket Lab, has actually started launching satellites for customers. Two other ventures, Virgin Orbit and Firefly, are aiming to start operations this year.
+
+But analysts have said for years that the vast majority of rocket startups will be forced to shut their doors. The market can only support a handful of launch providers, and many of the small rocket startups will probably cave under the steep development costs.
+
+Taylor, the investor, added that a couple of other areas within the industry — including Earth observation satellites — are also overcrowded and likely due for a shakeout.
+
+Acquisitions — not likely
+
+It’s unlikely any of the big three billionaire-backed space ventures — SpaceX, Blue Origin and Virgin Galactic — will acquire a startup, according to Anderson. Those companies are busy investing in their own growth.
+
+And investors aren’t expecting to see legacy aerospace firms, such as Lockheed Martin (LMT) or Boeing (BA), acquire startups either. Taylor and Lisa Rich of Hemisphere Ventures both told CNN Business that space entrepreneurs typically don’t want to sell their businesses to corporate giants.
+
+“Most new space entrepreneurs don’t want to sell to a [legacy company] because they came from a [legacy company],” Taylor said. So, large corporations “can’t assume the startups want to be bought.”
+
+That doesn’t necessarily mean that old-guard aerospace companies aren’t engaging with younger companies. Lockheed and Boeing both invest in startups through venture capital funds, and they have stakes in companies like Rocket Lab and Virgin Galactic.
+
+A few partnerships also emerged last year: Bezos’ Blue Origin announced it would team up with Lockheed and Northrop Grumman (NOC) to build a lunar lander. And Firefly, the rocket startup, also recently announced a partnership with 78-year-old engine manufacturer Aeroject Rocketdyne. That could be a sign of more to come, says Anderson.
+
+Taylor personally holds a stake in several space companies, including Planet and Made In Space, which makes 3D printers for use in outer space. And last year, he launched a new investment firm, Voyager Space Holdings, that’s designed to offer an alternative for young companies that want the stability major corporations can offer but don’t want to lose their scrappy startup mentality.
+
+Voyager’s plan is to build an industry giant by purchasing majority stakes in numerous startups. Voyager will take care of the more bureaucratic duties of running a business and allow entrepreneurs “to run their own show” when it comes to the tech, Taylor said.
+
+In October, Voyager announced its intent to acquire a propulsion company, Colorado-based Altius. Taylor said he expects to announce another acquisition by the end of January and to make up to five more in 2020.
+
+The big picture
+
+Venture capitalists only began making significant investments in space startups in the past few years. So the “new space” industry, as some call it, is still very young and has a lot to prove.
+
+But Wall Street banks, including Goldman Sachs and Morgan Stanley, predict the global space economy could grow to $1 trillion or more over the next two decades.
+
+If the space sector’s visionaries have their way, the next decade will see unprecedented business activity in space.
+
+Thousands of new satellites will be deployed. New rockets will take flight. Tourists will travel to space. And, one day, companies could be mining resources on the moon or sending corporate researchers to private space stations.

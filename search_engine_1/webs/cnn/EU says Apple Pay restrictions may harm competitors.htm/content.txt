@@ -1,0 +1,11 @@
+Washington (CNN Business) The European Union is warning Apple about possible antitrust violations after an investigation into the iPhone maker's dominance in mobile retail payments.
+
+Apple AAPL The European Commission said Monday that it believeshas unfairly blocked competitors from using the wireless communications technology behind Apple Pay's tap-to-pay capabilities.
+
+According to a statement of objections the European Commission sent to Apple, the company has restricted access to its devices' near-field communications (NFC) equipment, and only Apple Pay may use it.
+
+That means rivals that want to create apps or wallets utilizing the tap-to-pay features on iPhones can't do so, a rule by Apple that's harmed innovation, the Commission's executive vice president, Margrethe Vestager, said.
+
+"Developing a mobile payment application is costly," Vestager said in a statement. "Investment may only be worth it if developers can reach both Apple and Android customers. Evidence on our file indicates that some developers did not go ahead with their plans as they were not able to to reach iPhone users."
+
+Read More

@@ -1,0 +1,59 @@
+(CNN Business) Nearly two years ago, public health experts blamed social media platforms for contributing to a measles outbreak by allowing false claims about the risks of vaccines to spread.
+
+Facebook pledged to take tougher action on anti-vaccine misinformation, including making it less prominent in the news feed and not recommending related groups. But shortly after, Facebook-owned Instagram continued to serve up posts from anti-vaccine accounts and hashtags to anyone searching for the word "vaccines." Despite actions against anti-vaccine content since then — some as recent as last month -- Facebook has failed to totally quash the movement on its platforms.
+
+Now, with Covid-19 vaccines potentially making their way to some Americans as soon as this month, the tech companies will face their biggest test on this front yet. The stakes for them to get it right, after years of struggling to combat vaccine misinformation, couldn't be higher.
+
+"To beat this pandemic, we also have to defeat the parallel pandemic of distrust," Francesco Rocca, president of the International Federation of Red Cross and Red Crescent Societies, said on Monday.
+
+Some social networks have already put policies in place specifically against Covid-19 vaccine misinformation; others are still deciding on the best approach or are leaning on existing policies for Covid-19 and vaccine-related content. But making a policy is the easy part -- enforcing it consistently is where platforms often fall short.
+
+Facebook, Twitter and other platforms have their work cut out for them: The coronavirus and pending vaccines have already been the subject of numerous conspiracy theories, which platforms have taken action on or created policies about. Some have made false claims about the effectiveness of masks or baseless assertions that microchips will be implanted in people who get the vaccine.
+
+Earlier this month, Facebook booted a large private group dedicated to anti-vaccine content. But many groups dedicated to railing against vaccines remain. A cursory search by CNN Business found at least a dozen Facebook groups advocating against vaccines, with membership ranging from a few hundred to tens of thousands of users. At least one group was specifically centered around opposition to a Covid-19 vaccine.
+
+Brooke McKeever, an associate professor of communications at the University of South Carolina who has studied vaccine misinformation and social media, expects a rise of anti-vaxxer content and said it's a "big problem."
+
+"The speed at which [these vaccines] were developed is a concern for some people, and the fact that we don't have a history with this vaccine, people are going to be scared and uncertain about it," she said. "They might be more likely or prone to believing misinformation because of that."
+
+That has real world consequences. McKeever's fear: that people won't get the vaccine and Covid-19 will continue to spread.
+
+Public health experts say vaccines are extremely safe, and serious adverse reactions are very rare.
+
+Moderna says it will ask US and European regulators to allow emergency use of its COVID-19 vaccine as new study results confirm the shots offer strong protection.
+
+But anti-vaccination posts continue to find a large audience. A July report from the Center for Countering Digital Hate (CCDH) found anti-vaxx networks have amassed a following of about 58 million people, based primarily in the US, as well as in the UK, Canada and Australia. "The decision [of social media platforms] to continue hosting known misinformation content and actors left online anti-vaxxers ready to pounce on the opportunity presented by coronavirus," the report said.
+
+The report said social media platforms have done the "absolute minimum."
+
+Here's where the platforms stand on combating Covid-19 vaccine misinformation so far.
+
+Facebook and Instagram
+
+"We allow content that discusses Covid-19 related studies and vaccine trials, but we will remove claims that there is a safe and effective vaccine for Covid-19 until global health authorities approve such a vaccine," a Facebook spokesperson said. "We're also rejecting ads that discourage people from getting vaccinated."
+
+Facebook's Covid-19 rules state that the company works to remove content that could potentially contribute to real-world harm, including through its policies banning misinformation "that contributes to the risk of imminent violence or physical harm."
+
+Twitter
+
+A Twitter spokesperson said the company is still working through its policy and product plans ahead of "a viable and medically-approved vaccine" becoming available.
+
+Since 2018, the company has added a prompt that directs users to a public health resource when their search is related to vaccines. In the US, it points people to vaccines.gov.
+
+Twitter has a lengthy policy regarding false and misleading content about Covid-19. The company has emphasized it's focusing on removing Covid-19 misinformation that includes a call to action that could be harmful, such as spreading falsehoods about the effectiveness of masks.
+
+YouTube
+
+In October, YouTube updated its policies to include removing videos that contain misinformation about Covid-19 vaccines, such as any claims that go against expert consensus from local health officials or the World Health Organization. For example, YouTube said it would remove claims that a vaccine would kill people or cause infertility, or that microchips would be implanted in people who get the vaccine.
+
+A YouTube spokesperson said it will continue to monitor the situation and update policies as needed.
+
+TikTok
+
+TikTok said it removes misinformation related to Covid-19 and vaccines, including anti-vaccine content. The company said it does so proactively and through its users reporting content.
+
+TikTok also works with fact-checkers including Politifact, Lead Stories, SciVerify, and the AFP to help assess the accuracy of content.
+
+Its misleading information policy prohibits misinformation regarding hate, prejudice and harm to people's physical health, among other categories.
+
+On videos related to the pandemic -- regardless of whether they are misleading or not -- TikTok has a label that says "Learn the facts about Covid-19," which leads to a hub with information from sources such as the World Health Organization.

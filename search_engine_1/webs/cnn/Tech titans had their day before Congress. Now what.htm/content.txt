@@ -1,0 +1,73 @@
+CNN Business —
+
+For nearly six hours on Wednesday, House lawmakers peppered the CEOs of Amazon (AMZN), Apple (AAPL), Facebook (FB) and Google (GOOGL) with questions about their business practices, in the most anticipated antitrust hearing of its kind since Bill Gates defended Microsoft before Congress in 1998.
+
+Wednesday’s interrogation flitted from one company to the next in five-minute spurts, jumping from topic to topic. Democrats largely focused their questions on antitrust complaints, while Republicans zeroed in on claims of anti-conservative bias that were unrelated to the investigation that prompted the hearing.
+
+Now that the dust has settled, though, policy analysts are trying to figure out what will happen next. In the short term, lawmakers have said they’ll develop a report based on their investigation, along with possible proposals for new laws that could either target the tech industry or seek to update the nation’s antitrust laws for the digital age.
+
+What the report and proposals may focus on isn’t entirely clear yet. But policy analysts have begun zeroing in on key testimony that they predict will have the biggest implications for each of the companies.
+
+At best, the companies and their CEOs may see their reputations tarnished somewhat by revelations made public on Wednesday. At worst, the hearing could create momentum for more drastic action, including possibly breaking up some of the tech companies. Indeed, after the hearing ended, Rep. David Cicilline, who leads the subcommittee that questioned the CEOs, said there might be a need for some breakups, though Congress itself does not have the power to do so.
+
+Looking past the drama of the hearing, analysts say, the likeliest areas of concern include Facebook’s acquisition strategy, Google’s decisions surrounding search and data, and Amazon’s use of data from third-party sellers to benefit its own business. Apple, despite being the world’s most valuable company, appeared to face the least scrutiny at the hearing.
+
+Facebook’s acquisitions of Instagram
+
+Facebook’s acquisition strategy was a central theme of the hearing that will likely raise more questions by investigators or perhaps even bolster a case for breaking up its business, analysts said.
+
+During the hearing, lawmakers introduced emails into the record that show CEO Mark Zuckerberg was concerned in 2012 about Instagram’s potential to threaten Facebook. In the emails, Zuckerberg acknowledged to fellow Facebook officials that his desire to purchase Instagram was at least partially motivated by a desire to eliminate a competitor.
+
+“Even if some new competitors springs[sic] up, buying Instagram, Path, Foursquare, etc. now will give us a year or more to integrate their dynamics [into Facebook] before anyone can get close to their scale again,” Zuckerberg wrote, according to one of the emails released by the committee.
+
+Lawmakers also said Zuckerberg’s private conversations with Instagram co-founder Kevin Systrom prompted Systrom to worry the Facebook CEO would go into “destroy mode” if he didn’t agree to sell Instagram.
+
+Just because Facebook recognized Instagram as a rival doesn’t necessarily prove the acquisition reduced competition, which is ultimately what antitrust law is all about, according to Joshua Wright, a former Republican commissioner at the Federal Trade Commission. In his own testimony, Zuckerberg pointed out that the FTC didn’t oppose the Instagram purchase at the time. Facebook also stressed that Instagram was much smaller at the time of the deal and became a massive platform because of Facebook’s “significant investment” in the service after the acquisition.
+
+Still, the release of the documents has reignited public scrutiny over whether Facebook may have pursued a wider, deliberate strategy to entrench its dominance by “neutralizing” would-be competitors. One email showed Facebook executives discussing the company’s approach to mergers as a “land grab” meant to “shore up our position.”
+
+“Facebook has a document problem that is far worse than publicly known,” said Columbia Law School professor Tim Wu in a tweet. “Its executives seemed to be unaware of the legal risks of what they were doing and saying (like Gates in the 90s).”
+
+Google’s dominance in search and data
+
+For Google, the only one of the four companies that’s faced an antitrust suit by federal authorities, the biggest anti-competitive issues raised at the hearing were its handling of user data and its treatment of rival search results, analysts said.
+
+Congress said it had learned Google threatened to de-list Yelp’s restaurant reviews unless Yelp agreed to give its content to Google so that the internet giant could “bootstrap its own rival local search business,” according to Cicilline. He also asked whether Google uses its ability to track internet users’ web browsing history in order to identify up-and-coming websites or apps that could pose a threat to its business.
+
+On both issues, Google CEO Sundar Pichai did not directly dispute the claims, but instead argued that Google is focused on trying to make its products better for users. “Congressman, when I run the company, I’m really focused on giving users what they want,” Pichai said.
+
+Under questioning, Pichai also acknowledged that he signed off “at a high level” on the decision in 2016 to combine the user data from its own services with the web browsing data held by DoubleClick, an ad tech company Google acquired in 2007 — creating what one lawmaker called an “absolutely staggering” data trove on users.
+
+Pichai stressed that Google has since made it “very easy for users to be in control of their data.” But Rep. Val Demings called Google’s decision a “bait and switch,” saying Google had previously testified before the Senate antitrust subcommittee that such a merger of data wasn’t even possible. Demings said that as a result of the move, consumers have no practical choice but to “surrender” to Google’s business decisions.
+
+Some analysts said Pichai’s responses weren’t particularly strong, while others said the testimony could help pave the way for an antitrust suit against Google.
+
+“The hearing gave congressional backup for [the Justice Department] to sue Google,” wrote Paul Gallant, an industry analyst at Cowen & Co., in an investor note Wednesday. “And we think it was noteworthy that Chairman Cicilline led with search. ... This may elevate the chance that a DOJ lawsuit includes search bias as well ad tech.”
+
+Gallant also speculated federal pressure on Google could continue even if there is a new occupant in the White House. “At a minimum, we think it means a Biden DOJ would likely sue over search bias,” he wrote.
+
+Amazon’s relationship with third-party sellers
+
+While some of the CEOs faced complaints that their companies were harming small businesses in one way or another, Amazon CEO Jeff Bezos got some of the worst of it.
+
+Bezos was repeatedly asked about allegations that Amazon uses third-party sellers’ data to figure out what new products to sell and how to undercut independent businesses on its platform. Lawmakers were especially concerned about the possibility that an Amazon lawyer may have lied to Congress in a prior hearing when testifying that the company does not use the data for this purpose.
+
+On Wednesday, Bezos confirmed that Amazon has a policy that prohibits employees from using individual seller data to help Amazon’s private-label business, but added: “I can’t guarantee you that policy has never been violated.”
+
+It didn’t end there. Amazon’s policy is to allow employees to use “aggregate” seller data to help its own business, Bezos said. By combining multiple sellers’ data together, it theoretically makes it difficult, if not impossible, for employees to identify data belonging to any specific seller.
+
+But under questioning, Bezos conceded that “aggregate” can mean as few as two sellers.
+
+“That certainly is a flag,” said Asheesh Agarwal, deputy general counsel at TechFreedom, a technology think tank. “I do think things like that will provide some impetus to the enforcement agencies.”
+
+Apple got off lightly
+
+Analysts widely agreed that Apple did not receive much scrutiny during the hearing.
+
+The congressional questioning focused primarily on claims that Apple favors some app developers over others, which CEO Tim Cook denied. It is also not the major antitrust complaint facing the company, said Gallant.
+
+Apple didn’t receive much focus on what Gallant described as “the bigger risk”: claims that Apple unfairly tries to force iOS apps to use Apple-owned in-app payment methods as a way to extract a 30% cut from app revenues. (Apple has said its app store policies are meant to provide a high-quality and safe experience for iOS users, and it has hired experts to show that a 30% cut is not uncommon in digital marketplaces.)
+
+Still, the overall thrust of the hearing left it clear to some analysts that regulators have a lot to dig into, with each of companies.
+
+“My bottom line: It is hard to come away from today’s hearing thinking that everything is fine with digital markets,” said Michael Kades, director for markets and competition policy at the Washington Center for Equitable Growth, a policy think tank.

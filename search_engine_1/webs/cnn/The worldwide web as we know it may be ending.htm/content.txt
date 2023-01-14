@@ -1,0 +1,65 @@
+(CNN Business) Over the last year, the worldwide web has started to look less worldwide.
+
+Europe is floating regulation that could impose temporary bans on US tech companies that violate its laws. The United States was on the verge of banning TikTok and WeChat, though the new Biden administration is rethinking that move. India, which did ban those two apps as well of dozens of others, is now at loggerheads with Twitter
+
+And this month, clashed with the Australian government over a proposed law that would require it to pay publishers. The company briefly decided to prevent users from sharing news links in the country in response to the law, with the potential to drastically change how its platform functions from one country to the next. Then on Tuesday, it reached a deal with the government and agreed to restore news pages. The deal partially relaxed arbitration requirements that Facebook took issue with.
+
+In its announcement of the deal, however, Facebook hinted at the possibility of similar clashes in the future. "We'll continue to invest in news globally and resist efforts by media conglomerates to advance regulatory frameworks that do not take account of the true value exchange between publishers and platforms like Facebook," Campbell Brown, VP of global news partnerships at Facebook, said in a statement Tuesday.
+
+But if such territorial agreements become more common, the globally-connected internet we know will become more like what some have dubbed the "splinternet," or a collection of different internets whose limits are determined by national or regional borders.
+
+A combination of rising nationalism, trade disputes and concerns about the market dominance of certain global tech companies has prompted threats of regulatory crackdowns all over the world. In the process, these forces are not just upending the tech companies that built massive businesses on the promise of a global internet, but also the very idea of building platforms that can be accessed and used the same way by anyone anywhere in the world.
+
+And the cracks only appear to be getting deeper.
+
+"I do think there is a global tendency towards fragmenting the internet much more than it has been fragmented in the past," Daphne Keller, director of the program on platform regulation at Stanford University's Cyber Policy Center, told CNN Business.
+
+As recent events have shown, a platform doesn't need to be banned or shut down outright for that fragmentation to happen. In response to Australia's effort to make it pay publishers, When Facebook stopped showing links from news outlets to its Australian users, users outside the country could also no longer access content from Australian news outlets. The temporary move ran against the very premise of the internet serving as a tool for the free flow of information globally.
+
+Twitter TWTR In India, when warned that it was "welcome to do business" but "must also respect Indian laws,"sought a middle ground by withholding some accounts that were using what the government called "incendiary and baseless" hashtags which means those accounts weren't visible within the country but could still be accessed outside. (The South Asian nation has also shown a greater willingness to go after foreign tech companies, proposing major restrictions on their operations and, amid a diplomatic standoff with China, banning TikTok and dozens of other Chinese-owned apps.)
+
+It's a very different landscape from the one that allowed US tech firms to accumulate enormous wealth and power. With notable exceptions such as China and North Korea, Facebook and its peers were able to launch their products all over the world with little pushback. Now that openness may no longer be a given.
+
+"What's legal in Sweden isn't legal in Pakistan, and so we have to find some way to reconcile that with the way the internet works," Keller said. The result is that "either platforms voluntarily or governments forcibly are erecting geographical barriers, so that we see different things in one country than in another."
+
+The great retreat
+
+While Facebook isn't the only tech company in the crosshairs of governments around the globe, it is perhaps more emblematic than any other Silicon Valley business of the promise of a global internet running up against various countries' laws.
+
+Five years ago, Facebook CEO Mark Zuckerberg was talking up his goal of reaching 5 billion users , or the majority of the world's population. Already, the company has more than 3 billion monthly active users across its various apps, in a testament to its rapid expansion all over the world.
+
+"We want to make it so that anyone, anywhere — a child growing up in rural India who never had a computer — can go to a store, get a phone, get online, and get access to all of the same things that you and I appreciate about the internet," Zuckerberg said in a 2013 interview with CNN's Chris Cuomo.
+
+Even in China, where the government's online censorship apparatus known as the Great Firewall has locked Western tech companies out for decades, Facebook and Google both sought to make concessions to be allowed in (albeit with little success ).
+
+Now, Facebook is instead turning to what's become an increasingly tried-and-tested playbook for the tech industry: threatening to pull its products out of markets in the face of unfavorable regulation.
+
+Google GOOGL In 2014,shut down its Google News service in Spain after the country passed a similar law to the one Australia is now contemplating. In Australia, too, it threatened to pull its search engine out of the country over the same media law before ultimately giving in and signing deals with some of the country's top publishers.
+
+This time, at least, the playbook seemed to work somewhat for Facebook. But there are signs that countries around the world — including the United States — are more willing to play hardball and follow each other's leads on reining in Big Tech. Those companies are ultimately dependent on continued access to billions of users around the world, and governments have shown they are willing to cut off that access in the name of protecting their citizens and sovereignty online.
+
+The stakes will only get higher if more governments jump on the bandwagon.
+
+"It's kind of a game of chicken," said Sinan Aral, a professor at the MIT Sloan School of Business and author of "The Hype Machine: How Social Media Disrupts Our Elections, Our Economy and Our Health."
+
+Aral says companies such as Facebook and Google will encounter a slippery slope if they start to exit every market that asks them to pay for its news, which would "severely limit" the content they can serve their global user base.
+
+"They have a vested interest in trying to force any one market to not impose such regulations by threatening to pull out," he said. "The other side is basically saying: 'If you don't pay for the content, you're not going to have access to our market of consumers or the content in this market.'"
+
+As the internet fractures, global regulators coalesce
+
+A fight over news in Australia is a relatively small part of the clash between tech and governments, which has largely been focused on issues such as censorship, privacy and competition. But the response to Facebook's move in Australia has shown that a more international effort to rein in Big Tech may be gathering momentum -- and with it, the potential for additional fracturing of how internet services function from one country to the next.
+
+As his government faced off against Facebook last week, Australian Prime Minister Scott Morrison issued a warning to the social media giant: what you do here may come back to hurt you in other countries.
+
+"These actions will only confirm the concerns that an increasing number of countries are expressing about the behavior of Big Tech companies who think they are bigger than governments and that the rules should not apply to them," he said in a Facebook post . "They may be changing the world, but that doesn't mean they run it."
+
+On Tuesday, Morrison said Facebook's decision to restore news was "welcome," adding that the government remained committed to proceeding with its legislation to ensure "Australian journalists and news organisations are fairly compensated for the original content they produce."
+
+Several other countries, including the United Kingdom and Canada are now considering similar legislation against social media companies — and many of those countries are talking to each other about how best to do that.
+
+"It would be extremely useful if governments would come together in some kind of transnational process and come up with a treaty or some kind of standard about who gets to reach out and affect content and information outside their national territory," Keller said, "because that's what a lot of them are trying to do, but they haven't, and so as a result you get this very fragmented patchwork."
+
+If that increased fragmentation is allowed to reach its natural conclusion, however, the consequences could be dire.
+
+"If the eventual outcome of that is that we have social media platforms in every major country or market that are separate, then what we will have is an information ecosystem that is completely bifurcated or splintered across the globe," Aral said. "What that portends is a citizenry that has completely different sets of information about local events, about world events, and perhaps a very splintered worldview of reality."

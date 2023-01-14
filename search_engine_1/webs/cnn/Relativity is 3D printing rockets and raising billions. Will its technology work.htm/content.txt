@@ -1,0 +1,63 @@
+New York (CNN Business) Tim Ellis, an unassuming 31-year-old with glasses who shuffles around his sprawling rocket factory in designer sneakers, has what every space company founder longs for: a seemingly endless well of investors willing to pour money into his company.
+
+Relativity Space, the rocket startup Ellis co-founded in 2015 after he left Jeff Bezos' space company, plans to build fairly small rockets that can blast satellites into orbit cheaply and quickly. If that sounds familiar, that's because it's the same business plan touted by dozens of rocket startups all over the world.
+
+Relativity stands out in some respects. The company raised about $1.2 billion in just eight months, a level of investment frenzy enjoyed by few in the space industry outside of Elon Musk's SpaceX. Relativity's massive factory in Long Beach, California, teems with activity as rocket parts are hauled from one area to another, workers compete for oversubscribed desk space, and massive hangar doors conceal some of the largest 3D printers in the world at work.
+
+That is the company's defining trait.
+
+Relativity plans to 3D print almost every single component of its 200-foot-tall orbital rockets, called Terran 1. And Ellis says this is why investors are so intrigued, drawn in by the promises that Relativity's methods will allow them to build a rocket in less than a month, while labor-driven rocket manufacturing can take months to more than a year. Using robots will also allow Relativity to quickly integrate small changes into its rockets' design, potentially allowing the company to develop a far better product in less time, according to Ellis.
+
+Relativity Space 3D Printer Stargate
+
+The catch is that Relativity has never actually launched a rocket.
+
+And because it hasn't launched, it's not yet clear if 3D printing really can prove to be an effective alternative to the traditional rocket-building method, which requires tens of thousands of components. Much of a traditional rocket is also welded or assembled by hand — a process that can be both very expensive and very time-consuming.
+
+But taking a rocket idea from the drawing board and turning it into a towering, fuel-guzzling machine that can tear away from Earth's gravity and safely deliver a satellite into orbit is the notoriously difficult litmus test that every would-be rocket company must pass. And whether Relativity's ideas actually translate to market efficiencies is an open question. Ellis says he understands the stakes.
+
+"I think all the momentum is there," he told CNN's Rachel Crane. "We've got to show what we've got. But major parts of the rocket have already flown a simulated mission on the ground, and [we're] quite confident we've gotten over the hump where the 3D printed rocket is now inevitable — truly inevitable."
+
+Funding the future
+
+Relativity has backing from a who's who of high-profile investors, such as Fidelity and BlackRock. It has soared to a $4 billion-plus valuation — one of the most valuable companies in the burgeoning commercial space sector — by attracting the type of backing most startups only dream of.
+
+The cash windfall has given the company a gleam that belies its inexperience. The company is in the process of moving out of its current home in Long Beach into a 1.1 million-square-foot hangar where Boeing used to build C-17 cargo planes down the road. The company's workforce has ballooned from about 100 people to roughly 600 in just a couple years. It's hired key engineering brass away from SpaceX , Jeff Bezos' rocket company Blue Origin and big tech firms such as Microsoft
+
+The fact that Relativity has drawn so much investor attention while its rockets were still essentially showroom objects is a testament to the fact that private investing markets are awash with record amounts of cash , and the moneyed are anxious to park their extra bucks where they stand to make big returns — high risk, high reward.
+
+Ellis says investors also have good reason to be confident in his technology.
+
+Other rocket factories use 3D printers to quickly draft up certain components, but most components are brought in from suppliers via a complex supply chain. At Relativity, the rocket parts are almost entirely constructed by one-armed robots, spewing metals into intricately designed pieces that can replace hundreds of tiny parts. About 90% of its rockets are 3D printed. Because of this, Relativity says it can use less than 1,000 parts where traditional rockets use more than 100,000.
+
+Relativity Space Stargate
+
+The machines can churn out an entire rocket fuselage in just a few days. The cornerstone of these 3D printing efforts is Stargate — a towering 3D printer that Relativity says is the largest in the world, and it prints with proprietary metal alloys.The machines can churn out an entire rocket fuselage in just a few days.
+
+Ellis also told CNN's Crane that he envisions his 3D printers can prove to be a game changer for manufacturing across several industries, including aircrafts, oil and gas refineries, wind turbines, and more.
+
+He added in an interview with CNN's Crane that he envisions that "3D printing with AI and robotics [are] how things are going to be built on another planet."
+
+"I'm really long-term bullish," he told Crane.
+
+What's next
+
+off the ground by the end of 2021. But, as is common in the space industry (see: Relativity laid out a plan to get its rocketsoff the ground by the end of 2021. But, as is common in the space industry (see: Virgin Galactic SpaceX , etc.), schedules don't often hold. The debut launch of Terran 1 was pushed to 2022. Ellis said this week that it'll be ready for launch in a "few months."
+
+Relativity Space Launch Pad Cape Canaveral
+
+Relativity has the funds to keep trying if it fails out of the gate, but time is of the essence. Several competitors in the small-launch vehicle arena — namely, Rocket Lab, Virgin Orbit and Astra — have already successfully gotten their vehicles off the ground.
+
+Ellis said 95% of the Relativity team is currently focused on ensuring that its first Terran 1 mission is a success. But it's not the company's sole focus. It's already planning to build a far larger rocket, called Terran R, that it hopes to launch by 2024. And recent files released by NASA show the company bid for the chance to develop a space station in low-Earth orbit. (Blue Origin, Northrop Grumman, and Nanoracks were eventually awarded contracts.)
+
+Ellis, for the record, said the company is already selling rides for satellites aboard Terran R, though the rocket itself is currently little more than a digitally rendered idea.
+
+What does all this mean?
+
+Space is proverbially "hot right now" and standing out from the crowd, as in proving what sets a company apart from the rest is an actual game changer, will be essential.
+
+Relativity's approach to 3D printing has certainly given it cache. The company has proven itself in the private fundraising markets, giving it the leeway to forgo a rushed stock market debut that so many of its competitors have embraced
+
+But as with most things in the aerospace industry, it can be difficult to discern the hype and bluster from the truly transformative. And in that case, Relativity's true proving ground will be on the launch pad.
+
+"We have a lot to deliver and a lot of value we've signed up to create," Ellis told CNN Business. "I'm super humbled by it. Like, these people are lining up for Relativity, and other rocket companies can't say that."

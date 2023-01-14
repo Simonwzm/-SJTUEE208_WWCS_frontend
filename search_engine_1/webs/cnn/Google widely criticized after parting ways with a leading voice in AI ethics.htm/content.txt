@@ -1,0 +1,51 @@
+(CNN Business) Many Google employees and others in the tech and academic communities are furious over the sudden exit from Google of a pioneer in the study of ethics in artificial intelligence—a departure they see as a failure by an industry titan to foster an environment supportive of diversity.
+
+Timnit Gebru is known for her research into bias and inequality in AI, and in particular for a 2018 paper she coauthored with Joy Buolamwini that highlighted how poorly commercial facial-recognition software fared when attempting to classify women and people of color. Their work sparked widespread awareness of issues common in AI today, particularly when the technology is tasked with identifying anything about human beings.
+
+At Google, Gebru was the co-leader of the company's ethical AI team, and one of very few Black employees at the company overall (3.7% of Google's employees are Black according to the company's 2020 annual diversity report)— let alone in its AI division. The research scientist is also cofounder of the group Black in AI. On Wednesday night, Gebru tweeted that she had been "immediately fired" for an email she recently sent to Google's Brain Women and Allies internal mailing list.
+
+In later tweets , Gebru clarified that no one at Google explicitly told her that she was fired. Rather, she said Google would not meet a number of her conditions for returning and accepted her resignation immediately because it felt that her email reflected "behavior that is inconsistent with the expectations of a Google manager."
+
+In the email, which was first published by the newsletter Platformer on Thursday, Gebru wrote that she felt "constantly dehumanized" at Google and expressed dismay over the ongoing lack of diversity at the company.
+
+"Because there is zero accountability. There is no incentive to hire 39% women: your life gets worse when you start advocating for underrepresented people, you start making the other leaders upset when they don't want to give you good ratings during calibration. There is no way more documents or more conversations will achieve anything," she wrote.
+
+Gebru also expressed frustration over an internal process related to the review of a research paper she coauthored with others at Google and outside the company that had not yet been published.
+
+The research paper in question
+
+Gebru, who joined Google in late 2018, told CNN Business that the research paper in question was about the dangers of large language models — a growing trend in AI with the release of increasingly capable systems that can create impressively human-sounding text like recipes, poetry, and even news articles. This is also an area of AI that Google has shown it feels is key to its future in search
+
+Gebru said the paper had been submitted to the Conference on Fairness, Accountability, and Transparency , which will be held in March, and that there was nothing unusual about how the paper was submitted for internal review at Google. She said she wrote the email Tuesday evening after a long back and forth with Google AI leadership in which she was repeatedly told to retract the paper from consideration for presentation at the conference or remove her name from it.
+
+Gebru told CNN Business that on Wednesday she was informed that she no longer worked at the company. "It really didn't have to be like this at all," Gebru said.
+
+An email sent to Google Research employees
+
+A Google spokeswoman said the company had no comment.
+
+In an email sent to Google Research employees on Thursday that he posted publicly on Friday, Jeff Dean, Google's head of AI, told employees his perspective: that Gebru coauthored a paper but didn't give the company the required two weeks to review it before its deadline. The paper was reviewed internally, he wrote, but it "didn't meet our bar for publication."
+
+Dean added: "Unfortunately, this particular paper was only shared with a day's notice before its deadline — we require two weeks for this sort of review — and then instead of awaiting reviewer feedback, it was approved for submission and submitted."
+
+He said Gebru responded with demands that had to be met if she were to remain at Google. "Timnit wrote that if we didn't meet these demands, she would leave Google and work on an end date," Dean wrote.
+
+Gebru told CNN Business that her conditions included transparency about the way the paper was ordered to be retracted, as well as meetings with Dean and another AI executive at Google to talk about the treatment of researchers.
+
+"We accept and respect her decision to resign from Google," Dean wrote. He also explained some of the company's research and review process and said he will be speaking with Google's research teams, including those on the ethical AI team "so they know that we strongly support these important streams of research."
+
+A quick show of support
+
+Just after Gebru's initial tweet on Wednesday, coworkers and others quickly shared support for her online, including Margaret Mitchell, who had been Gebru's co-team leader at Google.
+
+"Today dawns a new horrible life-changing loss in a year of horrible life-changing losses," Mitchell tweeted on Thursday. "I can't well articulate the pain of losing @timnitgebru as my co-lead. I've been able to excel because of her — like so many others. I'm mostly in shock."
+
+"I have your back as you have always had mine," tweeted Buolamwini, who besides coauthoring on the 2018 paper with Gebru, is founder of the Algorithmic League. "You are brilliant and respected. You listen to those others readily ignore. You ask hard questions not to advance yourself but to uplift the communities we owe our foundations."
+
+Sherrilyn Ifill, president and director-counsel of the NAACP Legal Defense and Educational Fund, tweeted , "I have learned so much from her about AI bias. What a disaster."
+
+By midday Friday, a Medium post decrying her departure and demanding transparency about Google's decision regarding the research paper had gained the signatures of more than 1,300 Google employees and over 1,600 supporters within the academic and AI fields. Those sharing their support include numerous women who have fought inequality in the technology industry, such as Ellen Pao, CEO of Project Include and former CEO of Reddit; Ifeoma Ozoma, a former Google employee who founded Earthseed; and Meredith Whittaker, faculty director at the AI Now Institute and a core organizer of the 2018 Google Walkout, which protested sexual harassment and misconduct at the company. Others include Buolamwini, as well as Danielle Citron, a law professor who specializes in the study of online harassment at Boston University and a 2019 MacArthur Fellow.
+
+Citron told CNN Business that she sees Gebru as a "leading light" when it comes to exposing, clarifying, and studying racism and embedded inequities that are perpetuated in algorithmic systems. Gebru showed how important it is to rethink how data is collected, she said, and ask questions about whether we should even use these systems, she said.
+
+"WTF, Google?" she said. "Sorry, but you were so lucky she even came to work for you."

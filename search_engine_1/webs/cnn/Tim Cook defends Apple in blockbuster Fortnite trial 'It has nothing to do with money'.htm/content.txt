@@ -1,0 +1,35 @@
+San Francisco (CNN Business) In his first-ever court appearance as CEO of Apple, Tim Cook sought to defend the tech giant from allegations that it abuses its market power by touting it as a principled company with an obsessive focus on users.
+
+Apple's mission "is to make the best products in the world that really enrich people's lives," Cook said Friday morning under questioning from Apple's lawyer, noting the tens of billions of dollars of company investments in research, privacy and security. "We have a maniacal focus on the user," he added.
+
+The iPhone maker's chief executive took the stand to wrap up Apple's case in its high-profile antitrust trial with Epic Games. At the center of the lawsuit is Fortnite, the hugely popular video game made by Epic that was kicked out of Apple's App Store last summer for flouting Apple's rules on digital payments by establishing its own system.gets a 30% cut of many in-app purchases on iOS devices and does not allow alternative payment systems. Fortnite's removal from the App Store prompted Epic to sue Apple.
+
+Epic accuses Apple of exercising monopolistic control over its " walled garden " iOS operating system, alleging that app makers are forced into onerous restrictions if they want access to hundreds of millions of iPhone and iPad users. Apple argues there are several other places users can buy apps and that its commission helps the company make its devices better and more secure.
+
+Cook was grilled on Apple's claims at the end of his testimony by Judge Yvonne Gonzalez Rogers, who is expected to pronounce a verdict in the coming weeks.
+
+In a quickfire, somewhat tense exchange with the Apple CEO, Rogers asked why Apple couldn't give users a choice to get games and content cheaper than it is on the iPhone.
+
+"I think they have a choice today, they have a choice between many different Android models of smartphones or an iPhone," Cook said, referring to Google's Android smartphone operating system. "That iPhone has a set of principles behind it in safety, security and privacy," he added.
+
+He also defended Apple's rule that iPhone apps can't let users know that their products are available at a cheaper price elsewhere, saying in response to a question from Gonzalez Rogers that it would hurt Apple's return on its intellectual property.
+
+Though most of the apps on the App Store are free, Cook said, apps that pay Apple's commission benefit from the huge audience those free apps bring to the app store and also from the technical updates and support Apple provides to developers.
+
+"We've made a choice," he said. "There are clearly other ways to monetize, but we chose this one because this one overall is the best way."
+
+Cook was the last of several Apple executives to testify, with others including Craig Federighi, Apple's senior vice president of software engineering, and Phil Schiller, Apple Fellow and former longtime head of marketing, who each took the stand earlier this week. Epic Games CEO Tim Sweeney was the first witness in the trial , which has lasted nearly three weeks and is scheduled to wrap up on Monday.
+
+In his testimony, Cook hit on now-familiar themes that Apple's executives and lawyers have been employing throughout the trial, including that the company's products and services put privacy and security front and center and also compete with many others in the smartphone and app markets. (Cook mentioned Samsung and Google, as well as Chinese brands such as Oppo, Vivo and Huawei.)
+
+He also stressed the importance of Apple's process of reviewing apps, which the company has argued makes its devices safer.
+
+"You can imagine if we turned review off, how long it would take the App Store to just become a toxic kind of mess, and that would be terrible for the user," he said.
+
+Under cross examination by one of Epic's lawyers, citing internal financial documents, Cook was grilled extensively on Apple's claims that it does not break out profits for the App Store separately, as well as about the in-app payments at the core of the lawsuit that he said were simply a more "efficient" way to collect commissions from developers.
+
+Asked about the removal of Fortnite from the App Store and his reference to its actions as "malicious," Cook said the game would be welcomed back on Apple devices if it adheres to the guidelines.
+
+Apple is focused on doing what's best for users rather than any financial benefits, Cook said when asked by Epic's lawyer whether Apple is considering the revenue -- in excess of $100 million in commissions -- it receives from Epic and Fortnite.
+
+"The user is caught between two companies," he said. "It has nothing to do with money."

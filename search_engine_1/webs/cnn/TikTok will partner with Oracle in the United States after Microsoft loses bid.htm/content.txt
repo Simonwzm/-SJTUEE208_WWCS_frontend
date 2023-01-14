@@ -1,0 +1,63 @@
+Washington, D.C. / Hong Kong CNN Business —
+
+TikTok and Oracle will become business partners in the United States — a deal meant to satisfy the Trump administration’s national security concerns about the short-form video app, according to a person familiar with the matter.
+
+The news comes after weeks of speculation about the Chinese app’s future in the United States. President Donald Trump has demanded the app be sold, or else shut down in the United States.
+
+The exact nature of the agreement between TikTok and Oracle (ORCL) remains unclear, but it was not described as an outright sale. The news about Oracle (ORCL) came just after Microsoft announced that it will not buy TikTok’s US operations from ByteDance.
+
+In a statement, Oracle confirmed it is part of the proposal submitted by ByteDance to the Treasury Department in which it will serve as the “trusted technology provider.” ByteDance has not responded to a request for comment. TikTok declined to comment.
+
+A controversial app
+
+TikTok has exploded in popularity in the United States and other western countries, becoming the first Chinese social media platform to gain significant traction with users outside of its home country. It was downloaded 315 million times in the first three months of this year — more quarterly downloads than any other app in history, according to analytics company Sensor Tower.
+
+But Trump and other US politicians have said the app poses a threat to national security because it could be used as a spying tool by Beijing. Authorities have also expressed concern that it could be used to collect personal data on US citizens, or censor speech deemed to be sensitive by the Chinese government.
+
+TikTok has denied those allegations. The company has said its data centers are located entirely outside of China and that none of that data is subject to Chinese law.
+
+The agreement with Oracle comes days before a ban on TikTok in the United States was scheduled to go into effect. After September 20, the Commerce Department is expected to clarify which types of business dealings involving TikTok will be prohibited in the country, according to an executive order Trump signed August 6.
+
+It’s not clear whether TikTok’s partnership with Oracle would allow the short-form video app to avert that ban. The scope and language of the order, along with Trump’s own remarks about TikTok, have led to confusion about how a ban would be implemented. In another executive order, Trump said TikTok had until November 12 to find a buyer.
+
+Separately, a TikTok employee has challenged the looming ban in federal court and is seeking a judicial decision to suspend the August 6 executive order. A hearing to consider the plea is scheduled for Tuesday. TikTok has also sued the Trump administration over one of the orders, calling it “heavily politicized.”
+
+Structuring the deal
+
+Much about the exact nature of the agreement between TikTok and Oracle is still unknown. But experts have pointed to other partnerships between US and foreign companies that were vetted by authorities as potential templates.
+
+When the Japanese tech conglomerate SoftBank acquired a 78% stake in Sprint in 2013, the two firms agreed to several conditions to address national security concerns. A new member of Sprint’s board was appointed to oversee national security compliance. The US Defense, Homeland Security and Justice departments were also given the power to review and veto deals for certain kinds of equipment.
+
+The focus for ByteDance and Oracle will be on “oversight, transparency and how they structure it for Americans involved and the information they have on Americans,” said James Lewis, a senior vice president at the Center for Strategic and International Studies, a think tank based in Washington, D.C. Lewis was an adviser on the SoftBank-Sprint deal.
+
+He added that an “intermediary entity” could be created to examine ByteDance’s relationship with TikTok. The agreement could also involve limiting what information ByteDance has access to, or putting approved Americans on the company’s board.
+
+Even if a consensus is reached on how this partnership should be structured, the Oracle-TikTok agreement will still be incredibly complicated, according to Harry Broadman, partner at Berkeley Research Group and former member of the Committee on Foreign Investment in the United States, the government body that vets certain deals that could give a foreign investor control of a US business.
+
+Tensions between the United States and China are continuing to rise ahead of the US election in November. The US government has taken aim at several Chinese companies — from TikTok to Huawei and Tencent’s WeChat — that Trump has accused of threatening national security.
+
+“We’re in a different territory where national security issues, particularly with personal information, have risen to the fore,” Broadman said.
+
+Chinese state media on Monday pointedly reported that ByteDance would not sell TikTok’s US operations to Microsoft or Oracle. State broadcaster CGTN added that ByteDance would not “give the source code” to any US buyers, citing anonymous sources.
+
+It’s also not clear how much say Beijing will have in the arrangement. Last month the country revised rules that govern the sale of certain kinds of technology to foreign buyers. The updated list includes data processing, speech and text recognition — the kind of tech that experts say is used by TikTok.
+
+While those notices did not name TikTok or ByteDance, experts have pointed out that the rule change would likely require ByteDance to obtain government permission before it could sell TikTok to a foreign company.
+
+China’s Ministry of Foreign Affairs declined to comment about the Oracle partnership when asked by reporters at a regular press briefing on Monday, and instead reiterated longstanding criticisms about the US government’s campaign against TikTok.
+
+“Without any evidence and under the pretext of national security, they abuse state power and conduct unreasonable suppression and intimidation of non-US companies that have achieved a leading edge in a certain field,” spokesperson Wang Wenbin said. “We will firmly support relevant companies to safeguard own legitimate rights and interests.”
+
+A loss for Microsoft
+
+Oracle’s apparent victory is a blow to Microsoft, which had been gunning for TikTok for weeks. Multiple analysts had described Microsoft’s pursuit of TikTok as a potential “coup” — an opportunity to scoop up one of the world’s fastest growing social media platforms at a time when TikTok may be desperate to make a deal.
+
+“We are confident our proposal would have been good for TikTok’s users, while protecting national security interests,” Microsoft (MSFT) said in a blog post Sunday. “To do this, we would have made significant changes to ensure the service met the highest standards for security, privacy, online safety, and combatting disinformation, and we made these principles clear in our August statement.”
+
+Walmart had also been participating in negotiations with Microsoft over a potential deal. The retailer had said it was interested in how TikTok could have bolstered its access to consumers.
+
+Walmart on Sunday told CNN Business that it “continues to have an interest in a TikTok investment and continues discussions with ByteDance leadership and other interested parties.”
+
+“We know that any approved deal must satisfy all regulatory and national security concerns,” the company said in a statement.
+
+– Clare Duffy, Rob McLean, Donie O’Sullivan and Sherisse Pham contributed to this report.

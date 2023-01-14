@@ -1,0 +1,27 @@
+New York (CNN Business) Countless websites and apps around the world went down for about an hour Tuesday after Fastly, a major content delivery network, reported a widespread failure.
+
+The problem was caused by an outage at, a cloud service provider. The company said on its service status website (which was working) Tuesday morning it had identified the problem and fixed the issue. Service for sites and apps started to be restored around 7 a.m. ET, although Fastly said some customers may experience longer load times as a residual effect of the problem.
+
+The outage affected dozens of countries across the Americas, Europe and Asia, as well as South Africa. Fastly said it had identified a service configuration that triggered disruptions across its servers. The company has disabled that configuration.
+
+Essentially, Fastly took down its own network with a bad software update — a rare but not unheard of goof that has temporarily brought down parts of even larger online platforms, includingand, in the past.
+
+"The problem with the internet is it's always there until it isn't," said David Vaskevitch, CEO of photo app Mylio and former Microsoft chief technical officer. "For a system with so many interconnected parts, it's not always reliable. Any one fragile part can bring it down."
+
+What is Fastly?
+
+Fastly helps improve load times for websites and provides other services to internet sites, apps and platforms — including a large global server network designed to smooth out traffic overloads that can crash websites, such as a denial-of-service attack. The service accomplishes that by storing content and aspects of websites and apps on servers that are physically closer to the users trying to access a particular site or platform.
+
+But because Fastly provides a layer of support between internet companies and customers trying to access the various online platforms it services, when it goes down, access to those platforms can be blocked entirely.
+
+When Fastly went down, it went down hard: Three-quarters of the traffic coming from Fastly disappeared at around 5:49 am ET, according to Doug Madory, director of internet analysis for Kentik, a cloud company that provides large companies with internet transmission records. Traffic began returning at about 6:39 am ET.
+
+Why did Fastly's outage take the internet down, too?
+
+Companies that operate on the internet can switch content delivery networks — and some appeared able to bypass Fastly's outage Tuesday morning. But that's not always an easy or quick proposition.
+
+Major website and app outages happen from time to time and typically don't last long — internet service providers, content delivery networks and other hosting services are built with multiple redundancies and a global network of backup servers designed to reduce disruptions when things go haywire.
+
+In August 2020, CenturyLink, an internet service provider that is supposed to keep websites up and running, was down itself for the better part of a day . That meant Cloudflare, Hulu, the PlayStation Network, Xbox Live, Feedly, Discord, and dozens of other services reported connectivity problems. When Cloudflare — a content delivery network like Fastly — went down, it took dozens of website and online services along with it.
+
+"There is no error-free internet, so the measure of success is how quickly a major internet firm like Fastly can recover from a rare outage like this," Madory said. "In this case, it was under an hour."

@@ -1,0 +1,29 @@
+CNN —
+
+On a recent fall day at MIT, a group of players kicked around a soccer ball on the school’s Killian Court lawn. They ran around and jumped in piles of leaves. They even did backflips.
+
+But these weren’t students, they were cheetahs. Mini cheetahs, actually. Oh, and they’re robots.
+
+MIT’s Biomimetic Robotics Labratory, which sits across the lawn from the school’s iconic main building, created these so-called mini cheetahs, four-legged robots that are powered by 12 motors.
+
+They can run around untethered from cables, steered by nearby researchers using an RC-like controller. With the same basic dimensions of a Boston terrier and movements similar to that dog’s energetic, scampering gait, the silver robots are strikingly adorable.
+
+“My hobby was watching cheetah videos on YouTube,” said MIT Associate Professor of Mechanical Engineering Sangbae Kim. Inspired by the beauty of the world’s fastest animal, Kim challenged two of his graduate students, Ben Katz and Jared Di Carlo, to create a robot that can move as gracefully as the spotted African feline.
+
+Ten years later, the team has created three versions of a larger cheetah robot in addition to the mini cheetah.
+
+Unlike actual cheetahs, which have a top speed of up to 75 miles per hour, the robotic mini cheetah’ can run only about around 9 miles per hour. But both have what Kim calls “physical intelligence.”
+
+“People don’t realize how difficult it is to stay balanced,” he explained. To keep itself upright, the mini cheetah has to make more 30 decisions per second, Kim said. That versatility, and resilience if it falls, are what make this robot special–and very good at backflips.
+
+Teaching a robot how to jump in the air while turning 360 degrees wasn’t the hard part. Backflipping “is not actually more difficult than running, it’s actually easier,” Kim said. The real challenge was in the landing. After all, “if you cannot land, you cannot jump,” he added.
+
+The robotics team is constantly creating new algorithms to teach the mini cheetah new skills. That’s why they recently built 10 more the robots and plan to send them to other university laboratories.
+
+Working with the same hardware, the researchers will be able to share information and develop algorithms more quickly, Kim said. One particular skill they’re working on: climbing stairs. It’s a key advantage that a four-legged robot has over one that moves on wheels or tracks.
+
+Kim said that robots like the mini cheetah could one day help with deliveries, elder care or emergency response, “anything that requires a human being to travel a distance and then do a specific physical action.”
+
+But for now, He and his team are focused on adding skills to the mini cheetah. They’re considering adding cameras so the robots could navigate through space without someone operating them.
+
+His ultimate goal, he said, is for the cheetah robots to “achieve the same level of mobility as animals… as good as a dog following you around.”

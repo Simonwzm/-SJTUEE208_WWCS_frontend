@@ -1,0 +1,87 @@
+Hong Kong (CNN Business) China has cut its global tech champions down to size, cracking down on antitrust abuses and undue risk taking. But the heavy-handed approach could backfire on Beijing by stifling an entrepreneurial spirit that has proven vital to the country's rapid economic rise.
+
+Several tech companies have been investigated in the past few months over alleged monopolistic behavior or other breaches of consumer rights. The ongoing probe — which President Xi Jinping has personally endorsed as necessary to maintain "social stability" — has led to record fines for some tech titans and massive overhauls for others. More than $600 billion has been wiped off the value of the biggest tech stocks in recent months.
+
+A couple of China's most successful entrepreneurs have quit high-level positions amid the turmoil. Zhang Yiming, the founder of TikTok owner ByteDance, recently announced he would step down as CEO at just 38 years old to take a less prominent role in the company. And Colin Huang, 41, said in March that he would resign as chairman of, an upstart e-commerce company that competes with the likes of Alibaba. Meanwhile,co-founder Jack Ma — China's most famous tech entrepreneur — has largely dropped out of public view.
+
+Zhang and Huang both said they were departing to try new things, and neither referenced the government's focus on the tech sector in their announcements. Zhang's decision to step down was not related to regulatory moves in China, a ByteDance spokesperson said. Pinduoduo referred CNN Business to Huang's public comments.
+
+But it's hard to separate their exits from the widening government clampdown on technology.
+
+"The atmosphere hovering over China's tech landscape has grown increasingly toxic," said Alex Capri, a research fellow at Hinrich Foundation and a visiting senior fellow at National University of Singapore. He cited Zhang's move as "proof that fear trumps ambition if the threat of public humiliation or some worse form of punishment awaits those who challenge the system."
+
+But challenging the system is essential to the private enterprise that played a key role in China's transition from a poor country to one of the world's greatest economic and tech forces over the past few decades. Losing that dynamic would not only risk undermining some of those achievements, it could also make it much harder for China to meet its ambitious goals to lead the world in the technologies of the future.
+
+A state-driven economy
+
+Wary tech executives need look no further than Beijing's public humiliation of Ma. The flamboyant and outspoken entrepreneur all but disappeared after he criticized China's state-controlled banking system last fall for having a "pawn shop mentality," and accused the government of using stodgy and outdated means to regulate a modern financial system.
+
+— he has reportedly been forced to retreat from It's not just Ma's private reputation on the line. The businesses he built have suffered too. Beijing prevented Ant Group, Alibaba's financial affiliate, from going public, before forcing it to restructure and placing it under heavy regulation. Alibaba was slapped with a record fine in April over antitrust issues. Ma's legacy is under attack elsewhere— he has reportedly been forced to retreat from an elite business school that he founded
+
+"Part of the crackdown on internet tech companies is motivated by the desire to reduce financial risk, as in curtailing the lending activities of Ant," said Nicholas Lardy, a senior fellow at the Peterson Institute for International Economics (PIIE) who studies China's economy. Ant held about 2.15 trillion yuan ($333 billion) worth of consumer and small business loans this time last year.
+
+But another reason "may be due to Xi's desire to cut down alternative sources of power that could ultimately challenge the dominance of the [ruling Chinese Communist Party]," Lardy added.
+
+Beijing's desire to exert heavier control over private enterprise comes from the government's faith that a state-managed planned economy is more effective than one that relies on a free market approach, and more importantly, more likely to allow the Party to preserve its power.
+
+"The leaders of the tech firms that have become too powerful for the comfort of Xi and the Communist Party are put under pressure, as the monopoly of power across the board by the Party cannot be allowed to be challenged," said Steve Tsang, director of the SOAS China Institute at SOAS University of London. "Hence, they individually take actions to reassure the Party and Xi that they will not do so, by handing over the corporate leadership to protégés."
+
+People wear protective masks as they walk across a bridge over the Liangma river on May 24 in Beijing, China.
+
+An unstable balance of power
+
+China's internet companies aren't necessarily trying to rock the boat. Alibaba has worked extensively with the government on its Rural Taobao initiative, a program aimed at reducing poverty among farmers by helping them sell goods directly to urban consumers online. The company also developed a government-sponsored app — Xuexi Qiangguo — that teaches Xi's political philosophies.
+
+"All of the big Chinese tech giants — in spite of their private nature — have cultivated a proximity to the government that presumably created the idea of balanced power relations," said Sonja Opper, a professor at Bocconi University in Italy who studies China's economy and its institutional transition to the private sector.
+
+Tencent TCTZF Baidu BIDU NetEase NTES Tech entrepreneurs are also widely represented in Party circles.founder and CEO Pony Ma and Xiaomi founder and CEO Lei Jun both serve as members of the National People's Congress — China's rubber-stamp parliament.founder and CEO Robin Li andfounder and CEO William Ding are members of the Chinese People's Political Consultative Conference, the country's top political advisory body. Jack Ma is a Communist Party member
+
+"The Party groomed rock-star like celebrities, [and] they were co-opted by making them members of the National People's Congress," Opper said, adding that tech entrepreneurs "certainly began to feel safe, because of their economic power and global visibility."
+
+"They began to raise a critical voice and began to look like people who can challenge current thinking," she said. "What we see now is how unstable this balance was, and that control remains the government's key interest."
+
+A risky strategy
+
+Beijing's strategy is inherently risky.
+
+SoftBank SFTBF Naspers NAPRF China's long economic miracle and rapid ascent as a leader in tech has its roots in Beijing's farsighted decision in the late 1970s to give up some control over the economy and adopt a free market approach in many sectors. China's tech industry, for example, was free to raise capital oversees. Early bets by Japan's(Alibaba) and South Africa's(Tencent) about 20 years ago paid off handsomely all round.
+
+Restoring a high degree of state control may curtail the freedom that these private companies have to innovate and keep up with major global competitors.
+
+Investors may lose the incentive to pour money into private Chinese firms if they are worried about "unwanted government interference," Opper said, especially since some tech projects often take a long time to develop. And there's evidence that may already be happening.
+
+JD.com JD Alibaba has lost more than $240 billion in market capitalization since Ant Group's IPO was pulled in November. Tencent has seen $173 billion in market value evaporate since a peak in January. E-commerce firms Pinduoduo,, and food delivery giant Meituan, meanwhile, have lost a combined $231 billion since February peaks.
+
+China's policymakers don't want to eliminate the private sector — it contributes nearly two thirds of the country's GDP and employs 80% of the workers. But it's very clear that Xi wants the state sector to lead, with private companies playing a supportive role.
+
+"It's a paradox," said Lardy from the PIIE. "Xi wants the state to play a greater role. That's very clear from all the things he said from the last 10 years. He wants the government to play a bigger role to get things going faster."
+
+But for Xi to achieve his ambitions of turning China into an innovation leader by 2035 and a global tech superpower by 2050, he'll need to rely more on private firms than he expects.
+
+The Chinese leader has increasingly stressed the need for China to shed its reliance on the West for technology over the past couple of years, especially as Washington curbs the ability for Chinese companies to access US tech . But the firms driving innovation and development in China aren't state-owned companies. Rather, private firms are leading the way: Huawei and Alibaba, for example, accounted for more spending on research and development than any other Chinese company last year, according to the China Enterprise Confederation.
+
+"Looking back, there is a reason why China's tech giants were able to develop," Opper said. "They had a degree of freedom that allowed [them] to unleash productivity and innovation not seen in any state-owned enterprises in China."
+
+Alibaba's co-founder Jack Ma (R) looks at Tencent Holdings' CEO Pony Ma during a celebration meeting marking the 40th anniversary of China's "reform and opening up" policy at the Great Hall of the People in Beijing on December 18, 2018.
+
+Overly confident
+
+That doesn't seem to be a lesson that China's policymakers want to heed right now.
+
+The Covid-19 pandemic has convinced China that a largely planned economy with strict regulation of many aspects of life is the best approach to running the nation. The country last year implemented some of the strictest measures worldwide to contain the virus. In turn, it emerged as the only major economy to avert recession, outperforming its Western peers.
+
+"This is an important way for us to achieve our cause." "Our greatest advantage is that the socialist system can enable us to concentrate resources to accomplish large undertakings," Xi was cited as saying in an editorial by the People's Daily , the Communist Party's mouthpiece, earlier this year."This is an important way for us to achieve our cause."
+
+The editorial cited China's alleged victory in its years-long campaign of " eliminating extreme poverty" in 2020 — by lifting all of its people above its set poverty line of 4,000 yuan, or $626, per year — as an example, writing: "Our Party and our country are the only ones in the world who can accomplish this, which fully demonstrates our political system's and institutional advantages."
+
+But skeptics warn Beijing might be overconfident in its top-down economic strategy.
+
+"It is a strategy that prioritizes short-term goals of political control over medium-term growth and development objectives," Opper said. "State-owned enterprises will not be able to fill the gap given weaker profit incentives and tighter control structures."
+
+State-owned enterprises, despite being important tools for the Party's control, are notorious for their inefficiency — both in allocating resources and competing with private firms. They contribute much less to overall employment than private firms, and they account for as much as 70% of the corporate debt in China outside of the financial sector. That poses a threat to financial stability and economic growth.
+
+Nonetheless, it's clear that Xi favors promoting the state sector and having such enterprises take the lead.
+
+During a previous crackdown in 2017, this time against high-flying financial tycoons, Xi talked openly about the importance of the Communist Party as the heart of everything in China, including an economic policy focused on advancing the state sector.
+
+"Xi is taking China down a path more risky than the alternative," said Tsang from SOAS.

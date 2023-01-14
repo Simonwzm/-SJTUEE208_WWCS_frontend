@@ -1,0 +1,9 @@
+New York (CNN Business) IBM said Friday that it will sell off the healthcare data and analytics assets housed under its Watson Health unit to private equity firm Francisco Partners.
+
+IBM IBM The deal signals that IT giantis stepping back from its ambitions in the healthcare space as it focuses on building hybrid cloud computing capabilities, an effort that has accelerated since Arvind Krishna took over the CEO position in 2020
+
+IBM stood up Watson Health as a separate business unit in 2015 with the goal of using data to help doctors, researchers and insurers solve some of healthcare's biggest problems. The company invested in a series of deals to acquire healthcare data, and took on challenges ranging from improving diabetes care to overhauling cancer treatment.
+
+But the bold bet didn't pan out. The Wall Street Journal reported nearly a year ago that Watson Health generated around $1 billion in annual revenue and no profit, and that IBM was considering selling the business.
+
+Google GOOGL GOOGLE Microsoft MSFT Oracle ORCL The healthcare tech space has also become increasingly competitive.in 2019 confirmed a partnership with Ascension, one of the nation's largest nonprofit health systems, to collect and analyze patient health data. Last April, spent $16 billion to buy healthcare AI developer Nuance to pair with its Microsoft Cloud for Healthcare business. And last month,said it would acquire healthcare software firm Cerner for $28.3 billion.

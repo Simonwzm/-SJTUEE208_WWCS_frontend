@@ -1,0 +1,9 @@
+(CNN Business) Wednesday morning, Slack rolled out a feature to let its users message people at other companies. By Wednesday afternoon, it was walking the feature back and making changes to prevent harassment after people pointed out that it could be used to send unsolicited DMs and perhaps even abusive emails.
+
+The feature is part of Slack Connected, a tool rolled out last year that is "designed to replace email outside your company," Slack said in an initial blog post Wednesday morning.
+
+"After rolling out Slack Connect DMs this morning, we received valuable feedback from our users about how email invitations to use the feature could potentially be used to send abusive or harassing messages," Jonathan Price, Slack's VP of Communications and Policy, told CNN Business in a statement. "We are taking immediate steps to prevent this kind of abuse, beginning today with the removal of the ability to customize a message when a user invites someone."
+
+At a virtual event hosted by Slack on Wednesday on how to "reinvent work," the company's CEO, Stewart Butterfield, touted the new DM feature as a way for employers to have more oversight over their employees' conversations with the outside world.
+
+"People inside your companies ... routinely message with people outside, whether those are customers or partners and vendors and so on," Butterfield said. "We want to make it as easy as possible, and in the best case, as delightful as possible, for two people to use Slack Connect for that to give you a lot more control and a lot more insight into how that communication is happening."

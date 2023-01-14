@@ -1,0 +1,11 @@
+New York (CNN Business) Slack had a case of the Mondays. The company said it was having performance issues much of the day on Monday — potentially causing trouble for the many companies that rely on the workplace communication tool to keep remote teams running.
+
+Slack WORK The company noted around 10 am ET that some users might be experiencing slowness with the Slack's desktop, mobile and browser applications. It said the issue was causing delays in some messages and calls. About two hours later,said some users may be unable to connect to the service, while others are still experiencing "general performance issues," adding that the company is "continuing to dig in on our side" and will provide updates.
+
+It later said some users may be unable to connect, and the search function was also affected. Just after 2 pm ET, the company added that it continues to "see improvement, but some users may still be experiencing delays," and that it would continue providing updates.
+
+At around 5:30 pm ET, the company said all users should be able to access Slack but could still encounter features not working correctly, such as files failing to upload.
+
+Microsoft MSFT With millions of people unable to work in their offices, Slack and rivalTeams have become crucial communications tools to keep many businesses up and running during the pandemic. Slack has more than 12 million daily active users, including many major tech companies and news organizations.
+
+Read More

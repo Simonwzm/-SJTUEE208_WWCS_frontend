@@ -1,0 +1,37 @@
+New York (CNN Business) The Federal Trade Commission on Wednesday moved to block Facebook-parent Meta from acquiring virtual reality company Within, offering the clearest signal yet that the agency could take a tougher stance on Silicon Valley deals involving newer technologies.
+
+In a complaint filed Wednesday in federal court, the FTC said Meta has the resources to build its own VR apps similar to those made by Within, the company behind virtual fitness program Supernatural. Instead, the FTC claims,is trying to buy the upstart company, which would "[dampen] future innovation and competitive rivalry."
+
+The agency, which is responsible for enforcing US antitrust laws, accused the tech giant of illegally attempting to expand its "virtual reality empire."
+
+Meta has bet its future on virtual and augmented reality technologies , and the lawsuit comes as the company seeks to build out use cases for its VR headsets . Supernatural is among the most popular apps on Meta's headset, in some cases turning users on to the idea of exercising in VR for the first time.
+
+"Instead of competing on the merits, Meta is trying to buy its way to the top," FTC Bureau of Competition Deputy Director John Newman said in a statement Wednesday. "This is an illegal acquisition, and we will pursue all appropriate relief."
+
+Meta spokesperson Stephen Peters said in a statement that the FTC's case is "based on ideology and speculation, not evidence."
+
+"The idea that this acquisition would lead to anticompetitive outcomes in a dynamic space with as much entry and growth as online and connected fitness is simply not credible," Peters said in the statement. "By attacking this deal in a 3-2 vote, the FTC is sending a chilling message to anyone who wishes to innovate in VR. We are confident that our acquisition of Within will be good for people, developers and the VR space."
+
+The FTC alleged in its complaint that the deal would reduce Meta's incentive to develop its own competitor to Supernatural, or to add new features to Beat Saber, a Meta-owned VR app that the FTC claimed occupies a similar space as a fitness app. Meta, in a blog post responding to the complaint, said Supernatural is not comparable to Beat Saber and thus the deal poses no competitive harm.
+
+"Beat Saber and Supernatural are fundamentally different products with different user bases, different use cases and different competitive dynamics," Meta said in the blog post. "And this is not just our take -- Within's leadership team strongly believes its competitors are the Pelotons and other established fitness brands of the world, not Beat Saber or other casual VR games."
+
+Meta is currently battling another FTC antitrust lawsuit that is seeking to break up the tech giant, centering on its years-old acquisitions of Instagram and WhatsApp. The FTC's action also comes as lawmakers consider legislation that could rein in the power of dominant big tech companies, including Meta.
+
+Meta, then known as Facebook, got its start in VR when it acquired headset maker Oculus in 2014. More recently, it has made a slew of VR-related acquisitions, including game development platform Unit 2 Games and Beat Games, the developer behind Beat Saber. Meta announced its planned acquisition of Within for an undisclosed sum in October 2021.
+
+Within, a six-year-old VR app developer, released Supernatural in April 2020. Unlike a number of other VR apps, it requires a subscription; rather than simply paying a one-time fee for the app, users must pay $19 per month or $180 per year to keep working out in virtual space.
+
+In its complaint, the FTC claims that Meta already controls "the top-selling device, a leading app store, seven of the most successful developers, and one of the best-selling apps of all time" in the VR space. The agency pointed to a publicly-reported email Zuckerberg sent to Meta executives in which he is said to have told them it is "critical for the company to also be 'completely ubiquitous in killer apps,'" referring to apps that will prove the underlying value of new technologies.
+
+The FTC also notes that Meta already competes in some ways with Supernatural with the Beat Saber app, adding that "the two companies currently spur each other to keep adding new features and attract more users, competitive rivalry that would be lost if this acquisition were allowed to proceed."
+
+The FTC's main argument in the complaint — that the deal would reduce competition by eliminating a competitor — reflects decades of established antitrust thinking, said Charlotte Slaiman, competition policy director at the consumer group Public Knowledge and a former FTC antitrust official.
+
+"Under today's law, that's usually the strongest legal argument," Slaiman said. "But I think they are also taking seriously the role of these particular games as a 'killer app' for winning the broader metaverse."
+
+The complaint plainly recognizes Meta's potential to dominate the virtual reality space, Slaiman added. "It's really refreshing to see the FTC is not 'waiting to see what happens' in VR."
+
+Slaiman also said the timing of the FTC's complaint could renew pressure on Congress to pass a tech-focused antitrust bill that erects new barriers between tech giants' various lines of business.
+
+That bill, the American Innovation and Choice Online Act, is awaiting a Senate floor vote, but Senate Majority Leader Chuck Schumer has not put the legislation on the agenda and proponents face a shrinking window of time before Congress breaks for summer recess.

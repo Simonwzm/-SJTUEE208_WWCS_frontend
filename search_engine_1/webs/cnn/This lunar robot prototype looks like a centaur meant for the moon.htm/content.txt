@@ -1,0 +1,17 @@
+New York (CNN Business) A Japanese company has built a four-legged, rolling robot that looks vaguely like a centaur — boasting two arms with claw-like hands, an arachnid-esque abdomen and two bulging cameras for eyes — and is designed to transverse the surface of the moon.
+
+The robot, called the R1, was designed and built by GITAI in partnership with the Japanese space agency, JAXA. A recent test run , carried out at a JAXA facility that mimics lunar dirt, shows the robot roving around the bumpy terrain on its four wheels, unpacking a series of parts using clamp-like hands and cinching together the base structure for a solar panel.
+
+The R1 is one of several robots that GITAI has developed for various purposes. The company's goal is to take its tech to the actual lunar surface sometime in the mid-2020s, according to its website
+
+The robot also ran through a few additional exercises meant to test how well it can traverse bumpy terrain, hills and potentially collect a lunar regolith sample. The footage, which is sped up to 15x normal speed — giving the video the quality of a stop-motion horror flick — shows the robot using its pincher hands to pick up a small scoop and a clear jar and jerkily harvest a small amount of simulated moon dust.
+
+Using robots in space is nothing new. The International Space Station has hosted an astronaut companion robot and it has robotic arms, including one built by Japan . And NASA has put several robotic rovers on Mars . But none have had the same vaguely anthropomorphic qualities as the R1.
+
+GITAI's robot is part of an ongoing race to develop new means of completing tasks, such as mining or manufacturing, in space, as China and Russia as well as the United States and its partners race to make a permanent lunar outpost. Such an outpost could host all sorts of business activities and scientific missions. A host of US-based companies are also working to develop various robots, rovers and lunar landers for future missions.
+
+JAXA, a close US partner in all things space exploration, has taken a similar tack to NASA in giving out contracts to companies, hoping competition and privatization will spur the development of cutting-edge space tech.
+
+"Our goal is to achieve success in the commercialization of space robotics and thereby reduce the cost of space labor to a one-hundredth," Sho Nakanose, CEO of GITAI, said in a statement . "We believe our success will contribute to true space commercialization."
+
+The company has several other robot models, each designed to operate in space.

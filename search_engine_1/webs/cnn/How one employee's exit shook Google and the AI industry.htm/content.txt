@@ -1,0 +1,129 @@
+(CNN Business) In September, Timnit Gebru, then co-leader of the ethical AI team at Google, sent a private message on Twitter to Emily Bender, a computational linguistics professor at the University of Washington.
+
+"Hi Emily, I'm wondering if you've written something regarding ethical considerations of large language models or something you could recommend from others?" she asked, referring to a buzzy kind of artificial intelligence software trained on text from an enormous number of webpages.
+
+The question may sound unassuming but it touched on something central to the future of Google's foundational product: search. This kind of AI has become increasingly capable and popular in the last couple years, driven largely by language models from Google and research lab OpenAI. Such AI can generate text, mimicking everything from news articles and recipes to poetry, and it has quickly become key to Google Search, which the company said responds to trillions of queries each year. In late 2019, the company started relying on such AI to help answer one in 10 English-language queries from US users; nearly a year later, the company said it was handling nearly all English queries and is also being used to answer queries in dozens of other languages.
+
+"Sorry, I haven't!" Bender quickly replied to Gebru, according to messages viewed by CNN Business. But Bender, who at the time mostly knew Gebru from her presence on Twitter, was intrigued by the question. Within minutes she fired back several ideas about the ethical implications of such state-of-the-art AI models, including the "Carbon cost of creating the damn things" and "AI hype/people claiming it's understanding when it isn't," and cited some relevant academic papers.
+
+Gebru, a prominent Black woman in AI — a field that's largely White and male — is known for her research into bias and inequality in AI. It's a relatively new area of study that explores how the technology, which is made by humans, soaks up our biases. The research scientist is also cofounder of Black in AI, a group focused on getting more Black people into the field. She responded to Bender that she was trying to get Google to consider the ethical implications of large language models.
+
+Bender suggested co-authoring an academic paper looking at these AI models and related ethical pitfalls. Within two days, Bender sent Gebru an outline for a paper. A month later, the women had written that paper (helped by other coauthors, including Gebru's co-team leader at Google, Margaret Mitchell) and submitted it to the ACM Conference on Fairness, Accountability, and Transparency , or FAccT. The paper's title was "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" and it included a tiny parrot emoji after the question mark. (The phrase "stochastic parrots" refers to the idea that these enormous AI models are pulling together words without truly understanding what they mean, similar to how a parrot learns to repeat things it hears.)
+
+The paper considers the risks of building ever-larger AI language models trained on huge swaths of the internet, such as the environmental costs and the perpetuation of biases, as well as what can be done to diminish those risks. It turned out to be a much bigger deal than Gebru or Bender could have anticipated.
+
+Timnit Gebru said she was fired by Google after criticizing its approach to minority hiring and the biases built into today's artificial intelligence systems.
+
+Before they were even notified in December about whether it had been accepted by the conference, Gebru abruptly left Google. On Wednesday, December 2, she tweeted that she had been "immediately fired" for an email she sent to an internal mailing list . In the email she expressed dismay over the ongoing lack of diversity at the company and frustration over an internal process related to the review of that not-yet-public research paper. (Google said it had accepted Gebru's resignation over a list of demands she had sent via email that needed to be met for her to continue working at the company.)
+
+Academics should be able to critique these companies without repercussion. Timnit Gebru, former co-leader of Google's ethical AI team
+
+But her ousting, and the fallout from it, reignites concerns about an issue with implications beyond Google: how tech companies attempt to police themselves. With very few laws regulating AI in the United States, companies and academic institutions often make their own rules about what is and isn't okay when developing increasingly powerful software. Ethical AI teams, such as the one Gebru co-led at Google, can help with that accountability. But the crisis at Google shows the tensions that can arise when academic research is conducted within a company whose future depends on the same technology that's under examination.
+
+"Academics should be able to critique these companies without repercussion," Gebru told CNN Business.
+
+Google declined to make anyone available to interview for this piece. In a statement, Google said it has hundreds of people working on responsible AI, and has produced more than 200 publications related to building responsible AI in the past year. "This research is incredibly important and we're continuing to expand our work in this area in keeping with our AI Principles," a company spokesperson said.
+
+"A constant battle from day one"
+
+Gebru joined Google in September 2018, at Mitchell's urging, as the co-leader of the Ethical AI team. According to those who have worked on it, the team was a small, diverse group of about a dozen employees including research and social scientists and software engineers — and it was initially brought together by Mitchell about three years ago. It researches the ethical repercussions of AI and advises the company on AI policies and products.
+
+Gebru, who earned her doctorate degree in computer vision at Stanford and held a postdoctoral position at Microsoft Research, said she was initially unsure about joining the company. Gebru said she didn't see many vocal, opinionated women, which she had seen at Microsoft, and a number of women warned her about sexism and harassment they faced at Google. (The company, which has faced public criticism from its employees over its handling of sexual harassment and discrimination in the workplace, has previously pledged to "build a more equitable and respectful workplace.")
+
+She was eventually convinced by Mitchell's efforts to build a diverse team.
+
+During the following two years, Gebru said, the team worked on numerous projects aimed at laying a foundation for how people do research and build products at Google, such as through the development of model cards that are meant to make AI models more transparent. It also worked with other groups at Google to consider ethical issues that might arise in data collection or the development of new products. Gebru pointed out that Alex Hanna, a senior research scientist at Google, was instrumental in figuring out guidelines for when researchers might want to (or not want to) annotate gender in dataset. (Doing so could, for instance, be helpful, or it could perpetuate biases or stereotypes.)
+
+"I felt like our group was like a family," Gebru said.
+
+Yet Gebru also described working at Google as "a constant battle, from day one." If she complained about something, for instance, she said she would be told she was "difficult." She recounted one incident where she was told, via email, that she was not being productive and was making demands because she declined an invitation for a meeting that was to be held the next day. Though Gebru does not have documentation of such incidents, Hanna said she heard a number of similar stories like this from Gebru and Mitchell.
+
+"The outside world sees us much more as experts, really respects us a lot more than anyone at Google," Gebru said. "It was such a shock when I arrived there to see that."
+
+Margaret Mitchell brought together the Ethical AI team at Google and later described Gebru's departure as a "horrible life-changing loss in a year of horrible life-changing losses."
+
+"Constantly dehumanized"
+
+Internal conflict came to a head in early December. Gebru said she had a long back-and-forth with Google AI leadership in which she was repeatedly told to retract the "stochastic parrots" paper from consideration for presentation at the FAccT conference, or remove her name from it.
+
+On the evening of Tuesday, December 1, she sent an email to Google's Brain Women and Allies mailing list, expressing frustration about the company's internal review process and its treatment of her, as well as dismay over the ongoing lack of diversity at the company.
+
+"Have you ever heard of someone getting 'feedback' on a paper through a privileged and confidential document to HR? Does that sound like a standard procedure to you or does it just happen to people like me who are constantly dehumanized?" she wrote in the email, which was first reported by the website Platformer. (Gebru confirmed the authenticity of the email to CNN Business.)
+
+She also wrote that the paper was sent to more than 30 researchers for feedback, which Bender, the professor, confirmed to CNN Business in an interview. This was done because the authors figured their work was "likely to ruffle some feathers" in the AI community, as it went against the grain of the current main direction of the field, Bender said. This feedback was solicited from a range of people, including many whose feathers they expected would be ruffled — and incorporated into the paper.
+
+"We had no idea it was going to turn into what it has turned into," Bender said.
+
+The next day, Wednesday, December 2, Gebru learned she was no longer a Google employee.
+
+Emily Bender, a computational linguistics professor, suggested co-authoring an academic paper with Gebru looking at these AI models and related ethical pitfalls after the two messaged each other on Twitter. "We had no idea it was going to turn into what it has turned into," she said.
+
+In an email sent to Google Research employees and posted publicly a day later, Jeff Dean, Google's head of AI, told employees that the company wasn't given the required two weeks to review the paper before its deadline. The paper was reviewed internally, he wrote, but it "didn't meet our bar for publication."
+
+"It ignored too much relevant research — for example, it talked about the environmental impact of large models, but disregarded subsequent research showing much greater efficiencies. Similarly, it raised concerns about bias in language models, but didn't take into account recent research to mitigate these issues," he wrote.
+
+Gebru said there was nothing unusual about how the paper was submitted for internal review at Google. She disputed Dean's claim that the two-week window is a requirement at the company and noted her team did an analysis which found the majority of 140 recent research papers were submitted and approved within one day or less. Since she started at the company, she's been listed as a coauthor on numerous publications
+
+Uncomfortable taking her name off the paper and wanting transparency, Gebru wrote an email that the company soon used to seal her fate. Dean said Gebru's email included demands that had to be met if she were to remain at Google. "Timnit wrote that if we didn't meet these demands, she would leave Google and work on an end date," Dean wrote.
+
+She told CNN Business that her conditions included transparency about the way the paper was ordered to be retracted, as well as meetings with Dean and another AI executive at Google to talk about the treatment of researchers.
+
+"We accept and respect her decision to resign from Google," Dean wrote in his note.
+
+Outrage in AI
+
+Gebru's exit from the tech giant immediately sparked outrage within her small team, in the company at large, and in the AI and tech industries. Coworkers and others quickly shared support for her online, including Mitchell, who called it a "horrible life-changing loss in a year of horrible life-changing losses."
+
+Medium post decrying Gebru's departure and demanding transparency about Google's decision regarding the research paper quickly gained the signatures of more than 1,300 Google employees and more than 1,600 supporters within the academic and AI fields. As of the second week of March, its number of supporters had swelled to nearly 2,700 Google employees and over 4,300 others.
+
+Google tried to quell the controversy and the swell of emotions that came with it, with Google's CEO promising an investigation into what happened. Employees in the ethical AI group responded by sending their own list of demands in a letter to Pichai, including an apology from Dean and another manager for how Gebru was treated, and for the company to offer Gebru a new, higher-level position at Google.
+
+Behind the scenes, tensions only grew.
+
+Mitchell told CNN Business she was put on administrative leave in January and had her email access blocked then. And Hanna said the company conducted an investigation during which it scheduled interviews with various AI ethics team members, with little to no notice.
+
+"They were frankly interrogation sessions, from how Meg [Mitchell] described it and how other team members described it," Hanna, who still works at Google, said.
+
+Alex Hanna, who still works at Google, said the company conducted interviews with various AI ethics team members. "They were frankly interrogation sessions," she said.
+
+On February 18, the company announced it had shuffled the leadership of its responsible AI efforts. It named Marian Croak, a Black woman who has been a VP at the company for six years, to run a new center focused on responsible AI within Google Research. Ten teams centered around AI ethics, fairness, and accessibility — including the Ethical AI team — now report to her. Google declined to make Croak available for an interview.
+
+Hanna said the ethical AI team had met with Croak several times in mid-December, during which the group went over its list of demands point by point. Hanna said it felt like progress was being made at those meetings.
+
+A day after that leadership changeup, Dean announced several policy changes in an internal memo, saying Google plans to modify its approach for handling how certain employees leave the company after finishing a months-long review of Gebru's exit. A copy of the memo, which was obtained by CNN Business, said changes would include having HR employees review "sensitive" employee exits.
+
+It wasn't quite a new chapter for the company yet, though. After months of being outspoken on Twitter following Gebru's exit — including tweeting lengthy internal memo that was heavily critical of Google — Mitchell's time at Google was up. "I'm fired," she tweeted that afternoon.
+
+A Google spokesperson did not dispute that Mitchell was fired when asked for comment on the matter. The company cited a review that found "multiple violations" of its code of conduct, including taking "confidential business-sensitive documents and private data of other employees."
+
+Mitchell told CNN Business that the ethical AI team had been "terrified" that she would be next to go after Gebru.
+
+"I have no doubt that my advocacy on race and gender issues, as well as my support of Dr. Gebru, led to me being banned and then terminated," she said.
+
+Jeff Dean, Google's head of AI, hinted at a hit to the company's reputation in research during a town hall meeting. "I think the way to regain trust is to continue to publish cutting-edge work in many, many areas, including pushing the boundaries on responsible-AI-related topics," he said.
+
+Big company, big research
+
+More than three months after Gebru's departure, the shock waves can still be felt inside and outside the company.
+
+"It's absolutely devastating," Hanna said. "How are you supposed to do work as usual? How are you even supposed to know what kinds of things you can say? How are you supposed to know what kinds of things you're supposed to do? What are going to be the conditions in which the company throws you under the bus?"
+
+On Monday, Google Walkout for Real Change, an activism group formed in 2018 by Google employees to protest sexual harassment and misconduct at the company, called for those in the AI field to stand in solidarity with the AI ethics group. It urged academic AI conferences to, among other things, refuse to consider papers that were edited by lawyers "or similar corporate representatives" and turn down sponsorships from Google. The group also asked schools and other research groups to stop taking funding from organizations such as Google until it commits to "clear and externally enforced and validated" research standards.
+
+Basically we're in a situation where, okay, here's a paper with a Google affiliation, how much should we believe it. Emily Bender, computational linguistics professor at the University of Washington.
+
+By its nature, academic research about technology can be disruptive and critical. In addition to Google, many large companies run research centers, such as Microsoft Research and Facebook AI Research, and they tend to project them publicly as somewhat separate from the company itself.
+
+But until Google provides some transparency about its research and publication processes, Bender thinks "everything that comes out of Google has a big asterisk next to it." A recent Reuters report that Google lawyers had edited one of its researchers' AI papers is also fueling mistrust regarding work that comes out of the company. (Google responded to Reuters by saying it edited the paper due to inaccurate usage of legal terms.)
+
+"Basically we're in a situation where, okay, here's a paper with a Google affiliation, how much should we believe it?" Bender said. Gebru said what happened to her and her group signals the importance of funding for independent research.
+
+And the company has said it's intent on fixing its reputation as a research institution. In a recent Google town hall meeting, which Reuters first reported on and CNN Business has also obtained audio from, the company outlined changes it's making to its internal research and publication practices. Google did not respond to a question about the authenticity of the audio.
+
+"I think the way to regain trust is to continue to publish cutting-edge work in many, many areas, including pushing the boundaries on responsible-AI-related topics, publishing things that are deeply interesting to the research community, I think is one of the best ways to continue to be a leader in the research field," Dean said, responding to an employee question regarding outside researchers saying they will read papers from Google "with more skepticism now."
+
+In early March, the FAccT conference halted its sponsorship agreement with Google. Gebru is one of the conference's founders, and served as a member of FAccT's first executive committee. Google had been a sponsor each year since the annual conference began in 2018. Michael Ekstrand, co-chair of the ACM FAccT Network, confirmed to CNN Business that the sponsorship was halted, saying the move was determined to be "in the best interests of the community" and that the group will "revisit" its sponsorship policy for 2022. Ekstrand said Gebru was not involved in the decision.
+
+The conference, which began virtually last week, runs through Friday. Gebru's and Bender's paper was presented on Wednesday . In tweets posted during the online presentation — which had been recorded in advance by Bender and another paper coauthor — Gebru called the experience "surreal."
+
+"Never imagined what transpired after we decided to collaborate on this paper," she tweeted.

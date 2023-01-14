@@ -1,0 +1,21 @@
+San Francisco CNN Business —
+
+Clearview AI has been suspended from Apple’s developer program for flouting its policies, the latest controversy to hit the face recognition app.
+
+Apple (AAPL) said Friday that it disabled Clearview AI’s account for violating the terms of its Developer Enterprise Program, which is meant for companies to use and distribute apps internally. The iPhone maker has given Clearview AI 14 days to respond and rectify the issue, it added.
+
+The news was first reported by BuzzFeed News, which said Clearview AI has been offering access to its facial recognition software to external clients through the program.
+
+“We are in contact with Apple and working on complying with their terms and conditions,” Clearview AI founder and CEO Hoan Ton-That said in a statement. “The app cannot be used without a valid Clearview account. A user can download the app, but not perform any searches without proper authorization and credentials,” he added.
+
+The New York-based company has been the subject of intense scrutiny since a New York Times investigation in January revealed that Clearview AI’s technology allowed law enforcement agencies to match photos of unknown faces to people’s online images. The company also retains those photos in its database even after internet users delete them from platforms or make their accounts private.
+
+That policy prompted cease-and-desist letters from tech giants Twitter (TWTR), Google (GOOGL) and Facebook (FB). Some states, such as New Jersey, even enacted a statewide ban on law enforcement agencies using Clearview AI while it investigates the software.
+
+Clearview AI says it has built a database out of more than 3 billion photos it scraped from the internet, touting that it is being used by law enforcement agencies and banks to solve crimes and uncover fraud. “Clearview AI’s search engine is available only for law enforcement agencies and select security professionals to use as an investigative tool, and its results contain only public information,” says a code of conduct posted on the company’s website a month ago.
+
+In an interview with CNN Business earlier this month, Ton-That downplayed concerns about his company’s technology. He said he wants to build a “great American company” with “the best of intentions.”
+
+But fears around the company’s capabilities and security continue to grow — it said earlier this week that hackers had obtained its entire client list through a data breach.
+
+– CNN Business’ Donie O’Sullivan and Jordan Valinsky contributed to this report

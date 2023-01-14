@@ -1,0 +1,35 @@
+New York CNN Business —
+
+Marriott says its guest reservation system has been hacked, potentially exposing the personal information of approximately 500 million guests.
+
+The hotel chain said Friday the hack affects its Starwood reservation database, a group of hotels it bought in 2016 that includes the St. Regis, Westin, Sheraton and W Hotels.
+
+Marriott said hackers had gained “unauthorized access” to the Starwood reservation system since 2014, but the company only identified the issue last week.
+
+“The company recently discovered that an unauthorized party had copied and encrypted information, and took steps towards removing it,” Marriott said in a statement.
+
+For 327 million people, Marriott says the guests’ exposed information includes their names, phone numbers, email addresses, passport numbers, date of birth and arrival and departure information. For millions others, their credit card numbers and card expiration dates were potentially compromised.
+
+Marriott warns that it can’t confirm if the hackers were able to decrypt the credit card numbers.
+
+“We fell short of what our guests deserve and what we expect of ourselves. We are doing everything we can to support our guests, and using lessons learned to be better moving forward,” said CEO Arne Sorenson.
+
+The hotel chain said it has reported the hack to law enforcement.
+
+Marriott said it will begin emailing guests affected by the breach and has created an informational website. There’s also a call center that’s been set up.
+
+The company said it’s giving guests a free membership to WebWatcher, a personal information monitoring service. It’s also telling guests to monitor their loyalty accounts for suspicious activity, change their account passwords and check credit card statements for unauthorized activity.
+
+Today’s revelation marks one of the biggest corporate data beaches in history. It’s second behind one involving Yahoo, which said in 2017 that 3 billion accounts encompassing several of its brands were compromised. AdultFriendFinder revealed in 2016 that 412 million accounts were hacked.
+
+Because the hack involves customers in the European Union and the United Kingdom, the company might be in violation of the recently enacted General Data Protection Regulation.
+
+Mark Thompson, the global lead for consulting company KPMG’s Privacy Advisory Practice, told CNN Business that hefty GDPR penalties will potentially be slapped on the company.
+
+“The size and scale of this thing is huge,” he said, adding that it’s going to take several months for regulators to investigate the breach. He said there’s a trend for class action lawsuits in these cases.
+
+In the United States, the New York Attorney General’s office said it has opened an investigation into the data breach. The office told CNN Business that the company hasn’t yet notified the AG about the data breach, which is required under state law.
+
+The attorneys general of Maryland and Pennsylvania have also said that they are investigating.
+
+Marriott’s (MAR) stock is plunging on the news, falling more than 6% in trading. The combined company has 6,700 properties in more than 129 countries.

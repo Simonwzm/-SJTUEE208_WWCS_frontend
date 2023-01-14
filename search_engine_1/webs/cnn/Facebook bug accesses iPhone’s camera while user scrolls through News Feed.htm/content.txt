@@ -1,0 +1,25 @@
+CNN —
+
+Facebook says a bug that inadvertently accesses a user’s iPhone camera while they’re scrolling through the News Feed will be fixed sometime today.
+
+The bug, which was discovered by Joshua Maddux, owner of web design firm 95Visual, appears to be exclusive to iOS and does not affect Android devices.
+
+Maddux took to Twitter to report his discovery, where he posted a video that showed his camera, pointing forward, was running in the background while he was scrolling Facebook.
+
+Found a @facebook #security & #privacy issue. When the app is open it actively uses the camera. I found a bug in the app that lets you see the camera open behind your feed. Note that I had the camera pointed at the carpet. pic.twitter.com/B8b9oE1nbl — Joshua Maddux (@JoshuaMaddux) November 10, 2019
+
+“I thought I had opened the camera by accident,” Maddux wrote in an email to CNN of the discovery. “Then, on Saturday evening as I closed out a video on Facebook [I] saw the camera again on the left side.”
+
+Jerry Gamblin, principal security engineer at Kenna Security, was able to replicate the bug and told CNN “there is no indication that the data actually is transmitted to Facebook.”
+
+Reached for comment, Facebook confirmed the bug was “inadvertently introduced” and promised a fix was in the works.
+
+“We have seen no evidence of photos or videos being uploaded due to this bug. We’re submitting the fix for this to Apple today,” a spokesman said.
+
+Until the fix is officially approved, Gamblin recommends that users revoke camera access for the Facebook app until an update is available.
+
+Facebook has been steadily working to win back user trust after a series of scandals, including the 2018 Cambridge Analytica scandal in which Facebook exposed up to 87 million users’ information to the political analysis firm hired by Donald Trump’s 2016 presidential campaign.
+
+That data was later used for targeted political advertising.
+
+A security firm also discovered that hundreds of millions of Facebook records were left exposed on Amazon cloud servers earlier this year.

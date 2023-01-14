@@ -1,0 +1,11 @@
+(CNN Business) The Federal Trade Commission said Friday it has sued and settled with the technology giant Broadcom over allegations that the company sought to monopolize the supply of semiconductor chips.
+
+Broadcom AVGO According to the complaint,entered into exclusive anti-competitive deals with its business customers — including television and internet service providers such as Charter, Comcast and Verizon — that forbade them from purchasing chips from other vendors. (The ISPs did not immediately respond to a request for comment.) Broadcom also allegedly sought to link sales of its chips with other related products such as WiFi and signal converter chips, requiring customers to purchase both.
+
+Broadcom's alleged misconduct affected the distribution of video set-top boxes and internet modems, and harmed competition, the FTC said.
+
+Under the settlement, which must still be approved by a court, Broadcom will refrain from engaging in those types of business deals. And, according to an agency release, "the proposed order prohibits Broadcom from retaliating against customers for doing business with Broadcom's competitors."
+
+Last year, Broadcom and the European Union reached a settlement over similar allegations.
+
+Read More

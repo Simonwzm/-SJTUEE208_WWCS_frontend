@@ -1,0 +1,37 @@
+CNN —
+
+Facebook is moving from Likes to love.
+
+The company said that its matchmaking service, Dating, is finally launching in the United States on Thursday, more than a year after the company first announced the feature.
+
+If that sounds unusually slow for the company that once famously had the motto “move fast and break things,” you’re right.
+
+“We’ve been really slow, actually, with this rollout,” Charmaine Hung, a product manager at Facebook Dating, told CNN Business. “We really wanted to make sure we got it right because dating is so personal.”
+
+The US is now the 20th country to have access to Dating. The feature allows anyone with a Facebook account who is 18 or older to set up a dating profile from within the Facebook mobile app.
+
+Facebook’s decision to move into the dating space may strike some as brazen or tone deaf. For more than a year, the social media company has come under fire for its data privacy practices, most notably with the Cambridge Analytica scandal. Now Facebook is asking users to trust it with one of the most intimate activities they do online: search for love.
+
+Dating pulls over a first name and age from a Facebook account. But beyond that, the company says that the two profiles are largely separate.
+
+There are, however, a lot of options to integrate more closely with Facebook or Instagram. For example, individuals can opt-in to share photos posted on Facebook or Instagram to their Dating profile, or add Instagram followers to Dating’s Secret Crush feature, which allows for indicating crushes among Facebook friends – and as of Thursday, Instagram followers – to see if the feelings are mutual.
+
+Facebook
+
+Dating creates new competition in the already-crowded dating app marketplace in which companies, such as Bumble and IAC-owned Tinder and Hinge, vie to help people find connections. In recent years, many dating apps have moved away from asking their users to login with Facebook credentials in a bid to be less reliant on the social media behemoth.
+
+Shares of Match Group (MTCH), which owns dating services including Tinder, Match and OkCupid, fell as much as 6% in early trading Thursday. The company’s stock previously fell about 20% on the day that Facebook first announced the dating feature in 2018.
+
+Like Hinge, Dating does not utilize the swipe-to-like functionality popularized by Tinder. Instead, individuals have to tap to like a person’s profile.
+
+Notably, the messaging feature within Dating is text only — there are no photos, videos, payments or link sharing — a departure from some other dating apps.
+
+“We know that inappropriate photos and videos can really ruin peoples’ dating experiences. So we want to make sure that you can build trust with someone before, of course, moving into your chat service of choice afterward,” Hung told CNN Business.
+
+It also offers a safety feature where a user can share the location of an upcoming date or live location with a friend on its Messenger platform, so their whereabouts can be tracked.
+
+While 200 million people on Facebook list their relationship status as “Single,” anyone — regardless of their stated relationship status — can sign up for Dating. However, those who’ve previously violated community standards, or are otherwise deemed suspicious will not be able to access Dating, Hung said.
+
+Like some dating services, individuals can set preferences for matches based on factors including distance, age, religion and height. Individuals can also control if a dating profile is shown to friends, friends of friends and non-friends. It also allows for preemptive blocking of specific Facebook users.
+
+Hung said that the company doesn’t have a specific target market for Dating. “We want to build dating for everyone,” said Hung, adding it hopes to attract those who’ve been afraid to use online dating in the past.

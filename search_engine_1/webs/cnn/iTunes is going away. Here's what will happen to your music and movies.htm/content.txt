@@ -1,0 +1,27 @@
+CNN —
+
+Apple announced on Monday that it would phase out iTunes on its upcoming operating system in favor of three new apps: Music, TV and Podcasts.
+
+Though iTunes as we know it will be no more, you don’t have to worry about losing those iTunes playlists you made back in the summer of 2006. The platform’s features will still exist on macOS Catalina – they’ll just be spread out across the different apps, similar to how they are on iOS.
+
+Here’s what Apple says that will look like.
+
+You’ll still have access to all your media
+
+Apple says that the new apps will organize your media files just like the same apps on iOS. That means you don’t have to worry about losing any music you purchased or imported into your iTunes library. Instead, those files will just be migrated into the new Apple Music app. That goes for playlists and smart playlists you’ve created in iTunes too.
+
+Similarly, music and TV shows that you purchased or rented from iTunes will transition into the new Apple TV app – which is where you’ll go to buy or rent movies and TV shows in the future.
+
+Podcasts that you subscribed or added to iTunes will be in the new Podcasts app, and audiobooks will be in the updated Apple Books app.
+
+iTunes isn’t really dead
+
+iTunes as an app won’t exist on the new Mac operating system, but you’ll still be able to buy music from the iTunes Store. It’ll just exist on the sidebar in the new Music app.
+
+iTunes gift cards and credits are still good to use too, the company said.
+
+Backing up your files
+
+You’ll go to a new destination to backup, restore and sync any of your Apple devices on the new operating system.
+
+All of those functions will move to the Finder app.

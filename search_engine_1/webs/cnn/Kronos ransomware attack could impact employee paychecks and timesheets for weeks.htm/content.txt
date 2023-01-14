@@ -1,0 +1,11 @@
+New York (CNN Business) Ultimate Kronos Group, one of the largest human resources companies, disclosed a crippling ransomware attack on Monday, impacting payroll systems for a number of workers. After noticing "unusual activity" on Saturday, Kronos noted that its systems were down and could remain that way for several weeks.
+
+Kronos has a long list of notable customers across the public and private sector, including the city of Cleveland, New York's Metropolitan Transportation Authority (MTA), Tesla and MGM Resorts International. It also works with many hospitals across the country.
+
+And some impacted employees have been unable to access payroll systems. Some employers find themselves having to make contingency plans in order to pay workers, such as shifting to paper checks.And some impacted employees have been unable to access payroll systems.
+
+The ransomware attack impacts Kronos Private Cloud solutions, a data storing entity for several of the company's services, including UKG Workforce Central, which is used by employees to track hours and schedule shifts.
+
+"UKG recently became aware of a ransomware incident that has disrupted the Kronos Private Cloud, which houses solutions used by a limited number of our customers. We took immediate action to investigate and mitigate the issue, have alerted our affected customers and informed the authorities, and are working with leading cybersecurity experts," a Kronos spokesperson told CNN Business.
+
+Read More

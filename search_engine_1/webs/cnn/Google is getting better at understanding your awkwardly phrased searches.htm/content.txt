@@ -1,0 +1,25 @@
+San Francisco CNN Business —
+
+Google is rolling out new technology to improve the results it serves up when you type in a search query, though you might not even notice.
+
+On Friday, the company announced that it is starting to use an artificial intelligence system developed in its research labs, known as BERT (which stands for “Bidirectional Encoder Representations from Transformers”), to help answer conversational English-language queries, initially from US users. The changes are meant to improve how the technology that underpins the world’s largest search engine understands the ways language and context work together — and give users better responses to their searches, from “can you get medicine for someone pharmacy” to “parking on a hill with no curb.”
+
+Google search engine opened on computer monitor at the home page ready for a search string to be typed into the blank search box. (Photo by: Education Images/Universal Images Group via Getty Images) Education Images/Universal Images Group Editorial/Getty Images
+
+Those two queries in particular included the kind of written language that tripped up Google’s search engine previously, and which BERT is more adept at handling, company executives said during a small press event on Thursday.
+
+If you typed in the prescription query, Google would typically offer a result about filling your own prescription; with BERT, however, the search engine will realize not to ignore the “for someone” part of the search.
+
+Similarly, typing in “parking on a hill with no curb” was the kind of phrase in which Google would typically have figured the word “curb” was important but not “no” — which would mean you may get a result about parking on a hill that actually had a curb. BERT should be more adept at understanding the key word “no,” and give a result that reflects that.
+
+An example of a Google search and the results you'd get with the company's old search technology (on the left) and new technology (on the right). Google
+
+Google’s older search technology would treat queries as a “bag of words,” search vice president Pandu Nayak said on Thursday. That is, it discarded lots of information about the sequence of words and considered just what words it figured were important (such as “pharmacy” or “medicine”). This doesn’t always work well, though, he said, because sequence information is often important.
+
+BERT, which Google introduced in 2018 and made open source so other developers can use it, is quite different, as it can look at lots of text in parallel and consider how each word relates to others in a sentence, whether those other words are in front of it or behind it.
+
+As Jeff Dean, Google’s senior vice president of AI, explained, BERT essentially teaches itself about language by playing a game: Google engineers trained the AI model by feeding it various paragraphs in which 10% to 15% of words were randomly deleted, and making it guess what needed to be filled in — kind of like an AI version of Mad Libs.
+
+Nayak noted that Google still has work to do when it comes to understanding what we want when we search for things, though: For instance, with its new search technology, if you type “what state is south of Nebraska,” Google may suggest a Wikipedia page for South Nebraska. As you may have guessed, this is not a state; it’s actually a town in Florida. (The real answer you’d be looking for is Kansas.)
+
+The search engine will have plenty of opportunities to practice. Google fields billions of queries per day, 15% of which its AI has never encountered.

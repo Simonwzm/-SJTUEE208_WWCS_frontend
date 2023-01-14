@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200117145125-01-doom-eternal.jpg?q=x_397,y_0,h_1080,w_1919,c_crop/w_800

@@ -1,0 +1,61 @@
+(CNN Business) The Facebook whistleblower who released tens of thousands of pages of internal research and documents indicating the company was aware of various problems caused by its apps, including Instagram's potential "toxic" effect on teen girls, called on Congress to take action against the social media platform in testimony before a Senate subcommittee Tuesday .
+
+"I am here today because I believe that Facebook's products harm children, stoke division, and weaken our democracy," she said during her opening remarks. "The company's leadership knows how to make Facebook and Instagram safer but won't make the necessary changes because they have put their astronomical profits before people. Congressional action is needed. They won't solve this crisis without your help."
+
+She emphasized that she came forward "at great personal risk" because she believes "we still have time to act. But we must act now."
+
+Urging Congress to take action
+
+Haugen's identity as the Facebook whistleblower was revealed on "60 Minutes" Sunday night. She previously shared a series of documents with regulators and the Wall Street Journal, which published a multi-part investigation showing that Facebook was aware of problems with its apps, including the negative effects of misinformation and the harm caused by Instagram, especially to young girls.
+
+"When we realized tobacco companies were hiding the harms it caused, the government took action," she said in her opening remarks. "When we figured out cars were safer with seat belts, the government took action. And today, the government is taking action against companies that hid evidence on opioids. I implore you to do the same here."
+
+On Tuesday night, Facebook CEO Mark Zuckerberg released a 1,316-word statement on his personal Facebook page addressing Monday's service outage and Haugen's testimony. He said, in part, that instead of ignoring that young people use technology, tech companies "should build experiences that meet their needs while also keeping them safe."
+
+While Zuckerberg said he believed the testimony overall created a "false picture of the company," he also echoed the need for Congress to take action.
+
+"We're committed to doing the best work we can, but at some level the right body to assess tradeoffs between social equities is our democratically elected Congress," he wrote.
+
+Zuckerberg had previously stayed largely silent in public amid the Journal reports and Haugen's "60 Minutes" appearance. At Tuesday's hearing, multiple Senators criticized the CEO's apparent decision to go sailing during the firestorm for his company.
+
+Following the hearing, Facebook also issued a statement attempting to discredit Haugen. "Today, a Senate Commerce subcommittee held a hearing with a former product manager at Facebook who worked for the company for less than two years, had no direct reports, never attended a decision-point meeting with C-level executives — and testified more than six times to not working on the subject matter in question," the statement, tweeted by spokesperson Andy Stone, read. "We don't agree with her characterization of the many issues she testified about. Despite all this, we agree on one thing; it's time to begin to create standard rules for the internet."
+
+From outage to outrage
+
+Facebook is no stranger to scandals , and it's not the first time the company has been the subject of Congressional hearings . Nor is it the first time Facebook's public image has been shaken by a whistleblower . But Haugen's documents and upcoming testimony come amid broader scrutiny of Facebook's power and data privacy practices, and have already spurred bipartisan criticism of the company's influence on children. It remains to be seen, however, if it will create momentum for any meaningful regulation.
+
+The testimony came after a tumultuous day for the company. Facebook, WhatsApp and Instagram went down for about six hours on Monday.
+
+In her testimony, Haugen said, "Yesterday, we saw Facebook get taken off the internet. I don't know why it went down, but I know that for more than 5 hours Facebook wasn't used to deepen divides, destabilize democracies, and make young girls and women feel bad about their bodies."
+
+She added: "It also means that millions of small businesses weren't able to reach potential customers and countless photos of new babies weren't joyously celebrated by family and friends around the world. I believe in the potential of Facebook. We can have social media we enjoy, that connects us, without tearing apart our democracy, putting our children in danger and sowing ethnic violence across the world. We can do better."
+
+Google GOOG Pinterest PINS Beyond the documents, there's also the power of Haugen's personal backstory. She started at Facebook in 2019 after previously working for other prominent tech companies includingand. She spoke with the Wall Street Journal about losing a friendship due to online misinformation and how it impacted the way she thinks about social media. She also told the publication her goal in speaking out isn't to bring down Facebook but to "save it."
+
+About a month ago, Haugen reportedly filed at least eight complaints with the Securities and Exchange Commission alleging that the company is hiding research about its shortcomings from investors and the public. She also shared the documents with regulators and the Journal, which published a multi-part investigation showing that Facebook was aware of problems with its apps, including the negative effects of misinformation and the harm caused by Instagram, especially to young girls.
+
+Facebook issues will 'haunt a generation,' Senator says
+
+Democratic Sen. Richard Blumenthal, who chairs the Senate Commerce subcommittee on consumer protection, expressed "heartfelt gratitude" to Haugen for "standing up to one of the most powerful, implacable corporate giants in the history of the world."
+
+He added: "The damage to self-interest and self-worth inflicted by Facebook today will haunt a generation."
+
+Antigone Davis, Facebook's global head of safety, was grilled by members of the same Senate subcommittee last week following the Journal report about the impact its apps have on younger users. Davis, who identified herself as a mother and former teacher, pushed back on the idea that the report was a "bombshell" and did not commit to publicly releasing a full research report, noting potential "privacy considerations." She said Facebook is "looking for ways to release more research."
+
+The Journal report, and the renewed pressure from lawmakers in its aftermath, also appeared to force Instagram to rethink its plans to introduce a version of its service for kids under 13. Days before the hearing, Instagram said it would press pause on the project.
+
+"Facebook's actions make clear that we cannot trust it to police itself," Blumenthal said in the statement Sunday. "We must consider stronger oversight, effective protections for children, and tools for parents, among the needed reforms."
+
+National security concerns -- and future hearings
+
+During her testimony, Haugen said,"Congress can change the rules Facebook plays by and stop the many harms it is now causing."
+
+Haugen, whose last role at Facebook was as a product manager supporting the company's counter espionage team, was asked by one senator whether Facebook is used by "authoritarian or terrorist-based leaders" around the world. She said such use of the platforms is "definitely" happening, and that Facebook is "very aware" of it.
+
+"My team directly worked on tracking Chinese participation on the platform, surveilling, say, Uyghur populations in places around the world. You could actually find the Chinese based on them doing these kinds of things," Haugen said. "We also saw active participation of, say, the Iran government doing espionage on other state actors."
+
+She went on to call Facebook's "consistent understaffing" of counter-espionage and counter-terrorism teams a "national security issue."
+
+"I have strong national security concerns about how Facebook operates today," Haugen said.
+
+Her comments on national security hinted at what may be next for Congress' inquiry based on the internal document leaks. Haugen said she already has plans to speak with other parts of Congress about those concerns, and Blumenthal suggested that Facebook's impact on national security could be the subject of a future subcommittee hearing with Haugen.

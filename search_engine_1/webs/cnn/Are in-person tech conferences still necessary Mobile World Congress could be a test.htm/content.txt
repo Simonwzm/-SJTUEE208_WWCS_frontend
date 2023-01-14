@@ -1,0 +1,37 @@
+New York (CNN Business) Last February, Mobile World Congress became the first major tech event called off as the world confronted the threat of Covid-19.
+
+The last-minute cancellation of the event — normally a highlight of the year for the wireless industry with thousands of businesses descending upon Barcelona to showcase their latest innovations -- felt like a shocking blow to the industry. But it foreshadowed a year in which tech companies (and many in other sectors) were forced to work out how to hold conferences and splashy product launches online.
+
+Now, Mobile World Congress is one of the first big tech conferences to bring back in-person attendees . But the event, which kicked off Monday, will look different than it did in the past.
+
+The hybrid virtual-and-in-person event is expected to draw about 50,000 physical attendees, half the normal amount. And many of the industry's biggest players, includingand, will be attending virtually or skipping the event altogether.
+
+While many cited concerns about employee safety, their decisions not to attend raise the question of whether MWC and events like it will ever recapture the attention and big corporate budgets they once did — and beyond that, whether the industry really needs events like this after a year that proved virtual programming can be compelling and cheaper.
+
+"This will be an interesting test," said Gartner senior director analyst Roberta Cozza. "I think everybody's keeping an eye on this event to see how the new format will work."
+
+Apple AAPL Virtual events allowed big tech companies such asand Google to reach broader audiences with their developer conferences than might have been able to attend in person. Apple CEO Tim Cook touted the 22 million viewers who attended its 2020 Worldwide Developer Conference. Likewise, Microsoft's virtual Build developer conference last year had more than 4,000 attendees from Africa — a much larger group from a key market than the company had been able to reach with previous in-person events.
+
+"With the global community that's able to now come together because these are virtual events ... we are reaching far greater markets and opportunities," then-Microsoft Azure marketing chief Julia White told CNN Business in September.
+
+After discovering those perks, some companies may feel less inclined to shell out for exhibition booths or to fly representatives to industry events.
+
+"We might see some reduced spending and attendance in recognition of the opportunities to replace some interactions with virtual interactions," said Daniel Hays, a principal at PricewaterhouseCoopers who consults for major tech and telecom firms.
+
+Still, there's likely to be some pent up demand after more than a year of widespread travel restrictions, and no one has quite figured out how to make virtual events as engaging as in-person ones. After all, trading chance run-ins with industry colleagues and high-powered corporate execs with having the panel you're watching interrupted by a hungry toddler can be a tough sell.
+
+"There is a big question mark on how you can really engage a virtual attendee," Cozza said. "This has been a challenge for many of these virtual events that we've seen during 2020. I personally have found it really hard to have to follow these types of events from my desk because there are so many distractions."
+
+And there are significant reasons why members of the wireless industry, in particular, may be eager to meet in person again. Over the past year, technology has taken on an even more central role in our lives. "Pandemic tech," such as wearables, virtual healthcare and tools for hybrid work, is expected to be a major theme at this week's event.
+
+The world is also in the midst of rolling out 5G wireless networks , an effort that requires coordination from vendors, network operators, device makers and regulators. MWC provides a rare opportunity for those players to come together.
+
+"The show really serves three complementary purposes: It is an education forum, but is also a product showcase and then, most importantly, it is a place where deals get done and relationships get built," Hays said. "In particular, the deal-making and relationship building are challenging to replace in the virtual world."
+
+Despite the absence of some big names at MWC, there is evidence that the tech industry is tiptoeing back to in-person events.
+
+After canceling in 2020, Google brought back its I/O developer conference last month mostly online, although the company welcomed a handful of masked and socially distanced reporters to watch some presentations made outdoors. And while January's CES — the most closely watched consumer electronics show — was all virtual , it is expected to again welcome in-person attendees to Las Vegas for a hybrid event next year.
+
+"The planning for Mobile World Congress takes a full year and I think that many of the decisions about whether to attend or not ... were actually made long ago," Hays said, adding that "any absence or diminished participation shouldn't be taken as a lack of confidence" in the event's future.
+
+"I would expect that we'll see continued recovery," he said.

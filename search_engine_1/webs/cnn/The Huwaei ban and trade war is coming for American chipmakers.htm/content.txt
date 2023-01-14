@@ -1,0 +1,43 @@
+New York CNN Business —
+
+The heart of the American computer industry is getting hit from all sides of the trade war.
+
+Chipmakers have been punished over the past two months after the White House put Huawei in the dog house. President Donald Trump’s newly proposed tariffs on Chinese imports will sting even more.
+
+Intel (INTC), Qualcomm (QCOM) and Advanced Micro Devices (AMD)recently said that ongoing trade tensions with China and restrictions on selling to Huawei are weighing on their bottom lines and forecasts.
+
+“Tariff and trade uncertainties created anxiety across our customer supply chains,” Intel CEO Bob Swan said on a conference call with shareholders on July 25.
+
+Companies want the White House to resolve the trade war. Instead, Trump said Thursday the United States would impose a 10% tariff on the remaining $300 billion in Chinese goods that were not already subject to tariffs. Those goods, which will include laptops, smartphones and other technology, will hit the chipmakers particularly hard.
+
+The Huawei ban threatens American businesses, too. Chipmakers have asked the Trump administration to allow sales to Huawei to resume. Last week, chief executives from seven US suppliers to Huawei met with Trump to discuss the restrictions. They included the CEOs of Qualcomm, Google (GOOGL), Intel, Broadcom, Micron, Western Digital (WDC) and Cisco (CSCO).
+
+The Trump administration in May barred US firms from using Huawei telecom gear and from selling to the Chinese company. The US government fears Huawei’s telecom equipment poses a national security threat, a claim Huawei denies. The administration later added five additional Chinese companies to the same “Entity List” of banned businesses.
+
+Trump said in June he would relax the Huawei export ban, but there has been confusion on exactly what US suppliers will be able to ship and when. Commerce Secretary Wilbur Ross has said the government could begin responding next week to US companies requesting licenses to resume sales to Huawei, according to a Reuters report.
+
+But in the meantime, many of those companies fear their sales will suffer as a result of the restrictions and general trade uncertainty.
+
+Chip companies fear future losses
+
+Qualcomm on Wednesday posted revenue of $4.9 billion for the quarter ending in June, down 13% from the same period in the prior year. The company said that was in part because Huawei, a major buyer of Qualcomm’s chips for cell phones to be sold outside of China, has changed its business strategy in response to the export ban.
+
+Qualcomm also announced projected full-year chip shipments of between $140 million and $160 million, which would be a 31% to 40% decrease from the prior year. And CEO Steve Mollenkopf said the Huawei export ban is expected to continue to “create headwinds” in the next two quarters.
+
+AMD also had a challenging quarter. On Wednesday, it posted a 13% drop in revenue for the three months ending in June. AMD was particularly hurt by the US government’s additions to the Entity List in June, because three of the Chinese businesses added to it were part of a joint venture AMD has in China to license its microchip technology.
+
+“We have stopped shipping some products to a couple of our customers that are on the US Entity List and that is a little bit of a headwind into the second half of the year,” AMD chief executive Lisa Su said on the earnings call.
+
+Much of the potential impact of the Huawei export ban has not yet been realized, said Bank of America analyst Tal Liani. Huawei anticipated the ban and made additional purchases from US suppliers to build up its inventory, meaning the American companies got a bump in sales that mitigated declines.
+
+“Huawei built very high levels of inventory of components, so we have not seen any major impact as of yet,” Liani said. “But that’s temporary.”
+
+Some American companies have resumed sales of select products to Huawei that they determined not to be covered by the export ban.
+
+Micron was the first chip company to announce it had done so during its earnings call last month. Still, the company’s earnings in the three months ending May were dragged down by the inability to sell to Huawei. Huawei was previously Micron’s top customer, and contributed 13% of its revenue in the first half of 2019.
+
+Intel’s Swan said during his company’s earnings call last week that Intel has also restarted some shipments to Chinese companies that had been placed on the Entity List, though he did not mention Huawei by name.
+
+But it’s unclear whether those actions will be enough to completely stem losses if the export ban remains in place and trade tensions continue to fester.
+
+“Resolving the trade issues is very important for Huawei and also for the US companies,” Liani said.

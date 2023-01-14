@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190911123819-uber-jump.jpg?q=x_131,y_293,h_1390,w_2470,c_crop/w_800

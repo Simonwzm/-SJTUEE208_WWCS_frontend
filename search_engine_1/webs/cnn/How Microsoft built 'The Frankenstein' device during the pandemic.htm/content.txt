@@ -1,0 +1,43 @@
+(CNN) When Microsoft ( MSFT ) closed its Redmond, Washington offices in March 2020 due to the pandemic, the Surface team grabbed what they could for their home offices. For a handful of engineers and product designers, that included The Frankenstein, a prototype for a versatile, transformable laptop built in concert with Windows 11 .
+
+The mystery device had already spent three years in Microsoft's development lab and was set to ship on October 5, 2021, the same dayMicrosoft planned to launch its first major software update in six years. Butthe Frankenstein was far from ready:The pieces were taped together with a Surface Pro, a laptop-to-tablet device, and featured new sensors, an updated keyboard and trackpad on the bottom. It needed changes to the lock screen, the woven hinge and its face tracking system, among other updates.
+
+A year and a half later, that device -- now known as the Surface Laptop Studio -- is the star product of Microsoft's fall lineup, which was unveiled during a virtual press event on Wednesday.
+
+Microsoft's pitch is that the $1,599 device becomes whatever you want it to be. When in the laptop position, it's a standard notebook. In Stage mode, users can pull the 14.4-inch touchscreen forward into a docking station, suitable for playing games or streaming TV shows at an angle. Its final mode, Studio, turns the computer into a canvas for drawing, sketching or other creative use cases. Its features are designed to attract professional developers and creators.
+
+While the hardware design isn't entirely new -- Lenovo, for example, has attempted similar transformable devices -- Microsoft wants to show it can offer consumers something truly innovative. It fits into the company's broader strategy of launching hybrid devices, which was reinforced by the handful of other updates it made to its laptop-turned-tablet products during the event.
+
+But this time, Microsoft had to contend with navigating the constraints of a pandemic and supply chain headaches in order to finish designing the product and finally bring it to market.
+
+Designing during a pandemic
+
+Microsoft MSFT Rather than collaborating with colleagues in person during the early days of the pandemic, the Surface Laptop Studio team told CNN Business they would drop one of several Frankenstein prototypes off at each others' doorsteps. After a deep sanitation,staffers would bring them into their homes for testing.
+
+Then came challenges with the parts themselves. Beyond shortages with the supply chain, the team was unable to visit its factory in China to check on production. "We had factory team members on the ground put on Microsoft's mixed reality headsets, because we typically would have been there to solve those problems in real time on the production line," said Angela Krauskopf, senior director of engineering at Microsoft. "We couldn't travel and still can't do that, so this was a piece of technology [that helped that process]."
+
+The Surface Laptop Studio product (right) and The Frankenstein prototype (right)
+
+The goal for the Studio device is to blend the power of a home or work desktop computer with the portability of a laptop. And some of the finest parts of the Surface Laptop Studio are in the details: The hinge's bump is small — something the design team said took careful precision to get right. The second-generation Surface Slim Pen is stored neatly underneath the keyboard, charges within and vibrates through fingertips when in use, like you'd feel using a real pencil. The content optimizes slightly depending on which mode you're using.
+
+it also runs Windows 11, which underwent a massive design overhaul and features new tools for multitasking, photos and widgets -- a customizable feed powered by AI.
+
+Beyond the challenges of the pandemic, the culmination of the Surface Laptop Studio was years in the making. "A lot went into it because you don't want any moment where the product doesn't feel perfect in any posture at any given time," Panos Panay, Microsoft's chief product officer, told CNN Business ahead of the virtual event. "It's been building all this time -- the hinge work across Surface Studio, our detach work on Surface Book ... the pen's haptics and when you put it down, you actually feel friction. All that tech has been brewing for four to five years. There's a lot of patience."
+
+While the Surface Laptop Studio starts shipping on October 5, issues with the supply chain could still impact how quickly Microsoft can get devices into the hands of customers. "The shortage is real," Panay said. "We work through it every single day. I'm worried it sells out and we can't get enough people. ... But we're building as many as we can."
+
+The new Surface lineup
+
+At the event on Wednesday, the company also showed off other updates to its Surface line that'll ship with Windows 11. The Surface Pro 8 ($1099) is now twice as fast as its previous model, and features four Thunderbolt ports and an improved screen. The Surface Go 3 ($399), its entry-level tablet, packs a faster processor, better battery life and optional LTE. The Surface Pro X ($899), a laptop-tablet hybrid, now comes in a Wi-Fi-only configuration; and Surface Duo 2, a 5G foldable smartphone, touts a larger split-display, updated Qualcomm processor and upgraded camera system.
+
+Another noteworthy addition is the Surface adapter kit (price TBD), which features key cap and bump labels, port indicators and laptop openers, to make Surface products more accessible for people with disabilities.
+
+The studio mode is designed for drawing, writinig and other creative use cases
+
+Microsoft's Surface line still lags behind Apple's hardware devices, but it's made giant strides in recent years. "Its innovation around detachable keyboards, displays and all-in-one designs created new segments that rivals have followed," said Geoff Blaber, CEO of market research firm CCS Insight. "But the challenge is for Microsoft to step out beyond its productivity focus and convince consumers it has something more to offer."
+
+Unlike Apple, which operates in such secrecy that many employees don't know what's happening in other departments, Microsoft's lab is a big open studio space where workers are surrounded by product designers and developers across all its major products. The designers sit near 20 manufacturing units for machinists, who are right by the painting workshop. As the Surface Laptop Studio team got vaccinated and lockdowns were lifted, they returned to the office periodically. (Microsoft has postponed its return to office date in the US indefinitely.)Unlike Apple, which operates in such secrecy that many employees don't know what's happening in other departments, Microsoft's lab is a big open studio space where workers are surrounded by product designers and developers across all its major products. The designers sit near 20 manufacturing units for machinists, who are right by the painting workshop.
+
+The flow is to encourage collaboration: If a designer has an idea, they can draw it on a piece of paper or a whiteboard, give it to a machinist who can build it with metal, and then hand it to a painter to have it painted. "The next day, our idea is on the table for us to stand around and talk about it," said Pete Kyriacou, VP of Microsoft Devices. "The testers are right there, too."
+
+Panay said this type of collaboration helps push the Surface brand forward, despite industry naysayers saying general innovation in the tech industry has stalled. "At every point there is a signal of technology coming down the road that people don't see yet coming," Panay said. "There are still needs today that people tell us about that are not there yet. That's an open door to me."

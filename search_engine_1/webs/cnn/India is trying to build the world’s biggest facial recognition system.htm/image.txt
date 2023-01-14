@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191004180140-facial-recognition.jpg?q=x_4,y_178,h_1965,w_3492,c_crop/w_800

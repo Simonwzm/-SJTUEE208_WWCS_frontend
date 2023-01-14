@@ -1,0 +1,39 @@
+CNN Business —
+
+More options to pick your default iPhone apps. New bets on augmented reality. And improved battery life for Mac computers.
+
+These are just some of the updates that could be announced at Apple (AAPL)’s Worldwide Developer Conference, a multi-day event that kicks off next week. The event is always closely watched by customers and developers looking for a peek at new software coming to iPhones, iPads, Macs and the Apple (AAPL) Watch. But this year, everyone – developers included – will have to watch the event from afar as Apple (AAPL) holds it virtually for the first time because of the pandemic.
+
+The move to stream all sessions online from its Cupertino, California, headquarters has its benefits. It will give Apple’s global community of 23 million developers the opportunity to attend more than 100 engineering workshops on how to build new apps and services, which previously were only conducted in-person.
+
+Microsoft (MSFT) recently proved splashy tech events can still draw a large audience and buzz at a time when we have no idea when there will be large in-person gatherings again. Facebook, for example, said it won’t host physical events until at least June of next year.
+
+WWDC kicks off at 10:00 a.m. PT/1:00 p.m. ET on Monday, June 22, and runs through Thursday, June 26. Here’s what to expect from this year’s event based on the latest rumors and reports.
+
+Apple's WWDC invitation to members of the media Apple
+
+A new homescreen experience
+
+Many of the key features unveiled at WWDC will relate to Apple’s upcoming iPhone operating system, iOS 14. But these announcements will come amid some uncertainty about when the next iPhone – and therefore the new operating system – will be released.
+
+Some reports indicate the pandemic could delay the production and launch of the iPhone 12, which was expected to debut in September, by a few weeks.
+
+iOS 14 is rumored to allow users to organize their apps with a list-view option, making it easier to scroll and see everything in one spot, rather than in rows and columns. Apple could also loosen the walled garden around its default apps, allowing users to select third-party apps such as Spotify (SPOT), Google (GOOGL) Maps and Google (GOOGL) Chrome rather than prioritizing its own competing services.
+
+Apple may also offer a new augmented reality app that can read QR codes and integrate with some stores like Starbucks. Other speculated new tools for iOS and macOS include Safari updates, Apple Pencil support, advanced language translation capabilities and a new fitness app. Apple is also expected to introduce the ability to mark a text message as unread so you can revisit it later and add @ mentions in group chats, borrowing a feature found on popular apps such as WhatsApp and Slack.
+
+Last year at WWDC, Apple introduced a menstruation tracking app, a log-in platform called Sign in with Apple and dark mode, which ignited a design trend that made its way onto other platforms such as Facebook, Instagram and Google.
+
+Improvements under the hood
+
+While software will almost certainly be the focus of WWDC this year, one of the biggest expected announcements is a technical change users may never notice: a shift away from Intel (INTC) chips in its Macs computers to an ARM-based processor made in-house; the same one that’s already used in its iPhones and iPads.
+
+This could mean big changes down the line for Mac users: potentially longer-lasting battery life and better support for power-sucking graphics, according to research director David McQueen at ABI Research. Of course, Apple won’t have to rely on Intel for chipset launch dates, update cycles or size, meaning the Mac could even become slimmer by negating the need for fans, he added.
+
+The chip isn’t expected to hit Mac computers until 2021.
+
+Other announcements to watch for
+
+Hardware isn’t out of the question at WWDC. It’s possible we could see a redesigned iMac, long-awaited over-the-ear headphones or a long-rumored object tracker called “Tag.” But considering Apple showed off a new iPad Pro and MacBook Air in March and iPhone release season is right around the corner, don’t expect too much of the spotlight to be on physical devices.
+
+Unquestionably, though, this is a big moment for Apple. It has a unique opportunity to introduce new software tools to developers watching from all over the world, with the hope they’ll be inspired to create the next big thing for the platform. What it’ll lack in forging in-person connections, it’ll certainly make up for with exposure.

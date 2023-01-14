@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190904092522-lyft-car.jpg?q=x_5,y_248,h_2689,w_4778,c_crop/w_800

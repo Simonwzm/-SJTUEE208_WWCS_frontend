@@ -1,0 +1,69 @@
+CNN Business —
+
+A group of former Twitter (TWTR) employees who watched in shock as a hack compromised the accounts of some of the most prominent people on the social network, including Barack Obama, Joe Biden and Elon Musk, are among those trying to figure out how an attack of such staggering proportions could have happened. As they conduct their unofficial investigation in a closed Slack group, the former employees, including some who were members of Twitter (TWTR)’s security team, are attempting to reconstruct the events leading up to the takeovers based on their knowledge of the social network’s internal protocols and technical systems.
+
+They are not the only ones searching for answers. So are members of Congress, cybersecurity experts, and Twitter itself. The FBI is involved, too: Officials said Thursday they are investigating the incident, and law enforcement sources have told CNN the agency is reviewing what appear to be screenshots of Twitter’s internal account management software circulating on social media.
+
+The former employees’ analysis focuses on the same software, a powerful tool that gives a significant number of authorized Twitter workers the ability to manage high-profile accounts, including by viewing protected user information and even changing email addresses linked to the accounts, according to interviews with several former employees, all of whom spoke with CNN on condition of anonymity to discuss a former employer. The former employees concluded that hackers likely used the tool to access the accounts and then reset passwords.
+
+“It’s been a lot of comparing notes, people refreshing their memories and trying to piece together how this happened,” said one of the people involved in the discussions. “It included some security people that tend to be the most creative in thinking of, ‘Well, if I were the bad actor, how would I do this?’”
+
+Their analysis could help to address some of the many unanswered questions that still remain two days after the attack unfolded. Twitter has outlined in broad strokes a sophisticated and coordinated “social engineering” attack on its workforce that the hacker or hackers launched in order to “take control” of the accounts. In a worst-case scenario, this type of hack could have led to false market-moving tweets, fake declarations of war or nuclear attacks, or even misinformation that could change the course of an election — or worse.
+
+Twitter declined to comment for this story.
+
+Searching for clues
+
+So far, the company has revealed some important clues. It has said hackers targeted workers who had administrative privileges. Once a number of them had been compromised, the hackers used their access to internal controls to send out tweets promoting a Bitcoin scam under accounts owned by Bill Gates, Kanye West, Kim Kardashian West, Warren Buffett, and others. On Friday, the New York Times reported, citing interviews with people involved in the events, that the hack was the work of a group of young people who opportunistically leveraged their access to the tool.
+
+But that still doesn’t explain how the hackers could take control of the accounts. And a person close to the Biden campaign told CNN Thursday that Twitter has not shared much more with victims of the attack than it has released to the public.
+
+Based on Twitter’s preliminary explanation and the circulating screenshots, the former employees quickly concluded that hackers had accessed an administrative platform known internally as “agent tools” or the “Twitter Services UI.” This internal tool is intended for employees to handle customer support requests and to moderate content, said a person familiar with Twitter’s security.
+
+Hundreds of Twitter employees have access to agent tools, according to one of the people who participated in the former-employee discussions. It is a powerful platform that can show Twitter users’ cellphone numbers if they have registered them with the company, as well as users’ geolocation and any IP addresses that have been used to access the account, the person said.
+
+Ashkan Soltani, a security expert and former chief technologist at the Federal Trade Commission, said it’s not unusual for tech companies to have internal tools such as these. While the exact features and permissions might differ from company to company, he said, the bigger question concerns the scope of the compromised employees’ access.
+
+“The question at the end of the day is, ‘What level of [employee] account was accessed?’” Soltani said. “And if it was a lower-level account, is Twitter doing anything to properly segment it from [employee] superuser rights?”
+
+One of the most sensitive capabilities associated with Twitter’s tool is the ability to change the email addresses to which Twitter sends password-reset instructions. What likely occurred, the former employees said, is that the attackers used the tool to change the email addresses associated with the targeted Twitter accounts, then sent password-reset instructions to new email addresses under the hackers’ control. Once the hackers were able to alter the user passwords, they could log into the Twitter accounts as if they were the rightful owners.
+
+The attack could have happened right under the noses of the people whose accounts were taken over. Many social media companies have built their user login systems to be frictionless, meaning that consumers are rarely logged out of an app after they change their passwords.
+
+“So if you are a celebrity, someone using this method could have changed your password but you wouldn’t necessarily be locked out and you wouldn’t necessarily know about it,” said a former employee.
+
+In other words, the hacked users could have been looking at their Twitter accounts as if nothing had changed.
+
+In principle, security techniques such as two-factor authentication are meant to thwart unauthorized logins. An account protected by two-factor authentication will ask users to provide not only a correct username and password, but also a verification code sent to a separate device that a legitimate user would control.
+
+In this case, any two-factor authentication on the victims’ accounts could have been bypassed, the former employees said. One of agent tools’ capabilities is the power to disable two-factor authentication, one of the people said. (According to Soltani, this type of capability, along with the power to change user email addresses, is often used by companies to help customers recover their accounts if they lose access to their cellphones or email.)
+
+If the former employees’ theory is correct, then all the hackers needed to do in taking over these prominent accounts was to disable two-factor authentication if it was enabled, change the destination address for password resets, then surreptitiously change the victims’ passwords and log in with the new credentials.
+
+There are some things agent tools do not allow, according to one of the people: The platform does not directly grant access to the contents of users’ direct messages, for example. But by logging in to an account as the rightful owner, a hacker would still be able to access those messages. Twitter has said there is no evidence passwords were stolen, but it is still investigating whether “non-public data” may have been compromised.
+
+The person close to the Biden campaign said that in the case of Biden’s account, there are no compromising messages to be found. “I’ve seen the DMs over there, and it’s nothing special,” the person said. “It’s all just outreach to voters.”
+
+How the hackers got access is still unknown
+
+While the nature of the attack is becoming clearer, what remains a mystery is how the hackers gained access to agent tools in the first place.
+
+Twitter has blamed the security incident on “coordinated social engineering,” a term that Michael Coates, a former chief information security officer for Twitter, said could encompass a range of threats.
+
+“This could be any number of techniques being used, from phishing emails [to] some sort of bribery,” he said Thursday on CNN’s “Quest Means Business.”
+
+The company faced a bribery scandal last year when federal prosecutors accused two former Twitter employees of spying for Saudi Arabia. At the time, Twitter said it “limits access to sensitive account information to a limited group of trained and vetted employees.”
+
+Access to agent tools is limited by a number of safeguards, the former employees said.
+
+“I can confirm there are many layers of controls,” Coates said, speaking of Twitter’s internal systems broadly. “There’s analysis, there’s logging, data science analysis, minimum privilege — all these things that you would expect in these systems.”
+
+At least two other layers of protection are involved, according to the former employees. Under normal circumstances, agent tools can only be accessed while employees are connected to the company intranet — meaning they must be physically in the office or logged into the network via VPN. And to log into agent tools itself, the employees must provide their own corporate username and password.
+
+It’s unclear whether the pandemic may have led to remote work policies that could have made it easier to log into agent tools, several former employees said. While it is a possibility, they acknowledged, there is no evidence that Twitter relaxed its security to accommodate working from home. Twitter declined to comment on its remote work policies.
+
+Even within agent tools, employees’ roles within the company can limit which user accounts they may access, one of the former employees said. For example, a person whose job is to handle support requests from journalists may be able to access journalist accounts, but perhaps not others. These limitations may help explain why the hackers targeted a wide range of current Twitter employees.
+
+Due to the activity records that Twitter keeps on its employees, tracking down which worker accounts accessed the accounts of VIPs would be a trivial task, the former employees said. A more difficult challenge — one that would likely require the help of law enforcement — would be determining whether the employees themselves were knowingly involved, or if they were simply used as unwitting accomplices by the outside hackers.
+
+Investigators have also not ruled out the possibility of nation-state involvement in the attack, though at the moment there does not appear to be evidence of it, according to a person familiar with the matter.

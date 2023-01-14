@@ -1,0 +1,23 @@
+Las Vegas CNN Business —
+
+Forget the headless cat robots, vertical TVs and automated trash cans. The hottest product at this year’s CES technology conference may just be privacy.
+
+Several of the biggest tech companies attending the closely watched trade show in Las Vegas this week are putting a special emphasis on user privacy, following years of mounting scrutiny from regulators and consumers over the industry’s handling of personal data.
+
+Google (GOOGL) announced on Tuesday that it has added two new voice commands for people to better control their privacy when using its voice assistant. For example, users can tell Google (GOOGL) Assistant to forget what it just heard if it was activated accidentally by using the new command: “Hey Google (GOOGL), that wasn’t for you.” Users can also ask “Hey Google (GOOGL), are you saving my audio data?” to learn more about their privacy options and change their settings. The company also gives users the option to delete data using their voice by saying: “Hey Google (GOOGL), delete everything I said to you this week.”
+
+On Monday, Facebook (FB) announced a new version of its “Privacy Checkup” tool with the goal of walking users through their key privacy settings. Facebook (FB) says the updated tool will help users control who can see what they share, how their information is used and how they can boost their account security. Previously, the tool was focused on showing users who could see their posts, their profile information and connected apps.
+
+Ring, the home security and video doorbell company owned by Amazon (AMZN), announced an update to its app on Monday that allows users to opt out of requests from local police for video. It comes in the wake of criticism of its partnerships with law enforcement.
+
+Apple (AAPL) is also returning to CES this year for the first time since former CEO John Sculley debuted the Newton personal digital assistant in 1992. But the company isn’t at the show to unveil a new product. It’s coming to talk privacy.
+
+Jane Horvath, Apple’s senior director of global privacy, is scheduled to participate in a session on Tuesday titled “Chief Privacy Officer Roundtable: What Do Consumers Want?” The panel is also set to include Erin Egan, Facebook’s VP of public policy and chief privacy officer, as well as Rebecca Slaughter, commissioner at the Federal Trade Commission, the agency that imposed a $5 billion penalty on Facebook over privacy breaches.
+
+Facebook’s Cambridge Analytica scandal helped kick off a renewed wave of privacy scrutiny in the industry in 2018. More recently, Google and Apple were each forced to apologize and make changes after it came to light that human reviewers were listening to users’ interactions with their smart assistants without their knowledge.
+
+Victoria Petrock, principal analyst at research firm eMarketer, told CNN Business that privacy would likely be a “hot topic” at this year’s CES as consumers only become “more aware and concerned” about the issue.
+
+Tech companies are trying to “prove they are taking privacy seriously,” Petrock said. Call it a defensive move. “If they don’t, they risk more heavy-handed regulation at some point, so they would rather be part of the solution than part of the problem,” she said.
+
+Privacy issues came up at last year’s CES, too, but in a different way. Apple took out a big billboard ad in Las Vegas during the show to effectively troll its competitors and play up its own privacy chops.

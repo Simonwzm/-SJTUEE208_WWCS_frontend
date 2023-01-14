@@ -1,0 +1,49 @@
+Washington, DC CNN Business —
+
+For months leading up to this tax season, a section of the IRS’s website advised players of Fortnite, the popular online video game, that their use of in-game virtual currency could be subject to federal taxes.
+
+The little-noticed provision, which dated back at least to October according to the cached version of an IRS webpage on Archive.org, appeared to mark the first time the agency has ruled on video game currencies, including Fortnite’s V-bucks, purchased with real dollars. By applying the same policy to in-game money that it enforces on bitcoin, ether and other cryptocurrencies, the IRS guide seemed poised to affect millions of gamers — or their parents.
+
+But on Wednesday, the IRS scrubbed all mentions of the in-game currency from the webpage after questions from CNN and other outlets about the policy. Despite the sudden deletion, experts believe that transactions involving video game currencies will still need to be reported under a new question the IRS is including this year on tax forms. Just because the IRS deleted the language, they said, does not resolve questions about how the IRS plans to treat video game currencies.
+
+The day after the agency deleted the guideline, IRS Chief Counsel Michael Desmond told reporters at a Washington conference that including the video game currencies had been a mistake, the agency confirmed to CNN on Thursday. Desmond’s remarks were first reported by Bloomberg.
+
+“It was corrected and that was done quickly — as soon as it was brought to our attention,” Desmond said, according to Bloomberg’s report.
+
+On Friday, the IRS finally released a formal statement: “The IRS recognizes that the language on our page potentially caused concern for some taxpayers. We have changed the language in order to lessen any confusion. Transacting in virtual currencies as part of a game that do not leave the game environment (virtual currencies that are not convertible) would not require a taxpayer to indicate this on their tax return.”
+
+Prior to Friday’s statement, the IRS’s changes only added to confusion about how it is handling tax filings for virtual currencies – and which digital products are lumped into the category. “[The] definition of virtual currency in IRS guidance would still encompass these,” Jerry Brito, executive director at the Coin Center, a virtual currency think tank, wrote on Twitter after the changes on Wednesday. “I don’t think they realized the consequences of their 1040 question.”
+
+The agency has long reminded Americans that virtual currency is treated like property for tax purposes. When Americans buy bitcoin, for example, they need to keep track of how much they paid for it. When they sell, they need to report any appreciation in value and pay taxes on those capital gains (and can claim a loss if there were realized losses). Using bitcoin to buy goods and services, even a coffee, is still considered a sale of property and potentially a taxable event. The IRS published a landmark policy guidance in 2014 laying out the details, and another update last year.
+
+Last fall, the IRS appeared to clarify that the same tax policy also applies to video game currencies.
+
+“Bitcoin, Ether, Roblox, and V-bucks are a few examples of a convertible virtual currency,” the IRS said on the webpage, prior to removing the language on Wednesday. The IRS did not appear to limit the types of video game currencies that may be covered under the policy.
+
+Modern video games have increasingly turned to sales of virtual currency — which can then be used to purchase in-game costumes, weapon skins and randomized loot boxes — as a form of revenue.
+
+Popular online games such as Apex Legends, PlayerUnknown’s Battlegrounds and League of Legends all use in-game currencies and are likely subject to the rule, said Neeraj Agrawal, a spokesman for the Coin Center.
+
+“Every major online game has some kind of in-game economy at this point,” he said. “It’s a very popular mechanic.”
+
+Fortnite in particular has become an internet sensation, amassing $1.8 billion in revenue last year, according to industry estimates. Last March, Fortnite’s publisher, Epic Games, announced the title had nearly 250 million registered players around the globe.
+
+Following the IRS’s surgical edits this week, bitcoin is the only remaining example of a virtual currency offered on the agency webpage. But just because V-bucks have been removed does not mean the IRS regards all transactions in the currency as tax-exempt.
+
+“They probably removed it because it’s not particularly accurate, or had some error,” said Mark Steber, chief tax officer at the tax prep company Jackson Hewitt. “In the law, if it’s not specifically exempted, then it’s taxable. Nothing is exempt from taxation which is not excluded from the law.”
+
+Taxpayers who had virtual currency transactions in 2019 will need to fill out Schedule 1 with their Form 1040, according to the IRS’s 1040 instructions. The first question on Schedule 1: “At any time during 2019, did you receive, sell, send, exchange, or otherwise acquire any financial interest in any virtual currency?”
+
+According to the instructions for Schedule 1, taxpayers will need to answer yes if they have engaged in a transaction involving virtual currency; if they have received any amount of virtual currency for free; have exchanged virtual currency for goods or services; have sold virtual currency; or have exchanged virtual currency for other property, including other virtual currency.
+
+The reversal came the same day that the Government Accountability Office published a report calling on the IRS to provide “clarified guidance” on virtual currencies.
+
+Some tax experts said the agency is simply struggling to apply time-honored tax principles to novel technologies.
+
+“The IRS is trying to communicate that an accretion of value … will trigger a taxable event, whether you are using the currency to buy a tangible item or to acquire a virtual item,” said Mary Baker, who leads the tax policy practice at the law firm K&L Gates in Washington. “How to keep track of these transactions and their taxable effect is an issue that Congress and the Treasury Department both are grappling with.”
+
+Just because you may need to answer “yes” to the question on Schedule 1 does not necessarily mean you need to fill out anything else, Steber said. It depends on your personal situation. But some may need to report capital gains stemming from their virtual currency transactions on other forms.
+
+“This question is an indicator that more is likely coming — more guidance, more rules, more requirements, more oversight and monitoring by the IRS,” he said. “It’s no longer something that’s going to live in the background shadows. There’s too much money there.”
+
+Although there’s much that’s still unsettled about how to track virtual currency transactions — and who should be responsible for it — Baker said the onus is still on taxpayers to figure out whether they owe the IRS and to fill out an accurate tax return, at least for now.

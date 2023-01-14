@@ -1,0 +1,11 @@
+Hong Kong (CNN Business) Doctors may be just a few years away from tracking your vital signs via electronic skin worn on the body.
+
+Researchers in Japan say they have developed an ultra-thin, lightweight e-skin that is stuck to the chest area using water spray and can be worn for a week at a time.
+
+The technology was developed by Takao Someya, a professor at the University of Tokyo's Graduate School of Engineering. It has yet to undergo clinical trials, but Someya says he has started working with partners to develop manufacturing processes.
+
+Made from a flexible material — polyvinyl alcohol — with a layer of gold, the e-skin is a wearable sensor that can pick up signals such as heartbeat and electrical impulses from muscle movement.
+
+A small wireless transmitter strapped to the chest will send heartbeat data to a nearby smartphone or laptop, or to the cloud, allowing a doctor to monitor it remotely.
+
+Read More

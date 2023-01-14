@@ -1,0 +1,31 @@
+Washington, DC CNN Business —
+
+A federal investigation into a fatal crash involving an Uber (UBER) self-driving car concluded the probable cause was a safety driver distracted by their phone. The National Transportation Safety Board investigation also determined that an inadequate safety culture at Uber (UBER) contributed to the March 2018 crash in Tempe, Arizona.
+
+Investigators described it as an avoidable crash during a board meeting in Washington, DC, Tuesday. The investigators found that an alert vehicle operator would have had two to four seconds to detect and avoid pedestrian Elaine Herzberg, who was crossing a street when struck by Uber’s self-driving vehicle.
+
+The test driver behind the wheel of Uber’s self-driving car was supposed to intervene if the autonomous driving software failed. But the driver was glancing away from the road during 34% of the fatal trip, including 23 glances in the final three minutes before the crash, according to the investigation. A camera in the car recorded the driver.
+
+The NTSB found that Uber had no safety plan for its self-driving operation, or equivalent guiding document at the time of the crash. Uber’s self-driving software wasn’t designed to expect that pedestrians outside crosswalks may be crossing the street. The board also said Uber lacked appropriate oversight for vehicle operators.
+
+“This is about one fatality, but it’s about a lot more than that,” NTSB chairman Robert Sumwalt told reporters afterward. “We felt by focusing on this we could have much broader ramifications for improving safety.”
+
+The NTSB made safety recommendations to the National Highway Traffic Safety Administration, the state of Arizona and the American Association of Motor Vehicle Administrators. It called on the NHTSA to require companies testing self-driving vehicles to submit a safety self-assessment report to the agency, and a plan for evaluating the reports.
+
+Jennifer Homendy, an NTSB board member, described a “major failing” of the federal government to regulate the testing of self-driving vehicles. NHTSA has released guidelines for self-driving vehicles, which it calls a “Vision for Safety.”
+
+“They should rename it a ‘vision for lax safety,’” Homendy said. “In my opinion, they’ve put technology advancement before saving lives.”
+
+NHTSA said in a statement that it welcomed NTSB’s report and will carefully review it.
+
+NTSB also recommended that Arizona require self-driving companies to submit an application before testing autonomous vehicles.
+
+Uber expressed remorse in a statement and that it would continue to improve the safety of its self-driving program.
+
+“Over the last 20 months, we have provided the NTSB with complete access to information about our technology and the developments we have made since the crash,” said Nat Beuse, who leads safety efforts in Uber’s self-driving division. “While we are proud of our progress, we will never lose sight of what brought us here or our responsibility to continue raising the bar on safety.”
+
+Uber settled with the victim’s family shortly after the death.
+
+The NTSB spoke highly of Uber’s willingness to contribute to the investigation. Sumwalt contrasted Uber’s approach with Tesla. NTSB ended Tesla’s participation in an investigation last year after Tesla released information about a crash before NTSB confirmed the information.
+
+“I appreciate the way Uber has been a good party,” he said. “I did notice that when I talked to their CEO, he did not hang up on me.”

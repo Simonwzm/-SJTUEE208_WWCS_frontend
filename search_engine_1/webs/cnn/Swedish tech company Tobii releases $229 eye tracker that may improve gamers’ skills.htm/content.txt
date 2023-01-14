@@ -1,0 +1,45 @@
+New York CNN —
+
+Eye-tracking technology has helped people with medical conditions like autism, traumatic brain injuries and ALS, or amyotropic lateral sclerosis, communicate with others.
+
+Swedish start-up Tobii Technology, a global leader in the transformative field of eye tracking, offers those kinds of devices not just for medical use but also for gamers, who utilize the technology to detect where they are looking while playing fast-paced games like “Fortnite” and “League of Legends.”
+
+In June, Tobii released the Tobii Eye Tracker 5, which costs $229 and has improved recalibration. It uses an algorithm for tracking the eye’s patterns with a camera, enabling the software to pinpoint the direction of a subject’s gaze, and over time, patterns of behavior. It can track players’ eyes and the direction of their heads, helping them determine where their blind spots are.
+
+“If we lose your gaze, then we are much, much faster in finding your eyes again,” which helps with games such as “Counter-Strike: Global Offensive” and others, Martin Lindgren, head of gaming at Tobii, told CNN Business.
+
+The company reported revenue of $163 million in 2019, up 9% from the previous year, after currency adjustments.
+
+To set up the Tobii Eye Tracker 5, the device, which includes a series of sensors and two cameras, must be either magnetically attached or mounted onto a monitor with its USB cable plugged in. It will register your gaze by asking you to stare at specific points on the screen.
+
+from Tobii
+
+I was able to give the technology a try. I wanted to improve my gaming skills, and I knew my slow eye movements were hindering that effort.
+
+I ran into some initial setup issues. The adhesive and the magnetic strip on the tracker were not strong enough so it kept falling off my monitor.
+
+Once I finally got started, I tested out Tobii’s first feature aimed at helping people improve their gaming skills, its integration with Mobalytics, a gamer training app for “League of Legends.”
+
+Mobalytics uses the data fed from Tobii’s eye tracker to determine if the user (in this case, me) stares too long at the same spot on a screen, whether I’m aware of my surroundings and what enemies may be lurking and how much information I can absorb.
+
+Just connecting an eye tracker to a game is enough to improve my gameplay, I found, even by a small margin. When you gaze at the screen with the eye tracker, a bubble representing your focal point floats across the screen.
+
+That bubble was distracting at first, but I grew accustomed to it, as it flit around the screen and reminded me to keep my eyes peeled for action, encouraging me to play better.
+
+A few snafus aside, Tobii’s eye tracker did its job. I won more games and my character died less often.
+
+Gabriel Liljevall/Tobii
+
+Eye-tracking in esports
+
+Professional esports players already use eye-tracking technology, taking the raw data and interpreting it to create more effective strategies at trying to win tournaments.
+
+Their eye data is on a whole other level.
+
+Lindgren said that esports athletes are at the same performance level as traditional sports athletes, if judged by how quickly their eyes move.
+
+“The fastest guys in sports are ice hockey goalies. They have incredibly fast reaction times because they’re getting pucks shot at them at very fast speeds. So it’s them and the [pitchers] in baseball,” said Lindgren. “When we measure esports athletes, they have been just as fast, or in some cases, faster, with their eyes.”
+
+Tobii has already been used in competitive play with games such as “Counterstrike” and “PlayerUnknown’s Battlegrounds,” but it’s still adding more titles for both pro and casual play. “Watchdogs: Legion,” coming from Ubisoft later this year, is another title that will support Tobii’s eye tracking.
+
+“We’ve only really scratched the surface of the possibilities, even though we’ve done this a few years now,” said Lindgren. “But there’s lots of stuff that we can do better.”

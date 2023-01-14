@@ -1,0 +1,45 @@
+New York CNN Business —
+
+It’s come to this: There’s about to be an app for your baby’s diaper.
+
+Pampers this week announced a line of smart diapers that it says will track a child’s urine – but not bowel movements – as well as sleep. Last year, rival Huggies debuted a similar concept in Korea, allowing parents to receive text alerts when a child has pooped.
+
+The Lumi by Pampers line, which Pampers says has a waitlist ahead of its US launch this fall, includes an activity sensor that secures to a “landing” on the front of a baby’s diaper. It comes with a baby monitor and a 10-day supply of diapers. The sensor works with a corresponding app to log the kid’s pee and identify patterns. Additional packs of Lumi by Pamper diapers will be sold separately. Pricing has not been finalized.
+
+The Lumi by Pampers line Pampers
+
+The concept is part of the so-called Internet-of-Things movement, which allows consumers to track everything from who’s ringing their doorbell to what’s in their refrigerator and how well they’re brushing your teeth. The baby industry has recently been flooded with connected products, including connected onesies that double as sleep trackers and a robotic crib that’s supposed to help rock a baby to sleep.
+
+Many pediatricians tell parents to keep track of how often they’re going to the bathroom, especially in those first few months after birth.
+
+But parents don’t, strictly speaking, need an app to tell them when their baby has peed thanks to obvious ways to check — the baby’s cries, of course, and one can simply feel to see how wet the diaper is. And some diapers also offer lower-tech solutions: Pampers’ existing “Swaddler” line of diapers, for instance, feature a blue line that appears on the diaper when it’s wet.
+
+Parents using the Lumi diapers will in theory not have to worry about checking any of that because they’ll get smartphone alerts. The app will display one of three diaper statuses: dry, wet, very wet.
+
+“Parents didn’t ask for a poo or pee alarm; they wanted something more like the smart watches of today,” a Pampers spokesperson told CNN Business. “The activity sensor tracks baby’s sleep and since it’s there on the diaper, it can also track … if a diaper is wet.”
+
+Like other connected products, smart diapers could have issues with security and privacy. Baby monitors can be susceptible to hackers, and any app that holds personal information could potentially expose that information either to hackers or to the app’s maker or its partners.
+
+A Pampers spokesperson said the account information will include a baby’s name, sex, date of birth and a 24-hour archive of video from the monitor, plus a profile photo if the parents choose to use one.
+
+“I do want to re-iterate that we take privacy and security very seriously,” the spokesperson said.” Only Lumi by Pampers account holders with their valid credentials will be able to access their baby’s data on the Lumi app.”
+
+Experts say the concept could be helpful to some parents but that there are some tradeoffs.
+
+“Undoubtedly, for those parents who are concerned about their newborn’s bathroom functions — to inform something like constipation or if a kid is hydrated enough when they’re sick — this data could be very useful over brief periods,” said David Anderson, senior director at the Child Mind Institute. “Not to mention that it may even be useful for potty-training parents.”
+
+In addition, the sleep tracking feature could be especially helpful for parents who are sleep training their baby.
+
+“But there’s that trade-off that happens with data and anxiety,” he said. “There may be behavior that is completely within an acceptable range, but an anxious parent is likely to find any deviations from reliable norms a cause for concern. So while data is generally good, we’re likely to see an increase in calls to pediatricians.”
+
+Kathy Hirsh-Pasek, president of the International Society for Infant Studies, agreed. “The more we have analytics on babies, the more we worry that it actually matters we’ve calculated this,” she said. “That creates a frenetic feeling when you’re a parent.”
+
+For example, Hirsh-Pasek said a child might urinate more on a hot day because her water intake increased and a parent seeing only a change in pattern on an app might only see something that looked abnormal, and not the harmless reason for it.
+
+Smart diapers could also make babies less self-reliant, she added. Children will sometimes tug at their diapers, for instance, an early form of communicating that it’s time for a change.
+
+“We see this a lot with potty training — kids needs to learn how to control and recognize what’s happening to their body,” she said. “We don’t want our kids to grow up without knowing how to do this. Babies have a right to cry and let us know what’s going on.”
+
+Hirsh-Pasek said she believes parents should focus on mastering how to understand their babies without the help of technology.
+
+“I’m sure there will be even more digital products to analyze babies in the future, but the best thing you can do is cuddle, build a relationship and look in their eyes and see what they are trying to tell us — not what we are trying to tell them,” she said.

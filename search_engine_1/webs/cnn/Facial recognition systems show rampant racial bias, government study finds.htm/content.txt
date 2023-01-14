@@ -1,0 +1,31 @@
+Washington, DC CNN Business —
+
+Federal researchers have found widespread evidence of racial bias in nearly 200 facial recognition algorithms in an extensive government study, highlighting the technology’s shortcomings and potential for misuse.
+
+Racial minorities were far more likely than whites to be misidentified in the US government’s testing, the study found, raising fresh concerns about the software’s impartiality even as more government agencies at the city, state and federal level clamor to use it.
+
+In a release, Patrick Grother, one of the researchers behind the report, said race-based biases were evident in “the majority of the face recognition algorithms we studied.” Compared to their performance against whites, some algorithms were up to 100 times more likely to confuse two different non-white people.
+
+Asians, blacks and Native Americans were particularly likely to be misidentified, said the National Institute for Standards and Technology, a branch of the Commerce Department, which published the report on Thursday.
+
+In another test, black women were likelier than other groups to be falsely identified in a large database of mugshots maintained by the FBI — offering a glimpse of how the technology could be misused by law enforcement.
+
+The results add to growing alarm among policymakers, privacy groups and criminal justice activists about a technology that’s growing increasingly common at airports, police departments and the border.
+
+“Even government scientists are now confirming that this surveillance technology is flawed and biased,” said Jay Stanley, a senior policy analyst at the American Civil Liberties Union. “One false match can lead to missed flights, lengthy interrogations, watchlist placements, tense police encounters, false arrests, or worse.”
+
+The NIST research covered tools from nearly 100 vendors, including Intel, Microsoft and Toshiba, along with prominent Chinese companies such as Tencent and DiDi Chuxing.
+
+Amazon, which sells facial recognition software to police departments, was not among the participants. The NIST told CNN Business that submissions were voluntary and that Amazon informed the agency that it did not think its software was compatible with the test.
+
+A handful of US cities have met the rise of facial recognition with bans on the technology. The list includes San Francisco, Oakland, Calif., and Somerville, Mass., which have prohibited city officials from using the software.
+
+Portland, Oregon could go further: It is currently weighing a complete facial recognition ban not just for local government, but for private companies as well.
+
+On the Democratic presidential campaign trail, Sen. Bernie Sanders has vowed to ban the use of facial recognition software in policing, as part of his platform on criminal justice reform. Sen. Elizabeth Warren, meanwhile, has proposed regulating the technology.
+
+The effort to limit facial recognition could prove maddeningly complex. San Francisco, for example, has had to create loopholes in its law so government officials can continue to unlock their iPhones using Apple’s Face ID security feature.
+
+Even as some in government have resisted facial recognition, other officials have pushed for expanding its use. Across the country, many police departments have signed up for Amazon’s facial recognition service, Rekognition, to identify criminal suspects.
+
+Earlier this month, the Department of Homeland Security proposed requiring US citizens and green-card holders to undergo facial recognition checks before they enter or exit the country. Officials backed off of the plan following media reports and intense public backlash.

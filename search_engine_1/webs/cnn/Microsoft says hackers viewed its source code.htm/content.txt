@@ -1,0 +1,11 @@
+(CNN Business) Microsoft said Thursday that the suspected Russian hackers behind a massive US government security breach also viewed some of the company's source code.
+
+Microsoft MSFT The unauthorized access does not appear to have compromised anyservices or customer data, the company said in a blog post . But an investigation showed that the attackers took advantage of their access to Microsoft's systems to view company code.
+
+"We detected unusual activity with a small number of internal accounts and upon review, we discovered one account had been used to view source code in a number of source code repositories," Microsoft said. "The account did not have permissions to modify any code or engineering systems and our investigation further confirmed no changes were made. These accounts were investigated and remediated."
+
+The disclosure highlights the broad reach of the attackers, whom investigators have described as extremely sophisticated and well-resourced. And it suggests that corporate espionage may have been as much a motive as a hunt for government secrets.
+
+Source code represents the basic building blocks of computer programs. They are the instructions written by programmers that make up an application or computer program.
+
+Read More

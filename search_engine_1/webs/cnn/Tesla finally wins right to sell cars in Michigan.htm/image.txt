@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191001125216-tesla-vehicle-0103.jpg?q=x_50,y_205,h_2037,w_3620,c_crop/w_800

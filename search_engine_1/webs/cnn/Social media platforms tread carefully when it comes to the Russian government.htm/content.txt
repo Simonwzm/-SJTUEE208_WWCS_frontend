@@ -1,0 +1,47 @@
+(CNN Business) As its troops have gotten bogged down in Ukraine, the Russian government has been fueling a conspiracy theory on social media about the purpose of US-funded biolabs in Ukraine.
+
+In posts spread across Facebook, Twitter and YouTube viewed by CNN this week, Russia's foreign and defense ministries have repeated claims that Ukraine had been researching biological weapons — an assertion that's previously been rejected as false by the United States, its allies and a top United Nations disarmament official
+
+In fact, the US-supported labs are part of a program to develop vaccines and perform peaceful research, the United States has said , while White House Press Secretary Jen Psaki has described the Russian claim as "propaganda" and a potential pretext for Russia to deploy chemical or biological weapons itself in Ukraine.
+
+The issue marks yet another front in the sprawling information war over Ukraine. And it highlights the challenge for social media platforms posed by Russian government accounts that critics say are freely allowed to spew disinformation to millions of users, even as those same platforms have moved to restrict Russian state media content over similar concerns.
+
+Rather than announce blanket restrictions on Russian government accounts, as they've done with Russian state media , tech platforms have instead taken a more surgical approach by removing individual posts by government accounts that violate platform rules.
+
+However, as the information war continues, and as US officials increasingly blast the Russian government for spreading false claims, tech platforms may come under more pressure to crack down on accounts linked to the Kremlin, disinformation experts say.
+
+"We're in a serious crisis situation right now, and we're in an information warfare situation where maybe suspending these accounts, if not banning them for all eternity, would make a lot of sense," said Alina Polyakova, president of the Center for European Policy Analysis, a think-tank that receives support from some tech giants including Google and Microsoft. "For now [the platforms] have stuck to a more free-speech approach rather than a blocking approach, which I also understand, but again, we're in a very different situation when it comes to what's happening in Ukraine right now."
+
+California Democratic Rep. Eric Swalwell put it more bluntly in a tweet last week: "RT NOW if @twitter should BAN the baby-killing country of Russia from its platform."
+
+Earlier this week, Facebook removed a post by Russia's embassy in the UK for disputing reported facts about the bombing of a hospital in Mariupol . The post violated Facebook's policy against denying violent events, said Drew Pusateri, a spokesperson for Meta, the parent company of Facebook and Instagram.
+
+Similar posts by Russian embassy officials were also removed from Twitter for violating that platform's policy against denying violent events, company spokesperson Katie Rosborough told CNN.
+
+The affected Russian accounts remain active on both websites, along with the Russian foreign ministry and ministry of defense. On Twitter, an account run by the office of Russian President Vladimir Putin still shares Kremlin promotional photos and links to press releases. And on YouTube, a Russian government channel broadcasts speeches by Foreign Minister Sergey Lavrov.
+
+"We don't remove accounts even when we disagree with the content they post — but we do take action when they violate our rules," said Meta's Pusateri. "The world deserves the opportunity to hear and scrutinize the content of Russian leaders at this moment."
+
+Like Facebook, Twitter labels government-run accounts, including Russia's, for transparency. Twitter added Wednesday that its moves to restrict Russian state media has led to a 30% decrease in that content's reach, and that it has also begun labeling accounts belonging to the Ukrainian and Belarusian governments.
+
+"While we've had a policy around state-affiliated media and government accounts for years, the war in Ukraine raises a complicated set of challenges in how we handle the accounts," Rosborough said in a statement. "Our goal is to consistently enforce our rules while balancing the public interest."
+
+Ivy Choi, a spokesperson for YouTube, said the platform's policies apply equally to all users, including Russian government channels, and that "our teams continue to monitor the situation closely." Asked to name an account linked to Russia that has been banned from the platform, Choi said YouTube had terminated Vladimir Solovyov, a pro-Russia broadcaster, for repeatedly violating YouTube policies, including its policy against incitement. But the company did not identify any official Russian government accounts that have been banned.
+
+Russia has objected to what it's described as censorship at the hands of western tech platforms, and has moved to block Facebook , Instagram, and to a lesser extent, Twitter within its borders. Russian internet users have flocked to digital circumvention tools in response to defeat the government's information blackout.
+
+Differences among platforms and how they work have in some cases led to varying policies and approaches to enforcement, said Polyakova, adding that greater regulation could lead to more uniform policies across the industry.
+
+"We've seen this hodgepodge approach that hasn't always been coordinated or consistent; in general, this creates a lot of vulnerabilities and openings for spreaders of disinformation," Polyakova said.
+
+Social media sites' handling of Russian government accounts also echoes how the companies have dealt with individual politicians for years.
+
+Tech companies famously grappled with how to handle claims by Donald Trump — both before and during his presidency — with most platforms arguing it was important for users to hear what public figures have to say, if only to help keep them accountable. While some may argue it's in the public interest for Russia's claims to be documented and preserved, said Polyakova, there will always be ways to access Russia's propaganda without giving it a megaphone on social media.
+
+The posts viewed by CNN this week containing the debunked claims about Ukrainian biolabs were not accompanied by content warnings or labels, though the platforms did label the Russian accounts as government-run in accordance with existing policies.
+
+The rapidly unfolding military, political and diplomatic situation may prompt platforms to hesitate in many scenarios, said Karen Kornbluh, a disinformation expert at the German Marshall Fund of the United States.
+
+"It's a tough balancing act for platforms," Kornbluh said. "They do not want to call the shots in foreign policy disputes."
+
+But even though tech companies may be wary of getting caught in an uncomfortable position, Kornbluh said, social media platforms should nevertheless consider applying to Russian government accounts some of the same restrictions they've applied to Russian state-run media, "especially when that same government is criminalizing truth in Russia with the new 'fake news' law" that threatens over a decade of jail time for contradicting official narratives about the war.

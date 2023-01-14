@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200526162756-02-hospital-drone.jpg?q=x_80,y_253,h_811,w_1441,c_crop/w_800

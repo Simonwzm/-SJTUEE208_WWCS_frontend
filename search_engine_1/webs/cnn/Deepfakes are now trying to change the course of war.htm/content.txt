@@ -1,0 +1,39 @@
+(CNN Business) In the third week of Russia's war in Ukraine, Volodymyr Zelensky appeared in a video, dressed in a dark green shirt, speaking slowly and deliberately while standing behind a white presidential podium featuring his country's coat of arms. Except for his head, the Ukrainian president's body barely moved as he spoke. His voice sounded distorted and almost gravelly as he appeared to tell Ukrainians to surrender to Russia.
+
+"I ask you to lay down your weapons and go back to your families," he appeared to say in Ukrainian inthe clip, which was quickly identified as a deepfake . "This war is not worth dying for. I suggest you to keep on living, and I am going to do the same."
+
+Five years ago, nobody had even heard of deepfakes, the persuasive-looking but false video and audio files made with the help of artificial intelligence. Now, they're being used to impact the course of a war. In addition to the fake Zelesnky video, which went viral last week, there was another widely circulated deepfake video depicting Russian President Vladimir Putin supposedly declaring peace in the Ukraine war.
+
+Experts in disinformationand content authentication have worried for years about the potential to spread lies and chaos via deepfakes, particularly as they become more and more realistic looking. In general, deepfakes have improved immensely in a relatively short period of time. Viral videos of a faux Tom Cruise doing coin flips and covering Dave Matthews Band songs last year, for instance, showed how deepfakes can appear convincingly real.
+
+Neither of the recent videos of Zelensky or Putin came close to TikTok Tom Cruise's high production values (they were noticeably low resolution, for one thing, which is a common tactic for hiding flaws.) But experts still see them as dangerous. That's because they show the lighting speed with which high-tech disinformation can now spread around the globe. As they become increasingly common, deepfake videos make it harder to tell fact from fiction online, and all the more so during a war that is unfolding online and rife with misinformation. Even a bad deepfake risks muddying the waters further.
+
+"Once this line is eroded, truth itself will not exist," said Wael Abd-Almageed, a research associate professor at the University of Southern California and founding director of the school's Visual Intelligence and Multimedia Analytics Laboratory. "If you see anything and you cannot believe it anymore, then everything becomes false. It's not like everything will become true. It's just that we will lose confidence in anything and everything."
+
+Deepfakes during war
+
+it didn't happen. Back in 2019, there were concerns that deepfakes would influence the 2020 US presidential election, including a warning at the time from Dan Coats, then the US Director of National Intelligence. But
+
+Siwei Lyu, director of the computer vision and machine learning lab at University at Albany, thinks this was because the technology "was not there yet." It just wasn't easy to make a good deepfake, which requires smoothing out obvious signs that a video has been tampered with (such as weird-looking visual jitters around the frame of a person's face) and making it sound like the person in the video was saying what they appeared to be saying (either via an AI version of their actual voice or a convincing voice actor).
+
+Now, it's easier to make better deepfakes, but perhaps more importantly, the circumstances of their use are different. The fact that they are now being used in an attempt to influence people during a war is especially pernicious, experts told CNN Business, simply because the confusion they sow can be dangerous.
+
+Under normal circumstances, Lyu said, deepfakes may not have much impact beyond drawing interest and getting traction online. "But in critical situations, during a war or a national disaster, when people really can't think very rationally and they only have a very truly short span of attention, and they see something like this, that's when it becomes a problem," he added.
+
+Snuffing out misinformation in general has become more complex during the war in Ukraine. Russia's invasion of the country has been accompanied by a real-time deluge of information hitting social platforms like Twitter, Facebook, Instagram, and TikTok. Much of it is real, but some is fake or misleading. The visual nature of what's being shared — along with how emotional and visceral it often is — can make it hard to quickly tell what's real from what's fake.
+
+author of "Deepfakes: The Coming Infocalypse," sees deepfakes like those of Zelensky and Putin as signs of the much larger disinformation problem online, which she thinks social media companies aren't doing enough to solve. She argued that responses from companies such as Facebook, which Nina Schick,author of "Deepfakes: The Coming Infocalypse," sees deepfakes like those of Zelensky and Putin as signs of the much larger disinformation problem online, which she thinks social media companies aren't doing enough to solve. She argued that responses from companies such as Facebook, which quickly said it had removed the Zelensky video, are often a "fig leaf."
+
+"You're talking about one video," she said. The larger problem remains.
+
+"Nothing actually beats human eyes"
+
+As deepfakes get better, researchers and companies are trying to keep up with tools to spot them.
+
+Abd-Almageed and Lyu use algorithms to detect deepfakes. Lyu's solution, the jauntily named DeepFake-o-meter , allows anyone to upload a video to check its authenticity, though he notes that it can take a couple hours to get results. And some companies, such as cybersecurity software provider Zemana, are working on their own software as well.
+
+There are issues with automated detection, however, such as that it gets trickier as deepfakes improve. In 2018, for instance, Lyu developed a way to spot deepfake videos by tracking inconsistencies in the way the person in the video blinked; less than a month later, someone generated a deepfake with realistic blinking.
+
+Lyu believes that people will ultimately be better at stopping such videos than software. He'd eventually like to see (and is interested in helping with) a sort of deepfake bounty hunter program emerge, where people get paid for rooting them out online. (In the United States, there has also been some legislation to address the issue, such as a California law passed in 2019 prohibiting the distribution of deceptive video or audio of political candidates within 60 days of an election.)
+
+"We're going to see this a lot more, and relying on platform companies like Google, Facebook, Twitter is probably not sufficient," he said. "Nothing actually beats human eyes."

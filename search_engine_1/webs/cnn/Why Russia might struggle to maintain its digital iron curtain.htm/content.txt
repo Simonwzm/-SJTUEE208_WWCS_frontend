@@ -1,0 +1,67 @@
+(CNN Business) On March 14, the same day Russia banned Instagram , Russian tech entrepreneur Alexander Zobov announced he would soon launch a local version of the popular photo and video sharing app called Rossgram.
+
+Zobov and his team "were already prepared for this outcome of events in advance and decided not to miss the opportunity to create a Russian analogue of the social network popular and beloved by our compatriots," hewrote in a post on the Russian social network VK. The plan, he added, was to launch by end of March for "partners and top bloggers," and in April for everyone else.
+
+Two weeks later, Rossgram shared an update on its Telegram channel telling prospective users that the app was undergoing "internal testing" and warning them that any offers to download Rossgram were coming from "scammers."
+
+The launch is still pending. "The product is currently under development. It is too early to talk about launch," Zobov told CNN Business in a written response in Russian via a representative. The current focus, he said, is ensuring data security and operating capability for the "expected increasing loads" when it's eventually made available to the public. "We don't want to release a crude product," Zobov added, claiming Rossgram has already received "hundreds of thousands" of applications. "Too much responsibility."
+
+Some Russia watchers are skeptical that the new platform can achieve any kind of mainstream success. "It's not literally a joke, but it's never going to happen," Ian Garner, a historian and translator of Russian war propaganda, told CNN Business. "This is one of those sort of patriotic ideas thrown out by some bold, young entrepreneur in a time of crisis."
+
+Rossgram, a Russian substitute for Instagram, was announced the same day Russia banned the popular US photo and video platform.
+
+Rossgram's apparent launch delays, and the dearth of other notable Russian Instagram rivals, offer a stark contrast to countries such as India, where a ban of Chinese apps, including TikTok, and government tensions with Twitter over the last couple of years quickly resulted in a host of local alternatives to those services. It also highlights the broader hurdles Russia's technology sector has to overcome in order to build a self-contained internet that isn't dependent on western platforms. The Russian government has been trying to make this break for years but that effort has been further accelerated by Russia's war with Ukraine and the resulting exodus of, and crackdown on, US big tech companies.
+
+Spotify SPOT Netflix NFLX decisions by the companies. What's left in their place is a patchwork digital ecosystem of some popular local services in various states of internal turmoil; a new alternative, Rossgram, that has yet to get off the ground; and the rare remaining western service like WhatsApp, which continues to operate even as its sister platforms Instagram and Facebook are banned. In a matter of weeks, Russian citizens lost access to a host of services, including Facebook, Instagram,and— either through government bans ordecisions by the companies. What's left in their place is a patchwork digital ecosystem of some popular local services in various states of internal turmoil; a new alternative, Rossgram, that has yet to get off the ground; and the rare remaining western service like WhatsApp, which continues to operate even as its sister platforms Instagram and Facebook are banned.
+
+WhatsApp's continued availability, in particular, may also point to a harsh reality for the Russian government, according to those who track the country's internet market: Some services are simply too popular to ban, or to ban all at once, an issue that may only be complicated when there are not as many clear alternatives to replace them.
+
+Russia's homegrown tech ecosystem
+
+For years, Russia's internet has had trappings of both east and west. But now, as Russia raises a digital iron curtain and takes a sharp turn toward China's much more restricted internet model, it does so without having the same robust internet and technology ecosystem as that country.
+
+Tencent TCEHY Weibo WB Alibaba BABA China has also developed indigenous versions of technology such as 5G and artificial intelligence that can rival that from the United States. The situation in Russia is different. With tech giants such asandand a vast censorship apparatus known as the Great Firewall, China has built a thriving digital ecosystem without the likes of Google, Facebook and Amazon.China has also developed indigenous versions of technology such as 5G and artificial intelligence that can rival that fromthe United States. The situation in Russia is different.
+
+"China's market is much larger, which probably makes self-sufficiency easier for them," said Joanna Szostek, a lecturer in political communications at the University of Glasgow, Scotland, whose research focuses on Russia and Ukraine. "China's internet has been isolated from the very early days; for Russians, the new isolation will be experienced as more of a loss and disruption."
+
+Russia does have established homegrown tech companies such as VK, the biggest Russian social network, and Yandex, whose services include a popular search engine and a ride-hailing platform. But those companies are smaller and also under pressure from global sanctions on Russia over the Ukraine invasion, given their dependence on western firms for key infrastructure.
+
+"A number of companies based in the US, UK, EU and elsewhere have indicated that they are currently suspending supplies and services to customers in Russia, which might affect us in the future, if we are unable to secure alternative sources," Yandex said in a statement to CNN Business. "But for now our current data center capacity and other technology critical to operations allow us to continue to operate in the ordinary course."
+
+The company's CEO, Elena Bunina, resigned earlier this week — two weeks before her term at the helm was scheduled to conclude. Yandex did not share a reason for her resignation, describing it as a "personal decision." The tech firm had earlier warned that the Russian financial market meltdown from western sanctions could prevent it from paying its debts
+
+Meanwhile, Vladimir Kiriyenko, the CEO of VK's parent company, is among the individuals sanctioned by the US government. And last month, Dutch investment firm Prosus announced it would write off its investment in VK — worth around $700 million — and asked its directors on the company's board to resign.
+
+While both companies have tens of millions of users in Russia, so do the major US tech platforms. Yandex handles about 60% of internet search traffic in Russia. VK, which did not respond to a request for comment, reported 72.5 million monthly active users in the last quarter of 2021. For comparison, Instagram has 51 million users and WhatsApp has 67 million users in the country, while YouTube boasts 76 million, according to estimates from Insider Intelligence.
+
+The challenge to bolster the country's tech ecosystem may only be complicated by what Russia experts argue is corruption and ineptitude in the Russian government as well as by tech talent fleeing the country.
+
+"Many IT experts are now leaving the country," said Mariëlle Wijermars, an assistant professor of cybersecurity and politics at Maastricht University in the Netherlands, whose work focuses on Russian internet policy. "We've seen quite a large number emigrating already over the past few years ... now this is again picking up."
+
+The Russian government has previously offered tax incentives to boost domestic tech firms and lure specialist workers back to the country from overseas. On April 4, the country's Industry and Trade Ministry said it was discussing additional benefit programs for such workers.
+
+"This is another very clear vulnerability, the brain drain that will also really affect their potential," Wijermars added.
+
+The WhatsApp dilemma
+
+Even as Russia cracks down on western platforms, it has held back with some.
+
+Meta FB YouTube and WhatsApp have both escaped Russian bans thus far, even as Facebook and Instagram — both owned by WhatsApp's parent company— were blocked for hosting what the Russian government called "extremist" content. Russia's telecom regulator said it chose to keep WhatsApp online because it is a private messaging service and not involved in the public dissemination of information. But some experts say the app's popularity among Russians may have also played a role.
+
+"Each time you block, especially a popular resource, that means that you're creating an inconvenience," said Wijermars. "In this case, by blocking Instagram, they are creating a very large inconvenience, so to also block WhatsApp might then be too much at the same time."
+
+Banning YouTube may prove even more complicated. The Google-owned video streaming service is Russia's most popular online platform and occupies a unique place in the country's online ecosystem.
+
+"YouTube is the most widely used of all the western platforms in Russia, and it can't be easily replaced," said Szostek, adding that "there are other video hosting platforms, but not with the same scale and range of content."
+
+And it's not just the Russian people who are avid users of YouTube — it's also the Russian state. "It's a very important propaganda tool, especially for the younger generations who might not watch regular television," said Wijermars.
+
+Google GOOGL The breadth of's services used in Russia — from web browsing to maps — could also be serving as something of a deterrent. "If you go after Google then your access to other Google services may at some point also become restricted," said Wijermars, "and this can become very problematic because Google is still integrated in every form in a lot of the digital infrastructure in Russia."
+
+On Thursday, the regulator announced it would But YouTube and Google haven't been totally exempt from Russian government scrutiny. The company has already received multiple warnings in recent weeks from Russia's telecom regulator, Roskomnadzor.On Thursday, the regulator announced it would ban all advertising by Google in Russia, though the company had already stopped advertising in Russia last month.
+
+WhatsApp declined to comment for this story, while Google did not respond to a request for comment.
+
+If Russia does enact a blanket ban on western tech platforms, Russians accustomed to using those platforms will probably find ways to continue doing so — as evidenced by the recent spike in Russian downloads of virtual private network (VPN) apps that allow users to circumvent internet restrictions.
+
+"Millions of Russians have downloaded VPNs. So we can expect some people to keep using them," said Szostek. "I would expect a lot of Russians (the younger, more tech-savvy ones) to keep accessing YouTube via VPN even if it is ultimately banned."

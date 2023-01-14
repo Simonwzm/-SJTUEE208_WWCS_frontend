@@ -1,0 +1,25 @@
+CNN Business —
+
+Google is preparing for a wave of misinformation surrounding the US midterm elections by elevating trustworthy information and displaying it more prominently across services including search and YouTube, the company said Thursday.
+
+As part of the effort, Google plans to launch a new tool in the coming weeks that highlights local and regional journalism about campaigns and races, the company said in a blog post. Searches for “how to vote,” in both English and Spanish, will soon return highlighted information sourced from state election officials, including important dates and deadlines based on users’ location as well as instructions on acceptable ways to cast a ballot.
+
+Meanwhile, YouTube said it will highlight mainstream news sources and show labels beneath videos in English and Spanish that provide accurate election information. YouTube said it is also working to prevent “harmful election misinformation” from being recommended to viewers algorithmically.
+
+The announcement marks the latest attempt by a Big Tech platform to convince the public it is ready for a high-stakes electoral battle that could dramatically reshape the congressional agenda, including coming legislative battles over how the US regulates the platforms themselves.
+
+It comes as many of the underlying issues stemming from the 2020 presidential election, including baseless allegations of voter fraud and false claims about the election’s outcome, remain unresolved, fueled in some cases by the very candidates running for office this year. And even as tech companies have pledged their vigilance, disinformation experts warn, extremists and others looking to pollute the information environment continue to evolve their tactics, creating the possibility of new exploits the platforms haven’t anticipated.
+
+YouTube has already begun removing midterm-related videos that have made false claims about the 2020 election in violation of its policies, the company said in a blog post.
+
+“This includes videos that violated our election integrity policy by claiming widespread fraud, errors, or glitches occurred in the 2020 U.S. presidential election, or alleging the election was stolen or rigged,” YouTube said.
+
+That policy goes further than what Twitter and Meta, the parent of Facebook and Instagram, have announced for the midterms. Twitter’s civic integrity policy, which is active for the midterms, prohibits claims intended to “undermine public confidence” in the official results — but while tweets questioning the outcome may be labeled or restricted from engagement, the company stopped short of pledging to remove them.
+
+Meta said this month that its midterm plan will include removing false claims as to who can vote and how, as well as calls for violence linked to an election. But Meta stopped short of banning claims of rigged or fraudulent elections, and the company told The Washington Post those types of claims will not be removed.
+
+While both Twitter and Meta will rely on labeling claims of election-rigging, each appears to be taking a different tack. Twitter said last year it tested new misinformation labels that were more effective at reducing the spread of false claims, suggesting the company may lean on labeling even more. But Meta has said it will likely do less labeling than in 2020 due to “feedback from users that these labels were over-used.”
+
+Beyond acting on false claims and misinformation, or promoting reliable information, tech companies still must do some heavy re-thinking of their core features, said Karen Kornbluh, director of the Digital Innovation and Democracy Initiative at the German Marshall Fund.
+
+“The system’s design is what promotes incendiary content and allows manipulation of users,” Kornbluh said. “The Facebook whistleblower showed, and we see on other platforms, that algorithms themselves promote extremist organizing. We know that in preparing for January 6, threat actors used social media like a customer-relationship management system for extremist organizing. They work across platforms to plan, build invitation lists, and then generate decentralized new groups of foot soldiers. These design loopholes are what the platforms must address.”

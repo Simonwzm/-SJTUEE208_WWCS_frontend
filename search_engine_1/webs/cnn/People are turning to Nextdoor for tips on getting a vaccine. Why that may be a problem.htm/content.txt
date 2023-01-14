@@ -1,0 +1,49 @@
+(CNN) Like many across the United States, Deanne Primozic Kasim watched her mother struggle to secure a vaccine appointment online. Then, she turned to a service that's become a lifeline for many in the pandemic: Nextdoor.
+
+On the hyperlocal social network, where neighbors connect with neighbors, Kasim, who works on health policy and government affairs, came across a post from someone about a supposed new vaccination site in Montgomery County, Maryland, where her family lives. "It had been posted 20 to 30 minutes before -- so I jumped on it," said Kasim, who has been on Nextdoor since well before the pandemic. "I was all happy, jumping up and down, dancing all over my house. I thought, 'This is so great -- one thing off my to-do list.'"
+
+But shortly after booking an appointment through the link -- which asked her to provide her mother's email address, age, cell phone number and maiden name -- her father's "spidey senses" went off. "My dad said, 'where did you find this link?' Because it seemed too good to be true. ... It seemed a little thin on the details," she said. "Sure enough, I went back on to Nextdoor and the link was gone."
+
+A fraudulent link could be shared on many social networks but it may carry unique weight on Nextdoor. The startup, founded in 2010 and most recently valued at $2.1 billion, was designed to give people a way to connect with neighbors virtually to do things such as buy and sell items from each other, and discover local businesses, services and, importantly, news at a time when local publications are in decline.People are required to verify their home address to use the platform, and, for some, that could lend more credibility compared to interacting with random strangers on other sites.
+
+During the pandemic, Nextdoor has become even more central to communities. Households turned to it for tips on where to find toilet paper when it was sold out everywhere. Local public agencies have relied on the platform to communicate with residents about the virus and the vaccine. And some have used Nextdoor to help schedule vaccine appointments for others who need help navigating the process.
+
+In the early months of the pandemic, the company said it had seen engagement increase globally, with daily active users up 60% in the US from the start of last year. The pandemic continues to be a key driver of conversation on the platform: In January, Covid-related posts were viewed more than 400 million times in the US on Nextdoor, according to the company, with posts about vaccine appointments accounting for the largest percentage of that.
+
+"We've always known in times of crisis that that's actually when Nextdoor often really sings as a platform," said Nextdoor CEO Sarah Friar in an interview with CNN Business last month.
+
+But some social media experts are uncomfortable with Nextdoor's growing influence in communities. Jennifer Grygiel, an assistant professor of communication at Syracuse University who is focused on social media, called it "concerning" that people have started "over-relying" on the platform in the absence of fact-checked information reported by local news outlets.
+
+"It is out of necessity but it is not ultimately good for our local communities, for societies, for democracy," Grygiel said. "The risk is that Nextdoor is starting to serve as a place where people share information without the journalists who go and fact check it, and make sure that that isn't misinformation. It becomes more like best-intentioned gossip."
+
+And as Kasim's case shows, sometimes the gossip is just wrong.
+
+The new king of local news?
+
+Nextdoor's rise dovetails with the decline of local news , but the company does not view itself as a journalism service, nor does it promise the same editorial standards.
+
+"I think [Nextdoor] is really good for editorial around local news," Friar said in the interview. "What I would never say we are in a position to do, is to be what you do -- like fact-checking, really high integrity of a journalist -- that is not our business. But the local editorial is important, right? What I love seeing on Nextdoor is someone pulling an article from a local newspaper, like, 'Hey, they're gonna put speed bumps on our roads. It's about time.' And then you get the back and forth."
+
+Yet, the platform now finds itself in the position of filling in not just for gaps in local news coverage, but also gaps left by the federal and local governments, as seen in the patchwork online registration process around the vaccine rollout.
+
+"It is unreasonable, unfair, and in my view, unjust, to expect people to become very adept at going to a website and signing up and go through three to four pages before you sign-up, and even if you sign-up, sometimes you can't save the page, and have to sign-up all over again," Dr. Kasisomayajula "Vish" Viswanath, professor of health communication at Harvard's T. H. Chan School of Public Health, told CNN Business. "That's the reason I go to my neighbor, who may say, I went down to the pharmacy and hung around and got a vaccine."
+
+That only adds to the stakes for how Nextdoor moderates the content users see on its platform, with or without more journalistic tools like fact-checking. It could also make Friar one of the most consequential social media executives of the pandemic era.
+
+'We're never going to be perfect'
+
+Friar took over the top spot at the company in December 2018 after six years serving as chief financial officer at payments company Square, where she worked alongside Square and Twitter cofounder Jack Dorsey. She and Nextdoor have focused on the word "kindness," taking steps to weed out "potentially offensive or hurtful" comments on the platform that go against its guidelines . In 2019, the company introduced a "kindness reminder," a tool that uses machine learning to identify potentially problematic comments and prompts users to check community guidelines and reconsider before commenting.
+
+With the pandemic, the company returned to its approach of trying to slow people down with a prompt. Nextdoor introduced a pop-up notification encouraging users to check information before posting about the virus and the vaccine to ensure it reflects guidance from public health officials. (Other platforms, including Twitter, have leaned on prompts to direct users to a public health resource when their search is related to vaccines. Twitter has also attempted to slow down the sharing process at times.)
+
+"If you think the thing you're going to post is going to be reviewed, people act better," Friar said.
+
+As with any system, however, it is imperfect and may not deter those who simply don't work to verify a source, or who are determined in their point of view.
+
+Nextdoor's approach to content moderation relies on a combination of having people report posts that go against its guidelines, technology to detect questionable content, and a team of volunteer moderators -- a system rife with its own challenges -- as well as in-house moderators. Friar told CNN Business the in-house moderators handle more sensitive posts such as content around alleged discrimination as well as misinformation. Nextdoor declined to comment on how many in-house moderators it has and where they are based.
+
+Over the summer, Nextdoor The company is in 272,000 neighborhoods globally; Friar said that multiplying that number by two or three community "leads ," who are volunteer moderators, is "starting to get in the zone of how many people are moderating on the platform." (The site has an education hub for moderators to familiarize with moderation tools, understand community guidelines, undergo anti-bias training , and more.)Over the summer, Nextdoor added a new role -- "community reviewers" -- who are also volunteers that have the ability to vote on keeping or removing content but don't have the full suite of controls that leads have.
+
+Some other sites like Reddit and Wikipedia have long offered versions of community moderation. And Twitter recently launched Birdwatch , which leverages its community to help combat misinformation.
+
+"We do try to be very much on our front foot," Friar said. "We're never going to be perfect, but I think we have a unique way of doing it, that other platforms are only starting now to get closer to."

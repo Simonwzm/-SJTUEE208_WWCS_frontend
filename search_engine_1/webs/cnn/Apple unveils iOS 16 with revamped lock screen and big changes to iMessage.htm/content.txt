@@ -1,0 +1,11 @@
+(CNN) Apple kicked off its annual developer conference by unveiling its next-generation mobile software, iOS 16, with new features that will let users personalize their iPhone lock screens, change how they text friends through iMessage and deepen how its smartphones integrate with cars.
+
+These and other updates, which were unveiled at its Worldwide Developers Conference on Monday, show how Apple continues to push to ensure its devices -- the iPhone in particular -- remain central to our daily lives and the many products we interact with. But while these updates will likely appeal to many Apple device users, the event was also notable for what was not announced: a new product.
+
+In recent days, some industry watchers had held out hope that Apple could offer an early look at a platform thought to be called RealityOS. The system, according to rumors, could power a mixed reality headset -- a wearable device that's said to be capable of both VR and AR -- which Apple has been rumored to be working on for years.
+
+Instead, the focus was on a number of functional, if not sexy, product updates: more multi-tasking features on Mac software, the introduction of Apple's Weather app on iPad and the unveiling of the company's next-generation M2 chip.
+
+"While some may be disappointed at the lack of radical new hardware in areas such as AR, Apple's investment in silicon will play a defining role in future product categories, such as a head-worn device, where power and performance must be finely balanced," said Ben Wood, chief analyst at market research firm CCS Insight.
+
+Read More

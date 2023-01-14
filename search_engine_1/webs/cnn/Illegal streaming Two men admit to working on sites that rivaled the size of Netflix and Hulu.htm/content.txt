@@ -1,0 +1,31 @@
+New York CNN Business —
+
+As the streaming wars continue to heat up, the Department of Justice says two men behind some of the largest illegal streaming services have been taken out of play.
+
+Two computer programmers in Las Vegas pleaded guilty last Friday to criminal copyright charges after an FBI investigation revealed they had been working on two massive, illegal online streaming sites, iStreamItAll and Jetflicks, according to plea agreements.
+
+iStreamItAll’s content library featured more than 118,000 television episodes and nearly 11,000 movies, making it larger than Netflix (NFLX), Hulu or Amazon (AMZN) Prime, according to a release from the Justice Department.
+
+Both iStreamItAll and Jetflicks had tens of thousands of paid subscribers and were designed to work on many different devices and platforms, “including myriad varieties of computer operating systems, smartphones, tablets, smart televisions, video game consoles, digital media players, set-top boxes and web browsers,” the DOJ said, citing the two plea agreements.
+
+Pirating has long been a major concern for leaders behind streaming companies. In a 2015 letter to shareholders, Netflix CEO Reed Hastings called piracy one of the company’s “biggest competitors.”
+
+The world of streaming has changed significantly since then, but piracy may be an even bigger concern now that more legitimate players have entered and fragmented the market. Consumers now must subscribe to Disney+ if they want Disney movies and to Netflix if they want to watch popular original shows such as “Stranger Things.” There are now scores of streaming services.
+
+In 2017, 30 content creation companies, including Hulu, HBO, Amazon and others, formed an independent organization aimed in part at battling piracy (HBO shares CNN parent company WarnerMedia).
+
+Darryl Julius Polo, 36, pleaded guilty to charges related to running iStreamItAll, according to the DOJ. The site featured a huge trove of copyrighted television shows and movies that it was not authorized to use, the DOJ said. Thousands of US users paid for subscriptions that allowed them to stream and download the illegal content.
+
+Polo, who also goes by “djppimp,” admitted in the plea agreement to using a computer program that ran 24/7 to scrape pirating sites from around the world, and then download, process and provide the illegal content on iStreamItAll. He would then send emails to potential users, urging them to cancel their subscriptions to legitimate streaming services and sign up with his instead, citing its massive library of content, the DOJ said.
+
+As part of his plea agreement, Polo also admitted to running several other piracy services, including a site called SmackDownOnYou, and to working as a computer programmer for Jetflicks. He admitted to earning more than $1 million from his piracy operations.
+
+The indictment of Polo and several other co-conspirators states that the harm caused by iStreamItAll to television and movie copyright holders, as well as to licensed streaming services, is estimated to be millions of dollars.
+
+Polo pleaded guilty to one count of conspiracy to commit criminal copyright infringement, one count of criminal copyright infringement by distributing a copyrighted work being prepared for commercial distribution, one count of copyright infringement by reproduction or distribution, one count of copyright infringement by public performance and one count of money laundering, according to the DOJ.
+
+In a separate proceeding, Luis Angel Villarino, 40, also admitted to working as a computer programmer for Jetflicks, the DOJ said. That site also used automated software programs and other tools to reproduce and stream tens of thousands of copyrighted TV shows and movies for tens of thousands of paid subscribers throughout the United States and Canada, the DOJ said. Villarino pleaded guilty to one count of conspiracy to commit copyright infringement.
+
+Sentencing for both men is scheduled for March before federal judge TS Ellis III of the Eastern District of Virginia. Other defendants in this case are scheduled to go on trial on February 3.
+
+Editor’s note: This article has been updated to add missing context and attribution and to clarify information about the defendants.

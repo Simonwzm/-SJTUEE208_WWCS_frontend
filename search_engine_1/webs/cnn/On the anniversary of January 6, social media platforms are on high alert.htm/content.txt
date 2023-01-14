@@ -1,0 +1,65 @@
+New York (CNN Business) January 6 was a clear turning point for major social media companies — proving that they would, under certain circumstances, be willing to deplatform a sitting US president . But some experts worry that they still haven't done enough to address the underlying issues that allowed Trump supporters and others on the far-right to be misled and radicalized, and to get organized using their platforms.
+
+Ahead of the one-year anniversary Facebook-parent company Meta, Twitter and YouTubesay they have been monitoring their platforms for harmful content related to the Capitol riot.
+
+"We have strong policies that we continue to enforce, including a ban on hate organizations and removing content that praises or supports them," a Meta spokesperson told CNN, adding that the company has been in contact with law enforcement agencies including the FBI and Capitol Police around the anniversary. As part of its efforts, Facebook is proactively monitoring for content praising the Capitol riot,as well as content calling for people to carry or use weapons in Washington DC, according to the company.
+
+"We're continuing to actively monitor threats on our platform and will respond accordingly," the Meta spokesperson said.
+
+Twitter convened an internal working group with members from various parts of the company to ensure the platform could enforce its rules and protect users around the one-year mark of January 6, a Twitter spokesperson told CNN.
+
+"Our approach both before and after January 6 [2020] has been to take strong enforcement action against accounts and Tweets that incite violence or have the potential to lead to offline harm," said the spokesperson, adding Twitter also has open lines of communication with federal officials and law enforcement.
+
+YouTube's Intelligence Desk, a group tasked with proactively finding and moderating problematic content, has been monitoring trends around content and behavior related to the Capitol riot and its anniversary. As of Wednesday, the company had not detected an increase in content containing new conspiracies related to January 6 or the 2020 election that violates its policies, according to spokesperson Ivy Choi.
+
+"Our systems are actively pointing to high authority channels and limiting the spread of harmful misinformation for election-related topics," Choi said in a statement.
+
+Facebook FB Twitter TWTR YouTube GOOGL These efforts come afterand other platforms have faced intense criticism over the past year for social media's role in the crisis. The companies, meanwhile, have largely argued that they had strong policies in place even before the Capitol riot and have only strengthened protections and enforcement since.
+
+Trump's posts, then removing them, then suspending his account altogether. As rioters escalated their attack on the Capitol last January 6 — breaching the building, ransacking Congressional offices, overpowering law enforcement officers — social media platforms scrambled to do what they could to stem the fallout , first labeling then-PresidentTrump's posts, then removing them, then suspending his account altogether.
+
+But some experts question whether the approach to moderation has substantively changed over the past year.
+
+"While I would certainly hope that they would have learned from what happened, if they have, they haven't really communicated about it publicly," said Laura Edelson, a researcher at New York University who studies online political communication.
+
+That's especially concerning, Edelson says, as there could be a resurgence of misinformation about the attack and the conspiracy theory that the election was stolen popping up around the one-year mark of the Insurrection. "A lot of the narrative inside the far-right movement is that one, [the Insurrection] wasn't that bad, and two, it was actually the other guys that did it," she said.
+
+In interviews leading up to the January 6 anniversary, some Trump supporters in Washington DC told CNN they believe Democrats or the FBI were responsible for the attack.
+
+Facebook's response to January 6
+
+Haugen that Facebook, now a division of Meta, has taken the most heat of any social media platform around January 6, due in part to internal documents leaked by Facebook whistleblower FrancesHaugen that showed the company rolled back protections it had put in place for the 2020 election ahead of January 6 last year. Haugen told the SEC in a filing that the company only reimplemented some such protections after the Insurrection had begun.
+
+Days after the Capitol riot, Facebook banned "stop the steal" content . And internally , researchers analyzed why the company failed to prevent the growth of the movement, documents since released by Haugen (and obtained by CNN from a Congressional source) revealed. Meta has also taken steps to "disrupt militarized social movements" and prevent QAnon and militia groups from organizing on Facebook, Meta's Vice President of Integrity Guy Rosen said in an October blog post about the company's efforts around the 2020 election.
+
+Meta has pushed back on Haugen's claims, and has tried to distance itself from the attack. Nick Clegg, the company's vice president of global affairs, told CNN in October that it is "ludicrous" to blame the riot on social media. "The responsibility for the violence of January 6 and the Insurrection on that day lies squarely with the people who inflicted the violence and those who encouraged it," Clegg said.
+
+But researchers say the company is still struggling to crack down on misinformation and extremist content.
+
+"We haven't really seen any substantial changes in in Facebook's content moderation that they have talked about publicly or that have been externally detectable," Edelson said. "It appears externally like they're still using fairly rudimentary keyword matching tools to identify problematic content, whether it's hate speech or misinformation."
+
+Meta noted in a September blog post that its AI systems have improved at proactively removing problematic content such as hate speech. And in its November Community Standards Enforcement Report , the company said the prevalence of views of hate speech content versus other types of content had declined for the fourth consecutive quarter.
+
+s well-known symbols associated with the group. As TTP researchers looked at this content, Facebook's "suggested friends" and "related pages" features recommended accounts or pages with similar imagery, according to the report. (TTP is funded in part by an organization founded by Pierre Omidyar.) A new report released Tuesday by tech advocacy and research group the Tech Transparency Project found that content related to the "Three Percenters," an anti-government, extremist militia group whose followers have been charged in connection with the January 6 attack, is still widely available on Facebook, some of which uses "militia" in group names or includewell-known symbols associated with the group. As TTP researchers looked at this content, Facebook's "suggested friends" and "related pages" features recommended accounts or pages with similar imagery, according to the report. (TTP is funded in part by an organization founded by Pierre Omidyar.)
+
+"As Americans approach the first anniversary of the insurrection, TTP has found many of the same troubling patterns on Facebook, with the company continuing to overlook militant groups that pose a threat to democracy and the rule of law," the report states, adding that Facebook's "algorithms and advertising tools are often promoting this kind of content to users."
+
+"We removed several of these groups for violating our policies," Meta spokesperson Kevin McAlister said in a statement to CNN about the TTP report.
+
+Facebook says it has removed thousands of groups, pages, profiles and other content related to militarized social movements and has banned militia organizations, including the Three Percenters, and noted that the pages and groups cited in TTP's report had relatively small followings.
+
+The other players
+
+To be sure, the misinformation landscape extends well beyond Facebook, including to more fringe platforms, such as Gab , that have gained popularity in the wake of January 6 on the back of promises not to moderate content, as bigger companies faced calls to crack down on hate speech, misinformation and violent groups.
+
+In August, the House Select Committee investigating the deadly January 6 Capitol riot sent letters to 15 social media companies, including Facebook, YouTube and Twitter, seeking to understand how misinformation and efforts to overturn the election by both foreign and domestic actors existed on their platforms.
+
+Six days after the attack, Twitter said it had removed 70,000 accounts spreading conspiracy theories and QAnon content. Since then, the company says it has removed thousands more accounts for violating its policy against "coordinated harmful activity" and also says it prohibits violent extremist groups
+
+"Engagement and focus across government, civil society, and the private sector are also critical," the Twitter spokesperson said. "We recognize that Twitter has an important role to play, and we're committed to doing our part."
+
+YouTube has said that in the months before the Capitol riot, it had removed the channels of various groups that were later associated with the attack, such as those connected to the Proud Boys and QAnon, for violating existing policies on hate, harassment and election integrity. During the attack and in the days following, the company pulled down livestreams of the riot and other related content that violated its policies, and YouTube says its systems are more likely to point users to authoritative sources of information about elections.
+
+"Over the last year, we've removed tens of thousands of videos for violating our U.S. elections-related policies, the majority before hitting 100 views," YouTube's Choi said. "We remain vigilant ahead of the 2022 elections and our teams are continuing to closely monitor for and quickly address election misinformation."
+
+--CNN's Oliver Darcy contributed to this report.

@@ -1,0 +1,29 @@
+New York CNN Business —
+
+AT&T’s 5G network is now available nationwide, making it the second major American carrier after T-Mobile to hit the milestone.
+
+5G is the next generation of wireless network technology, and provides increased speeds and bandwidth compared to current 4G LTE networks.
+
+AT&T (T) announced Thursday that its 5G network is now available to 205 million consumers in 395 markets across the United States. (CNN’s parent company, WarnerMedia, is owned by AT&T (T)).
+
+The announcement comes despite some minor disruptions the Covid-19 pandemic caused for to the telecom industry’s 5G rollout. Many expect 5G will improve automation, remote working tools and other technologies that have become even more important in light of the crisis.
+
+“Just as our lives have shifted in the past few months, so has our expectation of wireless technology,” Jeff McElfresh, CEO of AT&T Communications, said in a statement. “Businesses, developers and consumers are already tapping into 5G’s potential.”
+
+But even though the 5G network is now nationwide, swaths of the country are not yet covered by it (similar to T-Mobile (TMUS)’s nationwide 5G network). This is because the Federal Communications Commission defines the term by population — a network is considered “nationwide” if it covers 200 million or more people — rather than by coverage area.
+
+AT&T’s nationwide network actually consists of two different kinds of 5G networks.
+
+Covering most of the country is the low-band network, which AT&T calls simply “5G”: signals moving over the lower frequency bands travel farther but are only a bit faster than existing 4G networks.
+
+To augment that network, AT&T is building out superfast high-band networks, which it calls “5G+,” in cities across the country that will provide the dramatic benefits many have come to expect from 5G. The company’s high-band 5G networks are currently available in 35 cities.
+
+For any of this to matter to consumers, they will probably have to buy a new phone that’s 5G-enabled and make sure 5G service is part of their phone plan. Currently, AT&T offers 10 5G-enabled phones, including the Samsung Galaxy S20 as well as LG’s V60 ThinkQ and Velvet 5G. (Apple (AAPL) doesn’t yet make a 5G-enabled iPhone.)
+
+The 5G label can be confusing. So, when picking out a phone, consumers should note which type of 5G network — low-band or high-band — it can connect to, plus what’s available in their area. Currently, only the Samsung Galaxy S20+ and Samsung Galaxy S20 Ultra can connect to both AT&T’s low-band and high-band networks. Other phones will connect to just one network type or the other, meaning they will revert back to 4G service in areas where the 5G network it’s made to connect to isn’t available.
+
+AT&T will add 5G access at no additional cost starting August 7 for customers on its Unlimited Starter, Extra and Elite plans, and for businesses on its Unlimited Web-Only, Starter, Performance and Elite plans.
+
+For consumers, 5G is expected to provide benefits like fast download speeds and improved experiences with data-heavy processes like such as virtual reality and live gaming. It’s also hailed as a game changer for businesses, which will rely on 5G to improve innovations such as automation and internet of things technologies.
+
+“As America looks ahead, technologies like 5G are going to play a huge role in building the future of all industries — with a big emphasis on healthcare, manufacturing, retail and live entertainment,” AT&T said.

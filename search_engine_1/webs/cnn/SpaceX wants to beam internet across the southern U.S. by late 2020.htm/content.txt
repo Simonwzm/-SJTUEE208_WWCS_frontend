@@ -1,0 +1,27 @@
+New York CNN Business —
+
+SpaceX and Boeing are arch-rivals: They’re both gunning for the glory of returning human spaceflight to US soil for the first time in a decade. They battle it out for lucrative government contracts. The companies’ CEOs have even traded taunts about who will be the first to reach Mars.
+
+Over the past week, the company laid out plans to launch an unprecedented number of rockets next year, with as many as 24 missions dedicated solely to hauling batches of its broadband-beaming satellites into space. SpaceX recently asked regulators for permission to rearrange its planned constellation, dubbed Starlink, in a way that would allow fewer satellites to cover more territory, according to documents filed with the Federal Communications Commission.
+
+By the end of 2020, SpaceX could be delivering high-speed internet coverage across the southern United States.
+
+Separately, a report published by Morgan Stanley on Tuesday estimates that Starlink could turn SpaceX into a $52 billion company, adding about $20 billion to its current valuation and potentially making it the most valuable private company in the US.
+
+Its coverage area could grow to include US territories, such as the US Virgin Islands and Puerto Rico, by the time the 2021 hurricane season ends, according to the documents. One key benefit of reaching those areas: satellite internet access wouldn’t be wiped out by bad weather. Currently, those areas — and the majority of consumers around the world — get service via ground-based systems, such as cell towers or fiber optic cables, that can be knocked offline during storms.
+
+The FCC has not yet granted SpaceX permission to reconfigure its satellites. And SpaceX has faced pushback from potential competitors in the satellite internet business, including Softbank-backed OneWeb. But regulators have so far proved eager to accommodate SpaceX’s plans.
+
+FCC Chairman Ajit Pai last year applauded Starlink as an “innovative technology” that could help “reach Americans who live in rural or hard-to-serve places” that ground-based services don’t reach.
+
+One FCC study notes that more than 24 million Americans still lack access to speedy broadband, which can be defined as at least 25 Mbps in download speed and 3 Mbps for uploading. Roughly half of the global population still lacks internet access entirely.
+
+Creating a successful satellite internet business could be extremely lucrative.
+
+SpaceX CEO Elon Musk said earlier this year that he expects Starlink to capture as much as 3% of global revenue for internet connectivity. That could translate to roughly $30 billion more dollars in SpaceX’s pocket each year.
+
+The Morgan Stanley report published Tuesday assumes that SpaceX will reach a $52 billion valuation if another 25% of the world’s population is brought online and SpaceX is able to capture about 10% of those new subscribers. But nothing is guaranteed, the report notes. If Starlink fails, SpaceX could sink to a valuation as low as $5 billion.
+
+Attempts to build a constellation like Starlink have fallen flat in previous decades. It’s extremely expensive to get such a network up and running, then build and install the ground systems needed to relay the service to consumers.
+
+SpaceX is one of several “new space” companies that say they can finally get the job done. OneWeb, which is backed by Softbank, and Amazon have their own plans to build megaconstellations of internet satellites, though SpaceX is considered the frontrunner to become the first to market.

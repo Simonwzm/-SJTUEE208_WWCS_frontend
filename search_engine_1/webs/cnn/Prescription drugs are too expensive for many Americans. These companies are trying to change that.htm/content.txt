@@ -1,0 +1,41 @@
+(CNN Business) It's an experience millions of Americans have had: you go to the doctor, get a prescription, take it to the pharmacy and get hit with a staggering bill, sometimes running into hundreds of dollars even if insurance covers a part of the cost.
+
+"In the US, we're unique in letting drug companies basically set their own prices," Andrew Mulcahy, a senior policy researcher at the RAND Corporation who focuses on prescription drugs, told CNN Business. Americans spend around $1,200 a year on average for prescription drugs — more than any other country — according to the latest available OECD data.
+
+High drug prices have been a major issue in the United States for years, one that the government and lawmakers have worked to address. But those efforts have moved slowly and with limited success , prompting private firms to step in to try to bridge the gap.
+
+One Texas-based company, bankrolled by billionaire businessman Mark Cuban, is trying to solve the problem in part by making its own drugs. The Mark Cuban Cost Plus Drug Company looks to cut out the many middlemen involved in the sale of generic prescription drugs, instead buying them directly from the pharmaceutical companies and selling them almost at cost. It is also developing a facility in Dallas where it can manufacture drugs from scratch, which is expected to open next year.
+
+"We're kind of trying to bypass the middleman and the pharmaceutical supply chain, trying to bypass the cartel that inflates the prices," said Dr. Alex Oshmyansky, the company's founder. "And we'll pass on the savings that cut out the middleman to the patients, the people that actually need it at the end of the day."
+
+Cost Plus' first product was Albendazole, an antiparasitic drug used to treat hookworm infections. By going directly to the manufacturer, the company was able to bring the drug's price down from $225 per tablet to $20 per tablet. Cost Plus says it hopes to add more than 100 other drugs by the end of 2021.
+
+Cuban told CNN Business in an email that he invested in Cost Plus "[because] it's obscene how much pharma companies over charge for generic drugs and how they do everything possible to hide their overcharging." Attaching his own name to the company was a bid to raise more awareness, he added.
+
+The goal, he said, is "to bring the prices down for as many generic drugs as we can and to be completely transparent about it so people start to understand how the industry works [and] why we are disrupting it."
+
+Oshmyansky said he founded Cost Plus around six years ago after seeing the controversy over "Pharma Bro" Martin Shkreli , whose decision to raise the price of life-saving AIDS drug Daraprim from $13.50 to $750 in 2015 sparked a massive public backlash and at one point saw Shkreli referred to as the "most hated man in America."
+
+"I was and still am a practicing physician and was just pretty upset about that," Oshmyansky said. "So I decided to go on kind of a tangent [to] try to fix it."
+
+The controversy around Shkreli highlighted another big issue with the US pharmaceutical industry: brand-name drugs are essentially protected from competition for 20 years once they are patented.
+
+"For brand name drugs, where there isn't much competition, there's not a whole lot that's keeping those prices down," Mulcahy said. "And so you can get into situations where patients and their health insurers are on the hook for thousands, tens of thousands of dollars for some of these expensive specialty drugs."
+
+According to a 2019 survey by the health policy nonprofit Kaiser Family Foundation, three in 10 adults reported not taking their medicines as prescribed because of the cost.
+
+Pharmaceutical industry groups have previously pushed back against restrictions on drug prices, saying it would hurt medical innovation and investments in research and development.
+
+"There's an important reason to give companies an opportunity to set prices somewhere above what it costs them to make the drug and recoup their investment in R&D," Mulcahy said. "At some point, though, that needs to end. We need to get into a world where there's more competition and lower prices."
+
+In the meantime, companies such as BetterMed are stepping in. BetterMed offers loans with 0% interest to help patients cover drug costs and broader medical expenses, allowing them to pay it back over as many as 15 years. The company, which makes money by charging a fee to doctors it works with, says it frequently gives loans of tens of thousands of dollars.
+
+"We'd like to help people make medical care affordable," said Joseph Sussman, director of operations at BetterMed. "But our hope is that with time, maybe we can be a catalyst to the system ultimately changing, because as it stands right now, this system is just ... not sustainable. It's getting more expensive year after year."
+
+Encountering another big issue with the prescription drug market led Doug Hirsch to create GoodRx around a decade ago.
+
+"I had the experience of taking a prescription into a pharmacy and the pharmacist said it would be $500, and I hadn't talked to my doctor about that. That seemed like an extraordinary price," Hirsch told CNN Business. "And so I took the prescription back and I went to a few other pharmacies, and I found way different prices — $250, $400. And I thought there's got to be a better way. If I can compare prices for travel and for electronics, why can't I compare prices for health care?"
+
+Now, Hirsch says, GoodRx helps more than 20 million Americans save money on prescription drugs and healthcare each month, and has saved its users more than $30 billion since its inception.
+
+"The challenge with health care in this country is it's so complicated and so confusing that a lot of people just don't know what to do," he said. "For over a decade now, most of my conversations with people have been just showing them that there's a better way than just showing your insurance card at the pharmacy."

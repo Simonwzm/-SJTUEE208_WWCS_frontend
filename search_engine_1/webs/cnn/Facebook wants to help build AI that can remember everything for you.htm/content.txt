@@ -1,0 +1,27 @@
+CNN —
+
+On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives.
+
+The company announced a real-world sound simulator that will let researchers train AI systems in virtual three-dimensional spaces with sounds that mimic those that occur indoors, opening up the possibility that an AI assistant may one day help you track down a smartphone ringing in a distant room.
+
+Facebook also unveiled an indoor mapping tool meant to help AI systems better understand and recall details about indoor spaces, such as how many chairs are in a dining room or whether a cup is on a counter.
+
+This isn’t something you can do with technology as it is today. Smart speakers generally can’t “see” the world around them, and computers are not nearly as good as humans at finding their way around indoor spaces.
+
+Mike Schroepfer, Facebook’s chief technology officer, hopes this work, though early stage, could eventually power products like a pair of smart glasses to help you remember everything from where you left your keys to whether you already added vanilla to a bowl of cookie dough. In short, he wants to perfect AI that can perfect your own memory.
+
+“If you can build these systems, they can help you remember the important parts of your life,” Schroepfer told CNN Business in an interview about the company’s vision for the future of AI.
+
+But Schroepfer’s goal could depend on the company convincing people to trust Facebook to develop technology that may become deeply embedded in their personal lives — no small feat after years of privacy controversies and concerns about how much personal information the social network already has from its users.
+
+And in order to turn these AI systems into the sort of memory machine Schroepfer envisions, you would have to wear a pair of sensor-laden augmented-reality glasses, which have so far struggled to gain much traction. Facebook, like other tech companies including Snap (SNAP) and reportedly Apple (AAPL), is working on AR glasses.
+
+“At the end of the day, our hope is that these AR glasses are sort of giving people superpowers,” Schroepfer said.
+
+Google Glass, with its tiny display and front-facing camera, didn’t catch on with consumers but was reborn as an enterprise device. Snaphat’s parent company has made multiple attempts at launching video-recording sunglasses and took a nearly $40 million writedown for excess inventory of its first-generation version.
+
+But perhaps smart glasses that can help you track down your wallet would be a bit more compelling than glasses that can simply take a picture of it.
+
+Facebook’s latest AI research builds upon an existing open-source environment simulator that the company introduced in 2019 called AI Habitat, which is meant to enable AI researchers to quickly train AI systems in realistic-looking digital replicas of real spaces, like a kitchen or living room.
+
+Over time, this kind of AI research could be used for robotic assistants, which are still in the early stages of understanding and navigating indoor spaces.

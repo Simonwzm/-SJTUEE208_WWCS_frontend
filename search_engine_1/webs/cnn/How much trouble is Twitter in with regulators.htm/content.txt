@@ -1,0 +1,97 @@
+Washington CNN Business —
+
+An explosive whistleblower disclosure by Twitter’s former head of security this week exposes the company to new federal investigations and potentially billions of dollars in fines, tougher regulatory obligations or other penalties from the US government, according to legal experts and former federal officials.
+
+Twitter (TWTR) faces tremendous legal risks stemming from the whistleblower disclosure by Peiter “Mudge” Zatko, who claims in a nearly 200-page disclosure to authorities that the company is riddled with information security flaws — and that in some cases its executives have misled its own board and the public on the company’s condition, if not perpetrated outright fraud.
+
+Twitter has accused Zatko, who worked at the company from November 2020 until he was fired this January for what Twitter says was poor performance, of pushing “a false narrative about Twitter and our privacy and data security practices that is riddled with inconsistencies and inaccuracies and lacks important context.” Zatko is a highly regarded cybersecurity expert with experience in senior roles at Google, Stripe and the Defense Department. His whistleblower disclosure was first reported by CNN and The Washington Post on Tuesday.
+
+Complying with a 2011 FTC privacy settlement
+
+In his disclosure to the US government, Zatko claims Twitter suffers “egregious deficiencies” in its cybersecurity posture, deliberately misled regulators about its handling of user data and that the company is not living up to its obligations under a 2011 privacy settlement with the Federal Trade Commission — a legally binding order that requires, among other things, the creation of “reasonable safeguards” to protect users’ personal information. The FTC declined to comment on the disclosure.
+
+Zatko’s damning disclosure alleges that roughly half of Twitter employees, including all its engineers, have excessive internal access to the company’s live product, known within the company as “production,” along with actual user data. It also alleges the company lacks the ability to defend against insider threats, foreign governments and accidental data leaks.
+
+“A fundamental engineering and security principle is that access to live production environments should be limited as much as possible,” the disclosure says. “But at Twitter, engineers built, tested, and developed new software directly in production with access to live customer data and other sensitive information in Twitter’s system.”
+
+Twitter has told CNN its FTC compliance record speaks for itself, citing third-party audits filed to the agency under the 2011 consent order. Twitter added it complies with relevant privacy regulations and that it has been transparent with regulators about its efforts to fix any shortcomings in its systems. Zatko did not participate in the audit work and did not fully comprehend Twitter’s FTC obligations or how the company was fulfilling them, Twitter said.
+
+The disclosure claims Zatko’s staff were “intimately familiar” with Twitter’s issues before the FTC and that it was they who told Zatko Twitter was never in compliance with the 2011 order, nor on track to become compliant.
+
+“We absolutely stand by the contents of Mudge’s disclosure,” John Tye, Zatko’s lawyer and founder of Whistleblower Aid, the organization representing him, told CNN.
+
+Zatko may be eligible for a monetary award from the US government as a result of his whistleblower activities. “Original, timely and credible information that leads to a successful enforcement action” by the SEC can earn whistleblowers up to a 30% cut of agency fines related to the action if the penalties amount to more than $1 million, the SEC has said. The SEC has awarded more than $1 billion to more than 270 whistleblowers since 2012.
+
+“If the facts are true, they would constitute violations of the order and of the FTC Act — and that would make Twitter a three-time loser.” Jon Leibowitz, former FTC chair
+
+Zatko filed his disclosure to the SEC “to help the agency enforce the laws,” and to gain federal whistleblower protections, Tye said. “The prospect of a reward was not a factor in Mudge’s decision, and in fact he didn’t even know about the reward program when he decided to become a lawful whistleblower.”
+
+The whistleblower disclosure comes months after the FTC leveled its own allegations that Twitter misused account security information for advertising purposes in violation of the 2011 order. Twitter agreed to pay $150 million in May to resolve those claims, in a second FTC settlement.
+
+Now, Zatko’s disclosure raises the prospect of yet another possible violation of Twitter’s FTC commitments — an extraordinarily dangerous position for a company and its executives to be in, according to Jon Leibowitz, who was chair of the FTC at the time of Twitter’s 2011 settlement.
+
+“If the facts are true, they would constitute violations of the order and of the FTC Act — and that would make Twitter a three-time loser,” Leibowitz told CNN in an interview. “There would be no reason for the FTC not to throw the book at them.” Of course, Leibowitz added, the FTC would need to conduct a thorough investigation first to determine for itself whether a new violation has occurred.
+
+The Twitter logo is seen at Twitter's Headquarters in San Francisco, California, in the evening. Adobe Stock
+
+Sen. Richard Blumenthal, chair of the Senate subcommittee on consumer protection and a former Connecticut attorney general, said in a statement Tuesday that Zatko’s disclosures “reveal that responsibility for Twitter’s security failures rests with those at the top.”
+
+He further urged the FTC in a letter to investigate the allegations, saying officials should fine and hold Twitter executives personally accountable if it’s found they were responsible for violations of the FTC Act or Twitter’s consent order. The FTC’s own credibility is on the line, Blumenthal said in the letter, which was also sent to the FTC on Tuesday.
+
+“If the Commission does not vigorously oversee and enforce its orders, they will not be taken seriously and these dangerous breaches will continue,” Blumenthal wrote.
+
+“Things actually got meaningfully worse”
+
+Under its charter, the FTC is authorized to prosecute “unfair or deceptive business acts and practices.” In the internet age, that has increasingly meant going after companies that claim to protect consumers’ digital information but that in fact fail to live up to their public claims or misrepresent those protections.
+
+Twitter’s original 2011 settlement arose from two alleged incidents where hackers were able to compromise weak employee passwords and misuse their access to take over Twitter accounts and snoop on private information, in spite of Twitter’s public statements on safeguarding user privacy and security.
+
+Twitter’s settlement was not an admission of wrongdoing. But it required Twitter to create “a comprehensive information security program that is reasonably designed to protect the security, privacy, confidentiality, and integrity of nonpublic consumer information” — a commitment Zatko alleges has never been met.
+
+As part of its latest FTC settlement this year, Twitter committed to even more granular cybersecurity obligations including having “access policies and controls” for all databases containing user data, as well as for systems that either grant employees access to Twitter accounts or that have information that “enables or facilitates” access to internal Twitter systems. Those obligations are already in effect following a judge’s signing of the order this spring, further heightening the potential legal exposure for Twitter.
+
+Despite Twitter’s mounting regulatory requirements, Zatko alleges not much has changed at the company since the FTC’s initial complaint more than a decade ago.
+
+“Things actually got meaningfully worse,” his disclosure to Congress alleges. The disclosure claims that even as Twitter was actively negotiating the second settlement with the FTC last year, the company, in an entirely separate incident, allowed the very same type of misuse of data for advertising purposes to recur.
+
+In response to more than 50 specific questions from CNN related to the disclosure, Twitter did not address Zatko’s allegation surrounding that incident. It did acknowledge that its engineering and product teams are able to access Twitter’s live production environment provided they have a specific business justification, adding that members of other departments — such as finance, legal, marketing, sales, human resources and support — cannot. Twitter also told CNN that employee computers are automatically checked to determine whether they are up to date, and those that fail the checks cannot connect to production.
+
+Potential for new settlement or suit
+
+The stakes of the disclosure could be hugely significant. An FTC finding that Twitter has violated its order a third time could result in the harshest penalties the agency has ever imposed on the company. The FTC is also currently chaired by Lina Khan, a vocal skeptic of tech platforms and of what she calls a “commercial surveillance” industry that profits off of lax national privacy rules. Under Khan, the FTC is considering drafting sweeping new privacy regulations that could directly affect companies across the economy, including Twitter, and how they collect, use and share personal data.
+
+Should the FTC conclude a violation occurred, it would have two main options for holding Twitter accountable, former agency officials say. It could seek a third settlement with the company, or it could sue Twitter over the existing consent orders and ask a court for appropriate penalties.
+
+In the case of a settlement, the FTC could even seek to name individual executives — holding them personally accountable and forcing them to accept obligations on their own conduct for which they could be held liable if they or the company violate the order again.
+
+If it turns out that Twitter did violate its legal obligations, Leibowitz said, the FTC should “very seriously consider … putting the executives responsible under order.”
+
+The mere threat of naming individual executives can be effective, he added. During his time as FTC chair, Leibowitz recalled, “I can’t tell you how many CEOs came into my office saying, ‘Please don’t name me. I just don’t want to be named. I don’t mind if I pay more money; I don’t mind if my company is put under a stronger order. But I just don’t want to be named.’”
+
+Megan Gray, a former FTC enforcement attorney who has worked on some of the agency’s biggest privacy cases, said the tools at the FTC’s disposal are numerous. (CNN spoke to Gray prior to Zatko’s allegations becoming public and without disclosing their existence, and then again on Tuesday after CNN and The Washington Post reported Zatko’s disclosure.)
+
+“Escalating fines, more compliance reports, more granular controls and restrictions on their lines of business,” Gray said, ticking off a list of options. “Or a requirement to get advertisements pre-approved by the agency, or excluding them from certain types of transactions.”
+
+An agency in need of more tools to hold companies accountable
+
+Twitter has cited its third-party audits as evidence it has upheld its FTC commitments. But in general, the way the FTC’s audit requirements often work in practice can let companies off the hook far too easily, Gray said.
+
+For example, many FTC orders are written broadly enough to allow a company to satisfy its obligations based on, among other things, “attestations” that they are compliant — a pinkie promise, Gray told CNN. In reports to the FTC, companies conducting third-party audits may simply say, or cite statements by the company under audit, that the company is in compliance.
+
+From 2011 until 2022, Twitter’s consent order with the FTC allowed for audit reports based on attestations. Then, in its second settlement this year, the FTC made the audit requirements more specific, barring Twitter’s third-party auditors from relying “primarily” on attestations by Twitter’s management.
+
+Even with those types of restrictions, there are still reasons to be skeptical of FTC audit reports, Gray said. That’s because third-party auditors are paid not by the FTC, but by the companies being audited, she said.
+
+“So the incentives are completely out of whack for the auditing companies,” Gray added.
+
+Twitter told CNN that audits are just one of the privacy and security programs Twitter has to meet its FTC obligations.
+
+Many current and former FTC officials, as well as US lawmakers and consumer advocates, have pushed to give the FTC more tools for holding businesses accountable, particularly after the Supreme Court last year struck down the agency’s ability to seek monetary relief under some circumstances.
+
+Some proponents of tougher oversight have called for, for example, letting the FTC issue fines to companies for first-time violations of the FTC Act. Currently, the FTC may generally only seek to impose civil penalties on a company after it has violated a prior settlement.
+
+In the case of Twitter, negotiating a consent order for a third time may seem like an odd look, another former FTC official said, speaking on condition of anonymity in order to speak more candidly. But in the event it finds a violation, and as with any case, the FTC will need to weigh what it believes it can obtain from Twitter through a settlement against what the agency may be able to win from a trial court.
+
+There are risks to long, drawn-out litigation, where a court may actually award the FTC less, the former official said.
+
+“Some people do think these orders are kind of nothing,” the former official said, “but they’re not. Maybe in some cases they are, and companies don’t take them seriously. But in a lot of cases they do, and the FTC can exact a lot of pain. A lot of pain.”

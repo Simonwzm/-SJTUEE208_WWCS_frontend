@@ -1,0 +1,31 @@
+CNN Business —
+
+A week after saying his administration was “looking at” banning short-form video app TikTok in the United States, President Donald Trump claimed credit for personally thwarting the expansion plans of another Chinese-affiliated technology company: Huawei.
+
+“We convinced many countries, and I did this myself for the most part, not to use Huawei, because we think it’s an unsafe security risk,” Trump said at a White House press conference on Tuesday. Earlier in the day, the UK government said it was reversing a decision to allow Huawei to build parts of its new 5G mobile network. Under the announcement, any existing 5G gear from Huawei must be ripped out — virtually eliminating the company from a major western market.
+
+The UK reversal is at least a symbolic victory for a White House that has at times struggled to persuade allies of the alleged security risks of using Chinese technology. And now, it may embolden Trump as he weighs whether to clamp down on TikTok, an app some policymakers allege is a national security threat, even as experts say there is little concrete evidence. (A Trump push to ban TikTok would have some precedent; earlier this month, India said it would ban the app, among others, after a bloody border clash involving Indian and Chinese forces.)
+
+Huawei and TikTok operate in very different lines of business — one is a telecom company that deals with a complicated global supply chain and the other is a social app beloved by teens. But the telecom equipment maker’s experience with the Trump administration hints at what may be in store for the social media app — ranging from public criticism by government officials and greater regulatory scrutiny to legislation seeking to lock it out of the US market, where consumers have downloaded TikTok more than 165 million times.
+
+In a statement, TikTok’s head of US public policy, Michael Beckerman, said there is a lot of “misinformation about TikTok right now.” The company “stores US user data in Virginia, with backup in Singapore, and we work to minimize access across regions,” he said. “We welcome conversations with lawmakers who want to understand our company,”
+
+TikTok has taken pains to distance itself from China by pointing to its recently hired American CEO and arguing that it stores US user data on US-based servers. It has also announced possible changes to its corporate structure that could further emphasize its independence from its Chinese parent company, ByteDance.
+
+Huawei didn’t immediately respond to a request for comment, but it has consistently denied that it poses a spying risk. The company has insisted that it would challenge any attempts by the Chinese government to acquire its customers’ data.
+
+The US has taken numerous steps to freeze Huawei out of the American market. On Wednesday, the State Department said it was imposing visa restrictions on employees of some Chinese technology companies, including Huawei. Last year, the US government placed Huawei on a Commerce Department watchlist, making it impossible for US companies to do business with Huawei without a waiver. It has restricted federal agencies from using Huawei gear, and the Federal Communications Commission has forbidden US wireless carriers from buying Huawei products or services using agency-related funds. Separately, the US has sued Huawei over allegations of trade secret theft — charges Huawei has called “unfounded and unfair.”
+
+Compared to Huawei, TikTok may seem like a completely different operation. Most importantly, it does not have access to critical infrastructure networks that are core to national security, said James Lewis, a cybersecurity expert at the Center for Strategic and International Studies.
+
+But TikTok does collect personal information on many Americans, data that lawmakers such as Sens. Chuck Schumer, Tom Cotton and Josh Hawley have said could undermine national security if it winds up in the possession of hostile foreign governments. With that in mind, policymakers like Hawley have proposed banning TikTok from US government devices.
+
+While the US government would be well within its rights to set federal workplace policies regarding TikTok, it’s less clear how it could force states or the private sector to follow suit — though it may not need to. At least one company, Wells Fargo (WFC), has already told employees not to have TikTok installed on company devices.
+
+To keep TikTok off of the app stores of US tech giants, Trump could seek to place TikTok on the same Commerce Department watchlist that it put Huawei on. However, Lewis has said the move could be legally murky because entities placed on the list are usually said to have violated laws or rules around trade, arms control or intellectual property theft. There is little evidence linking TikTok to that type of conduct.
+
+It isn’t entirely clear what the Trump administration may seek to do to TikTok yet, but there is clearly bipartisan hostility toward TikTok. That’s prompted TikTok to quickly expand its presence in Washington. Beckerman said the company is growing its team in the region, and creating so-called “Transparency Centers” in the nation’s capital and in Los Angeles “so that lawmakers and invited experts can see for themselves how we moderate content and keep our users’ data secure.”
+
+Still, when policymakers are generally on the same page, very little can stand in their way. That’s a lesson Huawei has learned, even as its commercial partners — ranging from the large and powerful to the small and rural — have warned it would be extremely costly to tear out Huawei equipment.
+
+What TikTok has that Huawei doesn’t is a culturally significant and politically active user base. But just because TikTok users appear to have successfully disrupted a Trump campaign rally once, that doesn’t necessarily translate to the sort of influence that matters inside the White House.

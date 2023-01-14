@@ -1,0 +1,69 @@
+Last year, Meta plowed $10 billion into Facebook Reality Labs , the part of the company that develops virtual- and augmented-reality gadgets and software. The division is responsible for bringing to life the Facebook founder's vision of a world where virtual reality and augmentedreality change everything from shopping for groceries to hanging out with friends.
+
+Zuckerberg went as far as changing the company's corporate name from Facebook to Meta last year — a move reflecting its focus on building a so-called metaverse, which is a sci-fi concept that envisions, essentially, an immersive version of the internet. And Meta has said it intends to invest even more than that $10 billion for the next several years.
+
+As one of the big winners of Web 2.0 — with spoils including massive resources and billions of users — Meta is uniquely positioned to shape what comes next on the internet. And it's endeavoring to keep its metaverse vision front and center: Zuckerberg said last week that the company will roll out a desktop version of its flagship social VR app, Horizon Worlds, later this year so people can experience it without a headset (the company has also talked about a mobile version of the app ). He added that, in the future, you'll be embodied by your Meta avatar — the cartoonish, customizable version of yourself used to navigate the app — right when you put on your headset, "ready to interact in Horizon with your friends."
+
+With this shift to the metaverse, the company must see a fresh start from mistakes of the past, like the Cambridge Analytica scandal and rampant misinformation plaguing Facebook. But there's already one problem that some users have reported cropping up in the nascent space: harassment and other unwanted behavior, particularly in social VR apps and games, including in Horizon Worlds. Recently reported incidents include obnoxious and racist comments spouted by other people's avatars, as well as groping and kissing
+
+A visual of the safety bubbles recently rolled out for Horizon Worlds, which users can customize or remove. The personal boundary bubbles are actually invisible; this visual from Meta only illustrates the concept of the personal boundary.
+
+Harassment has a long history in digital spaces, but VR's literally in-your-face medium can make it feel much more real than on a flat screen. And companies behind several of the most popular social VR apps don't want to talk about it: Meta, along with popular virtual reality social apps VRChat and Rec Room, declined CNN Business's requests for interviews about how they're fighting harassment in VR.
+
+But the issue is almost certainly going to become more common as cheaper, more powerful headsets spur a growing number of people to shell out for the technology: You can currently buy the Quest 2 for $299, making it cheaper (and easier to find) than a Sony PlayStation 5.
+
+"I think [harassment] is an issue we have to take seriously in VR, especially if we want it to be a welcoming online space, a diverse online space," said Daniel Castro, vice president at the Information Technology & Innovation Foundation. "Even though you see really bad behavior happen in the real world, I think it can become worse online."
+
+Bubbles, blocks, and mutes
+
+VR didn't become accessible to the masses overnight: For Meta, it began with the company's 2014 purchase of Oculus VR, and in the years since the company has rolled out a series of headsets that are increasingly capable, affordable and portable. That work is paying off, as Meta's Quest headsets made up an estimated 80% of VR headsets shipped last year, according to Jitesh Ubrani, a research manager at tech market researcher IDC.
+
+And as more people spend time in VR, the bad behavior that can occur is coming into sharper focus. It's hard to tell how widespread VR harassment is, but a December report from the nonprofit Center for Countering Digital Hate gives a sense of its prevalence in VRChat. There, researchers identified 100 potential violations of Meta's VR policies, including sexual harassment and abuse, during 11 hours and 30 minutes spent recording user activity. (While VRChat declined an interview, Charles Tupper, VRChat's head of community, provided details via email about its safety tools and said the company regularly has more than 80,000 people using VRChat — the majority of them with VR headsets — during peak times on weekends.)
+
+In hopes of stopping and preventing bad behavior, social VR apps tend to offer a number of common tools that people can use. These tools range from the ability to set up an invisible bubble of personal space around yourself to prevent other avatars from coming too close to you, to muting people you don't want to hear, to blocking them entirely so they can't see or hear you and vice versa.
+
+Reporting bad behavior and the moderation practices in place in VR can be similar to those in online gaming. Users can sometimes vote to kick someone out of a VR space — I experienced this firsthand recently when I was asked to vote on whether to expel a person from Meta's Horizon Worlds' plaza after they repeatedly approached me and other users, saying, "By the way, I'm single." (That user got the boot.) Human moderators are also used to respond to complaints of bad behavior, and apps may suspend or ban users if their behavior is egregious enough.
+
+Horizon Worlds, VRChat, and Rec Room all offer these sorts of safety features. Horizon Worlds added its own default four-foot buffer zone around users' avatars in February, about three months after the app launched. VRChat and Rec Room, which have both been around for years, also start users off with a default buffer zone.
+
+"Those steps are the right direction," Castro said, though he recognizes that different apps and platforms — as well as public VR spaces where anyone can stop by, versus private spaces where invitations are limited — will come with different content moderation challenges.
+
+These tools are sure to evolve over time, too, as more people use VR. In a statement, Bill Stillwell, product manager for VR integrity at Meta, said, "We will continue to make improvements as we learn more about how people interact in these spaces."
+
+A burden on victims
+
+While some of the current tools can be used proactively, many of them are only useful after you've already been harassed, pointed out Guo Freeman, an assistant professor of human-centered computing at Clemson University who studies gaming and social VR. Because of that, she feels they put a burden on victims.
+
+One effort at making it easier to spot and report harassment comes from a company called Modulate. Its software, known as ToxMod, uses artificial intelligence to monitor and analyze what users are saying, then predicts when someone is spouting harassing or racist language, for instance, and not simply engaging in trash talk. ToxMod can then alert a human moderator or, in some cases, be set up to automatically mute offending users. Rec Room is trying it out in some of the VR app's public spaces.
+
+It makes sense that app makers are grappling with the moderation challenges that come with scaling up, and considering whether new types of automation could help: The VR market is still tiny compared to that of console video games, but it's growing fast. IDC estimates nearly 11 million VR headsets shipped out in 2021, which is a 96% jump over the 5.6 million shipped a year before, Ubrani said. In both years, Meta's Quest headsets made up the majority of those shipments.
+
+In some ways, ToxMod is similar to how many social media companies already moderate their platforms, with a combination of humans and AI. But the feeling of acute presence that users tend to experience in VR — and the fact that it relies so heavily on spoken, rather than written communication — could make some people feel as though they're being spied on. (Modulate said users are notified when they enter a virtual space where ToxMod may be in use, and when a new app or game starts using ToxMod, Modulate's community manager will typically communicate with users online — such as via a game's Discord channel — to answer any questions about how it works.)
+
+"This is definitely something we're spending a lot of time thinking about," Modulate CEO Mike Pappas said.
+
+There aren't established norms
+
+An overarching challenge in addressing VR harassment is the lack of agreement over what even counts as harassment in a virtual space versus a physical one. In part, that's because while VR itself isn't new — it's been around in different incarnations for decades — it is new as a mass medium, and it's changing all the time as a result.
+
+This newness means there aren't established norms, which can make it hard for anyone behind a headset to figure out what's okay or not okay when interacting with other people in VR. A growing number of kids are coming into virtual spaces as well, and, as Freeman pointed out, what a kid may see as playing (such as running around and acting wildly) an adult may see as harassment.
+
+"A lot of times in our research, participants feel very confused about whether or not this was playful behavior or harassment," Freeman said.
+
+A screenshot taken while using VRChat shows tips that appear briefly on the screen before getting into the app.
+
+Harassment in VR can also take on new forms that people may not have offline. Kelly Guillory, a comic book illustrator and the editor of an online magazine about VR, had this experience last year after blocking a former friend in VRChat who had started acting controlling and having emotional outbursts.
+
+Once she blocked him, she could no longer see or hear him in VRChat. But Guillory was, eerily, still able to perceive his nearby presence. On multiple occasions while she was engaging with friends on the app, her harasser's avatar would approach the group. She believes that he suspected her avatar was there, as her friends often spoke her name aloud. He'd join the conversation, talking to other people that she was interacting with. But because Guillory could neither see nor hear his avatar, it looked like her friends were having a one-sided conversation. To Guillory, it was as if her harasser was attempting to circumvent her block and impose his virtual presence on her.
+
+"The first couple times it happened it was annoying," she said. "But then it kept happening."
+
+It can feel real
+
+Such experiences in VR can feel extremely real. Freeman said that in her research people reported that having their avatar grabbed at by another person's avatar felt realistic, especially if they were using full-body tracking to reproduce their limbs' motions. One woman reported that another VR user would get close to her face, looking as if they'd kissed her — an action that made her feel scared, she told Freeman, as it felt similar to someone doing the same thing in the offline world.
+
+"Because it's immersive, the embodied feature of social VR, those behaviors kind of feel realistic, which means it could feel damaging because it feels physical, the threat," Freeman said.
+
+This was the case for Guillory: She developed anxiety over it and lost trust in people online, she said. She eventually spoke out on Twitter about the harassment, which helped.
+
+"I still love it here, but I want people to do better," she said.

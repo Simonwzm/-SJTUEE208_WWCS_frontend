@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/180918093400-fedex-truck.jpg?q=x_0,y_200,h_2250,w_3999,c_crop/w_800

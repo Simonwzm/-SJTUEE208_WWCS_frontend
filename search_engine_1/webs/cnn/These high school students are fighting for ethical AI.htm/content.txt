@@ -1,0 +1,77 @@
+(CNN Business) It's been a busy year for Encode Justice, an international group of grassroots activists pushing for ethical uses of artificial intelligence. There have been legislators to lobby, online seminars to hold, and meetings to attend, all in hopes of educating others about the harms of facial-recognition technology.
+
+It would be a lot for any activist group to fit into the workday; most of the team behind Encode Justice have had to cram it all in around high school.
+
+That's because the group was created and is run almost entirely by high schoolers. Its founder and president, Sneha Revanur, is a 16-year-old high-school senior in San Jose, California and at least one of the members of the leadership team isn't old enough to get a driver's license. It may be the only youth activist group focused squarely on pointing out the dangers — both real and potential — of AI-based applications such as facial-recognition software and deepfakes.
+
+"We're fighting for a future in which technology can be used to uplift, and not to oppress," Revanur told CNN Business.
+
+The everyday use of AI has proliferated over the last few years but it's only recently that the public has taken notice.Facial-recognition systems in particular have been increasingly scrutinized for concerns about their accuracy and underlying racial bias. For example,the technology has been shown to be less accurate when identifying people of color, and several Black men , at least, have been wrongfully arrested due to the use of facial recognition. While there's no national legislation regulating the technology's use, a growing number of states and cities are passing their own rules to limit or ban its use.
+
+In moves ostensibly meant to protect student safety and integrity, schools are increasingly using facial-recognition systems for on-campus surveillance systems and as part of remote testing services . Encode Justice is taking action in hopes of making students and adults aware of its concerns about the creep of such surveillance — and this action can take many forms and be done from nearly anywhere as the pandemic also made online mobilization more common.
+
+On a week in mid-September, for instance, Encode Justice's members were working with the American Civil Liberties Union of Massachusetts and another youth group, the Massachussets-based Student Immigrant Movement, to fight against facial-recognition technology in schools and other public places. This student week of action included encouraging people to contact local officials to push for a state ban on facial-recognition software in schools, and encouraging people to post support for such a ban on social media.
+
+Yet while their time (and experience) is limited, the students behind Encode Justice have gathered young members around the world. And they're making their voices heard by legislators, established civil rights groups like the ACLU, and a growing number of their peers.
+
+How it started
+
+It started with a news story. About two years ago, Revanur came across a 2016 ProPublica investigation into risk-assessment software that uses algorithms to predict whether a person may commit a crime in the future. One statistic stuck out for her: a ProPublica analysis of public data determined that the software's algorithm was labeling Black defendants as likely to commit a future crime at nearly twice the rate of White ones. (Such software in use in the United States is not known to use AI, thus far.)
+
+"That was a very rude awakening for me in which I realized technology is not this absolutely objective, neutral thing as it's reported to be," she said.
+
+She started Encode Justice during the summer of 2020, in hopes of raising opposition to the measure. In 2020, Revanur decided to take action: That year, one of of her state's ballot measures, Proposition 25, sought to replace California's pretrial cash-bail system with risk-assessment software that judges would use to determine whether to hold or release a person prior to their court dates.She started Encode Justice during the summer of 2020, in hopes of raising opposition to the measure.
+
+Revanur worked with a team of 15 other teenage volunteers, most of whom she knew through school. They organized town hall events, wrote opinion pieces, and sent phone calls and texts against Prop 25, which opponents contended would perpetuate racial inequality in policing due to the data that risk-assessment tools rely on (which can include a defendant's age and arrest history, for example).
+
+In a November vote, the measure failed to pass, and Revanur felt energized by the result. But she also realized that she was only looking at a piece of a larger problem involving the ways that technology can be used.
+
+"At that point I realized Encode Justice is addressing a challenge that isn't limited to one single ballot measure," she said. "It's a twenty-first-century civil rights challenge we're going to have to grapple with."
+
+Revanur decided Encode Justice should look more deeply at the ethical issues posed by all kinds of algorithm-laden technologies, particularly those that involve AI, such as facial-recognition technology. The group is fighting against its rollout in schools and other public places, lobbying legislators at the federal, state, and local level.
+
+Encode Justice quickly grew through social media, Revanur said, and recently merged with another, smaller, student-led group called Data4Humanity. It now has about 250 volunteers, she said, across more than 35 states and 25 countries, including an executive team composed of 15 students (12 of its leaders are in high school; three in college).
+
+Damilola Awofisayo, a high-school senior, serves as Encode Justice's director of external affairs.
+
+Revanur speaks quickly but precisely — she's excited and passionate and has clearly spent a lot of time thinking about the dangers, both real and potential, that technology can pose. She's almost in awe of the group she's built, calling its growth "really surreal".
+
+The group's mission resonated with Damilola Awofisayo, a high-school senior from Woodbridge, Virginia, who said she experienced facial-recognition software misidentification while attending a now-defunct summer camp before her sophomore year. Awofisayo said a picture of someone else's face was wrongly matched by facial-recognition software to a video of her, which resulted in her receiving an ID card with another camper's picture on it.
+
+When Awofisayo learned about Encode Justice's work, she said she realized, "Hey, I've actually experienced an algorithmic harm, and these people are doing something to solve that." She's now the group's director of external affairs.
+
+"Looking at history, civil rights were always fought [for] by teenagers, and Encode Justice understands that, and uses the medium we're used to to actually combat it," Awofisayo said.
+
+How it's going
+
+Often, that medium is social media. Encode Justice tries to reach other youth through platforms including Twitter, Instagram, and TikTok.
+
+Over the past three months, chapters have been paired up with one another to host town-hall-style events and conduct email and phone-based campaigns, said Kashyap Rajesh, a high-school sophomore in Hawthorn Woods, Illinois, who works as Encode Justice's chapter coordinator. He said chapters are also meeting with guest speakers from data and privacy related groups.
+
+Kashyap Rajesh, a high-school sophomore, serves as Encode Justice's chapter coordinator.
+
+Revanur said the group has reached over 3,000 high school students so far (both in person and virtually) through presentations developed and given by its members. One looks at AI and policing, another AI and climate change, a third AI and healthcare, she said. Encode Justice has also partnered with conferences and hackathons to talk to attendees.
+
+The group has also been reaching out to lawmakers across the political spectrum. This summer, the group's executive board went to Washington, DC, and met with staff at several senators' offices, said Adrian Klaits, the group's co-director of advocacy and a high-school junior in Vienna, Virginia.
+
+Despite being run entirely by volunteers, all this work costs money. Revanur said funding has come from grants, including $5,000 from the We Are Family Foundation
+
+"Definitely without much financial capital we've been able to accomplish a lot," Revanur said.
+
+Youthful advantage
+
+These accomplishments include partnering with veteran activists, such as the effort with the ACLU of Massachusetts, to amplify the voices of students in its fight for algorithmic fairness and learn from those who have been working on social justice and technology issues for years.
+
+"Those of us who are a little more established and have done more political work can, I think, provide some important guidance about what has worked in the past, what we can try to explore together," said Kade Crockford, the technology for liberty program director at the ACLU of Massachusetts.
+
+Encode Justice is also working on a yet-to-be-launched project with the Algorithmic Justice League , which was founded by activist and computer scientist Joy Buolamwini and raises awareness of the consequences of AI.
+
+Adrian Klaits works as co-director of advocacy; he's a junior in high school.
+
+Sasha Costanza-Chock, director of research and design at the Algorithmic Justice League, said their group got to know Encode Justice last fall while looking for youth groups to organize with in its work against algorithmic injustice in education. The groups are collaborating on a way for people to share their stories of being harmed by systems that use AI.
+
+"We really believe in and support the work they're doing," Costanza-Chock said. "Movements need to be led by the people who are most directly impacted. So the fight for more accountable and ethical AI in schools is going to have to have a strong leadership component from students in those schools."
+
+While the members of Encode Justice don't have years of experience organizing or fundraising, they do have energy and dedication, Klaits pointed out, which they can use to help spark change. And like young climate activists, they uniquely understand the longer-term stakes for their own lives in pressing for change now.
+
+"There aren't a lot of youth activists in this movement and I think especially when we go into lobbying meetings or a meeting with different representatives, people important to our cause, it's important to understand that we're the ones who are going to be dealing with this technology the longest," said Klaits. "We're the ones who are being most affected throughout our lifetimes."

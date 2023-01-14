@@ -1,0 +1,31 @@
+London CNN Business —
+
+Thousands of companies may have to find new ways of transferring data from Europe to the United States after a court ruled that the current transatlantic agreement does not sufficiently protect European citizens’ data from US surveillance.
+
+Europe’s highest court struck down the Privacy Shield agreement between the European Union and the United States, which about 5,000 companies rely on for transferring information across borders.
+
+The court kept in place other agreements that can be used between Europe and the rest of the world. Those so-called standard contractual clauses are only valid if the country receiving the data has protections in place that are equivalent to those under EU law — something security experts say the US does not have.
+
+That leaves thousands of companies in the lurch, said Caitlin Fennessy, research director at the International Association of Privacy Professionals.
+
+“I think this is the worst-case scenario for US companies,” Hennessy said. “It’s difficult to understand what legal option companies have. But it will demand immediate action by EU and US policy makers …for guidance and reassurance.”
+
+The ruling stems from a seven-year legal battle brought initially by privacy advocate Max Schrems against Facebook (FB) and the Irish Data Protection Commission. Schrems has argued that the Privacy Shield does not properly protect EU citizens’ data from US surveillance practices.
+
+Schrems celebrated the ruling. “This is a total blow to the Irish DPC and Facebook. It is clear that the US will have to seriously change their surveillance laws, if US companies want to continue to play a role on the EU market,” he said.
+
+The Privacy Shield replaced a previous agreement called Safe Harbor, which was struck down in 2015 as a result of Schrems’ complaint.
+
+In a statement, Facebook associate general counsel Eva Nagle said it welcomed the ruling to keep the standard contractual clauses in place for certain countries.
+
+“We are carefully considering the findings and implications of the decision of the Court of Justice in relation to the use of Privacy Shield and we look forward to regulatory guidance in this regard. We will ensure that our advertisers, customers and partners can continue to enjoy Facebook services while keeping their data safe and secure.”
+
+European Commission Vice President Věra Jourová said after the ruling that EU and US officials have been in close contact and had already been working on alternatives, including possibly updating the Privacy Shield agreement.
+
+Jourová added that it will take time to analyze the decision and understand its implications.
+
+“We will continue our work to ensure the continuity of safe data flows,” she said, “We strongly believe that in the globalized world of today it is essential to have a broad tool box for international transfers while ensuring a high level of protection for personal data. We are not starting from scratch.”
+
+US Secretary of Commerce Wilbur Ross said he was disappointed by the ruling and hoped to “limit the negative consequences to the $7.1 trillion transatlantic economic relationship that is so vital to our respective citizens, companies, and governments.”
+
+Ross said the US will continue to administer the Privacy Shield program while it further studies the decision.

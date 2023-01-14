@@ -1,0 +1,8 @@
+alphabet inc
+amazon.com inc
+companies
+facebook
+google inc
+twitch
+microsoft
+youtube.com

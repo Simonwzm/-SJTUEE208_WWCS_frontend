@@ -1,0 +1,67 @@
+New York CNN Business —
+
+First, Elon Musk wanted to buy Twitter, but it wasn’t clear if the company would be on board. Then the two sides agreed to a stunning, $44 billion deal. Now, Musk wants out of the agreement and Twitter is suing to stop him.
+
+Less than three months after Musk and Twitter agreed to the billion acquisition, the two parties appear bound for a courtroom to determine the fate of the deal. No matter the outcome of the case, one thing seems certain: Twitter will have to continue confronting a painful amount of uncertainty for its business and employees from the ongoing Musk drama.
+
+Musk moved to terminate the acquisition agreement last week, alleging that Twitter (TWTR) breached the deal by failing to hand over data he says he needs to evaluate the number of bots and spam accounts on the platform. This week, Twitter (TWTR) hit back with a 60-plus-page lawsuit that accuses Musk, not the company, of violating the agreement and seeks to compel him to follow through with the deal.
+
+Many merger and acquisition experts agree that Twitter has the stronger legal argument. Twitter claims in its suit that with financing commitments for the deal still intact, no apparent issues with regulatory approval and cooperation by the company itself, Musk has no standing to walk away from the agreement.
+
+But a possible stronger legal argument doesn’t necessarily mean Twitter is on strong footing in other ways. Twitter was already struggling to grow its advertising business and user base before Musk got involved. Like other tech companies, Twitter is also trying to cut down on costs amid rampant inflation and fears of a recession.
+
+With the suit, the company is primed to enter a legal battle with the richest man in the world that risks dragging on for months. (Twitter filed a motion for expedited treatment of the case, requesting a four-day trial in September.) If it prevails, Twitter could effectively force a billionaire who, according to its own complaint, has repeatedly disparaged “Twitter and its personnel” to become its new owner.
+
+It’s a strange conundrum for the company — especially after its users and employees have expressed concerns about Musk as an owner — but since the deal price of $54.20 per share represents a huge premium over Twitter’s current stock price, Twitter’s board has a duty to shareholders to try to see the deal through, or at least to get as much money out of Musk as possible. And the only way a court will side in its favor is if Twitter shows it is making a good faith effort to complete the agreement.
+
+Alternatively, Twitter could negotiate a lower price for the deal or a settlement that allows Musk to walk away — and hope that its shareholders don’t disapprove. Or Musk could win and walk away, leaving Twitter with nothing, or worse. Deal or no deal, Musk remains one of Twitter’s largest shareholders, but that too could change if he chooses to wash his hands of the company, with potential ripple effects for the company’s other shareholders.
+
+In the meantime, the company is left with distracted leadership and demoralized employees as well as users, advertisers and shareholders unclear about the platform’s future.
+
+“It’s hard to imagine how the company is going to get itself together and go forward” regardless of how the suit resolves, said Carl Tobias, a professor at the University of Richmond School of Law. “It may just not have a very happy resolution, unfortunately.”
+
+Twitter declined to comment for this story. Musk has not commented directly on the lawsuit, but shortly after it was filed, he tweeted “Oh the irony lol.”
+
+Bracing for a ‘messy’ legal battle
+
+In his letter seeking to terminate the deal, Musk’s legal team hinted at his likely arguments in the case. In addition to his claims that Twitter has not upheld its obligations to share information, the letter alleges (without providing evidence) that the company’s public statements that fake and spam accounts make up around 5% of its monetizable daily active users were false or misleading.
+
+“What he seems to be after here is an exit ticket to just get off the ride and walk away for nothing,” said Eric Talley, a corporate law professor at Columbia Law School. But, he added, those arguments may be difficult to stand up in court. “They all have a tinge of wishful thinking.”
+
+In particular, Musk’s claim that he relied on misleading public statements by Twitter about bots when making the deal “flies in the face of his entire behavior leading up to the transaction,” Talley said. Twitter noted as much in its lawsuit, pointing to Musk’s public statements about wanting to purchase the company so that he could “defeat the spam bots.” Essentially, it’s hard for Musk to argue he didn’t know about Twitter’s bots when he explicitly said that was his reason for buying the company in the first place.
+
+Twitter’s complaint also alleges that ​​on April 9, the day Musk said he wanted to buy Twitter outright instead of joining its board, Musk texted Twitter board chair Bret Taylor. In his text, Musk allegedly said that “‘purging fake users’ from the platform had to be done in the context of a private company because he believed that it would ‘make the numbers look terrible.’”
+
+Twitter’s lawsuit also pushes back on the idea that it has resisted sharing information with Musk. On top of handing over its “firehose” of data about tweets on the platform and “a detailed summary” of its process for measuring bots, Twitter representatives also held multiple meetings with Musk’s team and offered the opportunity for others, which Musk declined or ignored, the complaint alleges.
+
+Legal experts note that the original acquisition agreement grants Twitter significant leeway to determine if information requests are “reasonable” and tied to the completion of the deal, and to deny them if they could harm the company competitively.
+
+Musk also claims that Twitter violated an agreement to operate its business normally ahead of the merger by letting go of two executives and announcing lay-offs of a portion of its recruiting team. Twitter, however, noted in its complaint that while Musk had requested a provision requiring Twitter to seek his consent before making such changes to its workforce, “Twitter successfully struck that provision before signing” the agreement. Furthermore, Twitter alleges that it tried to introduce employee retention programs, but Musk prevented them from being enacted.
+
+Musk will largely bear the burden of proving that he did not simply “wake up with a huge financial hangover” and that his claims are not a pretext to get out of the deal, according to Talley.
+
+“It’s going to be a very messy litigation,” said Kenneth Henderson, a partner at law firm Bryan Cave Leighton Paisner.
+
+‘How long can Twitter last?’
+
+Ultimately, the court will examine whether or not there has been a breach of contract, either by Musk or Twitter. If it sides with Musk and finds that Twitter has breached the deal, it could allow the billionaire to walk away, and potentially sue the company for damages, experts say.
+
+But if the court sides with Twitter and finds that Musk’s attempts to exit amount to a violation of the deal, Twitter is entitled to ask the court, as it does in its suit, for specific performance, a remedy in which Musk would receive an injunction forcing him to close the deal. While specific performance clauses are often included in large corporate acquisition contracts, they don’t often need to be executed, meaning the court will have limited precedent to rely on in evaluating the case between Twitter and Musk, according to Henderson.
+
+There is some public debate as to whether the Delaware Chancery Court, where the case was filed, will be willing to grant specific performance in this case, given Musk’s unpredictable nature and the possibility he might not comply with the decision. “The courts in Delaware, courts all over, are very concerned about issuing a decision or issuing an order that then is ignored … it reflects poorly on the court,” Carolyn Berger, former vice chancellor of the Delware Chancery Court, told CNBC on Wednesday.
+
+Still, Talley said he doesn’t think the court would shy away from ordering such a remedy, if it finds that Musk’s attempt to walk away violates the deal. “The court has not generally blinked in cases where you’ve signed up for a deal and you get buyer’s remorse and you try to walk away, the one stock and trade that we have as a judicial system is our willingness to enforce contracts so we’re going to do that,” Talley said.
+
+Such a move could create an entirely new state of uncertainty for Twitter. If Musk complied with an order to complete the deal, shareholders would get their payout. But the company, along with its employees and customers, would be left in the hands of an owner who has said he doesn’t want it, and who has previously stated plans to overhaul key aspects of how Twitter operates.
+
+But even someone with as much money as Musk might not be able to simply ignore even this court ruling. If Musk were to try to ignore the court order and continue to flout his obligations under the deal, the court could attempt more extreme measures — such as potentially seizing assets like Tesla stock — to get him to comply.
+
+Perhaps the best Twitter can hope for, should the case go in its favor, is for Musk to agree to a hefty settlement in order to avoid being mandated by the court to take over the company he no longer wants — and to do so as quickly as possible to eliminate the cloud of uncertainty. “It’s hard to imagine that the solution is to force Elon into [buying Twitter], even if the court were willing to do that … given what’s gone under the bridge,” Tobias said.
+
+In the original agreement, Twitter and Musk laid out $1 billion as a breakup fee if the deal fell apart. But given the circumstances, some say the company would likely hold out for a larger payment.
+
+“Twitter isn’t necessarily litigating to go all the way through to the end and get a court order compelling Musk to close,” Henderson said. “They’re litigating to position Twitter in the best place to get as much money out of Musk that they can.”
+
+Another likely reason for Twitter to settle: It does not have time on its side.
+
+“My sense is that Twitter has a better position legally,” Henderson said. But, he added, “as a practical matter, I don’t think Twitter can win a war of attrition … Twitter is out there, not in great shape to begin with, with total uncertainty as to what’s going to happen. It’s already weakened now and the question is: how long can it last?”

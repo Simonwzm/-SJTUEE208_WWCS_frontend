@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200723115002-barry-williams-headshot.jpg?q=x_3,y_615,h_1387,w_2465,c_crop/w_800

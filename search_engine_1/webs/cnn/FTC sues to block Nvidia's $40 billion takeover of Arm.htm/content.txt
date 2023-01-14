@@ -1,0 +1,11 @@
+(CNN Business) The Federal Trade Commission on Thursday sued to block US chipmaker Nvidia's proposed $40 billion takeover of UK chip design firm Arm, saying it would stifle competition and give the combined company too much control over chip technology and designs.
+
+The lawsuit threatens to scuttle the world's biggest ever semiconductor merger, which had already been the subject of regulatory scrutiny abroad.
+
+"Semiconductor chips power the computers and technologies that are essential to our modern economy and society," the FTC said in a statement . According to its complaint, "the combined firm would have the means and incentive to stifle innovative next-generation technologies, including those used to run datacenters and driver-assistance systems in cars."
+
+Nvidia NVDA SoftBank SFTBF announced the agreement to buy Arm from Japanese tech investment firmin September of last year, saying at the time it expected the deal to close within 18 months. But the merger has been a subject of global regulatory scrutiny, including from China as well as the United Kingdom, where Arm is based. The European Commission also launched an investigation into the deal just over a month ago.
+
+"We will continue to work to demonstrate that this transaction will benefit the industry and promote competition," an Nvidia spokesperson said in a statement. "Nvidia is committed to preserving Arm's open licensing model and ensuring that its IP is available to all interested licensees, current and future."
+
+Read More

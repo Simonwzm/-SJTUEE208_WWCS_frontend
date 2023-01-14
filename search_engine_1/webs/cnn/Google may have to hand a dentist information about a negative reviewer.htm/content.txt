@@ -1,0 +1,31 @@
+London CNN Business —
+
+A court in Australia has ruled that a dentist who claims he was defamed in a Google review can serve the tech giant with an order to unmask the post’s author.
+
+According to court documents, an anonymous user with the name “CBsm 23” wrote a review of a Melbourne clinic alleging the dentist made a procedure “extremely awkward and uncomfortable” and gave the impression that he “had never done this before.”
+
+Australia’s Federal Court ruled earlier this week that the dentist, Matthew Kabbabe, is able to mail an order to Google in the United States seeking information on the anonymous author including their name, IP address and phone numbers associated with the account, for use in a defamation suit.
+
+Google makes it easy for people to complain about businesses, but it can be difficult for businesses to challenge claims they believe are unsubstantiated or misleading.
+
+Google did not immediately respond to CNN’s request for comment.
+
+Google says this in their policy: “Reviews are automatically processed to detect inappropriate content like fake reviews and spam. We may take down reviews that are flagged in order to comply with Google policies or legal obligations.”
+
+The ruling could pave the way for similar business owners to seek action against reviewers.
+
+A Google user can set up an account and add comments or reviews under businesses’ pages, without having to share any personal information that identifies them publicly.
+
+Kabbabe says he initially emailed Google, asking the tech giant to delete the review. Google denied the request. Months later, he asked Google for information about the reviewer.
+
+According to the judgment, Google responded, “We do not have any means to investigate where and when the ID was created.”
+
+But the judge said that “Google is likely to have or have had control of a document or thing that would help ascertain that description of the prospective respondent CBsm 23.”
+
+Kabbabe “relies on the internet to attract customers across Australia,” according to the judgment. The damages he seeks are for a loss of reputation due to the review.
+
+Last year, Google was accused of misleading Australian consumers over how it collected and used their personal location data, adding to growing regulatory pressure on the company around the world.
+
+The Australian Competition and Consumer Commission (ACCC) filed a lawsuit alleging that the company “engaged in misleading conduct and made false or misleading representations to consumers” related to location data.
+
+A Google spokesperson told CNN Business at the time that the company was reviewing the allegations and intended to “defend this matter.”

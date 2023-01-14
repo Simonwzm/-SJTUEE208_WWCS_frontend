@@ -1,0 +1,59 @@
+New York CNN Business —
+
+T-Mobile on Monday announced the launch of its nationwide 5G network, in what CEO John Legere called “a huge step towards 5G for all.”
+
+It is a huge step for T-Mobile (TMUS), making it the first US carrier to offer 5G access across the country. But it won’t be the world-changing, superfast 5G that everyone has been so hyped about.
+
+The announcement reflects the two different strategies US carriers have adopted in the race to build out the next generation of wireless technology. Both have advantages, and eventually they’ll all more or less converge. But in these early stages, customers on opposing carriers could have wildly different 5G experiences.
+
+T-Mobile opted to build out its 5G network broadly, giving access to many people but without the rapid speeds promised by T-Mobile’s rivals. Verizon (VZ) and AT&T (T), on the other hand, are deploying 5G in much, much smaller areas but with speeds that dwarf those on the earlier 4G LTE network (AT&T (T) is CNN’s parent company).
+
+What that means for now: Customers’ experience of the T-Mobile nationwide 5G network will be “probably nothing dramatic,” compared to 4G, said Michael McCormack, a research analyst for Gugggenheim Partners.
+
+“With respect to 5G services, it’s going to deliver maybe slightly faster speeds but won’t be the 5G dream,” McCormack told CNN Business.
+
+That “5G dream” has been for the high speeds and data capacity of the network to power such new technologies as self-driving cars and smart cities, and it’s still quite a long way from becoming reality.
+
+How does the T-Mobile network work?
+
+T-Mobile’s nationwide network relies on what is called “low-band” wireless spectrum, versus the “high-band” spectrum that AT&T and Verizon are using.
+
+The different frequencies can be thought of sort of like pipes: Low-band spectrum is like a very long but relatively thin pipe: It moves information more slowly, but that information can travel farther and cover a much wider area. High-band spectrum, on the other hand, is like a fat but relatively short pipe: It moves lots of information at rapid speeds, but the information can’t travel nearly as far and its transmission can also be blocked by things like walls and trees. The lesser used “mid-band” spectrum falls between the two.
+
+T-Mobile was able to build out nationwide 5G access faster and more cheaply than its competitors because low-band spectrum allows signal to travel farther and requires less equipment, such as cell towers and radios. T-Mobile was able to upgrade its existing 4G equipment to launch 5G. But T-Mobile’s 5G network will provide, on average, just a 20% increase in download speeds from 4G LTE, a T-Mobile spokesperson told CNN Business.
+
+By comparison, Verizon and AT&T have been building out 5G with high-band spectrum. They’re starting in select urban markets and other small areas, such as sports stadiums. Because high-band signals don’t travel as far, they require installing many small wireless cells in a given area. In cities where that kind of 5G has been deployed, it still can be hard to actually connect and stay connected to the network, and it’s unclear if the strategy will work in places that aren’t as densely populated.
+
+However, experts believe 5G speeds on high-band networks could be up to 100 times faster than on LTE.
+
+“T-Mobile wanted to win a marketing campaign with a big magenta map that lights up the whole country,” McCormack said. “With Verizon or AT&T, you’ll just see little dots around the country. But whether that brings new customers [to T-Mobile] remains to be seen.”
+
+Competition is coming, though. Just last week, AT&T announced it’s also deploying low-band spectrum 5G in five cities in December, because the high-band spectrum network access can be so spotty.
+
+How much does speed matter?
+
+Muriel Medard, a professor of electrical engineering at MIT, points out that speed isn’t necessarily the only thing consumers care about when, say, downloading a video on their smartphones. They also want it to work reliably — wherever they are and whenever they want to do it.
+
+“I really think that concentrating so much on the speed is maybe a bit misleading,” Medard said. “Sure, it’s good to have great rates. But it’s more important to have reliability.”
+
+And over time, T-Mobile should be able to build faster speeds into its 5G network. Like its competitors, T-Mobile is also deploying high-band spectrum 5G in several big cities. Currently, it’s available in parts of Atlanta, Cleveland, Dallas, Las Vegas, Los Angeles and New York, the T-Mobile spokesperson said.
+
+The company’s pending acquisition of Sprint (S) could also help. Sprint (S) holds large amounts of mid-band spectrum, which could allow T-Mobile to build more speed and data processing capacity into its nationwide 5G network, assuming the merger survives a final legal hurdle.
+
+That will mean that eventually, at least some T-Mobile phone offerings will tap into the fastest network available, depending on where a phone is at any given point.
+
+How can you use it?
+
+For now, actual access to all of the carriers’ 5G networks remains relatively limited, even as carriers continue to make splashy announcements on their progress. IPhones, for example, don’t yet have 5G capabilities.
+
+T-Mobile said Monday it is releasing two phones on December 6 — the OnePlus 7T Pro 5G McLaren ($899.99) and the Samsung Galaxy Note10+ 5G ($1,299.99) — that will tap into its low-band 5G network where available and rely on 4G coverage everywhere else.
+
+Why is T-Mobile doing this now?
+
+There was one big — and potentially concerning — takeaway from the Monday T-Mobile announcement for its industry rivals: the company said it does not plan to charge customers extra for access to 5G.
+
+Other carriers have said they will charge a fee or put 5G access on a more expensive plan, but T-Mobile offering the service for free could put pressure on rivals to do the same as they prepare to launch their nationwide 5G networks in the coming years, McCormack said.
+
+While T-Mobile can still gain sufficient growth from stealing customers and market share from the larger industry players, McCormack added that Verizon and AT&T need to monetize access to 5G after spending tens of billions of dollars to build out their networks.
+
+“We’re seeing a lot of money put into 5G deployments, 5G-related spectrum, and what we’re seeing today is that it’s more than likely that there won’t be a revenue bump attached to it,” McCormack said.

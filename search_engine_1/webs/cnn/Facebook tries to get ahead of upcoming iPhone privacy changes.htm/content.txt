@@ -1,0 +1,31 @@
+San Francisco CNN Business —
+
+Facebook published a blog post explaining how it relies on location data and how new iOS and Android software updates will affect access to that information.
+
+The blog post on Monday said “Facebook is better with location.” It comes ahead of the expected release of Apple’s latest software update, iOS 13, and less than a week after Google (GOOG) released Android 10.
+
+As part of the iOS update, people will get notifications with information about which apps are collecting their location info in the background and how many times they’ve accessed it in a certain time period. The notifications will also show people a map with instances when their location was requested. When the notification feature rolls out on iOS13, people may start to receive numerous notifications showing them how Facebook (FB) is accessing their location info.
+
+Apple is holding a press event on Tuesday at which it’s expected to unveil new phones as it typically does during this time of year. Usually, Apple releases an iOS update within a couple weeks of its iPhone event.
+
+Apple first announced the iOS update in June at its annual Worldwide Developers Conference. The new setting will give people the additional option of choosing to share their location to an app just one time. After that, each time an app wants to access location info, it will have to request it again.
+
+With the current iOS settings, people can choose to share their location while the app is in use, never or always.
+
+If people choose to let an app continuously monitor their location, Apple will send people reports about how that info is being used.
+
+In Android 10, people can allow individual apps to access their location both while they use the app or when they’re not. In the past, sharing background location info was either on or off, and didn’t account for choosing to share the information while an app was in use or not.
+
+Despite these updates, Facebook may still be able to collect info about a person’s location — even if the location settings on their device are turned off, according to the blog post.
+
+“We may still understand your location using things like check-ins, events and information about your internet connection,” the post said.
+
+The blog post attempted to break down the upcoming changes and explain why location sharing is useful when using Facebook.
+
+“It powers features like check-ins and makes planning events easier. It helps improve ads and keep you and the Facebook community safe,” the post said. “Features like Find Wi-Fi and Nearby Friends use precise location even when you’re not using the app to make sure that alerts and tools are accurate and personalized for you.”
+
+Enabling background location sharing can be useful to improve the user experience with many apps that involve maps or location-related recommendations. But apps can also take advantage and gather data without proper consent or awareness from users.
+
+With increased scrutiny on how companies access and use people’s personal data, tech companies have been forced to make changes. Facebook in particular has gotten blowback for its perceived misuse of people’s information and concerns about privacy.
+
+Facebook, Apple and Google didn’t immediately return a request for comment.

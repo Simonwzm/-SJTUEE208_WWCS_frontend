@@ -1,0 +1,37 @@
+New York CNN —
+
+A rocket blazed into space Thursday afternoon carrying 34 OneWeb satellites. It’s the latest sign that 2020 will be a year in which new devices are deployed into Earth’s orbit at an unprecedented pace as OneWeb and rival SpaceX race to make global broadband a reality.
+
+The OneWeb satellites launched from Kazakhstan at 4:42 pm ET Thursday (Friday morning local time) atop a Russian-made Soyuz rocket. OneWeb purchased the rocket from Arianespace, an aerospace company based in France.
+
+Thursday’s launch is expected to be the first of 10 that OneWeb will execute this year as it grows its constellation of internet-beaming satellites to more than 300 devices, the company’s CEO, Adrian Steckel, told CNN Business. Each of the launches will carry at least 34 satellites, according to the company.
+
+Before Thursday, OneWeb operated just six satellites that were launched nearly a year ago. Steckel said they have performed better than expected,” demonstrating speeds that could rival 5G internet. The firm has spent the past 11 months figuring out how to mass produce its satellites at its sprawling facility in Florida.
+
+Steckel said OneWeb and its manufacturing partner, Airbus (EADSF), had to iron out issues in their production system and supply chain. But now that those issues are resolved, he estimates satellites will be rolling off assembly lines smoothly for the remainder of the year, and a second batch of more than 30 satellites will be ready for flight as soon as March.
+
+Only one other company is manufacturing telecommunications satellites on such a large scale: Elon Musk’s SpaceX. The company is building its own constellation of internet satellites that already includes more than 200 devices and is expected to grow to more than 1,500 over the next 11 months.
+
+SpaceX and OneWeb are both basing their satellite internet businesses on the same ethos: rather than connecting people using traditional ground-based technologies — such as cables and cell towers, which still don’t reach billions of people around the globe — a hive of satellites orbiting a few hundred miles up can blanket the entire planet in high-speed internet service.
+
+OneWeb plans to officially open for business in 2021. It will begin by selling services to governments and corporate customers that provide internet service to airplanes, ships and boats. Eventually, the company will sell bandwidth to consumer internet providers, such as Comcast and Verizon, said Steckel, OneWeb’s CEO.
+
+SpaceX, which is aiming to start offering its broadband service as soon as mid-2020, is taking a different approach. It hopes to bring internet service straight to consumers, competing directly with traditional internet service providers.
+
+The coming months will be crucial: The companies will burn through massive amounts of cash as they build and launch hundreds of satellites — and OneWeb will do it all without bringing in a dime of revenue. That can be a tough pill to swallow, Steckel acknowledged.
+
+“We are taking our money and doing something very exciting, the problem is that it seems intangible because [our assets] are flying around in space,” Steckel, the CEO, said. “But really we’re investing in infrastructure.”
+
+OneWeb’s largest backer is Softbank (SFTBF), the Japanese investing giant, which was hammered last year by ill-fated bets on startups, including Uber and WeWork. Softbank (SFTBF) is reportedly putting more pressure on its portfolio of companies to cut costs and turn profits.
+
+But Steckel denied that OneWeb has felt pressure from Softbank.
+
+“We’re extremely pleased about the support we’ve gotten,” he said. “They understand we’re not like other companies.”
+
+OneWeb’s other investors include Coca-Cola (KO), Airbus (EADSF) and Virgin Group. The startup has raised a total of about $3.4 billion, Steckel said.
+
+Financial questions aside, however, the sheer number of satellites that OneWeb, SpaceX and others are deploying presents daunting questions about how to avoid collisions in space.
+
+Two orbital objects ramming into each other can have disastrous implications: Each piece of shrapnel from such a collision becomes uncontrollable garbage, and at orbital speeds, something smaller than a thumb tack could blow a hole into another critical satellite.
+
+OneWeb and SpaceX both say they are committed to preventing such disasters. Among the steps OneWeb says it is taking, for example, is to outfit its satellites with grappling hooks. The hooks could allow a cleanup spacecraft to latch on to a defunct OneWeb satellite and drag it out of orbit.

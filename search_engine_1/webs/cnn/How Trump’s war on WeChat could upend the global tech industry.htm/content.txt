@@ -1,0 +1,37 @@
+CNN Business —
+
+President Trump’s executive order last week banning TikTok if it doesn’t find a buyer by next month potentially threatened to upend a vibrant social network and the broader social media marketplace.
+
+But another executive order issued the same day against a different Chinese-owned app has the potential to rattle even more businesses in the global tech industry.
+
+Trump called for banning WeChat, a popular messaging app, in the US if it can’t find a buyer in 45 days. The administration’s attack on WeChat has created a cloud of uncertainty over its parent company, Tencent, denting its stock. The Chinese company is one of the world’s most valuable businesses with far-reaching tentacles in the tech and startup ecosystem, including in the US.
+
+As the largest games company by revenue, Tencent has predictably backed well-known US gaming and entertainment companies such as Epic Games, Glu and Universal Music Group. But, in recent years, it has also poured billions into Snap and Tesla. Other well-known Tencent investments include Reddit, Lyft, and Zoox, which Amazon recently announced plans to acquire.
+
+It has been called a “SoftBank of China,” a reference to the Japanese conglomerate that emerged as a kingmaker in tech with a massive investment fund. By one count, Tencent outpaced SoftBank as the firm with the second highest number of investments in private companies with valuations over $1 billion, behind Sequoia Capital. (SoftBank ranked third.)
+
+According to data from PitchBook, a research firm that tracks private and public capital markets, Tencent has made 53 investments globally in 2020 alone compared to SoftBank’s 37 investments. But SoftBank has been more active in the US market: Just three of Tencent’s deals this year have been in the US compared to SoftBank’s 16, according to PitchBook.
+
+“Tencent is perhaps the most powerful investor in China today,” Arun Sundararajan, a professor at New York University’s Stern School of Business, told CNN Business.
+
+By targeting a Tencent property, the Trump administration may put a “serious damper on Tencent’s global expansion ambitions,” Sundararajan said. Beyond that, the Trump administration’s moves could further disincentivize Tencent and its peers from investing in and partnering with US tech companies.
+
+“The level of uncertainty for investors and incumbent companies in the US markets is at an all-time high,” said Harry Broadman, a former US trade negotiator. With growth already slowing down because of the pandemic, he said, “this is hardly the time to inject even more uncertainty in the economy.”
+
+Tencent, along with other active Chinese investors, had already started to retreat over the past couple of years amid increasingly tense US and China relations. Reports peg the slowdown to 2018, when the Committee on Foreign Investment in the US, or CFIUS, increased its scrutiny of deals involving certain tech products, as well as Chinese investors.
+
+The crackdown on WeChat could also raise questions about whether the administration will direct its interest to companies with ties to Tencent, whether through partnerships or investments.
+
+On an earnings call Wednesday, Tencent chief financial officer Shek Hon Lo said, “based on our initial reading and subsequent press reports, the executive order is focused on WeChat in the United States and not our other businesses in the United States.”
+
+“We are in the process of seeking further clarification,” he added. (A Tencent spokesperson told CNN Business in a statement that it is “reviewing the executive order to get a full understanding.”)
+
+John Demers, the assistant attorney general in charge of the Justice Department’s National Security Division, said during an event Wednesday that the executive order specifically went after Tencent’s WeChat in part given the amount of data a communications app can collect.
+
+Demers also said the administration’s actions over the past year are intended to “ensure that we have trusted vendors from trusted countries – and that is countries that share our same political values – that are running these telecommunications networks over which our entire lives are already running and only will run more so in the future.’
+
+Whether the Trump administration stays focused on WeChat or probes Tencent more broadly, its moves could fundamentally change the digital marketplace.
+
+“I don’t think we really understand yet that, by striking at the Chinese companies that stand out because they try to penetrate international markets, we’re essentially saying to the world maybe these internet markets are not international,” said Peter Petri, a professor at Brandeis University’s International Business School and a non-resident senior fellow at Brookings.
+
+Petri likened the Trump administration’s moves to the strict control China wields over its internet, referred to as the Great Firewall. “It could be the beginning of the great US firewall,” he said.

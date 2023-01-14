@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200125125231-01-byte-homepage.jpg?q=x_0,y_0,h_900,w_1599,c_fill/w_800

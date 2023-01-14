@@ -1,0 +1,43 @@
+(CNN) Google tried to make up for lost time at its annual developer conference this week by announcing a massive Android redesign and new features to help users work from home, shop and do more to protect their personal data.
+
+After it canceled Google I/O last year due to the pandemic, the company kicked off a virtual version of the event on Tuesday.staffers wore masks and spread out to watch the keynote on the lawn of its Mountain View, California campus -- a big contrast to previous years when it packed thousands of attendees into an arena.
+
+Here are a few of the biggest announcements so far from the event, which runs for several days.
+
+Android 12 overhaul
+
+Google showed off a new look for Android 12, the latest version of its mobile operating system. It features bigger buttons, a large clock on the homescreen that changes in size depending on how many notifications appear, and muted pastel colors.
+
+Android 12 goes big on personalization: Users will be able to change the color palette and, when a wallpaper is selected, the system will determine which colors are dominant and complementary by adding shades to volume controls, widgets and other tools to complete the look.
+
+A look at the redesigned Android 12 mobile software
+
+Google says Android 12 will allow devices to be more responsive with better battery life, as the new software will put less strain on processors. Google also rolled out a series of productivity updates, including an option to hold the power button to call Google Assistant to make a phone call or ask for an article to be read out loud.
+
+More focus on privacy
+
+With rival Apple doubling down on privacy features, Google used Tuesday's event to talk up its own efforts.
+
+The new software provides users with more transparency about the personal data accessed by various apps and ways to control it. A new Privacy Dashboard offers a look into permissions' settings and lets users revoke those permissions from the dashboard. And a new indicator tool will automatically turn on when an app is accessing your microphone or camera.
+
+The company is also adding a feature that uses Google Assistant to warn users when their passwords have been compromised and help change them. Meanwhile, a new tool called Locked Folder in Google Photos allows users to add photos to a passcode-protected space and they won't show up as users scroll through Photos or other apps on a phone. (In a demo, Google showed someone keeping a photo of a new puppy a secret from their kids.) The feature will launch on Google Pixel smartphones first and other Android devices throughout the year.
+
+Meeting our telecommuting needs
+
+Perhaps in a nod to the new normal of telecommuting, Google unveiled new productivity tools to make working from home more seamless. The most notable is Smart Canvas, which allows services like Google Docs and Sheets to be more flexible and connected with the help of @-mentions, checklists, pageless formats and emoji reactions.
+
+The future of wearables and AR
+
+Google is resurrecting WearOS , its wearable platform for smartwatches, with the help of Samsung and the Tizen software platform.
+
+In late 2019, Google announced plans to acquire wearable fitness tracker company Fitbit for $2.1 billion, but we hadn't heard much about the category since. Now the company is showing off its vision for the future of wearables, with deep Fitbit integration for tracking workouts and movement.
+
+The company is also bringing more augmented reality tools to phones. With AR View via Google Maps, users can hover over restaurants, landmarks and get indoor directions, starting later this year. Users can also take a picture of a math problem to learn the result. Likewise, taking a photo of an item you see in the real world, such as a patio furniture set at a restaurant, will identify the brand and price so you could purchase it yourself.
+
+Google staffers watching the live keynote from the campus in Mountain View while wearing masks and sitting socially-distanced on May 18, 2021.
+
+Smart assistant gets smarter
+
+Google teased a new natural language processing platform called LaMDA that helps artificial intelligence be more conversational. In a demo, Google showed what it would be like to have a conversation with inanimate objects for the sake of education, such as the planet Pluto or a paper airplane. The effort shows how Google continues to pour more resources into growing the intelligence and versatility of its smart assistant.
+
+Avoiding painful memories

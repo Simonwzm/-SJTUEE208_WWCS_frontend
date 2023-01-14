@@ -1,0 +1,11 @@
+New York (CNN Business) The scourge of obnoxious robocalls has resumed after a brief dip during the early months of the pandemic. But a new prevention program developed by the Federal Communications Commission — which officially went into effect this week — could begin to offer some relief later this year.
+
+The program, called "Stir/Shaken," is a set of technical standards that mobile carriers are required to adopt to help prevent call "spoofing," a tactic used by robocallers to make an incoming call look like it's from your area code so you're more likely to pick up. Robocalls from spoofed numbers aren't just an annoyance, they're dangerous — capable of scamming people out of money or sensitive personal information such as Social Security numbers.
+
+Under the Stir/Shaken protocol, carriers are required to certify, with varying confidence levels, that calls really are coming from the numbers displayed on caller ID. The deadline for most big carriers to implement the standards was Wednesday and the major carriers have all said they've signed on.
+
+The idea is this: When your wireless carrier processes an inbound call that doesn't have a certification letting it know the number is legitimate, the carrier will be able to block it before your phone ever starts ringing.
+
+"While there is no silver bullet in the endless fight against scammers, Stir/Shaken will turbo-charge many of the tools we use in our fight against robocalls," FCC acting chairwoman Jessica Rosenworcel said in a statement Wednesday.
+
+Read More

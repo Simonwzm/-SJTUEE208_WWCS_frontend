@@ -1,0 +1,39 @@
+New York (CNN Business) Intel CEO Pat Gelsinger has only been on the job for about a month. But the semiconductor giant has been in need of a bold, new strategy for some time, and on Tuesday, Gelsinger delivered.
+
+"We are setting a course for a new era of innovation and product leadership at Intel," Gelsinger said in a statement.
+
+The company's stock rose more than 6% in after-hours trading Tuesday. Shares of competitorfell more than 2% following the news., the world's largest contract chipmaker, tumbled more than 3% in Taipei on Wednesday.
+
+Gelsinger took over a company facing a host of challenges, including unprecedented competition fromand other former partners and an activist shareholder demanding change.
+
+Samsung SSNLF Intel has also experienced major delays in producing next-generation chips , allowing TSMC andto run ahead. Intel is still trying to perfect its next-generation 7-nanometer chip; meanwhile, those Asian competitors have moved ahead with developing even smaller, more powerful processors.
+
+PHLX semiconductor index SOX Intel's rivals have bested it on Wall Street recently, too. Over the past two years, Intel's shares have grown just over 19%, versus the almost 114% growth in the
+
+Gelsinger's plan
+
+The new strategy, dubbed "IDM 2.0" because of its transformation of Intel's integrated device manufacturing model (wherein it both designs and manufactures chips), could help solve many of those problems.
+
+To address its manufacturing issues and prevent future delays, Intel plans to expand its use of third-party chipmakers such as TSMC, a tack many of its competitors have taken but that Intel has, up until now, refrained from doing for its most advanced chips. Starting in 2023, Intel will work with third-party foundries to produce products at "the core of Intel's computing offerings for both client and data center segments," the company said in a statement.
+
+"This will provide the increased flexibility and scale needed to optimize Intel's roadmaps for cost, performance, schedule and supply," it said.
+
+In the meantime, Intel said its 7-nanometer technology is "progressing well."
+
+While Intel plans to expand the outsourcing of some of its chipmaking, Gelsinger on Tuesday reaffirmed the company's longtime commitment to manufacturing most of its products in-house.
+
+The company announced a $20 billion investment to add two new chip manufacturing facilities, called "fabs," to its Arizona campus, a move that is expected to create "over 3,000 permanent high-tech, high-wage jobs; over 3,000 construction jobs; and approximately 15,000 local long-term jobs."
+
+Intel also plans to launch a new business unit, Intel Foundry Services, dedicated to manufacturing chips designed by other semiconductor companies.
+
+This announcement comes amid a global chip shortage that has hampered industries ranging from autos to video games. It also comes nearly a year after Intel offered to help the US government increase domestic semiconductor manufacturing capacity, a move some US officials believe would bolster national security, as cutting edge microchips have crucial military and defense applications.
+
+The new Arizona facilities will provide capacity for some such outside customers, and Gelsinger said he plans to announce other expansions in the United States, Europe and elsewhere later this year.
+
+Intel Foundry Services will be "differentiated from other foundry offerings with a combination of leading-edge process technology and packaging, committed capacity in the U.S. and Europe, and a world-class IP portfolio for customers, including x86 cores as well as ARM and RISC-V ecosystem IPs," the company said, adding that the planned offering has "already received strong enthusiasm and statements of support from across the industry."
+
+The new unit could also bring a crucial new revenue stream to the company after it has lost market share in its core PC business in recent years.
+
+All told, the strategy will likely provide a boost in Intel investors' confidence, and it's coming "just in time," Futurum Research founding partner and principal analyst Daniel Newman said in emailed commentary.
+
+"I also see this as a sign of a more confident and robust Intel under new CEO Pat Gelsinger," Newman said. "I believe this effort was underway with former CEO Bob Swan [but] Gelsinger brings a tech swagger back to the company and in his first 5 weeks back is showing the company's ambition to return to its market leadership roots."

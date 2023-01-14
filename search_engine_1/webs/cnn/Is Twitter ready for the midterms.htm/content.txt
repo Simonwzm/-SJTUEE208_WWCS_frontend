@@ -1,0 +1,75 @@
+New York (CNN Business) A stunning whistleblower disclosure from Twitter's former head of security accuses the company of having a reactive approach to misinformation and platform manipulation, a disconnect between product and safety teams, content moderation shortcomings and a lack of controls to prevent foreign interference, all of which could raise questions about the company's ability to handle election-related threats ahead of the US midterms later this year.
+
+These allegations are part of the broad, nearly 200-page disclosure that Peiter "Mudge" Zatko submitted to US regulators and lawmakers last month, which was first reported Tuesday by CNN and the Washington Post. The disclosure alleges that Twitter is rife with security and privacy vulnerabilities that put users, investors and even US national security at risk, and that Twitter executives have misled its board and regulators about its shortcomings. (Twitter has broadly defended itself against Zatko's allegations and claimed the disclosure contains "inconsistencies and inaccuracies.")
+
+The disclosure sounds the alarm about a platform that has become a hub for information-sharing among influential voices — including media, celebrities, academics, government officials and world leaders — and which many people consider to be crucial to democracy. As such, the platform is also a key target for bad actors whom experts say could wreak havoc on elections and civic processes. Twitter has previously come under fire for enabling the spread of misinformation that led to real-world civic harms, including in the run-up to the January 6 Capitol insurrection.
+
+Members of the US House Committee on Homeland Security on Thursday sent Twitter CEO Parag Agrawal a letter demanding that he address Zatko's allegations and explain Twitter's readiness for the 2022 midterms. "Twitter plays a unique role in our information and political ecosystems. Security flaws that put users' sensitive personal data within easy reach of a hacker looking to take control of a high-profile account or a foreign dictator looking for information on dissidents are nothing short of a threat to national security," Rep. Bennie Thompson and Rep. Yvette Clark, chairs of the Committee on Homeland Security and the Subcommittee on Cybersecurity, Infrastructure Protection, & Innovation, respectively, said in the letter.
+
+"For the past eight to ten years, Twitter has been very important, for better and worse, for our politics," said Paul Barrett, adjunct professor at NYU Law School and deputy director of the NYU Stern Center for Business and Human Rights.
+
+In 2020, hackers tricked Twitter employees into handing over internal access that allowed them to take over the accounts of prominent figures such as former President Barack Obama and then-Presidential candidate Joe Biden. The hackers were carrying out a cryptocurrency scam, but many experts raised alarms about what could have happened if they'd been politically motivated. Zatko claims the company remains vulnerable to a similar hack, although Twitter told CNN that in response to the incident, the company began compartmentalizing access to customer support tools and that the company has since improved security controls.
+
+Twitter earlier this month said it had activated its policies for safeguarding its platform ahead of the upcoming US midterm elections, plans that include labeling and reducing the spread of misinformation. The company also pushes reliable information to users, including localized election information; labels candidates for US House, US Senate and governor; trains state and local election officials about how to use the platform; and says it enforces at scale its rules, such as those prohibiting harassment, spam and manipulated media. And on Thursday, the company confirmed to CNN that it will combine its teams working to prevent toxic content and spam bots, in order to better fight bad actors and increase transparency around its efforts to improve platform health, a move first reported by Reuters Wednesday.
+
+But the disclosure calls into question Twitter's ability to effectively enact and enforce such plans and policies. The disclosure also alleges that Twitter, like other social platforms, may be even less prepared to address election-related threats in other countries, where Zatko claims it often lacks the appropriate resources and language and regional expertise.
+
+Peiter "Mudge" Zatko, Twitter's former head of security, has filed a whistleblower disclosure accusing the company of serious security and privacy vulnerabilities.
+
+Zatko — a former ethical hacker who was part of the first congressional hearings on cybersecurity in the 1990s and who spent time working for the US Department of Defense prior to Twitter — told CNN that he took the job at the social media company, where he was given a broad mandate to address its security issues before being fired earlier this year, in large part because of its important role in civic discourse.
+
+"This is a global platform that gives a voice to everybody, their mission is to serve the public conversation and to improve the health of the public conversation," Zatko said in an interview. He added: "I still do think Twitter is that important, and it has the ability to do a tremendous amount of good in the world."
+
+A Twitter spokesperson told CNN in a statement Tuesday responding to the disclosure that Zatko was fired for "ineffective leadership and poor performance." The spokesperson said the disclosure presents a "false narrative" about the company and is "riddled with inconsistencies and inaccuracies and lacks important context."
+
+On Thursday, the spokesperson said the company has "a cross-functional team around the globe that's focused on curbing the spread of misinformation and fostering an environment conducive to healthy, meaningful conversation on Twitter. We're always working to improve the safety of our service — from strategic investments in machine learning, to building our policies around misinformation in public, over the last years, we have significantly improved our capacity to keep people safe on Twitter."
+
+Challenges addressing harmful content
+
+Early in his tenure, Zatko hired a third-party consulting firm to conduct a review of Twitter's efforts to combat mis- and disinformation, spam and bad actors, as well as to promote overall platform integrity, according to the disclosure.
+
+The firm interviewed a dozen employees from Twitter's Trust and Safety, Twitter Services, and Product and Engineering teams, and reviewed the company's mis- and disinformation tools and processes and 19 internal documents, retrospectives and training guides. It found that Twitter's policies are typically developed in reaction to crises, rather than proactively, and that the company is "constantly behind the curve in actioning against disinformation and misinformation," according to a draft copy of the report included in Zatko's disclosure.
+
+The report pointed to a range of organizational challenges to effectively responding to misinformation and platform manipulation, including the fact that mis- and disinformation are handled by different teams and that other parts of the company that assist in responding to such issues, such as the events and trending curation teams, have only informal relationships with the site integrity teams. It also claims that product teams are incentivized to launch new products as quickly as possible and "thus are willing to accept security risks."
+
+Twitter lacks adequate staffing to address misinformation risks, the firm's report claims. For example, it notes that Twitter did not bring on a team member to focus on misinformation until 2019 and, as of the report's completion in mid-2021, the company had only two misinformation subject matter experts on the site integrity team.
+
+"Understaffing has meant that the teams across Twitter working on the misinformation and disinformation problem have had to make significant tradeoffs, especially during critical events and surges," the report states.
+
+The report also criticized the company's lack of staff with appropriate knowledge to respond to threats and misinformation. It states that content moderation is outsourced mostly to vendors in Manila, and that moderators often "do not have the geographic expertise or language capabilities to understand important cultural or linguistic context, and therefore are not able to make accurate and consistent decisions on what is misinformation." It adds that, at the time of the report's publication, Twitter had only one information operations staff member each with expertise in China, Russia and Iran.
+
+"It's hard from the outside to prescribe exactly how a company should organize itself but the consultants clearly concluded that the haphazard way that twitter is organized ends up with siloed relationships between employees that slows things down and does not create incentives for people to come together and coalesce around a problem," Barrett said.
+
+Twitter's spokesperson said the report does not "represent the platform as it exists today, nor do the reports capture our important and ongoing efforts to refine our approach to curbing misinformation and disinformation on Twitter." The spokesperson added that the company's policies address content in four areas — civic integrity, synthetic or manipulated media, Covid-19 misinformation and crisis misinformation — and prioritizes removing content that could cause immediate harm.
+
+After the third-party firm's report was complete, Twitter executives went behind Zatko's back to ask the firm to have its results scrubbed by lawyers to remove "factual information that would be especially embarrassing to Twitter" for fear of the "impact on Twitter's reputation were the findings to become publicly known," his disclosure alleges.
+
+Twitter did not respond to questions from CNN about the allegation that its executives had the report altered.
+
+Risks of foreign interference and rogue insiders
+
+Twitter's lax security practices also make it vulnerable to more direct forms of foreign interference and manipulation that could harm US interests and national security, according to the disclosure.
+
+"If Russia, because of the incredibly high tensions created by the Ukraine invasion, seeks to lash out at the US by mucking up our midterm elections, one way they could do that is by hacking into Twitter, taking over accounts of prominent people, having them say divisive things and creating chaos the way Russians have shown they like to do," Barrett said.
+
+Zatko's disclosure alleges that nearly half of the company's employees have access to the "production environment" where changes to the platform can be made, and that Twitter employees frequently have access to more sensitive data than they need to do their jobs, such as user contact information. That, he claims, opens the door for bad actors (through phishing attacks or other hacks) or disgruntled employees to more easily access sensitive user data or manipulate the platform.
+
+Members of the House Committee on Homeland Security have asked Twitter CEO Parag Agrawal about Twitter's ability to address threats related to the 2022 midterm elections following the whistleblower disclosure.
+
+During the Capitol attack on January 6, 2021, for instance, Zatko says in the disclosure that he became concerned that a Twitter employee who sympathized with the insurrectionists could manipulate the company's platform, according to the disclosure. But, the disclosure says that Zatko soon learned "it was impossible to protect the production environment. All engineers had access. There was no logging of who went into the environment or what they did."
+
+Chris Lehman, CEO of social media cybersecurity firm SafeGuard Cyber told CNN that if half of a company's employees have access to its live production environment, "it creates a huge opening into what we call insider threats." Insiders, whether knowingly or not, could be targeted by bad actors to gain access to prominent users' accounts — similar to Twitter's major 2020 hack — or to gather information about how to game the platform to further their agenda.
+
+The whistleblower disclosure also alleges that "while it was against policy" employees commonly installed third-party software on their work devices with little oversight.
+
+"Twitter employees were repeatedly found to be intentionally installing spyware on their work computers at the request of external organizations," the disclosure states. "It was repeatedly demonstrated that until Twitter leadership would stumble across end-point (employee computer) problems, external people or organizations had more awareness of activity on some Twitter employee computers than Twitter itself had." (It is not clear how many employees may have been involved in spyware incidents.)
+
+Twitter said members of its engineering and product teams are authorized to access Twitter's platform if they have a specific business justification for doing so, but that members of other departments — such as finance, legal, marketing, sales, human resources and support — cannot. The company also said it uses automated checks to ensure laptops running outdated software cannot access the production environment, and that employees may only make changes to Twitter's live product after the code meets certain record-keeping and review requirements.
+
+Twitter's employees use devices overseen by other IT and security teams with the power to prevent a device from connecting to sensitive internal systems if it is running outdated software, Twitter added.
+
+The disclosure also claims that shortly before Zatko was fired from Twitter in January, the US government gave Twitter a specific tip that one or more of its employees was working for a foreign intelligence agency.
+
+It's not clear whether the tip was credible, or if Twitter has acted on the information. But if true it would not be the first time: The disclosure is being made public just days after a jury convicted a former Twitter employee of spying for Saudi Arabia. That incident, which was uncovered in 2019, predates the tip described in the disclosure. Twitter did not respond to Zatko's allegations about the US government tip.
+
+"In a business such as Twitter, which is basically ... for better or worse, it is now the town square, and it's where opinions are exchanged, I would expect that in a business that has such huge influence over public opinion and events like an election, you would want to have tight controls to make sure that there's no rogue behavior going on by insiders or bad deeds being committed by outside parties," Lehman said.

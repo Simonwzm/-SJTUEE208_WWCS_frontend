@@ -1,0 +1,11 @@
+New York (CNN Business) Meta, the company formerly known as Facebook, said Tuesday it plans to limit advertisers' ability to target users based on certain sensitive categories. Starting next year, it will remove thousands of "Detailed Targeting" keywords to target ads to specific users in categories such as health, race or ethnicity, political affiliation, religion and sexual orientation.
+
+Targeted advertising has long been central to the company's massive digital ads business. But for years, Facebook has faced criticism for allowing highly specific targeting that could, for example, allow advertisers to direct racist ads to users based on their activity on its platforms. In 2019, Facebook settled several lawsuits that alleged its advertising platform allowed for discrimination in housing, employment and credit ads. As part of the settlement, it set up a new portal for such ads. Tuesday's announcement marks the broadest action the company has taken yet to address concerns related to ad targeting.
+
+Meta FB In a blog post Tuesday,vice president of product marketing for ads Graham Mudd said the move is a "difficult decision" made to "better match people's evolving expectations of how advertisers may reach them on our platform and address feedback from civil rights experts, policymakers and other stakeholders on the importance of preventing advertisers from abusing the targeting options we make available."
+
+The announcement comes as the company faces scrutiny over the real-world harms caused by its platforms that were revealed in the "Facebook Papers," a trove of internal documents offering unprecedented insight into some of the company's biggest problems. The documents were provided to lawmakers by former employee-turned-whistleblower Frances Haugen, and obtained by dozens of news organizations, including CNN.
+
+In an announcement that coincided with its scramble to contain the fallout from the Facebook Papers, the company announced last month that it would change its name to Meta. It also said last week it will stop using facial-recognition software that could automatically recognize people in photos and videos on its Facebook app (although the company may still use such software in other products now and in the future).
+
+Read More

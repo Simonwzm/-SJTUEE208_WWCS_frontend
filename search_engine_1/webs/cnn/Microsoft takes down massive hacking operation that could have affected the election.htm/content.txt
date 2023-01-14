@@ -1,0 +1,27 @@
+Washington (CNN Business) Microsoft has disrupted a massive hacking operation that it said could have indirectly affected election infrastructure if allowed to continue.
+
+The company said Monday it took down the servers behind Trickbot, an enormous malware network that criminals were using to launch other cyberattacks , including a strain of highly potent ransomware
+
+Microsoft said it obtained a federal court order to disable the IP addresses associated with Trickbot's servers, and worked with telecom providers around the world to stamp out the network. The action coincides with an offensive by US Cyber Command to disrupt the cybercriminals, at least temporarily, according to The Washington Post
+
+acknowledged that the attackers are likely to adapt and seek to revive their operations eventually. But, Microsoft said, the company's efforts reflect a "new legal approach" that may help authorities fight the network going forward.
+
+Trickbot allowed hackers to sell what Microsoft said was a service to other hackers — offering them the capability to inject vulnerable computers, routers and other devices with other malware.
+
+That includes ransomware, which Microsoft and US officials have warned could pose a risk to websites that display election information or to third-party software vendors that provide services to election officials.
+
+"Adversaries can use ransomware to infect a computer system used to maintain voter rolls or report on election-night results, seizing those systems at a prescribed hour optimized to sow chaos and distrust," Microsoft VP of security Tom Burt wrote in a blog post
+
+Ransomware seizes control of target computers and freezes them until victims pay up — though experts urge those affected by ransomware not to encourage hackers by complying with their demands. The Treasury Department has warned that paying ransoms could violate US sanctions policy.
+
+He added: "We have now cut off key infrastructure so those operating Trickbot will no longer be able to initiate new infections or activate ransomware already dropped into computer systems."
+
+A separate technical report by Microsoft on Monday said Trickbot has been used to spread the Ryuk ransomware . Security experts say Ryuk has been attacking 20 organizations per week, and was reportedly the ransomware that Universal Health Services, one of the nation's largest hospital companies.
+
+But Trickbot has also been used to spread false and malicious emails containing malware that tried to lure victims in with messaging surrounding Black Lives Matter and Covid-19, Microsoft said.
+
+Microsoft said Trickbot has infected more than 1 million computing devices globally since 2016 and that its operators have acted on behalf of both governments and criminal organizations, but their exact identity remains ambiguous.
+
+Taking down Trickbot follows a series of attacks that became highly publicized in recent weeks: One targeting Tyler Technologies, a software vendor used by numerous local governments, and Universal Health Services, one of the nation's largest hospital companies. A statement on Tyler Technologies' website has said the company does not directly make election software and the software it does produce that is used by election officials to display voting information is separate from its internal systems that were affected by the attack.
+
+Ransomware could pose a risk to the election process if systems designed to support voting are brought down, according to Check Point threat analyst Lotem Finkelsteen, but so far experts regard it as "mainly a hypothetical threat right now."

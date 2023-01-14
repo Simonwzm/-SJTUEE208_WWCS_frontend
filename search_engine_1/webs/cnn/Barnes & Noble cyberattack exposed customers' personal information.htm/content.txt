@@ -1,0 +1,11 @@
+New York (CNN Business) A day after Barnes & Noble solved its Nook outage, the bookstore revealed a far more serious problem: A massive cybersecurity attack breached the company's data, exposing information about customers, including email addresses and other personal information.
+
+On Monday, Barnes & Noble sent customers an email to notify them about the cyberattack. The company made clear that customers' financial information had not been exposed. Their transaction history, however, was potentially exposed. The company said "transaction history, meaning purchase information related to the books and other products that you have bought from us" were retained in the systems that were impacted by the cybersecurity attack.
+
+Customer's email addresses, were also potentially leaked in the cybersecurity attack, according to the company.
+
+"It is possible that your email address was exposed and, as a result, you may receive unsolicited emails," Barnes & Noble said.
+
+While the bookstore chain doesn't know if other personal information was exposed during the attack, Barnes & Noble acknowledged that customers' billing and shipping addresses as well as their phone numbers stored in the systems were included in the attack.
+
+Read More

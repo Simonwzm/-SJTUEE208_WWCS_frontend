@@ -1,0 +1,71 @@
+Editor’s Note: Tune in to CNN on Friday at 9 p.m. ET for “The Age of Amazon.”
+
+New York CNN Business —
+
+It’s hard to tell just one story about the first 25 years of Amazon.
+
+Amazon disrupted the retail industry by making online shopping fast and convenient, and it’s now taking on traditional retailers with its own brands.
+
+It ushered in a new era of IT, by developing cloud computing in 2006, getting a years-long head start on its competitors. Now the company is by far the most dominant player in an industry that controls a fundamental part of the world’s digital infrastructure.
+
+Amazon also is a shipping company, an advertiser, a television producer, a grocery store. The list goes on.
+
+Then there’s the company’s iconic but often enigmatic founder, Jeff Bezos, who has become the richest person on Earth but has his sights set on outer space.
+
+The story of Amazon (AMZN) is all of those things and more, a saga explored in CNN’s documentary “The Age of Amazon (AMZN).” Here are four takeaways from the film.
+
+1. Amazon does listen to what you tell Alexa — sort of
+
+As “smart” tech products at home, from speakers to microwaves, become more pervasive, consumers have begun to wonder whether the companies behind those devices are eavesdropping on what they say.
+
+Amazon came under fire in April for employing thousands of people to listen to and transcribe what users tell Alexa, leading the company to tell users they could opt out of voice review.
+
+Anthonio Pettit, a former contractor working on improving the Alexa technology, said companies like Amazon should be more transparent about their use of customers’ voices — a practice that’s necessary to improve the quality of their products.
+
+“Amazon is listening to what you tell Alexa, not in any type of nefarious way, to my knowledge,” Pettit said. “Everything that they do is based on quality assurance … but people should know that. I think that is something that is definitely not advertised and, you know, it’s not something I think companies should shy away from.”
+
+But the company stresses it isn’t “listening” to everything.
+
+Toni Reid, head of Alexa at Amazon, said the company employs a “small group” of annotators who pull “very, very small samples” of users’ conversations with Alexa in order to improve the computer’s understanding of human speech and its responses. She said the audio that’s used is disconnected from other customer data.
+
+“This is a common practice for machine learning,” Reid told CNN’s Poppy Harlow. “You have to train the models with a ground truth of data.”
+
+2. Amazon defends its zero tax bill
+
+Amazon has been criticized repeatedly, including by Democratic presidential hopeful Bernie Sanders, for paying no federal income tax in 2017 or 2018 despite being among the world’s most valuable companies and making billions of dollars in profits in those years.
+
+Amazon has said its $0 tax bill was appropriate.
+
+“We pay all the taxes we’re required to pay,” said Jeff Wilke, head of Amazon’s worldwide consumer business. “If we paid no tax in the US, it was because the law required us to pay no tax.”
+
+Wilke noted Amazon has invested heavily in infrastructure development, especially for its fulfillment centers, and that deductions and credits in the tax code are meant to promote such investments. Indeed, Amazon has poured money into building out its network of warehouses and distribution centers, which requires investing in robots, computers and thousands of human workers.
+
+The company has also been able to write off billions of dollars in losses after spending years failing to turn a profit.
+
+3. Amazon explains its private-line strategy
+
+As Amazon battles claims of possible anticompetitive behavior, one point of contention has been that it allows third-party companies to sell products on its online marketplace but then often starts making and selling many of those same goods itself.
+
+Since 2007, Amazon has developed hundreds of private label brands, many of which don’t carry the company’s name — such as Wag, a dog food brand, and Crafted Collar, a line of button-down shirts — that it sells alongside other products on its site. Recently, its fashion lines have begun to gain traction as the company taps social media influencers to promote them.
+
+The company watches which items from third-party retailers sell best on its platform and then looks at whether it can make those goods more cheaply. Wilke said this is hardly a new strategy.
+
+“Retailers have been doing this forever,” he said. “They look at the things that fly off their shelves the fastest and they see if they could save customers money and improve quality by offering a private-label equivalent.”
+
+Amazon doesn’t necessarily prioritize its own products in search. Wilke said the search function is designed to show users the most popular products first, whether they are Amazon private-label or a third-party brand.
+
+4. Amazon’s future in banking?
+
+Some analysts think Amazon is also positioning itself to disrupt banking, much as it has upended so many other industries.
+
+Listen to the podcast here:
+
+Amazon in recent years has taken steps that signal it could be moving in that direction. It partnered with JPMorgan Chase (JPM) to launch a credit card for Amazon Prime members in 2017. The company has reportedly considered setting up Amazon-branded checking accounts with big banks or letting users make person-to-person payments through Alexa.
+
+Major players in finance take the possibility of Amazon, and other big tech companies, entering the industry very seriously.
+
+“Silicon Valley is spending $20 billion, $30 billion, $40 billion a year trying to get into this business and we should expect that,” JPMorgan CEO Jamie Dimon said.
+
+Dimon set up a team at JPMorgan two years ago to examine the challenges and opportunities that could come from “the internet giants” getting into financial services.
+
+“If we were them, if they were us, what would you do?” Dimon said of the group’s focus. “What can they do to compete? How might we want to partner?”

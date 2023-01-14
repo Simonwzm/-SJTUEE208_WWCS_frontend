@@ -1,0 +1,43 @@
+Washington CNN Business —
+
+A bipartisan group of House lawmakers is proposing to give small and rural wireless network operators $1 billion to tear out telecom gear produced by Huawei, ZTE and other Chinese providers that US officials consider a national security risk.
+
+Draft legislation released by the House Energy and Commerce Committee on Tuesday would allocate the money to operators with fewer than 2 million subscribers, targeting the dozens of smaller telecom companies nationwide that have integrated the Chinese-made equipment into their mobile networks.
+
+The bill shows how federal policymakers are still grappling with a major challenge: How to effectively ban Chinese telecommunications companies from the US market without harming the small businesses who depend on that gear for its reliability and affordability.
+
+US officials have long believed Huawei equipment could be used by China to spy on sensitive Western communications, a claim Huawei strongly denies.
+
+“Our telecommunications companies rely heavily on equipment manufactured and provided by foreign companies that, in some cases, as with companies such as Huawei and its affiliates, can pose a significant threat to America’s commercial and security interests,” said Energy and Commerce Committee Chairman Frank Pallone, along with Reps. Greg Walden, Doris Matsui and Brett Guthrie, in a statement.
+
+“This bipartisan legislation will protect our nation’s communications networks from foreign adversaries by helping small and rural wireless providers root out suspect network equipment and replace it with more secure equipment,” they said.
+
+Huawei is the world’s largest telecom equipment company, but only about 40 small, rural US network operators currently use its equipment.
+
+Last fall, Congress barred US government agencies from using Huawei and ZTE gear in a defense authorization bill. Huawei sued the United States over that provision, claiming it is unconstitutional. Then in May, President Donald Trump signed an executive order saying US firms could not use telecom gear from sources the administration deems to be a national security threat, such as Huawei.
+
+The Trump administration said it would offer more information on the executive order in 150 days. But rural wireless network operators say they still haven’t gotten any, leaving them struggling to understand exactly what equipment must be removed, when and how.
+
+“It’s confusing. We still don’t have any answers to the questions we have been asking,” said Craig Gates, CEO of Triangle Communications, a network operator in Central Montana. “What equipment is the problem? Are we going to get any financial assistance? What’s the deadline for us to remove any equipment?”
+
+Triangle Communications bought equipment from Huawei, rather from competitors Nokia or Ericsson, because it is significantly cheaper and the Chinese company’s product “quite frankly is superior or at least as good as theirs,” Gates said. He estimates removing it from his network would cost millions, even though the products make up only a small part of the infrastructure.
+
+And without more information from the US government, Gates said it’s hard for his company to take any action. He doesn’t want to start replacing some equipment only to find out that product wasn’t the problem.
+
+Geoffrey Starks, a commissioner at the Federal Communications Commission, said whatever remediation the US government requires of small American wireless providers, the government should be prepared to defray the costs.
+
+“I’ve probably spoken with over 20 small, rural carriers that do have Huawei or ZTE in their infrastructure,” said Starks in an interview. “If this [bill] appropriates $1 billion to fund a rip-and-replace program, I certainly think that that is a good advancement.”
+
+But, he added: “Network security is national security, and figuring out the right number is something we’re all going to need to work through.”
+
+If the proposed House bill passes, network operators would have to go through an application process that includes estimating the cost of removing the equipment. Once approved for the reimbursement, operators would have one year to remove and replace the gear.
+
+A similar bill in the Senate has proposed allocating $700 million to small carriers. Spokespeople for the Senate Commerce Committee didn’t immediately respond to a request for comment.
+
+US officials have traveled the world trying to persuade allies not to use Huawei products because of its security concerns. That campaign has received a mixed reception, as some countries have welcomed Huawei as a supplier.
+
+Huawei strongly rejects claims that it poses a threat, arguing that it does not have a relationship with the Chinese government and that any perceived danger to national security can be mitigated by using testing procedures.
+
+The company also says that because equipment sales to American operators make up just a tiny fraction of its business, being pushed out of the United States altogether would not have a material impact on its business. That’s in stark contrast to the White House action barring US firms from selling to Huawei, a move that threatens Huawei’s smartphone business by removing access to Google services.
+
+Huawei did not immediately respond to a request for comment on this story.

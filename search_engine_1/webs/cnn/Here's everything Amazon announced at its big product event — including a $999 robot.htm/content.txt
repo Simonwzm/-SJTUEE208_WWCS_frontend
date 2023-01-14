@@ -1,0 +1,65 @@
+(CNN Business) Amazon is continuing its quest to cover our homes and bodies with Amazon devices.
+
+At a livestreamed media event on Tuesday, the company showed off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and a Ring security service that monitors activity on your property. And then there's a new robot equipped with cameras named Astro that navigates your home while you're away.
+
+The announcements come aslooks for more ways to push people deeper into its ecosystem, especially when it comes to interacting with products around the house. The latest batch of products not only join Amazon's existing collection of smart speakers and wearables but its lineup of oddball devices, which range from voice-assistant connected microwaves to wall clocks.
+
+"Smart home potential extends well beyond where we are today," said Jonathan Collins, a research director at market research firm ABI Research. "Not every new Amazon product category can be successful and many are dropped quite quickly, but it is clear that Amazon is continually trying new product ideas to see where there is demand and where it can create additional value to further strengthen its relationship with consumers."
+
+Amazon Echo Show 15
+
+In 2014, Amazon ignited a smart home revolution with its Echo smart speaker line. Now it wants a rather large one to serve as a central device for managing your household needs.
+
+The new Echo Show 15, its biggest Echo device to date, features a 15.6-inch HD display that can be mounted on walls, cabinets or placed on the counter, either horizontally or vertically. A customizable home screen features Alexa-specific apps that allows users to control smart home devices, track packages, leave notes for other people in the house, add to shopping lists and view shared calendars. It also works with streaming services such as Prime Video, Netflix and Hulu.
+
+The Echo Show 15 will cost $249; countertop stands and cabinet mount accessories will be sold for an additional cost.
+
+Amazon Echo Show 15 lets users manage their household needs from one central device
+
+The company also said all voice interactions with Echo Show 10 devices and newer will now be processed locally on the device and not in the cloud, in a play to make interacting with the products more private.
+
+Home security service
+
+Amazon is also doubling down on what is arguably its most controversial smart home device.
+
+Ring, a smart doorbell company that Amazon acquired in 2018 for $1 billion, is launching a subscription service called Virtual Security Guard to allow third-party professional monitoring companies, such as Rapid Response, to analyze the live feed from its outdoor cameras. When motion is detected -- whether that's someone walking on the property, looking in a window or delivering a package -- a monitoring agent will check the livestream to assess the situation. They can use the camera's two-way talk functionality to communicate with visitors and activate the camera's siren or send emergency services as needed.
+
+The effort comes less than two months after public safety app Citizen, which has been criticized for sending real-time crime and emergency alerts that can fuel fear, launched a $20 monthly subscription plan for a product called Protect. The service connects subscribers with safety agents who can monitor a user's location in real time if they're in an unsafe situation -- and potentially escalate a situation to 911.
+
+Ring's foray into security monitoring comes amid its own privacy concerns. In 2019, it announced partnerships with more than 400 police departments across the United States to give law enforcement easier access to videos recorded on its doorbells for active investigations. Privacy advocates slammed the move, saying at the time that it threatened to create a 24/7 surveillance program. (Since June, police and fire departments may only request information or videos related to an active investigation through public posts called Requests for Assistance.)
+
+During its fall product launch last year, Ring showed off a $250 drone called Always Home Cam with an attached camera that can automatically fly around your house and stream video to your smartphone.
+
+Astro, the surveillance robot
+
+Amazon also announced an autonomous dog-like robot named Astro that uses artificial intelligence and mapping technology to zoom around the house. It's packed with cameras to record what it sees so users can check in on pets or elderly loved ones when they're away. It can also respond to voice-assistant commands.
+
+Amazon Astro
+
+The company said it didn't want to just put Alexa on wheels; it wanted to add eyes, unique sounds and make it approachable, even cute. The device will cost $999 when it launches later this year. Customers can request an invite to order now.
+
+Halo View, a fitness program and nutrition help
+
+Last year, Amazon's screenless Halo fitness band and app made headlines for creating 3D models of its users to calculate body fat and track their tone of voice to evaluate their emotional state as part of a way to look deeper into someone's overall health. Now, the company's new Halo View fitness tracker gives even more insight and guidance.
+
+Amazon's new Halo View fitness tracker and app
+
+The new device features a color display that highlights activity monitoring, sleep scores, blood oxygen levels, live workout tracking, and text and move notifications. For $79, it comes bundled with a one-year Halo membership, which includes a nutrition program and Halo Fitness, a new service for any Halo device owner with hundreds of workout classes, including yoga, strength, cardio and more from Amazon-employed trainers. The program will likely directly compete with Apple's Fitness+. After a year, the Halo membership will auto-renew at $3.99 each month.
+
+Halo View — which comes in black, green and lavender and lasts a week on one charge — will ship ahead of the holiday shopping season.
+
+Something for the kids
+
+A new video chat device called Amazon Glow is a charming, engaging way to bring video calls with family and friends to life for kids. Glow projects a 19-inch interactive space onto the surface in front of the screen where kids can play games, draw, and interact with storybooks and characters from franchises like "Frozen" and "Sesame Street."
+
+Any friend or family member using the free Glow app on iOS and Android -- or coming soon to Amazon's FireOS -- can engage with the projections in real time, allowing real-time play as if they're in the same room. It also features an object scanning tool, so a child can turn a toy into a jigsaw puzzle.
+
+Amazon Glow brings remote video calls to life for kids
+
+Glow will cost $249 and comes with a mat, a mat case, Tangram Bits puzzle pieces, and a one year subscription of Amazon Kids+, a hub with thousands of books, shows and educational apps for kids.
+
+Amazon is also rolling out a new voice assistant that allows users to interact with characters and receive stories, jokes, trivia and more about the Disney universe when they say "Hey, Disney!" The feature will be available for purchase on supported Echo devices (price TBD).
+
+A Nest competitor
+
+The company also announced a Google Nest thermostat competitor for only a third of the price. Amazon Smart Themostat ($59), which was developed in partnership with Honeywell, learns user habits, helps cut down energy and makes adjustments accordingly.

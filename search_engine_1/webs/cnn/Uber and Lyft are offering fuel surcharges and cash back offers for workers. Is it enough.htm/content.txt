@@ -1,0 +1,55 @@
+(CNN Business) For many gig workers, their vehicles are how they make a living. And as independent contractors, they're solely responsible for keeping them clean, running and full of gas. In recent weeks, the latter part has gotten much more burdensome.
+
+In response to soaring gas prices,andrecently announced they'll start tacking on temporary fuel surcharges to rides. Uber, beginning Wednesday, is charging customers an extra $0.45 or $0.55 per ride and $0.35 or $0.45 on delivery orders. Lyft will add a $0.55 to each ride starting next week. Both companies said the fees will go straight to drivers.
+
+Before the announcements, when asked what they were doing to help drivers, the companies pointed to partnerships they previously struck with a startup, GetUpside, that provides cash back on fuel at participating stations. This week, DoorDash and Lyft each also touted gas rewards or cash-back programs. However, to access them, workers need to open debit cards with the companies. (Asked whether DoorDash was considering adding a similar fuel surcharge, the company said it didn't want to pass on costs to consumers given they, too, are paying more for their own gas.)
+
+Willy Solis, a gig worker based in Denton, Texas, said the various announcements are "designed in a way to make it sound like they're doing everything they can to take care of the drivers when in reality they're not."
+
+Solis, who does gig work for Uber Eats, Instacart, Target-owned Shipt, Grubhub and DoorDash, said he's been working six days a week instead of his usual five in order to make up for the rising fuel costs. Solis said where he used to fill his tank for $20 to $30, he is now spending $40 to $50 to do so.
+
+"It has shifted the way I'm working," said Solis, who also organizes with grassroots advocacy group Gig Workers Collective. "I've been more critical of the orders I take and the distance I'm taking them, seeing if they're worth my while."
+
+To some who've studied the gig economy, the responses from the companies are another example of how they obscure the cost of working for their platforms — to both the workers and the public — all while heavily financing efforts to keep them classified as independent contractors responsible for their own expenses.
+
+The cash back offer
+
+In November, Uber started rolling out a feature that allows drivers to "pause" incoming trips to find a nearby gas station through an integration with GetUpside. By getting fuel at those stations, drivers can receive up to $0.25 per gallon depending on the location, the company said. In late January, Lyft announced a similar partnership with the company. (When asked about efforts it was taking to address rising fuel prices, Instacart also touted a partnership with GetUpside.)
+
+While the partnerships made for good press releases, the six-year-old GetUpside also has a consumer app that anyone can download and use to get cash back on things like gas and groceries.
+
+Uber and Lyft's partnerships allow the companies to integrate the GetUpside platform into their apps and to layer on additional discounts.
+
+Solis told CNN Business that he does use the GetUpside consumer app to find where gas prices are lowest, but that when he arrives he typically finds cheaper gas nearby at a non-partner location.
+
+The integration may be useful to drivers so they don't have to toggle between apps, but it's up to the companies to add any financial savings beyond what's offered in the consumer app.
+
+"Usage across the board is up on the consumer side significantly, both in the Uber and Lyft driver apps, and all the other app interfaces, because prices are rising so fast," GetUpside CEO Alex Kinnier told CNN Business.
+
+Kinnier said he wasn't aware Uber and Lyft had mentioned the partnerships in recent statements but that he's "flattered" by it.
+
+While the efforts may be better than doing nothing for workers, Katie Wells, a postdoctoral fellow at Georgetown University who researches the social and economic effects of on-demand services, said they are merely "a cosmetic adjustment to a very pernicious and predatory workplace that provides meaningful services."
+
+"Estimating fuel usage shouldn't be too challenging"
+
+Today's fuel prices may be historically high, but drivers have seen their take-home pay squeezed by gas costs for as long as the ride-hail platforms have existed. According to Christo Wilson, an associate professor at Northeastern University who studied Uber's algorithms several years ago, the companies could factor the price of fuel into the algorithm that determines how much drivers get paid.
+
+"They know where drivers are, and getting the average gas price in that area wouldn't be challenging," Wilson told CNN Business in an email. "They also know how far and how long drivers are active during trips, as well as the make and model of their car, so estimating their fuel usage shouldn't be too challenging either."
+
+Wilson noted that Uber, like other gig companies, has "a history of externalizing costs onto drivers."
+
+Asked why Uber didn't factor the cost of fuel into its pay algorithm in a dynamic way, the company said it doesn't want driver earnings to decrease if prices fall or shift unpredictably.
+
+Solis noted there's a more meaningful way Uber and Lyft could have structured the new fuel surcharge, which is a flat fee per trip: "We need it to be per mile. We're losing gas money as it goes per mile, not per trip."
+
+Grubhub, another delivery service, appears to be taking something closer to this approach. The company recently informed drivers that it had increased per mile distance pay beginning March 9 to be "consistent with average per mile cost increases for gas in your region." The company also said it would provide "additional pay based on the estimated total miles driven ... for each calendar week." (Grubhub did not immediately respond to a question about how much per mile costs have increased on average.)
+
+By design, companies like Uber and Lyft don't cover expenses like fuel for workers. And they've spent lavishly in recent years to keep it that way, namely by backing efforts that ensure they can continue to treat workers as independent contractors rather than employees.
+
+This month, Washington State passed legislation that enshrines the contractor classification for Uber and Lyft drivers while offering them some new benefits. Notably, the companies would not have to provide any minimum wage protections when workers are cruising around looking for passengers, for example, a reality of the job that's even more expensive given gas prices. (The bill can still be vetoed by Governor Jay Inslee; CNN Business has reached out to his office for comment.)
+
+That legislation follows a high-profile fight in California where the companies, along with Instacart and DoorDash, spent more than $200 million successfully getting voters in the state to pass a ballot measure to preserve the status of workers as contractors while offering up some benefits. The effort, Proposition 22, became law in 2021 but a California judge has since deemed it unconstitutional, a decision the companies are appealing. Meanwhile, the companies are gearing up for a similar ballot measure push in Massachusetts and, along with others including Grubhub and Shipt, have set up an industry association that reportedly spent $1 million on a new ad campaign in Washington, DC, to fend off employer status federally.
+
+To Solis, the response from gig companies to the ongoing fuel issue is just the latest example of the burden of gig work falling to the workers.
+
+"There has to be some kind of relief that workers receive and that we receive quickly because gas prices only continue to rise and we have no control over how much we earn based on the [fuel] price increase," he said. "It is important to know we are the ones absorbing this cost regardless of whatever compensation they claim to be offering."

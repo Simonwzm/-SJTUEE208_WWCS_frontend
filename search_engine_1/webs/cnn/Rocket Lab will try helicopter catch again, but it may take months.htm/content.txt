@@ -1,0 +1,41 @@
+New York (CNN Business) Rocket Lab this week made an ostentatious attempt to catch a rocket as it fell from space using a hook-wielding helicopter that snagged the rocket mid-air only for the pilots to intentionally drop it moments later because of safety concerns. The display is all part of the company's plan to eventually re-use its rocket boosters, saving time and money. But it may be months before the company will make another attempt.
+
+Despite saying the fix needed to make the rocket capture work is "trivial," Rocket Lab CEO Peter Beck told reporters at a post-flight briefing that the company will need to go back to the testing phase. The plan is to build a better replica of the rocket booster to use in simulations so that the helicopter pilots won't be caught off guard by the physics involved with catching the real thing, as they were after Monday night's attempt.
+
+Beck also said the company is shifting its focus to an upcoming mission to launch a tiny satellite to the moon . Only after that mission is complete, and additional tests are carried out, will the company attempt the helicopter capture maneuver again.
+
+Still, Beck said Rocket Lab gathered plenty of valuable information from Monday's attempt, declaring a "massive milestone" had been reached on the company's journey to making its $7.5 million rocket reusable.
+
+The capture happened largely without issue, at least at first. After the first-stage rocket booster — the large, bottom portion of the rocket that gives the initial thrust at liftoff — put a group of satellites in space, it made a controlled plunge back toward the ground using a set of small thrusters to keep it oriented as it sliced back into Earth's atmosphere.
+
+"This is really important because if you don't have the stage orientated perfectly with the heat shield down, then basically as the reentry process begins, it's like a big ball of plasma [and] it'll basically shred the stage," Beck said, noting that before reentry the rocket is traveling at about seven times the speed of sound, or more than 5,300 miles per hour (8,600 kilometers per hour).
+
+When the rocket made it to a low enough altitude, it slowed to just two times the speed of sound, and deployed a small parachute, called a "drogue chute," to further slow its descent.
+
+Meanwhile, the helicopter — a massive twin-engine Sikorsky S-92 helicopter of the type typically used for search and rescue missions — waited nearby, using computers to keep precise tabs on the rocket booster's whereabouts.
+
+When a larger parachute deployed, Beck said the rocket slowed to just 22 miles per hour, or 10 meters per second, allowing the helicopter pilots to match its speed. Then the helicopter made its approach, using a 150-foot line of rope from its belly with a hook at the bottom to intercept rocket. On Monday, that worked almost flawlessly.
+
+The only problem was that, for the helicopter pilot, the capture created an uncomfortable "load" on the helicopter beyond what they had experienced during testing. So they dropped the rocket into the ocean, something the company hoped to avoid because sea water is corrosive and damaging to electronic components.
+
+"We didn't want to bite off more than we could chew," Beck told reporters after the flight. "The pilots were well briefed: If anything was different from the simulation that they felt that they weren't happy with, then the most important thing is everybody's safety. ... And that's exactly what they executed. So they got a great catch. And and they just didn't like the way the the load was feeling."
+
+In the post-flight briefing, Beck emphasized the difficulty of executing the maneuver.
+
+In this image supplied by Rocket Lab, the Electron rocket blasts off for its "There And Back Again" mission from their launch pad on the Mahia Peninsula, New Zealand, Tuesday, May 3 local time. The California-based company regularly launches 18-meter (59-foot) rockets from the remote Mahia Peninsula in New Zealand to deliver satellites into space. (Rocket Lab via AP)
+
+"It's kind of a three dimensional problem, if you will," he said. "There's a tremendous number of things that have to go perfectly, and it really is an incredible ballet of logistics and moving pieces."
+
+The company waited for nearly perfect weather and visibility conditions for Monday's attempt, and Beck said it doesn't currently have plans to attempt such a capture at night. So, even when and if Rocket Lab does master this rocket recovery technique, it's possible the company won't be able to use it on every mission.
+
+Regardless, Beck said it's still well worth the time and money to figure it out.
+
+He noted that the first-stage rocket booster makes up about 80% of the cost of a brand new rocket, so figuring out how to safely capture and re-use them after launch will save the company a bundle of cash. And compared to the millions of dollars it takes to manufacture a new rocket, renting the helicopter to attempt recovery only costs about $4,000 or $5,000 per hour, Beck noted.
+
+Beck said he hasn't ruled out attempting to re-use the rocket booster from Monday's mission. It only took a brief dunk in the ocean before it was recovered by a ship, and it made a very gentle landing.
+
+A lot remains unclear about how Rocket Lab will ultimately reuse its rockets. It took SpaceX, for example, several years to figure out how to safely and efficiently recover, refurbish and re-fly its first-stage rocket boosters. And Beck cited the company as a model for how Rocket Lab will proceed.
+
+"It's an iterative process," he said, sounding cautiously optimistic before pivoting, almost immediately, to signal that he believes Rocket Lab can correct what went wrong on Monday quite easily.
+
+"Now that we have the data," he said, "we can go back and reconstruct it and, like I said, this will be fixed very quickly."

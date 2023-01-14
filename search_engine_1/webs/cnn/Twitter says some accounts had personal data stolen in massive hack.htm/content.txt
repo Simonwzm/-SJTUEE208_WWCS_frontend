@@ -1,0 +1,27 @@
+New York and Washington DC CNN —
+
+Twitter revealed late Friday night that hackers had downloaded personal data, possibly including private messages, from up to eight of the accounts targeted in this week’s massive hack.
+
+Twitter (TWTR) said in a blog post that hackers had downloaded the data using a tool that includes an archive of private messages. The company said these eight accounts were not verified accounts, meaning the most high-profile figures impacted by this week’s hack have not been found to have their data downloaded. However, it’s unclear if their data, including private messages, was accessed in other ways.
+
+The staggering hack compromised accounts belonging to VIPs ranging from former President Barack Obama and presumptive Democratic presidential nominee Joe Biden to billionaire businessmen Elon Musk and Jeff Bezos. The influential accounts were used to promote a Bitcoin scam.
+
+As bad as the security incident was, some cybersecurity experts and policymakers had worried the scam might mask a much more troubling data breach involving the personal communications of some of the world’s most powerful people. Twitter’s latest update could ease that particular concern, though the company has not said precisely what information, if any, might have been accessed through verified accounts.
+
+Twitter said 130 accounts had been targeted by the attackers. Of those, 45 accounts were successfully breached, Twitter said.
+
+The company also said Friday night that several of its employees had been targeted by the hackers to gain access to internal systems.
+
+“The attackers successfully manipulated a small number of employees and used their credentials to access Twitter’s internal systems, including getting through our two-factor protections. As of now, we know that they accessed tools only available to our internal support teams,” Twitter said.
+
+Members of Congress, cybersecurity experts and Twitter itself have been searching for answers about how the hack happened.
+
+Images circulating online purporting to show a screenshot of an internal Twitter control system connected to the hack are being looked at by federal investigators, law enforcement sources tell CNN. The tool appeared to include the ability to change the email address associated with a Twitter account, which could potentially allow a Twitter account to be taken over.
+
+Twitter has removed tweets with the images from its platform, according to people who have posted them. A Twitter spokesperson told CNN Friday it was removing images that included personal or private information.
+
+The spokesperson would not say if the images actually showed an internal Twitter system, citing Twitter’s ongoing investigation.
+
+Former Twitter employees have told CNN they recognized the images as depicting an internal control system, sometimes referred to by Twitter staff as “agent tools.” This internal tool is intended for employees to handle customer support requests and to moderate content, said a person familiar with Twitter’s security.
+
+A Twitter spokesperson confirmed the company has been in touch with the FBI.

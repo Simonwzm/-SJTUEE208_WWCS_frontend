@@ -1,0 +1,53 @@
+San Francisco CNN Business —
+
+Retail stores may be slowly reopening across the US, but many consumers continue to shop online for everything from groceries to bicycles.
+
+It’s likely that your personal and credit card information has been stored in more places over the past few months, opening yourself up to cyber attacks and identity theft. While it’s always a good idea to routinely change passwords and secure your home networks, now is as good of a time as any to make sure you’re also protecting how you shop online.
+
+It’s a growing problem. The US Federal Trade Commission reports consumers have lost nearly $60 million to fraud overall this year alone, with online shopping accounting for the biggest share (13%).
+
+Here are a few precautions to keep in mind.
+
+Keep track of your card information
+
+Established online retailers including Amazon and Instacart have seen dramatic spikes in usage this year, and smaller local businesses are increasingly adding online ordering options but may not have the same level of data protection.
+
+“I’d never thought I would buy steak online, but I’m buying steak online,” Mark Ostrowski, a cybersecurity expert at software firm Check Point, told CNN Business. “People really need to keep track of their footprint and go through and delete accounts, remove credit cards, move personal information off a lot of these things after they do their purchasing — especially if it’s a one-time type purchase.”
+
+It may sound tedious but keeping a running list of websites where you’ve entered your credit card information can be helpful to make sure you remove that data later.
+
+Some browsers such as Google Chrome have a built-in password manager that reveals which sites you have accounts with. “You could use that to kind of go backwards in time and … clean it up,” Ostroswki said.
+
+Password managers such as LastPass or Dashlane, which can store all your passwords securely and autofill them on websites, or even generate temporary numeric codes so you don’t have to enter your password, can also make it easier to protect data against
+
+Think twice about how you pay
+
+When it comes to online shopping, credit cards are better to use than debit cards because they aren’t directly linked to your bank account. “There are laws to limit your liability for fraudulent credit card charges, but you may not have the same level of protection for your debit cards,” the US government’s Cybersecurity and Infrastructure Security Agency (CISA) said in a set of guidelines published last year. “You can minimize potential damage by using a single, low-limit credit card to make all of your online purchases.”
+
+Some banks and credit card companies offer a temporary card number to customers, which generate a one-time virtual account number that you can use for online purchases without entering your real credit card.
+
+“These temporary numbers can be useful for one-time purchases,” cybersecurity firm Kaspersky said in guidelines posted on its website.
+
+Digital payment services like PayPal can also allow you to make purchases without entering your card information on numerous sites.
+
+Vigilant browsing
+
+it’s the oldest trick in the book, but cyber criminals frequently try and impersonate popular brands or companies in phishing attacks, emailing fake offers or discounts that may look like the real deal but install malware when you click on them. But they keep at it because people fall for these tactics. Getting around it can be as simple as typing out the website on your browser first.
+
+“Doing a Google search for the company which you want to do business with is a lot safer than clicking on a link that you’re getting in an email,” Ostrowski said. “And better yet, if you know exactly where you need to go, go directly there.”
+
+Ostrowski says household names like Apple (AAPL), Netflix (NFLX), PayPal (PYPL) and eBay (EBAY) are among the most frequent services impersonated by phishing attacks. “If it’s too good to be true, it’s probably too good to be true,” he added.
+
+Many best practices for other types of online activity can also be effective when it comes to online shopping, such as making sure the website you’re on is encrypted. The best way to do that, according to CISA, is to check whether the site’s URL starts with “https” rather than the more standard “http.”
+
+Some browsers also have a padlock icon that indicates a site is encrypted, CISA said. But users should be careful about those, too. “Some attackers try to trick users by adding a fake padlock icon, so make sure that the icon is in the appropriate location for your browser,” the agency added.
+
+Finally, experts warn shoppers should never buy anything online when on a public WiFi network, which tend to be less secure and ripe for exploitation. If you’re out of the house and not on a known secure network, it’s “safer to do so via your mobile phone network,” according to Kaspersky.
+
+The cybersecurity firm also recommends using a dedicated email address just for online shopping, to prevent attacks disguised as marketing emails from making their way to your main inbox.
+
+“If such messages are sent to your primary email address, you’ll be aware that there’s a fair chance that they’re fake or malicious,” Kaspersky researchers said.
+
+According to Ostrowski, the sheer amount of data users end up exposing while shopping online can make them vulnerable even long after they stop purchasing.
+
+On a daily basis, people don’t think about “how big their footprint is on the internet with online retailers,” Ostrowski said. “In six months or eight months, when maybe you don’t need as many of these retailers, that footprint’s going to continue to exist for a long time. So I think people really need to keep track.”

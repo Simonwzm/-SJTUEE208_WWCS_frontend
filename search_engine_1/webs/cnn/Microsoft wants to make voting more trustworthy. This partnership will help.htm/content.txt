@@ -1,0 +1,31 @@
+New York (CNN Business) In late February 2020, Microsoft carried out the first official test of its ElectionGuard voting security software in an election in Fulton, Wisconsin, for the local school board and a state supreme court seat. Developed as part of the tech giant's "Defending Democracy" project , the software is designed to help make elections more secure and trustworthy.
+
+Now, more than a year later, widespread distrust and discord surrounding the 2020 presidential election has helped to make the case for this kind of technology.
+
+"I don't think there's been a more important time in history for vendors to try building this technology into their systems because of its ability to build trust in the electoral process," Tom Burt, Microsoft's corporate vice president of customer security and trust, told CNN Business.
+
+on Thursday announced the first such implementation of ElectionGuard with a major US voting technology vendor, Hart InterCivic. Hart — one of the three leading election vendors in the United States — provides its voting system to election officials in more than 500 jurisdictions across 17 states.
+
+The companies said the agreement will make Hart the first major election tech vendor to offer voters end-to-end verification that their ballots were counted correctly.
+
+Hart has already begun discussions with election officials it serves about testing the ElectionGuard software in upcoming elections. Ultimately, Microsoft hopes the technology will be widely adopted in time for the 2024 presidential election.
+
+"We believe we must constantly re-imagine how technology can make voting more secure and also more transparent, and this partnership with Microsoft is a strong step in that direction," said Julie Mathis, CEO of Hart InterCivic.
+
+For voters, Hart's voting process will still work more or less the same way it does now: voters at designated polling places will fill out either a paper ballot or select their choices on a machine and print them out. They will then place their paper ballot in a Hart scanner. Only now, that scanner will be outfitted with ElectionGuard software that will encrypt the ballots as soon they are scanned.
+
+ElectionGuard individually secures each vote with a process called "homomorphic encryption" — after polls close, this encryption makes it possible to tally votes and decrypt results without having to decrypt individual ballots.
+
+This reduces the likelihood of vote tampering: If a bad actor wanted to preference a certain candidate, they would have to do the difficult work of decrypting each vote in order to even know which votes to change.
+
+Election officials can also run a verifier application that uses a mathematical equation after polls close to determine if votes have been tampered with. Because of the encryption process, the equation will produce an expected result if no votes were tampered with. If the answer is different, it will indicate that election officials should double check the election results using back-up paper ballots.
+
+The software is built on the assumption that it's impossible to avoid with 100% certainty a bad actor compromising a voting system. So ElectionGuard ensures that if there is a hack, election officials will know immediately and have alternate options for vote-counting at the ready, thereby removing incentives for election meddling.
+
+Preventing such meddling is a central concern for election officials. The US government found that adversaries including Iran and Russia sought to interfere in the 2020 presidential election , with the aim of undermining voter confidence in the democratic process.
+
+Another key feature of the ElectionGuard software is the ability for individual voters to confirm that their vote was counted accurately. After voting, each voter will receive a code they can use to check their ballot the next day — the same verifier application that confirms there was no vote tampering can confirm for voters that their ballot was tallied correctly.
+
+"For those who are distrustful, giving them the ability to confirm that their vote got counted, that's where I see a huge potential transformation in trust," Burt said Thursday.
+
+ElectionGuard is free, open-source software that Microsoft developed as a not-for-profit initiative.

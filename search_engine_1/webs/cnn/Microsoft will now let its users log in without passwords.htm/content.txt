@@ -1,0 +1,11 @@
+(CNN Business) Microsoft has a solution for the familiar problem of needing to remember too many passwords: doing away with them altogether.
+
+The company announced Wednesday that it will introduce a "passwordless account" option for all users of several popular services such as Microsoft Outlook and Microsoft OneDrive in the coming weeks. Microsoft previously made this option available to corporate accounts in March.
+
+"You can now completely remove the password from your Microsoft account," Vasu Jakkal, the company's corporate vice president of security, compliance and identity, wrote in a blog post Wednesday.
+
+Microsoft MSFT Instead of passwords,will let users sign in to these services with either the company's Authenticator app, which produces a unique numbered login code every few seconds, or with Windows Hello, which lets users sign in using facial recognition, a fingerprint or a unique pin. Microsoft users can also buy an external security key, like a USB drive with login information stored on it, or register a phone number to which Microsoft sends a verification code.
+
+The change from Microsoft comes after a spike in cyberattacks over the past year. With the majority of corporate employees working from home because of the coronavirus pandemic, hackers have many more avenues to infiltrate a company's systems — and compromising passwords is one of their most common strategies. (Microsoft has also had its share of security issues in recent months, with its services linked to multiple high-profile hacks and breaches .)
+
+Read More

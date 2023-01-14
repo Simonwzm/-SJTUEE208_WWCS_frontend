@@ -1,0 +1,43 @@
+New York (CNN Business) Dell imagines a future in which businesses are faster, smarter and better.
+
+The tech company is building a "world where we see wide-scale connectivity, data-driven insights, automation and embedded intelligence in everything that we do," Dell Chief Operating Officer Jeff Clarke told CNN Business in an exclusive interview.
+
+Now, all eyesare onafter its recent announcement that it will spin off its ownership stake in virtualization software giant VMware.
+
+When Dell bought VMware's parent company EMC in 2016, VMware was the big prize in the $67 billion deal — an acquisitionseen as crucial to helping struggling Dell keep up with new trends and competitors in its core PC and server businesses. But last year, Dell began weighing the spinoff to help pay down debt from the deal.
+
+So the question has now become: Where does Dell go from here?
+
+Dell's DELL it's investing in to drive the company's future. Answers should come Wednesday and Thursday atannual event, Dell Technologies World, where the company will detail the techit's investing in to drive the company's future.
+
+Developing future-facing tech
+
+The event is set to include several new product announcements that will help the company make deeper inroads into major — and growing — areas of technology such as 5G , cloud computing and artificial intelligence. These technology trends have been accelerated by the pandemic , and experts say they're likely to impact most, if not all, industries in the coming years.
+
+"With that backdrop, we think that presents a pretty significant opportunity for our company," Clarke said.
+
+When customers no longer need to worry about data speeds, they can instead focus on what insights they can glean from their data.
+
+The new offerings include APEX, a suite of data storage and cloud computing tools that customers can buy "as a service" (more like a subscription, based on an organization's current needs and usage, than a one-time payment).
+
+It's also introducing an updated edge computing "streaming data platform." Edge computing tech puts more processing power on-site where it's used, so data doesn't have to travel to a distant server and back for machines to respond to it. For example, an amusement park customer is using the technology to send immediate alerts to its maintenance staff when a sensor flags an issue with a ride.
+
+Dell COO Jeff Clarke told CNN Business the company sees big opportunities in areas of emerging tech such as 5G and cloud computing.
+
+"The conversations [with customers] have moved past the 'tell me about the gear' ... to [become] really about insights and outcomes," Clarke said. "We think we're positioned quite well to help our customers through this journey."
+
+The post-VMware future
+
+And though Dell is spinning off its VMware stake, Clarke says the companies' relationship will remain intact. They've set a five-year agreement to partner on creating new tech, and for at least that long, Clarke said, customers of Dell and VMware will see no difference in how they work together.
+
+Dell needs to maintain its relationship with VMware because "the line between hardware and software has blurred," and customers are demanding tech solutions that involve both, Clarke said.
+
+As part of the deal, Dell will receive a dividend of more than $9 billion to pay down debt and improve its credit, which could make it easier to invest in research and development. Clarke said this gives Dell more options "while maintaining the benefits" of the VMware partnership.
+
+However, some analysts have wondered what the future looks like for Dell beyond that five-year agreement, after which the two companies can renew it annually.
+
+"Ten or 15 years from now, is Dell Technologies going to be a better company without 80% ownership of VMware?" Bernstein senior research analyst Tony Sacconaghi asked on a Dell analyst call following the spinoff announcement. "It's extremely rare that a company divests a faster-growing, higher-margin, more recurring business."
+
+But Clarke told CNN Business the two companies have big incentives to continue working together, even after the initial agreement period ends.
+
+"We have a long history, 20-plus years of working together," Clarke said. "We see a long opportunity to work together to solve the world's technology problems in the future."

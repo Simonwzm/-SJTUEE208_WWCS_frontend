@@ -1,0 +1,55 @@
+CNN Business —
+
+Two years after then-President Donald Trump said he would ban TikTok in the United States through an executive order, the short-form video platform is once again under scrutiny in Washington. And the underlying issue remains largely the same: TikTok’s ties to China through its parent company, Bytedance.
+
+A growing number of US lawmakers are calling for the Biden administration to take action against TikTok, citing apparent national security and data privacy concerns. The criticism stems from a Buzzfeed News report in June that said some US user data has been repeatedly accessed from China. The reporting cited leaked audio recordings of dozens of internal TikTok meetings, including one where a TikTok employee allegedly said, “Everything is seen in China.”
+
+In a response to the report, TikTok previously said it “has consistently maintained that our engineers in locations outside of the US, including China, can be granted access to US user data on an as-needed basis under those strict controls.” A TikTok executive testified before a Senate panel last year that it doesn’t share information with the Chinese government and that a US-based security team decides who can access US user data from China.
+
+The renewed pressure on TikTok comes as the platform’s influence continues to grow in the United States. After Trump left office, the Biden administration revoked the executive order and largely walked back official attempts to ban TikTok. Last year, TikTok said it topped 1 billion monthly active users globally, and more than 100 million users are said to be in the United States, according to some market research estimates. Activity on the app continues to shape the news cycle, popular music, culinary trends and more in the country. Meanwhile, other US social media giants continue to imitate TikTok’s features in an effort to compete.
+
+Former President Donald Trump sits during a meeting in the Cabinet Room of the White House in Washington, D.C., Doug Mills/The New York Times/Bloomberg/Getty Images
+
+Some critics previously blasted Trump’s crusade against the fast-growing video app as political theater rooted in xenophobia, and called out Trump’s odd suggestion that the United States should get a “cut” of any deal if it forced the app’s sale to an American firm. But the latest round of pressure from lawmakers on both sides of the aisle shows how the national security issue continues to plague TikTok in the United States, even under a new administration.
+
+Here’s what you should know about the latest scrutiny of TikTok and Bytedance along the Beltway.
+
+What lawmakers are saying about TikTok
+
+A range of US lawmakers and officials have in recent months called for new investigations into TikTok’s data storage practices or even for the app to be yanked off US app stores.
+
+A coalition of GOP senators led by Tom Cotton of Arkansas sent a letter in June to Treasury Secretary Janet Yellen calling for answers about actions the Biden administration is taking to combat the “the national security and privacy risks posed by TikTok.” A separate group of Republican senators led by Marsha Blackburn of Tennessee also sent a letter of questions to TikTok’s CEO, Shou Zi Chew. The senators said the recent media reports “confirm what lawmakers long suspected about TikTok and its parent company, ByteDance — they are using their access to a treasure trove of US consumer data to surveil Americans.”
+
+Meanwhile, a bipartisan group of lawmakers on the Senate Select Committee on Intelligence urged the Federal Trade Commission to formally investigate TikTok and ByteDance. “In light of repeated misrepresentations by TikTok concerning its data security, data processing, and corporate governance practices, we urge you to act promptly on this matter,” the letter signed by Mark Warner of Virginia and Marco Rubio of Florida stated.
+
+A logo of ByteDance at its office in Beijing, China July 7, 2020. Thomas Suen/Reuters
+
+In a letter, a member of the Federal Communications Commission urged Apple and Google to remove TikTok from their app stores. FCC Commissioner Brendan Carr claimed that ByteDance was “beholden” to the Chinese government, and “required by law to comply” with the Chinese government’s surveillance demands. The letter was widely reported on, despite the fact that the FCC has no role in overseeing app stores.
+
+In a letter responding to Blackburn and others, Chew said: “We have not provided US user data to the [Communist Party of China], nor would we if asked.”
+
+How TikTok has responded
+
+Amid the recent uproar, TikTok announced that it has moved its US user data to Oracle’s cloud platform so that “100% of US user traffic” is now hosted by the cloud provider, potentially addressing national security concerns.
+
+In his letter to lawmakers, which mentioned the shift to Oracle, Chew said the broader goal for the company’s data security efforts is to build trust and “make substantive progress toward compliance with a final agreement with the US Government that will fully safeguard user data and US national security interests.”
+
+Adobe Stock
+
+Chew didn’t name any specific groups within the US government, but the Committee on Foreign Investment in the United States (CFIUS) has been investigating TikTok since 2019. The government body, however, has not provided any recent updates on its investigation. Citing anonymous sources, Reuters recently reported that CFIUS has been in “extensive discussions with TikTok on security issues.” Representatives for CFIUS did not immediately respond to a request for comment.
+
+TikTok also recently pledged to offer researchers more transparency about activity on the platform, including access for a select group to its API, or application programming interface.
+
+“We know that just saying ‘trust us’ is not enough,” TikTok chief operating officer Vanessa Pappas said in a blog post announcing the planned update. “That’s why long ago we made an important commitment to transparency, particularly when it comes to how we moderate and recommend content.”
+
+Why the national security concerns won’t go away
+
+While TikTok has long pushed back at the national security concerns as “unfounded,” the concerns persist.
+
+“The fact that the Chinese government, if it really wants to, can make any company in its borders comply with data access requests, I think is really at the root of a lot of these concerns about TikTok,” said Justin Sherman, a nonresident fellow at the Atlantic Council’s Cyber Statecraft Initiative.
+
+“There are real national security questions being asked,” Sherman added, but there are also issues with galvanizing much of the conversation around anti-China rhetoric.
+
+Focusing too narrowly on the national origin of an app’s owner, or just on a single company, only looks at one way that data can be accessed, Sherman said. As a result, it loses all the other ways that data flows through advertisers, brokers and much more.
+
+“It’s good to have this kind of attention” on data privacy and security issues, Sherman said. “But if all you’re doing is writing letters about specific companies and not actually writing and testing laws and regulations to control for risks, in the long run, nothing’s really going to change too much.”

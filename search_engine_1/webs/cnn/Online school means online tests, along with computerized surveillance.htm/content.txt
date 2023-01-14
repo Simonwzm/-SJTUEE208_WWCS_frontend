@@ -1,0 +1,67 @@
+CNN Business —
+
+When Amanda Kemper found out that artificial intelligence would help monitor students during her mechanical engineering class’s final exam this summer, she was worried.
+
+Like many students, Kemper’s classes at the University of Wisconsin-Madison shifted online suddenly in the spring due to the ongoing pandemic. With remote learning came remote exams: Starting in July, the university let instructors use software from Honorlock, which is one of numerous companies that can record video — and much more — of students as they take tests, and uses AI to point out any behavior that looks like cheating.
+
+Kemper learned about Honorlock a week before her final exam and she had a number of concerns. She didn’t like the idea of being recorded and having that recording sent to her professor. She has severe test-related anxiety and sometimes gets nauseous — what would happen if she suddenly had to run to the bathroom?
+
+“It seemed like, amidst this crisis, this global pandemic happening, we were being propelled into the software that the university might not have done a lot of research on and students hadn’t done the research on,” she said.
+
+She brought her concerns to her professor, who ultimately decided the class would shift to an unproctored take-home exam since the class syllabus hadn’t mentioned Honorlock specifically from the start.
+
+But with fall classes looming and the pandemic still raging, Kemper knew she’d likely encounter Honorlock again in the fall. So she also started an online petition asking the school to ban HonorLock; she sought 1,500 signatures, and as of Friday, over 1,400 people signed in support.
+
+Pheelings Media/iStockphoto/Getty Images
+
+Students at UW-Madison are far from the only ones facing this kind of AI-assisted assessment. Colleges across the United States have been forced into distance learning due to the pandemic, which means they’re increasingly reliant on technology for tasks normally performed in person. This has led many to embrace software that uses webcams and AI to monitor students during tests. Other companies providing such services include Proctorio, ProctorU, Respondus, and Proctortrack. The practice may prevent cheating, but it is also upsetting some students and faculty who feel the computerized surveillance goes too far and question how well it works.
+
+“I understand that this technology might be a part of the future of education but as with anything, our data on social media, our data anywhere else, I just want to know where it is how it’s being used in a transparent way,” said Marium Raza, a student at the University of Washington who opposed using such software in the spring.
+
+An explosion of interest
+
+Honorlock declined an interview request from CNN Business, but several other online proctoring companies said business is booming, thanks to the pandemic. David Smetters, CEO of Respondus, said it expects to use its automated proctor, Respondus Monitor, to oversee more than 20 million exams this year, four times as many as it proctored in 2019.
+
+Mike Olsen, founder and CEO of Proctorio, said that as of mid-August the company had proctored almost 9 million exams for the year, with the typically busy fall season just getting underway. It, too, proctored 5 million exams last year.
+
+In the US, much of this testing surge comes from colleges and universities, though these services are also being tried for some major professional exams that are going remote. In California, for instance, the state bar exam in October will use AI-assisted proctoring software from ExamSoft.
+
+Olsen first noticed a shift in January, with a sudden increase in the number of tests his company proctored in Australia. By February or early March, there “was just an explosion” of business, he said.
+
+“When you compare April 2019 to April 2020, we experienced 900% growth,” he said.
+
+Proctorio, like a number of other test-proctoring services, can record test takers through their computer’s webcam and microphone, along with anything they do on the computer screen. AI is used for everything from checking your identity at the start of a test to flagging instances captured on video during the test where it appears someone else has entered the room or that you’re talking to another person. The company doesn’t use facial recognition software, Olsen said, but it does use facial detection (this distinction refers to the ability to determine that a face is present, rather than the identification of the face). It can also use gaze detection to determine where the test taker is looking.
+
+After a student takes a test, Proctorio sends their teacher a report highlighting different behaviors that its software finds potentially suspicious, sorted in order of suspicion, Olsen said. Instructors can review the test video at marked points and decide for themselves whether a student is trying to cheat.
+
+“It’s not like it’s a magic cheat algorithm, right? We’re just saying, ‘Look, tell us which behaviors you want to identify,’” he said. “And we’ll show you who did that the most, and when they did it, and then you can review the footage and make your own decision.”
+
+Public objections
+
+This AI-driven analysis doesn’t sit well with Raza, who was first told to use Proctorio for a biochemistry exam this spring after University of Washington classes rapidly shifted online. She was concerned about being monitored generally, but also said that, as a hijab-wearing Muslim, she prefers to be careful about what happens to photos and videos taken of her.
+
+To voice her objections, she wrote an opinion piece for her school’s newspaper urging UW to stop using Proctorio for tests. And after students in her class had issues trying out the service in advance of the exam — including one who is Indian who said that it couldn’t spot her face in broad daylight until she turned toward a window — Raza’s professor decided not to use it, she said.
+
+“The thing is, I’m not anti-software; I’m not anti-technology,” Raza said. “What I want and support is transparency in everything.”
+
+Cheating is an issue in higher education, according to Wendy Fischman, a project director at the Harvard Graduate School of Education. In a multi-year study she conducted with Harvard professor Howard Gardner that included data collected from 1,000 students at 10 schools, academic dishonesty ranked “least important” among issues such as mental health and alcohol and drugs, yet students also mentioned cheating as a pervasive problem.
+
+Services like Proctorio and Honorlock will make it a bit less likely that students will cheat, and may catch some students in the act, she said. But in order to prevent students from cheating, she believes school culture needs to change so students don’t want to cheat in the first place.
+
+“I’m not sure I have a problem with that,” she said of the surveillance aspects of these services. “I just think it’s not going to solve the problem.”
+
+Suspicion levels
+
+While putting the onus on course instructors rather than having AI make explicit decisions may make sense, it doesn’t always lead to catching cheaters.
+
+Jared Nielsen, an assistant professor of psychology and neuroscience at Brigham Young University in Provo, Utah, initially used Proctorio to proctor exams for an upper-level psychology course early this year that was held partly in person and partly online before the pandemic took hold in the US.
+
+He explained that after each test the software provides instructors with a suspicion level of 0 to 100% for each student: On one exam, out of 49 students in the class, two-thirds were rated above 90%. The student who appeared least suspicious to the software received a 53%, he said.
+
+After his teaching assistants reviewed those results, he emailed nine students who had been flagged for suspicious behavior such as staring off screen for a short period of time. Each student responded lengthily and, in his estimation, sincerely, that they had no idea they were doing anything wrong. Some offered to redo the exam in his office. He apologized.
+
+“They just wanted to look off somewhere so they could engage their mental faculties and think through, ‘What is the correct answer for this problem?’” he said.
+
+BYU’s fall classes start Monday, and the ones Nielsen is teaching will be remote. He isn’t planning to use Proctorio again.
+
+“At the end of the day, I’m just putting my trust in the students,” he said.

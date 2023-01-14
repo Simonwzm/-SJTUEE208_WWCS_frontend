@@ -1,0 +1,53 @@
+New York (CNN Business) Jeff Bezos can have anything. He could circle the globe in a private jet or sail it forever in a fleet of megayachts. He could afford to buy a the whole NFL; he could buy an archipelago for his family and friends; he could buy over 65,000 Bugatti Chirons (base price $2.9 million), even though only 500 are being built. As the world's richest person, the possibilities are endless. But Bezos appears ready to risk it all for an 11-minute ride to space .
+
+Just how risky is his decision?
+
+The answer isn't what you might expect. Space travel is, historically, fraught with danger. Though the risks are not necessarily astronomical for Bezos' jaunt to the cosmos, as his space company Blue Origin has spent the better part of the last decade running the suborbital New Shepard rocket he'll be riding on through a series of successful test flights. (Also, being in space is Bezos' lifelong dream.)
+
+Still, what Bezos, his brother Mark Bezos, and the winner of an online auction , will be doing -- going on the very first crewed flight of New Shepard, a fully autonomous suborbital rocket and spacecraft system designed to take ticket holders on brief joy rides to space -- is not entirely without risk.
+
+Here's what Bezos' flight will look like and the extent to which people are taking their lives in their hands when they go to outer space these days.
+
+What the flight looks like
+
+When most people think about spaceflight, they think about an astronaut circling the Earth, floating in space, for at least a few days.
+
+That is not what the Bezos brothers and their fellow passengers will be doing .
+
+They'll be going up and coming right back down, and they'll be doing it in less time -- about 11 minutes -- than it takes most people to get to work.
+
+Suborbital flights differ greatly from orbital flights of the type most of us think of when we think of spaceflight. Blue Origin's New Shepard flights will be brief, up-and-down trips, though they will go more than 62 miles above Earth, which is widely considered to be the edge of outer space.
+
+Orbital rockets need to drum up enough power to hit at least 17,000 miles per hour, or what's known as orbital velocity , essentially giving a spacecraft enough energy to continue whipping around the Earth rather than being dragged immediately back down by gravity.
+
+Suborbital flights require far less power and speed. That means less time the rocket is required to burn, lower temperatures scorching the outside of the spacecraft, less force and compression ripping at the spacecraft, and generally fewer opportunities for something to go very wrong.
+
+New Shepard's suborbital fights hit about about three times the speed of sound — roughly 2,300 miles per hour — and fly directly upward until the rocket expends most of its fuel. The crew capsule will then separate from the rocket at the top of the trajectory and briefly continue upward before the capsule almost hovers at the top of its flight path, giving the passengers a few minutes of weightlessness. It works sort of like an extended version of the weightlessness you experience when you reach the peak of a roller coaster hill, just before gravity brings your cart — or, in Bezos' case, your space capsule -- screaming back down toward the ground.
+
+A graphic that shows the flight profile of Blue Origin's New Shepard.
+
+The New Shepard capsule then deploys a large plume of parachutes to slow its descent to less than 20 miles per hour before it hits the ground.
+
+The rocket, flying separately, re-ignites its engines and uses its on-board computers to execute a pinpoint, upright landing. The booster landing looks similar to what SpaceX does with its Falcon 9 rockets, though those rockets are far more powerful than New Shepard and — yes — more prone to exploding on impact
+
+How big are the risks?
+
+Blue Origin's New Shepard capsule, which is fully autonomous and does not require a pilot, has never had an explosive mishap in 15 test flights. And the nature of Bezos' flight means it comes with some inherently lower risks than more ambitious space travel attempts. But that doesn't mean the risk is zero, either.
+
+Because suborbital flights don't require as much speed or the intense process of trying to re-enter the Earth's atmosphere at incredible speeds, they're considered much less risky than orbital flights. With an orbital re-entry, a spacecraft's external temperatures can reach up to 3,500 degrees Fahrenheit , and astronauts can experience 4.5 Gs of force that is also placed upon the spacecraft, all while the ever-thickening atmosphere whips around the capsule.
+
+High speeds and high altitudes come with inherent risks, and even small errors can have big consequences. Earth's atmosphere is generally not considered survivable for significant amounts of time above altitudes of 50,000 feet without a spacesuit, and Bezos will be traveling up to 350,000 feet. But the capsule he travels in will be pressurized, so he doesn't need a special suit to keep him safe, and he'll have access to an oxygen mask if the cabin loses pressure. The spacecraft is also equipped with an abort system designed to jettison the New Shepard capsule and passengers away from the rocket in case of emergency. There's also back-up safety features to help the capsule land gently even if a couple of its parachutes fail to deploy.
+
+Jeff Bezos testing communications systems before the first flight of the New Shepard space vehicle in 2015.
+
+But even still, there is no way to absolutely guarantee safety should New Shepard malfunction.
+
+Even though suborbital flights are less risky than orbital missions, they can still be deadly.
+
+One of Virgin Galactic's suborbital space planes, for example, broke apart in 2014 when one of the vehicle's copilots prematurely deployed the feathering system designed to keep the craft stable as it made its descent. The added drag on the plane ripped it to pieces, killing one of the pilots.
+
+(Blue Origin competitor Virgin Galactic has since had three successful test flights of a revamped version of its SpaceShipTwo space plane.)
+
+Blue Origin has not encountered similar tragic accidents during its testing phase, though — as an old industry adage goes — space is hard.
+
+But, Bezos has indicated, the risk is worth it.

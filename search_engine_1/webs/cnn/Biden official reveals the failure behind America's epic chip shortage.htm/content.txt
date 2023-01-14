@@ -1,0 +1,71 @@
+New York (CNN Business) The shortage of computer chips is raising the price of new and used cars , delaying shipments of electronics and holding back the economic recovery from the Covid-19 pandemic.
+
+"It's a huge problem," Commerce Secretary Gina Raimondo told CNN ahead of leading a White House meeting with manufacturers and users of computer chips. "Everything in your life that has an on-off switch requires semiconductors. Your phone, your car, all of the electronics around you."
+
+The chip shortage, along with other supply chain headaches, will likely cost the global auto industry alone a staggering $210 billion in lost sales this year , according to consulting firm AlixPartners. That's nearly twice as expensive as the firm forecasted in May when many auto executives hoped the worst of the chip shortage would be over by mid-year.
+
+Honestly I think we're going to be struggling with it well into next year until we can really smooth out some of these bottlenecks."
+
+Although the worldwide shortage of computer chips is primarily driven by Covid, extreme weather and other factors, this lack of a critical component also exposes a glaring vulnerability in America's intricate supply chain that festered for many years.
+
+"The reason we're really in this mess is because for a long time, we haven't invested," said Raimondo, a former venture capitalist and governor of Rhode Island. "We took our eye off the ball. We used to lead the world in semiconductor manufacturing and now we don't. We just disinvested."
+
+Indeed, the US share of worldwide semiconductor manufacturing dropped to just 12% last year, according to the Semiconductor Industry Association. That's down from 37% in 1990. The trade group blamed "substantial" subsidies offered by foreign governments that place the United States at a "competitive disadvantage."
+
+The Biden administration has pushed Congress to enact a $52 billion bill that would incentivize increased semiconductor production and research in the United States. That bill, called the CHIPS for America Act, passed the US Senate in June but hasn't been voted on in the House.
+
+"It's pretty simple. We need to make more chips in America," Raimondo said.
+
+Chip shortage means 'higher prices and fewer options'
+
+Yet passage of that legislation would have little immediate effect on the ongoing chip shortage, which is contributing to elevated inflation in America and sticker shock for consumers.
+
+Raimondo acknowledged the semiconductor problems will pose a challenge this holiday shopping season, when demand soars for smartphones, tablets, video game consoles, personal speakers and other gadgets.
+
+"Hopefully it won't be horribly felt," she said, adding that electronics companies have been mostly able to keep up with demand. "But it will be more of what we're seeing: Essentially higher prices and fewer options."
+
+'We've never seen this'
+
+The auto industry is feeling the brunt of the pain from the chip shortage.
+
+General Motors GM In early September,shut down production at most of its plants in North America for a week or two due to the chip shortage . A spike in Covid cases, most notably in Southeast Asia where semiconductor factories are located, has worsened the supply problems.
+
+Hit by production outages, car dealerships have few vehicles in inventory and consumers are paying more for cars they can find.
+
+Take for instance one Ford dealership in Mahwah, New Jersey, that normally has 300 new cars on its lot. Today it has only about a dozen because of the production outages.
+
+"We've never seen this. It's definitely a first for all of us," Aaron Ringus, sales manager at Mahwah Ford, told CNN earlier this month.
+
+The lack of new cars has also contributed to a spike in used car prices , along with the fact that rental car companies are holding onto their fleets rather than selling them.
+
+Raimondo: Chip shortages will last until at least late 2022
+
+Federal Reserve Chairman Jerome Powell cited the chip shortage as one of the many challenges facing the US economy as it reopens from the pandemic.
+
+"In some industries, near-term supply constraints are restraining activity," Powell said during Wednesday's press conference. "These constraints are particularly acute in the motor vehicle industry, where the worldwide shortage of semiconductors has sharply curtailed production."
+
+Unfortunately, semiconductor supply issues aren't likely to go away anytime soon.
+
+"Honestly I think we're going to be struggling with it well into next year until we can really smooth out some of these bottlenecks," Raimondo said. "It's not going to be this bad, but I don't think it will be back to normal until well into 2022."
+
+Intel INTC CEO Pat Gelsinger has warned the shortage could last even longer, potentially stretching into 2023.
+
+Raimondo conceded that timeline is "not out of the question," adding that officials are "going to work hard to do better than that."
+
+'We're asking nicely'
+
+Apple AAPL Microsoft MSFT In an effort to address the supply problems, the Commerce Department and White House convened chip makers and buyers of chips likeand GM on Thursday.
+
+In a statement , the Semiconductor Industry Association praised the Biden administration for taking a "series of decisive steps at strengthening US chip production and innovation," including talking with industry leaders and championing the CHIPS for America Act. "We appreciate their ongoing efforts."
+
+Biden officials are also launching a rapid response hotline that will allow companies to immediately alert the government of disruptions caused by Covid outbreaks, extreme weather or wildfires.
+
+During the virtual White House summit, Raimondo also asked the industry to give the federal government more information about their intricate supply chains. The goal of the voluntary survey is to make sure computer chips get to where they are needed and have greater visibility into potential bottlenecks. White House officials say the data can also attract further private investment to build new factories by providing insights into demand.
+
+"We need more information about what's going on, where are the chips going, where are the bottlenecks, so we can predict problems before they happen," Raimondo said.
+
+During the summit, the Commerce Department said Raimondo warned industry executives she might invoke the Cold War-era Defense Production Act to compel them to share information if they don't do so voluntarily.
+
+"Now at this point, it's voluntary. We're asking nicely and hopefully they comply," Raimondo said. "If they don't, we'll have to take a tougher stance."
+
+- CNN Business' Chris Isidore contributed to this report.

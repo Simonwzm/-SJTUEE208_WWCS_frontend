@@ -1,0 +1,31 @@
+New York CNN Business —
+
+Corning Gorilla Glass is a brand name consumers may or may not be familiar with, but they’ve almost certainly come in contact with the company’s products.
+
+The company has created the glass for a range of well-known consumer products, from the first Pyrex baking dishes to the first-ever glass screen on an iPhone (and 8 billion other mobile devices around the world).
+
+Now, Corning (GLW) is rolling out its newest iteration of Gorilla Glass — Gorilla Glass Victus, named after the Latin word for “living” — which it says will make phone screens dramatically more resistant to scratches and breakage. The company says phone screens made with the glass should be able to withstand drops from as high as six feet without cracking.
+
+The innovation is crucial at a time when consumers are hanging onto their phones longer, and as equipment manufacturers increasingly seek to design thinner, more flexible mobile devices. The announcement provides insight into the development cycle for new mobile devices.
+
+“(Phone makers) need better glass to make more compelling, cooler designs,” John Bayne, senior vice president and general manager for mobile consumer electronics for Corning, told CNN Business. But those designs “expose the phones to more damage, so we have to make better glass.”
+
+Corning conducts multiple scratch tests to ensure its glass won't get marks that make it hard to use or read a phone screen. Corning Incorporated
+
+Research Corning conducted shows durability is the No. 2 priority for consumers when they’re shopping for a new phone, more important than battery life, camera quality or screen size.
+
+Typically, new iterations of phone screen glass focus on just one piece of the puzzle: making phone screens either more likely to survive drops or more scratch resistant. In recent years, Corning has focused heavily on improving the ability of its glass to withstand drops. Those improvements helped phone screens last longer, but they also meant phones were more likely to get annoying and unsightly scratches at some point during their lifespan.
+
+“Dropped phones can result in broken phones, but as we developed better glasses, phones survived more drops but also showed more visible scratches, which can impact the usability of devices,” Bayne said in a release.
+
+What it takes to make stronger glass
+
+With this latest edition of new glass, Corning decided to tackle both issues at once.
+
+The process to develop a new glass takes about two years and tons of testing. Bayne said the company starts with around 1,000 potential glass compositions, which it tests using a computer simulation before selecting a handful to test further.
+
+Among its testing tools are a machine that scrapes a specially cut diamond across the glass to determine the force needed to scratch it. A “slapper” tool simulates the amount of force created by dropping a phone from various heights and slams the glass into a block coated with sandpaper, which is similar to the surface of a rough parking lot.
+
+“Nobody has broken more phones in the lab than Corning,” Bayne said. “It’s almost equivalent to crash testing for vehicles. We’re simulating the most stringent conditions we can to make the product better in scenarios that you might see in the real world.”
+
+Corning’s new glass will start rolling out on devices from Samsung and other equipment manufacturers later this year.

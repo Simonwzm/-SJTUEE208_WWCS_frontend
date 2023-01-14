@@ -1,0 +1,11 @@
+Hong Kong (CNN Business) Before the pandemic, Ka Tim Chu, teacher and vice principal of Hong Kong's True Light College, looked at his students' faces to gauge how they were responding to classwork. Now, with most of his lessons online, technology is helping Chu to read the room. An AI-powered learning platform monitors his students' emotions as they study at home.
+
+The software, 4 Little Trees, was created by Hong Kong-based startup Find Solution AI . While the use of emotion recognition AI in schools and other settings has caused concern , founder Viola Lam says it can make the virtual classroom as good as — or better than — the real thing.
+
+Students work on tests and homework on the platform as part of the school curriculum. While they study, the AI measures muscle points on their faces via the camera on their computer or tablet, and identifies emotions including happiness, sadness, anger, surprise and fear.
+
+Facial expression recognition AI can identify emotions with human-level accuracy.
+
+The system also monitors how long students take to answer questions; records their marks and performance history; generates reports on their strengths, weaknesses and motivation levels; and forecasts their grades. The program can adapt to each student, targeting knowledge gaps and offering game-style tests designed to make learning fun. Students perform 10% better in exams if they have learned using 4 Little Trees, says Lam.
+
+Read More

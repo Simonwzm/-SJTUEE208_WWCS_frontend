@@ -1,0 +1,39 @@
+Hong Kong CNN Business —
+
+Huawei recently became the world’s biggest smartphone maker, beating Samsung and Apple (AAPL) at their own game by offering consumers state of the art phones with amazing cameras at competitive prices.
+
+All that is now at risk after the latest US sanctions on the Chinese tech champion. Consumers around the world were already abandoning the brand because the phones no longer come with some popular US apps. Now, a blow to its hardware supply chain is putting its advantage in the Chinese market on shaky ground.
+
+The company will lose its supply of super fast, advanced Kirin chipsets starting from next month, because they are made by contract manufacturers that use US technology, Huawei’s head of consumer business Richard Yu said at a conference last week.
+
+“This is a very big loss for us,” Yu said on Friday, according to the Associated Press and multiple local media reports. Huawei declined to comment on the reports.
+
+Huawei’s chipmaking subsidiary HiSilicon designs the Kirin chips, and then contracts Taiwan Semiconductor Manufacturing Company (TSMC) to make them. But earlier this year, the Trump administration banned any semiconductor manufacturer using US technology from supplying Huawei without first obtaining a license to do so. That restriction applies to TSMC. The company did not immediately respond to a request for comment about whether it had applied for a license to sell products to Huawei. In an earnings call last month, TSMC chairman Mark Liu said that the company is complying with the US regulations, and plans to stop shipping chips to Huawei after September 14.
+
+Losing a selling point
+
+Huawei should have enough Kirin chipsets to get through this year, said Nicole Peng, an analyst with market research firm Canalys. After that, the company will likely turn to MediaTek, another Taiwanese chipmaker. Will Wong, an analyst with IDC, said Huawei would still be able to buy that company’s “off-the-shelf” chipsets.
+
+But using MediaTek’s standard chipsets will erode Huawei’s competitive advantages when it comes to hardware, the analysts said. Losing Kirin chipsets “will definitely affect the unique selling point” of Huawei’s smartphones, Peng said.
+
+Kirin chips are specifically designed to power Huawei’s more expensive devices. They are faster and more advanced than MediaTek’s chipsets, and have better artificial intelligence, imaging and 5G capabilities, according to Peng. That’s why Huawei uses them in flagship phones such as its Mate and P models.
+
+Being “unable to produce Kirin chips will create a large uncertainty to [Huawei], especially for their high-end phones,” Wong said. “Nevertheless, Huawei still has a strong national brand image in China, which is a great driver” for the company.
+
+Home advantage
+
+Huawei outsold every other brand in China last quarter, shipping roughly 40 million smartphones in China, up more than 8% compared to the same period last year, according to Canalys and IDC.
+
+Those brisk sales in mainland China, along with rival Samsung’s slump, also helped Huawei overtake the South Korean company to become the world’s top smartphone seller.
+
+Shops in China reopened earlier than other countries still grappling with the Covid-19 pandemic, helping to boost Huawei’s sales. Analysts say, though, that Huawei is likely to fall behind again as stores reopen and sales resume in other global markets.
+
+Huawei’s international smartphone business was already struggling after the United States imposed a separate restriction on the company last year that barred American firms such as Google (GOOGL) from supplying it with tech and software. As a result, Huawei’s latest smartphones don’t have access to popular apps such as Gmail, YouTube and Google (GOOGL) maps, making them a lot less attractive to buyers outside of China.
+
+Before the US restrictions, Huawei’s sales outside of China made up nearly half of its smartphone shipments. Now, it sells over 70% of its smartphones in China, according to Canalys.
+
+And even at home, Huawei faces fierce competition from domestic rivals Vivo, Oppo and Xiaomi, who all have established relationships with chipset makers such as MediaTek and Qualcomm (QCOM), said Peng.
+
+With the company forced to rely on less powerful chips that many of its domestic competitors also use, it will likely lose its home advantage.
+
+“These vendors will continue aggressively expanding, while Huawei is weakening next year in China,” Peng said.

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/180328144221-baby-sleeping.jpg?q=x_224,y_552,h_2095,w_3724,c_crop/w_800

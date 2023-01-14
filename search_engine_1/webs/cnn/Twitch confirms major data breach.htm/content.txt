@@ -1,0 +1,11 @@
+(CNN Business) Twitch has experienced a major data breach, the game streaming service confirmed on Wednesday.
+
+"We can confirm a breach has taken place," Twitch, which is owned by Amazon, said on Twitter . "Our teams are working with urgency to understand the extent of this."
+
+The company's statement came after an anonymous individual reportedly released more than 120 gigabytes of Twitch data on the online forum 4chan, including what they claim was the platform's source code and data on how much top streamers on the service get paid. The breach was first reported by the website Video Games Chronicle
+
+CNN could not independently verify details of the breach, but some streamers indicated on Twitter Wednesday that the earnings revealed as part of it were accurate.
+
+"What happened to Twitch can happen to almost any organization, though their particular service niche likely made them a higher priority target for some groups," said Bob Rudis, chief data scientist at the cybersecurity firm Rapid7.
+
+Read More

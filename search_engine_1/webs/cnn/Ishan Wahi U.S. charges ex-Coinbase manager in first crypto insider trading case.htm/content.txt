@@ -1,0 +1,23 @@
+Reuters —
+
+A former product manager at Coinbase Global and two others have been charged with wire fraud in the first insider trading case involving cryptocurrency, U.S. prosecutors in Manhattan said on Thursday.
+
+Ishan Wahi, the product manager at the cryptocurrency exchange, and his brother Nikhil Wahi were arrested on Thursday in Seattle, and expected to appear in federal court there later in the day.
+
+They and a third defendant, their friend Sameer Ramani, also face related U.S. Securities and Exchange Commission civil charges. Ramani is at large.
+
+Prosecutors said Ishan Wahi, 32, shared confidential information about forthcoming announcements of new cryptocurrency assets that Coinbase would allow users to trade through its exchange.
+
+Nikhil Wahi, 26, and Ramani, 33, allegedly used ethereum blockchain wallets to acquire the assets, traded at least 14 times before Coinbase’s announcements from June 2021 and April 2022, and generated at least $1.5 million of illicit gains, prosecutors said.
+
+“Fraud is fraud is fraud, whether it occurs on the blockchain or on Wall Street,” Damian Williams, the U.S. Attorney in Manhattan, said in a statement.
+
+Prosecutors also said Ishan Wahi bought one-way plane ticket to India after a Coinbase security director summoned him to the company’s Seattle office for a meeting. Law enforcement barred him from boarding the May 16 flight, prosecutors said.
+
+Andrew St. Laurent, a lawyer for Ishan Wahi, declined to comment. A lawyer for Nikhil Wahi did not immediately respond to requests for comment. A lawyer for Ramani could not immediately be identified.
+
+Philip Martin, Coinbase’s chief security officer, said the company had shared findings from an internal investigation into the trading with prosecutors.
+
+“We are committed to doing our part to ensure that all market participants have access to the same information,” Martin wrote on Twitter.
+
+Last month, federal prosecutors in Manhattan charged a former product manager at OpenSea, the largest online marketplace for non-fungible tokens, with insider trading in what the prosecutors described as the first such case involving digital assets.

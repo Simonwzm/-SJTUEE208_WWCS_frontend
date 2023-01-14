@@ -1,0 +1,33 @@
+London CNN Business —
+
+Apple has temporarily stopped a practice that allowed contractors to listen to user commands given to its voice assistant Siri.
+
+The tech company also said it’s conducting a review of the program after news reports raised concerns about the scope of recordings that contractors were listening to.
+
+While most of those recordings likely captured people trying to send a text message or sort out their calendar, the Guardian reported last week that contractors were also hearing some very personal conversations.
+
+“We are committed to delivering a great Siri experience while protecting user privacy. While we conduct a thorough review, we are suspending Siri grading globally,” said a spokesperson for Apple.
+
+The spokesperson said that Apple was also working on a software upgrade that would give users the ability to opt out of the program.
+
+Apple employs contractors to analyze some user interactions with Siri in order to improve the service. Workers classify the quality of Siri’s response and grade how well it dealt with the request.
+
+Less than 1% of daily interactions are selected for the review process, which was carried out in secure facilities. Workers do not have access to any personal information about the user, and the data is encrypted.
+
+The company says in a security document that a small subset of anonymous recordings may be stored for more than two years.
+
+The practice received increased attention after the Guardian reported, citing an unnamed contractor, that workers were able to hear users who had accidentally triggered Siri conducting drug deals and having sex.
+
+The report was shared widely on social media and prompted some users to express concerns about their commands being heard by strangers. A spokesperson for Apple declined to comment on Friday.
+
+Tech users have long questioned whether mobile devices and smart speakers eavesdrop on their private conversations.
+
+In a letter to US lawmakers last year, the tech giant insisted that iPhones do not routinely listen to what users are saying. Instead, the devices listen for the “clear, unambiguous audio trigger ‘Hey Siri.’”
+
+Video Ad Feedback Apple CEO Tim Cook calls for privacy regulation 02:37 - Source: CNN
+
+Siri is activated when a user says “Hey Siri” to an Apple device, or double-taps the Home button on an iPhone.
+
+But on rare occasions when the AI device mishears a word or phrase, it can be accidentally triggered and start recording.
+
+Apple does not know if an activation was accidental unless it is reviewed, meaning that some recordings heard by contractors were believed by the user to be private.

@@ -1,0 +1,47 @@
+Austin, Texas (CNN Business) SpaceX created a swarm of about a thousand satellites that is circulating about 340 miles overhead, and building the constellation has put SpaceX in a "deep chasm" of expenses, according to CEO Elon Musk. The constellation has also raised concerns about potential in-space collisions and the impact on astronomers' ability to study the night sky. But for some early customers of the $99-per-month Starlink service, the satellites are already improving how rural communities access the internet.
+
+With the latest SpaceX launch last week, which carried 60 more internet-beaming satellites into space, the company's Starlink internet constellation grew to include about 1,000 active satellites — by far the largest array in orbit. SpaceX now owns about one third of all the active satellites in space.
+
+More Starlink satellites were put in orbit last year than had been launched by all the rocket providers in the world in 2019
+
+SpaceX has promised its satellite clusters will bring cheap, high-speed internet to the masses by beaming data to every corner of the globe. The company now says it has roughly 10,000 customers, which proves that Starlink is no longer "theoretical and experimental," the company said in a February 4 filing with the Federal Communications Commission.
+
+For comparison, Verizon, one of the most popular fiber-optic internet providers, has more than 6 million customers.
+
+Broadcom AVGO At least one participant in Starlink's beta testing program, Steve Opfer, a manager at chipmakerwho works out of his in rural Wisconsin home, said he "could not be happier" with his service — echoing what dozens of beta testers have said in online forums.
+
+Whether or not Starlink will become a sustainable business, however, remains to be seen. Musk noted in a tweet Tuesday morning that the company "needs to pass through a deep chasm of negative cash flow over the next year or so to make Starlink financially viable."
+
+He also refloated the idea of one day taking SpaceX's Starlink business public, saying that could happen "once we can predict cash flow reasonably well." Musk had said last year that the company had " zero thoughts " about a Starlink IPO.
+
+endured The Starlink network is the largest and most meaningful attempt in history to build a low-latency, space-based internet service for consumers, and Musk noted Tuesday that several previous attempts to create such a network have been abandoned orendured bankruptcy (latency refers to how much lag time or delay is built into a internet service). Systems that require data to travel longer distances, such as more traditional internet satellites that orbit thousands of miles from Earth, create longer lag times. Low-Earth orbit constellations such as Starlink aim to drastically reduce latency by orbiting massive networks of satellites just a few hundred miles over ground.
+
+The idea has its critics. Fiber-optic-based internet providers, for example, are pushing back against the federal government's decision to award SpaceX $885.5 million dollars in subsidies. Professional astronomers are also concerned about light pollution. And the sheer number of satellites that make up the Starlink constellation — and other networks planned by companies such as OneWeb and Amazon — has space experts worried about traffic jams and the risk of collisions that could create plumes of debris.
+
+Here's where those controversies stand, and what SpaceX has done to respond to its critics.
+
+Rural broadband
+
+SpaceX and the FCC are facing blowback after the company was awarded nearly $900 million in subsidies through the FCC's Rural Digital Opportunity Fund, despite objections from traditional telecom companies and even some regulators.
+
+Some beta testers have reported top-of-the-line speeds, but as of late 2020, they were also reportedly experiencing intermittent outages because SpaceX hadn't launched enough satellites to guarantee continuous coverage. It also remains to be seen how affordable SpaceX's service will be. CNBC reported in October, citing emails shared with those who expressed interest in becoming Starlink customers, that the service could cost about $99 a month, plus a one-time fee of about $500 for the router and antenna. SpaceX has not yet publicly released Starlink's price points or terms of service.
+
+Musk said in a tweet Tuesday that if Starlink doesn't fail, "the cost to end users will improve every year." Yet many still argue that the network will, ultimately, be too expensive to provide the type of paradigm-shifting internet coverage that SpaceX has advertised.
+
+Still, beta testers such as Opfer argue that Starlink is a vast improvement over what many residents of rural areas are used to. Before Starlink, he and his wife relied on HughesNet or ViaSat, a more traditional satellite-based internet provider that has large satellties orbiting thousands of miles from Earth, whose services are known to be bogged down by frustrating lag times , or high latency.
+
+Opfer's Starlink connection still has some spotty service, which he attributes to the fact that SpaceX is still building up the constellation. The company has said that the total number of satellites could be as high as 40,000. But "when Starlink works bad, it's not worse than the best of ViaSat," Opfer told CNN Business.
+
+ViaSat's head of residential broadband Evan Dixon told CNN Business that ViaSat has invested "tens of millions of dollars in addressing, and mitigating latency that people will experience" using ViaSat's service. In a recent earnings report the company's executive chairman, Mark Dankberg, also indicated that the company is skeptical of Starlink's efficacy. He referred to low-Earth orbit constellations like Starlink as "technologies that are unproven and may not be able to meet the obligations that are associated with them."
+
+Astronomy and orbital debris
+
+Professional astronomers have been concerned about how Starlink satellites — which are fairly large at 550 lbs- — will impact the ground-based telescopes that have long been at the heart of breakthroughs in astrophysics and cosmology. Through much of last year, astronomers were working with the company on ways to make the satellites appear dimmer in space.
+
+After initially trying a dark coating, SpaceX settled on using a retractable sun visor. Jonathan McDowell, an astronomer at the Harvard-Smithsonian Center for Astrophysics, said those have been present on every Starlink satellite launched since last summer. That has made most of them invisible to the naked eye — a win for communities that want to limit light pollution in night sky.
+
+But the satellites do still interfere with observatories that are essential to astronomers' efforts to study the cosmos. That has scientists scrambling to figure out how to scrub telescope data that is speckled with bright streaks created by the Starlink satellites. That uses up valuable resources that astronomers hoped to put toward their research rather than "trying to clean the bugs off our windshield just so we can see out of our cars," said Meredith Rawls, a research scientist with the Vera C. Rubin Observatory.
+
+McDowell and Rawls applaud SpaceX's desire to keep satellites at lower altitudes, below 1,000 km (or 310 miles). Keeping Starlink satellites in a lower orbit makes them less of a nuisance for telescopes, and it guarantees that satellites that malfunction will be dragged out of orbit in a matter of months, rather than becoming uncontrollable projectiles that can threaten other satellites for centuries.
+
+Astronomers and space traffic experts are still concerned about the lack of regulation around satellite brightness and orbital traffic. OneWeb's satellite internet constellation, for example, orbits higher than 1,000 km. And if any one of its 6,000 planned satellites malfunctions, it could become a major issue.

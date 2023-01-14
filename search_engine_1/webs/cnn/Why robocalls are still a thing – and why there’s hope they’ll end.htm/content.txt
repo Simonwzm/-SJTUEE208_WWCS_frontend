@@ -1,0 +1,51 @@
+New York CNN Business —
+
+As if there wasn’t already enough to worry about right now, Americans are still being bombarded by annoying (and sometimes illegal) robocalls.
+
+Although the number of robocalls received in the United States dipped in the early months of the pandemic, the numbers have started to tick back up, as coronavirus-related restrictions are eased and call centers around the world re-open.
+
+The resurgence comes despite increasing efforts by government and industry players to prevent and block robocalls. Carriers and third parties offer spam call detection and blocking services. President Trump in January signed into law a bill that increases fines on criminal robocall violations and cracks down on companies making the calls. Even the Supreme Court weighed in last month, upholding a federal ban on robocalls placed without the recipient’s consent.
+
+It shows just how tricky a problem robocalls are to solve. But there is hope.
+
+Last month, the Federal Communications Commission designated an initiative by industry trade group USTelecom to head up efforts to trace the origins of robocalls suspected to be unlawful. The effort, called the Industry Traceback Group, is expected to help wireless carriers and their partners get the information they need to keep the robocalls off the cell network and out of Americans’ missed call logs.
+
+“It’s a multi-front strategy; there is no single solution,” said Patrick Halley, senior vice president of policy and advocacy at USTelecom.
+
+What are robocalls and why are they so hard to prevent?
+
+Last month, there were 3.6 billion robocalls recorded by tracking service YouMail in the United States. That’s around 1,400 robocalls a day.
+
+There are a number of reasons the robocall problem is challenging.
+
+For one thing, not all robocalls are unwanted. Some robocalls are indeed spam or scam calls, many coming from outside the country — in the midst of the pandemic, for example, the FCC has warned of Covid-19 related scam calls offering bogus testing or seeking personal information.
+
+But automated calls are also used legitimately by pharmacies, utility companies and schools. So it can be challenging for carriers and network operators to know which of those calls to block.
+
+Technical advancements have also made it easier to place robocalls and make it appear the call is coming from the recipient’s area code (a tactic known as spoofing). And even though robocalls are often illegal, many of them come from outside the United States, where the callers may not know or care about US laws.
+
+“The development of the internet was fundamentally a good thing for consumers, but it also makes it much easier for someone to anonymously generate millions of illegal calls,” said Halley, who is also heading up the Industry Traceback Group. “The combination of the technological ease of making illegal calls — especially outside the United States but even within the United States — and the fact that there’s profit to be made, that’s why this keeps happening.”
+
+What ‘s being done to stop them?
+
+Efforts to end the scourge of unwanted robocalls have been ongoing for years, but they have ramped up in recent months.
+
+The FCC last year approved a rule that allows US carriers to provide robocall-blocking technologies for phone lines by default, with the option for consumers to opt out and continue receiving all calls. The technology works by using algorithms and network scanning to identify unwanted calls, similar to how email providers scan for spam messages.
+
+AT&T (T) and Verizon (VZ) now both have automatic robocall blocking options for customers. And T-Mobile (TMUS) last month announced it will flag suspicious calls and allow customers to block them automatically, along with other services to prevent unwanted calls such as the ability for customers to change their number for free if they receive too many spam calls. Such carrier solutions have added to existing third-party spam call detection and prevention apps and tools. (CNN parent company WarnerMedia is owned by AT&T (T)).
+
+The FCC has also endorsed the industry’s adoption of technical standards, known as STIR/SHAKEN, that help verify phone calls and numbers in an effort to prevent caller ID spoofing.
+
+But phone calls are complicated. According to Halley, a single call can pass through multiple network providers and traffic management companies before it reaches the recipient’s network, meaning the recipient’s carrier can have a hard time knowing where the call originated or if it’s trustworthy.
+
+That’s where the Industry Traceback Group comes in.
+
+The group will trace back robocalls, starting with where the recipient’s carrier received it from and working backwards through all of the network providers that passed it along until it finds the network provider where the call originated. For illegal calls, the Industry Traceback Group can work with governments to take action against illegal robocallers and any network providers that knowingly enable them.
+
+The group can also inform other network providers down the chain not to accept traffic from the originating provider. In other words, the Industry Traceback Group works to thwart the supply chain for illegal robocalls.
+
+“We view our effort as one to identify the source of illegal calls, and encourage those whose networks are being used to not allow illegal traffic over it,” Halley said. “The good guys will take that information and do the right thing.”
+
+Though USTelecom has been working on the issue for years, Halley said the FCC’s official recognition of the group has helped legitimize its work and make it more effective.
+
+“Two years ago when we were doing this, a lot of the reaction was, ‘Who are you and why are you bothering me?’” Halley said. “Now it’s: ‘I know who you are, I’m going to respond, I want to help, and I’m going to take action.’ It’s been a really positive evolution and the government’s focus has been really helpful.”

@@ -1,0 +1,39 @@
+CNN Business —
+
+During a keynote presentation at Microsoft’s Build developer conference on Tuesday, a small human wearing bright green pajamas appeared in the doorway behind Scott Hanselman. The child slinked behind the program manager’s desk, grabbed whatever he came in for and then quietly tiptoed his way out. Hanselman powered through his presentation.
+
+It was a familiar, relatable moment for those at home with children during the pandemic who have snuck their way into an important tele-meeting or TV segment. (Microsoft (MSFT), coincidentally or not, is currently airing a TV commercial on this very concept).
+
+But this was a big moment for the company. More than 230,000 attendees registered for the online-only event, up from the 6,000 who attended in person last year, Microsoft told CNN Business. It was also the tech giant’s time to prove a multi-day conference filled with product updates and breakout sessions for developers was even possible. After all, Facebook and Google canceled their comparable conferences this year due to COVID-19 concerns, and Apple’s Worldwide Developer Conference is still a few weeks away.
+
+In any other year, a child’s interruption might have been embarrassing for a carefully staged tech event. But it was a reminder that Microsoft was made for this moment: a company built to help us work better is now trying to show it’s attuned to the new challenges of how we’re working today.
+
+Despite clear hiccups during its 48-hour livestream (yes, 48 hours of continuous Microsoft content to accommodate time zones, including panels, analysis and demos), Build may have just unveiled a vision for the future – not by introducing a new product, but by showing how splashy tech keynotes and conferences can still take place at a time when we have no idea when there will be large in-person gatherings again. Facebook, for example, has said they won’t host physical events until at least June of next year.
+
+But there’s more at stake for these companies than just giving up stage time around announcements. These events are a way for their developer communities to gather and learn the next set of innovations for the following year, in person or not. In his short keynote, delivered while standing in front of a bookshelf filled with picture frames, a plant and knick knacks, CEO Satya Nadella saId, “While it’s hard not to be together in person, I’m comforted by this community being gathered virtually.”
+
+As expected, this year’s Build conference, which runs through Thursday, is more focused on updates for developers than consumer products. The news included a PowerToys tool to improve basic search, Edge browser updates like Pinterest (PINS) integration and 3D view, and making Microsoft Office sync in real-time to all apps and devices.
+
+While Microsoft may prefer making in-person connections, going completely virtual has opened up the event to those who may not have been able to travel to Seattle, where Build is normally held. In the past, attendees were about 80% US residents. This year, 65% of attendees are from the rest of the world, according to Microsoft. The company said the average duration of engaged viewers was 173 minutes.
+
+Presentations were packed with the cheesy, staged jokes you’d typically catch at a live tech event but with nods to social distancing and life in self-isolation. Although developers lacked the chance to network with other attendees, the event did offer an opportunity for reporters to ask questions and interact through its chat platform Teams. Meanwhile, developers once again used the hashtag #MSBuild on Twitter to share thoughts and engage with others.
+
+Microsoft CEO Satya Nadella during the first virtual presentation for Build 2020 Microsoft
+
+There are tradeoffs. An online-only event prevents Microsoft from hosting a captive audience, one that can’t sneak away to the kitchen for a bit to make a sandwich. That may make it harder to get their feedback and guidance on new products after each session. But the general selling points are hard to dismiss.
+
+Rather than physically traveling from one room to another in time to catch crowded breakout sessions, and consequently missing good chunks of them, the livestream format saves attendees time by cutting straight to the presentations and allowing more time for demos, noted Ramon Llamas of IDC Research, who has attended multiple Build events in the past. He noted the datasets shared on screen were sometimes hard to read due to the small type size, but the same challenge may present itself when you’re in the audience in a large auditorium.
+
+Perhaps the most obvious incentive to attend a fully-produced tech event virtually rather than attending in person is the cost savings: Instead of paying $2,395 for a pass this year, Microsoft made the conference available to anyone who wanted to watch for free. (Not to mention the savings associated with the cost of a plane ticket and hotel room.)
+
+The massive increase in attendees from last year is a big victory for the company, giving more developers the ability to learn how they can build products for Microsoft from the sessions that wouldn’t have otherwise made the livestream.
+
+“I think we’ve moved about two years of evolution in this medium in about eight weeks,” Bob Bejan, corporate VP of global events for Microsoft, said in a behind the scenes video posted on YouTube. “We would have never in the event space accelerated [at this rate] … if things would have just been going on normally.”
+
+Bejan said about 95% of the presenters are remotely delivering keynotes from their home offices, bedrooms and kitchens.
+
+“What’s interesting about the time we’re in right now is, of course, we’re being forced to focus on this new medium,” said Bejan, noting he worked closely with the engineering teams to move the event fully online. “We were taking some very significant technology risks [in the planning process]. It’s risky because we’re putting it into production immediately with large numbers of attendees.”
+
+But Microsoft pulled off a compelling, complex tech marathon of an event. With Apple’s WWDC around the corner, CEO Tim Cook and friends have a high bar to meet. The iPhone maker is also waiving its typical $1,599 fee for developers to attend.
+
+While there’s a lot of uncertainty around when we’ll realistically reconnect at a large-scale event in the future, this week proved it’s possible for attendees to still get a lot out of a virtual conference, without all of the time, travel logistics and costs to make it happen.

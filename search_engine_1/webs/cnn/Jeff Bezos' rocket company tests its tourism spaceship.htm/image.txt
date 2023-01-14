@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190501164123-blue-origin-shepard.jpg?q=x_16,y_202,h_884,w_1572,c_crop/w_800

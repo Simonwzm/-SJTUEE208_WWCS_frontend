@@ -1,0 +1,47 @@
+New York CNN Business —
+
+AT&T and Microsoft have announced the next phase of a partnership that’s aimed at advancing development in two of the buzziest areas of tech: 5G and cloud computing.
+
+The companies inked an agreement in July to work together on innovations in 5G and cloud. 5G is next generation network technology that’s expected to change the way people live and work. And the cloud is distributed data storage and computing power that doesn’t rely on traditional on-site data centers. AT&T (T) (CNN’s parent company) also agreed to migrate its data and workflows to the Microsoft (MSFT) Azure cloud, in what was reportedly a more than $2 billion deal for Microsoft (MSFT), according to Reuters.
+
+On Tuesday, Microsoft and AT&T’s business unit announced the pilot launch of their so-called “network edge compute” technology, an early outcome of the partnership. The advancement is expected to help both companies’ enterprise customers take advantage of the benefits of 5G, as AT&T works to roll out 5G across the US by mid-2020.
+
+“We’ve said all year, developers and businesses will be the early 5G adopters, and this puts both at the forefront of this revolution,” AT&T Business Chief Marketing Officer Mo Katibeh said in a statement Tuesday.
+
+AT&T will implement the Microsoft technology in some of the major metro areas where it’s installed 5G — AT&T says it will be available for select customers in Dallas early 2020, with Los Angeles and Atlanta slated for implementation later in the year.
+
+Microsoft and AT&T are excited about the technology’s potential, but Gartner analyst Bill Menezes says it’s not yet clear just how useful this technology will be and when it will be usable.
+
+“Right now, it’s creating a lot of noise that plays on a lot of current buzzwords in tech,” Menezes said. “What it actually produces remains to be seen.”
+
+What is network edge compute?
+
+“Network edge compute” is a mouthful. Here’s what it means:
+
+5G promises to bring super fast download speeds, the ability to connect millions of devices and the ability to process massive amounts of data in nearly real time. But if those devices are connected to the cloud, reaping the benefits of 5G could get a little tricky. Typically, when a person accesses the “cloud,” it means their computer is communicating with a data center many miles away that’s storing and processing the information that person is using. And it takes time for information to travel the long distance from computer to data center.
+
+Think of saving a document to Microsoft OneDrive or Google Drive (both cloud applications) versus directly to your office computer that’s connected to an on-site server. When saving to the cloud, all the text in the document has to travel miles from the computer to the server, and then back to notify the computer that it’s been saved, meaning it will likely take a few seconds longer than on the office computer.
+
+That’s not such a big deal when saving a single document, but when it comes to doing things such as processing large amounts of data or trying to render high-quality images for gaming, using the cloud can introduce lags in the ability to process information.
+
+For some new technologies, speed is essential. Self-driving cars, for example, need to be able to gather data about the world around them, transfer that data to the cloud to be processed and receive information from the cloud about how to react in nearly real time.
+
+That’s where network edge compute comes in. AT&T will build Microsoft Azure cloud servers into the architecture of its 5G network, so that when a device sends and receives data to and from the cloud, it’s talking to a server located in the same metro area, rather than hundreds or thousands of miles away.
+
+What the partnership could mean:
+
+Microsoft and AT&T say that having access to network edge compute is going to help business customers develop transformative new kinds of technologies. Self-driving cars are one possible example, but so are drone delivery services, cloud gaming services and automated manufacturing facilities.
+
+“If you’re a business, you can never be too fast or too nimble,” Katibeh told CNN Business. “AT&T’s agreement with Microsoft helps with both – faster network speeds combined with edge computing that allows businesses to manage more data than ever before, closer to where they need it. We have many business customers, of all sizes, asking us to help them deploy 5G and edge computing capabilities.”
+
+It will likely take a while, though, to really see any real, widespread impact of network edge compute, just as it took time for 4G-powered applications such as Uber to become ubiquitous after it was deployed. It will take time for companies to switch over to using 5G and to develop their own technologies using network edge compute.
+
+“Incumbents already have a lot of capital expenditures baked into 4G,” said R.A. Farrokhnia, professor and Chazen senior scholar at Columbia Business School. “Not everyone will spend billions of dollars to switch all of their perfectly good 4G equipment to switch over to 5G overnight.”
+
+Nonetheless, this partnership is the sort of thing AT&T has to do to ensure 5G will really generate returns. The business implications of 5G are expected to far outweigh the benefits to consumers. And the Microsoft partnership could help AT&T attract enterprise customers at a time when many carriers are grappling for 5G dominance — AT&T is investing around $20 billion annually in 5G but rival Verizon (VZ) is close behind, spending $17 billion a year.
+
+“It’s an integral part of their growth strategy over the next few years,” Farrokhnia said. “Of course there will be some consumer spending applications (of 5G) but that’s not going to move the needle for telecom companies and create new revenue streams or services.”
+
+The deal is also likely to put Microsoft Azure in pole position when it comes to servicing AT&T’s enterprise clients, giving it a leg up in the fiercely competitive cloud computing market. Microsoft has been fighting its much bigger rival, Amazon Web Services, for big business and government agency cloud customers.
+
+“You have two marquee names saying they’re going to work together on two of their major business initiatives,” Gartner’s Menezes said. “That always helps lend credibility to the idea that this isn’t just marketing hype, there’s some substance to it.”

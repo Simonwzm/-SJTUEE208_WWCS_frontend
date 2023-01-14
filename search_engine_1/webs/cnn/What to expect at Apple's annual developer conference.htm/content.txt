@@ -1,0 +1,51 @@
+(CNN) Apple is about to hold its annual developer conference this week where it's expected to show off new software coming to its most popular devices and possibly offer the biggest hint yet about a new product long rumored to be in development.
+
+At its Worldwide Developers Conference, which kicks off virtuallyon Monday and runs through Friday, Apple is expected to show off its latest operating system, iOS 16, which could reportedly include a revamped notification center and lock screen for iPhones as well as new health features and social featuresfor iMessage. Other rumors point to new TV OS features, which could tie into the smart home; an upgrade to Apple Watch OS that would boost the battery life; and a new MacBook Air.
+
+Some analysts arealso holding out hope thatcould offer an early look at a platform thought to be called RealityOS.The system could power the mixed reality headset — a wearable device that's said to be capable of both virtual and augmented reality — which Apple has been rumored to be working on for years.
+
+Daniel Ives, an analyst with Wedbush Securities, has taken to calling the rumored hardware product "Apple Glasses," in an apparent nod to Google's early and failed foray into smart glasses. In an investor note this week, Ives said he expects Apple to "hit on a number of AR/VR technologies to developers that the company plans to introduce."
+
+"Ultimately this strategy is laying the breadcrumbs to the highly anticipated AR headset Apple Glasses set to make its debut likely before holiday season or latest early 2023," he said.
+
+Cook has long been vocal about Apple's vision to dive deeper into AR, calling it "the next big thing" and "a critically important part of Apple's future." Whether this is the year Apple finally shows its cards for that future, however, is anyone's guess.
+
+Apple's event will be livestreamed on its website, YouTube and other social media platforms. It is set to start at 10:00 a.m. PT/1:00 p.m. ET. Here's a closer look at what to expect:
+
+The iPhone lock screen gets a refresh
+
+iOS 16 features aren't expected to be game changers, but a few additions could breathe new life into the user experience. Similar to last year iOS 16 features aren't expected to be game changers, but a few additions could breathe new life into the userexperience.
+
+Apple is expected to make messages more social and interactive and to rework the notification system and lock screen with a greater focus on widgets, according to Bloomberg
+
+Ramon Llamas, research director at IDC Research, said Apple could create a valuable opportunity for developers by rethinking the real estate on the lockscreen to move away from static notifications of texts and emails and toward interactive experiences like schedules, weather and news.
+
+"Think of all the things and widgets you could see just at a glance without having to open your iPhone," Llamas said. "Now tie them to your homescreen. It's a part of the iPhone experience that has been mostly the same and would benefit from a refresh."
+
+Updates to iPad and Mac software
+
+more like a laptop and less like a phone. With iPadOS, meanwhile, Apple is expected to double down on multitasking features to play up its powerful in-house M1 processor. According to Bloomberg , the update could make the iPad feelmore like a laptopand less like a phone.
+
+Apple is also expected to unveil its latest Mac OS, with the rumored name Mac Mammoth. It could offer refreshes to apps such as Mail, Notes and Safari, and similar social functionality in Messages to what's rumored to be coming to iPhones.
+
+Apple may add home automation improvements to both its HomePod speaker and Apple TV, as well as its broader HomeKit ecosystem. It's also possible Apple could announce a refresh to Apple Watch OS, with the promise of new health features, workouts and watch faces.
+
+Hardware improvements
+
+If Apple's prior developer conferences are any indication, it's unlikely the company will unveil any major new hardware products at the event this year. But it's possible Apple could shine a spotlight on its next-generation M2 chip and discuss some developer opportunities around it. For example, Apple could unveil a new MacBook Air by showing what the system would be capable of with its latest in-house processor.
+
+"Usually, new hardware comes out later in the year, so don't be disappointed if you don't see something," Llamas said. "But even if Apple does, I think the bigger news is not the hardware itself, but Apple's own silicon that powers them."
+
+A look at the future of AR/VR
+
+The big wild card at WWDC is whether Apple makes a splashy announcement around augmented reality or focuses on more incremental updates.
+
+Rather than unveiling a mixed reality headset now, Apple may outline how developers could use its existing ARKit platform and its programming language, Swift, to create content for AR and VR broadly. (Apple's tagline for the event is "Swiftly approaching." The company often hides clues in images and taglines of its events' invites.)
+
+"It's quite possible the company will tease new AR/VR features without outright revealing a new device," said Eric Abbruzzese, research director at ABI Research. But, as he notes, it would be unusual for Apple to reveal a new software system for a hardware line it has yet to unveil.
+
+"It'd be like revealing iOS before the iPhone was revealed," Abbruzzese added.
+
+While it's unclear if Apple will be laying the framework for a bigger push around AR/VR hardware in the pipeline, it's quite likely Apple executives will dedicate a good portion of its keynote presentation to software around those technologies.
+
+"Apple's been building ARKit on the mobile device side for years," Abbruzzese said. "Much of that will absolutely translate to their headsets."

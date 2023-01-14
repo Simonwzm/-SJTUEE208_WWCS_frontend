@@ -1,0 +1,13 @@
+London (CNN Business) Indigestion, stomach cramps and constipation are all signs of irritable bowel syndrome (IBS), a digestive condition estimated to affect one in 10 people worldwide.
+
+There is no cure, although it can be managed with lifestyle and dietary changes. But discovering which foods trigger a bad reaction for individuals can be a long and painstaking process. It's expensive too — a 2019 study of six European countries found that it cost healthcare systems between €937 ($1,087) and €2,108 ($2,445) per patient per year.
+
+That's why Irish engineers Aonghus Shortt and Peter Harte founded FoodMarble, a startup that has invented portable devices, measuring just 5 centimeters squared, which test the hydrogen levels in a person's breath -- a key signal for digestive disorders.
+
+"Humans shouldn't be producing hydrogen on the breath," explains Harte. It happens when food that couldn't be digested in the small intestine moves to the large intestine where bacteria breaks it down, in a process called fermentation. That process releases gases, such as hydrogen or methane, that can cause pain or bloating.
+
+FoodMarble's app has a database of nearly 1,000 foods, broken down by ingredients that are typically hard to digest.
+
+FoodMarble's AIRE device, which launched in 2018, allows users to test for hydrogen after meals, giving them real-time feedback on what food is bad for their body. Readings are transmitted via Bluetooth to the FoodMarble app, where users can log what they eat, and over a course of weeks spot the ingredients that trigger symptoms.
+
+Read More

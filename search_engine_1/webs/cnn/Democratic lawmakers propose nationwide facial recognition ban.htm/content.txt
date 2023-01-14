@@ -1,0 +1,23 @@
+CNN Business —
+
+Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government.
+
+The legislation marks Congress’s most aggressive bid yet to curtail the use of face recognition, amid complaints by civil rights groups that the technology disproportionately misidentifies people of color. In the absence of a federal law addressing face recognition, state and local governments have taken it upon themselves to regulate the use of the tech, with cities including San Francisco and Boston passing their own bans.
+
+The bill by four Democratic members of the House and Senate lays down a critical marker as a debate intensifies in Washington over creating a single, national standard to regulate facial recognition. It is the first bicameral piece of legislation to be introduced that zeros in on face recognition since the death of George Floyd and the outbreak of protests around the country against unjust policing.
+
+The bill doesn’t merely target facial recognition, however. Under the broad proposal by Sens. Ed Markey and Jeff Merkley, and Reps. Pramila Jayapal and Ayanna Pressley, federal agencies would be prohibited from using or spending money on face recognition, voice recognition, or gait recognition, unless Congress passes a bill explicitly authorizing it in specific contexts.
+
+It also seeks to restrict state and local governments from using those technologies by withholding federal grant money for criminal justice programs until those governments pass their own bans. States that want even tougher rules than the federal standard would still be permitted to pass them, and wouldn’t be overruled by Congress under the bill. And private citizens would be able to sue governments that violate the proposed law, according to bill text reviewed by CNN Business.
+
+“For years, I have called on companies like Amazon to stop selling facial recognition technology that has not only been invasive, inaccurate and unregulated, but has also been unapologetically weaponized by law enforcement against Black people across this country for far too long,” said Jayapal in a statement.
+
+As the racial justice protests grew this month, companies including Amazon and Microsoft announced a temporary halt to sales of facial recognition technology to police departments around the country. In doing so, they called for Congress to develop a common set of rules governing the technology. But Thursday’s proposal to ban facial recognition outright could provoke a strong backlash from the technology industry, which has fought similar efforts by state and local officials on a smaller scale. Law enforcement officials, meanwhile, have defended the use of facial recognition, saying it is only one of many useful investigative tools and that it helps keep communities safe.
+
+Amazon (AMZN) and Microsoft (MSFT) were not consulted prior to the legislation being introduced, according to a Democratic aide. The companies didn’t immediately respond to a request for comment.
+
+The potential human cost of widespread use of facial recognition technology was illustrated earlier this week after the American Civil Liberties Union filed an administrative complaint with the Detroit Police Department. In the complaint, the ACLU said a Black man, Robert Williams, had become the first known case of wrongful arrest involving facial recognition. Williams allegedly spent some 30 hours in detention after a computer algorithm mistakenly highlighted him as a potential match against surveillance footage of a local theft.
+
+“Facial recognition is a uniquely dangerous form of surveillance,” said Evan Greer, deputy director of the advocacy group Fight for the Future. “This is not just some Orwellian technology of the future — it’s being used by law enforcement agencies across the country right now, and doing harm to communities right now.”
+
+Advocacy groups backing the bill include the civil rights group Color of Change; Electronic Frontier Foundation, a digital rights organization; Georgetown University Law Center’s Center on Privacy & Technology; and the watchdog group Project on Government Oversight, among others.

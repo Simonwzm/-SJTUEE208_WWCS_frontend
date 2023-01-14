@@ -1,0 +1,43 @@
+Moscow CNN Business —
+
+On Friday, a controversial new law took effect in Russia: The so-called “sovereign internet” law, which mandates the creation of an independent internet for Russia.
+
+In effect, Moscow has given itself the power to erect a sort of digital Iron Curtain around its networks. But will it force the change from a freewheeling internet to a purely Russian one?
+
+That’s what tech companies and Russian internet users alike will be watching as the law takes effect.
+
+Here’s what the measure entails: Earlier this year, Russian President Vladimir Putin signed into law new rules that would enable the creation of a national network that can operate independently from the rest of the world. Among other things, the law allows Roskomnadzor, Russia’s telecoms agency, to shut the country off from external traffic exchange, creating a purely Russian web.
+
+The government has said the regulations are part of an effort to protect Russia by creating the ability to sustain a fenced-off national network, in the event that a foreign power interferes with Russian cyberspace. The official newspaper Rossiiskaya Gazeta said the law coming into force should not affect internet users, but it “will ensure the availability of communication services in Russia in case of threats.”
+
+Now the government can directly censor content or even turn Russia’s internet into a closed system.” Rachel Denber, Human Rights Watch
+
+That’s clear in theory, but just how the new measures will be applied remains ambiguous. Critics have warned that this could make it easier for the Russian government to censor, reroute or switch off internet traffic to block access to politically sensitive content.
+
+Here’s why: To control internet traffic, and to detect content, the law requires all internet providers in Russia to install special hardware provided by Roskomnadzor.
+
+That would enable the use of Deep Packet Inspection (DPI) technology, which involves data processing that looks in detail at the contents of the data being sent. DPI, for instance, is used in by China for its Great Firewall to filter content it deems harmful to Chinese citizens.
+
+Many rights activists and cyber experts have voiced concerns Russia’s new laws are setting the stage for internet censorship and surveillance.
+
+“Now the government can directly censor content or even turn Russia’s internet into a closed system without telling the public what they are doing or why,” said Rachel Denber, deputy Europe and Central Asia director at the advocacy group Human Rights Watch, in a statement. “This jeopardizes the right of people in Russia to free speech and freedom of information online.”
+
+It’s not entirely clear how Russian authorities plan to implement this legislation. Officials in the country have described it as a work in progress that requires multiple tests and additional regulations. But trials of hardware are already underway.
+
+Aleksandr Zharov, Roskomnadzor’s head, has said all Russian internet providers have agreed to comply with the law and install the hardware, and it is now being tested locally in one of the Russian regions.
+
+The most recent addition to the legislation — which also comes into force on Friday — takes those tests nationwide. Russian Prime Minister Dmitry Medvedev signed a law last month outlining “drills” that Russia will host every year in order to test scenarios of various threats to the country’s internet in order to sustain its “sovereignty.”
+
+According to the document, Russia will hold no fewer than one such exercise a year, with a caveat that this number could increase if snap drills are conducted. Russia’s Ministry of Communications will be in charge of planning the drills, which will be coordinated with the FSB, Russia’s security service, and the Defense Ministry, among other institutions.
+
+Russia has long had a relatively free internet culture, in comparison with China. But the government has veered in the direction of greater control of internet access in recent years.
+
+Jason Oxman, president and CEO of the tech trade association Information Technology Industry Council, said such laws could have an impact on Russian society and the country’s economic growth.
+
+“Access to a free and open internet is the key to many of the technologies that enhance the daily lives of individuals and economies across the globe,” he said. “By connecting people, no matter where they live, the internet has proven to be an essential tool for families, businesses, governments, education, and health. Building silos and restricting the flow of information to Russia’s more than 100 million internet users threatens to suppress the growth of commerce and stifle innovation.”
+
+Earlier this year, the Russian government introduced new laws that allow authorities to jail or fine those who spread fake news or “disrespect” government officials online. And last year, Russia attempted to enforce a ban against the popular messaging service Telegram.
+
+The Telegram ban, however, showed the limits of Russian efforts to regulate cyberspace. A court in Moscow banned Telegram after the company refused to provide encryption keys to the FSB, but founder Pavel Durov said Telegram would use “built-in methods” to bypass the ban.
+
+Telegram, as of this writing, is still widely available in Russia.

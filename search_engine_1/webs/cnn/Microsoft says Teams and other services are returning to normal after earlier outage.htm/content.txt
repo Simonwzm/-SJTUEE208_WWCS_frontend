@@ -1,0 +1,11 @@
+New York (CNN Business) Microsoft says its workplace communication platform, Teams, and other Microsoft 365 services should be returning to normal after an earlier software update issue caused outages for many users.
+
+Microsoft MSFT said Monday afternoon that users may be unable to access Microsoft 365, Azure and Dynamics 365 services, including Microsoft Teams, Forms, Exchange Online email and others. In a tweet thread , the company said the issue may be affecting users worldwide.
+
+"We've identified an issue with a recent change to an authentication system. We're rolling back the update to mitigate impact," Microsoft said, adding later that fixing the issue was taking longer than expected.
+
+Around 5 p.m. ET, the company posted a status update saying it is "rolling out a mitigation worldwide," and customers should begin to see the situation improve, with "full remediation" expected within an hour.
+
+An hour later, Microsoft said it had finished deploying the fix. "Microsoft 365 services continue the process of recovery and are showing decreasing error rates," the company said
+
+Read More

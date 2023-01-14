@@ -1,0 +1,43 @@
+(CNN Business) On a recent April afternoon I tossed a few things into a basket at Target — cereal, graham crackers, kids' sunglasses — then sat down at the end of an aisle filled with beauty items, placed a hand into a box-like machine, and let a robot paint my fingernails.
+
+Made by a company called Clockwork , the robot is stationed at a Target store in Walnut Creek, California. Customers first book and pay for their appointment online, then stick a hand inside the machine (which looks a lot like a printer) that pipes polish onto the nail, leaving no brush lines. For now, at least, it's not entirely on its own: A (human) attendant was present the two times I visited, helping explain the process and cleaning up any missteps by the machine, such as polish spillover or messy-looking edges.
+
+Clockwork robots were added to three Target stores (two in the San Francisco Bay Area, one in Target's corporate home state of Minnesota), starting in February, as part of a small-scale test to see how shoppers take to this sort of on-the-go beauty service. Clockwork CEO and founder Renuka Apte said the machines will be added to three more Target stores in the Dallas-Fort Worth area on May 11. Fingernail painting costs $10 (though Clockwork is currently offering first-time customers $2 off), and is meant to take about 10 minutes or less.
+
+Robots have been common in commercial settings for a long time, but they mostly remain a novelty with consumers (you may have encountered the occasional French fry-making robot barista robot , or delivery robot , to name a few). Clockwork's machines are an attempt to make such robots more common in everyday life; they're aimed at people who want something in between a sit-down manicure (which can be costly and time-consuming) and do-it-yourself nail painting (which, if you're like me, can be extremely messy).
+
+"I feel like most people who want to do beauty on a regular basis don't always have time for it," Apte told CNN Business.
+
+Cameras, data, and algorithms
+
+Apte said she came up with the idea for Clockwork, which she founded with Aaron Feldstein in 2018, in part to solve her own problem.
+
+CNN Business Senior Tech writer Rachel Metz recently tested Clockwork's fingernail-painting robot at a local Target store.
+
+To paint your nails, Clockwork's machines rely on cameras, data, and algorithms. You place a digit on a finger rest and slide it into the machine, where two cameras rapidly take about 100 pictures of the nail. Apte said those images are used to create a 3-D point cloud showing the shape of the nail, and this data is used to figure out where the edges of your nail are located. This information is then used by algorithms that figure out things such as how (and how fast) the machine's polish-dispensing pipette should move to apply paint to your nail.
+
+Clockwork also labels and adds these nail pictures to a dataset that's used to improve the company's nail-painting software.
+
+It might not sound that complicated, but Apte said variations in the steepness of people's nails — combined with the changing viscosity of nail polish, depending on how it's applied — make it a challenging endeavor for a robot.
+
+The machine uses a disposable pipette that draws polish from tiny, prefilled bottles; Apte said that she and Feldstein originally experimented with using brushes to apply polish, but eventually eschewed them for a host of reasons (brushes tend to harden and can harbor bacteria if they aren't cleaned properly, for instance).
+
+Kelsie Marian, a senior director analyst at Gartner who covers large retailers and the ways they use technology, noted that retailers have been experimenting with robots for years, especially for tasks like inventory management and price checking. As a result, consumers are becoming more comfortable seeing these sorts of things in stores. Additionally, Clockwork's nail-painting experience is one more choice that retailers can give customers, she said.
+
+"There's an aspect here of, if I had the time to go in and sit down and have the full experience, I would do that, but I also want the option to very quickly go in and use something like that," she said.
+
+Similarly, Apte sees Clockwork not as a replacement for a traditional manicure, but as another beauty service.
+
+"It's kind of like adding fast-casual restaurants or vending machines in a world that only has sit-down restaurants," she said.
+
+The robots aren't perfect
+
+Clockwork's robots aren't perfect: The first time I visited, the pipette that pushes out polish appeared to clog after painting a few nails, and several of my nails were painted so poorly around the edges that the machine's attendant fixed them by hand. It took about 20 minutes to complete a coat in a honey-yellow hue, which is twice as long as the company's goal.
+
+CNN Business Senior Tech writer Rachel Metz recently tested Clockwork's fingernail-painting robot at a local Target store.
+
+They also can't do anything more complicated than paint a coat of colored nail polish — if you want your nails filed, or a protective top coat applied to keep your polish from chipping, you'll have to do it on your own. (Apte said top coats are coming "pretty soon" to Clockwork's machines.)
+
+Apte said most of the painting issues Clockwork sees are due to people moving a bit after the machines takes pictures but right before their nails are painted. This may lead to problems like polish spillover.
+
+With this in mind, I decided to go back to Target for a second polishing a week after my first trip. This time, I held my hands as still as possible. Maybe it helped: the painting process went a lot faster overall, and my nails (this time bright red) required hardly any touch-ups.

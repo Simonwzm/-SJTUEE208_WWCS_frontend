@@ -1,0 +1,49 @@
+New York CNN Business —
+
+Amazon sales jumped 26% in the first three months of 2020, but the company’s profits took a hit as it scrambled to manage the coronavirus pandemic.
+
+Net income for the quarter fell nearly 31% from the same period in the prior year to $2.5 billion, or $5.01 per share. Wall Street analysts had projected quarterly income of $3.15 billion.
+
+Amazon shares dipped around 4% in after hours trading Thursday following the company’s earnings report.
+
+CEO Jeff Bezos warned shareholders that the June quarter could also be challenging for the online retail giant’s finances, as the company plans to reinvest billions of dollars into managing coronavirus.
+
+“If you’re a shareowner in Amazon, you may want to take a seat, because we’re not thinking small,” Bezos said in a release. “Under normal circumstances, in this coming Q2, we’d expect to make some $4 billion or more in operating profit. But these aren’t normal circumstances. Instead, we expect to spend the entirety of that $4 billion, and perhaps a bit more, on COVID-related expenses.”
+
+He said the company plans to use those funds to to invest in personal protective equipment, enhanced cleaning and make other adjustments to its fulfillment centers. The company has been criticized in recent weeks by employees who say they fear that going to work at Amazon warehouses endangers their health.
+
+Bezos also said the company will be spending money on getting products to customers. Amazon has experienced massive online shopping demand as a result of the coronavirus pandemic. During the quarter, the company hired more than 175,000 fulfillment workers to help handle the jump in orders, and Bezos said Amazon is continuing to hire.
+
+However, Bezos added: “I’m confident that our long-term oriented shareowners will understand and embrace our approach, and that in fact they would expect no less.”
+
+Handling a spike in sales
+
+While Amazon experienced massive order volume during the quarter, the costs of handling it amid the pandemic meant those sales didn’t translate to major profits. Operating income during the quarter fell 43% in the company’s North America segment and turned to a loss in the international segment.
+
+In addition to the costs of growing its fulfillment staff, the company also raised pay for hourly employees, which will cost the company nearly $700 million as of May 16, Amazon said in its Thursday release.
+
+Much of the demand was for lower-margin household items such as cleaning products and toilet paper, rather than for “discretionary products” like apparel and technology goods, which also weighed on profits. In mid-March, the final month of the quarter, Amazon temporarily restricted the kinds of products that could be sent to its warehouses to essential goods such as household and cleaning supplies.
+
+“We think that still was the right course of action and as we add capacity, we’re trying to resume more normal operations as far as the shipping of non-essential items” and shipping times, Amazon CFO Brian Olsavsky said on an analyst call Thursday.
+
+The effects of covid-19 on cloud
+
+At $10.2 billion, revenue from Amazon’s cloud business, Amazon Web Services, was essentially in line with analysts’ expectations, and up 33% from the prior year.
+
+AWS drives much of Amazon’s profits.
+
+As with its cloud peers Google (GOOGL) and Microsoft (MSFT), the move for many people to working and attending school remotely as a result of coronavirus may have been a boon to AWS, since cloud infrastructure is key to many work-from-home experiences.
+
+However, the economic crisis caused by the pandemic may also mean fewer companies spending on enterprise services such as cloud.
+
+Bucking the trend on advertising
+
+Advertising has been a growing piece of Amazon’s business in recent years, and that continued during the quarter.
+
+Revenues from Amazon’s “other” division, which consists mostly of advertising sales, grew 44% to $3.9 billion.
+
+The gains came in stark contrast to slowdowns in ad sales for other internet giants, including Google. The advertising business is often closely tied to the economy, and companies pulled back on ad spending as the fallout from coronavirus grew.
+
+But Amazon’s ad business was likely helped by the fact that so many people visited the site to stock up on goods during the quarter, Tom Forte, senior research analyst with financial services firm D.A. Davidson, told CNN Business.
+
+“I think the Amazon advertising business is going to grow through this or take a lot of share,” Forte said.

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200910143505-moon-0905.jpg?q=x_4,y_269,h_2246,w_3991,c_crop/w_800

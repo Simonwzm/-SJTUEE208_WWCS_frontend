@@ -1,0 +1,59 @@
+London CNN Business —
+
+The United Kingdom has reportedly settled on a compromise over Huawei’s role in the country’s 5G networks that appears aimed at pleasing both Washington and Beijing.
+
+Britain will ban products made by Huawei from the “core” of next-generation 5G telecoms infrastructure, according to media reports.
+
+But the Chinese company will be allowed to help build less sensitive parts of the super-fast wireless network. The decision was first reported by The Telegraph.
+
+The United States has heaped pressure on its allies to ban Huawei components from 5G networks due to security concerns. The Trump administration alleges that Huawei products could be used by China for spying.
+
+Huawei has repeatedly denied the accusations.
+
+A UK government spokesperson would not confirm reports that Prime Minister Theresa May had settled on a plan to address the issue.
+
+“National Security Council discussions are confidential,” the spokesperson said. “Decisions from those meetings are made and announced at the appropriate time through the established processes.”
+
+Huawei said in a statement that it “welcomes reports” that the UK government would allow it to participate in building 5G networks.
+
+“This green light means that UK businesses and consumers will have access to the fastest and most reliable networks thanks to Huawei’s cutting edge technology,” a spokesperson said.
+
+James Andrew Lewis, director of the Technology Policy Program at the Center for Strategic & International Studies in Washington, said the “middle ground” approach may be an appealing option for many countries.
+
+“A lot of countries are attracted to it, because they don’t want to get into a fight with China,” said Lewis, who predicted that Canada and Germany may follow suit.
+
+UK Prime Minister Theresa May will reportedly allow Huawei to supply "noncore" infrastructure to the country's 5G networks. Jack Taylor/Getty Images Europe/Getty Images
+
+Security concerns
+
+Such a compromise won’t leave everyone happy, however.
+
+Tom Tugendhat, chairman of parliament’s Foreign Affairs Committee, criticized the arrangement, which he said would cause allies to question whether Britain could keep data secure and erode trust in intelligence sharing.
+
+“There’s a reason others have said no,” he said on Twitter.
+
+Australia has already barred Huawei equipment from its 5G networks.
+
+Huawei, the world’s largest supplier of telecom equipment, has fought hard to convince the United Kingdom that its products are safe for use.
+
+It received a boost when the National Cyber Security Centre, part of the UK intelligence service, concluded earlier this year that there are ways to limit risks.
+
+“There is a lot more to 5G than whether particular companies get particular contracts,” Ciaran Martin, head of the National Cyber Security Centre, said Wednesday at a security conference in Scotland.
+
+At least one major British mobile service provider has reached a similar conclusion.
+
+BT (BT) said in December that it would not buy Huawei equipment for the core of its 5G network, even though a top executive at the company later said he had seen no “cause for concern.”
+
+The Five Eyes
+
+The United States has for months sought to deter its intelligence partners from using Huawei products in 5G networks, which promise speeds capable of powering smart cities and self-driving cars.
+
+The Trump administration has cautioned allies that it could reassess information sharing agreements if they use Huawei technology.
+
+“America is calling on all our security partners to be vigilant and to reject any enterprise that would compromise the integrity of our communications technology,” Vice President Mike Pence said earlier this year.
+
+The UK decision deals a blow to that strategy ahead of President Donald Trump’s first state visit to Britain in June.
+
+It could also strain the intelligence alliance known as the Five Eyes, which includes the United States, United Kingdom, Australia, Canada and New Zealand.
+
+“We are not going to have Huawei in our most sensitive networks,” US National Security Agency official Rob Joyce said Wednesday in Scotland. “The question is where you define a sensitive network.”

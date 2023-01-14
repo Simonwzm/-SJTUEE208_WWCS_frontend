@@ -1,0 +1,11 @@
+New York (CNN Business) Many people living on America's East Coast were without Internet for part of Tuesday because of Verizon Fios service issues.
+
+Tens of thousands of people reported outages from Boston to New York to Washington and locations in between, according to Downdetector.com , a website that tracks complaints about service disruptions. People also reported outages on several other services, including Gmail, Zoom and Slack as well.
+
+Google GOOGL Verizon acknowledged the disruption to its service, although it didn't say whether problems with Fios were the root cause of customers' unreliable access to various internet services., Slack and Zoom did not report any outages.
+
+"We are aware of an issue impacting the quality of Fios service throughout the Northeast corridor," said Rich Young, spokesman for Verizon. "Our network team is fully engaged. We are working through the root cause and have already seen service levels start to restore."
+
+The US Federal Communications Commission said it was investigating the outage.
+
+Read More

@@ -1,0 +1,51 @@
+(CNN Business) For close to two decades, Apple and China have been inextricably linked. The world's most populous country not only accounts for the bulk of Apple's device manufacturing but also a significant portion of its sales.
+
+This year, however, several cracks have started to appear in an otherwise mutually beneficial relationship. Much of the turmoil has been driven by China's "zero-Covid" strategy , with strict lockdowns in major parts of the country earlier this year halting production at several factories — including those of Apple's manufacturing partners Foxconn and Pegatron — and disrupting global supply chains
+
+CEO Tim Cook warned during the company's last earnings call in April that China's supply chain bottlenecks could cause a hit to its business as high as $8 billion in the subsequent quarter. With the company set to report its next quarterly earnings after the bell on Thursday and China largely sticking to its stringent pandemic measures , the pain may continue.
+
+It's not the first time Apple's dependance on China has been a headache for the company. A year before the pandemic, Apple warned of slowing iPhone sales amid an escalating trade war between the United States and China. Apple has also faced scrutiny over the years for the working conditions at some of its suppliers' facilities.
+
+But no matter how bad the situation gets now, experts say the tech giant is unlikely (and perhaps unable) to disengage from China for the foreseeable future.
+
+"There is no doubt that tech manufacturing wants to move out of China. They cannot afford the risk of continued disruption to supply, and they want to gain better control over their ability to serve customers," said Lisa Anderson, CEO of supply chain firm LMA Consulting Group. "With that said, China's scale won't be easy to replicate, and so the transition will take time and require investment."
+
+Hard to match
+
+Cook's tenure at Apple has coincided with a deepening of the company's relationship with China. Cook joined Apple in 1998, a few years before the company began having its products manufactured in China. He helped build and manage its global supply chain as COO before ascending to the top job in 2011. He has made several highly publicized visits to China as CEO, illustrating the country's importance to Apple.
+
+Still, Apple may be hedging some of its bets. The Wall Street Journal reported earlier this year that the company is looking to boost production in countries such as Vietnam and India, citing China's strict Covid policy as one of the reasons.
+
+Apple did not respond to requests for comment for this story, but Cook emphasized Apple's broader manufacturing footprint on the company's most recent earnings call. "Our supply chain is truly global, and so the products are made everywhere," he said. "We continue to look at optimizing. We learn something every day and make changes."
+
+China, however, has spent years developing a combination of production incentives, local engineering talent and a cohesive supply chain ecosystem that will be difficult to replicate elsewhere. As Cook put it in one 2015 interview , "You can take every tool and die maker in the United States and probably put them in a room that we're currently sitting in. In China, you would have to have multiple football fields."
+
+Bryan Ma, VP of device research at market intelligence firm IDC, said there's been "increasing pressure to diversify product assembly outside of China, but doing so won't be easy given that the proximity to component suppliers is a key reason for staying in China."
+
+"I'm sure that vendors will explore their options, especially as governments dangle incentives for local assembly," Ma added. "But if the entire supply chain doesn't move with them, then the logistics of moving components to the assembly facilities becomes a challenge."
+
+A major market
+
+Complicating things further for Apple is the fact that China is its biggest market outside the United States.
+
+Apple currently accounts for 18% of the Chinese smartphone market and China makes up nearly a quarter of Apple's global sales, according to Amber Liu, a Shanghai-based smartphone analyst at tech research firm Canalys.
+
+Customers interact with Apple products at the new Apple retail store at Wuhan International Plaza on May 21, 2022.
+
+In short, China is "where a big part of the growth market is," said Gad Allon, director of the management and technology program at the University of Pennsylvania whose research focuses on supply chains. "Apple has many, many reasons not to rock the boat," he said, or risk ending up on the wrong side of China's government.
+
+Meanwhile, in what could be a sign of its worries over demand in the country, Apple this week offered its Chinese customers discounts as high as 600 yuan ($89) on its latest iPhone models for a limited time. It's rare for Apple to offer such promotions.
+
+Continued risks
+
+Stringent Covid lockdowns aren't the only potential disruption Apple could face in China.
+
+Tensions between Beijing and Washington over Taiwan, the self-governed democratic island that China has long claimed as part of its territory, have escalated significantly in recent weeks around US House Speaker Nancy Pelosi's possible visit to the island. Taiwan is also home base for several key Apple suppliers, including Foxconn, Pegatron and Wistron, and has become a global hub for the semiconductor chips used in most electronic devices.
+
+"While the Covid lockdowns will force some companies to diversify their manufacturing locations, the zero-Covid policy will not permanently damage China's status," Paul Triolo, senior vice president at strategic advisory firm Dentons Global advisors, told CNN Business. A major escalation in Taiwan, on the other hand, "would be a much more important signpost in determining China's future as a manufacturing hub."
+
+"Any disruption of Taiwan supply chains due to military confrontation would also have a huge impact on Apple's operations," he said.
+
+For now, Apple seems to have no choice but to stay the course.
+
+"China has been becoming more expensive for several years already, but what happened in the last year is it became more volatile," said Allon. "Having said that, it's impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs."

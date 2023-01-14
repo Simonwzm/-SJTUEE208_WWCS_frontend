@@ -1,0 +1,49 @@
+Hong Kong/London (CNN Business) The hackers behind one of the worst data breaches ever to hit the US government have launched a new global cyberattack on more than 150 government agencies, think tanks and other organizations, according to Microsoft.
+
+The group, which Microsoft calls "Nobelium," targeted 3,000 email accounts at various organizations this week — most of which were in the United States, the company said in a blog post Thursday.
+
+It believes the hackers are part of the same Russian group behind last year's devastating attack on SolarWinds — a software vendor — that targeted at least nine US federal agencies and 100 companies.
+
+Cybersecurity has been a major focus for the US government following the revelations that hackers had put malicious code into a tool published by SolarWinds. A ransomware attack that shut down one of America's most important pieces of energy infrastructure — the Colonial Pipeline — earlier this month has only heightened the sense of alarm. That attack was carried out by a criminal group originating in Russia , according to the FBI.
+
+said that at least a quarter of the targets of this week's attacks were involved in international development, humanitarian, and human rights work, across at least 24 countries. It said Nobelium launched the attack by gaining access to a Constant Contact email marketing accountused by the US Agency for International Development (USAID).
+
+"These attacks appear to be a continuation of multiple efforts by Nobelium to target government agencies involved in foreign policy as part of intelligence gathering efforts," the company said.
+
+According to Microsoft, the latest campaign began in late January and was discovered in February. The hackers honed their techniques throughout March, April and early May before "significantly" escalating their attacks on May 25, when they used Constant Contact to "target around 3,000 individual accounts across more than 150 organizations." The hackers custom-tailored their attacks to each target, in an apparent effort to reduce the chances of being detected.
+
+USAID acting spokesperson Pooja Jhunjhunwala said Friday that the agency was aware of "potentially malicious email activity" from a compromised Constant Contact marketing account. A forensic investigation into the incident is ongoing, added Jhunjhunwala.
+
+The White House's National Security Council and the US Cybersecurity and Infrastructure Security Agency (CISA) are both aware of the incident, according to spokespeople. CISA is "working with the FBI and USAID to better understand the extent of the compromise and assist potential victims," a spokesperson said.
+
+By gaining access to USAID's account, the hackers were able to send out phishing emails that Microsoft said "looked authentic but included a link that, when clicked, inserted a malicious file" that allowed the hackers to access computers through a backdoor.
+
+"This backdoor could enable a wide range of activities from stealing data to infecting other computers on a network," Microsoft said.
+
+One of the fake emails that appeared to originate from USAID included an authentic sender address. The email posed as a "special alert" that invited recipients to click on a link to "view documents" from former President Donald Trump on election fraud.
+
+Microsoft said that many of the attacks were blocked automatically. The company is notifying customers who were targeted, and said it has "no reason to believe these attacks involve any exploit against or vulnerability in Microsoft's products or services."
+
+A spokesperson for Constant Contact said the company is "aware that the account credentials of one of our customers were compromised," describing it as an "isolated" incident. "We have temporarily disabled the impacted accounts while we work in cooperation with our customer, who is working with law enforcement," the spokesperson added.
+
+At the time of the SolarWinds hack, US intelligence and law enforcement agencies said the group responsible "likely originated in Russia," adding that the attack was believed to be an act of espionage.
+
+Microsoft reiterated those suspected motivations in its Thursday blog post, saying that "when coupled with the attack on SolarWinds, it's clear that part of Nobelium's playbook is to gain access to trusted technology providers and infect their customers."
+
+"By piggybacking on software updates and now mass email providers, Nobelium increases the chances of collateral damage in espionage operations and undermines trust in the technology ecosystem," the company said.
+
+The fake USAID emails were not the only ways that the hackers sought to compromise their targets in the campaign, according to Mandiant, a cybersecurity firm that had also been tracking the same suspected Russian activity.
+
+The attackers "leveraged a variety of lures, including diplomatic notes and invitations from embassies," said John Hultquist, VP of analysis at Mandiant Threat Intelligence. "All of these operations have focused on government, think tanks, and related organizations that are traditionally targeted by [Russian foreign intelligence] operations."
+
+The latest disclosure shows how Russia has been undeterred by recent US efforts to hold the Kremlin accountable and bolster cybersecurity following the SolarWinds campaign, said James Lewis, a cybersecurity expert at the Center for Strategic and International Studies.
+
+"The Russians have a campaign plan for massive attacks against US targets, for which they have no incentive to stop," Lewis said. "They aren't afraid of the US response. They are testing the new administration."
+
+Kremlin spokesman Dmitry Peskov on Friday refused to comment on the specifics of Microsoft's allegations.
+
+"To answer your question we first need to answer the following: which groups? Why are they linked to Russia? Who attacked what? What did this lead to? What was the attack itself? And how does Microsoft know about it? If all of these questions are answered, we can think about the response [to your question]," Peskov told CNN in a conference call with journalists.
+
+He added that he didn't think the allegations would affect the upcoming summit between US President Joe Biden and Russian President Vladimir Putin.
+
+— Anna Chernova, Zahra Ullah, Jennifer Hansler, Brian Fung and Alex Marquardt contributed to this article.

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200318152849-01-shine-app.jpg?q=x_3,y_1328,h_1527,w_2714,c_crop/w_800

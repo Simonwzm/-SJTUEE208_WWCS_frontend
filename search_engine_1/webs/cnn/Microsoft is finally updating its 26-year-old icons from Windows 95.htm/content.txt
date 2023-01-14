@@ -1,0 +1,25 @@
+New York (CNN Business) Microsoft is giving Windows 10 a fresh coat of paint. But it's not just getting a touch-up — Microsoft is doing all the fine details, getting under the switch plates and sanding the molding.
+
+Windows gets periodic visual updates , with constantly changing recycling bins, Start menu colors, task bar icons and other prominent items PC users look at every day. But under the hood, Microsoft has a bunch of less-noticed visual cues that were in serious need of a refresh — like, haven't been updated since Windows 95 serious.
+
+The redesign is part of a major visual overhaul of Windows 10 coming in October, a preview of which Microsoft made available to developers this week. it shows updates to some of its less-used icons to better reflect the technology of the 21st century. Outdated CRT monitors have been replaced with flat screens, and trackball mice are now touchscreens, for example.
+
+The visual refresh, first spotted by Windows Latest , gives all Microsoft's system icons the same general look and feel as the rest of its updated imagery. Sure, there's still some antiquated stuff: Floppy disk icons remain, but at least they look like they're part of Windows 10 and not from the Windows when Bill Clinton was in his first term.
+
+Windows 10 could certainly use an update: Aside from twice-annual tweaks, it's been mostly unchanged since its release in 2015 . Six years is long in the tooth for any PC operating system, and a revolution is coming to personal computers that threatens Windows' standing as the dominant productivity operating system.
+
+What's in the refresh?
+
+Microsoft's twice-a-year Windows updates usually add a few welcome new features (a new screenshot tool, a cleaner Start Menu, etc.). This year's spring update will be another one of those minor updates that adds polish and squashes bugs.
+
+But the fall update will unleash a full-scale Windows 10 redesign codenamed "Sun Valley," complete with an all-new Start Menu, File Explorer, Action Center and taskbar. Tablet users will also reportedly get a redesigned virtual keyboard with better access to emojis. And Microsoft is expected to give all Windows 10 elements a makeover to align all of the recently tweaked elements of the operating system in a consistent design — including the new icons Microsoft previewed this week.
+
+Why now?
+
+Most of Windows' recent tweaks have been aimed at specific audiences, particularly gamers and corporate customers. But the PC is back as a consumer staple — the work-from-home era brought on by the coronavirus pandemic has made productivity cool again. Microsoft wants to ensure its new everyday users are enjoying the experience of using their PCs.
+
+Apple's new Mac OS Big Sur takes advantage of the new chip by integrating features people have grown accustomed to on their iPhones and iPads. The convergence of smartphones, tablets and PCs is underway.
+
+Apple's AAPL Microsoft has its own hybrid device, the Surface Pro X, that runs on a chip with a similar architecture toM1. And it's coming out with Windows 10X this year, an operating system designed from the ground up for nontraditional devices (think foldables, tablets and other computers that don't look like normal laptops or desktops).
+
+This new kind of chip could disrupt the staid PC world, lighting a fire under Microsoft to redesign Windows for new kinds of PCs that it hasn't conceived of yet. So it's about time Windows 10 gets a major refresh.

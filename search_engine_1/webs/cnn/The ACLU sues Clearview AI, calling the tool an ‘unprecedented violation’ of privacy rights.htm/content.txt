@@ -1,0 +1,65 @@
+New York CNN Business —
+
+The American Civil Liberties Union is suing Clearview AI, the maker of a facial-recognition tool used by law enforcement agencies across the country.
+
+The ACLU alleges that Clearview’s technology runs afoul of the 2008 Illinois Biometric Information Privacy Act, according to the complaint, filed Thursday in the Circuit Court of Cook County, Illinois. It alleges in a statement that the company is engaging in “unlawful, privacy-destroying surveillance activities.”
+
+The ACLU said in the complaint that it is bringing the suit “to put a stop to its unlawful surreptitious capture and storage of millions of Illinoisans’ sensitive biometric identifiers.” Several other nonprofits, including the Chicago Alliance Against Sexual Exploitation and Sex Workers Outreach Project Chicago, have also signed onto the suit.
+
+Clearview dismissed the ACLU complaint as “absurd” when asked for comment. According to its website, Clearview’s service “has been independently tested for accuracy and evaluated for legal compliance by nationally recognized authorities.”
+
+“Clearview AI is a search engine that uses only publicly available images accessible on the internet,” Clearview AI’s attorney, Tor Ekeland, told CNN Business in an emailed statement. “It is absurd that the ACLU wants to censor which search engines people can use to access public information on the internet. The First Amendment forbids this.”
+
+Clearview AI founder Hoan Ton-That has described the technology as “basically a search engine for faces.”
+
+The tool scrapes billions of publicly available images from social media sites and elsewhere on the internet, and uses facial-recognition software to make the database searchable. Using one photo of a person, Clearview’s database can identify other photos of that person from the internet, and link back to their original sources, which can help identify images of unknown people.
+
+Clearview stresses that the service is not for public use, but instead is an investigative tool sold to law enforcement used to help identify suspects and solve crimes. The company says its database is used by more than 600 law enforcement agencies in the United States and Canada.
+
+But the company has come under fire in recent months after a front page investigation by the New York Times in January.
+
+Many people may not realize when posting a photo of themselves — even if they’re posting it publicly — that it could be swept up into a massive database and used by law enforcement.
+
+If a person posts an image to a public Instagram page, for example, Clearview’s technology is capable of grabbing it, and even if that person later changes their page to private or deletes the photo altogether, the image will still show up in Clearview’s database. The tool can also scrape photos of a person even if they were posted by someone else without that person’s knowledge.
+
+Twitter, Google, Facebook and other tech companies have sent Clearview cease and desist letters, saying the tool violates their terms of service. Clearview has said it would address the tech companies’ concerns, but also pushed back, saying there is a First Amendment right to public information.
+
+In February, Clearview said that a hacker gained access to its entire client list, which includes police forces, law enforcement agencies and banks.
+
+New Jersey in January enacted a statewide ban on law enforcement using Clearview while it looks into the software. Vermont’s attorney general has also filed a lawsuit against Clearview for alleged data privacy violations.
+
+“Clearview AI is one if the most innovative, effective and accurate law enforcement tools in the market,” Ekeland, the company’s lawyer, said in an email. “Not only does it protect victims by helping law enforcement apprehend child rapists, murderers and thieves, its accuracy protects the innocent from being falsely accused — all by simply using public images available to everyone on the public internet.”
+
+Ekeland added that Clearview operates in “strict accordance with the US Constitution and American law.” He said Clearview works similarly to other search engines, and claimed it collects less data than some other online companies.
+
+He said that “Clearview AI only collects public images and their web addresses. That’s all.”
+
+“We would welcome the opportunity to work collaboratively with the State of Vermont—outside the adversarial environment of a courtroom—to further refine our proven, crime-solving technology for the benefit of all,” Ekeland said.
+
+The ACLU’s lawsuit alleges the tool is violating Illinois residents’ privacy rights. The lawsuit does not take issue with Clearview’s practice of collecting images but rather with the company’s alleged use of those images to gather biometric identifiers, which the lawsuit refers to as “faceprints,” without the pictured individuals’ consent.
+
+“A ‘faceprint,’ much like a thumbprint or a DNA profile, is a biometric identifier that is used to discern or verify an individual’s identity,” the complaint says. “Like other biometrics, faceprints rely on an individual’s immutable biological characteristics — from the distance between one’s eyes and the shape of one’s cheekbones to the pattern of freckles on one’s forehead — to capture their biometric signature.”
+
+Because people can’t change their faces or fully hide them in public, the ACLU alleges that the capture and storage of biometric data on individuals’ faces with AI leaves people vulnerable to risks such as identify theft, data breaches and surveillance “by making it possible to instantaneously identify everyone at a protest or political rally, a house of worship, a domestic violence shelter, an Alcoholics Anonymous meeting, and more,” according to the complaint.
+
+The ACLU says that Clearview’s capture and storage of biometric identifiers is “conduct” not protected by the First Amendment.
+
+“Clearview is as free to look at online photos as anyone with an internet connection. But what it can’t do is capture our faceprints — uniquely identifying biometrics — from those photos without consent,” the ACLU said in an emailed statement to CNN.
+
+The Illinois Biometric Information Privacy Act, referenced in the lawsuit, states that private entities must not collect individuals’ biometric identifiers (including scans of “face geometry”) unless they have first informed the individual that their identifier is being collected, why and for how long, and received a “written release” from that individual in response. The law also stipulates that private entities may not “sell, lease, trade or otherwise profit from” individuals’ biometric identifiers, among other requirements.
+
+“In capturing these billions of faceprints and continuing to store them in a massive database, Clearview has failed, and continues to fail, to take the basic steps necessary to ensure that its conduct is lawful,” the ACLU alleges in the complaint.
+
+The suit seeks to have Clearview “destroy all biometric identifiers” in its possession that allegedly violate the state’s Biometric Information Privacy Act, and to take steps to comply with the law, in addition to further unspecified relief.
+
+Clearview’s Ton-That told CNN in a February interview that he is not necessarily opposed to regulation.
+
+“We want to work with the government to create something that is safe,” Ton-That said, adding that the company had met with legislators, though he declined to say with whom.
+
+He also said the company has taken steps to ensure its technology is not used to accidentally wrongly identify someone as the perpetrator of a crime, a concern given research findings that some other artificial intelligence systems can suffer from racial bias.
+
+“We don’t want that to happen at all,” Ton-That said. “The way it’s currently used in all the law enforcement agencies around the US is to make sure it’s just a lead.”
+
+- Donie O’Sullivan contributed to this report
+
+Correction: An earlier version of this story incorrectly characterized the target of the ACLU's lawsuit. The suit does not take issue with Clearview's practice of collecting images, but rather with the alleged use of those images to gather biometric identifiers without individuals' consent.

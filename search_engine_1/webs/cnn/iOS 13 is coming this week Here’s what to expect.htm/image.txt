@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190917113245-apple-ios-13.jpg?q=x_4,y_287,h_2190,w_3891,c_crop/w_800

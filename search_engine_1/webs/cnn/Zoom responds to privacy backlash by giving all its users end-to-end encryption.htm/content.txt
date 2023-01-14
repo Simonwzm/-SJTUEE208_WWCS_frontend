@@ -1,0 +1,35 @@
+San Francisco CNN Business —
+
+Zoom’s rapid ascent this year has brought with it the scrutiny that most fast-growing tech companies face — mostly in the form of a series of privacy and security concerns. It’s now taking a big step towards damage control.
+
+The hugely popular video conferencing platform will begin rolling out end-to-end encryption in beta mode to its users next month, it said Wednesday, backtracking on a controversial plan to offer the heightened security feature only to paying customers.
+
+End-to-end encryption is considered one of the most private ways to communicate online and allows users to have secure conversations without anyone — including the platform they’re speaking on — having access to the data.
+
+“We have identified a path forward that balances the legitimate right of all users to privacy and the safety of users on our platform,” Zoom CEO Eric Yuan said in a blog post.
+
+Yuan sparked a wide backlash earlier this month when he said on an earnings call that Zoom (ZM) would not offer end-to-end encryption to the company’s free users because it wants to “work together with the FBI, with local law enforcement in case some people use Zoom (ZM) for bad purposes.”
+
+Encryption has long been a sticking point between tech companies and law enforcement, and companies such as Apple (AAPL) and Facebook (FB) have pushed back against demands to allow access to their platforms.
+
+Privacy concerns have dogged Zoom since late March, when the company acknowledged its video meetings did not have end-to-end encryption despite marketing material indicating it did.
+
+Zoom responded by freezing all new features for 90 days to work on security issues and acquiring secure messaging firm Keybase to help shore up its encryption capabilities.
+
+And offering end-to-end encryption to all its users has become even more important for Zoom, which was built as a remote workplace tool but is suddenly being used for private events such as birthdays, funerals, government meetings and activist gatherings.
+
+“With all of the dissidents and all the people using Zoom now, I think [offering end-to-end encryption only to paid users] is a mistake,” said Bruce Schneier, a cybersecurity expert and a fellow at Harvard University’s Berkman Center for Internet and Society. “I want them to have other features as profit centers, not safety and security.”
+
+As Zoom rolls out the feature, free users will be asked for additional information to verify their accounts, such as a phone number (users can currently sign up with just an email address) to “reduce the mass creation of abusive accounts,” Yuan said.
+
+End-to-end encryption will also be an optional feature that Zoom users must enable, because it can limit some features, including the ability to dial in through a phone or record meetings.
+
+Encrypting large video conferences is also a bigger challenge than encrypting text messages or smaller conversations, which services like WhatsApp and Signal already offer. With a one-to-one connection, the message or call data is secured on the sender’s device, and only the receiver’s device has the key to decrypt it once it arrives.
+
+Put simply, the more pairs of connection or “ends” there are to encrypt, the more data you need to secure — and even the free version of Zoom can accommodate up to 100 participants per meeting.
+
+“If you think about what Zoom is doing, they are collecting all the videos, all the voices, putting it together, displaying them nicely. If that stuff is being done in the center, they have to do work on it,” said Schneier. “It does get harder exponentially as the size of the meeting grows.”
+
+However, it’s not an insurmountable task, and could be well worth it to restore the trust of Zoom’s users after a series of privacy and security slip-ups.
+
+“It’s hard but it’s not go-to-the-moon hard,” Schneier said. “It’s you-just-gotta-do-it hard.”

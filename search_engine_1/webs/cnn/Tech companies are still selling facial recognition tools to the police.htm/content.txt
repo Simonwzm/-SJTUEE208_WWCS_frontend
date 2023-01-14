@@ -1,0 +1,117 @@
+As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology.
+
+While their announcements made headlines, these tech giants aren’t the top suppliers of facial recognition software used by law enforcement, meaning police departments will still be able to buy from plenty of vendors. Clearview AI, Japan’s NEC and Ayonix, Germany’s Cognitec and Australia’s iOmniscient have all said they intend to maintain their relationships with US police forces.
+
+“I don’t think taking technology away from [the police] is going to solve the problem,” iOmniscient CEO Rustom Kanga told CNN Business.
+
+I don’t think taking technology away from [the police] is going to solve the problem.” iOmniscient CEO Rustom Kanga
+
+iOmniscient makes systems that can detect faces and analyze behavior in a crowd, and says its technology has been deployed by companies and governments in over 50 countries. Kanga supports protests against excessive force by police, and sees some behavior by US officers as “unduly brutal.” But ultimately, he said, this is a “management issue.”
+
+“We need to give the police the tools to do their jobs, to find lost children and stop terrorism,” Kanga said.
+
+Civil society groups, academics and some politicians disagree. They warn that use of facial recognition technology by governments and police poses huge risks in a democratic society, permitting surveillance in public spaces and vastly expanding the powers of law enforcement to secretly identify and trace citizens. Some algorithms are less effective at identifying people of color, raising fears that its use harms minority communities.
+
+But companies like NEC, Cognitec and iOmniscient have lower profiles than Microsoft (MSFT) or Amazon (AMZN), and they are continuing their work even as Silicon Valley steps away.
+
+Their ambitions aren’t limited to the United States. NEC is the supplier of the live facial recognition technology used by London’s Metropolitan Police, and iOmniscient has sold its technology to police in Hong Kong, where China has just imposed a draconian national security law that threatens to quash a pro-democracy movement.
+
+Black Lives Matter protesters around the world have drawn attention to the growing use of facial recognition technology by police. Jeff Roberson/AP
+
+Silicon Valley’s exit
+
+The large US tech companies put facial recognition projects on hold as protests rocked the United States after George Floyd, an unarmed Black man, was killed by police officers in Minneapolis, Minnesota.
+
+Amazon (AMZN) enacted a one-year moratorium on police use of its facial recognition technology, Rekognition, and called for Congress to enact “appropriate rules” during that period. Microsoft (MSFT) President Brad Smith, who has long advocated for greater regulation of the technology, said the company will not sell its products to US police “until there is a strong national law grounded in human rights.”
+
+IBM (IBM) said it was withdrawing from the market, calling for “a national dialogue on whether and how facial recognition technology should be employed by domestic law enforcement agencies.”
+
+“Technology can increase transparency and help police protect communities but must not promote discrimination or racial injustice,” IBM CEO Arvind Krishna said in a letter to Congress, highlighting the need for testing on bias to be audited and reported.
+
+Technology can increase transparency and help police protect communities but must not promote discrimination or racial injustice.” IBM CEO Arvind Krishna
+
+The moves reflect growing pressure within Silicon Valley to revisit collaborations with law enforcement and to think more carefully about racial biases within artificial intelligence systems. But they won’t do much to dent police use given that these companies aren’t the main vendors, according to Nick Ingelbrecht, a senior technology analyst at Gartner.
+
+“They are innovators … but they’re not very significant players in the product market,” he said.
+
+Use of facial recognition technology has exploded among police departments over the past two decades, touted by both suppliers and law enforcement as an efficient and accurate way to narrow down leads or identify people wanted by authorities. There are more than 80 vendors around the world offering facial recognition or facial verification capabilities, according to a Gartner report from 2019.
+
+A 2016 study by the Georgetown Law Center on Privacy and Technology found that one in four US state or local police departments had access to facial recognition technology, and that nearly half of all American adults are in a police facial recognition database, in part because of agreements that provide access to repositories of drivers’ license photos.
+
+Most commonly, officers use these systems to try to match a photo of a person against a database of images. There are also systems that allow law enforcement to use facial recognition to verify a person’s identity, like at airport passport gates. Some cities have signed contracts for live facial recognition technology and at least one — London — has used it to scan crowds for people on a watchlist in real time.
+
+But the technology is largely unregulated, raising concerns about misuse and bias, which can arise when the datasets used to train algorithms aren’t sufficiently diverse.
+
+A US Customs and Border Protection officer uses facial recognition technology at Miami International Airport in 2018. Joe Raedle/Getty Images
+
+Researcher Joy Buolamwini of the MIT Media Lab and Timnit Gebru, a research scientist on Google’s ethical AI team, tested algorithms from Microsoft, IBM and the Chinese company Megvii to see whether they could determine the gender of a person from a photograph. The algorithms were least accurate for darker skinned women.
+
+And the US National Institute of Standards and Technology said in a report released in December that the “majority” of facial recognition algorithms have different levels of accuracy across demographic groups.
+
+Clare Garvie, a senior associate at the Georgetown Law Center on Privacy and Technology, worries about the consequences of deploying such technology within a society that “disproportionately surveils and incarcerates Black people.”
+
+“Facial recognition will be disproportionately used on communities of color” in the United States, she said.
+
+The companies still selling
+
+Despite the announcements by IBM, Amazon and Microsoft, the smaller companies that provide the technology to police around the world have no plans to exit the market. Multiple executives at these firms said the decisions made by their larger rivals were motivated by political considerations.
+
+Clearview AI, Ayonix, Cognitec and iOmniscient all confirmed to CNN Business that they will continue selling their products to police. NEC posted a statement on its website saying that it is “committed to continuing to partner” with law enforcement.
+
+“There’s no reason not to provide facial recognition technology to them,” Ayonix CEO Sadi Vural said in an interview with CNN Business, calling police departments “good customers.”
+
+Vural said Ayonix — a Japanese firm that’s a smaller player in the US market — has between 60 and 70 police contracts, including some in the United States. NEC and Cognitec, which also sell facial recognition technology used at airports, have a bigger presence, as does Clearview AI.
+
+A New York Times investigation revealed earlier this year that Clearview AI built a database of 3 billion images scraped from the internet that was accessible to more than 600 law enforcement agencies, sparking cease-and-desist letters from Twitter (TWTR), Google (GOOGL) and Facebook (FB), and inquiries from lawmakers.
+
+In response to questions from CNN Business, the facial recognition companies stressed the ways their technology can help law enforcement, including its ability to prevent human trafficking and identify individuals who have left suspicious packages in public places.
+
+“Clearview AI believes in the mission of responsibly used facial recognition to protect children, victims of financial fraud and other crimes that afflict our communities,” CEO Hoan Ton-That said in a statement.
+
+Kanga of iOmniscient said that America has a “specifically unique problem” and that the company was selective in choosing its business partners. He also defended the company’s sales to Hong Kong, saying those deals were made before local officers began to act like the “long arm of the Chinese police.”
+
+Elke Oberg, marketing manager for Cognitec, told CNN Business that facial recognition technology should be used exclusively as a “lead generation tool,” and that Cognitec had stopped offering facial recognition technology that allows officers to identify suspects in the field, even though it’s still listed on the company’s website.
+
+In a statement, NEC Corporation of America President Mark Ikeno expressed “sadness, anger, grief, frustration, and a strong desire for change” as a result of Floyd’s death. He said the company, however, will maintain its partnerships with law enforcement to “cooperatively ensure that our efforts to make society safer equally make society more just and inclusive.”
+
+For these companies, facial recognition is a key or growing part of their business, making it more difficult for them to exit the market than Amazon or Microsoft, Gartner’s Ingelbrecht said.
+
+“This is their bread and butter,” he said. “They’ve got a lot more to lose if the facial recognition market runs into headwinds.”
+
+Moving ahead
+
+Some US policymakers have in recent days moved to restrict police use of the technology as pushback increases. Boston followed San Francisco as the second major city to enact a facial recognition ban, and congressional Democrats introduced a bill that would bar federal agencies from using the technology while making it significantly harder for state and local forces to do so.
+
+That would deal a major blow to companies like NEC and Cognitec, which have honed in on the US market.
+
+NEC, in particular, is a popular choice due to its high performance. Its algorithm was among the most accurate of those tested by the National Institute of Standards and Technology and one of its algorithms was found to yield no detectable demographic bias.
+
+Police departments from Texas to Virginia have purchased software that uses NEC’s algorithms, either directly or through companies that supply technology to law enforcement, such as South Carolina-based DataWorks Plus, according to NEC materials and queries from the Georgetown Law Center on Privacy and Technology.
+
+But things can still go awry. In Michigan, Detroit police face a complaint by the American Civil Liberties Union over what the group claims is the country’s first known wrongful arrest involving facial recognition technology. An NEC algorithm was one of two incorporated into a system used by state police in the case.
+
+Georgetown’s Garvie thinks the bill introduced by Democrats last week is “finally” strict enough to address the problems she believes are inherent to facial recognition technology. Its prospects under a highly partisan Congress aren’t clear, though restricting facial recognition has garnered bipartisan support in the past.
+
+Police departments say they should have access to facial recognition technology, which the iPhone has already helped make part of our daily lives. They note that officers decide who to arrest, but in some cases, the tech could provide a crucial assist.
+
+While the United States is an important market, it’s far from the only country where law enforcement is relying on facial recognition technology.
+
+Earlier this year, London’s Metropolitan Police said it would start using NEC’s live facial recognition software in regular deployments to find those wanted for violent crimes — beginning the process of normalizing the technology in a city of nearly 9 million.
+
+Cressida Dick, commissioner of the Metropolitan Police, has ardently defended the program, citing public support.
+
+London's Metropolitan Police alert passersby to the use of live facial recognition technology in late February. Julia Horowitz/CNN
+
+“The only people who benefit from us not using — lawfully and proportionally — technology are the criminals, the rapists, the terrorists and all those who want to harm you, your family and friends,” Dick said in a speech at an event hosted by RUSI, the UK defense and security think tank, earlier this year.
+
+London police haven’t used live facial recognition technology since the city was locked down in March, but that could change as restrictions on movement are eased.
+
+“At present, we have not announced any specific plans for future deployments but will do so based on the need to deploy aimed at tackling violence and other serious offenses,” London’s Metropolitan Police said in a statement to CNN Business.
+
+Stephanie Hare, a London-based independent researcher who focuses on tech ethics, doesn’t think use of the technology is going away, even if the software needs to be tweaked for the age of face masks.
+
+“If anything, I see a greater demand,” Hare said, pointing to a post-pandemic world where both governments and citizens agree to higher levels of surveillance as a means of protecting public health.
+
+Civil liberties groups have also expressed concern that police have the capacity to deploy facial recognition technology against Black Lives Matter protesters. They worry this could dissuade people from exercising their right to assembly.
+
+“We’ve never before had the ability to surveil people, to identify people, out of a crowd,” Garvie said. “[That] has huge consequences.”

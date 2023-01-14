@@ -1,0 +1,13 @@
+New York (CNN Business) SpaceX has put more than 1,500 internet-beaming satellites into orbit, signed up more than 69,000 customers, installed ground stations in 12 countries and has plans to expand its one-of-a-kind network's coverage all over the world — except the North and South pole — by next month. Still, SpaceX CEO Elon Musk said Tuesday, not running out of money is top of mind.
+
+"Our goal is not to go bankrupt," Musk said at the Mobile World Congress conference in Barcelona, acknowledging that all previous attempts to build a satellite-based internet network in low-Earth orbit has ended in failure, bankruptcy or a pivot away from a direct-to-consumer business model. SpaceX began launching satellites for the Starlink network in 2019, and has built up to a rapid pace of deployment, launching more than 780 in the past six months alone.
+
+Elon Musk during a keynote speech by video conference at the Mobile World Congress fair in Barcelona on June 29, 2021.
+
+The Starlink program is separate from SpaceX's Dragon program, which aims to ferry people and goods to the International Space Station, and the Starship program, which is intended to one day bring humans to the moon or Mars, or haul massive satellites into orbit. Starlink, on the other hand, is SpaceX's first foray into the satellite market.
+
+It's a take on an idea first proposed decades ago but never fully executed: Use thousands of satellites working in tandem from low-Earth orbit — which is the area below 1,000 km (620 miles) — to blanket the planet in high-speed interent connectivity. With roughly half the world's population still without reliable internet access, the concept could be a game-changer. But it's not without its challenges.
+
+Despite strong demand for Starlink services and promising early reviews , SpaceX's experimental satellite-internet business is not out of the woods financially, Musk revealed. He said that the user terminals that Starlink customers need to access the network cost SpaceX $1,000 to build, but the company is selling them for $500. (SpaceX president Gwynne Shotwell also said in April that SpaceX had brought the cost of producing its terminals down from $3,000 to $1,500.)
+
+Read More

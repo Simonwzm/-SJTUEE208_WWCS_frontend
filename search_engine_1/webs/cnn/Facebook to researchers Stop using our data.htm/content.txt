@@ -1,0 +1,11 @@
+(CNN Business) Facebook is trying to scuttle the work of New York University researchers who have played an important role in bringing attention to the company's political ad-targeting practices.
+
+The researchers collect information about what sorts of political ads that American voters see on the platform.
+
+Facebook FB demanded in an October 16 letter that the researchers stop collecting Facebook data through a tool NYU developed to track political ads. The letter, signed by Allison Hendrix from the company's privacy and data policy team, also demanded the researchers delete all data they have gathered through the tool.
+
+Laura Edelson, a Ph.D. candidate in computer science at NYU and the lead researcher behind the project, said in a statement Friday evening that her team had built a tool that provides an analysis of political advertisers' and Facebook's practices "that is otherwise unavailable to the public, and which makes clear who is trying to influence us and why."
+
+The tool allows Facebook users to voluntarily share their data with the NYU researchers.
+
+Read More

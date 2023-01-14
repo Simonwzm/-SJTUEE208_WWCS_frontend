@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200911094630-mark-zuckerberg-file.jpg?q=x_3,y_5,h_1416,w_2517,c_crop/w_800

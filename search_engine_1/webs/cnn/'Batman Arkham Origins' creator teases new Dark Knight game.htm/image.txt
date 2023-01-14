@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190924114712-01-batman-arkham-knight.jpg?q=x_250,y_0,h_1592,w_2829,c_crop/w_800

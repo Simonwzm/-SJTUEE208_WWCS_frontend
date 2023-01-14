@@ -1,0 +1,49 @@
+San Francisco CNN Business —
+
+As the CEOs of Facebook (FB), Google (GOOGL), Amazon (AMZN) and Apple (AAPL) faced Congress on Wednesday, many things they or their employees had said in the past were used against them.
+
+As they grilled Mark Zuckerberg, Sundar Pichai, Jeff Bezos and Tim Cook about whether their companies were too powerful and engaged in monopolistic practices, members of the House Judiciary subcommittee used several internal documents, including some from the CEOs themselves, to highlight instances when the companies stifled — or even threatened — competitors.
+
+Facebook and Instagram
+
+Zuckerberg’s emails foreshadowing Facebook’s $1 billion acquisition of Instagram in 2012 were a particular subject of scrutiny. In one email shared by Rep. Jerrold Nadler, the CEO referred to Instagram as a “threat,” adding: “One thing about startups though is you can often acquire them.”
+
+Zuckerberg responded to questioning by pointing out that the Instagram acquisition was approved at the time by the Federal Trade Commission.
+
+Rep. Pramila Jayapal also took Zuckerberg to task on the Instagram acquisition, quoting a chat between the Facebook CEO and Instagram co-founder Kevin Systrom in which Zuckerberg told Systrom that “how we engage now will also determine how much we’re partners versus competitors down the line.”
+
+Jayapal then added that Systrom interpreted the remarks as a threat, telling an investor that he worried Zuckerberg would go into “destroy mode” if he didn’t agree to sell Instagram.
+
+An email Zuckerberg sent in 2012, shortly after acquiring Instagram for $1 billion. House Judiciary Committee
+
+Zuckerberg denied that was his intent. “It was clear that this was a space we were going to compete in one way or another,” he said. “I don’t view those conversations as a threat in any way.”
+
+Rep. Joe Neguse expanded on Facebook’s broader strategy of buying up competitors, citing an internal email from 2014 in which the company’s chief financial officer, David Wehner, referred to its acquisition strategy as a “land grab.”
+
+Neguse also referenced an email from Zuckerberg shortly after the Instagram acquisition, containing a statement Zuckerberg labeled as a probable “joke” in his testimony.
+
+The statement? “One reason people underestimate the importance of watching Google is that we can likely always just buy any competitive startups, but it’ll be awhile before we can buy Google.”
+
+Amazon and diapers
+
+Jeff Bezos took a lot of heat in his first-ever Congressional appearance, including questions concerning internal emails about arguably the most infamous example of Amazon throttling a competitor.
+
+Amazon’s 2010 acquisition of Diapers.com for $500 million was preceded by efforts to undercut the website on price and pressure its founder Marc Lore to sell, according to The Everything Store: Jeff Bezos and the Age of Amazon.
+
+Internal emails around that acquisition came up in Rep. Mary Scanlon’s questioning of Bezos, which referenced “a more aggressive ‘plan to win’ against diapers.com” and acknowledged that it “undercuts” the site’s business.
+
+Subsequent emails from Amazon executive Peter Krawiec indicated the strategy had worked to hurt diapers.com, saying “they expect to lose lots of money over the [next] few [years].”
+
+Apple and the App Store
+
+Much of the questioning of Apple CEO Tim Cook focused on Apple’s policies governing its App Store. In one exchange, Rep. Lucy McBath shared internal emails indicating that Apple pushed users toward its own Screen Time feature after taking down other apps that allowed parents to track how much time their children were spending on screens.
+
+Cook responded by saying the apps were taken down because of concerns over “the privacy and security of kids,” with the technology those third-party apps used at the time providing the ability for them to view a child’s screen. He said he couldn’t see the specific email — “I’m sorry, my eyes are not good enough to read it” — but added that there are currently more than 30 parental control apps in the App Store.
+
+Another internal email exchange expressed concern that Apple might be “leaving money on the table” if it took only 30% of subscriptions from apps on its platform for the first year, with senior executive Eddy Cue suggesting that number be increased to 40%.
+
+Cook did not directly address the emails but responded to questions about the 30% fee Apple takes from certain apps, saying it covered services including programming languages and compilers. He added that Apple does not take a fee from 84% of the apps on its platform.
+
+Cook also touted the App Store’s impact on job creation, saying it was responsible for over 2 million jobs across the United States.
+
+“It has been an economic miracle to allow the person in their basement to start a company, a global company, and serve 175 countries in the world,” he said. “It is amazing — likely the highest job creator in the last decade.”

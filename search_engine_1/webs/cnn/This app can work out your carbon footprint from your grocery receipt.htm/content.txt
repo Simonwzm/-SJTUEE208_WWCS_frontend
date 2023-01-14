@@ -1,0 +1,41 @@
+London (CNN Business) The production and distribution of food accounts for around a third of the world's total greenhouse gas emissions. But as a consumer, it's difficult to measure the climate impact of what you eat.
+
+A Dublin-based startup called Evocco could soon make it much easier.
+
+"It lets you track, improve and offset the climate impact of your food purchases," co-founder Hugh Weldon tells CNN Business.
+
+Users simply photograph their grocery receipt using the Evocco app, which identifies the food products by reading the printed text and using machine learning. It then calculates the carbon footprint based on the store's location and by checking the type, weight and origin of a food against a database.
+
+Offsetting your groceries
+
+The database is maintained by Eaternity, a life cycle assessment company based in Switzerland. If the receipt doesn't contain enough data on a product, Eaternity gives an estimate based on similar products and reference points such as national import and export statistics, which determine where a product is likely to have come from.
+
+Evocco tracks the carbon footprint of grocery shopping.
+
+Currently only available in the United Kingdom and Ireland, the app gives users the option to offset their shopping by contributing to Go Carbon Neutral, an Irish not-for-profit initiative that plants native woodland.
+
+John Beckett, founder of Go Carbon Neutral, says people must take personal responsibility for the climate crisis. "Apps like Evocco make it easier for people to engage with the challenge and take positive, meaningful action," he says.
+
+As well as the immediate impact of offsetting groceries, Evocco hopes to raise public awareness of the carbon footprint of different foods.
+
+Some factors are well known — for instance, animal products are typically more resource intensive than most plant-based alternatives, and importing products increases their footprint — but the app also helps identify other important differences between items, such as seasonality or whether refrigeration was required on the journey to market. It also offers tips on how to reduce shopping emissions.
+
+Driving climate action
+
+Evocco was founded in 2017 by Weldon and Ahmad Mu'azzam, soon after they finished studying mechanical engineering at Trinity College Dublin. Available for free on iOS and Android devices, the app has been downloaded more than 1,000 times since its launch at the end of last year.
+
+Hugh Weldon and Ahmad Mu'azzam say there is growing demand from consumers to shop sustainably.
+
+"We saw the climate crisis as the greatest challenge of our time and so we decided to dedicate our professional careers to be an active part of this solution," says Mu'azzam.
+
+IBM IBM 2020 survey byfound that at least 57% of consumers would change their purchasing habits to reduce their impact on the environment. A separate survey from Boston Consulting Group found that 95% of consumers believed their personal actions could help to tackle climate change.
+
+"While personal carbon footprint tracing is still in the early stages ... there is definitely desire among consumers to be able to trace and authenticate the environmental claims of the products they buy," Karl Haller, global leader of the Consumer Center of Competency at IBM, tells CNN Business.
+
+Evocco is not the only app looking to reach this climate-conscious market. There's Capture , which estimates monthly CO2 emissions by asking users a series of questions on diet, transport and other factors, as well as Yayzy and My Carbon Action , which link to a user's bank account, calculating their footprint from transactions.
+
+As well as the personal shopping app — which Evocco hopes to launch in the United States by the end of this year — the company is developing a digital tool to sell to food retailers, e-commerce platforms and delivery apps that will track the climate impact of a product's journey through the supply chain.
+
+The aim is to help retailers provide climate impact information directly to consumers, while also giving Evocco access to product data to improve its app.
+
+"Our vision is to be the go-to digital tool for the food industry when it comes to supplying climate impact information and sustainable consumption insights," says Mu'azzam.

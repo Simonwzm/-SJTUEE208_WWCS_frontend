@@ -1,0 +1,57 @@
+(CNN Business) Over the past week, Ukraine's government has pressured major tech platforms to rethink how they operate with Russia, and it has been pretty successful. Social media companies have reduced the reach of Russian state-backed media outlets, for example, and Apple has stopped selling its products and limited some services in Russia.
+
+But now Ukraine is pushing for something even more dramatic and consequential.
+
+On Monday, Ukraine's government called for Russia to be disconnected from the global internet. It sent a letter to ICANN, the US-based international non-profit that oversees the global system of internet domain names and IP addresses, with a plea.
+
+"I'm sending you this letter on behalf of the people of Ukraine, asking you to address an urgent need to introduce strict sanctions against the Russian Federation in the field of DNS [Domain Name System] regulation, in response to its acts of aggression towards Ukraine and its citizens," wrote Andrii Nabok, who represents Ukraine on ICANN's Governmental Advisory Committee.
+
+Internet governance experts say Ukraine's request, if carried out, would effectively sever Russia from the internet, leaving Russian websites without a home. Email addresses would stop working and internet users wouldn't be able to log on. Russia would suddenly find itself on a digital island.
+
+But those same governance experts are skeptical that Ukraine's request will ultimately be fulfilled. For one thing, they say, it would set a dangerous precedent that could give authoritarian countries license to make similar demands. For another, it is not clear that ICANN could make such a decision even if many wanted it to. Besides, they added, cutting Russia off from the rest of the digital world might be giving the Kremlin exactly what it wants: a citizenry unable to access outside information.
+
+Governments such as China's have sought to wall off their own people from the outside digital world. But Ukraine's request is unprecedented, according to Vint Cerf, widely considered one of the fathers of the internet.
+
+"It is the first time in my memory that a government has asked ICANN to interfere with the normal operation" of the domain name system at such a scale, Cerf told CNN Business.
+
+"The internet operates in large measure because of substantial levels of trust among the many components of its ecosystem," Cerf added. "Acting on this request would have negative consequence in many dimensions."
+
+The letter was first reported by Rolling Stone . Angelina Lopez, an ICANN spokesperson, confirmed to CNN the letter had been received and that officials were reviewing it, but declined to comment.
+
+How it might work
+
+As part of his request, Nabok said the Russian internet country code .RU and its Cyrillic equivalents should be revoked. In addition, Nabok said he was sending a separate request to Europe and Central Asia's regional internet registry, asking it to take back all of the IP addresses it had assigned to Russia.
+
+internet users access "reliable information in alternative domain zones, preventing propaganda and disinformation." Nabok argued that the measures would be another way for the world to sanction Russia for its invasion of Ukraine, and that it would helpinternet users access "reliable information in alternative domain zones, preventing propaganda and disinformation."
+
+Internet governance experts say that while it's possible to imagine how Ukraine's proposal might work, executing it is another matter entirely. In theory, cutting off .RU from the global internet could be as simple as deleting a line of instructions from key "root" servers all around the world that currently tell web browsers where to go when they wish to access a Russian website, said Mitch Stoltz, a senior staff attorney at the digital rights group Electronic Frontier Foundation. Cerf said it is more complicated, in that the files the servers rely upon must still be blessed by ICANN's cryptographic signature or they will not work. ICANN has procedures in place to guard against such "arbitrary changes," Cerf said, "no matter how many demands were made to do it."
+
+Taking back Russian IP addresses, meanwhile, would be like removing the nail that keeps a painting attached to a wall, said Mallory Knodel, chief technology officer at the Center for Democracy and Technology, a US-based think tank. Just as the painting would no longer have a place on the wall to live, so would Russian websites disappear from the internet because they have no assigned place to sit.
+
+It would also mean that smartphones, computers and other connected devices in Russia would be unable to access the wider internet because they would no longer have assigned IP addresses that could identify those devices to a global network, Knodel said.
+
+It's possible that Russia may have enough of its own, local version of the internet replicated so that Russian internet users could connect among themselves for a time, but the experience would likely be severely degraded unless Russia had cached copies of the entire internet for people to access, Knodel said. Even then, the local Russian backup would not reflect future content that's constantly being added to the global internet.
+
+"In practice, it'll end up affecting everyone in Russia connecting to the internet, and it won't really have an effect on the really powerful systemic institutions like the military and the government," she said. "We for sure know that this would seriously disrupt access to the internet for people in Russia."
+
+An uphill battle for Ukraine, and unintended risks for Russians
+
+For Ukraine, getting ICANN to comply with its request is both a political problem and a technical one.
+
+ICANN — which stands for the Internet Corporation for Assigned Names and Numbers — is one of the many global institutions that help guide and oversee the internet's development. It runs largely on consensus, and its members include not just governments but also civil society groups and technical experts.
+
+For years, ICANN has carefully cultivated a role for itself as an apolitical administrator of internet functions. Due to its structure and decision-making process, there is no single actor at ICANN who can dictate outcomes. That setup mirrors the enormously complex ecosystem of companies and organizations that manage the internet's technical infrastructure.
+
+Ukraine faces a political uphill battle because of the number of groups it would need to persuade. There are about a dozen providers who operate the so-called "root servers" that would need to be updated to kick Russia off the internet, said Stoltz, and a controversial plan like Ukraine's is not going to produce a consensus among them at ICANN. Even if somehow ICANN representatives did resolve to implement Ukraine's plan, it would only take one or two to go rogue and the entire plan would fall apart.
+
+Ukraine also faces a technical struggle for some of the same reasons. The internet's distributed nature means it must rely on everyone agreeing.
+
+"On a technical level, there is no center to the internet," Stoltz said. "There is no command center. There is no button you can push to cause all of those things to happen."
+
+There is also the matter of international law, according to Runa Sandvik, a digital security researcher. "The United Nations has previously declared the internet to be a human right, and said that disconnecting people is a human rights violation and against international law," Sandvik tweeted
+
+Even if Ukraine got everybody on the same page, it would still be a risky idea, said Knodel. The plan, she said, would break some "really critical authentication and web security functions" that are currently baked into the internet. That could be detrimental to Russians who depend on those security features for their own safety, particularly dissidents.
+
+Russia and China have also been actively building their own localized versions of the internet that they can more easily control, Knodel said. Following through on Ukraine's plan just might hand Russia what it wants: a more pliable internet population that has no access to foreign information.
+
+"Russia's been trying for a long time to figure out how to disconnect from the larger internet, and one of the main things standing in its way from doing that is the global domain name system," said Knodel.

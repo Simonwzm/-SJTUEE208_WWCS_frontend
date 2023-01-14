@@ -1,0 +1,69 @@
+New York (CNN Business) Facebook has many pressing problems, from proposed antitrust legislation to accusations that the company is contributing to vaccine misinformation. But when CEO Mark Zuckerberg joined a recent conference call with analysts to discuss its latest quarterly results, much of the focus was on something far removed from those issues: the metaverse. During the hour-long call, the metaverse was mentioned nearly two dozen times.
+
+The metaverse was originally conceived as the setting for dystopian science fiction novels , where virtual universes provide an escape from crumbling societies. Now, the idea has transformed into a moonshot goal for Silicon Valley, and become a favorite talking point among startups, venture capitalists and tech giants.
+
+The idea is to create a space similar to the internet, but one that users (via digital avatars) can walk around inside of and where they can interact with one another in real time. In theory, you could, for example, sit around a virtual meeting table with colleagues from around the world — instead of staring at their 2D faces on Zoom — and then walk over to a virtual Starbucks to meet up with your mom, who lives across the country.
+
+Zuckerberg has in recent weeks been extolling his vision for turninginto a "metaverse company," claiming that he began thinking about the concept in middle school . The company recently announced the creation of a new metaverse product group and Zuckerberg said he sees the technology as "the successor to the mobile internet."
+
+CEO Satya Nadella said last week that his company is working on building the "enterprise metaverse." Epic Games announced a $1 billion funding round in April to support its metaverse ambitions, pushing the Fortnite maker's valuation to nearly $30 billion. And in June, venture capitalist Matthew Ball helped launch an exchange traded fund so people can invest in the metaverse space, including companies like graphics chipmakerand gaming platform
+
+Despite the current hype cycle, the idea is still amorphous, and a fully functioning metaverse is probably years and billions of dollars away — if it happens at all. Big companies joining the discussion now may simply want to reassure investors that they won't miss out on what could be the next big thing, or that their investments in VR , which has yet to gain broad commercial appeal , will eventually pay off. And, especially in Facebook's case, playing up the long-term potential for the metaverse could be a useful way of distracting from growing scrutiny in the here and now.
+
+Whatever the motivations, big questions remain, from how tech companies may handle safety and privacy issues in the metaverse to whether people really want to live much of their lives inside an immersive virtual simulation.
+
+"My biggest concern about the metaverse is: Are we ready?" said Avi Bar-Zeev, founder of AR and VR consultancy RealityPrime and a former employee at Apple, Amazon and Microsoft, where he worked on the HoloLens
+
+"Are we emotionally evolved enough yet to move beyond the safe division of having screens between us and typing words?" he said. "Are we safe to start interacting at a more person-to-person level, or are the a**holes still going to ruin it for everybody?"
+
+Facebook's investments in its Oculus VR headsets are a key part of its metaverse ambitions.
+
+What is the "metaverse"?
+
+The "metaverse" was coined in the 1992 cyberpunk novel "Snow Crash." In the book, main character Hiro Protagonist — a hacker and, for a short time, pizza deliverer — uses the metaverse as an escape from his life, in which he lives with a roommate in a 20-by-30-foot storage container in a bleak world where the government has been replaced by corrupt corporations.
+
+In that story, the metaverse is a platform for virtual creation, but it's also rife with problems, including technology addiction, discrimination, harassment and violence, which occasionally spill over into the real world.
+
+That's a far cry from the optimistic potential that Zuckerberg and others have presented. But one sign that the metaverse is still far off: No one can quite agree on a clear definition of what it is, or could be.
+
+Experts working in the space tend to agree on a few key aspects of the metaverse, including the idea that users will experience a sense of "embodiment" or "presence." That is, they'll feel like they're actually inside a virtual space with other people, seeing things in first-person and probably 3D. It will also be able to host many users who can interact with one another in real time.
+
+"You can kind of think about [the metaverse] as an embodied internet that you're inside of rather than just looking at," Zuckerberg said on the call.
+
+Much like the internet today, the metaverse won't be a single technology that gets switched on at once, but rather an ecosystem built over time by many different companies using a variety of technologies. Ideally, those various parts of the ecosystem will be interconnected and interoperable, said Jesse Alton, a leader at Open Metaverse, a group developing open source standards for the metaverse.
+
+"Someone who's playing a video game could win a flaming sword in their favorite game on Xbox, put it in their inventory, and later in VR, they can show it to their friend and their friend can hold it," said Alton, who is also the founder of extended reality firm AngellXR. "It's the ability to transport [information] from one world to another, regardless of which platform it's in."
+
+Some pieces of the metaverse already exist. Services like Fortnite , an online game in which users can compete, socialize and build virtual worlds with millions of other players, can give users an early sense of how it will work. And some people have already spent thousands of dollars on virtual homes, staking out their piece of metaverse real estate.
+
+Why is everyone suddenly talking about it?
+
+The metaverse is a relatively old idea that seems to gain momentum every few years , only to fade from the conversation in lieu of more immediate opportunities. Perhaps predictably, those working on this technology see signs that this time could be different.
+
+"A lot of the folks that were working on it before ... are still involved, it's just that we've been waiting for certain technological advancements," Alton said.
+
+1992: the internet will be like Snow Crash
+
+2021: the facebook will be like Snow Crash — jack⚡️ (@jack) July 29, 2021
+
+Improvements in mobile device processors, gaming systems, internet infrastructure virtual reality headsets and cryptocurrency are all crucial building blocks for creating the metaverse and ensuring consumer adoption.
+
+What's more, after the pandemic forced much of the world to work, learn and socialize from home, many people may feel more comfortable interacting virtually than they did two years ago, something tech companies may be trying to capitalize on.
+
+"[A change like] this is always a multi-decade, iterative process ... and yet, despite that fact, there is an unmistakable sense over the past few years that the foundational pieces are coming together in a way that feels very new and very different," Ball, the venture capitalist, said.
+
+Will the metaverse have the same problems as the internet?
+
+Proponents of the metaverse say there could eventually be huge business potential — a whole new platform on which to sell digital goods and services. It could also have benefits for how humans interact using technology.
+
+"What we're really doing is figuring out ways to add technology into our lives to make our lives better and to enhance our communication with other people," RealityPrime's Bar-Zeev said. "It's not just about conquering a whole new world."
+
+But there are also a host of concerns about how the metaverse could be used or exploited.
+
+Zuckerberg said last week that advertisements will likely be a key source of revenue in the metaverse, just as they are for the company today. But some in the space worry that an ad-based business model will create haves, who can afford to pay for an ad-free headset or metaverse experience, and have-nots who can't, replicating inequalities present in the real world.
+
+"I don't want to see a world in which we segregate people into those who can afford it get a better experience and those who can't afford it have this crappy experience of being exploited for advertising," Bar-Zeev said. He added that online harassment could become more intense when users can assault each others' virtual bodies, rather than just trading ugly words on a screen.
+
+Data privacy and security could also become greater concerns when "more of our lives, our data, our labor, our investments now exist in purely virtual form," Ball said. And other issues, such as misinformation and radicalization, could worsen in the metaverse, too.
+
+"If you can now replace somebody's entire reality with an alternate reality, you can make them believe almost anything," Bar-Zeev said. "The responsibility of everybody in the field is to prevent the bad things as much as possible and foster the good things."

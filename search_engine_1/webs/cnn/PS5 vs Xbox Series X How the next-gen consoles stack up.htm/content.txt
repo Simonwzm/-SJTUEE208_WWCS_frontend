@@ -1,0 +1,59 @@
+New York (CNN Business) This holiday season will see a showdown between new consoles from two of the biggest names in gaming: Sony and Microsoft .
+
+CNN Business took a look at how these two hotly anticipated releases compare, from the technical specifications of the consoles to their designs and business strategies. For more on what it's like to play on these consoles, we've reviewed the Series X here and the PS5 here . We also spoke to Xbox back in July about the next generation of consoles.
+
+Tech specs
+
+When it comes to the processor, the Xbox Series X is slightly more powerful than the PlayStation 5, though the difference doesn't have much impact on the gaming experience.
+
+The new Xbox's processor, or CPU, can go up to marginally faster clock speeds at 3.8 Gigahertz compared to the PS5's 3.5 Gigahertz.
+
+When it comes to the graphics, Microsoft appears to have the slight advantage -- at first.
+
+Graphics processing units, commonly known as GPUs, render game graphics. In general, the more processing power a console's GPU has, the better a game will look. Xbox has 1.7 more teraflops, units for measuring computing speed, on its GPU than PlayStation does.
+
+But before we write off Sony, it should be noted that the PlayStation has some differences in its GPU architecture that might translate into better graphic performance. How that will impact the visual experience won't be clear until we see how the graphics look on more games.
+
+The Xbox Series X wins out on internal storage. Xbox has one terabyte of internal storage compared to PlayStation's 825 GB. Any gamer will tell you that running out of storage on a console can be a hassle. But both console makers now have cloud gaming solutions — PlayStation Now and Project xCloud — and as more players rely on the cloud, storage will become less important.
+
+Sony does have one advantage. The PS5 can push through data at 5.5 GB per second, compared to the Xbox Series X, which works at 2.4GB per second. That could mean marginally faster load times, and less time spent on a loading screen.
+
+Both consoles are evenly matched elsewhere. They each have 16 GB of memory and support 4K resolution gaming at launch. And when it comes to the latest flashy technology, both Sony and Microsoft have worked to incorporate ray-tracing, a technology that makes light and shadow look better in-game, and offer 3D audio for more immersive sound.
+
+While both consoles will eventually offer an 8K resolution gaming setting, most people don't own an 8K compatible television and most developers don't currently optimize games for 8K resolution. Sony and Microsoft built these consoles with 8K support to prepare for the future.
+
+But the 8K TVs currently available are pricey, with a 55-inch Samsung model going for $2,499. Sony and Samsung have 98-inch 8Ks for $60,000.
+
+"When we designed the Xbox Series X... we designed it with the next seven to 10 years in mind," Jason Ronald, the director of program management for the Xbox Series X, told CNN Business. "So we've absolutely designed the system to be able to do 8K."
+
+Business strategy
+
+In the previous generation of consoles, Sony's PlayStation 4 has vastly outsold the Xbox One. Both were introduced in 2013, and PS4 consoles have sold 109 million units as of early 2020. Although sales of the Xbox One aren't disclosed, the company is estimated to have sold roughly 49 million units, according to Ampere Analysis. Nintendo releases consoles on its own schedule, but despite a shorter window, its Switch console surpassed Xbox One in lifetime sales, selling 53 million units by early 2020 even though it was released four years later.
+
+A lot of this boils down to content. Sony and Nintendo have compelling games that only can be played on their consoles, locking fans of these franchises into their ecosystems. Some Nintendo franchises, such as "Super Mario" and "Pokemon," rarely come to other platforms and if they do, it's typically mobile and not console versions of the games. Sony revs up fans every generation with a new set of PlayStation exclusives
+
+Many Xbox titles, however, are released simultaneously for Xbox and PlayStation, meaning Sony fans don't need to migrate outside their preferred gaming system to play them. And Xbox exclusives have never ranked among the top ten best-selling games on the platform in lifetime sales, according to the NPD Group.
+
+Ampere Analysis games research director Piers Harding-Rolls predicts Sony will out perform Microsoft again, selling 67 million consoles by the end of 2024, compared to an estimated 44 million for the Series X. His estimates are based on previous sales data and Sony and Microsoft marketing strategies.
+
+"Sony is focused on pushing exclusives for PS5 to sell hardware and is remaining more traditional in its approach," Harding-Rolls told CNN Business, "It is looking to expand its audience through PlayStation Now, but it is far less aggressive in its approach compared to Microsoft with Xbox Game Pass."
+
+Microsoft is focused on selling games as a service, in hopes that gamers will purchase a monthly subscription to its Xbox Game Pass, which offers access to hundreds of games and starts at $9.99 a month. Microsoft said that all the new games it presented in July will be available through the Game Pass.
+
+It's also promising that users won't need to upgrade to a next-generation console to as many new games will be compatible with the previous generation. And if players want to go mobile, Project xCloud supports that.
+
+Xbox is "not trying to force the player to upgrade to an individual device or to make things exclusive to this device or that device," Ronald, the Xbox Series X director, said. "I think it's what really differentiates us from the competition."
+
+Ronald estimates that Xbox pivoted to focus more closely on the gamer than on the device around the time Phil Spencer became head of the company in 2014, a year after the Xbox One was released.
+
+It's a vastly different approach than Sony's, which will market a new round of games, including the forthcoming "Spider-Man: Miles Morales," as exclusive to the PS5.
+
+Sony declined to comment for this article.
+
+Xbox has a strong value proposition in offering hundreds of games for a low rate per month with its Game Pass subscription — if it can convey that value to its audience.
+
+"Microsoft in general struggles with marketing entertainment products," said David Cole, an analyst at research firm DFC Intelligence. "They are much more comfortable marketing tech specs to an IT crowd that does really care about those things. Unfortunately, that is a small fraction of console buyers."
+
+Some consumers may simply wait to see if the new consoles are worth the upgrade. And the impact of the pandemic on many players' incomes could influence the decision.
+
+"There will be a lot of gamers happy to get by on their current consoles until they're forced to upgrade to play the newest release of a beloved series," said Laine Nooney, assistant professor and historian of video games at New York University.

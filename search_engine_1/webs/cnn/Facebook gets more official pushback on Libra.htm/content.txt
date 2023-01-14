@@ -1,0 +1,51 @@
+New York CNN Business —
+
+American lawmakers are concerned that Facebook’s Libra cryptocurrency may try to challenge the dollar and are demanding the company stand down.
+
+They want Facebook to immediately halt development of Libra until regulators have time to examine the plans and “take action,” according to a letter sent last week to the company by a group of lawmakers from the House Financial Services Committee.
+
+Chairwoman Maxine Waters, a Democrat from California, first suggested a moratorium on development the day Libra was announced. The new letter represents an escalation of pressure on Facebook’s digital currency plans, which have also been scrutinized by regulators around the world.
+
+The lawmakers said they want to hold public hearings on the “risks and benefits of cryptocurrency-based activities and explore legislative solutions.”
+
+Facebook responded to the lawmakers a day later. In that letter, which was obtained by CNN Business, a Facebook executive reiterated the company’s goals with Libra — an indication that the company does not plan to put the brakes on the project.
+
+“I want to give you my personal assurance that we are committed to taking the time to do this right,” wrote David Marcus, who heads up the Libra project for Facebook.
+
+Other interest groups have weighed in on Facebook’s new plans, too: More than 30 organizations sent a similar request to Facebook last week, saying US and foreign regulatory systems are not prepared to address questions about “national sovereignty, corporate power, consumer protection” and other issues raised by the project.
+
+“Failure to cease implementation before we can do so risks a new Swiss-based financial system that is too big to fail,” they added. While Facebook is developing Libra, the currency will be managed by an independent coalition of other companies and nonprofit organizations based in Geneva.
+
+The company announced in June plans to develop Libra, which it hopes will become a universally accepted, stable digital currency that can increase access to financial services around the world and make it easier and cheaper to send money online. Facebook and others will be able to build applications and plug-ins to existing platforms for users to obtain and manage Libra.
+
+But Facebook’s size and influence has given officials pause. Facebook has 2.4 billion users worldwide. That’s a massive audience that could soon adopt a type of currency that remains largely unregulated. Lawmakers also worry about Facebook’s troubled reputation on issues like user privacy and data security.
+
+Though Facebook published a white paper detailing its plans for Libra, lawmakers said it provided “scant information” about the “intent, roles, potential use and security” of the currency.
+
+“If products and services like these are left improperly regulated and without sufficient oversight, they could pose systemic risks that endanger the US and global financial stability,” the letter reads.
+
+The Senate banking and House financial services committees have scheduled hearings later this month to examine Libra’s implications for financial systems and user privacy. Marcus, the Facebook executive, will testify at the hearings.
+
+In a Facebook post published Wednesday, Marcus said Facebook intentionally announced plans for Libra early, to allow for better communication with lawmakers, regulators and other companies.
+
+In his letter to lawmakers, Marcus also touted what he portrayed as the potential benefits of Libra.
+
+“We understand that big ideas take time, that policymakers and others are raising important questions, and that we can’t do this alone,” Marcus said in the letter. “We want, and need, governments, central banks, regulators, non-profits, and other stakeholders at the table and value all of the feedback we have received.”
+
+Marcus said nothing in his letter about halting the development of Libra, as lawmakers had asked.
+
+“I welcome the opportunity to discuss this important initiative with you,” he added.
+
+In his Facebook post, Marcus said he thinks Libra could actually help counter money laundering and terrorism financing. Regulators have previously mentioned concerns about whether Libra could be used to finance illegal activities — a common concern with cryptocurrencies, since the underlying technology can provide a layer of anonymity for users. Facebook has said it developed a process to verify the identity of Libra users on its own platforms in order to mitigate those risks.
+
+Federal Reserve Chairman Jerome Powell said at a recent press conference that Facebook has been communicating with the Fed about its plans.
+
+Lawmakers who want to address Libra now face an uphill battle, said Columbia Business School professor and cryptocurrency expert R.A. Farrokhnia. He said they’ve been slow to react to the proliferation of cryptocurrencies, which have been around for about a decade.
+
+“The timelines for regulation have not kept in pace with the advancements in technology,” Farrokhnia said.
+
+Overseas, European leaders have raised concerns about Libra, too. Finance Minister Bruno Le Maire called on G7 central bank governors to compile demands related to Libra ahead of the group’s August meeting.
+
+And leaders at the G20 summit said that they are “closely monitoring” developments related to cryptocurrency and “remain vigilant to existing and emerging risks” — though they do not believe the technology is a threat to global financial security right now.
+
+Regulators in the United Kingdom, meanwhile, have proposed a ban on the sale of derivatives and exchange traded notes based on cryptocurrencies because of the risks to consumers. The announcement does not explicitly name Libra or any other cryptocurrency.

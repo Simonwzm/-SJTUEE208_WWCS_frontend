@@ -1,0 +1,27 @@
+Washington, DC CNN Business —
+
+A subsidiary of Google’s parent company has become the first drone-delivery company to receive a critical Federal Aviation Administration certification.
+
+Wing was granted an air carrier certification, which clears it to make commercial deliveries in the United States.
+
+The company said in a Medium post Tuesday that it’s aiming to launch a delivery trial later this year. A Wing spokeswoman declined to say how many people would be served by the trial, how many drones will be involved, or what kind of goods would be delivered.
+
+The drones can fly autonomously, but Wing will have certified pilots on the ground who can take control of the drones as a precaution.
+
+Wing, a part of Alphabet (GOOG) that began as a Google X project, said it has flown 70,000 test flights, and made more than 3,000 deliveries in Australia. Earlier this month, Wing announced it was delivering food and other items to a limited number of homes in the suburbs of Canberra, Australia’s capital.
+
+So far, drone delivery has been limited in the United States, with larger programs occurring overseas in countries such as Rwanda. Drone delivery advocates say it could lead to faster delivery times and smaller environmental impacts than other forms of delivery. In its tests in Australia, the average Wing delivery was completed in 7 minutes 36 seconds, according to a spokeswoman. Merchants spent about four minutes preparing the packages, and the drone flights were roughly three minutes.
+
+Flying drones in the US airspace is more complicated, as drones must safely navigate dense, complex environments that include airports, low-flying helicopters, and pedestrians below.
+
+Wing plans to launch a delivery trial later this year. Wing
+
+Wing’s trial will launch in parts of Virginia that generally aren’t densely populated, namely Blacksburg and Christiansburg. Wing previously trialed burrito delivery on Virginia Tech’s campus in Blacksburg.
+
+The new delivery service will be part of the US Department of Transportation’s drone pilot program, which was announced in October 2017. The three-year program designated areas, including Virginia, as places to test drones and spur developments. Participants have been given more leeway to experiment with innovations such as nighttime flights and flying over people.
+
+“This is an important step forward for the safe testing and integration of drones in our economy,” US Secretary of Transportation Elaine Chao said in a statement.
+
+Many hurdles remain to making drone delivery a common part of Americans’ lives.
+
+Drones will need to be identified remotely, so local law enforcement can determine if a nearby drone has a legitimate reason to be flying or could be problematic. Those regulations are currently being developed. Drones will also need to fly over people, at night, and to be connected to an unmanned air traffic management system, just as larger aircrafts are.

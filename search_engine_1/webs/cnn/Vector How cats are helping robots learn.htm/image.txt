@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/181217165706-02-cats-robots-ai.jpg?q=x_0,y_93,h_999,w_1776,c_crop/w_800

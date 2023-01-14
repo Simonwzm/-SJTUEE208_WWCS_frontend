@@ -1,0 +1,31 @@
+Washington CNN Business —
+
+Congressional investigators on Friday called on Amazon, Apple, Facebook and Google to produce a sweeping list of financial records and business documents, opening a new chapter in a “top-to-bottom” antitrust review of the tech industry.
+
+In letters to the tech giants, members of the House Judiciary Committee requested vast troves of evidence that could show whether the companies may have harmed consumers or competition.
+
+The requests cover everything from Amazon’s acquisition of Whole Foods to Google’s ranking of search results. Lawmakers also sought communications by top executives; records generated as part of past antitrust and merger investigations; and detailed information on the companies’ internal decision-making.
+
+“There is growing evidence that a handful of corporations have come to capture an outsized share of online commerce and communications,” said Rep. Jerry Nadler, a Democrat who chairs the committee. “It is effectively impossible to use the Internet without relying on these services, which now comprise the essential infrastructure for the twenty-first century. The documents requested will provide the Committee with a better understanding of the degree to which these intermediaries enjoy market power, how they are using that market power, whether they are using their dominance in ways that have harmed our economy or democracy, and how Congress should respond.”
+
+The letters are not a subpoena. But the responses could help shape the direction of future hearings or possible depositions, according to a Democratic aide, and the committee could still compel further testimony with mandatory requests.
+
+Spokespeople for Facebook, Amazon and Apple didn’t immediately respond to a request for comment. Google declined to comment on the committee’s document request, but referred CNN to a recent blog post by senior vice president Kent Walker saying the company has “always worked constructively with regulators and we will continue to do so.”
+
+The requests underscore the scope of the committee’s investigation into Big Tech, and reveal a plethora of practices the lawmakers may consider to be anticompetitive.
+
+Beyond headline-grabbing issues such as Google (GOOG)’s treatment of competitors in search and the Google (GOOG) Play Store, lawmakers requested documents that could show whether Google (GOOG) gives preferential treatment to online publishers that speed up article loading times using Google (GOOG)’s technology.
+
+The committee also asked for information surrounding an effort to encrypt browser requests to websites, a technology that can better shield a user’s browsing patterns from prying eyes. Lawmakers asked Google for internal deliberations about whether Android and Chrome will keep collecting and using that browsing data even if the setting is turned on.
+
+The committee sent a similarly detailed request to Facebook (FB), zeroing in on its relationship to Onavo, a data analysis firm that the social media giant bought in 2013. Critics say Onavo helped Facebook (FB) identify and eliminate potential rivals from the marketplace. Facebook (FB) is also being investigated over reports that the company has cut off some third-party apps from its data.
+
+Meanwhile, Amazon (AMZN) is receiving scrutiny over its relationship to book publishers, alleged counterfeiters and third-party sellers. The lawmakers also requested that Amazon (AMZN) turn over internal communications about the data it may share or withhold from third-party sellers, an issue that arose in a previous hearing.
+
+And the committee sought records from Apple (AAPL) that could reveal the decision-making behind the company’s App Store policies, including how Apple (AAPL) ranks search results on the platform, the removal of certain competing apps and how Apple (AAPL) determines the cut of revenue it takes from in-app purchases.
+
+The letters come after the House Judiciary Committee’s antitrust panel postponed a hearing on data and privacy that had been scheduled for Sept. 12. The hearing — which would have been the third in the committee’s investigation into Big Tech — has not yet been rescheduled.
+
+In a statement, antitrust subcommittee chairman Rep. David Cicilline called the requests an “important milestone.”
+
+“We expect stakeholders to use this opportunity to provide information to the Committee to ensure that the Internet is an engine for opportunity for everyone, not just a select few gatekeepers.”

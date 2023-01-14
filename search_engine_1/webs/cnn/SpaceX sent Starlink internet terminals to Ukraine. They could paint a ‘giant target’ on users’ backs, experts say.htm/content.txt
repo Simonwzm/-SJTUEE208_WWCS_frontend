@@ -1,0 +1,61 @@
+New York CNN Business —
+
+SpaceX CEO Elon Musk sent a truckload of Starlink antennas — which can be used to connect to the company’s satellite-based internet service — to Ukraine this week, responding to a plea from the country’s vice prime minister amid fears that Ukrainians could lose internet access if Russia continues its attacks on communication infrastructure.
+
+But using satellite services can be dangerous in wartime, as evidenced by a history of states using satellite signals to geolocate and target enemies, cybersecurity experts told CNN Business.
+
+“If an adversary has a specialized plane aloft, it can detect [a satellite] signal and home in on it,” Nicholas Weaver, a security researcher at the University of California at Berkeley, said via email. “It isn’t necessarily easy, but the Russians have a lot of practice on tracking various signal emitters in Syria and responding. Starlink may work for the moment, but anyone setting a [Starlink] dish up in Ukraine needs to consider it as a potential giant target.”
+
+In short: “It may be useful, but for safety’s sake you don’t want to set it (or really any distinctive emitter) up in Ukraine anywhere close to where you would not want a Russian bomb dropping,” Weaver said.
+
+Shortly after this story was originally published, Musk also weighed in on Twitter, saying “Important warning: Starlink is the only non-Russian communications system still working in some parts of Ukraine, so probability of being targeted is high. Please use with caution.”
+
+He went on to advise users in Ukraine to “turn on Starlink only when needed and place antenna away as far away from people as possible,” and to “place light camouflage over antenna to avoid visual detection.”
+
+It’s not clear how many Starlink terminals SpaceX sent to Ukraine, nor is it clear how the Ukrainian government plans to use or distribute them.
+
+SpaceX’s foray into aiding Ukraine began when the country’s vice prime minister, Mykhailo Fedorov, issued a public plea to Musk on Twitter last weekend, saying, “while you try to colonize Mars – Russia try to occupy Ukraine! While your rockets successfully land from space – Russian rockets attack Ukrainian civil people! We ask you to provide Ukraine with Starlink stations and to address sane Russians to stand.” It was one in a string of tweets Fedorov directed at various US-based tech figureheads, imploring them to take action on Ukraine’s behalf.
+
+Musk responded with offers to help, announced that the Starlink network was now activated in Ukraine, and, this week, a truckload of user terminals — which are required to give users access to the satellite-based internet service — arrived.
+
+Fedorov shared a picture online.
+
+And on Wednesday, he shared a photo of what appeared to be an active Starlink antenna at work.
+
+Fedorov then acknowledged that he’d seen the warning Musk posted on Twitter about the safety issues, writing to respond, “Sure…We are going to use them for Ukrainians also after our victory.”
+
+The majority of the country still has access to their normal, Earth-based internet connections, despite attacks on other communications infrastructure, such as a TV tower in the capitol of Kyiv, by Russian invaders, according to Alp Toker, who heads the internet monitoring firm NetBlocks.
+
+But certain areas have experienced outages, Toker said.
+
+“The heaviest disruptions are observed in the east, Melitopol, Mariupol, Kharkiv, and past the Luhansk and Donetsk regions toward Ukraine-controlled regions and Severodonetsk,” Toker said via email. “Kyiv has fared better, as has the west of the country.”
+
+Toker added that, in NetBlocks’ view, Starlink “isn’t going to get Ukraine back online in the event of a nation-scale blackout” — but the service can provide hotspots for crucial services, such as supporting journalists, resistance groups and public officials “fortunate enough to have access to the equipment.”
+
+But Toker also acknowledged using the service can be dangerous: “There is always risk associated with new technologies in warzones, where being found with unfamiliar equipment can single out journalists or activists for closer scrutiny. There’s also the specific risk of getting traced and triangulation via [radiofrequency] emissions when it comes to telecommunications equipment.”
+
+Those risks, Toker said, “need to be weighed up on a case-by-case basis.”
+
+John Scott-Railton — a senior researcher at the University of Toronto’s Citizen Lab who has spent a decade studying hacking and surveillance in conflict zones — took to Twitter over the weekend in an attempt to raise awareness about the possible risks. He praised SpaceX’s outreach, but warned that Starlink terminals can turn into the equivalent of painting a giant target on one’s back.
+
+“It’s great to see the tech sector engaging on the topic of Ukraine. This could not be a more powerful signal of global solidarity,” Scott-Railton told CNN Business. “But we have to be mindful of the risks. People in a conflict zones are limited by time and resources. And we want to make sure that they’re not given a false impression of the safety of the technology that we’re providing to them.”
+
+The risks have nothing to do with whether the communications are encrypted, Scott-Railton added, because devices don’t necessarily need to be eavesdropped on by the enemy — they just need to emit unique enough signals to be hunted for, and possibly located. He also noted that Starlink is still a very new technology, so it hasn’t necessarily been tested in war zones to identify and assess its risks.
+
+A US military spokesperson did not respond to a request for comment on the matter. The US military has been aware of the risks of using satellite technology in war zones. In 2003, during the Iraq war, for example, both sides banned satellite phones because of the security and intelligence risks.
+
+SpaceX did not respond to a request for comment about Starlink, nor has it responded to routine email inquires from reporters in years. Ukrainian officials and the country’s military did not immediately respond to requests for comment.
+
+Scott-Railton pointed out that using satellite technology in conflict zones has — time and again — been an underestimated risk. In 1996, for example, Russians reportedly used the signals emitted from a satellite phone to target and kill Chechen president Dzhokhar Dudayev. Russia has “decades of experience” executing such attacks, he said on Twitter. Scott-Railton has also researched the role that satellite technologies played in the Libyan revolution of 2011.
+
+It’s not always clear when an adversary has caught on to an enemy’s use of satellite technology, Scott-Railton added, until it’s too late.
+
+Josh Lospinoso, the CEO of Shift5, a US-based computer security startup, added in an email: “Bottom line, SpaceX’s Starlink terminal deployment to Ukraine could pose serious concerns for Ukrainian officials who use them…Russia could use this geolocation information for anything ranging from intelligence gathering and tracking to airstrikes.”
+
+Dmitry Rogozin, the head of Russian space agency Roscosmos, made clear that Russia is aware of Musk’s donation — and Rogozin sees it as a hostile act. In comments on Wednesday that were translated by CNN Business, Rogozin said SpaceX’s assertions that Starlink is for civilian use and meant to connect the world are “fairy tales.”
+
+“Muskophiles say this is amazing, it is the light of our worldwide cosmic exploration,” Rogozin said. “Well, [Musk] has taken a side. I don’t have issues with him. It’s obvious, it’s the West, which we should never trust because it has always chronically experienced jealousy, among the political elites, jealousy to our country. Look at how right now they are racing each other to defecate on our relationships, and who is going to clean the mess all up later? It is very dangerous what is happening right now.”
+
+Musk replied in a tweet.
+
+“Ukraine civilian Internet was experiencing strange outages – bad weather perhaps? – so SpaceX is helping fix it,” he wrote.

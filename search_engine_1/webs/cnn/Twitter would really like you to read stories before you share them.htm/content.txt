@@ -1,0 +1,13 @@
+CNN Business —
+
+If you’ve ever rushed to share an article before making it even this far into it, Twitter would like you to do better.
+
+The next time you try to share a link on Twitter (TWTR), you might get asked if you would like to open it first. That’s a new feature the social network plans to test with Android users, in the company’s latest move to combat the spread of misinformation on the platform.
+
+The pilot is designed to slow down the pace at which content goes viral, a phenomenon Twitter’s product lead, Kayvon Beykpour, said “can be powerful but sometimes dangerous.”
+
+The new feature, announced Wednesday, builds on other recent efforts from Twitter to crack down on harmful content and misinformation. In March, Twitter expanded its misinformation policies to prohibit statements that contradict official guidance from public health authorities addressing the coronavirus pandemic. In May, Twitter rolled out new warning labels for misleading claims. Later that month, it flagged two tweets by President Donald Trump and sought to provide more context on his claims about mail-in voting.
+
+There isn’t much public data to show how common no-click sharing may be among Twitter’s userbase; the company didn’t immediately respond to a request for comment. Some in the media industry report that Twitter has generally been a poor source of reader traffic, suggesting that users often don’t click through to read the articles they share.
+
+As with so many efforts by social media companies to improve their platforms, it could create new problems and uncertainties. For example, will asking users to read articles containing conspiratorial ideas lead them down a rabbit hole of misleading content and give questionable publishers free eyeballs? And could the system be gamed to drive higher click-throughs on sponsored content or spammy material?

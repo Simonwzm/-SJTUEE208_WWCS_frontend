@@ -1,0 +1,39 @@
+Hong Kong CNN Business —
+
+One of the world’s top chip making companies is bringing more manufacturing power to the United States.
+
+Taiwan Semiconductor Manufacturing Co., or TSMC, announced on Friday that it plans to build a $12 billion semiconductor factory in Arizona, with construction to start next year. TSMC said the factory will create more than 1,600 high-tech jobs. It is expected to begin production in 2024.
+
+The deal is a big win for the Trump administration, which has long been sounding the alarm on the semiconductor industry’s reliance on producers and chip manufacturing done in Asia, calling the dependence a threat to national security.
+
+The TSMC deal “bolsters US national security at a time when China is trying to dominate cutting-edge tech and control critical industries,” Secretary of State Mike Pompeo tweeted.
+
+To shift production onto home soil, US officials have been working with leading chipmakers like TSMC to expand semiconductor manufacturing capability in the United States. TSMC on Friday said it “welcomes continued strong partnership” with the US government and the state of Arizona on the project.
+
+TSMC is the world’s third largest chip maker, after Intel (INTC) and South Korea’s Samsung (SSNLF), according IC Insights, a semiconductor research company. The Taiwanese company produces advanced semiconductors for many of the world’s leading tech companies, such as Apple (AAPL), Huawei, Qualcomm (QCOM) and Nvidia (NVDA).
+
+The bulk of TSMC’s chip manufacturing is done at its headquarters in Hsinchu, about 50 miles south from Taipei. It currently operates a factory in Washington, and design centers in Texas and California. The Arizona facility would be TSMC’s second manufacturing site in the United States.
+
+Luring chip makers stateside also marks an escalation of tensions between the United States and China, as they battle over technological dominance.
+
+The United States has over the years delivered sharp blows to China’s lofty tech ambitions.
+
+In March, Reuters reported that the Trump administration agreed to new restrictions on telecommunications and smartphone maker Huawei. These would be on top of a ban imposed on Huawei last year, which bars American companies from selling technology and parts to the Chinese company.
+
+Huawei did not immediately respond to a request for comment. The US Department of Commerce did not respond to a request for comment after business hours there.
+
+The restrictions detailed in the Reuters report would be aimed at Huawei’s global supply of chips. The rules would require foreign firms — such as TSMC — that use US chip equipment to apply for a license before selling to Huawei.
+
+Analysts at Crispidea Research said in a note this week that TSMC is expected to lose Huawei’s business because of the US restrictions.
+
+Huawei has been “quickly moving its orders” from TSMC to Shanghai-based chip maker SMIC to power one of its flagship smartphones, according to Jefferies analysts.
+
+Long considered a key industrial sector, US semiconductor manufacturing capacity has been stagnant in recent years relative to other countries, experts say, prompting fears the United States could fall behind.
+
+Currently, the United States comprises about 13% of the world’s total semiconductor manufacturing capacity, about the same share it held in 2015, according to Martin Chorzempa, a research fellow at the Peterson Institute for International Economics. China, meanwhile, made up about 8% of worldwide capacity in 2015 and today comprises around 12%.
+
+Building up more domestic semiconductor manufacturing could help the United States stay ahead of China and other leading countries.
+
+But China’s homegrown chip makers are climbing the ranks. According to IC Insights, Huawei-backed HiSilicon became the first Chinese company to break into the world’s top 10 chip suppliers by sales this year.
+
+– Clare Duffy contributed to this report.

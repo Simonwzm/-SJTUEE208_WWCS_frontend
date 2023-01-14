@@ -1,0 +1,13 @@
+(CNN Business) Clearview AI, the controversial firm behind facial-recognition software used by law enforcement, is being sued in California by two immigrants' rights groups to stop the company's surveillance technology from proliferating in the state.
+
+The complaint, which was filed Tuesday in California Superior Court in Alameda County, alleges Clearview AI's software is still used by state and federal law enforcement to identify individuals even though several California cities have banned government use of facial recognition technology.
+
+The lawsuit was filed by Mijente, NorCal Resist, and four individuals who identify as political activists. The suit alleges Clearview AI's database of images violates the privacy rights of people in California broadly and that the company's "mass surveillance technology disproportionately harms immigrants and communities of color."
+
+Sejal Zota, a lawyer for the parties who brought the suit and the legal director at Just Futures Law, told CNN Business that the parties that brought the suit seek an injunction to prevent Clearview AI from being used in California, along with the deletion of face scans of Californians that the company has collected.
+
+Hoan Ton-That, the chief executive of Clearview AI, uses the Clearview smart phone application in New York on Jan. 10, 2020.
+
+Founded in 2017, Clearview AI compiles billions of photos into a database for its software, which can use these images to identify individual people. The company has claimed to have scraped over 3 billion photos from the internet, including photos from popular social media platforms like Facebook, Instagram, Twitter and YouTube. Major tech companies have sent the company cease-and-desist notices in the past, arguing its photo snagging practices violate their terms of service.
+
+Read More

@@ -1,0 +1,11 @@
+(CNN) Twitter said it applied contextual labels to approximately 300,000 tweets for content that was disputed or potentially misleading during a two-week period covering the election. The figure comes as part of a wider post-mortem assessment of the company's handling of political misinformation before and after Election Day.
+
+Twitter has witnessed a wave of misinformation as users including President Donald Trump — who has nearly 89 million followers — and his allies have spread false and misleading claims about the election and its outcome. As of the morning of Nov. 7 , 16 out of 43 of Trump's post-election tweets had been labeled.
+
+Twitter TWTR In addition to the labeling,said more than 450 of all the labeled tweets were also covered up by a warning message and were subject to sharing restrictions that limited how they could be retweeted. Roughly three out of four people who viewed those tweets did so after the labeling was applied, Twitter said in a blog post. The analysis focused on tweets about the US election from Oct. 27 to Nov. 11.
+
+"We also want to be very clear that we do not see our job as done — our work here continues and our teams are learning and improving how we address these challenges," wrote Vijaya Gadde and Kayvon Beykpour, who respectively lead Twitter's legal and product teams. "We'll be sharing a comprehensive report on the election early next year."
+
+The disclosure comes as Twitter rolls back certain preemptive policies that it put in place ahead of Election Day. Twitter said it found that removing recommendations to users for who they ought to follow had little meaningful impact on misinformation during the election, and the company will undo that change on Thursday.
+
+Read More

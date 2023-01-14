@@ -1,0 +1,57 @@
+San Francisco (CNN Business) There's a cloud hanging over Apple's big annual developer event this week: many app developers aren't very happy with the company right now.
+
+For more than a decade,app developers have subjected themselves to stringent payment restrictions, rigorous app approval processes and hefty 30% commissions on in-app transactions, all with the promise of reaching a large and growing audience of iPhone and iPad owners.
+
+But Apple's latest Worldwide Developer Conference, which mainly focuses on software updates, kicked off Monday after months of tensions — and a high-profile trial — over the restrictions its App Store forces developers to adhere to. Antitrust regulators and lawmakers in several countries including the United States are now examining how the company runs the App Store. And app makers are speaking out, too.
+
+On Monday, minutes before WWDC kicked off,CEO Mark Zuckerberg, who has sparred with Apple frequently, announced that the social network would not take a cut from content creators on its platform for at least the next 18 months. In the process, he took a swipe at Apple.
+
+"To help more creators make a living on our platforms, we're going to keep paid online events, fan subscriptions, badges, and our upcoming independent news products free for creators until 2023," Zuckerberg said in a Facebook post . "And when we do introduce a revenue share, it will be less than the 30% that Apple and others take."
+
+Zuckerberg also said Facebook will launch a "payout interface" to help creators see how much money they're losing to fees from companies such as Apple and Google.
+
+Days earlier, Marco Arment, a prominent Apple developer behind the podcast app Overcast and the founder of online bookmarking service Instapaper, slammed the company's leadership in a blog post for trying to extract money from developers even as Apple earns enormous profits from its hardware sales.
+
+"But to bully and gaslight developers into thinking that we need to be kissing Apple's feet for permitting us to add billions of dollars of value to their platform is not only greedy, stingy, and morally reprehensible, but deeply insulting," he said.
+
+The criticisms hit at the underlying power dynamic between Apple and its developer community: developers depend on Apple to reach users but Apple depends on developers to build apps that help attract users.
+
+As Arment put it: "Without our apps, the iPhone has little value to most of its customers today."
+
+Rising tension
+
+The commissions Apple charges developers offering in-app purchases have long been controversial and under scrutiny, but those tensions came to a head recently when Epic Games, the maker of the popular video game Fortnite, faced off against Apple in federal court.
+
+Epic accuses Apple of exercising monopolistic control over its "walled garden" iOS operating system, alleging that app makers are forced into onerous restrictions if they want access to hundreds of millions of iPhone and iPad users. Apple argues there are several other places users can buy apps and that its commission helps the company make its devices better and more secure. A verdict in the trial, which concluded on May 24 , is expected in the coming months.
+
+Epic's lawsuit brought to the fore many of the issues developers have with Apple, and those tensions are still simmering in the backdrop of this week's WWDC.
+
+David Baszucki, the CEO of Roblox , another game platform that was mentioned multiple times during the Apple-Epic trial, expressed support for lowering app commissions in an interview with Axios published on the eve of WWDC.
+
+"It's fair to say we want to give as much money back to developers," Baszucki said, noting his company has "great relationships" with Apple and other app store operators. "If those store fees were to change, a majority of that we would give back to the creator community."
+
+A mockup of Facebook's new payout interface, in which it estimates how much Apple's and Google's fees cost developers.
+
+Apple did not immediately respond to a request for comment, but the company touted its support for developers several times during the Epic trial — including the $50 million it said it spends to put on WWDC.
+
+"We turn the place upside down for developers," CEO Tim Cook said on the stand . But he also acknowledged that Apple makes decisions "in the best interests of the user" and "sometimes there's a conflict between what the developer may want and what the user may want."
+
+As it unveiled new software features for users and developers on Monday, Apple reminded them of the benefits of its ecosystem. The App Store now has 600 million weekly visitors from 175 countries and regions, the company said, adding that it has paid more than $230 billion to developers since the App Store launched in 2008.
+
+In what is perceived as a possible reaction to accusations that its iOS ecosystem is closed and restrictive, Apple announced it will make one of its popular products, video calling service FaceTime, accessible to users of rival platforms Android and Windows.
+
+"Apple at WWDC is walking a tightrope around convincing software developers to double down on its platform while... collecting its 30% fee," Dan Ives, an analyst at Wedbush, told CNN Business.
+
+A showdown over privacy?
+
+Even as Apple courts developers at this week's event, it's also doubling down on privacy protections with the potential to aggravate some developers and companies.
+
+During the keynote Monday, Apple announced several new controls for users. Those include "mail privacy protection," which gives users the ability to hide their IP addresses and location from companies, and "hide my email," which generates a random email address to sign up for new websites so companies don't have users' real email addresses. Another feature, called "app privacy report," shows users each time an app accesses their phone's location, contacts, camera or microphone as well as all the third-party websites that app is sharing their data with.
+
+Apple previously rolled out an App Tracking Transparency feature which requires iPhone apps to ask users for permission to track their behavior and sell their personal data. Facebook, which makes almost all of its revenue from advertising, warned investors in August that Apple's software changes could hurt its business and has been particularly outspoken against it.
+
+The latest privacy changes will likely "cause further consternation among those companies' dependent on user data for tracking, advertising and monetisation," CCS Insight Chief Analyst Ben Wood said in an email after Monday's keynote.
+
+But Apple is sticking to its guns, and betting that superior privacy and security features make its devices worth paying for, developing for and paying commissions on.
+
+"We don't think you should have to make a tradeoff between great features and privacy," Craig Federighi, Apple's senior vice president of software engineering, said during the keynote. "We believe you deserve both."

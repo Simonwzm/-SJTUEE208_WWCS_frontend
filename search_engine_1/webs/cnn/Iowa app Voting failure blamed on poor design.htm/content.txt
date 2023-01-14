@@ -1,0 +1,33 @@
+New York CNN Business —
+
+A badly designed app is causing chaos in Iowa. That shouldn’t shock anyone.
+
+If you think everyone who designs software is a genius, remember that software developers created Healthcare.gov, Windows 8 and iCloud. And they redesigned Snapchat. User interfaces are tricky, and they too often take intuition for granted. Bugs happen. And developers are human, eager to rush their products out the door – often before they’ve been adequately tested.
+
+That appears to be what happened at Iowa’s caucuses Monday night. Precinct chairs were supposed to enter primary election results into a new election app, but many had trouble getting the app to work. That held up the tabulation of results, and just about every voter, candidate and campaign staffer in Iowa went home disappointed, confused and anxious.
+
+App design is hard. It needs to translate abstract concepts into intuitive gestures and taps. You can only display so much on a smartphone screen. Placing additional features and settings off screen where they can be easily found is a tricky business. Developers also need to rigorously test their apps to ensure they’ve squashed bugs that can crop up in thousands of lines of code.
+
+But a well-designed app is only part of the challenge app makers face. They need to ensure the servers and systems supporting the app are robust, particularly during high-traffic hours of the day – like when thousands of people are entering election results at the same time.
+
+All of this is hard work, even for America’s deepest-pocketed tech companies. Amazon’s app crashed on Black Friday in 2018. Windows, MacOS and Android fall victim to some alarming bug seemingly every other month. Apple (AAPL) has spent eight years trying to fix Maps.
+
+The problem with Iowa’s app was foreshadowed during a test in the days before the caucuses, in which precinct managers said they were having trouble using the app, according to Polk County Democratic Chairman Sean Bagniewski. So last Thursday, Bagniewski told people who couldn’t get the app to work to call in their results to the Iowa Democratic Party as a backup.
+
+Bagniewski suggested that the app may have been rushed out the door.
+
+“When you have 1,700 precincts in one state, it should be a couple-month-long process of training folks, testing out the app, making sure it is downloaded, and that wasn’t happening here,” Bagniewski said.
+
+An app to record Iowa’s complex caucus results isn’t an inherently bad idea. But it should have been tested more rigorously, particularly when it’s responsible for something as important as choosing the next president of the United States.
+
+The disastrous rollout of Healthcare.gov should have served as a warning to the folks making Iowa’s caucus app. President Obama’s signature healthcare initiative went “live” with online open enrollment in October 2013. The Healthcare.gov website was supposed to handle tens of thousands of people at once, but in a trial run days before its launch, just a few hundred enrollees crashed the site. It launched anyway and became a laughingstock when people were unable to enroll in Obamacare.
+
+Bad launches aren’t exclusive to government software.
+
+Microsoft (MSFT) seems to have an every-other-release problem with Windows, in which painful bugs and poorly conceived features wreck the world’s most popular PC operating system. Remember Windows 95, Me, Vista and 8? With Windows 8, Microsoft (MSFT) hid the desktop in a sea of floating tiles, confusing just about everyone who was brave enough to try it.
+
+Snapchat (SNAP)’s redesign failure in 2017 could soon be taught as a cautionary tale in business school. The goal was to make the app easier to use, but it achieved the exact opposite. The new Snapchat (SNAP) mixed stories with direct messages and separated publishers from friends. Snapchat (SNAP) said it lost millions of customers because of the change.
+
+And does anyone really know how to use iCloud? If so, my email is linked to my name at the top of this article, and I’m eager to learn.
+
+– CNN’s Eric Bradner and Dan Merica contributed to this report

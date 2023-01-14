@@ -1,0 +1,13 @@
+(CNN Business) Apple is directing users of most of its devices to update their software after the company discovered a vulnerability in its operating systems that it says "may have been actively exploited."
+
+In security updates posted online on Wednesday and Thursday, Apple said the vulnerability affects iPhones dating back to the 6S model, iPad 5th generation and later, iPad Air 2 and later, iPad mini 4 and later, all iPad Pro models and the 7th generation iPod touch.
+
+Apple AAPL said the vulnerabilities give hackers the ability to take control of a device's operating system to "execute arbitrary code" and potentially infiltrate devices through "maliciously crafted web content."
+
+JUST WATCHED Here's what Apple's emergency security warning means for you Replay More Videos ... MUST WATCH Here's what Apple's emergency security warning means for you 01:57
+
+The vulnerability also extends to Mac computers running the company's Monterey OS as well as Apple's Safari browser on its Big Sur and Catalina operating systems, the company said in a subsequent update.
+
+Cybersecurity experts urged Apple users to update their devices , with the US government's Cybersecurity and Infrastructure Security Agency warning that "an attacker could exploit one of these vulnerabilities to take control of an affected device."
+
+Read More

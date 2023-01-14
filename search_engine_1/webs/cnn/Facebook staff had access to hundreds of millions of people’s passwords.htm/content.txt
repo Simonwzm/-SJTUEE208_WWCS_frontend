@@ -1,0 +1,31 @@
+New York CNN Business —
+
+Facebook is back with another mea culpa.
+
+This time, the company acknowledges that it mishandled sensitive passwords for hundreds of millions of its users, primarily those who use its Facebook Lite product. The disclosure casts doubt on the company’s abilities to protect its users’ information as it focuses more on privacy.
+
+On Thursday, Facebook (FB) said it didn’t properly mask the passwords of hundreds of millions of its users and stored them as plain text in an internal database that could be accessed by its staff.
+
+The company said it discovered the exposed passwords during a security review in January and launched an investigation. Facebook did not say how long it had been storing passwords in this way.
+
+Facebook shared information about the security incident publicly soon after it was first reported by Krebs on Security.
+
+“To be clear, these passwords were never visible to anyone outside of Facebook and we have found no evidence to date that anyone internally abused or improperly accessed them,” Pedro Canahuati, a Facebook vice president wrote on Thursday in a post titled, “Keeping Passwords Secure.”
+
+He added that Facebook typically “masks people’s passwords when they create an account so that no one at the company can see them.”
+
+A Facebook spokesperson told CNN Business the password issue primarily but not exclusively affected systems associated with Facebook Lite. Hundreds of millions of users of Facebook Lite had been impacted, while tens of millions of regular Facebook users and tends of thousands of Instagram users were affected, the company said. Facebook Lite — a simplified version of Facebook designed to work on slower internet connections — is popular among people in parts of the world with less connectivity.
+
+Facebook said it will be notifying affected users.
+
+Keeping passwords hashed, or encrypted, is widely regarded as fundamental to cybersecurity.
+
+“Encrypting passwords is Security 101,” said Marcus Carey, the CEO Threatcare, an Austin cybersecurity company. “If they can’t get the basic principles of cybersecurity right, they are surely failing on the tougher challenges.”
+
+In Europe, Facebook is headquartered in Ireland, where it is regulated by the Irish Data Protection Commission. A commission spokesperson told CNN Business that Facebook had informed it of the issue and that it was awaiting further information. The commission currently has several investigations into Facebook’s compliance with European data laws ongoing; the company could face fines upwards of $1 billion as a result of those investigations.
+
+The news comes days after the one year anniversary of the Cambridge Analytica scandal in which it was revealed that Facebook shared the personal data of as many as 87 million users with a political data firm. It’s since been a year of near constant issues for Facebook, including reported criminal investigations, a possible record fine from the FTC, the departure of numerous high-ranking executives, regulatory scrutiny in the US and Europe, and a lengthy outage just last week.
+
+The company has faced a number of cybersecurity problems, too. In September, an attack on Facebook exposed the private profile information for nearly 50 million of the social network’s users. In addition, Facebook announced in December it exposed the private photos as many as 6.8 million users without their permission.
+
+Earlier this month, the company said it was pivoting to a privacy-focused model by adding end-to-end encryption to its various messaging services.

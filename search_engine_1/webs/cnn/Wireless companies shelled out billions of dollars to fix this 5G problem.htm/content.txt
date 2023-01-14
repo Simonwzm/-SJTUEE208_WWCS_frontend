@@ -1,0 +1,53 @@
+New York (CNN Business) Excitement around 5G, and its promise of lightning fast download speeds and huge data capacity, has ratcheted up since the first 5G-enabled iPhone was released last fall. But the actual experience of 5G doesn't always live up to the hype — not yet, at least.
+
+This is partly because there's been a lack of available infrastructure (called "spectrum") needed to build fifth generation wireless networks that are both noticeably faster than 4G and widely accessible across broad geographic areas. That changed with the completion of the Federal Communications Commission's latest spectrum auction last month, where carriers shelled out a collective $81 billion to get their hands on the crucial resource.
+
+"Spectrum is the lifeblood of the network," said Craig Moffett, founding partner and analyst at MoffettNathanson. "Part of the reason we don't have the 5G network that everybody has been waiting for is we didn't have the right spectrum for it."
+
+To accommodate the huge level of traffic high-speed 5G networks will transmit, wireless companies need to build highways for that data to travel on. Spectrum is like the real estate the US government auctions off for carriers to build those highways — the better the property, the more lanes they can build, and the faster and more accessible their 5G networks.
+
+Last week,andheld events to update investors and analysts on the auction results, and laid out plans for expanding their networks. (CNN parent company WarnerMedia is owned by AT&T.)
+
+"This is a great day for Verizon — I would go so far as to say it's one of the most significant days in our 20-year history," CEO and Chairman Hans Vestberg said at the start of Verizon's event.
+
+There is "no question" the carriers' new spectrum holdings will improve consumers' experience of using 5G, Moffett said. But the carriers largely expect it will take several years to put the new spectrum to use.
+
+This spectrum auction was crucial
+
+This spectrum auction helps the carriers, especially AT&T and Verizon, fill a key gap in their 5G networks.
+
+Three categories of spectrum are used to build 5G networks. High-band, or "millimeter wave," networks provide blindingly fast speeds but limited geographic coverage. For that reason, it only makes sense for carriers to build high-band networks in densely populated areas like cities and airports, where many cell sites can be installed close to each other."
+
+Low-band spectrum provides much broader coverage, making it effective for use in nationwide 5G networks, but data speeds are only marginally faster than on 4G LTE.
+
+Mid-band is the "Goldilocks" spectrum that balances speed and coverage, which has largely been lacking in US 5G networks until now. Carriers bid on mid-band spectrum in the latest auction, and it didn't come cheap.
+
+Verizon spent $52.9 billion to more than double its mid-band spectrum holdings. The company plans to allocate $10 billion more in capital expenditures over the next three years, on top of its existing spending plans, to put the new spectrum to use.
+
+AT&T bid $27.4 billion to bolster its mid-band holdings, and expects to spend between $6 billion and $8 billion in additional capital from 2022 to 2024 on the mid-band network buildout.
+
+T-Mobile had an advantage coming into the auction: a significant amount of mid-band spectrum already in its portfolio, thanks to its $26 billion acquisition of Sprint last year . As a result, T-Mobile spent just $9.3 billion to fill select gaps in its network.
+
+Its existing mid-band spectrum puts T-Mobile ahead of rivals, analysts say. While Verizon and AT&T can't start building on their new spectrum holdings until later this year, T-Mobile already has a mid-band network up and running.
+
+"T-Mobile won," Moffett said of the FCC auction. "Their mid-band spectrum position was far better than either Verizon or AT&T's going in ... and they didn't have to spend anything like the same kind of money in order to keep that position."
+
+T-Mobile expects to cover 200 million people with high-speed 5G by the end of this year. Verizon says it will cover more than 175 million people over 2022 and 2023, reaching a total of more than 250 million people by 2024. And AT&T expects to cover around 100 million people by mid-2023. (Each carrier reaches many more consumers via their broader, though somewhat slower, low-band 5G networks.)
+
+"We wanted to go into and come out of the auction with everything, we need to be the leader in the 5g era for the duration of the 5g era," T-Mobile President and CEO Mike Sievert told CNN Business. "That's exactly what we accomplished."
+
+However, unlike T-Mobile, Verizon and AT&T have fiber infrastructure that could help them compete with T-Mobile's strong spectrum portfolio.
+
+AT&T's strategy, for example, is to serve broadband needs "in a hybrid fashion, with fiber being deployed to homes, to houses to hospitals to small businesses," AT&T Communications CEO Jeff McElfresh said in an interview. "We are balanced in our investments in spectrum and in fiber."
+
+A return on the 5G investment
+
+It's one thing to build 5G networks. But generating additional revenue from them will probably take more work.
+
+Stealing individual wireless customers from other carriers by offering a high-quality 5G network is one way to increase sales. But experts say creating additional services on top of the new technology, especially for businesses, will likely produce the greatest return carriers' on 5G investments.
+
+The mid-band auction accelerates the ability to develop some of those new services and business models, Tami Erwin, executive vice president and group CEO of Verizon Business, told CNN Business, calling the company's new holdings "spectrum for the next generation."
+
+"It's really powerful for us to be able to unlock some of these use cases — think about autonomous driving," Erwin said.
+
+"In the end, it's going to be who really executes on the network build and on making this a more compelling experience," Gartner analyst Bill Menezes said.

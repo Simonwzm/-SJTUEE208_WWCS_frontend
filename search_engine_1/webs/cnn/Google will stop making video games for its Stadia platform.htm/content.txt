@@ -1,0 +1,31 @@
+(CNN Business) Google will stop making video games, less than two years after launching its highly publicized Stadia gaming platform .
+
+The company is shutting down Stadia Games and Entertainment (SG&E), its internal game development service, Phil Harrison, Stadia's vice president and GM, announced in a blog post Monday.
+
+"Creating best-in-class games from the ground up takes many years and significant investment, and the cost is going up exponentially," Harrison said. He added that the focus will now be on working with external developers to make their games available on Stadia.
+
+"Over the coming months, most of the SG&E team will be moving on to new roles," he said.
+
+Jade Raymond, the executive in charge of SG&E who previously worked atand, will leaveto "pursue other opportunities," Harrison added.
+
+Games released by the unit in collaboration with Google's partners include "Gylt", "Outcasters" and "Submerged: Hidden Depths." Stadia had also created studios to develop games in-house that will now be shut down. Google did not comment on how many employees will be impacted by the closure.
+
+Amazon AMZN Apple AAPL Facebook FB Google is one of several Big Tech firms that has made an aggressive push into gaming in recent years, along withand
+
+But developing games from scratch appears to be too heavy a lift (with not enough return) for even these companies with virtually unlimited resources.
+
+"Big Tech sucks at gaming, it's just not in their DNA," said Joost van Dreunen, a lecturer at the NYU Stern School of Business and author of the book "One Up: Creativity, Competition, and the Global Business of Video Games."
+
+"Google just hasn't found the proof points in the last 18 months that would justify continuing down this very expensive track," he added. "It makes no sense for them to chase a losing hand."
+
+Netflix NFLX Stadia, Google's cloud gaming service, launched in November 2019, with some likening it to theof video games. Users can stream and play games via smartphones, web browsers or wirelessly through a Chromecast device.
+
+For existing Stadia users, the company says very little will change.
+
+"You can continue playing all your games on Stadia and Stadia Pro, and we'll continue to bring new titles from third parties to the platform," Harrison wrote. "We're committed to the future of cloud gaming, and will continue to do our part to drive this industry forward."
+
+While Stadia still has a future as a cloud gaming service, van Dreunen says Google's success will depend on the number of popular third-party games it manages to get onto its platform.
+
+"I don't think they're going to be a huge competitive offering compared to the more conventional consoles, I think it's going to be more buffet style," he said. "But you have to wonder, without marquee titles in your catalog, what's the identity of a Google Stadia?"
+
+-- CNN Business' Shannon Liao contributed to this report.

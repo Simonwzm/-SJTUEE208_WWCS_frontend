@@ -1,0 +1,85 @@
+(CNN) Well before Citizen, a controversial real-time crime alerting app, raised eyebrows by testing a company-branded patrol car on the streets of Los Angeles, the startup's CEO teased an even more striking idea for a private security force: helicopters.
+
+Citizen founder and CEO Andrew Frame frequently threw out the concept during internal meetings of a helicopter or hover craft one day extracting a Citizen user from a dangerous situation, according to two former employees who heard Frame say this but said they didn't think the idea was a serious one.
+
+One of the former employees, who worked on research and development and said they'd heard Frame say this at a town hall event, told CNN Business the concept felt "abstract," chalking it up to a CEO with a "head in the clouds vision of the future."
+
+"We'd joke, 'That's just Andrew being Andrew,'" said the second former employee, noting Frame was "obsessed with the idea of being a bad-ass safety service."
+
+"He wanted flashy stuff," the second employee said.
+
+In a statement to CNN Business regarding the helicopter concept, a Citizen spokesperson said: "Our mission is safety. Anything regarding physical world safety is possible."
+
+Headlines in recent weeks have caused some former employees to think differently about the seemingly far-fetched idea, and more broadly the company they once worked for.
+
+First, Citizen offered a $30,000 bounty for information leading to the arrest of an alleged arson suspect -- the first time the company has ponied up reward money in its pursuit of safety -- but the person was not responsible for the fire. Citizen said it identified the person by mistake using an on-the-ground tip from an LAPD Sergeant rather than official confirmation ahead of sharing information about the person through its new live broadcasting feature called OnAir and that it is "working to improve our internal processes."
+
+Then, Vice reported that the company was working with a third-party private security company to trial a "personal rapid response service" which, as the spokesperson previously explained to CNN Business, could be called to escort a person if they were fearful of their safety. It raised questions about the potential uses and pitfalls of privatized security. (While the company spokesperson said the trial -- which was only available to some employees -- is complete and that it has no plans to launch its own private security force, the spokesperson wouldn't rule out the idea of partnering with another third-party to do so on its behalf.)
+
+But interviews with five former employees suggest these latest moves are illustrative of an ambitious founder navigating a very sensitive space with growth, and dollar-signs, in his eyes. The former employees, who spoke with CNN Business on condition of anonymity for fear of retribution or career repercussions, paint a picture of a startup whose stated intent of making people safer became increasingly murky as it chased revenue, user acquisition and raising Citizen's profile with one splashy idea after another.
+
+Our mission is safety. Anything regarding physical world safety is possible. Citizen spokesperson
+
+In a statement to CNN Business, the spokesperson said, "Andrew is laser focused on Citizen's mission to make the world a safer place. He and the entire team work every day to come up with new, advanced and powerful technologies to keep our users and communities safe."
+
+Citizen is best-known for distilling police and other emergency dispatches into real-time alerts and sharing them with users nearby those incidents who can also upload live video and photos of what they witness. More recently, however, the company has experimented with a dizzying mix of products and services, including launching social networking features, livestreaming its own newscasts, and testing virtual bodyguards and a private patrol car.
+
+While a push for growth is standard in the tech industry, some insiders saw these efforts as a sign the company was unclear of its direction. Outside observers, meanwhile, worry there's a clear disconnect between what's good for Citizen's business and what's good for citizens.
+
+"The Citizen app has a conflict in any type of business where they may -- in response to fear based on information they've provided -- develop a private security service," said Jennifer Grygiel, an associate professor at Syracuse University who has researched police use of social media. "That is a direct incentive and conflict; they have an incentive to create a propaganda environment and turn around and exploit it."
+
+"They just don't know who they are"
+
+It didn't take long for the startup to attract controversy. Launched as Vigilante in 2016 , it was quickly removed from the Apple App Store after it was criticized for potentially encouraging people to rush toward crime scenes to document them. It relaunched as Citizen in 2017 with dialed down marketing about the role civilians play in finding and reporting incidents.
+
+Since then, the service -- with its many push alerts about crime nearby -- has been criticized for its potential to stoke anxiety, vigilantism and profiling -- and that was before the most recent reports of the bounty and private security force.
+
+In an interview with the Wall Street Journal last fall recounting the app's earliest days, Frame acknowledged the mixed reactions to Vigilante. "Sometimes new ideas come about and it is too much, too soon. ... Everybody kind of said, 'Whoa, is this real? Are we watching an episode of Black Mirror or is this an actual product available in the App Store?'" said Frame.
+
+Frame told the Wall Street Journal that Citizen's mission is "the most important thing for me." He summed up the company's purpose in lofty terms: "Citizen is a complete and total disruption on public safety."
+
+Despite the early criticisms of the company, his pitch seemed to work. Citizen has raised $132 million from well-known venture capital firms including Peter Thiel's Founders Fund and Sequoia Capital, according to data research firm Pitchbook. According to its website, Citizen counts over 7 million users, and has attracted staffers who believed in the idea that information pushed through the app could not only keep people out of harm's way but also be leveraged as a powerful means of helping communities to, for example, locate a lost dog or a missing family member.
+
+Citizen founder and CEO Andrew Frame once described the startup as "a complete and total disruption on public safety."
+
+Several of the employees told CNN Business they had been excited to join a startup that seemed intent on doing good in the world by alerting people to local safety incidents crowdsourced from emergency dispatches and citizens.
+
+But once inside, some said they began to view the company differently. "They just don't know who they are," said the second former employee.
+
+"There was a lot of pivoting -- of, we're going to focus on this product but then this and then this," according to a former employee familiar with the company's content plans.
+
+The Citizen spokesperson said in a statement that the company is "constantly testing new ideas."
+
+"That's how technology innovation works," the spokesperson said. "We have several tests happening right now, including our OnAir product which can be used many ways, including as an ultra Amber Alert where there is a fully immersive citywide search party to look for a missing child. This was used recently to return a lost autistic boy to his family in New York, while still in testing."
+
+Pivot to personal security
+
+Since late 2019, the company's ideas on how to grow its business have run the gamut: It explored putting out a regular, produced live newscast for Citizen, which would be anchored by a professional host in front of a green screen, according to the former employee familiar with its content plans. It hired at least three former employees of HQ Trivia, the live mobile trivia game show startup that shut down in February 2020 and came back to life six weeks later, with the intention of leveraging their expertise in producing broadcasts, the person said.
+
+(The Citizen spokesperson said it plans to roll out this year "an incredibly powerful decentralized news and active safety product.")
+
+They have an incentive to create a propaganda environment and turn around and exploit it. Jennifer Grygiel, associate professor at Syracuse University
+
+It also launched social networking tools within its app so friends could keep tabs on loved ones. Then the pandemic broke out and the company launched a Covid-19 contact tracing app, SafePass.
+
+"I think they had ambitions of being a lot of types of companies, but didn't know which," said the employee who worked on research and development.
+
+The company had explored other monetization strategies such as an enterprise model that would allow venues to, for example, message users in an arena about safety concerns through the Citizen platform, according to the employee who worked on research and development. The Citizen spokesperson confirmed an enterprise safety product was being tested at several locations in New York City. "We have nothing to announce at this time," the spokesperson said.
+
+Personal security, however, became a clear focus, putting the company in the position of alerting locals to crimes in their area and then selling them a premium service to make them feel safer.
+
+While cost makes a paid service inaccessible for some groups, there are also other barriers that may keep people from signing up. "A person has to feel they deserve to feel safe and deserve to be protected [in order to buy in]" according to Sarah Lageson, an assistant professor at Rutgers University's School of Criminal Justice and author of a book called "Digital Punishment." "This is how inequalities can get reproduced."
+
+Citizen is best-known for distilling police and other emergency dispatches into real-time alerts and sharing them with users nearby.
+
+On a podcast last fall, Frame teased an unnamed subscription service , calling it " the complete do-over of the 911 public safety response system." Internally, the company had already begun trialing its first paid feature last summer, Citizen Protect -- a subscription service that gives users access to a Citizen Protect agent for $19.99 per month who can act as a virtual bodyguard. As needed, the agent can virtually walk a person home, for example, by video, listening to audio, and monitoring their location to ensure they're safe, or escalate to a person's emergency contacts or 911, according to sources and the Citizen App Store listing . (The company declined to comment on Citizen Protect because it is still in test mode, but a reporter for Fast Company recently wrote about their experience trying the service, saying it "strikes me as mass surveillance disguised as a public good, poised to funnel generalized fear into something more nefarious.")
+
+According to three former employees, staffers had raised concerns about affordability of Citizen Protect and the apparent disconnect with the company's original selling point of being an open 911 system . Those concerns were raised at a town hall event and in meetings with leadership working on Citizen Protect, according to one former employee who worked as a Protect agent.
+
+In a statement regarding affordability, the Citizen spokesperson said: "Step one is to build a valuable consumer safety product which is an evolution of the current 911 system. Step two is to figure out how to make it universally accessible which is something we deeply believe in."
+
+The former employee said there was little training or infrastructure in place before the company started to quickly ramp up sign-ups for the Citizen Protect. "It felt like they were focusing on quantity rather than quality of calls," the person said, noting that agents weren't able to manage multiple calls at once to handle the influx of requests. It would be feasible to monitor one person's location and be on a video call with another person, for example, but that infrastructure was not yet in place, the person said.
+
+The company spokesperson refuted this account saying its agents go through "a rigorous training program, which includes a four-week Public Safety Telecommunicator certification course." The spokesperson said agents can handle multiple calls at once and its team of agents has grown to meet demand.
+
+There were some escalations to 911 from the Citizen Protect feature, according to the employee and an internal email viewed by CNN Business; the company confirmed this is accurate. But there were also a number of inappropriate callers, as well as people who unknowingly connected to Citizen Protect as part of the signup process for feature, or through a "Get Help" link in the Citizen app. As the former employee describes the experience of handling calls from users who had connected to the service: "Most of the time, it was somebody who was like, 'what the f--k is this? You're watching me?'" (The Citizen spokesperson said: "Since it's a new product, some users tapped the "Get Help" button out of curiosity.")

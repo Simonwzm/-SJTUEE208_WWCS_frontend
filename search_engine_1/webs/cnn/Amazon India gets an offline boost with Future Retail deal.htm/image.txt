@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200106172058-big-bazaar-kolkata.jpg?q=x_4,y_14,h_1206,w_2144,c_crop/w_800

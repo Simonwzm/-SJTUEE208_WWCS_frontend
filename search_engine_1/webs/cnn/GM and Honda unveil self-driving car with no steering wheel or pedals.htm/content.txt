@@ -1,0 +1,29 @@
+Washington, DC CNN —
+
+GM and Honda, automakers with more than 160 years of experience between them, have thrown tradition out the window by unveiling the Origin, a new self-driving vehicle.
+
+The six-seat electric vehicle has no steering wheel, brake or accelerator pedals, windshield wipers or rear view mirror. Its doors slide rather than swing open. There’s no obvious front or back, like a typical car.
+
+Customers won’t be able to buy an Origin, either. But they will be able to ride in one through a ridesharing app from Cruise, the self-driving subsidiary of GM, which Honda has also invested in. Riders enter their destination in the app, similar to using Uber and Lyft, and a vehicle will drive itself to pick them up. Once it arrives, customers enter a code on a keypad outside the vehicle to gain entry. Inside the car, there are buttons for the rider to start or end the trip.
+
+The Origin uses sensors, such as weight and seat belt detection, to identify if someone has entered or exited the vehicle. Cruise executives said removing traditional car features allows for more space for passengers. The sliding doors to the Origin are far wider than a typical vehicle, leaving room for two people to enter or exit at the same time. The vehicle is designed to drive on both city streets and the highway.
+
+GM executives hailed the Origin as the reinvention of mobility that would bring environmental benefits, unclog congested cities and improve road safety. They envision the vehicle running 18 hours a day, reducing the need for private car ownership, which dominates transportation today.
+
+“We know that the bus is better for our environment, but on a Friday in rush hour, saving the planet doesn’t seem worth missing dinner or bedtime with the kids,” Cruise CEO Dan Ammann said. “What’s right for you is now the same thing as what’s right for the world.”
+
+GM (GM) will manufacture the Origin and Honda (HMC) will perform the design engineering, such as customer touch points and styling. Cruise is developing the self-driving software, sensors and overall product, which it said it has been working on for three years now.
+
+The companies didn’t say when they expect to begin production of the vehicle or when it will appear on roads. Cruise’s chief technology officer Kyle Vogt told CNN Business that it would happen “pretty soon.”
+
+The company hasn’t lived up to its projections so far. In 2017, GM said it would be mass-producing fully autonomous electric cars by the end of 2019. It also announced plans in 2017 to test self-driving vehicles in New York City, but has yet to do so.
+
+The entire self-driving sector has struggled to live up to the hype that has dominated much of the decade. Companies are realizing the immense challenge of building a self-driving car that works, and then proving to regulators that it is safe.
+
+Cruise will need an exemption from the National Highway Traffic Safety Administration to operate the Origin because it doesn’t have traditional car components like a steering wheel.
+
+Cruise is taking a different strategy than its rival Waymo, which uses vehicles that look like traditional minivans and have human controls, such as a steering wheel and pedals. Waymo, the self-driving company of Google’s parent company Alphabet, operates a limited ridesharing service in Chandler, Arizona.
+
+GM CEO Mary Barra described the Origin as her company’s next step in improving road safety.
+
+“Our zero crashes, zero emissions and zero congestion vision is not a slogan, but a commitment,” Barra tweeted.

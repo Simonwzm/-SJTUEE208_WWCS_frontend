@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190322090509-jane-manchun-wong.jpg?q=x_5,y_341,h_2541,w_4516,c_crop/w_800

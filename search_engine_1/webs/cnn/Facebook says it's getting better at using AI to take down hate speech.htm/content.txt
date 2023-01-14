@@ -1,0 +1,11 @@
+(CNN) Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively spot nearly 95% of such content that it takes down. That remaining 5%, however, may be tricky to resolve.
+
+On Thursday, Facebook said its AI systems detected 94.7% of the 22.1 million pieces of hate-speech content it removed from the social site in the third quarter of 2020; this is up from AI spotting 80.5% of the 6.9 million pieces of content it took down in the same quarter a year ago. In 2017, the company was able to use AI to proactively detect far less hate speech — 24% of the total hate-related content it took down at the time. The figures come from the latest edition of the Community Standards Enforcement Report report the company began issuing quarterly as of August.
+
+The update comes just days after Facebook CEO Mark Zuckerberg spoke to Congress about internet regulation, during which he repeatedly pointed out the company's reliance on algorithms to spot terrorist and child-exploitation content before anyone sees it.
+
+Like many other social networks, Facebook relies on AI to help a crew of humans moderate an ever-growing mountain of content on its eponymous platform and Instagram, which it also owns. It's a tricky, never-ending task to remove objectionable user posts and ads, in part because people are uniquely good at understanding what differentiates, say, an artistic nude painting from an exploitative photo or how words and images that seem innocent on their own can be hurtful when paired.
+
+In a video call with reporters on Wednesday, Facebook's chief technology officer, Mike Schroepfer, explained some of the latest AI tools Facebook is using to find harmful content before it goes viral, such as one that uses online data from Facebook systems to improve, rather than a set of data offline. He said his goal is to keep pushing the technology forward until as few people as possible see objectionable content on the social network. In the past, Facebook has been criticized for relying too much on human contractors, whose work, by its nature, subjects them to content that can be horrifying to see, as well as for its AI not catching violent live-streams such as the New Zealand mosque shooting in March 2019.
+
+Read More

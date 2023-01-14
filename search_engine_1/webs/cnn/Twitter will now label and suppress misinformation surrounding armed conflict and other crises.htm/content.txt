@@ -1,0 +1,11 @@
+Washington (CNN Business) Twitter will now apply warning labels to — and cease recommending — claims that outside experts have identified as misinformation during fast-moving times of crisis, the social media company said Thursday.
+
+TWTR TWTR The platform's new crisis misinformation policy is designed to slow the spread of viral falsehoods during natural disasters, armed conflict and public health emergencies, the company announced. For example, the policy bans "demonstrably false" or misleading claims of targeted war crimes; false reports of events unfolding on the ground in the midst of a conflict; and false claims about the use of weapons. Special attention will be given to government-affiliated or state-run media accounts making such claims, Twitter () said.
+
+"To determine whether claims are misleading, we require verification from multiple credible, publicly available sources, including evidence from conflict monitoring groups, humanitarian organizations, open-source investigators, journalists, and more," Twitter's head of safety and integrity, Yoel Roth, wrote in a blog post
+
+The new policy comes as the war in Ukraine is poised to enter its fourth month, and as allegations of Russian war crimes and propaganda continue to mount. On Thursday, CNN reported that the cybersecurity firm Mandiant said suspected Russian and Belarusian actors had falsely claimed Ukrainian President Volodymyr Zelensky had died by suicide, part of an alleged information operation.
+
+It also comes amid an ongoing, global battle over the future of platform moderation, with officials in Europe seeking to heighten standards surrounding tech companies' content decision-making and lawmakers in many US states seeking to force platforms to moderate less. The US Supreme Court is currently poised to decide whether a Texas law forcing tech platforms to stop moderating their sites can remain in effect.
+
+Read More

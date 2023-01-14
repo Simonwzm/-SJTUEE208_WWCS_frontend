@@ -1,0 +1,43 @@
+London CNN Business —
+
+In the first few weeks of the coronavirus pandemic, tracking apps were hailed as a key way to help countries out of lockdown.
+
+Using Bluetooth or GPS, the apps would track who an infected person had been around, then alert those people that they had been exposed to the virus.
+
+Public health officials said rapid deployment of the apps, alongside manual contact tracing and targeted quarantine, would allow stringent restrictions on the population as a whole to be lifted while significantly reducing the risk of a second wave of infections.
+
+Instead, many of these apps have been delayed as governments struggle to roll out complex new systems in record time, and those that have been launched are not being downloaded by enough people to have a major effect.
+
+Experts at Oxford University say that one person using a tracking app could prevent two people from getting infected, but that as much as 60% of the population would need to be using it to really help stop new outbreaks. Most countries that have deployed apps haven’t come anywhere close to that level — Iceland, at 40%, has one of the highest rates of adoption.
+
+Governments opting to use Bluetooth technology can either develop their own app from scratch, or use the backbone of a system created jointly by Google and Apple.
+
+The Google (GOOGL)-Apple (AAPL) model has a catch: no data can be stored centrally. That’s meant to protect privacy but it also limits the ability of public health officials to study a centralized database to better track outbreaks.
+
+Some apps use more invasive GPS, which keeps tabs on a person’s exact location, or a combination of Bluetooth and GPS, while others require people scan a personalized code whenever entering a public space, creating a digital diary of where they have been.
+
+As the delays pile up, many of these apps, especially in Western nations, now appear to be only tangential to more intensive contact tracing carried out by humans.
+
+Here’s a look at coronavirus tracking apps from across the globe:
+
+United States: There’s no national tracing initiative, human or app-based, for the United States. Each state is left to create its own as it sees fit. Alabama, North Dakota and South Carolina were among the first states to commit publicly to using Apple and Google’s technology. Utah has gone the other way and is building its own app that will use GPS as well as Bluetooth and will centralize the data.
+
+China: China’s tracing efforts are integrated into the mega-popular apps WeChat and Alipay. Each person gets a personalized QR code that is scanned whenever they enter a building or ride public transportation. They’re assigned a health status — green, yellow or red — once the authorities have verified a combination of travel, contact history and self-reported symptoms. The color code determines whether they can leave home, use public transportation or enter a building. While it is not mandatory, not having a code makes it difficult to move around.
+
+The app can also serve as a tracker for people’s movements. Once a confirmed case is diagnosed, authorities are able to quickly trace where the patient has been and identify people who may have been around that individual.
+
+India: The app Aarogya Setu — or Health Bridge — has already been downloaded by more than 114 million Indians. It uses Bluetooth and GPS, and is voluntary. But certain actions require a user to have the app installed on their smartphone, such as crossing state lines, going to a hospital or interacting with government bureaucracy.
+
+Singapore: The city state was one of the first countries to roll out a fully functioning Bluetooth tracking app, which is called Trace Together. The app asks for some personal information, like a mobile phone number, and data is shared with health authorities after a positive coronavirus diagnosis. The app is voluntary, and as of late May had been downloaded by just over 26% of the population, according to Foreign Affairs minister Vivian Balakrishnan.
+
+Australia: The country’s CovidSafe app is based on Singapore’s and, like others, utilizes Bluetooth for tracking. But it asks for a lot more personal information upfront. The data stays on a person’s phone until they test positive and it’s verified by a health official. Then the data is uploaded to a centralized database, according to the Australian health authority. The app has been downloaded just over 6.1 million times out of a population of 25 million, of whom 16 million have smartphones, Australian health officials said at a briefing this week.
+
+Germany: Initially Germany was going to build its own app, but then shifted to the Google-Apple model. Like others relying on the technology, the app uses Bluetooth to track proximity but stores no data centrally. Germany’s app relies on a positive Covid-19 test, inputted into the app and verified by a health professional, to trigger alerts. The app is expected to be rolled out in the coming weeks.
+
+Italy: The Immuni app also uses the Google-Apple framework. It will be piloted in four regions on June 8 before it is made available to the rest of the country, according to the Italian Health Ministry. The system is decentralized and collects no personal data like names. But, if a user tests positive and uploads the result (with a special key provided by a health care professional), they can choose to share the information with a central server run by the government.
+
+France: France rejected the Google-Apple model, opting to build its own app called StopCovid. It was released this week as lockdowns were eased in the country. Though it works similarly to other Bluetooth tracking apps and relies on a positive coronavirus test to alert others, data is stored centrally and managed by government officials.
+
+United Kingdom: The United Kingdom is also striking out on its own for its NHS Covid-19 app, which is still in a testing phase although government officials say they plan to roll out it nationally in the coming weeks. The app also uses Bluetooth tracing but doesn’t ask for personal details aside from the first part of a person’s postcode, though the data will be centrally housed. Unlike other apps, the UK version will alert those who have been in close contact with someone who just reports enough coronavirus symptoms to be presumed positive. Once that person is tested, the system will send out further instructions if the result is positive or send out a false alarm notice if it’s negative.
+
+— Swati Gupta, Nectar Gan and Valentina DiDonato contributed to this article.

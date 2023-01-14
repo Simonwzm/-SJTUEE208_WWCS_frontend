@@ -1,0 +1,73 @@
+New York CNN Business —
+
+Boeing’s Starliner spacecraft failed to put itself on the correct course during an uncrewed test flight on Friday and will not reach the International Space Station during this mission.
+
+The company is now working to bring the spacecraft back to the ground, NASA and Boeing officials said during a press conference Friday morning.
+
+The current plan is to de-orbit Starliner in two days, and it’ll touch down at Boeing’s designated landing site in the desert of New Mexico, the officials said.
+
+Starliner successfully launched into space aboard a rocket Friday morning, but after detaching from the launch vehicle, Starliner did not perform as intended.
+
+The spacecraft was supposed to make a precise maneuver to put itself on a path to link up with the space station on Saturday. But the spacecraft failed to fire up its engines at the correct moment because of an issue with the vehicle’s on-board clock, according to early reviews by Boeing and NASA.
+
+Officials said the root cause of that issue is not yet clear.
+
+NASA Administrator Jim Bridenstine told reporters that astronauts would have the training to override Starliner’s autonomous system and manually correct course. He also emphasized that if people had been on board Starliner during Friday’s launch, they would be “completely safe.”
+
+“A lot of things went right today,” Bridenstine added. “And this is, in fact, why we test.”
+
+Flight controllers on the ground also were not able to correct Starliner’s course on Friday because, when the spacecraft was supposed to conduct its first engine burn, the spacecraft happened to be in a spot where it briefly lost connection as it moved between two satellites, officials said.
+
+And because the vehicle didn’t fire its engines at the right moment, it burned more fuel than it otherwise would have. Bridenstine said that’s one reason the Starliner team is not currently considering options to put the vehicle back on track for space station.
+
+Starliner has an off-nominal insertion, but we have spacecraft control. The guidance and control team is assessing their next maneuver. — Boeing Space (@BoeingSpace) December 20, 2019
+
+The mission
+
+Starliner was scheduled to dock with the space station over the weekend, mimicking the flight path it will take when it flies its first crewed mission. The craft was expected to spend one week in space before making the trek back home and landing in New Mexico.
+
+Bridenstine had said Thursday that he expected the vehicle to be ready for its first crewed mission in “the first part” of next year.
+
+It’s not yet clear if that timeline has shifted and what further testing the spacecraft may need after Friday’s mishap.
+
+The Boeing team made the decision fairly quickly after the mission went awry to bring the spacecraft back to a safe landing within two days, said Jim Chilton, the senior vice president of Boeing’s space division.
+
+“Without knowing exactly what’s going on, the team quite rightly said let me put the spacecraft in an orbit where I know I can control and get home,” Chilton said. “Safety first: You go up, you go to space and you come home where you intended to go.”
+
+Mike Fincke and Nicole Mann, two of the astronauts slated to fly on Starliner’s first crewed mission, confirmed Bridenstine’s suggestion that crew members likely would have been able to give the flight control team more options in a similar situation.
+
+“We train extensively for this type of contingency,” Mann said. “This vehicle has a new level of automation that we’ve never seen before. And what we’re doing is testing that automation, and that’s why you have test pilots on board” early missions.
+
+Aboard the capsule is a dummy nicknamed Rosie, after the iconic World War II figure Rosie the Riveter, which is outfitted with dozens of sensors to measure the G-forces astronauts will endure.
+
+It’s also unclear whether Starliner will be the first US spacecraft to launch NASA astronauts since the Space Shuttle program was retired in 2011. Billionaire Elon Musk’s SpaceX is also racing for that distinction.
+
+SpaceX’s Crew Dragon capsule completed a successful uncrewed test flight to the ISS earlier this year. But it still must pass another test of the capsule’s emergency abort system before it’s ready to fly. That mission is scheduled for no earlier than January 11.
+
+Boeing on Friday launched an uncrewed test of its Starliner vehicle, which could soon start ferrying astronauts to and from space. Boeing/NASA
+
+Commercial Crew and the business of space
+
+NASA allotted SpaceX $2.6 billion and Boeing $4.2 billion in 2014 for the Commercial Crew Program, the formal name of the program that will launch Crew Dragon and Starliner. It was a new approach for the agency: While NASA has long worked with private sector contractors to build spacecraft, the organization does not typically hand over design, operation and testing duties to the companies.
+
+“We’re doing it in a way that’s never been done before,” Bridenstine said Thursday. “We’re buying a service. The goal being that NASA wants to be one customer of many customers in a very robust commercial marketplace for human spaceflight in the future [and] we want to drive down costs, increase innovation and increase access to space in a way that we’ve never seen before.”
+
+NASA has long said it wants the private sector to take over operations at the ISS, which orbits about 250 miles above Earth, so that the space agency can focus on the more expensive and dangerous task of exploring deep space — including the moon and beyond.
+
+Commercial Crew was modeled after a similar program that delivers uncrewed cargo missions to the International Space Station. SpaceX also won a contract under that program, alongside Northrop Grumman, and its Dragon capsule has been flying supplies to and from the space station for years. But the company has yet to fly humans.
+
+Bridenstine said Thursday that Boeing received more money than SpaceX for Commercial Crew because SpaceX was already given billions of dollars under the cargo program for Dragon development, while Boeing essentially had to design Starliner from scratch.
+
+Commercial Crew: What’s ahead
+
+NASA originally predicted Starliner and Crew Dragon would be up and running by 2017, but both vehicles are years behind schedule.
+
+The space agency, as well as federal lawmakers, are anxious to speed things up. Since 2011, the space agency has paid Russia an average of $55.4 million per seat for rides aboard the country’s Soyuz spacecraft to ensure Americans had access to the space station.
+
+Three astronauts have been selected to join Starliner’s first crewed launch: NASA’s Fincke and Mann, as well as Chris Ferguson, a retired NASA astronaut who led the final 2011 Space Shuttle mission. Ferguson will fly as a commercial astronaut on behalf of Boeing.
+
+Ferguson is the first non-government astronaut signed up to fly on Crew Dragon or Starliner. But NASA has suggested allowing people with various backgrounds to train and fly to space alongside members of its astronaut corps.
+
+Ferguson said during Thursday’s press conference that “opportunities abound” to fly astronauts from foreign space agencies and, one day, “customers who might come from any walk of life.”
+
+Those people may include “teachers, maybe journalists, maybe artists that are able to gather everything we see in space, the amazement of what we’re doing, and they’re able to translate that back to people on Earth,” said Mann. “That’s going to pay dividends.”

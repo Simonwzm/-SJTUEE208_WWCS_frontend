@@ -1,0 +1,45 @@
+New York CNN Business —
+
+With spectators unable to fill stadiums, sports leagues have to get creative with new forms of digital engagement to keep fans entertained.
+
+During the US Open, which started Monday, the US Tennis Association is inviting fans to engage in online debates about some of the sport’s most contested questions, with the help of artificial intelligence technology from IBM (IBM).
+
+Fans can discuss topics like the most influential players in history, and their arguments will be analyzed by IBM’s Watson technology (using the same AI tool that helped a computer take on a top human debater last year).
+
+The Open typically draws around 850,000 fans over three weeks. When the USTA announced in June that the Open would be held for the first time with no fans on site, IBM, a longtime sponsor and tech partner of the Tennis Association, was tasked with finding ways to make sure all those people would still tune in.
+
+The tool is just one of the ways the USTA and other leagues are using technology to keep fans connected to the multi-billion-dollar sports industry during the pandemic, as they try to stem financial losses from the fallout of nonexistent ticket sales. And it’s a trend that’s likely to continue even after coronavirus subsides.
+
+For IBM, which is known for developing tech for corporations, the partnership offers a chance to stay relevant with consumers. The company also hopes it will prove the business value of artificial intelligence tools, as it jockeys with competitors for tech investment dollars. In many cases, the pandemic has prompted companies to funnel money into improving their digital capabilities.
+
+“We engage in partnerships like with the US Open, or any of our other sports partnerships, because we believe that people have a passion for tennis,” Noah Syken, vice president of IBM sports and entertainment partnerships, said during a press call last week. “If we can deliver an amazing experience through an activity that they love and believe in and spend their leisure time in, when they go back to their office and have a decision to make about what they’re operating in their business, they’ll think of IBM.”
+
+IBM's Open Questions with Watson tool will help fans discuss some of the most hotly debated tennis questions. IBM
+
+AI-powered sports debate
+
+Starting Monday, tennis fans can find the feature, dubbed “Open Questions with Watson,” on the US Open website and app.
+
+The tool presents fans with questions, such as: “Was Chris Evert vs. Martina Navratilova the greatest tennis rivalry of all time?” Fans can choose to agree or disagree with the question and submit their own argument; the tool then combines that feedback with statistics, expert opinions and other information pulled from the internet into a summary of arguments on the debate.
+
+As more fans weigh in, IBM says the summary will update to reflect the changing discussion. Though the tool mostly relies on artificial intelligence, it will get some human assistance: An editor will help to filter out offensive or sarcastic responses, as well as write the AI’s research into a narrative summary.
+
+Although it may not feel quite the same as strangers cheering together when their favorite player scores, the USTA hopes the tool will help bring the tennis community together and keep eyeballs on the tournament.
+
+“What is it that most fans like to do? If you think about things like sports talk shows, it’s all debate,” said Kristi Kolski, marketing program director for IBM sports and entertainment partnerships. “For fans who can’t be on site, these are new ways to engage them in the event and connect them to the conversation, and each other.”
+
+Serving up a business proposition
+
+Open Questions uses an artificial intelligence technology that IBM designed to make computers better at understanding humans. It’s called “natural language processing,” and IBM added it to its slate of commercial offerings earlier this year.
+
+AI systems have gotten better at processing and learning from large quantities of data, but they have mostly struggled to understand the kinds of nuances that appear in everyday communication among people.
+
+IBM’s natural language processing technology is designed to identify and make sense of colloquialisms and idioms — as well as certain dialects or industry-specific terms — such as “open a can of worms” or “hardly helpful” (previously, an AI system might think someone was actually opening a can of worms).
+
+The tool gives tennis fans a chance to play with an AI technology designed mostly for corporate environments.
+
+And it could be a chance for IBM to sell potential customers on a technology that may still feel a bit out-there. While the technology’s business applications are still in their early days, tech research firm Gartner estimates that by 2024, around 75% of organizations will have gone from trying out AI tools to actually implementing them in their business.
+
+Just as Open Questions will comb through fan responses to summarize arguments on key tennis questions, IBM says its technology could analyze a company’s documents and data to conduct research or improve customer service.
+
+“The US Open is a business just like every other business,” Syken said. “We’re here understanding what people are saying about Chris Evert and Martina Navratilova, but if I’m a retailer or a bank or really I’m in any business, I need to understand what people are expressing about my company, about my business, about my brand.”

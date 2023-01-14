@@ -1,0 +1,103 @@
+London CNN Business —
+
+Who controls TikTok? Is the social media platform safe? Has a US ban been averted for good?
+
+President Donald Trump’s attempts to force a quick sale of popular Chinese-owned video app TikTok produced a tentative deal over the weekend that would see Oracle (ORCL) and Walmart (WMT) take a minority stake in a new US company that will operate TikTok.
+
+The US Department of Commerce pushed back a threatened ban on US downloads of the app by one week, to the end of the day on September 27. But as the companies race to finalize the proposal, crucial questions over data security, national interest and the deal’s structure remain unanswered.
+
+What is clear is that the fight over TikTok is bigger than who owns an app popular with Generation Z. It’s also about the future of US-China relations, and the rough new terrain businesses are forced to navigate as tensions between the world’s two biggest economies ramp up.
+
+Deal confusion
+
+Trump has for weeks threatened to ban TikTok, which is owned by China’s ByteDance, on national security grounds unless an American company takes control of its US operations. TikTok has roughly 100 million users in the United States, and Trump claims the app gives Beijing access to the personal data of Americans.
+
+TikTok has denied those allegations. The company has said its data centers are located entirely outside of China and that none of that data is subject to Chinese law.
+
+Over the weekend, Trump gave his blessing to a deal that would give Oracle and Walmart a combined 20% stake in a new company called TikTok Global, which would be headquartered in the United States and operate the app. Four of the company’s five board members would be Americans, Oracle and Walmart said in a joint statement.
+
+The fifth person is likely to be ByteDance and TikTok founder Zhang Yiming, according to a person familiar with the deal. ByteDance confirmed in a statement that TikTok Global’s board “includes the founder of ByteDance … as well as the CEO of Walmart.”
+
+Speaking to reporters over the weekend, Trump said he approved the deal “in concept.”
+
+“I have given the deal my blessing,” Trump said. “If they get it done, that’s great. If they don’t, that’s okay, too.”
+
+But the deal stops well short of the full sale of TikTok that Trump originally wanted, and its structure contradicts his claim on Saturday that the app will be “totally controlled” by Walmart and Oracle.
+
+There also appears to be a great deal of confusion over TikTok’s proposed ownership structure after the deal, with Oracle and ByteDance releasing contradictory statements on Monday.
+
+Oracle executive vice president Ken Glueck said ByteDance will not own any part of the viral video app.
+
+“Americans will be the majority and ByteDance will have no ownership in TikTok Global,” said Glueck.
+
+The statement from Oracle appeared to muddy an already confusing situation after it and Walmart announced on Saturday they would be taking a 20% share of TikTok under the proposed deal.
+
+The initial announcement implied that ByteDance would continue to own the remaining 80% of TikTok going forward, raising questions about how that could resolve the Trump administration’s national security concerns about TikTok’s ownership by Chinese interests.
+
+In a statement Monday, ByteDance claimed that TikTok would be “a 100% owned subsidiary of Bytedance,” but a person familiar with the deal said that was inaccurate.
+
+On Monday, Trump indicated that Walmart and Oracle would “own the controlling interest. … And if we find that they don’t have total control, then we’re not going to approve the deal.”
+
+According to the person familiar with the deal, TikTok Global will be partially owned by ByteDance’s international and Chinese investors, but ByteDance itself will hold zero percent of the new company. Oracle and Walmart’s investment will take US ownership of TikTok Global to 53%, with ByteDance’s Chinese and international investors holding 36% and 11%, respectively.
+
+The person also said Oracle will be responsible for reviewing the app’s source code and algorithm before passing it on to users. TikTok’s data, including usernames and passwords, will be stored by Oracle within the United States.
+
+Oracle said it would host data pertaining to American users on its cloud platform. ByteDance said in a statement that Oracle would be able to review the app’s source code, but the deal does not involve the transfer of its algorithms and technologies.
+
+Marco Rubio, a Republican senator, said there could still be a risk of US user data being sent to China.
+
+“If China continues to control the code, as I understand they would in this deal, they could put in that code an instruction to secretly send data back to China, to the mainland. No matter where the actual data is housed there can be something embedded in that code that sends it the other way,” he said during an interview on Fox News.
+
+Education fund?
+
+Another source of confusion: Trump said the deal would also include a $5 billion fund for US education, though he did not say which companies would be making the payment.
+
+ByteDance said Sunday that it was unaware that an education fund would be tied to the TikTok deal.
+
+“Some news media reported that TikTok will set up a $5 billion education fund in the United States,” ByteDance said in a statement. “We would like to clarify that it was also our first time hearing about the news.”
+
+Walmart and Oracle did not mention anything about an education fund in a statement released over the weekend, but they did say that TikTok Global “will pay more than 5 billion in new tax dollars to the US Treasury.”
+
+In its statement on Monday, ByteDance described the “so-called tax payment” as “an estimation of the corporate income tax and other operating taxes that TikTok will need to pay for its business development in the next few years.”
+
+A woman walks past the headquarters of ByteDance, the Chinese parent company of video app TikTok. Greg Baker/AFP/Getty Images
+
+What’s Trump’s role?
+
+Trump has positioned himself as the kingmaker of any TikTok deal, making clear that he must agree to the terms before anything is made official.
+
+If that seems unusual, it’s because it is. While governments often vet pending deals to protect consumers from monopoly power, and often do weigh national security when a merger is announced, Trump’s deep involvement is a stark departure from how deals are typically finalized — as is his move to compel a sale in the first place.
+
+“In the end, Trump is the X-factor,” said Dipayan Ghosh, the co-director of the Digital Platforms and Democracy Project at the Harvard Kennedy School. “Whatever he wishes will happen, no matter the merits of the related set of policies underlying the proposal.”
+
+Some experts think the Oracle deal could be helped along because of Trump’s ties to cofounder Larry Ellison, a supporter of the president. CEO Safra Katz has also donated to Trump’s reelection bid.
+
+After the flurry of weekend activity, time is now running out again to sort through the agreement and secure approval from all parties. And it’s still not clear that the arrangement has backing from Beijing.
+
+Why does this matter?
+
+The battle for control of TikTok in the United States goes beyond social media, security concerns and who winds up in charge.
+
+Sure, that’s a big part of it. But the outcome will have major geopolitical consequences, too, as the United States and China move further apart under Trump.
+
+For a while, the focus was on trade and protecting intellectual property, with both sides slapping tariffs on hundreds of billions of dollars in goods while government officials tried to negotiate new terms of engagement. But over the past two years, sensitive technology has become a big area of contention, too.
+
+The US government has been conducting a long campaign against China’s Huawei, which makes smartphones and is a leading manufacturer of equipment for 5G wireless networks. Citing similar spying concerns, the Trump administration has pushed allies to opt for other 5G equipment vendors, while cutting off Huawei’s access to US technology, including crucial computer chips.
+
+As pressure expands to TikTok as well as WeChat, companies are considering the emergence of a new world order that could reshape how global firms do business.
+
+Tencent's WeChat has also been targeted by the Trump administration. Drew Angerer/Getty Images
+
+Deutsche Bank has estimated that supply and demand disruptions, along with the construction of a “tech wall” that forces companies to create two sets of standards for the United States and China, could cost companies $3.5 trillion over the next five years.
+
+The broader economic relationship is also at stake at a delicate moment following the historic shock from the pandemic. In a report published in mid-September, the consultancy Rhodium Group found that US-China investment dropped to its lowest level in nine years during the first half of 2020 as tensions rose.
+
+I use TikTok. What does it mean for me?
+
+As the situation rapidly progresses, TikTok’s tens of millions of US users worry they could lose access to one of their favorite products.
+
+Under the terms of the ban, people who already had TikTok on their phones could still post short videos of dances, fun recipes and comedy routines per usual, but no new downloads would be allowed. US users also wouldn’t be able to receive security patches or other updates, which could cause outages or glitches in the future.
+
+Though a ban has been averted for now, fears about restrictions have sent TikTok downloads soaring. They rose 12% to 247,000 in the United States on Friday, compared to Thursday, according to preliminary estimates from Sensor Tower, a research firm.
+
+— Brian Fung, Sherisse Pham, Jill Disis and Selina Wang contributed reporting.

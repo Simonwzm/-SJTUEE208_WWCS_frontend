@@ -1,0 +1,35 @@
+CNN —
+
+“I don’t normally work from my garage,” Adam Mosseri said when asked what it’s like to run one of the biggest social media platforms in the world from his San Francisco home.
+
+For years, Instagram has been synonymous with travel and experiences. Its users fill their feeds with carefully filtered and cropped photos of exotic locations and colorful venues. But now, from his plywood-lined garage, Mosseri, Instagram’s CEO, is telling his users to do what he’s doing: stay at home.
+
+Over the past week the company launched a dedicated “Stay at Home” tab featured prominently in the Stories section at the top of its feed. As the name suggests, the feature offers a way for users to share updates on their stay-at-home life at a time as people in vast parts of America and across the world have essentially been not to go outside except for essentials to limit the spread of the coronavirus. And it might actually help raise awareness of the need to stay in. Mosseri revealed Tuesday that the “Stay at Home” Instagram stories were so popular it almost crashed the site in the hours after it went live.
+
+The fact that a well-intentioned new feature nearly took down the entire service is a reminder of just how many fires Instagram and Mosseri are working to put out at once amid the coronavirus outbreak. Among other pressing issues, he and his team must: keep their servers up and running while much of the world is forced to shift their lives online; try to encourage people on the platform to maintain social distancing; combating inaccurate and potentially dangerous misinformation about the coronavirus at a time when there is apparently an unprecedented amount of traffic on the site; and do all this while working outside the office.
+
+“Having our workforce, particularly our moderators, work from home, is creating all sort of challenges that we need to work through,” Mosseri said in an interview with CNN Business over Skype on Tuesday from inside the garage that is now his de facto command center.
+
+“Just generally, the amount of output we should be able to expect on a per person basis is just going to go down,” he said. “There is no way around that, which is why it is so important we get creative and make sure that we continue to make sure we keep people stay safe on the platform.” Mosseri added that the company still needs to stay on top of a range of challenges like content related to child exploitation and terrorism.
+
+For years, Instagram’s parent company, Facebook, has been trying to combat the spread of misinformation on its platforms. The coronavirus presents a whole new challenge as people around the globe are desperate for just about any information.
+
+Instagram’s struggles in dealing with the anti-vaccine movement might not inspire much confidence in the company’s ability to get ahead of false information about the coronavirus.
+
+But over the past few weeks and months it has brought in new rules and features specifically for the coronavirus crisis. Some of those features — like not recommending accounts that spread medical misinformation when people search terms related to the virus (which the company says will roll out in the coming days) — are steps critics of anti-vaccine accounts have been calling for for some time.
+
+Mosseri said the company’s focus has been getting users accurate information about the virus — links to official government agencies have appeared at the top of users’ Instagram feeds around the world. The company, like other social media platforms, has taken other steps to highlight information from the World Health Organization.
+
+“I actually think search in general on platforms like ours gets way too much attention because it is not something people do that often. It is more important that people get good information when they come to the app in the first place,” he said.
+
+Like other companies, Instagram and Facebook instructed employees to work from home before it became mandatory in many states. “We need to take care of our people if we are going to be able to help address the crisis and live up to our responsibility,” Mosseri said.
+
+But new rules to tackle coronavirus misinformation and other initiatives, like banning ads for the sale of face masks (to help ensure they are available for medical workers in most need of them), require new protocols, staff training and sometimes new systems to implement, all of which is more difficult to do with staff working remotely.
+
+As a result, Mosseri said Facebook and Instagram staff that don’t normally work on moderation are volunteering to help.
+
+Twitter and YouTube also warned that the shift to working from home and reliance on automated content moderation may lead to more mistakes.
+
+The heightened anxiety felt by users will likely only amplify errors. For example, last Tuesday there were widespread reports of Facebook suddenly marking posts from users about everything from the coronavirus to their pets as violating the platform’s rules. The problem was fixed within a few hours and Facebook said it had nothing to do with the changes in its workforce
+
+With false claims about purported cures and preventative steps that can be take against the virus circulating online, ensuring the spread of accurate information is now literally a matter of life or death.

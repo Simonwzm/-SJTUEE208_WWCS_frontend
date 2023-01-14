@@ -1,0 +1,33 @@
+(CNN Business) Entering the new Amazon Web Services Skills Center is a bit like walking into a high-tech museum. Among its exhibits are a rotating, globe-shaped screen that displays images of planets or weather patterns, an interactive "smart home" model and a table full of small robot vehicles trained by machine learning.
+
+The space is designed to introduce visitors to practical applications of cloud computing — an increasingly popular set-up in which companies' technical operations are run in data centers managed by Amazon or other cloud companies, rather than in costly on-site servers. AWS hopes the center will interest some visitors in the possibility of a career in the industry.
+
+The Skills Center, which is located on Amazon's corporate headquarters campus in Seattle, Washington, and opens to the public November 22, is the first of its kind for the company. It's part of a larger commitment to train 29 million people globally in cloud computing by 2025 that AWS made last year.
+
+It's also one of the first major announcements that new AWS chief executive Adam Selipsky has made since taking over from Andy Jassy, who was elevated to Amazon CEO when Jeff Bezos left the post in July.
+
+Amazon Web Services' new Skills Center in Seattle aims to introduce visitors to the practical applications of cloud computing, such as to analyze image data from satellites.
+
+The Skills Center is "going to be a free, accessible space for anybody who wants to learn more about cloud computing, what it is, what the applications are ... everything that illustrates the true breadth of the cloud, and importantly, there's going to be a lot of skills training here," Selipsky told CNN Business in an exclusive interview ahead of the center's opening.
+
+"There's a dramatic need for digital skills overall, and for cloud skills in particular, and this is part of a very broad effort," he said. "We're going to invest hundreds of millions of dollars to bring that training to tens of millions of people worldwide."
+
+Although the company declined to disclose an exact amount, it's a big investment into free training for people who will mostly become employees of other companies. But it's crucial to AWS's business because of a significant talent gap that threatens to hamper potential customers' adoption of cloud technology.
+
+"I have that conversation with executives of companies all the time," said Maureen Lonergan, vice president of AWS Training and Certification. "So we work not only on training new people to cloud but working with customers to transform their traditional IT staff to cloud-fluent individuals."
+
+Microsoft MSFT Google GOOGLGOOGLE The talent gap comes as demand for cloud computing has surged during the pandemic . But AWS, long the cloud industry leader, is facing steep competition from rivals likeAzure andCloud, something Selipsky will have to address as the unit's new leader.
+
+Amazon AMZN Thoughis best known for e-commerce, its cloud unit has long been its biggest money maker. In the most recent quarter , AWS contributed nearly 56% of the company's overall net income, and it now has a revenue run rate of around $64 billion.
+
+"The cloud is actually one of the most transformative technological changes of our generation," said Selipsky, who started at AWS in the division's early days and spent 11 years with the company before leaving to run data visualization firm Tableau for five years. "I know that sounds like a big statement but if you think about, when is the last time you went to rent a DVD or incurred late fees? Netflix changed all of that by streaming and that happens on AWS ... No matter what sector you look at, no matter what application you look at, it's now more and more not running in data centers that companies build and operate and put capital into and stress out about, it operates through a place like AWS."
+
+Former longtime AWS executive Adam Selipsky has returned to run the division after five years as chief executive officer of Tableau.
+
+At the Skills Center, Amazon plans to invite anyone from the Seattle community — students, unemployed workers or others looking for a career change — to get a better sense of what cloud computing is and why it matters; for example, it makes real-time, mobile gaming over the internet possible. From there, visitors interested in career opportunities in the field will have access to free tech and cloud basics courses at the center, and may be directed to AWS's other training resources. The company hopes tens of thousands of people will visit the center to explore or take classes each year.
+
+As part of Thursday's announcement, the company also said it will add around 60 free, digital cloud computing training and certification courses to Amazon.com. It is also expanding access to its Re/Start program, a free 12-week training course that prepares people for an entry level job in cloud computing, from 25 cities in 12 countries in 2020 to more than 95 cities in 38 countries by the end of 2021. The company expects to open more Skills Centers around the world starting next year, according to Lonergan.
+
+The company also hopes to reach people who have had a harder time accessing roles in tech. The Skills Center and the training programs are free and target people who don't have prior experience in tech. The company also plans to partner with local workforce development agencies in Seattle to bring people from diverse backgrounds into the facility. That effort could help increase diversity in the cloud computing field, which, like the larger tech world, still skews white and male. Amazon's own global corporate staff was comprised of nearly 69% men and 47% white employees in 2020, according to its most recent workforce data report
+
+"Our customers are so incredibly diverse and who they are, and their use cases and their industries, and the companies in which they operate are so diverse, it's hard to imagine that we could really deliver what they need from us if we are not equally diverse," Selipsky said.

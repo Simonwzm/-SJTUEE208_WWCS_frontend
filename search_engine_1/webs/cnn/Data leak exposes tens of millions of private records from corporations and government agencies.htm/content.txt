@@ -1,0 +1,11 @@
+(CNN Business) Dozens of major companies, state and federal agencies and other organizations that misconfigured a setting in their Microsoft software inadvertently exposed millions of people's personal information to the public internet for months, according to security researchers.
+
+The data leak, which affected American Airlines, Maryland's health department and New York's Metropolitan Transportation Authority, among others, led to the exposure of at least 38 million records, including employee information as well as data related to Covid-19 vaccinations, contact tracing and testing appointments, according to UpGuard, the cybersecurity firm that uncovered the issue.
+
+After UpGuard privately notified Microsoft and the affected organizations, the leaks were plugged and the ability to access the information removed. But while the information was unsecured, names, Social Security numbers, phone numbers, dates of birth, demographic information, addresses and even dates of employer drug tests and union membership data were available to anyone with the know-how and inclination to look, said UpGuard.
+
+In the case of Ford Motor Co., UpGuard said, lists of loaner vehicles distributed to dealerships had also been exposed.
+
+"When we learned about the issue, we acted quickly to assess the risk (low) and close the gap," Ford spokesman T.R. Reid told CNN Business. "There was no breach of sensitive personal information."
+
+Read More

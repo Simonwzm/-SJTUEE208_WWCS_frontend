@@ -1,0 +1,45 @@
+New York CNN Business —
+
+SpaceX and Boeing are arch-rivals: They’re both gunning for the glory of returning human spaceflight to US soil for the first time in a decade. They battle it out for lucrative government contracts. The companies’ CEOs have even traded taunts about who will be the first to reach Mars.
+
+But once in a while, SpaceX and Boeing are forced to play on the same team.
+
+A rocket launch on Tuesday evening marked one such occasion: SpaceX’s Falcon 9 rocket, carrying a $161 million satellite built by Boeing, took off from Cape Canaveral at about 7:20 pm ET.
+
+Boeing (BA) built the satellite, called Amos-17, for an Israeli firm called Spacecom. And though Boeing (BA) is half-owner of a prestigious rocket company, United Launch Alliance, Spacecom turned to competitor SpaceX to fire Amos-17 into orbit. (The financial terms of the launch contract were not disclosed.)
+
+A Falcon 9 SpaceX rocket with the Israeli-owned Amos 17 commercial communications satellite lifts off from space launch complex 40 at the Cape Canaveral Air Force Station in Cape Canaveral, Fla., Tuesday, Aug. 6, 2019. John Raoux/AP
+
+It’s not the first pair-up for SpaceX and Boeing, and it won’t be the last. There are a few not-so-obvious reasons these foes sometimes find themselves in the same corner; there are twisting dynamics in the commercial launch industry, and the US military’s ever-present influence on space companies.
+
+SpaceX and the commercial rocket revolution
+
+The primary reason a satellite company might choose SpaceX’s rockets over ULA: The rockets built by ULA’s co-owners, Boeing and Lockheed Martin (LMT), are not intended for the commercial market. They’re built to launch enormously expensive government payloads.
+
+The companies did try and fail to gain permanent traction in the commercial launch market years ago. But Boeing and Lockheed merged their rocket ventures in 2006, forming ULA. The goal was to keep both their rockets in production because the US government needed them to meet the military’s national security needs.
+
+That merger gave ULA a years-long monopoly on military launches. It was extremely lucrative, though it gave the company little incentive to bring down the price of its rockets. Meanwhile, subsidized foreign rockets dominated the commercial launch market, says Carissa Christensen, CEO of Bryce Space and Technology.
+
+Then SpaceX came along.
+
+Elon Musk’s startup succeeded where other wannabe private rocket ventures had failed. He was able to design, build and test a rocket without running out of money first, Christensen added.
+
+The company’s Falcon 9 rocket entered the market several years ago with a price tag of roughly $60 million — absurdly cheap compared to competitors.
+
+SpaceX soon dominated the commercial launch business. And the young newcomer took a bite out of ULA’s business when it won the right to compete for military launch contracts in 2015.
+
+ULA was left with fewer military contracts and little chance of competing for commercial contracts; its rockets are tens or hundreds of millions of dollars more expensive than SpaceX’s.
+
+The veteran launch provider is looking to switch things up these days: It’s laid out plans to build a high-tech and competitively priced line of rockets called Vulcan.
+
+Barriers to entry
+
+Boeing’s satellite manufacturing business, which is separate from ULA, is in good shape. It has a healthy book of business building hefty satellites for telecom companies.
+
+SpaceX doesn’t compete directly with Boeing in the satellite manufacturing business. But even if it did, the companies could expect to find themselves in a forced pairing anyway.
+
+Across the spaceflight industry, it’s not uncommon to see a satellite built by one company flying to space aboard a rival’s rocket. That’s just the nature of the game, Christensen told CNN Business.
+
+Building large launch vehicles and pricey telecom satellites are two businesses with high upfront costs. And that “high barrier to entry” means only the rare cash-rich company can afford to enter the market, Christensen said. So the companies that survive can wind up dominating the industry and wearing different hats.
+
+Satellites built by Boeing do launch on ULA rockets, but they’re also compatible with SpaceX’s cheaper Falcon 9 and rockets built by European competitor Arianespace. And Boeing’s Delta rockets can host payloads made by competing satellite builders, such as Ball Aerospace.

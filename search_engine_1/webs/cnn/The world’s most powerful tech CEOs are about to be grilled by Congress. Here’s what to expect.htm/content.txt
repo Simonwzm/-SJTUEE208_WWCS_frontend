@@ -1,0 +1,49 @@
+CNN Business —
+
+When Bill Gates went before Congress 22 years ago to respond to claims that Microsoft was unfairly muscling out its competition, he offered what’s since become a familiar Silicon Valley refrain.
+
+Microsoft (MSFT) and its peers, Gates argued, have produced dazzling new products at affordable prices; created more jobs and economic opportunity than any sector of the economy; and made the United States a leader in innovation. Despite Gates’ testimony, though, Microsoft (MSFT) would go on to face a massive antitrust lawsuit from the US government, a landmark case that would be referenced for years as a turning point for the digital economy.
+
+Now, in an echo of that pivotal moment, Congress is preparing to grill the tech titans of our time: Amazon (AMZN), Apple (AAPL), Facebook (FB) and Google’s parent company, Alphabet (GOOGL). (Microsoft, while still a force in the industry, has largely avoided the current wave of US antitrust scrutiny, which is heavily focused on business segments it doesn’t play in, such as digital advertising.)
+
+On Wednesday, the CEOs of the four companies — a group that includes two of the world’s richest men — are due to appear before the House Judiciary Committee’s antitrust panel to answer allegations that the companies are too dominant or have harmed competition, each in their own ways. In a pandemic-driven twist, the CEOs will appear together, on one panel, via videoconference. (Initially scheduled for Monday, the hearing was postponed in light of Rep. John Lewis’s funeral.)
+
+It will be the first antitrust hearing of its kind since Gates’ visit to Capitol Hill in 1998. And some policy experts anticipate that history could repeat itself, as the biggest of Big Tech face a range of antitrust probes by state and federal officials, as well as the European Union.
+
+“The more that the members of the Judiciary Committee land punches on any of these companies, the more pressure it puts on antitrust enforcers to move aggressively with their investigations,” said Gene Kimmelman, a former Justice Department antitrust official and senior adviser to Public Knowledge, a consumer advocacy group.
+
+Senior committee aides say they are determined to keep the hearing focused on substance, gathering the evidence of Big Tech’s enormous power that could lay the groundwork for action, including new legislation. But with the tech giants playing defense on so many fronts, particularly in a high-stakes political season, the potential is high for a dramatic showdown, though one possibly tempered by its unusual logistics.
+
+Each of the testifying executives will come bearing different experiences with lawmakers. Apple’s Tim Cook testified in 2013, before the backlash against tech really took hold, and largely came away unscathed — discussing the finer points of global tax policy with lawmakers. Alphabet’s now-CEO, Sundar Pichai, proved cool under pressure in a hearing covering Google’s data practices and claims of political bias held by the House Judiciary Committee in late 2018. And Facebook’s Mark Zuckerberg was grilled for 10 hours by the House and Senate about the company’s track record on privacy.
+
+Of the four CEOs, however, much of the general public’s attention is likely to fall on Amazon’s Jeff Bezos. The world’s richest man has positioned himself in some ways as a DC power player by buying a home in the nation’s capital, establishing new Amazon offices a stone’s throw from Reagan National Airport and with his ownership of The Washington Post. And yet Bezos has never testified before Congress. Indeed, it’s rare to see Bezos interviewed in an unscripted or unfriendly setting, leading many to wonder how he is likely to perform under questioning.
+
+Why Silicon Valley is under fire
+
+Unlike in Microsoft’s case — which focused on how the company was using Windows to gain an unfair advantage in Web browsers and other types of software — the businesses taking the hot seat on Wednesday face a much wider range of complaints. It’s a reflection of how dramatically the tech industry has expanded to fill virtually every corner of our lives, going beyond computing to include groceries, health monitoring, transportation and other everyday activities.
+
+For more than a year, the Judiciary Committee’s antitrust panel, led by Rhode Island Democratic Rep. David Cicilline, has demanded troves of evidence from the companies and conducted interviews with many of their rivals. It’s resulted in five public hearings; 385 hours of closed-door calls, briefings and other meetings; and 93 requests for information from the companies that have yielded more than 1.3 million documents, according to senior committee aides.
+
+The CEOs’ testimony will now flesh out that record in a highly visible fashion, marking what one committee aide described as the “final stretch” in the investigation.
+
+Amazon is under fire for allegedly using sales data from its third-party sellers to figure out what new products to sell and how to undercut those same independent shops on its platform. Apple’s rivals have accused the company of app store policies that limit how apps can be designed and that drive software makers to use Apple-owned payment channels.
+
+Facebook’s dominance in digital advertising has raised questions about whether it is killing small news outlets by peeling away their advertising revenue and buying smaller startups as a possible strategy to snuff out would-be rivals. And Google has been accused of favoring its own services in search results and has been fined in Europe for bundling them with its Android operating system.
+
+Each of the businesses has pushed back on the antitrust claims, with some stressing the competition they do face — often referring to each other, or to the growing economic power of Chinese companies — or carefully noting that many of their services are free to consumers or available at very low cost. (For decades, a key preoccupation of antitrust law has been the effect of corporate behavior on consumer prices. More recently, some experts have questioned whether courts have focused too narrowly on price effects, particularly in an era of powerful, data-driven advertising.)
+
+The companies didn’t immediately respond to requests for comment for this story.
+
+In some sense, the hearings can be viewed as a culmination of years of mounting scrutiny and criticism of the tech industry’s impact on privacy, civil discourse, hate speech and elections. But those issues may have less to do with specific antitrust claims than a perception that the platforms have simply become essential services. Still, even though those issues are less directly tied to competition, many analysts widely expect them to be raised at the hearing.
+
+How tech companies may defend themselves
+
+Ahead of the debate, at least one company put forth research to show how the scrutiny they face is misguided. On Wednesday, Apple released a study it commissioned showing that the 30% cut of revenue it takes from app developers is common throughout the digital ecosystem — including on the Google Play Store, the Microsoft Store and other online marketplaces.
+
+The four CEOs will vigorously argue, much as Gates did, that their companies have enabled countless other businesses to form and thrive. And lawmakers will play their role, seeking to poke holes in the executives’ logic and catch them unprepared.
+
+But in many ways, the arguments that play out in the hearing are not the ones that will matter, according to David Heinemeier Hansson, founder of the project management software company Basecamp. Hansson, a vocal critic of Apple who testified before the antitrust subcommittee in January, represents one of many smaller tech companies that the investigation has emboldened to come forward with complaints against the larger platforms.
+
+The overall impression the hearing will create is a sense of momentum, Hansson argued, one that could pave the way for an antitrust lawsuit from the Justice Department — which is probing Google — or state attorneys general, who have separate investigations ongoing into Google and Facebook.
+
+“I think the event itself is more important than what any individual executive is going to say,” Hansson said. “What’s so wild is, we’ve essentially gone 25 years without any material antitrust enforcement in technology since the Microsoft case. All of a sudden, we’re just sitting on a buffet of antitrust enforcement.”

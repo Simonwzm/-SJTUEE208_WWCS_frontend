@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200131151711-nvidia-geforce-now.jpg?q=x_44,y_0,h_850,w_1510,c_crop/w_800

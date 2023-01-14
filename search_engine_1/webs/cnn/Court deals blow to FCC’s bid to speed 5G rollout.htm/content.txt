@@ -1,0 +1,19 @@
+Washington CNN Business —
+
+The Federal Communications Commission tried to expedite the rollout of 5G wireless technology by cutting red tape. Now a US court has found the regulators erred in trying to exempt 5G cell sites from environmental impact and historic preservation reviews.
+
+The effort by US telecom regulators to speed the deployment of 5G wireless technology through deregulation has thus far largely survived a court challenge by environmental and tribal groups.
+
+But in a decision released Friday, a three-judge panel for the US Court of Appeals for the D.C. Circuit ruled against one of regulators’ key claims: That 5G is so important, cell sites using the technology can bypass environmental and historical preservation reviews.
+
+In the ruling, the judges said such reviews are meant to “assess the effects of new construction on, among other things, sites of religious and cultural importance to federally recognized Indian Tribes.” But at the same time, they held, the FCC’s order “effectively reduced” the role of those tribes in the decision making process for new 5G cell sites.
+
+The result is a mixed bag for the FCC, which voted last year to override many municipal rules surrounding 5G permitting in a bid to accelerate approvals for 5G cell sites.
+
+The judges did not address big swaths of the FCC’s deregulation. For example, they declined to address the FCC’s move forcing cities to approve cell sites on expedited time frames, or requirements aimed at reducing the cost of permitting. Those are the subject of a separate case in the US Court of Appeals for the Ninth Circuit.
+
+“I am pleased that the court upheld key provisions of last March’s infrastructure decision. Most importantly, the court affirmed our decision that parties cannot demand upfront fees before reviewing any cell sites, large or small,” said FCC Commissioner Brendan Carr.
+
+But the panel dealt a blow to the FCC when it said the agency erred in trying to exempt 5G cell sites from historical and environmental reviews.
+
+“Today’s decision confirms that the FCC cannot just scream ‘5G’ to justify ignoring its duties to Tribal Nations and to the environment,” said Andrew Schwartzman, a lecturer at Georgetown University who participated in the case.

@@ -1,0 +1,11 @@
+New York (CNN Business) Forget the stereo. Your next car could come with a virtual reality entertainment system.
+
+Holoride, a tech startup whose promise is "turning vehicles into moving theme parks," recently announced at the SXSW festival in Austin that it is bringing VR headsets to select Audi SUVs and sedans this summer.
+
+With the Holoride system, Audi passengers will be able to blend what they see on the actual journey with augmented reality elements via motion-synchronization technology. Passengers can fly over rainforests or enter a virtual office to join a work call, all from the backseat of the car, according to the company. And Holoride says its technology adapts the experiences to each trip's length, location and the driving style of the person at the wheel to offer new content each time you climb into the car.
+
+Holoride's goal is to monetize the many hours people spend in cars each year. Holoride, and the companies it's partnering with on in-car experiences, are also looking ahead to a possible future filled with self-driving cars. In that world, everyone in a vehicle could be a passenger and there may be opportunities for new entertainment products and subscription services. The partnership also comes at a time when VR headsets broadly appear to be gaining more traction with consumers.
+
+Holoride spun out from Audi in 2019 and partnered with Swedish software development firm TerraNet to build the sensors and software required to quickly process a vehicle's surroundings and translate the data into VR responses. Audi still holds a minority interest in the VR company through Audi Electronics Venture, a subsidiary that developed the tech and licenses it to Holoride. But Holoride is not exclusive to Audi and is using an open platform that will allow any car manufacturer to use the entertainment system.
+
+Read More

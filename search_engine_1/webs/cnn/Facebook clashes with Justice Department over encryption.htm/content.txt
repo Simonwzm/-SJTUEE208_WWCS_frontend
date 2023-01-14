@@ -1,0 +1,23 @@
+CNN —
+
+Facebook is resisting calls by Attorney General William Barr to delay the company’s rollout of encryption technology across its platforms, ratcheting up tensions between the tech industry and law enforcement over a pivotal security issue affecting billions of consumers.
+
+Responding this week to an earlier letter Barr sent to the tech giant, Facebook (FB) said encryption protects businesses and personal communications from hackers. Giving into law enforcement demands for special access to that data, Facebook (FB) said, would endanger public safety.
+
+Barr’s proposal would be a “gift to criminals, hackers and repressive regimes,” the technology giant said in its response, which was dated Monday and released to the public on Tuesday.
+
+Facebook said earlier this year that it planned to add end-to-end encryption to its various messaging platforms, including WhatsApp and Messenger, as part of a broader effort to position itself as more focused on privacy.
+
+Facebook’s response to Barr was released as representatives from the company and Apple (AAPL) were set to appear at a Senate hearing Tuesday on the benefits and risks of encryption.
+
+The exchange highlights a renewed debate over encryption technology, spurred in large part by Barr himself. In recent months, Barr has questioned whether encryption – an option to conceal the contents of the message from anyone other than the people who sent and received it – may be allowing criminals to evade detection by the authorities.
+
+“By enabling dangerous criminals to cloak their communications and activities behind an essentially impenetrable digital shield, the deployment of warrant-proof encryption is already imposing huge costs on society,” Barr argued in a speech at Fordham University’s International Conference on Cyber Security in July.
+
+But for years, the tech industry — alongside academics, civil society groups and security engineers — has argued that exceptions for law enforcement will inevitably be exploited by determined cybercriminals, which they argue makes the cure more dangerous than the disease.
+
+A group of more than 100 organizations, experts and privacy advocates wrote separately to Barr on Tuesday, saying that technologists “cannot build systems that are inherently able to tell when ‘bad’ people use them, just as engineers cannot design sidewalks and highways to crumble underneath the feet of certain people.”
+
+Facebook’s own response to Barr cited that letter, and added that building backdoor access for law enforcement “is not something we are prepared to do.”
+
+Encryption is the public’s “first line of defense” against online attackers, Facebook said, “as it keeps them safe from cyber attacks and protected from falling into the hands of criminals.”

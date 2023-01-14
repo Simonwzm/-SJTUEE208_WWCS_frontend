@@ -1,0 +1,279 @@
+The tweet was when Eric Yuan knew something had to change.
+
+Boris Johnson, the UK prime minister, shared a photo from his first ever virtual cabinet meeting. The cybersecurity red flags jumped out immediately.
+
+Some cabinet secretaries’ Zoom screen names were visible, you could see which platform the cabinet was running its computers on, and most glaringly, the meeting ID was visible for all to see.
+
+The significance of the moment was not lost on the team at Zoom.
+
+“That was the big aha moment,” Zoom board member Santi Subotovsky told CNN Business.
+
+Zoom founder Eric Yuan poses in front of the Nasdaq building after the company's IPO in April 2019. (Kena Betancur/Getty Images) Kena Betancur/Getty Images
+
+Zoom grew into a vastly profitable business selling software to businesses that could enable a venture capital firm to seamlessly take virtual pitch meetings from around the globe or an executive to deliver an all-hands to a remote workforce. Powering British Cabinet meetings was never on the radar.
+
+“Our company that used to be a 100% enterprise-focused, is now powering the world. It’s powering governments, education, social activities… And then when the other shoe dropped, it’s like we need to get ready for that,” Subotovsky said.
+
+Zoom was already enmeshed in controversy. Less than two weeks earlier, The New York Times had raised the flag on “Zoombombing,” opening the door to a flood of scrutiny, from its feeding data into Facebook to the New York State Attorney General scrutinizing its data practices.
+
+But for Eric Yuan, the 50-year-old founder and CEO of Zoom, it was the Johnson tweet that changed everything.
+
+This morning I chaired the first ever digital Cabinet.
+
+
+
+Our message to the public is: stay at home, protect the NHS, save lives. #StayHomeSaveLives pic.twitter.com/pgeRc3FHIp — Boris Johnson (@BorisJohnson) March 31, 2020
+
+“This was our wake-up call,” Yuan told CNN Business over a Zoom interview from his San Jose home.
+
+Yuan blames himself for not anticipating that users might want to share a screenshot of a meeting. For his business clients, sharing a screenshot of your board meeting would be unthinkable. But business clients weren’t his only worry anymore. The world had become his customer.
+
+Within a week, Zoom pushed out an update that would hide the meeting ID from view. But for Yuan and his team at Zoom, the damage had only just begun.
+
+Yuan built Zoom to please his customers — to use Zoom-speak he wanted to “deliver happiness” — and for years that meant giving his business clients a high-quality video conferencing platform that was easy-to-use. “Frictionless,” as the company likes to say.
+
+But during a global pandemic that has transformed Zoom into an essential tool for schools, church groups, weddings, and the cabinet of a G7 economy, Yuan is trying to figure out how to make Zoom something it was never meant to be.
+
+Now, “Zoom is not only a business communication company, suddenly it’s becoming an infrastructure company,” Yuan said.
+
+Since the pandemic, Yuan has had little time to enjoy his family’s multiplying fortune ($8 billion at last count, according to Forbes). He refers to this time as the most stressful weeks of his life, which now consists of three things: Zooming, eating and sleeping, and he’s barely been doing much of the last one.
+
+“I’ve had several sleepless nights” Yuan said in front of a virtual background with the words “WE CARE” hovering over a heart-shaped earth.
+
+What is the question keeping the CEO of the company — one that is now worth more than General Motors —up at night?
+
+Yuan takes a breath.
+
+“How did we get here?”
+
+Zoom is headquartered in San Jose, California. (Smith Collection/Gado/Getty Images) Smith Collection/Gado/Getty Images
+
+Shandong to Silicon Valley
+
+Yuan grew up in the Shandong Province in China in what he describes as a middle-class family. The child of geological engineers, Yuan was an average student who studied computer science, and after a stint working in Japan, decided he wanted to come to the center of technological innovation: Silicon Valley.
+
+“I wanted to embrace that first wave of internet revolution,” Yuan said.
+
+Yuan applied for an H-1B visa to come to America but was rejected. And then rejected again. And again. In what has now become part of his founder’s lore, Yuan applied eight times before being accepted into the United States.
+
+Yuan entered Silicon Valley in 1997, during the first internet boom. Entranced by fast-growing companies like Netscape and Yahoo, who were revolutionizing the world’s communications, Yuan wanted to get in on the ground floor of a bustling startup. He found it at WebEx, a young company — he was among the first 20 hires — whose goal was to leverage rapidly increasing bandwidth capabilities into online meetings where you could share your desktop screen easily and cheaply.
+
+Yuan, who was 27 years old at the time of his arrival, fit into the global workforce of WebEx — a significant number of Chinese immigrants were recruited alongside Yuan — but found himself stymied by his inability to speak English.
+
+While he could understand the conversations around him, he says he couldn’t participate. “I couldn’t join a marketing team or a sales team,” said Yuan. “I had to go back to writing code.”
+
+Yuan’s former colleagues associate Yuan’s limited English (he still has a thick Chinese accent) with him being repeatedly overlooked.
+
+“I saw a tremendous amount of unconscious bias against Eric because he didn’t look the part, he didn’t sound the part,” says David Knight, a former VP of Product Management at WebEx. “We put so much stock in how people communicate. We ascribe their eloquence to be their intelligence.”
+
+While Yuan couldn’t control how others understood his English, he focused on what he could control: his work.
+
+“I knew two things from my father: keep working hard, stay humble, and someday you’ll be OK,” Yuan said.
+
+Eric Yuan speaks before the Nasdaq opening bell ceremony on April 18, 2019 in New York City. The company's IPO priced at $36 per share, at an estimated value of $9.2 billion. (Kena Betancur/Getty Images) Kena Betancur/Getty Images
+
+The WebEx years
+
+WebEx was founded by two immigrants: Subrah Iyar came from India and ran marketing and sales, while Min Zhu, a Stanford-educated immigrant from China, was in charge of technical development. Both became mentors for Yuan. WebEx’s early days were similar to many startups in the Valley: a flat, diffuse hierarchy that rewarded long hours from a loyal staff intent on changing the world.
+
+“We were very scrappy,” said Ed Wong, a friend of Yuan who worked as a product manager with him at WebEx.
+
+Unlike other product-focused companies, WebEx sold itself as a cheap cloud-based “SaaS” (software as a service) that only required you to download its product: no expensive hardware purchases necessary.
+
+“Your economics had to be different,” explained Subrah Iyar to CNN Business. “The price point for SaaS meant that you didn’t get too much money upfront, you got it on a monthly basis.”
+
+That SaaS model put tremendous pressure on the employees of WebEx to continually service and respond to their customer’s demands. Companies were taking risks moving meetings and events online and any disruption in that service was seen by the WebEx team as an existential threat.
+
+“Nobody thinks of web conferencing as mission critical. But when a meeting goes south and you’ve got eight or ten executives on the call, it’s a big deal,” said Knight.
+
+“If WebEx was down for five minutes, I would spend the next month traveling and meeting customers, explaining to them why it happened and why it wouldn’t happen again,” said Velchamy Sankarlingam who worked alongside Yuan as an engineer at WebEx. “If your service goes down, you’re going to get churn. People are going to switch away.”
+
+Yuan proved his worth to Iyar and Zhu, rising to lead the engineering team as the company’s fortunes grew.
+
+First there was the RuPaul Superbowl ad in 2000, then a successful IPO later that year. WebEx even received an unlikely boost after 9/11. Amid global panic, companies who didn’t want their employees flying unnecessarily instead turned to a service that could enable cheap and easy virtual meetings. And because WebEx was built on the cloud, Yuan and his engineering team’s software could scale and meet the increasing demand.
+
+After first fielding an offer from IBM, Iyar and the WebEx board decided to sell their company in 2007 to Cisco for $3.2 billion.
+
+Yuan, who was so attached to WebEx that he referred to it as “his baby,” now found himself an employee of the one of the largest technology companies in the world.
+
+The WebEx team celebrates their IPO in 2000. WebEx cofounder Subrah Iyar, in a greige shirt, is flanked by Eric Yuan in a black polo shirt and hat. Yuan was an engineer for the company at the time. (Photo courtesy of Subrah Iyar) Subrah Iyar
+
+From fast-growing startup to a ‘rounding error’
+
+Thanks to the Cisco acquisition, Yuan became a rich man. But while some WebEx employees took their earnings and split — wary of making the transition from fast-growing startup to cog in a Fortune 500 corporation — Yuan stuck around. It was still his baby after all.
+
+“He wasn’t ready to leave yet. He had a lot of loyalty,” said David Knight, a VP at WebEx at the time of the acquisition. But, that loyalty was quickly tested.
+
+“Almost immediately they started to dismiss everything that we did,” said Matt Sheppard, then a WebEx employee. “Eric was dismissed, along with the other leadership at WebEx, as being kind of second rate.”
+
+But still, Yuan stayed. “Every time I felt like leaving, I just got emotional,” said Yuan, who worked at Cisco for four years.
+
+Former WebEx employees who made the transition to Cisco describe a key philosophical difference in how the two companies handled their customers. While WebEx’s SaaS business model required them to serve their customers 24/7, Cisco made its billions selling physical routers and switches.
+
+“It’s a completely different mindset,” said Sankarlingam. “Cisco just sells the gear. And after that it’s up to your network … if a company’s network goes down, nobody’s going to go blame Cisco.”
+
+WebEx, once a fast-growing startup, now was a cog in a blue-chip behemoth. “We were a rounding error in Cisco’s business,” Knight said.
+
+Yuan felt for the first time that he couldn’t satisfy his customers. He says his WebEx customers grew frustrated with the quality of the product. They wanted WebEx to work reliably and more intuitively. And above all else, they wanted video to run seamlessly.
+
+“He was sincere, almost naïve in that he always cared about the WebEx customers and that they were not being attended to,” said Iyar, who was often told by Yuan that he should have never sold the company.
+
+Yuan would confide in Iyar that he felt like he was betraying the customer-obsessed ideals he learned at WebEx.
+
+“He had the advantage, in retrospect, that that’s the only thing he grew up with, right? In a sense, one of his strengths is that he’s a purist to that model,” said Iyar.
+
+For Yuan, his time at Cisco turned out to be invaluable: it transformed him from engineer to entrepreneur. Yuan’s frustrations at Cisco “sparked the flames in his fire that he became very competitive,” said Sheppard. Founding Zoom “was purely a reaction to them not listening to him.”
+
+A Cisco spokesperson told CNN Business in a statement that the WebEx acquisition was a “very important one for us and changed the way the world works. We thank Eric for his time at Cisco.”
+
+Zoom founding
+
+Yuan left Cisco in 2011, along with around 40 China-based WebEx engineers. Initial funding for his new company came from his acquaintances and former colleagues, including Subrah Iyar. “If he told me he was sending a person to Mars I would have put money in,” recalls Iyar. With funding and staff in place, Yuan could launch his new baby: Zoom.
+
+The pitch was simple. Build a better WebEx.
+
+A substitute teacher works from her home in Arlington, Virginia, using Zoom to communicate with students and their families. (Olivier Douliery/AFP/Getty Images) Olivier Douliery/AFP/Getty Images
+
+“He didn’t try and revolutionize it. He just made it better and cheaper and higher quality and simpler and video-centered,” said Knight, who left WebEx shortly before Yuan.
+
+Yuan’s plan to capture WebEx’s enterprise market relied on building Zoom video-first. It would be cloud-based, run on Macs and PCs, iPhones and Androids, and you could make it work without downloading any software in your browser.
+
+But above all else, Yuan wanted to make his customers happy.
+
+“I wanted to join a company where I woke up every morning and felt happy: I wanted to build a better solution to deliver happiness to the WebEx customers,” said Yuan. “That’s it.”
+
+AT&T, which owns CNN’s parent company WarnerMedia, offers business customers Cisco’s WebEx collaboration software, which competes with Zoom.
+
+‘The Holy Grail’
+
+It turns out, what makes the customers of video conferencing happy is the things they don’t have to think about. No one wants to download an app or sign up for an account if they don’t have to. They just want the thing to work.
+
+But ask any engineer and they’ll tell you that making a simple product is never simple.
+
+“You have to build a lot of discipline into the product,” Oded Gal, a former WebEx veteran who now works alongside Yuan at Zoom as its Chief Product Officer, told CNN Business.
+
+Just as WebEx built a cutting-edge screensharing platform off the new bandwidth enabled by the DSL and T1 lines of the 1990s, Zoom would be built off the advanced data networks capable of streaming HD video. “Video was not possible in the 2000s because the bandwidth was not there,” said Iyer. “That was changing.”
+
+In a Zoom call, each user can upload upwards of two streams (one for video, one for screensharing) to a cloud server which then compresses each stream, adjusts the output for the bandwidth and CPU capability of each computer or phone, and sends them back, with as low a latency as possible. Multiply that by up to 100 users, and the problem becomes exponentially more complicated.
+
+“You don’t know what you don’t see, you just experience the end result,” said Iyar.
+
+Alexis Garrod, CrossFit Potrero Hill partner and head coach, demonstrates an exercise to participants while instructing a class over Zoom in an empty gym in San Francisco in April. (Jeff Chiu/AP) Jeff Chiu/AP
+
+“Everybody thinks video conferencing is easy and it turns out the tech is really hard to do,” says Knight. “You don’t control the network, you don’t control the ISP, you don’t control whether somebody turns the microwave on and interferes with the WiFi.”
+
+While figuring out how to make scalable video calls was a daunting challenge, for Yuan’s Zoom team, it was only half the battle. They also had to make Zoom frictionless enough that anyone could use it. So easy that it makes his customers happy.
+
+Zoom could work in any browser. It wouldn’t need you to adjust your firewall settings. And unlike WebEx meetings, with their hard-to-remember pins and meeting IDs, Zoom would be accessible with a simple link.
+
+“Getting rid of that user friction… in the tech world, it’s kind of the holy grail,” said Beth Kindig, technology analyst at beth.technology.
+
+Zoom spreads
+
+Yuan’s new baby was up and running.
+
+Yuan’s plan for Zoom was to pilfer off WebEx’s customers. To attract new users, Zoom began offering a freemium version of its product. Meetings under 40 minutes with up to 100 users would be free to use. Yuan’s bet was that as more users tried Zoom, businesses would see that it worked better than WebEx, and would end up paying to switch to his new product.
+
+Zoom’s freemium model gave it an entrance into a crowded marketplace where its competition were some of the largest companies in the world. Of course, there was Cisco’s WebEx, but Zoom was also up against Microsoft and Google. But while companies might have had established deals with WebEx, Zoom’s freemium accounts meant that the employees at those companies could just use Zoom.
+
+“Everyone had Cisco WebEx, or they had Microsoft Suites,” said Kindig. “But everyone used Zoom because of how easy it was to just send out that link.”
+
+The "Saturday Night Live" cast used Zoom to film the show from their homes. (SNL/Twitter) SNL/Twitter
+
+Live from Zoom, it’s ‘Saturday Night Live!’
+
+Zoom was winning.
+
+Yuan’s freemium strategy worked and tech companies, entranced by Zoom’s simplicity and efficiency, signed up for premium Zoom subscriptions. In a few short years, Zoom found itself the video conferencing market leader, and, after a successful 2019 IPO, Yuan became a billionaire multiple times over. Yuan’s baby was all grown up.
+
+But a funny thing happened on the way to dominating the B2B remote video conferencing market: a global pandemic turned Zoom into a household name.
+
+With the world shutting down in a matter of weeks, every institution, every school, every college, every family now found themselves in desperate need of a way to communicate.
+
+Yvonne Reiter performs a Torah reading over Zoom as she celebrates her bat mitzvah ceremony at home during the coronavirus pandemic. (Lindsey Wasson/Getty Images) Lindsey Wasson/Getty Images
+
+“You don’t go into a pandemic with the video conferencing solution you wish you had. You go into the pandemic with the video conferencing solution you have,” said Bill Marczak, a research fellow at the Citizen Lab.
+
+Over a mindboggling month of coronavirus-fueled growth — according to Zoom, its traffic is up 3,000% since December — Zoom unexpectedly joined Google, Kleenex and Band-Aid in the hallowed branding pantheon of proprietary eponyms. “You free to Zoom?” a phrase that would have been incomprehensible to the vast majority of us a couple of months ago, became an invitation your grandparents understood.
+
+And during an unprecedented spike in traffic, Zoom’s cloud network, built on AWS and Oracle, scaled up to meet the crushing demand.
+
+Yuan’s obsessions — his focus on video, on ease-of-use, on building scalable architecture — all paid off, and amid a cratering global market, Zoom’s stock surged over 200%.
+
+But as Zoom transitioned from IT departments to “Late Night with Jimmy Fallon” and 10 Downing Street, security researchers began to dig into this newly ubiquitous company.
+
+Was this easy-enough-for-anyone-to-use product actually safe for any of us to use?
+
+‘Speed at the expense of all else’
+
+The hits came quick.
+
+First it was “Zoombombing.” Then Zoom’s encryption was discovered to be inadequate and its data was found to be routed through Chinese servers. Its privacy policy was picked apart.
+
+Lawsuits were filed, New York Attorney General Letitia James sent a letter asking whether the company “is taking appropriate steps to ensure users’ privacy and security,” and institutions like NASA, New York City schools, and SpaceX banned their employees from using Zoom.
+
+Zoom says that the problems stem from its overnight transformation into an infrastructure company for the world. Before, Zoom expected its business customer base to have security teams who would enable best practices, like enabling passwords by default. Yuan wrote a blog stating that the servers located in China were an accident due to the surge in traffic, and Zoom data would not be routed through them again.
+
+“[Yuan] realized that he has to be the IT department, the compliance department for the world, which I don’t think he signed up,” said Yuan’s old mentor, Iyar.
+
+Zoom acted swiftly, quickly patching uncovered security vulnerabilities, purchasing Keybase, an encryption startup, instituting a 90-day product freeze, and hiring Alex Stamos, former chief security officer at Facebook, and Lea Kissner, formerly the global lead of privacy technology at Google to bolster its security team. It has since come to an agreement with Attorney General James, and New York City public schools are now permitting its use.
+
+In November, Zoom settled with the Federal Trade Commission over what the agency described as “unfair and deceptive security practices,” including misleading its customers about whether end-to-end encryption was actually being used.
+
+“The hundreds of millions of consumers who rely on Zoom every day to conduct business, get healthcare, educate their kids, and connect with family members have a right to expect the company to take steps to protect their personal information,” the FTC wrote in a blog post.
+
+In a statement to CNN Business, Zoom said the FTC settlement was “in keeping with our commitment to innovating and enhancing our product as we deliver a secure video communications experience.”
+
+When you begin to examine Zoom’s security vulnerabilities, a theme emerges.
+
+“A lot of the security issues we saw seem to be the result of choices made that privileged user experience over security,” said Marczak, who was part of the Citizen Lab team that uncovered security vulnerabilities in Zoom. “You get this clear pattern where it looks like there were these vulnerabilities that were caused by decisions made to increase speed at the expense of all else.”
+
+Musician Tati Diaz Bonilla plays the keyboard as a student listens and watches through Zoom during an online lesson from his apartment in Buenos Aires, Argentina. (Marcelo Endelli/Getty Images) Marcelo Endelli/Getty Images
+
+Marczak helped uncover a vulnerability in Zoom’s “waiting room.” The waiting room is the first step of a password protected meeting, where the host could choose to let people in. Marczak and his colleague John Scott-Railton discovered that Zoom was sending an encrypted stream of the meeting to those not-yet-accepted. A savvy user could scoop up that data and spy on the meeting, “presumably, so that when you were admitted the video would show instantly,” explains Marczak.
+
+Or, take the Boris Johnson photo.
+
+Having the meeting ID visible on the top-left corner of the screen was an intentional choice to make Zoom’s customers not have to dig around menus to find a meeting ID. “We wanted it to be easier for the end user to let others join,” Yuan said. But having a visible meeting ID meant that a screenshot posted on social media would allow anyone to enter the ID and join in (assuming that the meeting was not password protected). “Did we think about privacy? No, that’s the problem,” Yuan said.
+
+‘His product did so well, it broke’
+
+Zoom’s security and privacy problems aren’t Yuan’s only concerns.
+
+After news that Facebook is entering the video conferencing game, Zoom’s stock dropped 12%, which was on the heels of news that Verizon was buying Zoom’s rival BlueJeans.
+
+And then there are the competitors, jealously eyeing the massive profits that Zoom has raked in over the last year. Open your Gmail app and you’ll find a prominent “Meet” button, beckoning you to invite others into a video chat. Microsoft blanketed the airwaves with ads touting the Zoom-esque video chat features of its Teams platform and Facebook, no stranger to copying from a rising competitor, launched its “Messenger Rooms” back in April.
+
+Zoom’s long-standing ties to China are also becoming an increasing liability. The company has utilized Chinese developers from its onset — its R&D department in China has over 700 employees — a practice that Zoom warned in its annual report “could expose us to market scrutiny regarding the integrity of our solution or data security features.” In April, Speaker of the House Nancy Pelosi erroneously referred to Zoom as a “Chinese entity,” while rejecting the idea of a Zoom enabled remote Congressional session. (Zoom is an American-based company, headquartered in San Jose).
+
+In July, a bipartisan group of senators wrote a letter to the Justice Department, urging them to investigate both Zoom and TikTok’s connections to China.
+
+“We believe that it is imperative that the Department of Justice investigate and determine whether Zoom and TikTok’s business relationships, data handling practices, and operational connections to China pose a risk to Americans,” wrote Sen. Josh Hawley (R-MO) and Sen. Richard Blumenthal (D-CT).
+
+Yuan admitted to CNN that as tensions between China and the United States rise, Zoom might have to adjust its long-standing ties to China, suggesting Denver, Ohio or Virginia as possible sites for a relocated Zoom R&D center. “If things get worse, we do have a plan,” said Yuan.
+
+Subsequently Zoom announced it would triple its workforce in India, and open two R&D centers in Phoenix and Pittsburgh, with plans to hire “up to 500 software engineers” between the two cities.
+
+Portuguese Minister of State, Economy and Digital Transition, Pedro Siza Vieira, meets via Zoom video conference with members of the Portuguese Foreign Press Association AIEP to discuss the government's economic response to the coronavirus pandemic. (Horacio Villalobos/Corbis/Getty Images) Horacio Villalobos/Corbis News/Getty Images
+
+Meanwhile, the safety of Zoom has remained a controversial subject amongst security researchers.
+
+“Zoom is Malware,” reads one headline, while a trio of security researchers published “Zoom isn’t Malware,” offering a number of steps to bolster up security for the average user.
+
+And while Zoom’s continued public lashing is ongoing, it could end up helping them in the long run.
+
+“I think that probably a lot of CEOs are envious of his position,” said Kindig. “His product did so well, it broke.”
+
+“Thank you, Zoom, for listening,” wrote Doc Searls, a technology journalist who had been highly critical of Zoom’s privacy policies. “At least in public, they’re taking all the right steps,” echoed Marczak.
+
+Yuan says the scrutiny that Zoom has received has been a blessing in disguise, allowing him to improve his company in ways that he never could have imagined otherwise. He now devotes his entire day only to security and privacy matters. “The harshest criticism may be the best words you ever hear,” Yuan muses.
+
+Even in response to Nancy Pelosi wrongly describing Zoom as a “Chinese entity” Yuan blames himself.
+
+“If the world misunderstands us, then I don’t blame others, it’s our problem… We are a very proud American company. The company is a public Nasdaq company, headquartered in San Jose. I’m a Chinese American. I truly believe… as long as you do the right thing, sooner or later they will know it… just be patient.”
+
+“In ten to twenty years, when people write the history of Covid-19, I want them to write that Zoom did the right thing for the world,” Yuan said.
+
+CORRECTION: An earlier version of this story misstated the year for Zoom’s 600% stock surge. It was 2020.
+
+This story was originally published in May 2020, and updated in November.

@@ -1,0 +1,27 @@
+(CNN Business) Google says it will examine the departure of a prominent Black female researcher in the field of ethics in artificial intelligence, whose recent, sudden exit has angered thousands of the company's employees and others in the tech and academic communities.
+
+In a memo sent Wednesday toemployees, CEO Sundar Pichai said the company needs to "assess the circumstances" that led up to Timnit Gebru leaving Google last week, and examine "where we could have improved and led a more respectful process."
+
+"We will begin a review of what happened to identify all the points where we can learn — considering everything from de-escalation strategies to new processes we can put in place," he wrote in a memo that was first posted online by news website Axios and has been confirmed as authentic by CNN Business. A Google spokeswoman said the company had no comment.
+
+Gebru is known for her research into bias and inequality in AI, and in particular for a 2018 paper she coauthored with Joy Buolamwini that highlighted how poorly commercial facial-recognition software fared when attempting to classify women and people of color. Their work sparked widespread awareness of issues common in AI today, particularly when the technology is tasked with identifying anything about human beings.
+
+Until early December, Gebru was the co-leader of Google's ethical AI team, and one of very few Black employees at the company overall (3.7% of Google employees are Black, according to the company's 2020 annual diversity report) — let alone in its AI division. The research scientist is also co-founder of the group Black in AI, which aims to increase representation of Black people in the field.
+
+On Wednesday, December 2, Gebru tweeted that she had been "immediately fired" for an email she recently sent to Google's Brain Women and Allies internal mailing list . In the email she expressed dismay over the ongoing lack of diversity at the company and frustration over an internal process related to the review of a not-yet published research paper she coauthored about the risks of ever-larger AI language models that are trained on text from the internet.
+
+Google AI Research Scientist Timnit Gebru speaks onstage during Day 3 of TechCrunch Disrupt SF 2018 at Moscone Center on September 7, 2018 in San Francisco, California. (Photo by Kimberly White/Getty Images for TechCrunch)
+
+In later tweets , Gebru clarified that no one at Google explicitly told her that she was fired. Rather, she said Google would not meet a number of her conditions for returning and accepted her resignation immediately because it felt that her email reflected "behavior that is inconsistent with the expectations of a Google manager."
+
+was In an email sent to Google Research employees on December 3 thatwas posted publicly the following day, Jeff Dean, Google's head of AI, told employees his perspective: that Gebru coauthored a paper but didn't give the company the required two weeks to review it before its deadline. He also wrote Gebru responded with demands that had to be met if she were to remain at Google.
+
+Pichai said in the memo that he was sorry for how Gebru leaving Google has "seeded doubts and led some in our community to question their place" at the company. He did not apologize for the way her employment at Google ended.
+
+Gebru did not respond to a request for comment about the memo, but in a tweet she said she sees Pichai's comment about seeding doubts as, "I'm sorry for how it played out but I'm not sorry for what we did to her yet."
+
+In response to Gebru's departure, which struck many of her colleagues as a failure by an industry titan to foster an environment supportive of diversity, over 2,200 Google employees and over 3,100 supporters in the academic and AI fields signed a Medium post decrying her departure and demanding transparency about Google's decision regarding the research paper.
+
+Those sharing their support include numerous women who have fought inequality in the technology industry, such as Ellen Pao, CEO of Project Include and former CEO of Reddit; Ifeoma Ozoma, a former Google employee who founded Earthseed; and Meredith Whittaker, faculty director at the AI Now Institute and a core organizer of the 2018 Google Walkout, which protested sexual harassment and misconduct at the company.
+
+Others include Buolamwini, as well as Danielle Citron, a law professor who specializes in the study of online harassment at Boston University and a 2019 MacArthur Fellow.

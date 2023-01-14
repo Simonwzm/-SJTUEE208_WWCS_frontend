@@ -1,0 +1,11 @@
+(CNN Business) Millions of students who participated in virtual learning during the Covid-19 pandemic had their personal data and online behaviors tracked by educational apps and websites without their consent and in many cases shared with third-party advertising technology companies, a new report has found.
+
+Human Rights Watch, an international advocacy organization, this week published the findings of an investigation conducted from March 2021 to August 2021 that looked into the educational services, including online learning tools, used by students all over the world when school districts shifted to remote learning.
+
+Of the 164 products reviewed across 49 countries, Human Rights Watch found 146 (89%) appeared to engage in data practices that "risked or infringed on children's rights." These practices included monitoring or having the ability to monitor children without the students' or parents' consent, and collecting a range of personal data, according to the report, such as their identity, location, their online activity and behaviors, and information about their family and friends.
+
+"Children, parents, and teachers were largely kept in the dark," Hye Jung Han, children's rights and technology researcher at Human Rights Watch, told CNN Business. "But even if they had known what was going on, they had no choice. Children had to either use these products and pay for it with their privacy, or be marked as absent and drop out of school during Covid-19."
+
+Han said the majority of the apps and websites examined by Human Rights Watch sent information about children to Google and Facebook, which collectively dominate the digital advertising market.
+
+Read More

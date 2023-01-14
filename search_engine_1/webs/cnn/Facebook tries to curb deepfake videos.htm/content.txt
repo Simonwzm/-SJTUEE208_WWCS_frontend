@@ -1,0 +1,51 @@
+CNN Business —
+
+Facebook has taken its first steps to curb highly-convincing videos known as deepfakes that have been manipulated using artificial intelligence.
+
+The social media platform announced the change in a blog post, saying it would remove videos that have been manipulated using artificial intelligence or machine learning to make it appear that the subject has said words they did not.
+
+But Facebook (FB) stopped well short of a comprehensive ban for deepfakes, carving out exemptions for parody or satire, and videos that have been “edited solely to omit or change the order of words.” And the approach immediately ran into criticism from some experts and politicians, who argued the company should go much further.
+
+Facebook has been slammed many times in the past for its failure to stop the spread of misinformation and hate speech. Deepfakes represent a new challenge for the company ahead of the 2020 US presidential election, a contest that is expected to breed huge amounts of fake news and disinformation that could mislead voters.
+
+Hany Farid, a professor of digital forensics at the University of California, Berkeley, said that Facebook’s attempt to create a coherent policy on misinformation was a “positive step.” But he said the new policy was “too narrowly construed,” and questioned why the company had chosen to focus on deepfakes and not the broader issue of intentionally misleading videos.
+
+The blog post announcing the deepfake policy was written by Monika Bickert, Facebook’s vice president for global policy management. The announcement comes one day before Bickert is scheduled testify before the House Committee on Energy and Commerce in a hearing on digital manipulation and deception.
+
+Bickert is likely to face tough questions from lawmakers. On Tuesday, a spokesman for Democratic presidential candidate Joe Biden said the company’s deepfake policy only provides the “illusion of progress.”
+
+“Facebook’s policy does not get to the core issue of how their platform is being used to spread disinformation, but rather how professionally that disinformation is created,” campaign spokesman Bill Russo said in a statement. “Banning deepfakes should be an incredibly low floor in combating disinformation.”
+
+Test cases
+
+Facebook has already been forced to address deepfakes. In June, the company declined to remove a deepfake video of CEO Mark Zuckerberg from its Instagram platform.
+
+The post manipulated a real video with an actor’s voice to make it seem as though Zuckerberg was discussing having total control of billions of people’s “stolen data.”
+
+Facebook told CNN Business on Tuesday that the video would not be removed under the new deepfake policy. However, the video would be subject to the company’s other fact-checking policies, it said, including a warning for users that the content was false.
+
+Last year, Facebook also declined to remove a heavily edited video of US House Speaker Nancy Pelosi which was slowed down to make it seem as though she was slurring her speech.
+
+Though the video was not technically a deepfake, it sparked a public conversation about what responsibilities social media companies have regarding edited videos of politicians.
+
+Bickert said in the blog post that Facebook is also focusing on the people behind deepfakes.
+
+Last month, the company removed a network of accounts fronted by fake photos created with artificial intelligence. The accounts generally posted in support of President Donald Trump and against the Chinese government.
+
+Battle lines
+
+Bickert wrote that Facebook would continue to remove any video that violates its rules on nudity, graphic violence, voter suppression or hate speech.
+
+Third-party fact checkers also review videos, and Facebook limits their distribution if the videos are determined to be fake or misleading. People who see the content or try to share it are warned that it’s false.
+
+Facebook was praised by some experts, including Boston University Law School professor Danielle Citron, for becoming more proactive and receptive to outside input. Citron, one of the experts who advised Facebook on the policy, also said that exempting satire and parody was important, arguing the policy “gives breathing room for deepfakes that contribute to public debate” and marks a step to banning harmful ones.
+
+But she also said that Facebook needs to do more.
+
+“The policy should also ban digital forgeries showing people doing things they never did,” she said. “Some deep fakes don’t involve words, just actions like deep fake sex videos. They invade sexual privacy and cause profound harm.”
+
+Farid, the Berkeley professor, asked how the deepfake policy would apply to advertisements on Facebook purchased by politicians, which are not reviewed for factual accuracy. How would Facebook respond, he asked, to a political candidate running an ad that featured a deepfake of their opponent?
+
+A Facebook spokesperson initially told CNN Business that a politician would be allowed to use deepfake video in a paid ad but then corrected themselves after this article was first published and said no manipulated media, including deepfakes, would be allowed in an politician’s ad per Facebook policy.
+
+“If a politician posts organic content that violates our manipulated media policy, we would evaluate it by weighing the public interest value against the risk of harm,” the spokesperson said.

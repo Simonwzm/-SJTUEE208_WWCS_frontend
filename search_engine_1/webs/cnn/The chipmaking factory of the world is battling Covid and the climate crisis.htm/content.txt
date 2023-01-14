@@ -1,0 +1,79 @@
+Taipei, Taiwan (CNN Business) Taiwanese officials are fretting about whether a severe outbreak of Covid-19 could jeopardize the island's critical role in the global semiconductor supply chain . But there's another threat to the industry that experts worry may have even more drastic consequences: the climate crisis.
+
+Taiwan — which accounts for more than half of the world's output of chips — has been grappling for months with its worst drought in more than 50 years, an event experts say could become more frequent due to the effects of climate change.
+
+"There is clearly pressure in the semiconductor industry," wrote Mark Williams, chief Asia economist at Capital Economics, on Thursday in a note that referenced the water shortages and coronavirus cases, along with rolling power outages.
+
+Manufacturers around the world have already had trouble securing supplies of semiconductors, delaying the production and delivery of goods. If Taiwan is hit hard, the situation could become much worse, given the island's importance in contributing to global chips supply.
+
+The environmental disaster has already been a challenge for the island's chipmakers, including industry leader. TSMC has said it uses 156,000 tons of water per day to produce its chips, the equivalent of about 60 Olympic-size swimming pools.
+
+The water is used to clean dozens of layers of metal that go into making up a semiconductor.
+
+"In a chip, there are lots of billions of transistors, and we need a lot of metal layers to interconnect all the signals," said Jefferey Chiu, an electrical engineer at National Taiwan University.
+
+"We have to clean the surface again and again after every process is finished," Chiu said.
+
+Taiwanese authorities have limited the supply of tap water across the island in response to the drought.
+
+TSMC has already tried to address the shortage by trucking in water and by boosting recycling rates. The company told CNN Business that production has so far not been affected.
+
+"We have detailed response procedures to handle water shortages at different stages," it said. "Through our existing water conservation measures, we are able to manage the current water usage reduction requirements from the government, with no impact on our operations."
+
+The Second Baoshan Reservoir in northern Taiwan, which supplies water to TSMC and other chips manufacturers at Hsinchu Science Park, only has about 30% of its normal water storage even after the monsoon season began in May.
+
+Indispensable technology
+
+Semiconductor chips are an indispensable part of everything from smartphones and cars to washing machines.
+
+Super advanced chips are tough to make due to the high cost of development and the knowledge required to manufacture them, meaning that much of the production is concentrated among just a handful of suppliers.
+
+Apple AAPL Qualcomm QCOM Nvidia NVDA TSMC is the world's largest contract manufacturer of chips , and its costly manufacturing facilities supply many companies — includingand— that can design their own chips, but don't have the resources to make them.
+
+The Taiwanese company's state-of-the-art technology has also made it a key player as the United States and China engage in a bitter rivalry over developing advanced technologies of the future, such as artificial intelligence, 5G and cloud computing.
+
+"TSMC is key to many different companies," said Alan Priestley, vice president analyst for Gartner. "Most of the high-performance electronics you are using today — like cell phones and tablets — all those chips are made by the TSMC."
+
+Constrained supply
+
+The global semiconductor industry is under a lot of pressure right now. Chips have been in short supply lately , largely because of volatile demand caused by the pandemic, US sanctions on Chinese technology companies and extreme weather. A growing number of technology companies have reported trouble securing semiconductors, which analysts said could delay production or push up the prices paid by consumers.
+
+That makes any threat to Taiwan's production all the more important to contain.
+
+Aside from the drought, officials have also expressed concern about the self-governing island's coronavirus outbreak , which began last month and has since developed into its worst since the pandemic began.
+
+James Lee, the director general of Taipei Cultural and Economic Office in New York, told Bloomberg last month that the industry could face "logistical problems" as he appealed to the United States to ship vaccines to Taiwan.
+
+"That's why it's urgent," Lee said. "We hope the international community can help release vaccines as soon as possible to help control the outbreak."
+
+Lee's office declined an interview request from CNN Business, citing his busy schedule.
+
+TSMC said last month that two of its staff had been diagnosed with Covid-19, though it said operations have carried on as usual. And Chiu, the National Chengchi University engineer, said many firms will likely be able to mitigate risks, since the chip manufacturing process is highly automated and manufactures have segregated employees in groups to limit any spread of the virus.
+
+Still, at least five semiconductor manufacturers southwest of the capital Taipei have been forced to suspend some operations as migrant workers fall ill.
+
+King Yuan Electronics, a leading supplier of semiconductor testing and packaging services, had to suspend business for two days last weekend after more than 200 staff members tested positive, according to the Central News Agency, the island's official news source. All migrant workers, or about 30% of the company's 7,000 workers, were placed in quarantine for two weeks after a virus cluster was reported at their dormitories.
+
+While King Yuan said it has deployed more Taiwanese workers to its production lines, it warned that factories are only able to operate at limited capacity.
+
+April data on global orders for semiconductors suggests that "capacity constraints will persist," Williams of Capital Economics wrote last month, noting there were a lot more orders than exports from Taiwan.
+
+"This won't continue indefinitely: orders for semiconductors last month were 74% higher than pre-pandemic which isn't sustainable," Williams said, adding that the order backlog "will take a while to clear."
+
+The Taiwan Semiconductor Manufacturing Company, based in the northwestern Taiwanese city of Hsinchu, currently produces the world's most advanced computer chips.
+
+Long-term consequences
+
+Experts say the water shortage problem, meanwhile, could worsen in the future. Climate change is likely to bring less rainfall to Taiwan in the coming decades, which could result in more frequent droughts, according to Hsu Huang-hsiung, a climate researcher at Academia Sinica.
+
+"Our projections show the drought is going to become more severe in the future. So this year has provided a good opportunity to test the sustainability of our semiconductor industry," Hsu said.
+
+That could potentially limit Taiwan's development of advanced chips, according to Chiu. That's because as the technology behind semiconductors becomes more sophisticated, chipmakers will require more water during the chemical processes needed to manufacture them.
+
+Water shortages aren't the only environmental issue at play, either. Rolling blackouts caused by a growing demand for electricity in Taiwan have also stifled production. TSMC said that power outages even affected some of its facilities.
+
+"We need to cut down our carbon dioxide emission. But on the other hand, we need to generate more electricity," said Hsu, adding that Taiwan's semiconductor firms will need to invest in more renewable energies to ensure a sustainable future.
+
+TSMC has said it is already working to shore up its energy supply by partnering with solar plants and wind farms across the island. Last year, it said it intends to power its production entirely through renewable energy by 2050.
+
+— Will Ripley, Hanna Ziady, Clare Duffy and Jill Disis contributed to this report.

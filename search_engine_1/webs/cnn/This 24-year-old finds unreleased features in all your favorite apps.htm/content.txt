@@ -1,0 +1,37 @@
+CNN Business —
+
+Growing up in Hong Kong, Jane Manchun Wong remembers her father taking away her internet access after she circumvented his parental controls on Internet Explorer.
+
+“When my dad [installed] parental controls, I would find ways to break it to prove the point, ‘Hey it is breakable,’” Wong told CNN Business.
+
+Now, the 24-year-old spends her free time reverse engineering popular apps such as Facebook (FB), Instagram, Twitter (TWTR), Airbnb and Pinterest to discover unreleased features and security vulnerabilities. She searches for new features hidden in the code of apps.
+
+Wong posts her findings to her Twitter account, which has over 16,000 followers. It’s become a frequent source of information for tech journalists.
+
+“It’s a puzzle for me to solve,” said Wong. “I analyze the apps to find [features] and come up with ways to break it to make demoing the feature possible. It’s like taking apart new mobile phones or cars to find interesting pieces of components.”
+
+Wong — who is taking a break from her studies at the University of Massachusetts Dartmouth, where her major was computer science — found her first big feature in 2017.
+
+Since then, she’s detected features including Instagram’s dashboard that shows how much time you spend on the app, and a Twitter tool that lets you subscribe to conversations. One of her recent finds was an unreleased Twitter feature that lets users hide replies to their tweets. Twitter confirmed that it’s developing this feature.
+
+Not all features companies test end up going public.
+
+Twitter is testing "Subscribe to conversation" so you can get notified over a conversation without liking or replying 🍿 pic.twitter.com/6hpSQcMJZD — Jane Manchun Wong (@wongmjane) March 15, 2019
+
+Wong, who taught herself software and programming skills from local library books, said her motivation is a mix of curiosity, testing her knowledge and wanting to get her hands on new features. Wong sometimes gives the companies feedback.
+
+“This is purely my interest,” she said. “I kind of avoid turning this into a profession because sometimes it feels different when you do something you like as a career.”
+
+The companies don’t seem to mind Wong’s hobby. A Twitter spokesperson told CNN Business the platform wants its users to be part of the process, and these types of discoveries help it learn.
+
+Jane Manchun Wong finds unreleased features in popular apps Jane Manchun Wong
+
+In some cases, Wong reports security and privacy issues through companies’ bug bounty programs, which reward people for reporting tech flaws. Some white hat hackers, who find vulnerabilities to protect users, make this into a full-time career.
+
+Facebook began its bug bounty program in 2011 and has since paid out over $7.5 million to researchers in more than 100 countries. Google has a similar program, which offers between $100 to $200,000 based on the severity of the discovery.
+
+“My main goal [when finding bugs] is to help prevent actual data breaches from happening,” said Wong, who’s been rewarded by Facebook’s bug bounty program four times. (Two of those payments exceeded $500.)
+
+Wong said she ultimately hopes to build a well-being app or work on open-source software projects that help solve day-to-day problems for developers.
+
+For now, she remains on the hunt for what companies are working on next.

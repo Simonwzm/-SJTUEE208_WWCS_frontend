@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190313120140-5g-factory.jpg?q=x_333,y_577,h_2190,w_3891,c_crop/w_800

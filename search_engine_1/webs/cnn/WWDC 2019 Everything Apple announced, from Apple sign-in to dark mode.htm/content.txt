@@ -1,0 +1,57 @@
+San Jose, California CNN Business —
+
+Apple is teasing the future of its software, and it is dark.
+
+At its annual World Wide Developers Conference in San Jose, California, Monday, Apple (AAPL) announced new features and designs for the operating systems that run on iPhones, iPads, Macs, Apple (AAPL) Watches and Apple (AAPL) TVs, as well as one very expensive new computer.
+
+iTunes is being replaced after 18 years
+
+As expected, Apple is replacing its once groundbreaking, often bemoaned audio and video app, iTunes.
+
+After 18 years, the app will be phased out and replaced with three separate apps that are familiar to iOS users: Apple Music, Apple TV and Apple Podcasts. The iTunes Store app will still exist on iOS, and Apple says the store will also continue to exist on Macs as an entry in the Finder’s sidebar.
+
+Apple’s Craig Federighi had a sense of humor about user dissatisfaction with iTunes, joking, “Customers love iTunes and everything it can do.”
+
+iOS 13: iPhones are going dark, Maps are going street level
+
+“And now, lets begin our descent into darkness,” said Federighi, introducing the new updates to iOS.
+
+IPhones, iPads and the iPod touch will now have an optional dark mode coming in iOS 13. Dark modes favor lighter text on dark backgrounds, and are said to be easier on the eyes when looking at a screen in a dimly-lit environment. Many apps already have their own individual dark modes, and Macs have a system-wide dark mode.
+
+Apple is adding a new Dark Mode to iOS 13. Apple
+
+The core, built-in iOS apps are also getting a glow-up. Mail is adding more fonts and formatting options, Notes has a new look, and the Reminders app has been beefed up with a number of new features, including tagging people and making smarter to-dos.
+
+Apple Maps, which has struggled to compete with Google (GOOGL) Maps since it launched in 2012, is getting a new, more detailed look at the end of this year in the US. Apple says it rebuilt the app from the ground up by sending hundreds of planes and cars with custom sensors and lidar sensors over 4 million miles across the country. It’s also adding other Google (GOOGL) Maps-like features, such as favorite locations and interactive street view, which it calls “look around.”
+
+With iOS 13, you’ll be able to share your name and your photo (or custom emoji) in Messages. (This information will only be shared when you message with someone.) It’s adding more personalization options for its “memojis,” including makeup, piercings, more teeth options like gaps and grills, earrings, additional hair options, hats and glasses. The avatars will work on more devices, Mail, and even some third-party messaging apps like WeChat.
+
+The iOS update will also impact Apple’s AirPods, which will be able to read your incoming email to you in Siri’s voice, and let you share audio from your AirPods. The new feature, called AirPods Audio Sharing, will supposedly let you bring your AirPods close to someone else’s and — with permission — tap a button to start listening to what they’re rocking out to. Siri will support live radio with third-party services like IHeartRadio.
+
+Speaking of music, remember the HomePod? Apple’s underwhelming take on the smart speaker was launched two years ago, and now it’s adding some new features, including being able to play live radio stations and recognize the voices of different users — just like Amazon and Google’s smart speakers.
+
+Privacy is, again, at the center of Apple’s sales pitch
+
+Apple is launching its own login platform called Sign in with Apple, which will let you log in to outside apps with FaceID. It has the option to hide your real email address and instead give each app a randomly generated email address. Google, Twitter (TWTR) and Facebook (FB) have their own sign-on tools already, but some security experts advise against using a single sign-in service across multiple sites, in case your one login is compromised. Sign In With Apple will work across Apple devices, including Macs and iPhones, but only with apps that update to support the feature.
+
+Other privacy updates include a new option to limit how much tracking information third-party apps can collect. Now you can choose to allow an app to get location information just once, as well as receive reports on background tracking. Apple is also blocking the ability for outside apps to sneakily gather location information via your Wi-Fi and Bluetooth connections.
+
+A more independent Apple Watch can track periods, monitor sound
+
+Apple is bringing a number of new tools to the Apple Watch as part of watchOS 6, many of which will help the watch run more independently of the iPhone. The Watch will have its own App Store, a calculator with tip tools, an audiobooks app, and Apple’s Voice Memos app, for more subtly recording audio (check local laws). It’s also adding a pair of new health tools. Cycle Tracker adds tools for tracking periods and fertility – tools that are also being added to the iOS Health app. A new Noise app uses the built-in microphone to measure environmental sound and warn you when the decibels are too high and could hurt your hearing. Apple says it does this by sampling audio and does not record anything.
+
+Apple
+
+Mac Pro is back, fast, and grate
+
+Apple is releasing an update of its Mac Pro desktop for professional Mac users for the first time since 2013. The company is ditching its previous “trash can” cylinder design for a more traditional tower shape that will probably earn the new (better?) nickname “cheese grater.” The computer is silver, covered in holes and has a handle on top. But professionals will likely care more about what is inside: a 28-core Intel (INTC) chip and 1.5 TB of system memory. It will start at $6,000 and be available in the fall.
+
+Apple
+
+The company is also making its own display again, called the Pro Display XDR. Also covered in holes, but on the back, the new display is rotatable and detachable. The 32-inch 6K retina LCD display starts at $4,999 and will be available in the fall. The required stand to hold said monitors will cost $999.
+
+More coming to the iPad, Apple TV
+
+There were lots of other small details announced on Monday. Apple is finally giving its operating system for tablets a proper name: iPadOS. Now with a new look, the home screen features a tighter grid of icons and the ability to pin widgets, such as the weather or a calendar alert, to the screen. It leans into multitasking, as Apple continues to push the iPad as a work device. You can enable a split view within one app or have docs next to each other, and, using a three-finger swipe, can undo something on screen.
+
+Other details include the ability to have multiple accounts on Apple TV (just like Netflix), a preview for an Apple production about the space race called “For All Mankind,” and support for Apple’s new Arcade app on Apple TV, which will work with select Xbox and Playstation controllers. The tvOS update will be available in the fall.

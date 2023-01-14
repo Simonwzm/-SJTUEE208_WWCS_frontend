@@ -1,0 +1,31 @@
+(CNN) In the wake of the US election, conservatives flocked to alternative social networks including Parler over complaints that Facebook and Twitter censored their voices .
+
+At one point, Parler hit the number one spot overall on Apple's US App Store, ahead of big names like TikTok and YouTube. In about a week, the app saw more than 4.5 million new people sign up for accounts, according to a letter from Parler CEO John Matze.
+
+Now that bump appears to be fading.
+
+New downloads for Parler have plummeted and are approaching the same levels as before the election, according to data from Apptopia, which tracks mobile apps. While Parler's daily active users, a key metric of how engaged people are in the service, remains higher than before the election, the number is decreasing, Apptopia says.
+
+"The data trends resemble a fad, and a short-lived one at that," said Adam Blacker, VP of insights at Apptopia. "Parler had a very good spike. People were interested, it's in the news, it receives downloads. ... But it appears, in our data, that there is no staying power."
+
+According to the data, on Oct. 25, Parler was downloaded about 16,000 times. Downloads peaked in mid-November, when it was downloaded nearly 340,000 times in a single day. On Monday, it was downloaded nearly 20,000 times. Daily active users on Parler shot up from about 500,000 on Oct. 25 to a peak of about 2.9 million in late November and have since fallen to 2.3 million.
+
+Parler did not immediately respond to a request for comment about its downloads and engagement declining.
+
+Parler, founded in 2018, bills itself as "unbiased social media" and a place where people can "speak freely" without fear of being "deplatformed," according to its website and App Store description. It looks like a mashup of Twitter and Instagram, with a main feed, follower metrics and ways to share posts and links. It's also rife with misinformation, including a stream of baseless allegations of voter fraud.
+
+In recent years, cries of conservative bias or accusations of censorship have made way for several alternative platforms, including Gab, 4chan and 8chan. However, none of them have yet succeeded in creating a robust right-leaning platform that sticks with a significant audience.
+
+Facebook FB Upstarts don't have the vast resources of behemoths like, they often can't handle an influx of traffic without problems and they lack the functionality that mainstream networks have built up over the years. Plus, it can be hard for people to fully leave the platforms they've used for years.
+
+CNN Business previously spoke with Trump supporters who have used alternative social media platforms, including Parler, and almost none of them had totally ditched services like Facebook and Twitter. Some said they don't want to cede the space to the "other side," some want to be able to see what the other side is saying and to argue with them.
+
+Experts in content moderation also said that while the concept of a platform with little content moderation might sound appealing on paper, the reality is more complicated. For example, Parler's lack of moderation policies has allowed for a proliferation of pornography on the platform, according to a report from the Washington Post
+
+"In theory, a user is like 'I don't want Twitter to silence my speech,'" said Daniel Kelley, associate director of the Center for Technology and Society at the Anti-Defamation League. "But in practice, if you're really not doing any content moderation, even at the level of the most egregious, the experience for users declines significantly."
+
+Prominent conservative voices who have joined the platform, including Fox Business host Maria Bartiromo, Fox News host Sean Hannity, radio personality Mark Levin and Congressman Devin Nunes, continue to post frequently. But that won't be enough to keep the platform going, according to Kelley.
+
+"Ninja made the jump from Twitch to Mixer , and Mixer shut down earlier this year," Kelley said, referring to the prominent "Fortnite" streamer who said he would exclusively use Microsoft's Mixer video game streaming platform. "You can definitely boost [a service] with people who are prominent, but there has to be an organic community in order for platforms to grow."
+
+After Mixer shutdown due to lack of momentum, Ninja went back to Twitch.

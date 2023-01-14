@@ -1,0 +1,67 @@
+New York CNN Business —
+
+Holiday gifts are meant to be fun, but security researchers say some presents can be downright creepy.
+
+Researchers at Mozilla, the nonprofit internet organization behind the Firefox browser, released its third-annual “Privacy Not Included” list of popular internet-connected holiday gifts on Wednesday. Mozilla researched 76 items to determine how well some of the most popular gifts protect customers’ privacy and security.
+
+Safety and privacy have increasingly come into focus as internet-connected devices continue to become popular and infiltrate people’s houses. Several top tech companies, including Amazon (AMZN), Facebook (FB) and Google (GOOG) have come under scrutiny for monitoring users’ information.
+
+To receive Mozilla’s minimum security standard badge, the products must use encryption, have automatic security updates, enact bug bounty programs to help report vulnerabilities and require users to change the default password.
+
+Here are the products that didn’t meet Mozilla’s minimum security standards … and the two that scored the highest:
+
+Ring devices
+
+Ring's video doorbell Ring
+
+Three popular Ring devices failed to meet Mozilla’s minimum security standards, including the Ring video doorbell, indoor cam and security cams.
+
+Mozilla said the company doesn’t have a “great track record for securing customer data or hiring experienced security engineers,” and the researchers couldn’t determine if Ring’s products use secure encryption. Mozilla also said that Ring’s search for a “head of facial recognition research” contradicts the company’s claim that it doesn’t use the technology.
+
+“All in all, this is a security video camera that raises just too many questions about privacy and security, in our opinion,” Mozilla said in a statement.
+
+In response, Ring, which is owned by Amazon (AMZN), said in a statement it “takes customer security seriously and we have experienced, full teams dedicated to ensuring the safety and security of our products and systems.”
+
+Wemo Wifi Smart Dimmer
+
+The Wemo Wi-Fi Smart Dimmer Wemo
+
+The $60 smart dimmer didn’t pass minimum security standards because Mozilla couldn’t determine how secure and private the product was.
+
+“Security researchers discovered that the Belkin Wemo Insight Smart Plug is still at risk for attack even though security vulnerabilities had been identified and disclosed over a year ago,” Mozilla researchers said, adding that it could affect the entire line of Wemo smart home devices.
+
+Artie 3000 Coding Robot
+
+Artie 300 Coding Robot Educational Insights
+
+The $63 toy robot teaches kids to code. The robot has built-in Wi-Fi and Mozilla wasn’t able to tell if the data sent between the app and the robot was encrypted. The lack of security was alarming for a children’s product.
+
+PetChatz HD
+
+PetChatz HD PetChatz
+
+The $330 dog camera, which includes a scent diffuser, has a weird privacy policy that doesn’t apply to the device — only its website.
+
+“And while unlikely, it’s possible some terrible person could hack in, diffuse your pet’s aromatherapy scents in the middle of the night causing a sneezing fit which leads to insomnia which causes you to fall asleep at the wheel on your way to work the next morning and you wreck your car,” Mozilla said in a statement.
+
+Litter Robot 3 Connect
+
+Litter Robot 3 Connect Litter Robot
+
+Yes, you can buy a $500 cat litter box that automatically scoops poop. Mozilla warned buyers that you can’t change the password when the device connects to Wi-Fi.
+
+OurPets SmartScoop Intelligent Litter Box
+
+The OurPets SmartScoop Intelligent Litter Box OurPets
+
+A cheaper $100 litter box failed several of Mozilla’s security requirements, including encryption and installing automatic security updates.
+
+Top scorers
+
+Mozilla called the popular Nintendo Switch gaming system a “good guy” for emphasizing “easy-to-use parental controls.”
+
+Although Nintendo doesn’t share user data with third parties, some third-party games for the Switch “might be collecting and sharing your data.”
+
+And Mozilla said the The Sonos One SL speaker received high marks because it doesn’t have a microphone.
+
+“To think, a speaker simply built to play music and not listen to you all day long. Crazy!,” Mozilla said in a statement.

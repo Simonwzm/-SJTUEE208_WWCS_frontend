@@ -1,0 +1,61 @@
+New York (CNN Business) Elon Musk may have declined an invitation to join Twitter's board, but that doesn't necessarily mean he's abandoning his plans to shake up the company. If anything, it could free him to be even more disruptive.
+
+On Sunday, nearly a week after Musk disclosed he'd become Twitter's largest shareholder and the company offered him a board seat CEO Parag Agrawal said the Tesla and SpaceX CEO had decided not to take the position. The decision immediately raised questions about what the notoriously unpredictable billionaire would do next.
+
+Accepting a board seat would have required Musk to act in the best financial interests of the company and would likely have required him to bring up suggestions privately rather than on Twitter, the latter of which seemed like a big ask for one of the platform's most prolific (and controversial) users. A part of his agreement with Twitter to join the board, Musk's investment in the company — which currently stands at 9.1% of its shares — would also have been capped at 14.9%, potentially putting some limits on his ability to influence the company.
+
+In his tweet Sunday night announcing Musk's reversal, Agrawal said the company's board had "believed that having Elon as a fiduciary of the company where he, like all board members, has to act in the best interests of the company and all our shareholders, was the best path forward."
+
+Now, all bets are off.
+
+It's still not clear what Musk's end game is. He hasn't tweeted, or otherwise commented, on his plans since declining the board seat. One option could be to sell off his stake — laughing all the way to the bank after he managed to troll the leadership and followers of his favorite platform while netting a profit of around $700 million from his investment, as of Wednesday. But it's a minor payday for a man worth nearly $300 billion, and many analysts think that doesn't sound like Musk.
+
+"He is unlikely the type of individual who will now just sell his stake and walk away," CFRA Research senior equity analyst Angelo Zino said in a research note Monday.
+
+Alternatively, Musk's decision not to join the board opens the door for him to acquire a larger share of the company in an effort to influence its actions, or even to pursue a bid to acquire it. In doing so, his relationship with Twitter and its leaders could turn from seemingly friendly back-and-forths on the platform and board invitations to something more hostile.
+
+Twitter declined to comment for this story. Musk did not immediately respond to a request for comment.
+
+Here's what could happen next.
+
+Building up his stake
+
+Even though he won't be joining Twitter's board, Musk will still have a meaningful influence over the company as its largest — and potentially loudest — shareholder. He has already used that position to advocate for removing restrictions on speech from the platform and calling for Twitter to make its algorithm open source, as well as more out-there, juvenile suggestions like removing the "w" from the company's name. Agrawal acknowledged Musk's influence in his Sunday statement: "Elon is our biggest shareholder and we will remain open to his input."
+
+But Musk could continue to steadily buy up more shares to increase his leverage at the company. And if he does, followers of the company will know about it. Now that Musk has filed with the Securities and Exchange Commission as an "active" investor, he'll have to file amendments to his disclosure to the agency whenever there is a material change (normally 1% up or down) in his ownership stake, according to Ken Henderson, a partner at law firm Bryan Cave Leighton and Paisner.
+
+"The more he owns ... obviously, you have to listen to him," Henderson said. "If he did go to 12%, 15%, 20%, that's pretty substantial."
+
+With a larger stake in the company, Musk could, for example, have more sway to appoint other board members who align with his goals, thereby allowing him to continue speaking openly about the company in public while having someone pushing his agenda on the inside. Musk could also seek to partner with other activist-oriented investors — Twitter has been the target of activists before — to use their joint shareholder power to push for changes to the company's strategy, management or the board.
+
+"He certainly seems to be calling for some changes in the way the company's run and that can be done through sort of the classic activist toolbox, which is to come in and basically do what he did before he changed his mind: get a couple of board seats and push from inside to make changes to management and so forth," Henderson said. "There are a lot of things he can do short of buying the whole company."
+
+Buying Twitter
+
+Musk so far hasn't followed the typical playbook for activist investors, which would normally involve taking issue with a limited number of specific strategies or practices at a company and laying out a plan for how fixing them would increase the share price. And he may not start now.
+
+"The term 'activist investor,' I think, is not the right term for what Elon Musk is doing," said Michael Useem, a professor of management at the University of Pennsylvania's Wharton School. "In this circumstance, coming into Twitter, an 'activist owner' might be the better phrase, or an 'activist would-be owner.'"
+
+An activist owner, Useem said, might be seeking not only to challenge who's on the board or certain policies at a company, but would be "challenging the fundamentals such that [they] might be willing to become the full owner" if the company didn't adopt their suggestions.
+
+If he did decide to try to buy Twitter outright, Musk could make a strong enough offer that the board might have a fiduciary responsibility to support it, Useem said. He could also sidestep the board by making a more hostile move called a "tender offer" to buy shares en masse directly from shareholders, in a possible bid to acquire a majority stake in the company and build up from there.
+
+Buying Twitter won't come cheap. Musk would have to offer a premium on Twitter's share price, which is up around 16% since his ownership stake was disclosed. Still, even if he offered a price that would amount to well above the company's more than $36 billion market cap, it would be a relatively small price to pay for the world's richest man.
+
+Convincing other investors and banks to partner with him on an activist campaign or a buyout could be tricky for Musk, whose reputation was tarnished by his misleading 2018 pledge on Twitter to take Tesla private that resulted in a lawsuit and settlement with the SEC. He has also openly feuded with banks like JPMorgan, which sued Musk over those 2018 tweets, alleging breach of contract. (Tesla filed a countersuit earlier this year.) Still, the world's richest man will ultimately probably find people willing to work with him.
+
+"When you're in hot water with regulators, there's usually a bit of a do-not-touch sign in your front yard," Useem said. "That said, I think under the circumstances, we're talking about a huge amount of money at stake here. ... And even if you're worried about the business this time, you're going to want the business of Elon Musk in the future."
+
+Fighting back
+
+The structure of Twitter's stock makes it more vulnerable to a hostile actor buying up a controlling stake or attempting an outright acquisition.
+
+Meta FB Google GOOGLGOOGLE Some of Twitter's tech peers, including Facebook-parentand-parent Alphabet, have multiple classes of shares: one for most normal investors, and one for the founders that carries more voting power. In that way, for example, Facebook founder Mark Zuckerberg can control votes at Meta even if all of the company's other shareholders vote the other way. Twitter, by contrast, has just one class of shares that all have equal voting power. If Musk acquires a majority of shares, he'd be able to determine the direction of shareholder votes on key corporate issues.
+
+Still, if Twitter's board and management team prefer not to have Musk calling the shots — assuming that's his goal — they have a few options. The first would be to make the rounds to Twitter's large, institutional investors to explain why sticking to the company's current strategy will be the best for shareholder value in the long run, in an effort to convince them not to support potential board nominees or other proposed changes by Musk, Henderson said.
+
+The board could also adopt what's known as a "poison pill," a corporate anti-takeover tactic that essentially reserves the right for all shareholders other than a hostile party to buy more shares at a steep discount, effectively diluting the hostile party's stake in the company. Such a move might not necessarily stop Musk from acquiring more shares or attempting a takeover, but it could slow him down and make the process more expensive.
+
+Typically, boards don't enact such a provision until a party has acquired a stake larger than 15%, although Twitter's board could prep one in advance, according to Henderson. "It's called a poison pill because the hostile buyer would have to swallow the pill if they move forward, so the cost becomes prohibitive," Henderson said.
+
+Then again, the bar for being cost prohibitive may be higher for a man worth hundreds of billions of dollars who seems to love Twitter a little too much.

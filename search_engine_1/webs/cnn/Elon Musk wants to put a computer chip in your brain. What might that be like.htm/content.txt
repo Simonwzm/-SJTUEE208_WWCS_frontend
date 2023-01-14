@@ -1,0 +1,71 @@
+San Francisco CNN Business —
+
+This week Elon Musk unveiled his most sci-fi project thus far: a computer chip connected to exceptionally slender wires with electrodes on them, all of which is meant to be embedded in a person’s brain by a surgical robot. The implant would connect wirelessly to a small behind-the-ear receiver that could communicate with a computer.
+
+Musk hopes the implant, created by his brain-computer interface startup Neuralink, could one day help quadriplegics control smartphones, and perhaps even endow users with a sort of telepathy. Like existing brain-machine interfaces, it would collect electrical signals sent out by the brain and interpret them as actions.
+
+Elon Musk, shown here in March 2019 before unveiling Tesla's Model Y, is working on a chip he hopes will eventually be implanted in people's brains. (AP Photo/Jae C. Hong, File) Jae C. Hong/AP
+
+Neuralink, which was founded in 2016, has already tested an early, wired version of this implant in rats (and Musk indicated it has enabled a monkey to control a computer with his brain, too); Musk said human trials could start by the end of next year, though the company doesn’t yet have approval from the US Food and Drug Administration for such a study. (And, it should be noted, Musk, who is also CEO of Tesla and SpaceX, has a history of making outlandish technological claims: for instance, the he said in a recent interview that getting humans to Mars in 4 years “sounds doable.”)
+
+Neuralink’s promise of a brain-connected device that looks as nondescript as a hearing aid — the kind of thing you could hide with hair or a hat — is exciting to scientists who have spent years working on this technology.
+
+“The general idea and their motivation, I think, are spot on,” said Andrew Schwartz, a professor of neurobiology at the University of Pittsburgh and pioneer in the brain-machine interface field.
+
+And, in fact, a number of experts told CNN Business that Neuralink could, in the coming years, be a boon for people with conditions such as quadriplegia, enabling increased independence and ushering potentially life-transforming technology out of the lab and into the real world.
+
+But will it be, as Musk envisions, the kind of device that the average person will one day sign up for, too? Probably not, Schwartz and other experts who spoke with CNN Business agreed.
+
+How a brain chip could help
+
+The idea of a brain-machine interface is not new; scientists have been working on them for decades, and they have been implanted and tested in animals such as monkeys as well as in people. There are some FDA-approved deep-brain stimulation devices meant for, among other things, controlling tremors in people with Parkinson’s disease, and several tech companies have worked on their own methods for connecting the brain to computers: Facebook, for instance, has worked on a non-invasive device to let you send text messages by thinking.
+
+Neuralink envisions a brain implant that can connect wirelessly with a small receiver that sits behind the ear. Neuralink
+
+Yet these efforts tend to be confined to labs for a number of reasons: they’re expensive, bulky, require training (of both the user and the computer), and, when it comes to an under-the-skull implant, the person outfitted with it generally must be physically tethered to a computer for it to work.
+
+Virginia de Sa, a professor studying brain-computer interfaces at the University of California San Diego, said several of Neuralink’s ideas sound “very promising,” such as the use of very fine wires to implant electrodes in the brain — the thinner they are, she said, the less damage they’ll do to the brain, and, hopefully, the longer they’ll last.
+
+Schwartz sees the potential in Neuralink’s design, particularly its plans to miniaturize the components of the implant, make it wireless, and improve the electrode technology.
+
+He believes the wireless aspect of it is key, noting that getting FDA approval for such an implant includes a risk assessment, and the riskiest part of today’s brain-computer interfaces involves a connector that comes through the patient’s skin to link the implant to a computer.
+
+“By removing that whole thing, it becomes a much safer technology,” he said, as it reduces the risk of an infection in the patient.
+
+A prototype of a Neuralink chip. Neuralink
+
+Neuralink president Max Hodak said during the presentation that the company’s plan for its first product includes it being able to control mobile devices and a keyboard or mouse, though he noted that, as of now, “these are aspirations.”
+
+It doesn’t sound outlandish, though. Schwartz has already worked with systems that can let paralyzed patients pick up objects with a robotic hand and even get some sensory feedback (Musk said Tuesday that Neuralink’s device would also be able to both read brain signals and send feedback). He can imagine that, some day in the future, a person with a severe impairment who is outfitted with a device such as the one Neuralink outlined could become much more autonomous.
+
+A paralyzed person, for instance, would still be sitting in a wheelchair, he said, but perhaps they’d be able to drive it by thinking rather than using a joystick, and even control a prosthetic arm connected to the chair as well.
+
+“They could potentially do their own laundry,” he said.
+
+It’s still brain surgery
+
+During his presentation, Musk said Neuralink aims to make the surgery for the company’s implant “equivalent to a LASIK type of thing where you sit down, a machine does its thing, and you can walk away within a few hours,” all without a hospital stay.
+
+He spoke about the wires that would be implanted under a person’s skull as threads; a robot for implanting them would bypass blood vessels and cause “minimal trauma,” he claimed.
+
+A Neuralink robot for placing slender electrodes inside the brain. Neuralink
+
+It sounds simpler than the way people receive implants today. Essentially, as things work now, the skull is cut open, the brain is exposed, chips are installed, connectors are mounted to the skull, and the head is stitched up.
+
+Yet the reality is that implanting a device underneath the skull will remain brain surgery. Neuralink acknowledges it will still need to bore a hole in your skull, for instance.
+
+“It’s still surgery; it’s still risky,” de Sa said. “People can die in even the simplest surgeries.”
+
+Beyond the risks of a medical procedure, there are security concerns, too. Nataliya Kosmina, a postdoctoral associate at the MIT Media Lab, said she “freaked out” when she saw the portion of the presentation in which Neuralink president Max Hodak mentioned that the implant is meant to be controlled with an iPhone app; she pointed out that someone hacking into such an app could be far more dangerous than if they were to, say, hack your bank account.
+
+“As much time and effort as we’re all going to spend to make these kinds of devices and implants accessible and safe and put them out there, we would need to spend the same amount of time and energy on first, ethical issues, and second, privacy and security,” she said.
+
+Who will want one?
+
+For now, Neuralink said it is working on a brain chip to help with serious medical conditions, but Musk eventually wants it to appeal to all kinds of people. Several experts said they can’t envision most people clamoring for Neuralink’s brain chip, however.
+
+“It’s really like a sort of a science-fiction vision that gets some people excited about it, but I don’t see the market for something like that,” said Andrew Hires, an assistant professor of neurobiology at USC. “The technological development would have to go so far beyond what would currently be capable with a device like this.”
+
+Schwartz agreed, saying that while scientists can decode fairly complex brain signals related to, say, how we move our hands and fingers, they are just starting to understand things such as how to apply force to objects or manipulate them in the real world.
+
+When it comes to more futuristic applications of the technology to things like thought transmission, memory enhancement or working with artificial intelligence, he said, “we’re nowhere close to understanding anything like that.”

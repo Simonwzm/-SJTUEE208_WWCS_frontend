@@ -1,0 +1,59 @@
+(CNN Business) Jeremy Bailenson has studied virtual reality for decades. But it wasn't until last year that the Stanford professor felt the technology was good enough that he could actually teach a class in VR.
+
+Over the summer and again in the fall, Bailenson, the founding director of Stanford's Virtual Human Interaction Lab, taught more than 260 students in his "Virtual People" class, which explores various aspects of virtual reality. Some days, the class discussed assigned readings over Zoom; other days, students and instructors gathered in VR for a virtual journey that might include a group meditation session or a digital exhibit of past art from the Burning Man festival. Students' customizable avatars participated in discussion panels in VR and created a final project for the course — a full-fledged VR scene that others could visit virtually.
+
+Teaching his course this way, Bailenson told CNN Business, "has been a dream of mine." But only recently did he feel the headsets were cheap enough — the Quest 2, which Stanford purchased in bulk for the class, starts at $299 — and the software was capable enough for him to truly do it.
+
+Bailenson isn't the only one bringing classes to VR. With VR headsets getting better and cheaper than ever before — and the pandemic forcing countless schools and universities to come up with ways to make remote learning work — a small but growing number of educators primarily at higher-education institutions are opening up virtual classrooms to help students learn in new ways. Some have held entire classes in VR, while others use the medium for specific activities. At least one, Morehouse College, has gone so far as to create a digital campus that replicates some of its real-life features, such as its main quad.
+
+There are still open questions about the efficacy of VR in the classroom as well as questions about the risks it might pose to the developing eyes and brains of younger users. The headsets also remain too pricey for many. Still, some educators see the technology as an important learning tool going forward.
+
+"The pandemic broadened our thinking about the ways education can happen and the ways it can happen effectively," said Mark Jacobs, director of Longview School, a private K-12 school in Brewster, New York, which is about to start a VR after-school program. "And the technology has finally reached the point of accessibility."
+
+A screenshot of Stanford students participating in a discussion on Zoom while working together collaboratively as avatars in VR.
+
+"Zoom was terrible"
+
+If the key to making a technological advancement successful is solving a pain point, the rise of Zoom schools during the pandemic created a perfect opportunity for VR.
+
+"Zoom was terrible," said Farah Jan, a lecturer in international relations at the University of Pennsylvania. Some of her students would turn their cameras off and she couldn't tell whether others were paying attention or doing something else online.
+
+Instead of teaching a twice-weekly seminar remotely last spring, Jan, a self-described "VR junkie" who already enjoyed using the technology outside the classroom, received approval from her school to hold her first class in VR last year. She used an app called Aristotle that she designed and had built by a Turkey-based friend (they had worked previously on a VR app, she said). Ten students used Quest 2 and older Quest 1 headsets to gather as angular, torso-and-head avatars around a conference table in a virtual classroom and talk. A virtual whiteboard let Jan show slides and other documents to students.
+
+It also got Jan thinking about how the technology might be useful even when classes are held in person. She's now teaching a 14-student course that will use Quest 2 headsets for virtual crisis simulations in South Asia — for example,visualizing the 1947 partition of India with 360-degree videos so students feel like they're immersed in the event.
+
+"What it does is it kind of focuses the classroom," Jan said. Students are less distracted by other activities like texting and checking email, and, she pointed out, if any of them take off their headsets while they're supposed to be in her VR classroom their avatars will noticeably droop.
+
+Not just for college classes
+
+VR is not just being used for college classes. Starting in February, Longview School will offer a once-a-week, 2-hour VR session in the school's gym for kids in grades five through 10. It will stress mental challenges, physical coordination and stamina via apps like the puzzle game I Expect You To Die 2 and rhythm and music game Beat Saber, said Jacobs.
+
+"How is it that we can take these games and find ways to build skills? Academic skills, social emotional skills, team-building skills and physical skills?" Jacobs asked. "I just feel like we're at the early stages of this."
+
+For Jacobs, who got into VR during the pandemic by playing Beat Saber on a Quest 1 headset he and his wife had bought for their adult son, it's an extension of the school's existing approach to education. It frequently uses cutting-edge technology for learning. Students at Longview already do things like create computer games and use the game Civilization V to learn about issues such as war and trade. A $10,000 grant from the Vela Education Fund is covering the cost of 10 Quest 2 headsets and a staff member who could create the curriculum for the program, he said.
+
+The companies selling VR headsets often set age limits for the gadgets — the Quest 2, for example, is intended for ages 13 and up, and requires a Facebook account, which is limited to those 13 and up. (Despite some research on the matter over the years, it remains unclear whether VR usage over time can be harmful to children in particular, whose eyes and brains are still developing.) But Jacobs said he isn't concerned about kids under 13 using the headsets since they will be highly supervised by school staff.
+
+An image from a virtual senior seminar in international relations, taught by Farah Jan, a lecturer at Penn University, during Spring 2021. The VR app, named Aristotle, will have an official website that will be launched in early February.
+
+Jacobs, who is also a history teacher for middle- and high-school students at Longview, is already thinking ahead. In the fall of 2022, he said, he expects that headsets will be used in some history classes, and he hopes it can be used in science, art, and literature classes as well.
+
+"I don't know yet what that will look like because we're using this as a whole training period to figure it out," he said. "But to me that's the future."
+
+Limits of the technology
+
+While these headsets have become increasingly less expensive, they're likely still out of reach for many schools that are already strapped for cash or unable to get grants to pay for the technology.
+
+And even as VR becomes more capable, some of those who study it, including Bailenson, think the technology is still only useful for certain kinds of lessons — and not surprisingly lessons that focus on VR. It can, for instance, help teach about creating scenes in VR. Bailenson illustrated this by showing CNN Business around several of the environments built by his students, including one reminiscent of the undersea lair of Ursula, the sea witch in Disney's The Little Mermaid.
+
+VR is also increasingly used to instruct people on things you can't simulate in the real world, such as how to respond to a disaster scenario. But the technology can be more of a distraction and a novelty than an aid.
+
+As part of Stanford's Virtual Human Interaction Lab, this "Christmas Wonderland" scene was a class project created by a Stanford student who wanted to meet with friends and colleagues in a festive place.
+
+"It's really a matter of thinking about which use cases are the things that make VR useful, and then focusing on those use cases in instruction," said Chris Dede, a professor of learning technologies in Harvard's Graduate School of Education.
+
+Because VR is just starting to be used for more than the occasional lesson, it's still hard to tell when and how it will be most useful. Eileen McGivney, a graduate student at Harvard's Graduate School of Education who has taught in VR and is studying VR usage in high-school classrooms, has found that letting students experience VR on their own and then discussing as a group over Zoom is more effective than having a shared experience within the medium.
+
+Answers about how helpful the technology can be will trickle in over time from students, like Kathleen Curlee, a recent University of Pennsylvania graduate who took Jan's spring 2021 seminar. Before that class, she said, Curlee had never used VR. She said she enjoyed the experience, particularly compared to other forms of remote learning. She said she remembered more from VR classes, for instance.
+
+"It really changed how I learn," she said, "and made learning in a virtual environment feel less virtual."

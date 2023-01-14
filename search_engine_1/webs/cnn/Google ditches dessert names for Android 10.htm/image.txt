@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190822110328-01-android-q-10-desserts.jpg?q=x_2,y_377,h_1132,w_2011,c_crop/w_800

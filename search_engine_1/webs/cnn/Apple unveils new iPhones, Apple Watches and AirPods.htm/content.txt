@@ -1,0 +1,67 @@
+(CNN) Apple unveiled its new iPhone 14 lineup at a press event on Wednesday, along with three new Apple Watch models, an update to its popular AirPods product line and a feature that could save lives when cell service isn't available.
+
+At a closely-watched event from its headquarters in Cupertino, California, Apple showed off four new smartphones, including a larger 6.7-inch iPhone 14 Plus model and an updated iPhone 14 Pro that rethinks the much-maligned notch. In typical Apple fashion, the devices also offer better battery life and camera features than the year prior.
+
+The biggest surprise, however, may be the price: The iPhone 14 and 14 Plus will start at $799 and $899, respectively, the same starting prices as last year's models. The iPhone 14 Pro and Pro Max start at $999 and $1099, respectively, also unchanged from the year prior. Analysts widely predicted Apple would hike the price of the premium models by $100.
+
+"It is impressive that Apple has maintained year-on-year pricing parity on the new iPhone 14 devices in the US," said Ben Wood, chief analyst at market research firm CCS Insight. "We had anticipated that inflation, increased production and component costs, and other expenses such as more expensive shipping would have led Apple to increase its retail pricing."
+
+For Apple, the stakes are always high to convince customers to upgrade devices, and especially the iPhone, which remains its central product. That task is potentially made more difficult this year by broader economic jitters, including fears of a looming recession.
+
+Apple unveils the new iPhone 14 product line at a big press event on Wednesday.
+
+Throughout the event, Apple appeared to alternate between pitching its suite of products as tools for living our best lives and also for avoiding any number of ills that may befall customers in an uncertain world, ranging from car crashes to getting stranded in the wild.
+
+Apple announced several new Apple Watch models, including a higher-end version that costs $799 and is designed to support the needs of a rarefied group of outdoor enthusiasts. It also added an option for its watches to detect when a user has been in a car crash, as well as a satellite connectivity feature for phones, which is intended to help people communicate when their cell service isn't working.
+
+Here are the big highlights from the event:
+
+The new iPhone 14 lineup
+
+Apple unveiled four new smartphones, including the new iPhone 14 with a 6.1-inch screen and the iPhone 14 Plus with a larger 6.7-inch screen.
+
+The new iPhone 14 features a 12 MP main camera with bigger pixels, a faster aperture and improved sensors. It also uses the same chip as last year's iPhone 13 Pro model (the A15), the first time it's repeated a chip in years.
+
+For the first time, however, the new front camera has auto focus, allowing it to focus at multiple distances in low light for better individual and group selfies. It also has a new action mode that lets users keep videos stable while moving.
+
+Apple's new Pro line features an always-on display and the ability to receive notifications and activities through what the company is calling "the dynamic island," the much polarizing notch at the top of the phone that is now considered a feature. The Pro line also comes with the first-ever 48 MP camera on an iPhone.
+
+The iPhone 14 Pro.
+
+In a notable shift, the iPhone 14 lineup also eliminates the need for a physical SIM card and instead uses a digital "e-SIM" card. Now, users can store multiple e-SIMs on the same device and have multiple cellular plans and phone numbers on the same phone. It also prevents others from removing the physical SIM card if your iPhone is lost or stolen. Apple said all US models of the iPhone will no longer have the SIM tray.
+
+The iPhone 14 and iPhone 14 Pro will come in five colors: midnight, starlight, blue, purple and red.
+
+New Apple Watches
+
+Apple unveiled three new smartwatches at the event: the Series 8, the SE and the Ultra.
+
+At the high end, the Ultra model is designed to help users track endurance training, scuba diving adventures and triathlons. The device gets about 36 hours on a single charge, is more water resistant and boasts an enhanced compass that can work at night, in the ocean and other conditions.
+
+At the low end, Apple updated the SE to be up to 20% faster than the prior version. It starts at $249 for GPS models and $299 for cellular models.
+
+Apple Watch Series 8.
+
+And in the middle is the Series 8 model, which starts at $399. Like prior versions of Apple's smartwatch, the Series 8 is intended to motivate users to stay active and fit. Apple also emphasized the Watch's features for women's health, with revamped period cycle tracking tools that can predict ovulation. The tracking data is kept on each device and only accessible through a passcode or face ID, according to the company. Apple does not have a key to encrypted data and so it cannot access it without your express permission.
+
+The announcement comes as data security for women has become a major flashpoint in the wake of the Supreme Court decision to overturn Roe v. Wade.
+
+New AirPods Pro 2
+
+Apple showed off its latest generation of AirPods Pro, one of its bigger breakout products of recent years. The new AirPods Pro will have six hours of listening time with a single charge, better than the original version. Each headphone and the case itself are now equipped to make a noise to help you find it. And a light swipe up and down the headphone will increase or decrease volume.
+
+The new AirPods Pro.
+
+AirPods Pro now comes with improved dynamic noise-cancellation technology, and can cancel out double the amount of noise compared to the original version. Meanwhile, a new adaptive transparency mode aims to reduce harsh environmental noise.
+
+The AirPods Pro 2 cost $249 and hit stores on Friday.
+
+Satellite connectivity for emergency situations
+
+While Apple did not unveil any groundbreaking new hardware products, at least one new feature could prove to be a game changer for customers — albeit in rare situations.
+
+The new Emergency SOS via Satellite feature, which Apple said has been in the works for years, was designed and built specifically for iPhone 14 devices to connect to satellites when not near a terrestrial tower. By allowing users to point their device toward a satellite, which the phone will help locate, users will be able to send and receive information to get emergency help.
+
+The company said it created a short text compression mechanism to condense messages that take about 15 seconds to send if a user has a clear view of the sky. (It may take a few minutes longer if something like foliage is in the way.)
+
+Apple said local providers will be alerted to help call for help.

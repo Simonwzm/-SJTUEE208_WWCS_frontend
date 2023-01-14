@@ -1,0 +1,47 @@
+London CNN Business —
+
+What happens when a major political party campaigning in a hugely significant election misrepresents itself on social media? Not much, apparently.
+
+Twitter (TWTR) took no action Tuesday night when the Conservative Party press account changed its name and logo to “factcheckUK,” during the first live TV debate in the UK election between party leader Boris Johnson and his Labour Party rival Jeremy Corbyn.
+
+The act of distorting an account with more than 70,000 followers was swiftly condemned by independent fact checking organizations like Full Fact, which asked “why would a self-respecting, serious political party masquerade as something else to get its campaign point across.”
+
+But Twitter, which has been trying to prevent the spread of misinformation by restricting political advertisements and taking down bot networks, did nothing beyond issuing a warning.
+
+“Any further attempts to mislead people by editing verified profile information — in a manner seen during the UK Election Debate — will result in decisive corrective action,” a Twitter spokesperson said.
+
+There’s nothing to prevent the owner of a verified Twitter account with a blue check mark — a label the company applies to accounts it believes are authentic — from changing its name, logo or photo.
+
+But Twitter could have responded by removing the verified status, or even suspending the Conservative Party’s account. The platform’s rules state that “accounts that pose as another person, brand, or organization in a confusing or deceptive manner may be permanently suspended under Twitter’s impersonation policy.”
+
+twitter
+
+Alex Stamos, a former chief security officer for Facebook (FB), said he doesn’t understand why Twitter didn’t take action.
+
+“I actually think this is a fatal flaw of the Twitter verification badge,” he told CNN Business. “They should invalidate the check mark on a name change.”
+
+The December 12 election could lead to the appointment of a new government and prime minister, as well as determining how — or even whether — the United Kingdom will leave the European Union.
+
+Twitter and Facebook have come under increasing fire for essentially allowing politicians and political parties to flout the rules they enforce on regular users to prevent bullying, spreading misinformation or threats of violence.
+
+If a world leader violates Twitter’s rules, which include threatening violence or posting private information, the company may decide the content is newsworthy and in the public interest. It could then attach a warning that provides context about the violation but allows people to click through to see the tweet. So far Twitter hasn’t used this option.
+
+Lisa-Marie Neudert, a researcher at the Oxford Internet Institute said it’s “very problematic” that a major political party is engaged in the kind of abuse seen on Tuesday night.
+
+“Those actors should be trustworthy and credible compared to the dark nefarious actors who everyone is expecting,” Neudert said. “It’s really happening in broad daylight here.”
+
+The Conservative Party has defended the stunt. Chairman James Cleverly told Sky News after the debate that “we made it absolutely clear it was a Conservative party website.” Foreign Secretary Dominic Raab told the BBC on Wednesday that “no one for a split second would have been fooled” and that “no one gives a toss about social media cut and thrust.”
+
+But while the top image on the Twitter profile itself said “from CCHQPress,” few people would likely have known CCHQ stands for the Conservative Party, and if the account re-tweeted another account only the “factcheckUK” name appeared in people’s feeds.
+
+That’s where the danger lies, Neudert said, because the vast majority of people do not click through to examine source material.
+
+“You’re seeing it in your feed, you’re swiping, you’re not doing the thorough fact check,” Neudert said.
+
+A recent study from researchers at the University of Notre Dame found that 73% of all likes and shares, contributed by real people, occurred without the user ever clicking on the link.
+
+“Social media users are mostly headline browsers: We scroll through our newsfeed, find something that amuses or angers us, and without considering the content or consequences, we spread it. So it’s no wonder that political disinformation spreads so quickly. We’re often doing the sharing,” one of the study authors Tim Weninger wrote in a CNN column.
+
+Twitter did not immediately respond to questions as to why it did not take action against the Conservative Party or whether it would change its rules on altering verified accounts.
+
+Facebook (FB), which has come under fire for a policy that essentially allows politicians to lie in paid advertisements, declined to comment on what it would do if something similar happened on its platform. The social network has rules that state: “Pretending to be anything or anyone isn’t allowed,” and the platform allows only one name change every 60 days.

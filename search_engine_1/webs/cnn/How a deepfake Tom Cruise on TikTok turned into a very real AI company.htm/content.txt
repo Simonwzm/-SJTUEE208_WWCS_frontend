@@ -1,0 +1,69 @@
+NEW YORK, NY - SEPTEMBER 20: Bill & Melinda Gates Foundation co-founder Melinda Gates speaks speaks at Goalkeepers 2017, at Jazz at Lincoln Center on September 20, 2017 in New York City. Goalkeepers is organized by the Bill & Melinda Gates Foundation to highlight progress against global poverty and disease, showcase solutions to help advance the Sustainable Development Goals (or Global Goals) and foster bold leadership to help accelerate the path to a more prosperous, healthy and just future. (Photo by Jamie McCarthy/Getty Images for Bill & Melinda Gates Foundation)
+
+NEW YORK, NY - JUNE 16: SVP and Director at IBM Research Arvind Krishna speaks on stage during the 2016 Wired Business Conference on June 16, 2016 in New York City. (Photo by Brian Ach/Getty Images for Wired)
+
+Is this facial recognition app going too far? We tested it
+
+Police used an image of the suspect taken from a fake driver's license left at the scene (left) to run a facial recognition scan. It returned a "high profile comparison" to Nijeer Parks (right). (Woodbridge Police Department)
+
+CNN Business —
+
+Earlier this year, videos of Tom Cruise started popping up on TikTok of the actor doing some surprisingly un-Tom-Cruise-like stuff: goofing around in an upscale men’s clothing store; showing off a coin trick; growling playfully during a short rendition of Dave Matthews Band’s “Crash Into Me.”
+
+In one video, he bites into a lollipop and is amazed to find gum in the center. “Mmmmm,” he says to the camera. “That is incredible. How come nobody ever told me there’s bubblegum? Incredible!”
+
+Despite the movie star hair, the eye-squinting and that trademark teeth-baring cackle, it wasn’t really Cruise. The 10 videos, which were posted between February and June, featured an artificial intelligence-generated doppelganger meant to look and sound like him. The deepfakes — a combination of the terms “deep learning” and “fake” — were created by visual and AI effects artist Chris Umé with the help of a Cruise stand-in, actor Miles Fisher.
+
+This ersatz Cruise was so popular, racking up tens of millions of views on TikTok, that it inspired Umé to join up with others to launch a company called Metaphysic in June. It uses the same deepfake technology to make otherwise impossible ads and restore old film. Metaphysic’s deepfake projects for clients have included a Gillette razor campaign that recreated a young Deion Sanders along with his 1989 draft-day look and a campaign for the Belgian Football Association that brought two deceased Belgium team managers back to life.
+
+From TikTok This looks like Tom Cruise doing a coin trick, but it's actually a deepfake created by Chris Umé.
+
+Much attention has been placed on the potential for using deepfakes for nefarious purposes, and for good reason. The first-known examples of deepfake videos, posted to Reddit in 2017, featured celebrities’ faces swapped with those of porn stars. Since then, the technology has often been used for creating non-consenual pornography. Lawmakers have also warned that deepfakes could be used to mislead the American public.
+
+Yet Umé and his cofounders are among a growing number of people who are convinced that the technology can also be fun and accomplish incredible feats for movies, ads, and other forms of media that were previously unthinkable even with the best special effects. The Metaphysic founders envision using deepfakes to do everything from making older entertainers appear younger to creating video doubles of famous people that can be used to make commercials — or any type of content — without needing them to be physically on set. But as a recent controversy over the use of an AI-generated voice of the late chef and TV personality Anthony Bourdain shows, even entertainment uses of such controversial technology can raise eyebrows and ethical concerns.
+
+“The technology is moving forward, whether anybody likes it, really,” Metaphysic cofounder Tom Graham, a tech entrepreneur who’s based in London, told CNN Business. The company’s goal, he said, is to “really, really focus on trying to develop our product in a way” that avoids adding to the harmful deepfakes already being created by others.
+
+Umé, who previously worked on the pilot episode of deepfake web series “Sassy Justice” (from the creators of “South Park”), thinks the technology’s future is actually bright. “It’s a future where you have more freedom and more creative possibilities,” he said.
+
+Deepfakes backed by real effort
+
+It’s become easy to find deepfakes online. Some smartphone apps even let you make them yourself. But it’s often possible to tell that the resulting videos have been manipulated.
+
+The kind of work Umé and Metaphysic do is different, not to mention difficult and time consuming. They’re not just trying to create deepfakes — which makers have told CNN Business require a lot of effort simply to look presentable — but ones that look as flawless as possible.
+
+For the Cruise videos that Umé made, he said he first spent about two and a half months just training an AI model on videos and images of the Hollywood star, trying to capture him from as many angles and in as many lighting conditions as possible. According to Umé, this lets the AI model learn how the actor’s skin should react in different shots. Because the goal was to make seemingly candid deepfake videos of Cruise, rather than dramatic action shots, the training material also included lots of Cruise’s public interviews, Umé said.
+
+Courtesy Metaphysic Chris Umé, cofounder of Metaphysic, made a series of shockingly realistic deepfake videos of Tom Cruise.
+
+Umé also needed to shoot base videos for the deepfake. Fisher, the Cruise body (and voice) double, came up with the concepts for the videos, according to Umé. Then it took Umé two to three days to generate a deepfake video combining footage of Fisher with Cruise’s face, plus about another 24 hours using AI tools to do things like enhance video quality.
+
+Sometimes, Umé adds tricky AI-driven flourishes. For instance, this deepfake video purporting to be of a mustachioed Cruise showing off his CD collection is actually a combination of Fisher, Cruise, and a third guy (the mustache comes from Dutch DJ Bram Krikke).
+
+Such details, he thinks, show how well AI can be used to change an actor’s appearance — rather than using traditional visual effects to painstakingly alter a video one frame at a time.
+
+“I’ll be the first one to take it down”
+
+Due to how new this technology is, there aren’t clear rules about how deepfakes should be made and shared. It’s not yet clear, for instance, if or when viewers should be informed that they’re looking at a deepfake, or what guidelines should govern the consent process for the subject of a deepfake.
+
+Nick Diakopoulos, an associate professor in communication studies and computer science at Northwestern University, thinks we can look to existing media for some hints. If you’re watching a blockbuster hit at a movie theater, you’re used to seeing reality blended with special effects, and you understand that ads — such as the one that Metaphysic worked on for Gillette — are meant to be highly manipulative. But deepfakes could also be personalized to appeal to people in different demographic groups, he pointed out, or a celebrity you see endorsing a product in a deepfake ad may be chosen to match your interests. In these situations, he thinks a disclosure might be necessary so the viewer doesn’t feel manipulated.
+
+“I think these ethics questions are really tricky because there aren’t hard and fast rules where you can draw a bright line and say, ‘We’re never going to cross this line’,” Diakopoulos said.
+
+From TikTok Tom Cruise isn't really grinning here — it's a deepfake video posted to TikTok earlier this year.
+
+Umé, who’s based in Bangkok, and his cofounders at Metaphysic — Umé’s brother, Kevin, who’s in Belgium, and Graham — stressed that they’re trying to be mindful of the need for guardrails on this AI-driven technology. That is, they want to make sure it’s used ethically and appropriately.
+
+The company is working directly with clients who want deepfakes and using its own technology so it knows it has some control over the output, Graham said. Additionally, it requires consent of the subject for commercial projects.
+
+The concerns are timely, following the revelation that a new documentary about Bourdain contained three bits of AI-generated dialogue that appeared to be of him speaking. The use of AI was not initially made clear to viewers and Bourdain’s separated wife later spoke out against it on Twitter. (CNN co-produced the documentary with HBO Max; both have the same parent company, WarnerMedia.)
+
+Umé hasn’t heard any complaints from Cruise or the other celebrities he has parodied using AI. He said he did reach out to Cruise’s management, offering to take down the videos and hand over control of the TikTok account if Cruise didn’t approve of what they were doing. Umé said he simply got a response indicating the message had been received. Cruise hasn’t publicly commented on the deepfakes, and representatives for Cruise did not respond to CNN Business’ requests for comment.
+
+Due to Cruise’s status as a public figure, and the fact that the videos are lighthearted parodies, they appear not to run afoul of a TikTok rule that prohibits “synthetic or manipulated content that misleads users by distorting the truth of events in a way that could cause harm.”
+
+“If any of these celebrities would ever feel bad about what I’m making, I’ll be the first one to take it down because that’s not my intent,” Umé said. “But I like to mesmerize people.”
+
+Meanwhile, on TikTok, the deeptomcruise account has added deepfakes of other celebrities, including, a video of singer Mariah Carey in late July. Clad in black leather while sitting on a motorcycle, she dons a black helmet with cat ears.
+
+“Bet you never thought you’d see this, huh?” she says with a smile, before peeling out of a parking lot.

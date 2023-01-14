@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200624101600-01-pokmon-caf-mix.jpg?q=x_0,y_26,h_874,w_1554,c_crop/w_800

@@ -1,0 +1,13 @@
+New York (CNN Business) Google ( GOOG ) on Tuesday announced it has agreed to buy cybersecurity firm Mandiant for around $5.4 billion, one of the largest acquisitions in the tech giant's history and a big bet that helping companies better address cyber threats can bolster its cloud computing business.
+
+"The acquisition of Mandiant will complement Google Cloud's existing strengths in security," Google and Mandiant said in a joint statement Tuesday. "Combined with Google Cloud's cloud-native security offerings, the acquisition will help enterprises globally stay protected at every stage of the security lifecycle."
+
+Google Cloud is central to the company's broader efforts to diversity its revenue beyond its core search advertising business. Although Google Cloud sales have grown at a fast clip, it has struggled to compete with similar services fromand
+
+Jeff Pollard, VP and principal analyst at Forrester, said Google's cloud business is "playing catchup to Microsoft in cybersecurity," which forces Google "to pay a premium and be more aggressive." With this acquisition, he said, Google has "signaled" it's willing to do just that.
+
+The deal comes at a time when businesses may be feeling heightened cybersecurity concerns given Russia's war with Ukraine. In recent weeks, US officials have been warning businesses and local governments about the threat of cybersecurity attacks, given Russian hackers have previously gone after US targets.
+
+Mandiant launched in 2004 and was bought by FireEye in 2013. It was spun out as an independent company after FireEye sold its product business last year for $1.2 billion.
+
+Google's acquisition is expected to close later this year.

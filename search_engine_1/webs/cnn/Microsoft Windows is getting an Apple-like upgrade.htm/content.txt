@@ -1,0 +1,21 @@
+New York CNN Business —
+
+Microsoft Windows’ biggest fans are jealous about Macs for two reasons: The can’t-beat-it hardware and the Spotlight search function. We’ll soon be able to cross that last one off the list.
+
+Windows search is getting a ginormous upgrade with a tool called PowerToys Run, which launched Tuesday. It’s a super-duper-early-stages, but promising, search box that could put the Start menu and Windows key-R shortcut to shame.
+
+David Goldman
+
+The new tool was announced at Build, Microsoft’s annual developer event. It was held virtually this year for the first time in its history because of the coronavirus pandemic. Other highlights included new Google Docs-like features for Office and some Edge browser updates.
+
+The new search tool pops up in the middle of your screen with a big query box, just like Spotlight. It launches with the Alt-Space shortcut, and it’s insanely fast at finding files, programs and a few other items. It’s way faster than the current Windows search tool.
+
+The release, which is in beta for now, starts with the number zero – an indication to expect some buggy stuff, if the not-so-friendly name of the tool didn’t already give that away. Another turnoff: You have to install it from GitHub, along with a separate .NET Core program, a framework upon which PowerToys and other open-source software runs.
+
+But Microsoft (MSFT) promises to make PowerToys Run seriously impressive. It will be a catch-all launcher box that Microsoft (MSFT) said could eventually be a starting point for every kind of query. For example, it could eventually run search queries on the internet for casual users – on the browser of your choice (imagine that!) – and at the same time fully replace Windows key-R for power users, who will be able to use all the same commands they’ve become familiar with.
+
+Today, Windows search is a confusing amalgam of the Start menu, Search, Cortana and Win-R. And your options are limited. For example, you can search the internet using Windows search, but exclusively on Bing, and only with the Microsoft Edge browser.
+
+To improve the experience, Microsoft is combining its tools and opening up development to the masses with open-source code. The possibilities are limited by the imaginations of Windows’ power users, who are a pretty imaginative bunch.
+
+The PowerToys tool has some other nifty features, including the ability to remap keyboard shortcuts. Try doing that on a Mac.

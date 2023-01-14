@@ -1,0 +1,19 @@
+New York CNN Business —
+
+Researchers have discovered an alarming security flaw that could let some Android apps spy on users without their knowledge.
+
+Discovered by security firm Checkmarx, the bug could allow an attacker to take control of the phone’s camera and take photos or record videos through a rogue application without a user’s permission.
+
+Samsung and Google phones appear to be the most at risk from the flaw, which could affect “hundreds of millions” users, the researchers said. But Checkmarx said it informed other phonemakers, because they, too, could be vulnerable to the same security flaw.
+
+The researchers discovered attackers could gain access to stored videos or photos and operate the camera even when the app is closed. And they found that the phone’s proximity sensor could be used to alert the attacker when the phone was held close to the user’s face.
+
+Checkmarx first alerted Google (GOOG) and Samsung (SSNLF) to the flaw over the summer. Both companies confirmed the bug.
+
+Google, which released a patch in July, thanks Checkmarx.
+
+“We appreciate Checkmarx bringing this to our attention and working with Google and Android partners to coordinate disclosure,” a Google spokesperson said in a statement. “The issue was addressed on impacted Google devices via a Play Store update to the Google Camera Application in July 2019. A patch has also been made available to all partners.”
+
+Samsung told CNN Business that the company has released patches since the issue was discovered.
+
+“We recommend that all users keep their devices updated with the latest software to ensure the highest level of protection possible,” a Samsung spokesperson said.

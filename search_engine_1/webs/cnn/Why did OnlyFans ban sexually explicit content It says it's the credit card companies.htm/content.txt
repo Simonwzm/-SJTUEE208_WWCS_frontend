@@ -1,0 +1,63 @@
+(CNN Business) Thursday's decision by the creator platform OnlyFans to soon stop hosting a wide swath of sexually explicit content is sending shockwaves through the internet.
+
+OnlyFans, a website with 130 million users and more than 2 million content creators, has become synonymous with pornography. For many, performing on the app is a lifeline: Some who lost their jobs during the pandemic turned to sharing explicit videos of themselves on OnlyFans to help pay the bills . Many of these sex workers are now expressing outrage at what they view as OnlyFans's betrayal of a community that enabled the platform's massive success.
+
+Not all of OnlyFans' explicit content is going away; simple nudity will still be allowed, the company said, as long as it complies with the platform's other policies. Only "content containing sexually-explicit conduct" — presumably meaning sex acts on camera — will be banned, it said in a statement.
+
+Venture capital firms are often wary of investing in platforms that host adult content. According to internal documents obtained by Axios , OnlyFans' popularity and revenue both exploded during the pandemic, yet it has struggled to secure outside investment.
+
+OnlyFans' decision is also a result of a much wider and concerted crackdown in recent years across explicit parts of the internet, one driven largely by a group of powerful and increasingly assertive companies: The payment processors who, behind the scenes, handle every swipe of your credit card whether you're paying for gas, buying groceries or, yes, tipping a performer on OnlyFans.
+
+In its announcement this week, OnlyFans said its decision was driven with a view toward building a sustainable platform for the long term. "These changes are to comply with the requests of our banking partners and payout providers," it added.
+
+Seth Eisen, a spokesman for Mastercard, told CNN Business it was not involved in OnlyFans' decision to restrict the content it would allow on the platform. "It's a decision they came to themselves," Eisen said. (Other payment processors didn't immediately respond to a request for comment for this story.)
+
+After this story initially ran, OnlyFans CEO Tim Stokely blamed banks such as Bank of New York Mellon for the company's decision. In an interview with the Financial Times , Stokely said BNY Mellon had blocked payments from OnlyFans to its creators and accused banking giant JP Morgan of shutting down accounts of sex workers or "any business that supports sex workers." BNY Mellon and JP Morgan declined to comment.
+
+OnlyFans' decision to attribute its policy change to payment companies reflects how the financial sector has increasingly leaned against sites that share adult content. But the issue, they say, is not one of mere prudishness, but legal exposure.
+
+"I think we're on the verge of a cultural shift in the finance industry that takes this issue far more seriously," said Haley McNamara, VP of the National Center on Sexual Exploitation, an advocacy group that last year began pressuring payment companies to act more aggressively on abusive sexual content.
+
+Credit card companies are growing increasingly conscious of their own potential legal exposure, McNamara added, if they are accused of facilitating sex trafficking or the spread of child sexual abuse material.
+
+Last December, Discover, Mastercard and Visa all announced that they would suspend payments to Pornhub, one of the web's largest porn sites, following allegations that the site had hosted child sexual abuse material. In response, Pornhub scrubbed its site of all videos that weren't produced by verified partners and implemented a verification program that all users would need to undergo if they wanted to post adult content. Though Visa later agreed to restore service to some adult sites owned by Pornhub's parent, MindGeek, Pornhub itself remains cut off from credit card processors; the platform still only accepts payment by direct bank transfer and cryptocurrency.
+
+Then, in April, Mastercard rolled out a series of new requirements governing adult-content transactions. The move, Mastercard said, was aimed at combating illegal adult material.
+
+"The banks that connect merchants to our network will need to certify that the seller of adult content has effective controls in place to monitor, block and, where necessary, take down all illegal content," Mastercard said.
+
+Platforms would be required to verify the age and identity of those who were posting and who were depicted in online porn, Mastercard said, and would have to have a process to review adult content before it is posted. Adult sites would have to offer a complaint process that can "address" illegal or non-consensual content within seven days, and offer ways for people depicted in adult content to request takedowns of that content.
+
+The new rules revealed the power of the payments industry to shape how millions of people experience the internet. And Mastercard isn't the only one.
+
+"Mastercard is the most proactive, [but] we've had conversations with Visa and other credit card [networks] as well," said McNamara. "A number of payment processors are waiting to see how Mastercard's policies fare."
+
+In the subsequent Financial Times interview, Stokely said OnlyFans is "already fully compliant with the new Mastercard rules, so that had no bearing on the decision."
+
+The financial industry's muscle-flexing has drawn criticism from digital rights advocates who argue it's throwing its weight around.
+
+"Visa and Mastercard, acting together, are currently a chokepoint for online payments," wrote the digital rights advocates at the Electronic Frontier Foundation . "This means that every arbitrary policy of these two companies can translate into rules that all websites who want to process payments must follow."
+
+The payment industry's role in shaping the internet stretches back years. In 2015, Visa, Mastercard and American Express terminated services to Backpage.com, a website that — according to a multi-year Senate investigation — had knowingly facilitated sex trafficking by allowing ads for prostitution. Over the following years, momentum against Backpage continued to build; the Justice Department seized its website in 2018, and its creators were indicted days later.
+
+At around the same time, President Donald Trump signed into law an anti-sex trafficking bill known as SESTA-FOSTA, which said online platforms could be held liable if they hosted ads for sex, including consensual sex. Proponents of the law said it would help curb sexual abuse. But in recent years, the narrative surrounding SESTA-FOSTA has shifted as platforms like Craigslist removed all personal classifieds rather than risk running afoul of the law and as sex workers themselves have increasingly argued the law made their profession less safe by driving it further underground — even as a federal report found this year that SESTA-FOSTA has in fact rarely been used in actual prosecution.
+
+Now, sex workers are raising their voices again, this time to defend their ability to represent themselves on digital platforms like OnlyFans.
+
+Several OnlyFans creators have told CNN Business they are frustrated and angry at OnlyFans' announcement, adding that the decision will cost the creators their livelihoods and networks and could ultimately lead to a decline in OnlyFans' own popularity as a platform.
+
+"The real villains here are the payment processors, the silent shadowy blacklisting cabal that dictates the kind of moral behavior we're allowed to engage in, who, without any sort of oversight, can wipe any company they wish out of existence," tweeted one San Francisco-based OnlyFans creator who goes by @Aella_Girl.
+
+The creation of what's essentially a new content policy regime enforced by private payment networks says far more about the financial industry's influence than of the websites subject to its enforcement, according to legal experts.
+
+Payment processors are well within their rights to determine what transactions they will and won't support on their networks. In that respect, they are not that different from platforms such as Facebook and Twitter, who are massively powerful in their own right, said Danielle Citron, a law professor at the University of Virginia studying online content moderation and who also helps lead the Cyber Civil Rights Initiative, a group that advocates against nonconsensual porn.
+
+Just like social media companies, payment processors are protected by Section 230 of the Communications Act of 1934, Citron said. That's the signature law that grants broad legal immunity to Facebook and Twitter for many of the content-moderation decisions they make — and the law that SESTA-FOSTA amended to create an exception for sex ads.
+
+Citron wants to see changes made to Section 230 that could expose platforms to more liability under certain circumstances. Perhaps, she said, those changes might even allow sex workers who feel their businesses have been harmed by payment processors to sue them for tortious interference.
+
+"We're talking about OnlyFans, where we're seeing sex workers doing safe work. It's from their own homes, they're making content on their own terms," Citron said.
+
+"Payment processors have considerable power over sites like OnlyFans and Pornhub," she added. "They're private companies. But should we be worried about the kind of power they have?"
+
+Correction: An earlier version of this story misstated OnlyFans' stance on creator verification. The platform requires government-issued photo ID and a selfie as part of its verification process.

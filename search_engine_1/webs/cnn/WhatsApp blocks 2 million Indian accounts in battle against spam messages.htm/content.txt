@@ -1,0 +1,15 @@
+New Delhi (CNN Business) WhatsApp blocked 2 million accounts of Indian users in a month to prevent harmful behavior, the company said in its first ever compliance report published under the country's strict new information technology rules.
+
+Under the new rules , which came into effect in May, social media companies have to publish a compliance report every month detailing how many complaints they received from Indian users and what action they took. International technology firms also have to hire executives locally, who can help regulate content and take swift action in response to legal complaints.
+
+The-ownedmessaging app said that more than 95% of the 2 million accounts blocked between May 15 and June 15 were banned "due to the unauthorized use of automated or bulk messaging."
+
+"These numbers have increased significantly since 2019 because our systems have increased in sophistication," the company said in a statement Thursday. "Keep in mind, we ban the vast majority of these accounts proactively, without relying on any user reports."
+
+In 2018, the service began restricting the ability of users worldwide to forward messages after viral hoaxes on its platform were blamed for a spate of mob violence in India. The company blocks 8 million accounts globally per month on average, it said in a statement.
+
+The app has over 400 million users in India, which is its biggest market, and 2 billion users worldwide.
+
+While WhatsApp is complying with some aspects of the new rules, it has sued the Indian government over one of the requirements. Indian authorities want companies to trace the "first originator" of messages if asked. The government has said that such requests would be made only in relation to serious crime, but WhatsApp is concerned that this move would effectively end any guarantee of user privacy by requiring the platform to keep track of every message.
+
+"Requiring messaging apps to 'trace' chats is the equivalent of asking us to keep a fingerprint of every single message sent on WhatsApp, which would break end-to-end encryption and fundamentally undermines people's right to privacy," a company spokesperson said in a statement to CNN Business when the lawsuit was filed in May.

@@ -1,0 +1,11 @@
+(CNN Business) Apple unveiled a slew of new products at its annual Spring launch on Tuesday, but waited until after the event to announce big changes coming to software for iPhones and iPads "next week."
+
+The company said in a press release that it will roll out its much-anticipated iOS 14.5 software but didn't specify which day. It'll feature the the ability to unlock your device without taking off a mask when using an Apple Watch, a major data privacy change and new emoji, including a less graphic syringe amid the global Covid-19 vaccine rollout. It'll also include support for its new AirTag Bluetooth trackers
+
+Apple AAPL As expected,is introducing a new requirement for users to give explicit permission for apps to track them across the internet, a move that has roiled Facebook, which relies on data collection to target ads.
+
+The company said the requirement could harm its ad revenue , but has framed its objections around potential harm to small businesses. In December, Facebook took out ads in The New York Times, Wall Street Journal and Washington Post, saying the requirement could be "devastating" to millions of small businesses that advertise on its platform. It also held a press event to trot out small businesses opposed to the change and debuted a new hashtag to discuss it.
+
+In addition, iPhone users will soon be able to unlock their smartphones without needing to remove their face masks , but first they'll need an Apple Watch. Face ID typically recognizes when someone is wearing a mask and triggers the passcode entry screen to appear.
+
+Read More

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190322004947-0322-xpeng-02.jpg?q=x_0,y_182,h_2807,w_4989,c_crop/w_800

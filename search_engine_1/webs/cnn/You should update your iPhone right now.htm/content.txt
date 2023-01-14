@@ -1,0 +1,11 @@
+(CNN Business) Apple is urging iPhone and iPad users to promptly update their operating systems to fix security bugs that may have already been exploited by hackers.
+
+On its support webpage , the company said three security flaws "may have been actively exploited." It did not reveal too many specifics about the bugs, noting "Apple does not disclose, discuss, or confirm security issues until an investigation has occurred and patches or releases are available."
+
+The issue is a link in an exploit chain , meaning a hacker would need to exploit further bugs for it to be fully executable. The company declined to comment further on any attacks.
+
+The company pushed out the security patches on Tuesday as part of its new iOS 14.4 software, which also includes fixes for keyboard lag and allows smaller QR codes to be read by the camera.
+
+Apple said two security issues stem from its WebKit, an open source browser engine used by Safari and iOS browsers. "A remote attacker may be able to cause arbitrary code execution," the company said in the description notes. Meanwhile, Kernel, an Apple developer framework, was also affected.
+
+Read More

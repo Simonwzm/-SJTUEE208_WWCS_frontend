@@ -1,0 +1,19 @@
+New York (CNN Business) Meta, the company formerly known as Facebook, is asking for help in avoiding having personal data about its users scraped from its platforms and posted to the web.
+
+The social media giant announced Wednesday that it is expanding its bug bounty program — which offers rewards for helping identify and fix vulnerabilities in its apps — to include scraping, in a moveis calling an "industry first" to address an "internet-wide" challenge.
+
+Scraping is typically an automated process of extracting large amounts of data from websites. Even when this data is publicly available online, such as a username, it can potentially still be exploited by bad actors if it's lumped together with other personal information such as birthdates, email addresses and location. For that reason, many websites, including Meta's platforms, say they prohibit or limit scraping, although those rules aren't always followed.
+
+The announcement follows a PR debacle earlier this year in which the personal information of nearly half a billion Facebook users — including phone numbers, email addresses and relationship statuses — were posted to a website used by hackers. Facebook said at the time that the data had been previously scraped in 2019 and the issue was fixed that year, but the release of the information caused renewed concern about the practice.
+
+"These are the pieces of data cyber criminals spend time searching for to perform social engineering attacks," Tobac said. "But now they're all in one place and easily accessible in this leak, which makes social engineering quicker and easier."
+
+Meta says the inclusion of scraping is part of the natural expansion of its bug bounty program.
+
+"Over time, we've been looking for ways to improve the bug bounty program as a whole," Dan Gurfinkel, head of Meta's bug bounty program, said in a call with reporters. He noted the company also expanded the program to include data abuse following the Cambridge Analytica scandal in 2018.
+
+"This is basically an iterative process. It's not in response to a particular instance. It's more about ways we can engage the entire security community to help us have more hands on deck to tackle a specific issue," he said.
+
+The expanded bug bounty program will reward security researchers for reports about methods of scraping, even of public data, that could allow bad actors to bypass Meta's scraping limitations and gather large amounts of data. "Our goal is to quickly identify and counter scenarios that might make scraping less costly for malicious actors to execute," the company said in a statement. It will also reward reports of unprotected databases posted online that contain at least 100,000 unique Facebook user records with personal or sensitive information. (Rewards start at $500, depending on the type of report.)
+
+News of the expanded program comes as part of Meta's year-end bug bounty report. The company said it has received more than 150,000 reports and awarded more than 7,800 bounties (amounting to $14 million) over the past decade.

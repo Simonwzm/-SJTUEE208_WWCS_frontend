@@ -1,0 +1,67 @@
+Hong Kong CNN Business —
+
+For years, the Great Firewall of China has blocked some of the largest online services coming out of the United States, including Google (GOOGL), Facebook (FB) and Twitter (TWTR).
+
+This month, Washington indicated that it might be willing to build a wall of its own by threatening a ban on two of the most popular Chinese-owned apps in the world: TikTok and WeChat.
+
+US President Donald Trump has given the apps 45 days to find American buyers, according to a pair of executive orders he issued last week. Trump claimed the apps pose risks to national security, citing concerns about data privacy and censorship.
+
+ByteDance’s TikTok has already been courted by Microsoft (MSFT), which would make it possible for the app to avert a total ban — albeit at the cost of its Chinese ownership. Tencent’s WeChat, though, is far less popular in the US than it is at home, and its use stateside could be significantly curtailed. Because Trump’s order is vague, some analysts also suspect a ban could have potentially severe knock-on effects for American people and businesses who use the app in China.
+
+Trump’s moves risk further fracturing the global internet, upending families and online communities, and disrupting the flow of tech investment and innovation in both countries, without necessarily putting in place a set of policies to ensure popular apps — be they from China or the US — guarantee the privacy and security of their users.
+
+“The solution can’t be to undermine the free flow of information that underpins the internet,” said Susan Ariel Aaronson, an expert on internet governance at George Washington University. “What worries me is that the US is becoming China by trying to block off apps.”
+
+The two apps targeted by Trump also pose unique challenges, further muddying the issue.
+
+Tencent has long faced accusations of censorship and surveillance, making WeChat a poster child for the privacy and free speech concerns often expressed about some Chinese apps. But cutting it off entirely from the US would come with its own costs for American and Chinese users.
+
+With TikTok, the privacy issues are murkier, given the app does not appear to behave that differently from its US competitors. Its treatment also raises questions about whether Washington could ever trust a Chinese app of its scale.
+
+But the Trump administration appears to be taking a one-size-fits-all approach to Chinese-owned apps, in a way that risks not only conflating the issues with each, but potentially undermining the administration’s own case for the crackdowns in the first place.
+
+Video Ad Feedback What could happen to TikTok and WeChat after Trump ban 02:48 - Source: CNN
+
+What we do (and don’t) know about WeChat and TikTok
+
+WeChat and TikTok are both social media applications with millions of users around the world and owned by Chinese parent companies. But they have different histories and concerns.
+
+TikTok is an app used by teenagers for sharing silly videos, so its inclusion in any conversation about national security may seem bizarre to some observers.
+
+There is “no information captured from TikTok that would be useful to Chinese intelligence,” said James Lewis, an expert on technology policy at the Center for Strategic and International Studies.
+
+But Trump has accused the app of capturing “vast swaths of information from its users,” such as location data and browsing and search histories, which “threatens to allow the Chinese Communist Party access to Americans’ personal and proprietary information — potentially allowing China to track the locations of Federal employees and contractors, build dossiers of personal information for blackmail, and conduct corporate espionage.”
+
+Video Ad Feedback TikTok: Is the security threat real? 03:37 - Source: CNN Business
+
+TikTok has denied that it would share data with Beijing, and says US user data isn’t stored in China. The app has also broadly pushed back at other allegations, including recent claims published by the Wall Street Journal that it bypassed protections on Android to scrape user data.
+
+On paper, at least, TikTok does not collect significantly more data than rivals such as Facebook and Google, which gather such information for targeting advertising. In fact, it may collect less, given that users are uploading less personal information to the app than they do on other social media platforms.
+
+The extent to which WeChat collects information, meanwhile, has long raised security concerns — as has Tencent’s close relationship to the Chinese Communist Party.
+
+For example, cybersecurity experts in the Tibetan exile community in Dharamsala have pointed to the prevalence of WeChat as a potential reason for a drop in hacking attacks on members in recent years.
+
+“Because WeChat is so embedded in the community in some ways, I don’t think they need to hack systems as much as they used to because that information is already being given to them,” Lobsang Gyatso Sither, a Tibetan cybersecurity expert, has previously said.
+
+WeChat’s owner Tencent has consistently denied spying on users. But in the past, Chinese prosecutors have also cited evidence retrieved from the app, including supposedly deleted messages, in cases against Muslims, dissidents and even Communist Party members. Chinese cybersecurity laws give the government broad powers to request data from companies like Tencent, which may also face political pressure to hand over information in sensitive cases.
+
+“Any type of message or content shared on WeChat is very likely under heavy surveillance [by] the Chinese government,” said Samm Sacks, a China and cybersecurity expert at New America, a Washington DC-based think tank.
+
+Video Ad Feedback Google CEO on privacy: We've put too much burden on users 03:20 - Source: CNN Business
+
+Overdue regulation
+
+China has been firing back at Washington for targeting the apps.
+
+In a series of tweets Wednesday, Hua Chunying, a top diplomat with China’s Ministry of Foreign Affairs, accused the US of creating a “splinternet” and of using “gangster logic” in trying to force TikTok to sell. She highlighted Washington’s own less-than-stellar record on government surveillance.
+
+And while Beijing’s stance comes across as somewhat ironic, given its own relationship with many Western firms, Hua isn’t alone in such criticisms. Last month, for example, the European Court of Justice ruled against a data-sharing plan between the US and the European Union over concerns that data shared by Europeans might not be adequately protected from US surveillance.
+
+Accusations of hypocrisy do not mean Washington should be blind to the potential threats posed by Chinese apps – or any apps – when it comes to data security and free speech, but both could be protected without necessarily banning or blocking foreign services.
+
+“The question is, how do we make the app system more secure overall?” said Sacks. “We need to spend more time on legislation and standards where you have a trusted set of criteria for all platforms. So whether you’re TikTok or some random weather app, in order to operate you have to be audited, approved under these more strict cybersecurity practices.”
+
+A similar approach could be taken on the issue of censorship, with standards set for how apps should be expected to protect their users’ free speech and avoid exposing them to misinformation.
+
+“It’s time for the US to get its own vision for internet governance,” Sacks said. “How do you govern massive amounts of data that’s collected on these platforms?”

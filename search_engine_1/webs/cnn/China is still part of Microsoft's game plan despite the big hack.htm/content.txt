@@ -1,0 +1,47 @@
+Hong Kong (CNN Business) Microsoft has blamed a huge attack on its Exchange email service on a group linked to China.
+
+But fallout from the incident, which is estimated to have affected hundreds of thousands of customers worldwide, is unlikely to blunt attempts by one of the most successful Western firms in China to continue making inroads there.
+
+The American tech giant revealed last week that a hacking group called Hafnium exploited Microsoft Exchange and was able to gain access to computers. The company said the group is "assessed to be state-sponsored and operating out of China."
+
+A US official recently told CNN that as many as 250,000 Microsoft customers were hit by the attack, and the White House has deemed it an " active threat ." Beijing has pushed back on the allegations that it is involved, warning last week that linking such attacks "directly to the government" is a "highly sensitive political issue" that shouldn't be based on "unprovoked guesses."
+
+The hack putsin an uncomfortable spot. While its China sales account for just a fraction of its total revenue, the company has still touted the country as one of its most important "strategic" markets.
+
+Microsoft entered China in 1992 and for decades has counted on its influential research lab — Microsoft Research Lab Asia — to help it build influence. Its software is used by the Chinese government and companies, and Bing is the only foreign search engine with any traction in China.
+
+Experts point out, though, that the company survived the US-China trade war and other tensions. And even as Washington is expected to probe the incident further , Microsoft will likely forge ahead with plans to build out its presence in China.
+
+The company just appointed a new CEO for Greater China, Hou Yang. And it has announced plans to double its cloud service capacity in the country in the coming years.
+
+"Microsoft not only has a history in China, but a longer history of grappling with state-linked cyber threats," said Peter Singer, a strategist and senior fellow at New America Foundation with expertise on cybersecurity and foreign policy.
+
+Building clout
+
+build goodwill in China. Its Beijing-based research lab has cultivated many Chinese tech talents, including Bytedance founder Zhang Yiming, Alibaba BABA Baidu BIDU Microsoft has worked hard tobuild goodwill in China. Its Beijing-based research lab has cultivated many Chinese tech talents, including Bytedance founder Zhang Yiming,tech chief Wang Jian and formerpresident Zhang Yaqin.
+
+Billionaire co-founder Bill Gates has visited China more than a dozen times since the 1990s, and once even hosted former Chinese President Hu Jintao at his home in Washington state.
+
+Chinese Foreign Minister Wang Yi praised the former CEO as an "an old friend of Chinese people" in 2018, and President Xi Jinping wrote to Gates last year to thank him for his support in fighting Covid-19.
+
+Facebook FB Google GOOGL The company's clout has led to success. It employs more than 6,000 staff there, and its products are still available where others are not. Whileis blocked, for example, Microsoft's LinkedIn remains one of the few Western social media tools available in the mainland. The Bing search engine is also operational, whilehas been cut out for years.
+
+Challenges in China
+
+The company faces challenges in China, though.
+
+2019 figures. President Brad Smith said last year that Microsoft gets less than 2% of global sales from China — an amount that comes to about $2 billion based on
+
+Some have blamed the lack of sales on piracy: In 2018, former CEO Steve Ballmer told Fox Business Network that the vast majority of Chinese companies use Microsoft's operating system, though barely any firms pay for it. Ballmer, who left Microsoft in 2014, estimated that piracy cost the company about $10 billion in profit.
+
+Allegations of piracy have long generated heated debate within China, including frequent pushback from the Chinese government. One prominent government scientist, Ni Guangnan with the Chinese Academy of Engineering, even once claimed in a 2018 interview with Chinese state media that Microsoft "deliberately" allowed the use of pirated products so locally made operating systems wouldn't gain traction.
+
+Microsoft has also encountered tensions with Chinese authorities. In 2014, regulators announced an antitrust probe into the company's Windows software system and raided offices. No punishment was ever announced, though.
+
+Despite those bumps, Microsoft has continued to focus on expansion. It's trying to grow its cloud business in China, the world's second largest market after the United States, by increasing the capacity of its Chinese version of Microsoft Azure. It partnered with a local Chinese firm in 2014 to bring its cloud computing to China.
+
+Microsoft said this month it wants its new regional CEO to "seize high growth opportunities" in Greater China by building partnerships in tech and elsewhere.
+
+"It seems Microsoft is still expanding in China, including cooperation on data management and cloud cybersecurity," said Winston Ma, an adjunct professor at New York University and a former managing director at China Investment Corp., a Chinese sovereign wealth fund.
+
+— Alex Marquardt, Zachary Cohen, and CNN's Beijing bureau contributed to this report.

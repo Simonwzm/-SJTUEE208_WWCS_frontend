@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200326111901-01-dyson-covent-ventilator.jpg?q=x_144,y_93,h_1269,w_2256,c_crop/w_800

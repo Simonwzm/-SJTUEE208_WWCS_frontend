@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200626154431-lunar-loo.jpg?q=x_2,y_0,h_898,w_1596,c_crop/w_800

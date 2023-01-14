@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200910095810-snowflake-cloud-data-file.jpg?q=x_190,y_183,h_1484,w_2638,c_crop/w_800

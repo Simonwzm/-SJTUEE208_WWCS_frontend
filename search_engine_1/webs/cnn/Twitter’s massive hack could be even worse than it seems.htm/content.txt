@@ -1,0 +1,51 @@
+CNN Business —
+
+The enormous Twitter hack that led to the accounts of a former US president, a possible future president, numerous billionaire businessmen, celebrities and the world’s most valuable company all promoting a bitcoin scam may go down as one of the worst cybersecurity disasters ever to hit a social media company.
+
+But while the scope of the incident was massive in its own right — impacting accounts belonging to Barack Obama, Joe Biden, Bill Gates, Elon Musk, Kanye West, Kim Kardashian West and Warren Buffett — it could merely be the tip of a very large iceberg with vast security implications. Cybersecurity experts and policymakers now worry that the bitcoin scam may mask a much more troubling data breach involving the personal communications of the world’s most powerful people.
+
+The FBI said Thursday it is now investigating the incident. Later on Thursday, Twitter disclosed that it was working with users who had been affected by the breach and “continuing to assess whether non-public data related to these accounts was compromised.”
+
+“Based on what we know right now, we believe approximately 130 accounts were targeted by the attackers in some way as part of the incident,” the company added. “For a small subset of these accounts, the attackers were able to gain control of the accounts and then send tweets from those accounts.”
+
+The attack is a stark reminder, in the middle of a pivotal election year, about the power of social media in general, and Twitter (TWTR) in particular, to destabilize America and the world. Despite it having a significantly smaller user base than rivals like Facebook (FB), Twitter (TWTR) has a disproportionately large influence on the media, investors and policymakers. It’s where news breaks, CEOs make business announcements and US presidents sometimes declare new policies. And Wednesday’s attacks showed how much trust the public places in Twitter (TWTR)’s hands, and how brittle its systems can be.
+
+It still isn’t clear what the attackers’ ultimate goals were. But what little has been revealed about the hack so far has already raised serious concerns from policymakers, security experts and some close to Twitter. With the level of access they enjoyed, the hackers could have triggered a sell-off in the financial markets, issued fake policy pronouncements or disrupted entire presidential campaigns.
+
+“If Ivanka [Trump’s] account were to tweet the extreme hypothetical, ‘I’m so proud of my father tonight for making the hard decisions; nuclear war is never easy, but we’ll win it,’ that would … be problematic,” said an ex-Twitter employee, speaking on condition of anonymity to discuss a former employer.
+
+Neither Ivanka Trump nor President Donald Trump’s account appeared to have been affected by the hack; the White House declined to comment on the matter Wednesday afternoon. White House press secretary Kayleigh McEnany said Wednesday that Dan Scavino, Director of Social Media at the White House, has been in “constant contact” with Twitter over the last 18 hours to keep the president’s account secure.
+
+“The president will remain on Twitter,” McEnany told the press confirming that the president’s account was never hacked and remains secure.
+
+Others in DC, including one of the president’s sons, were still struggling to post on the platform Thursday as a result of sweeping and drastic measures Twitter took to lock down many accounts, including all verified ones. Twitter later relaxed the measure, but as of Thursday afternoon, accounts belonging to Virginia Democratic Sen. Mark Warner and Donald Trump Jr. remained unable to tweet.
+
+On Wednesday evening, Twitter offered a preliminary explanation for the hack. It blamed a “coordinated social engineering attack” against some of its employees who had access to “internal systems and tools,” Twitter said.
+
+The hackers then “used this access to take control of many highly-visible (including verified) accounts and Tweet on their behalf,” Twitter added. “We’re looking into what other malicious activity they may have conducted or information they may have accessed and will share more here as we have it.” Twitter declined to comment for this story.
+
+The hackers who controlled the accounts posted fake tweets urging Twitter users to send money to a number of bitcoin wallets, promising that users would be paid back double. Instead, the hackers appeared to simply take the money and run — with more than $116,000 flowing into the wallets by Thursday morning. All bitcoin transactions are visible on a public ledger, making the hack an even greater spectacle.
+
+Those wallets will be forever radioactive as law enforcement eyes them for withdrawals or transfers that could be traced back to the original attackers, said Kenn White, a security principal at the software database company MongoDB.
+
+“Those [bitcoin] addresses will be scrutinized closer than any in history,” he said.
+
+For such a disruptive hack, the money involved pales in comparison to the kind of million-dollar payouts hackers can routinely expect from other types of financially motivated attacks. In addition to being relatively small in financial terms, the profits from this week’s Twitter attack are insignificant in light of how deeply the hackers appear to have penetrated Twitter’s systems.
+
+“If you’ve stolen a Ferrari, why just drive around the block?” White said.
+
+As the crisis unfolded Wednesday night, Missouri Republican Sen. Josh Hawley, a major critic of Silicon Valley, sent a letter to Twitter CEO Jack Dorsey.
+
+“Millions of your users rely on your service not just to tweet publicly but also to communicate privately through your direct message service,” Hawley wrote. “A successful attack on your system’s servers represents a threat to all of your users’ privacy and data security.”
+
+The Federal Trade Commission is also likely to investigate — opening the door to potential fines or other penalties, according to David Vladeck and Jessica Rich, two former directors of the agency’s consumer protection bureau.
+
+Twitter’s own investigation is still ongoing, and it isn’t clear what data the hackers may have accessed. Twitter also hasn’t disclosed who may have been behind the attack or any information about the targeted employees. Two US intelligence officials told CNN Wednesday night that it is still too early to tell if the attack was the work of a nation state or a state-sponsored actor.
+
+But some security experts are bracing for the worst. By using the hijacked accounts to push a bitcoin scam, the attackers publicly advertised their successful attack — guaranteeing that Twitter would swiftly respond and lock them out, said Theresa Payton, the former White House chief information officer under President George W. Bush.
+
+While that could indicate nothing more than a play for notoriety and a quick cash grab, she said, the hackers could have downloaded information about the accounts for later release — potentially including private messages, photos, phone numbers and email addresses. That would be damaging enough at any time, but during a critical election year in which trust in platforms and their handling of information remain key concerns, the stakes could not be higher.
+
+“Are they going to come back later with a ‘dump and dox’ campaign or a blackmail situation?” said Payton. “We only know about the accounts they flipped with that message. How about all the other accounts they didn’t flip with that message?”
+
+— Michelle Toh contributed to this report.

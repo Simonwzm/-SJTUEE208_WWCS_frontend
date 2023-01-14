@@ -1,0 +1,25 @@
+New York CNN Business —
+
+Microsoft beat analysts’ revenue projections by nearly $1 billion when it announced earnings for the fourth quarter of its 2019 fiscal year, as its cloud division Azure continues its path of strong expansion.
+
+Revenue for the quarter was $33.7 billion, up 12% from the previous year and well above analyst forecasts of $32.8 billion. The company reported adjusted earnings per share for the quarter of $1.37, compared to analyst expectations of $1.21. It also announced full-year revenue of $125.8 billion, up 14% from the prior year. Microsoft (MSFT)’s stock was up 2.7% after hours to about $140.
+
+“This quarter was an absolute ‘blow out quarter’ across the board with no blemishes,” Wedbush analyst Dan Ives said in a statement.
+
+While all areas of Microsoft’s business were up this quarter, the main question leading up to the release was how well its cloud division would perform.
+
+Sales from Microsoft’s commercial cloud division, which includes Azure, Office 365 and Division 365, increased 39% from the prior year to $11 billion.
+
+Azure alone, the division of the company that competes with leading cloud services provider Amazon Web Services (AWS), had slightly slower growth than last quarter. In Q4, Azure was up 64% compared to 73% growth in the third quarter. But it continues to gain on AWS, which posted a 41% increase in its most recent quarter. Amazon reports earnings next week.
+
+Offering more enterprise customers a hybrid cloud option — one that allows them to use two different clouds at once or a combination of physical IT and cloud services — could help Microsoft continue expanding Azure, according to a note from Synovus Trust Company analyst Dan Morgan ahead of the earnings release.
+
+“A mix of public and private cloud is emerging as the preferred model for Fortune 500 companies, while startups favor the public style,” Morgan said in the note. “Microsoft’s hybrid-cloud product, Azure Stack, launched in 2017, remains a game-changer for legacy enterprises.”
+
+There’s still significant untapped opportunity in the cloud market. Wedbush estimates 30% of workloads are currently in the cloud, and that number is poised to grow to 55% by 2022.
+
+A partnership to link Microsoft Azure and Oracle Cloud announced last month gives the company a new means to capitalize on that. Customers will now be able to use the Azure and Oracle clouds at the same time, taking advantage of Microsoft’s enterprise services and Oracle’s data capabilities.
+
+“It was a record fiscal year for Microsoft, a result of our deep partnerships with leading companies in every industry,” Satya Nadella, Microsoft’s CEO, said in a release. “This commitment to our customers’ success is resulting in larger, multi-year commercial cloud agreements and growing momentum across every layer of our technology stack.”
+
+Correction: A previous version of this article misstated Microsoft's after-hours trading price.

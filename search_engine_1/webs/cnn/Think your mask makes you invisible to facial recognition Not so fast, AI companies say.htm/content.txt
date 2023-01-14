@@ -1,0 +1,57 @@
+CNN Business —
+
+The future of facial recognition technology may depend on one very specific part of the face: the area around the eyes.
+
+Before the global pandemic, facial recognition systems typically worked by comparing measurements between different facial features in one image to those in another picture. But when you’re wearing a mask over your nose, mouth, and cheeks, you’re offering up a fraction of the information normally used to figure out your identity.
+
+Now, numerous facial recognition companies say they are focusing on better identifying people based on the portion of the face above the nose and, in particular, the eye region. The stakes are high to get it right, and soon.
+
+“If the [facial recognition] companies aren’t looking at this, aren’t taking it seriously, I don’t foresee them being around much longer,” said Shaun Moore, CEO of Trueface, whose facial recognition technology is used by the US Air Force to authenticate the identities of people entering bases.
+
+For many individuals and privacy advocates, it may be a comforting thought that a mask could offer some measure of invisibility from computerized surveillance. But for facial recognition businesses, it poses a unique challenge at a moment when the technology appears to be in even greater demand.
+
+Facial recognition technology has grown in prevalence — and controversy — in recent years, popping up everywhere from airport check-in lines to police departments and drugstores. And it may become even more popular as businesses look to contact-free security options because of the pandemic. Yet while it could add a sense of security and convenience for businesses who roll it out, the technology has been widely criticized by privacy advocates for built-in racial biases and potential for misuse.
+
+Images of facial-recognition software from Tech5, showing how its current algorithm identifies a person wearing a mask or not wearing a mask. Here the software is less certain of a match with a masked face than one that isn't masked. Tech5
+
+A late July report on facial recognition algorithms and masked faces by federal researchers at the National Institute of Standards and Technology, or NIST, confirmed that many pre-Covid algorithms were not up to the task. The most accurate facial recognition algorithms that the lab tested failed to make a correct match between 5% and 50% of the time.
+
+There was one key caveat, however: All the algorithms NIST tested were submitted before mid-March. In the months since then, a number of artificial intelligence companies have said they’re working to ensure their facial recognition technology can figure out who is behind the mask.
+
+The visible portion of the face
+
+This spring, as the pandemic worsened, Tech5 cofounder Rahul Parthe started getting questions from customers about masks. Specifically, they wanted to know whether the accuracy of Tech5’s facial-recognition software would be hampered by facial coverings.
+
+Tech5, which is based in Geneva, Switzerland, sells face, fingerprint and iris-recognition technologies to customers ranging from healthcare companies to law enforcement. Even before the pandemic, Parthe said, the company’s technology had to deal with recognizing partly concealed faces, whether by religious face coverings or masks, which have been fairly common in southeast Asia for years.
+
+Nonetheless, its facial recognition technology appeared to perform worse with a mask — at least for the Tech5 algorithm NIST tested. The algorithm ranked in the top 10 on NIST’s list, but it was still better at identifying non-masked faces than masked ones. Parthe said this algorithm was designed to identify someone who might be wearing big sunglasses or sporting facial hair they didn’t have on a stored picture; it was not specifically meant to deal with face masks.
+
+Even before covid, Parthe said, the company was researching recognition technology that concentrates on the eyes and forehead, which it wants to combine with iris recognition to identify people. (Iris recognition requires a special scanner and tends to cost more than facial recognition.) Now, with an increasing number of requests for facial recognition software that works well with masks, Tech5 is working on a new algorithm that will ignore the face below the nose in a picture.
+
+The upper part of the face is also the focus of Venice, California-based Trueface. Like Tech5, the company’s facial recognition technology was tested by NIST, though it fared worse. (It ranked 47 out of 89 algorithms on a test where researchers put a digital image of a light blue mask over the faces of people in visa photos.)
+
+“Masks have definitely caused us to rethink how we make our processes more efficient with the algorithms,” Moore said.
+
+To improve on this, Moore said the company’s researchers are currently working on just analyzing the visible portion of the face, rather than first trying to detect, say, a mask or a pair of sunglasses. By ignoring those objects, Trueface may speed up the overall process of recognizing the person in an image. Moore hopes this will be rolled out in four to six weeks.
+
+There are risks to this approach. Facial recognition in general has come under growing scrutiny due to concerns about its accuracy. In late 2019, for instance, a different NIST report found extensive racial bias in almost 200 facial recognition algorithms, with racial minorities much more likely to be misidentified than white people. Judging by the results of NIST’s latest report on masks, this could be even more of a problem when a computer is relying on much less data about the face than it typically would.
+
+But focusing on the area of the face around the eyes and forehead makes a lot of sense to Marios Savvides, a professor at Carnegie Mellon University who studies biometric identification. Savvides said the eye and eyebrow area (which is often referred to as the periocular region) is the part of the face that changes the least as you age, even if you gain weight. This means it’s likely to look quite similar in different images of the same person, even if other parts of your face (your lips, for instance) grew or shrank.
+
+“It’s a fortuitous finding in these times,” he said.
+
+Accurate technologies can also be harmful
+
+While improving the accuracy of facial recognition for mask wearers could help businesses that want to use the technology — Trueface, for example, is now seeing demand for facial recognition to avoid employees touching key cards — it raises a host of accuracy and privacy issues.
+
+Clare Garvie, a researcher at the Georgetown Law Center on Privacy and Technology, is concerned that algorithms that are adjusted to better identify masked faces are simply going to become less accurate because they have less information to measure.
+
+“I just see the misidentification risk vastly increases because they have less biometric to go off of,” she said. “It doesn’t matter how they tune the algorithm.”
+
+Maria De-Arteaga, an assistant professor at the University of Texas at Austin who studies algorithmic fairness and accountability, worries that masks meant to prevent Covid are providing reasonable-sounding justification for developing technology that would otherwise receive much more scrutiny. If it were being developed to identify people covering their faces at protests, for instance, it would yield a different reaction, she said.
+
+“Accurate technologies can also be very harmful,” she said.
+
+Even if these new algorithms succeed, there may still be ways to cloak yourself to facial recognition software. If you’re wearing a mask and sunglasses, for instance, hardly any of your face would be visible in a picture.
+
+“There’s not much you can do with that,” Savvides said.

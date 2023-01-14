@@ -1,0 +1,29 @@
+LAS VEGAS, NEVADA - JULY 09: UFC commentator Joe Rogan announces the fighters during a ceremonial weigh in for UFC 264 at T-Mobile Arena on July 09, 2021 in Las Vegas, Nevada. (Photo by Stacy Revere/Getty Images)
+
+Apple's Face ID will soon work when you're wearing a mask. We put it to the test
+
+Apple says the new update focuses on features around users' eyes to unlock an iPhone with FaceID.
+
+CUPERTINO, CALIFORNIA - March 8, 2022: Apple CEO Tim Cook showcases the new iPhone SE featuring 5G and the A15 Bionic chip during a special event at Apple Park. (Photo by Brooks Kraft/Apple Inc.)
+
+CNN Business —
+
+Technology firms including Microsoft have tried to disrupt a cybercriminal group whose malicious software has been used in ransomware attacks and other hacks around the world, the companies said Wednesday.
+
+The effort included a court order from the US District Court for the Northern District of Georgia that allowed Microsoft (MSFT) to seize 65 internet domains used by the hacking group behind widely used malware known as ZLoader, Microsoft (MSFT) said.
+
+Since surfacing in 2019, ZLoader has been used in an array of financially motivated hacking schemes — many of them aimed at organizations in North America. The hackers have also been involved in a tool for deploying a type of ransomware that has to be used in hacks against health care organizations, according to Microsoft.
+
+Microsoft said it identified one of the people involved in the hacking enterprise and that it referred information to law enforcement authorities.
+
+The US Justice Department did not respond to a request for comment.
+
+Other cybersecurity firms involved in the takedown included US companies Lumen and Palo Alto Networks, and Slovakia-based ESET.
+
+It’s just the latest corporate or government effort to dismantle computer infrastructure, which is often registered in the United States, used by cybercriminals or intelligence operatives.
+
+Microsoft said last week that it had used another court order to disable seven internet domains that a hacking group linked with Russian intelligence was using in a likely effort to support Russia’s war in Ukraine.
+
+The actions are far from fatal blows to the hacking groups, but it’s an important effort to make it harder for them to operate.
+
+“Each time we have a successful takedown like this, we increase the cost for them to do business and set the example for their successors that there is increased risk associated with their malicious activities,” said Wendi Whitmore, head of Palo Alto Network’s Unit 42 threat intelligence section.

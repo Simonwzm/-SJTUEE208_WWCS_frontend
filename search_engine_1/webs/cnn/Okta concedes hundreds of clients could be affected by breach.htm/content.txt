@@ -1,0 +1,13 @@
+(CNN Business) A January cybersecurity incident at popular identity authentication provider Okta may have affected hundreds of the firm's clients, Okta acknowledged late Tuesday amid an ongoing investigation of the breach.
+
+"[W]e have concluded that a small percentage of customers -- approximately 2.5% -- have potentially been impacted and whose data may have been viewed or acted upon," Okta chief security officer David Bradbury said in a statement
+
+Okta has over 15,000 customers, according to its website.
+
+It's been nearly 24 hours since Okta publicly acknowledged the apparent hack after a mysterious hacking group known as Lapsus$ published screenshots claiming access to an Okta internal administrative account and the firm's Slack channel.
+
+The breach created alarm among cybersecurity experts because of how popular the service is with big organizations and the potential access that a hacker could acquire by targeting Okta.
+
+But, Bradbury said Tuesday that the Okta service itself hadn't been breached, and the hackers had instead accessed an engineer's laptop who was providing technical support to Okta.
+
+"The potential impact to Okta customers is limited to the access that support engineers have," Bradbury said. He added that, "support engineers are also able to facilitate the resetting of passwords and multi-factor authentication factors for users, but are unable to obtain those passwords."

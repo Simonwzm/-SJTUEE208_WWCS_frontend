@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190813183437-los-angeles-body-cam.jpg?q=x_346,y_583,h_1684,w_2993,c_crop/w_800

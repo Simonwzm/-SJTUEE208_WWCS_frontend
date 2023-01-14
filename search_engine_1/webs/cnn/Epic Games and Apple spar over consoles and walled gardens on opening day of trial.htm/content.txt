@@ -1,0 +1,11 @@
+(CNN Business) Epic Games and Apple kicked off their high-profile trial on Monday, beginning a legal battle that is expected to run for at least two weeks and has the potential to change not only the iPhone maker's app ecosystem, but also the broader app economy worth hundreds of billions of dollars.
+
+Apple AAPL At the center of the lawsuit is Fortnite, the hugely popular video game made by Epic that was kicked out of Apple's App Store last summer for flouting its rules on digital payments by establishing its own system.gets a 30% cut of many in-app purchases on iOS devices and does not allow alternative payment systems. Fortnite's removal from the App Store prompted Epic to sue Apple.
+
+On day one, Epic and its first witness — the company's CEO, Tim Sweeney — sought to establish that Apple's App Store and its refusal to allow other app stores on its platform constitute anti-competitive behavior. The company argued that Apple's strict control of its iOS ecosystem — referred to as a "walled garden" — constitutes a monopoly and are calling on the iPhone maker to allow alternative app stores, and potentially apps, on its devices outside of its own and what it approves.
+
+"Epic is solely seeking changes to Apple's future behavior" and not any financial damages, Sweeney said during his testimony.
+
+Apple argues that allowing apps on its devices that are not subject to its restrictions would compromise the security and privacy of its ecosystem — features it has emphasized as selling points. Additionally, it argues that it is competing in a massive video game market of which it is only a small part, therefore it has no monopoly and cannot abuse such a position.
+
+Read More

@@ -1,0 +1,37 @@
+San Francisco (CNN Business) Tim Cook has fielded questions from Congress about Apple's market power. Now he's about to be grilled on it for the first time in federal court.
+
+The iPhone maker's chief executive is set to take the stand Friday morning as the company's high-profile antitrust trial with Epic Games nears an end.
+
+At the center of the lawsuit is Fortnite, the hugely popular video game made by Epic that was kicked out of Apple's App Store last summer for flouting Apple's rules on digital payments by establishing its own system.gets a 30% cut of many in-app purchases on iOS devices and does not allow alternative payment systems. Fortnite's removal from the App Store prompted Epic to sue Apple.
+
+Epic accuses Apple of exercising monopolistic control over its " walled garden " iOS operating system, with app makers forced into its onerous restrictions if they want access to hundreds of millions of iPhone and iPad users. Apple argues there are several other places users can buy apps and that its commission helps the company make its devices better and more secure.
+
+Several executives from both sides have already testified, including Craig Federighi, Apple's senior vice president of software engineering, and Phil Schiller, Apple Fellow and former longtime head of marketing, who each took the stand earlier this week. Epic Games CEO Tim Sweeney was the first witness in the trial , which has lasted nearly three weeks and is scheduled to wrap up on Monday.
+
+Despite his multiple congressional testimonies and many public appearances and interviews, Cook appears to be preparing extensively for his day in court. He has undergone several hours of mock questioning from former prosecutors to mimic what he might face on the stand, according to a report from the Wall Street Journal.
+
+"The thing that's got to be a little bit scary to Epic is that Tim Cook by reputation is a very persuasive witness," said Herbert Hovenkamp, a professor of legal studies and business ethics at the University of Pennsylvania's Wharton School of Business. "He's doing what he was hired to do, which is make Apple's case to the public."
+
+Epic Games CEO Tim Sweeney (R) was the first witness to take the stand in the blockbuster trial. Apple CEO Tim Cook will likely be the last.
+
+According to the witness list provided to the court, Cook will talk about "Apple's corporate values; Apple's business and operations; development and launch of the App Store; competition faced by Apple." An Apple representative said Cook will likely expand on his personal views about security and privacy — issues he has previously used to criticize other large tech companies — and their importance to Apple's product philosophy.
+
+Cook is expected to pull together and buttress arguments that Apple's lawyers, experts and other executives have made throughout the trial — that the iPhone's App Store doesn't constitute a monopoly. The company says that the 30% commission it takes on transactions within apps isn't illegal and helps make Apple devices better and more secure, as does the tight control it exercises over the apps on those devices.
+
+In his testimony, Schiller highlighted how much Apple spends on research and development — an estimated $100 billion over the last 15 years — to make product improvements that developers can piggyback off of.
+
+He also sought to push back against Epic's effort to paint Apple as a monopolist. The gaming company says Apple forces developers to play by burdensome rules such as only using its App Store and in-app payment methods if they want access to more than a billion iPhone and iPad users. (Michael Schmid, Apple's head of games business development for the App Store, revealed on the stand that Apple has made more than $100 million in commissions from Fortnite.)
+
+Schiller ticked off a list of competitors for both mobile devices and app stores — Google, Samsung, Motorola, Huawei and even gaming consoles such as the Sony PlayStation, Microsoft Xbox and Nintendo Switch. Apple argues that many of them also take a 30% commission and have similar restrictions on outside apps.
+
+"There are many, many competitors for app distribution," he said.
+
+Federighi, the company's software chief, stressed the importance of Apple's security protections for its iOS mobile operating system — even criticizing its MacOS computer system in the process.
+
+Unlike the iPhone, the Mac allows outside app stores and app downloads, a process known as "side-loading." Epic has repeatedly pointed to and called on Apple to emulate this approach for its mobile devices. But Apple's lawyers and executives argue the iPhone needs the extra protection because of the sheer number of devices that can be exploited, the fact that smartphones are with users virtually all the time, and hold more sensitive personal data.
+
+"If you took Mac security techniques and applied them to the iOS ecosystem, with all those devices, all that value, it would get run over to a degree dramatically worse than is already happening on the Mac," Federighi said. "We have a level of malware on the Mac that we don't find acceptable, and that is much worse than iOS."
+
+Cook is not expected to deviate much from those arguments, according to Florian Ederer, a professor of economics at the Yale School of Management. "It is unlikely that any new information or new argument will come from his testimony that has not already been brought to the judge's attention," Ederer said.
+
+"Putting Cook on the stand is essentially the best way for Apple to signal to the judge that it is taking this case seriously," he added. "If anything, putting Cook on the stand just shows respect for the proceedings."

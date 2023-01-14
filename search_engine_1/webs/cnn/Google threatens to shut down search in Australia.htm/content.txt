@@ -1,0 +1,59 @@
+Hong Kong (CNN Business) Google says it will shut down its search engine in Australia if a controversial bill designed to benefit the news media becomes law.
+
+At a Senate hearing in Canberra on Friday,Australia Managing Director Mel Silva said the draft legislation "remains unworkable," and would be "breaking" the way millions of users searched for content online.
+
+"If this version of the Code were to become law, it would give us no real choice but to stop making Google Search available in Australia," she told lawmakers . "That would be a bad outcome not just for us, but for the Australian people, media diversity and small businesses who use Google Search."
+
+The company's main concern with the proposal is that it "would require payments simply for links and snippets just to news results in Search," according to Silva.
+
+"The free service we offer Australian users, and our business model, has been built on the ability to link freely between websites," she said.
+
+Google and Facebook have tussled with publishers for years over how they display their content, with media companies arguing the tech giants should pay them for the privilege. Critics of the two tech firms point out that since they dominate the online advertising business, it puts news publishers in a bind and leaves them scrambling for leftovers.
+
+The new legislation would allow certain media outlets to bargain either individually or collectively with Facebook and Google — and to enter arbitration if the parties can't reach an agreement within three months, according to the Australian Competition and Consumer Commission, which put out the proposed legislation.
+
+Australian Prime Minister Scott Morrison hit back at Google later on Friday.
+
+"Let me be clear. Australia makes our rules for things you can do in Australia. That's done in our parliament. It's done by our government and that's how things work here in Australia and people who want to work with that in Australia, you're very welcome," he said at a press conference . "But we don't respond to threats."
+
+Asked about Morrison's remarks, Google declined to comment.
+
+A warning of 'consequences'
+
+Both American tech companies have been vehemently opposed to the code since its introduction last summer . Last August, Google used its homepage to warn Australians that the bill would harm their ability to search and lead to "consequences" for YouTube users.
+
+The US giant is now proposing three changes to the code, including how it would compensate news publishers.
+
+One suggestion is for News Showcase — a program launched by Google last year that aims to pay publishers more than $1 billion over the next three years — to be formalized and expanded in Australia. The company already pays seven publishers in the country for content.
+
+The company also wants to amend a requirement that would force Google to notify publishers about changes in its algorithm, saying it should do so only "to make sure publishers are able to respond to changes that affect them."
+
+"There is a clear pathway to a fair and workable Code," said Silva. "Withdrawing our services from Australia is the last thing that I or Google want to have happen — especially when there is another way forward."
+
+An aggressive battle
+
+Facebook FB is also pushing back.
+
+In the same Senate hearing on Friday, Simon Milner, Facebook's vice president of public policy for Asia Pacific, said the company could ultimately block news content in Australia, though he emphasized a commitment "to make the law workable."
+
+Milner told lawmakers there was already a "deterrent effect of this law on investment in the Australian news industry," citing a recent decision by Facebook to launch a news product in the United Kingdom instead of Australia.
+
+"Sir Tim Berners-Lee said, this precedent set by this law could 'make the web unworkable around the world,'" he added, citing the inventor of the web
+
+Regulators say the legislation is needed to level the playing field for the news media in Australia, as newsrooms across the country have reduced service, closed temporarily or permanently shut down.
+
+But skeptics of the legislation point to a couple of causes for worry. Billionaire Rupert Murdoch owns a massive share of the media market in the country, leading to questions about how much a law forcing payments to his properties would benefit his empire.
+
+Others warn that such laws threaten internet freedom.
+
+Such concerns don't hold a lot of weight, argued Belinda Barnet, a media and communications lecturer at Swinburne University in Melbourne, in a Twitter thread Friday.
+
+"The code will benefit Murdoch. It will also benefit Guardian, ABC & SBS [the Australian broadcasters], your local paper" and other media outlets," she tweeted.
+
+Barnet also said the internet is no longer an open space, rendering such concerns moot.
+
+"The internet is not open anymore. It is controlled by a couple of global monopolies who make their money from your data," she wrote. "The internet was once more open, it was once a more equal and democratic space, but that era is over."
+
+Similar cases have emerged in other countries. On Thursday, Google announced it would pay news publications in France for the use of their content online in a landmark agreement that could soon be replicated elsewhere in Europe under new copyright laws.
+
+— Hanna Ziady contributed to this report.

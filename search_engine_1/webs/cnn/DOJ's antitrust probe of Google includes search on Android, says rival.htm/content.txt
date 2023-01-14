@@ -1,0 +1,25 @@
+CNN Business —
+
+Justice Department investigators have asked a Google rival, DuckDuckGo, for detailed information about ways to increase competition in the online search market, an indication the DOJ’s antitrust probe of Google has expanded to include its core product and that the agency may be moving closer to bringing a case.
+
+Federal officials met with DuckDuckGo several weeks ago to discuss a proposal that could increase user choice and alter Google’s search market share, the company’s founder, Gabriel Weinberg, told CNN Business.
+
+DuckDuckGo has discussed the same proposal with state and congressional officials, both of which have their own separate investigations into Google, Weinberg said.
+
+DuckDuckGo, which markets itself as a privacy-protecting search engine, has called for a detailed preferences panel on Android that would allow users to select a different default search provider. For years, Google search had been the default on Android, which is run on over 80% of phones worldwide. In the United States, it still is. But a 2018 antitrust penalty by the European Union has prompted Google to offer other options to users. The DuckDuckGo proposal expands on Google’s own plan with several modifications.
+
+In the United States, where talk of breaking up Google and other tech giants has proven politically divisive, solutions like a search preferences menu could enhance competition without the need for a lengthy court battle, Weinberg told CNN. Google held a 73% share of search advertising revenues last year, according to eMarketer.
+
+“If you try to break up Google, it’s going to take time and effort, and may not succeed,” he said. “What we try to propose is a sweet spot. … It checks a lot of boxes.”
+
+The Justice Department did not immediately respond to requests for comment. Google, in a statement, said it is continuing to cooperate with the state and federal investigations but declined to comment on DuckDuckGo. “Our focus is firmly on providing services that help consumers, support thousands of businesses, and enable increased choice and competition,” Julie Tarallo McAlister, a Google spokesperson, said.
+
+The DOJ’s interest in DuckDuckGo’s proposal highlights how far the antitrust probe has progressed, experts say, suggesting that regulators have identified specific ways it believes Google may be harming competition and are now evaluating potential remedies.
+
+“Practically speaking, it’s very common, when you get to a point of thinking seriously that you could go forward with a case, that you have to wonder how you’re going to land the airplane,” said Gene Kimmelman, a senior adviser at the consumer advocacy group Public Knowledge and a former DOJ antitrust official. “You have to make sure you’ve got the landing gear that will work, otherwise you’re going to crash and burn.”
+
+The questions directed at DuckDuckGo underscore the seriousness and the scope of the investigation, Kimmelman said.
+
+Attorney General William Barr has previously told the Wall Street Journal that he hopes the Google probe can be brought “to fruition” this summer.
+
+This is not the first time Google has been subjected to US antitrust scrutiny. In 2012, the Federal Trade Commission also examined the company’s search and advertising businesses. But despite a partially leaked staff memo indicating that some within the agency favored taking Google to court, the FTC ultimately closed the probe without suing.

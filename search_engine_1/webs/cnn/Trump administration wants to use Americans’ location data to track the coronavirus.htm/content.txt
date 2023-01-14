@@ -1,0 +1,35 @@
+Washington, DC CNN Business —
+
+The Trump administration is in discussions with the tech industry, including Facebook and Google, about how to use Americans’ cellphone location data to track the spread of the novel coronavirus.
+
+Facebook (FB) and Google (GOOGL) confirmed to CNN that they are exploring ways to use aggregated, anonymized data to help in the coronavirus effort, after the Washington Post first reported the matter on Tuesday. In response to CNN’s questions, Apple (AAPL) said it has not been a part of the location data discussions.
+
+The location data conversations are part of a series of interactions between the White House and the tech industry about how Silicon Valley can contribute to the coronavirus response, according to multiple people familiar with the matter. Several informal working groups have been created under that initiative, including one focusing on expanding virtual education, another dealing with telehealth, a third examining how to limit the spread of coronavirus misinformation, and a fourth to explore the use of geolocation data for disease tracking.
+
+The State Department is also engaged on the issue after receiving requests from multiple foreign governments about tapping into tech companies’ knowledge of the movements of billions of people worldwide, according to one of the people familiar with the matter.
+
+So far, the government has merely asked for generalized location insights that could, for example, show changes in highway traffic patterns or grocery store visits, said another of the people familiar. But, two of the people said, it raises the prospect of the government asking for further, more granular information that could pose privacy risks.
+
+“I wish people would slow it down a bit, because I don’t think people have fully thought it through,” said one of the people, speaking on condition of anonymity to preserve professional relationships. Even inadvertent disclosure of the identity of an infected individual as a result of a detailed location tracking program could lead to social shaming, violence or worse, the person said.
+
+Tech companies aren’t alone in maintaining vast troves of customer location data. Telecom carriers that handle the smartphone communications of millions of Americans also have access to detailed location information. But it is unclear whether the Trump administration has asked them to provide that data, and if so, how granular it might be.
+
+Spokespeople for Verizon (VZ), T-Mobile (TMUS) and Sprint (S) didn’t immediately respond to a request for comment. Asked whether it has participated in the US government discussions about using location data, AT&T (T) spokesman Michael Balmoris responded with a one-word answer: “No.” (CNN’s parent company, WarnerMedia, is owned by AT&T (T).)
+
+The US is not the only country to consider technology-based tracking. Israel this week passed a proposal to track coronavirus patients on a far more detailed, individual level, using location tools that had previously been used only for counterterrorism purposes. Meanwhile, Hong Kong has used electronic wristbands to keep tabs on at-risk individuals.
+
+While the pandemic may provide more reasons to put privacy on the back burner, there need to be strong rules and safeguards regulating how data can be used in the current crisis, said Dipayan Ghosh, a former Facebook and Obama administration official who is now a fellow at Harvard University’s Kennedy School of Government.
+
+“There is a tremendous risk that governments could use technological capacities to monitor the spread of the virus to actually surveil their citizens,” he said. “Should governments decide to track their citizens, they should establish clear guidelines as to what powers they do have, how they will conduct any monitoring, and what steps they are taking to protect privacy.”
+
+In a statement, Google said anonymized location data could help health officials “determine the impact of social distancing, similar to the way we show popular restaurant times and traffic patterns in Google Maps.” The company added: “This work would follow our stringent privacy protocols and would not involve sharing data about any individual’s location, movement, or contacts. We will provide more details when available.”
+
+Google said it has not yet shared any such data, and that if it did, it would not be combined with that of other companies. Google also said that because users must opt in to location history tracking, the data will not be granular enough to support complex “contact tracing” to trace an infection back to its source.
+
+On a conference call with reporters Wednesday, Facebook CEO Mark Zuckerberg drew a distinction between sharing aggregate data in an anonymized fashion and raw, granular data about specific individuals.
+
+“I don’t think that there are direct asks for access to people’s data,” he said. “It’s kind of hypothetical, because nobody is asking for this.” He added that some of the media reporting surrounding the issue has been “largely overstated.”
+
+In a separate statement, Facebook told CNN that the company has published disaster maps populated with aggregated user location data since 2017. For example, Facebook has published maps tracking the movements of its users in response to California wildfires. As with Google, the location data Facebook collects comes from users who have opted into location sharing, Facebook said. The company has already provided mapping and location information to researchers in Taiwan and at Harvard University, and it is considering expanding the program.
+
+“In the coronavirus context, researchers and nonprofits can use the maps … to understand and help combat the spread of the virus,” Facebook’s statement said.

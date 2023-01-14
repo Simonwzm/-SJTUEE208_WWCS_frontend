@@ -1,0 +1,127 @@
+(CNN) From canceled flights to dire warnings of a stalled shipping economy, this was not how the rollout of 5G networks was supposed to go.
+
+Despite having years to prepare, the United States last week had to scramble to keep the launch of new, next-generation wireless technologies from disrupting air transportation nationwide. As international airlines suspended some inbound flights, telecom carriers announced for the third time that they would postpone activation of 5G services near some airports.
+
+Efforts to continue the rollout and mitigate the concerns of aviation are ongoing, and federal aviation authorities on Tuesday said about 90% of the US commercial aircraft fleet has now been cleared to operate around 5G signals. But the eleventh-hour clash between the aviation and telecom sectors puts an early stain on what Americans were told would usher in a new era of commercial prosperity and innovation.
+
+How could it have gone so wrong?
+
+Interviews with government and industry decision-makers, along with legal experts and public filings, reveal a divided federal bureaucracy with competing public mandates that clearly set the stage for a blowup. But they also paint the portrait of a US aviation regulator that missed a critical opportunity to present its case and potentially avoid this mess altogether.
+
+The core concern raised by aviation officials is that 5G — the ultra-fast cellular technology meant to pave the way for more smart devices and applications — could disrupt certain aircraft altitude sensors. Those instruments, known as radar altimeters, work by bouncing radio signals off the ground within a specific range of frequencies. But due to their design, many of them are also susceptible to interference from signals originating outside of those frequencies. According to aviation officials, 5G base stations operating in neighboring wavelengths could, depending on how they're configured, potentially scramble aircraft computer systems and controls, and make it impossible to land in low-visibility conditions. (The dispute is exclusively about 5G infrastructure and has nothing to do with the 5G components in consumer cell phones. AT&T, one of the major wireless carriers with a big stake in 5G, owns CNN's parent company.)
+
+The Federal Aviation Administration told CNN it has been sounding the alarm about interference risks for years. The agency first raised concerns in 2015, as part of a filing to a United Nations coordinating body. Five years later, in the fall of 2020, the FAA also wrote to the Commerce Department calling for US telecom regulators to delay the rollout of 5G.
+
+Finally, last month, the FAA issued a last-ditch warning that if 5G were switched on without more modifications, the agency would ban pilots from using radar altimeters near certain airports, leading to inevitable flight disruptions. That announcement kicked off weeks of frenzied negotiations between telecom and aviation officials around the holidays, culminating in last week's showdown.
+
+"This is one of the most delinquent, utterly irresponsible issues, subjects, call it what you like, I've seen in my aviation career," Sir Tim Clark, president of Emirates, told CNN on Jan. 19. The next day, American Airlines CEO Doug Parker acknowledged on an investor call that the breakdown "wasn't our finest hour, I think, as a country."
+
+Delayed signs are displayed on the flight schedule board at Ronald Reagan Washington National Airport in Arlington, Virginia, on January 18.
+
+A slow-rolling crisis
+
+In the debacle's immediate aftermath, airline industry officials familiar with the late negotiations say that some of the pain could have been eased sooner had the Biden administration been able to fill key vacancies earlier at important agencies like the Federal Communications Commission.
+
+The FCC declined to comment for this story but referred CNN to a statement last week by Chairwoman Jessica Rosenworcel, who urged the FAA to complete its ongoing review of aircraft radar altimeters "with both care and speed." Rosenworcel, who had been serving in an acting capacity for months, was confirmed as the FCC's permanent chair by Senate lawmakers in early December.
+
+Without earlier active government leadership to settle the dispute, the unresolved tension between two massive and powerful industries created a slow-rolling crisis that finally boiled over as the launch date for 5G arrived.
+
+"I think folks really woke up that we were barreling toward a significant issue in late November, early December," one of the airline officials said. "I think by then, both sides, both camps, the FAA and the FCC, were so entrenched into their own corners, and there was so much bad blood that, you know, this ended up unfortunately coming to this level of brinksmanship."
+
+One other major stumbling block, according to a government source who was part of the 5G talks, was that telecom companies insisted that the location of transmitter towers was proprietary information, making it more difficult for the aviation industry to know the full scope of possible interference.
+
+The government source said that when the FAA "plays the safety card, usually it's an ace, and for whatever reason, the telcos have been trying to pretend it's a one."
+
+"This is one of the most delinquent, utterly irresponsible issues, subjects, call it what you like, I've seen in my aviation career," Sir Tim Clark, president of Emirates, told CNN on Jan. 19
+
+"There was a lot about aviation that they did not really understand," the government source continued. When both industries began communicating directly in December, however, "there were a lot of 'aha' moments on both sides of the equation."
+
+For example, aviation authorities were now able to look at data that the government source said the FCC does not collect from wireless carriers.
+
+"Which begs the question of, 'How could the FCC do an adequate aviation safety assessment if they don't even have the material?'" the government source said.
+
+A standoff between government agencies
+
+The miscommunication over data highlights the different roles that telecom and aviation regulators play in America's increasingly interconnected economy — and what can go awry when they talk past one another. Whereas the FAA has jurisdiction over aviation equipment and air safety, regulation of telecom equipment and harmful interference falls to the FCC.
+
+In this case, the FCC was confident its plan would prevent 5G signals from bleeding over into radar altimeters' territory. But that assessment did not satisfy aviation regulators, who believed that some radar altimeters might still be able to "hear" 5G signals unintentionally.
+
+The crisis's near-term origins are overshadowed by longer-term factors, however, that do more to explain why the FAA's views were never fully accounted for in the first place, ultimately leading to the FAA's urgent and drastic warnings about the widespread flight restrictions it planned to impose.
+
+Despite the FAA's many pronouncements on 5G, the agency did not weigh in at the one venue that really counted: The FCC's public process for planning the US 5G rollout, including any rules, restrictions or mitigations that would need to be imposed on wireless carriers.
+
+In the United States, the FCC is the congressionally-appointed steward of the nation's radio frequencies. Like other independent regulatory agencies, the FCC is required to consider public feedback before issuing major policy decisions, and by law, those decisions must reflect what appears in the agency record. Evidence not submitted into the record doesn't count. This paper trail is an important government accountability tool, particularly during legal challenges when it is vital to show what an agency knew at the time of a decision.
+
+The FCC opened a docket for input on the proposed 5G airwaves in 2018. Since then, thousands of submissions have been filed, including by airlines, pilots' groups and others in the aviation sector. Many of them raised serious concerns about the FCC's plan.
+
+Many of those concerns were addressed, according to telecom experts. For example, in its filings, Boeing called for erecting a buffer of empty airwaves between the 5G signals and the frequencies used by the radar altimeters. These so-called "guard bands" are a common feature of the wireless landscape and help reduce interference from competing radio signals.
+
+In the past when it's regulated 4G LTE, the FCC has looked to impose buffers about 5 MHz to 10 MHz wide, according to Harold Feld, a telecom expert at the consumer advocacy group Public Knowledge. This time, on the 5G frequencies, Boeing asked for a buffer of 100 MHz. And the FCC, led by Chairman Ajit Pai, ultimately created a buffer zone that was more than twice as wide, at 220 MHz. Compared to the guard bands the FCC has previously used for cellular communications, the one protecting radar altimeters is enormous.
+
+"As you know, I don't generally agree with Ajit Pai," said Feld, who has clashed with Pai on issues ranging from net neutrality to big telecom mergers. "But in this case, they did everything they were required to do."
+
+Ajit Pai, the former FCC chairman, told CNN that claiming 5G signals could pierce through hundreds of megahertz of empty spectrum to interfere with aircraft sensors is "just not a credible claim."
+
+If the FAA had approached the FCC to say that some aircraft radar altimeters would need to be upgraded or retrofitted due to the plan, Feld added, "the FCC could have gone, 'Fine, we'll set aside money for that.' They did it when the FCC moved TV broadcasters to new frequencies. They did it here for the satellite guys."
+
+But the problem was two-fold: First, the FAA did not appear to write to the FCC until nearly a year after the FCC had already finalized an order authorizing the airwaves for 5G use. And second, the FAA's complaints were never submitted to the FCC in a form the telecom regulator could act on, even if its claims were deemed credible, which Pai, in an interview, argued they were not.
+
+Claiming that 5G signals could pierce through hundreds of megahertz of empty spectrum to interfere with aircraft sensors "is like asserting that someone having a conversation in New York interferes with our ability to have a conversation in Washington," said Pai. "It's just not a credible claim." (In December, a bipartisan group of former FCC chairs, including Pai, entered a letter into the record defending the FCC staff's technical analyses and the agency's public decision-making process more generally.)
+
+The assessment that 5G signals posed little risk to aircraft operations was not just the view of FCC political appointees, Pai said. During a staff meeting in late 2019 or early 2020 that included a full range of career FCC economists, lawyers and technical engineers, Pai claims that radar altimeter interference ranked low on the list of priorities compared to other tasks — such as figuring out how the plan would affect satellite operators. The reason, Pai said, was because there had not been the evidence in the record to make it a higher priority, and the concerns that had been raised were already addressed by the substantial guard band.
+
+"If the FAA genuinely had a concern back in 2018, 2019 or 2020, I wish they had raised them then, if indeed they were well founded," said Pai.
+
+The missing letter
+
+As it turns out, the FAA did attempt to make its views known to the FCC in 2020 — but it was too late to have an impact on the rules and regulations governing the 5G airwaves.
+
+In December 2020, FAA Administrator Steve Dickson and Steven Bradbury, then the Transportation Department's top lawyer, wrote a letter arguing the FCC should pause its 5G proceeding "until we fully understand the safety implications, and how those implications can be addressed." The letter added that the FCC had failed to account for the extensive retrofitting the plan would require of aircraft radar altimeters in order for the rollout to work.
+
+By that time, the FCC's horse had already left the barn. The FCC had voted to approve its plan for the airwaves in February 2020, months before the FAA letter, and after having spent roughly two years soliciting public input, conducting negotiations and studying the issue.
+
+The FAA letter was also not submitted directly to the FCC docket but to an arm of the Commerce Department charged with advising the White House on telecommunications policy and with coordinating airwaves policy across the executive branch. Customarily, this office, known as NTIA, will relay other agencies' letters to the FCC. But that did not occur this time, and so the FAA letter never made it into the record.
+
+The head of NTIA at the time, Adam Candeub, told CNN in an interview this week that his agency's engineers disagreed with the letter's conclusions, that NTIA's main job is to advise the White House on spectrum allocation rather than represent the views of agencies, and that by the time the letter arrived at NTIA he was already on his way out the door to a new job at the Justice Department. News of Candeub's move to DOJ broke days after the FAA letter , on Dec. 13.
+
+NTIA's failure to transmit the FAA letter has raised some eyebrows.
+
+"To me, it's extremely disturbing that NTIA did not submit the letter," said Blair Levin, a Clinton-era FCC chief of staff.
+
+Travelers walk through terminal 2 at Raleigh-Durham International Airport (RDU) in Morrisville, North Carolina, U.S., on Thursday, Jan. 20, 2022.
+
+In creating NTIA, Feld said, Congress explicitly required the agency to ensure that executive branch views on telecom issues are "effectively presented" to the FCC.
+
+Even though that process seemed to break down here, experts on FCC procedure widely agreed that the FAA could still have submitted its letter directly to the docket.
+
+That is not what Transportation Department lawyers believed at the time, said Diana Furchtgott-Roth, a former deputy assistant secretary at DOT who was involved with the letter. Agency lawyers had informed her the department was not permitted to submit the letter directly to the FCC.
+
+"I can assure you that if we were allowed to send over the letter from FAA Administrator Dickson and Deputy Secretary [Steven] Bradbury, we would have done that," she told CNN. The FAA declined to respond to CNN's questions as to whether it made any additional efforts to ensure the letter was added to the FCC record, and if not, why not.
+
+Both Pai and Candeub told CNN nothing prohibits agencies from submitting feedback directly to the FCC on their own behalf. This claim appears to be accurate; a CNN review of public filings shows that agencies including the Pentagon, NASA, NOAA, USDA and others have in the past submitted their own views directly to the FCC on a range of matters. Feld, Levin and a current FCC official also affirmed to CNN that the FAA could have legally filed on its own.
+
+In recent years, Pai said, the FCC has heard from an array of federal agencies on how decisions about 5G could affect weather forecasts, GPS signals and other important applications.
+
+According to Feld, both Furchtgott-Roth and Pai are right in their own ways. Under longstanding tradition and NTIA's congressional charter, executive branch agencies trying to contact the FCC on wireless spectrum issues are expected to go through NTIA. But, Feld said, Pai is correct that there is nothing legally prohibiting agencies from contacting the FCC themselves.
+
+The court of public opinion
+
+Filing a letter in the FCC docket much earlier, in 2018 or 2019, may have been the FAA's best hope for changing the course of events much sooner. But it was not the only way, Levin added. The FAA — or the aviation industry — could still have attempted to challenge the FCC plan in court after it was finalized in early 2020.
+
+It is not clear why the FAA declined to sue in the months following the 5G order, Levin said, but "they probably thought, 'We may not be able to win in a court of law, but we can win in the court of public opinion,' and that's the strategy they pursued."
+
+Calling the FCC process flawed, the government source said that aviation regulators had equal claim to regulate 5G, at least in an aviation context.
+
+"What they [FCC and NTIA] would like everybody to believe is that once they've ruled on it, then nobody else has a say," the government source said. "And, you know, the FAA's authority over aviation safety is absolute and all-inclusive."
+
+One factor that may have motivated the FAA to write its letter when it did was an October 2020 study by the aviation group RTCA. As the FAA wrote, RTCA's presentation found that 5G in the FCC-approved frequencies "may create harmful interference to radar altimeters that would significantly degrade or completely interrupt their operation during critical phases of flight."
+
+Since then, the paper has renewed the aviation sector's concerns about 5G interference risks, even as the telecom industry has claimed that the study is out of step with other research and real-world testing and relies on unrealistic test conditions. The industry has also alleged that RTCA refused to share its test data.
+
+Despite last week's breakdown, telecom and aviation officials appear to be back on track. The FAA continues to perform its testing of radar altimeters, including physical flight tests over 5G antennas at various altitudes, according to the government source. And it is closely analyzing how large the buffer zones around airport runways truly need to be.
+
+Still, the overall standoff points to an uncomfortable tension between two government regulators with equally important missions, and it raises questions about which deserves the benefit of the doubt when the two come into conflict. Why should the public trust the FCC, which supervises radio frequencies, over the FAA, which governs air safety, when the FAA is the one highlighting potentially life-threatening risks to air travel?
+
+The answer, Feld said, lies in the FCC's decades-long track record of successful evidence-based risk management of the nation's airwaves — not just for airplanes, but also for medical devices, 911 calls, outer space and other high-stakes environments where lives are on the line.
+
+"At the end of the day, the FCC did its job," said Feld. "The problem was that the FAA did not appreciate how the FCC did it, and that's because the FAA does its job very differently."

@@ -1,0 +1,11 @@
+(CNN Business) Google suffered its second outage in as many days, with its email service Gmail going down on Tuesday for more than two hours.
+
+Some Gmail users reported emails bouncing back and other error messages.
+
+Google GOOGL initially said on its status page that it was aware of the outage around 4.30 p.m. ET. "The affected users are able to access Gmail, but are seeing error messages, high latency, and/or other unexpected behavior," it added.
+
+The issues were finally resolved shortly before 7 p.m. ET, the company said. At their peak, they affected nearly 18,000 users, according to monitoring site Downdetector
+
+"Please rest assured that system reliability is a top priority at Google, and we are making continuous improvements to make our systems better," Google said.
+
+Read More

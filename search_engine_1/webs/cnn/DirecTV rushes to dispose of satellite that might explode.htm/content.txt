@@ -1,0 +1,27 @@
+New York CNN Business —
+
+A DirecTV satellite at risk of exploding will make an emergency maneuver to push itself into a deserted area of space known as “graveyard” orbit, according to public filings. The hope is that the satellite won’t burst in its operational orbit, where the debris could put other expensive communications satellites at risk.
+
+The satellite, which was built by Boeing and goes by the name Spaceway-1, suffered “irreversible” damage to its batteries during a “major anomaly” in December, according to a new public filing DirecTV submitted to US regulators. It’s not yet clear what caused the damage. The news was reported earlier by Space News.
+
+Boeing said in a statement emailed to CNN Business that the issue stemmed from “a collection of events that have a very low likelihood of occurring on other satellites.” Boeing also said it will provide “a minor update” for its satellite customers that will allow them to avoid a similar malfunction.
+
+The company did not respond to additional inquiries from CNN Business about whether any other Boeing-built satellites may be at risk.
+
+Spaceway-1 provides back-up capacity for DirecTV customers in Alaska, according to public documents. DirecTV’s parent company AT&T, which also owns CNN, said in an emailed statement that it does not expect service interruptions for customers and will replace the satellite with another device in its fleet. A spokesperson did not respond to additional requests for details Thursday.
+
+This Boeing satellite, a 702, is the same type as the one DirecTV is trying to move to "graveyard orbit." Boeing
+
+After discovering the malfunction, DirecTV was able to shut off the batteries on Spaceway-1. The satellite is currently accessing enough sunlight to use its solar panels for power. However, in late February, it will move into a darkened “eclipse phase,” during which the satellite will have to rely on its battery power to remain stable.
+
+Boeing determined there’s a “significant risk that these battery cells could burst” if put to use, the public filing states, so DirecTV requested special permission to retire the satellite ahead of schedule. According to a previous filing with the Federal Communications Commission, DirecTV hoped the satellite would remain operational until late 2025.
+
+To safely dispose of Spaceway-1, the satellite will maneuver to a “graveyard” orbit about 300 kilometers, or 186 miles, above its current position. But there’s another issue: Satellites are required to expend all of their fuel before they retire and left to drift forever in an orbital dead zone. That helps ensure leftover propellant doesn’t trigger a spontaneous explosion in the satellite’s afterlife.
+
+In this case, public filings state the satellite will be able to vent only some — but not all — of its fuel before it reaches its final destination. So DirecTV is requesting that US regulators grant an exception, because an explosion triggered by the battery issue poses a greater risk to other satellites than if the satellite was retired with excess fuel on board. Regulators granted DirecTV permission to complete the maneuver on January 19.
+
+Debris from satellites or rocket boosters colliding or exploding in orbit is an increasing concern in the space community. After six decades of launching devices into space, commercial companies are more active than ever. The number of satellites in our skies is expected to increase exponentially over the next decade.
+
+Most concerns about space debris focus on low-Earth orbit, which is the most congested area and is home to the International Space Station and small satellites that provide Earth observation and other services.
+
+Expensive telecommunications satellites like Spaceway-1 orbit thousands of miles deeper into space in an area known as geosynchronous orbit. It’s less crowded there, but a piece of junk that far away from Earth would take hundreds of years to de-orbit.

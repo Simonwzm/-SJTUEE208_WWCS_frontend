@@ -1,0 +1,11 @@
+New York (CNN Business) I clipped a keychain with one of Apple's tiny new Bluetooth trackers, AirTags, onto my son's book bag and waved goodbye to him on the school bus. I watched on my iPhone's Find My app as the bus stopped at a light a few blocks down from our street.
+
+But then the tiny "key" icon on the app stopped moving. The item was "last detected" seven minutes ago at a busy intersection less than a mile away. Traffic, maybe? Five more minutes passed with no update. Is there an issue with the app? After another 10 minutes, my heart started to race; still nothing.
+
+Finally, the tracker was detected four miles away in front of his school. Relieved, I decided more information in this case was worse; I'd go back to just tracking my keys. Apple later told me the delay was due to the tracker needing to communicate with Bluetooth on other iOS devices in the Find My network along the bus route before the AirTag's location could be updated to iCloud and the app.
+
+Still, my experiment highlighted how easily these trackers could be used to track another person. After all, I knew the moment he arrived at school and when he got back on the bus to head home.
+
+Apple AAPL Earlier this month,launched $29 Tile-like Bluetooth locators that attach to and help you find items such as keys, wallets, laptops or your car, giving nearly anything a digital footprint. Location trackers aren't new — there are similar products from Samsung, Sony and Tile — but AirTags' powerful Ultra Wideband technology chip allows it to more accurately determine the location and enables precise augmented reality directional arrows that populate on the iPhone or iPad's screen.
+
+Read More

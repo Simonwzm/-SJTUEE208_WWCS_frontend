@@ -1,0 +1,29 @@
+he International Space Station is pictured from the SpaceX Crew Dragon Endeavour during a fly around of the orbiting lab that took place following its undocking from the Harmony module's space-facing port on Nov. 8, 2021. The orbital complex was flying 263 miles above the Marshall Islands in the Pacific Ocean when this photograph was taken.
+
+These solar images are stunning. They also tell us new things about the sun
+
+ESA's Sun-explorer Solar Orbiter reached its first perihelion, the point in its orbit closest to the star, on 15 June 2020, getting as close as 77 million kilometres to the star's surface.
+
+Visible light images from NASA's Solar Dynamics Observatory highlight the appearance of the Sun at solar minimum (left, Dec. 2019) versus solar maximum (right, July 2014). During solar minimum, the Sun is often spotless. Sunspots are associated with solar activity, and are used to track solar cycle progress.
+
+New York CNN Business —
+
+SpinLaunch, an ambitious startup that hopes to spin, rather than launch, satellites into orbit, released dizzying footage of a test flight that the company conducted out of New Mexico.
+
+The test flight last month, which marked the company’s eighth since October 2021, was the first to include an on-board camera. It offered views of the projectile as it soared more than 25,000 feet above ground after being spun around in a vacuum-sealed centrifuge to more than 1,000 miles per hour. The video, shared by SpinLaunch in late April, shows the New Mexican desert shrinking and spinning as the twisting test vehicle soars higher above the ground.
+
+Eventually, SpinLaunch hopes to conduct flights that go much higher and faster than the tests it’s conducted so far. As impressive as it may be to spin an object faster than the speed of sound and then catapult it upward, to put satellites into orbit, objects have to travel to more than 17,000 miles per hour, or roughly 17 times faster than its test flights thus far.
+
+Most launch companies today use vertically launched rockets that rely on tons of fuel and massive rocket engines to blast a rocket to outer space right from the ground.
+
+SpinLaunch has a completely different approach. It plans to put a small rocket into a massive centrifuge that will whip it around to drum up most of the speed it will need to get to orbit. Then, the rocket would fly out of the centrifuge, gain thousands of feet in altitude and light up a small engine to continue its journey to drop a satellite off in space.
+
+SpinLaunch says that this method could use just one quarter of the fuel that vertically launched rockets require, and it could be ten times cheaper. The company said the first test launch, conducted last year, “validated” key parts of the company’s technology.
+
+A lot, however, remains to be seen. SpinLaunch is still using a scaled-down centrifuge as it works to better understand the mechanics and fine tune the system. The test system, which stands at about 165 feet tall and is perched near a private spaceport in rural New Mexico, is about a third the size of the planned orbital launch system, according to the company. It can spin a vehicle up to 5,000 miles per hour, or just over six times the speed of sound. And payloads would have to be able to withstand the extreme G-forces inherent to being spun that fast.
+
+SpinLaunch says that its engineers have been evaluating the ability of various hardware and components to withstand up to 10,000 Gs — or 10,000 times the force of Earth’s gravity.
+
+Even if SpinLaunch can prove it can get to orbit, it’ll face stiff competition. There are dozens of startups around the world aiming to create launch vehicles capable of hauling small satellites to orbit, and a few — namely Virgin Orbit, Rocket Lab and Astra — are already operational. Large rocket manufacturers, including SpaceX, are now marketing services to small satellite builders and operators on dedicated rideshare missions.
+
+SpinLaunch believes its dramatic rethinking of launch technology will give it a competitive edge, and the company has attracted backing from some high-profile investors, including Airbus (EADSF) and GV, previously known as Google Ventures.

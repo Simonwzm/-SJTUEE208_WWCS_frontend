@@ -1,0 +1,59 @@
+Washington, DC CNN Business —
+
+In announcing new limits on political advertising Wednesday, Google took aim at an issue that a growing cross-section of business leaders, government officials and researchers say is a threat to democracy.
+
+The problem they’ve identified is the ability of political advertisers to finely target vulnerable groups of internet users with misinformation — skewing their view of reality while the rest of us are none the wiser.
+
+Google’s changes seek to clamp down on that potential for abuse. Moving forward, Google said, political advertisers on its platform will be able to target their communications by age, gender and ZIP code — but not by voter affiliation or by using information based on public voter records.
+
+But the decision raises broad questions about what types of targeting are acceptable, what is beyond the pale and how bad actors could continue trying to game the system.
+
+With traditional commercial advertising, marketers can’t easily pick and choose who sees their ads. Of the many millions tuning into a nightly newscast, only a handful may be interested in buying a car — yet to reach that group, a car maker must pay to show the ad to everybody. But on the internet, that same brand can make its ad budget go further by targeting only those it believes to be the likeliest buyers based on their income, interests or demographics. These insights are often collected from businesses that traffic in data, but can just as easily be gleaned by monitoring consumers’ search histories, entertainment habits and other behaviors.
+
+That capability is what has turned Google (GOOG) and Facebook (FB) into businesses accounting for as much as two-thirds of the online ad market. Digital ad spending is set to overtake the traditional ad business for the first time this year, according to research firm eMarketer.
+
+But the same innovation that supports vast swaths of the digital economy, applied to politics, may now rank among the biggest dangers to a free society, experts increasingly warn.
+
+“Microtargeted political ads fly below the radar,” Ellen L. Weintraub, chair of the Federal Election Commission, told CNN. “Political disinformation and lies flourish — and transparency and accountability suffer — when an advertiser can whisper a million different political messages into a million individual ears.”
+
+In a blog post Wednesday, Google said it has never allowed political advertisers to engage in “granular” targeting in the way that direct mail campaigns have for years, slicing and dicing Americans by neighborhood, income and household size. Google’s latest changes make its political ad targeting options even less specific.
+
+But some experts say the move simply raises more questions.
+
+“The policy, at a high-level, sounds like an improvement, but the major issue with Google is what they consider to be election ads,” said Damon McCoy, an assistant professor of computer science and engineering who studies election integrity at New York University. “Issue ads, PACs, and other dark money groups might still have access to a larger range of targeting options. If this is the case, then that is a large loophole in Google’s attempts to limit microtargeting and political ads.”
+
+A Google spokesperson acknowledged that even with this week’s policy tweaks, some issue ads and independent groups might not meet the company’s criteria to be considered a political ad, and would therefore qualify for Google’s more powerful targeting tools available to commercial ads.
+
+To fall under Google’s political ad policies, an ad must mention a political official, candidate or party at the federal or state level. The definition also includes ads that mention specific ballot measures or initiatives. Those who run political ads must undergo a verification process by Google, and prior to Wednesday’s announcement, only political ads from verified political advertisers could be targeted according to affiliation or through information from public voter files.
+
+Mounting criticism of the targeting of political ads comes as top technology companies, including Facebook, Google and Twitter (TWTR), have publicly grappled with how to handle paid campaign messages ahead of the 2020 US election. The debate has veered from calls to fact-check politicians’ advertisements to banning political ads entirely, with little consensus on an industry-wide approach.
+
+As the clock counts down, pressure to find a solution is rising. Campaigns of all shapes and sizes have used online targeting for years. But in 2015 and 2016, Russian disinformation operatives abused the advertising technique to sow discord among unknowing voters. Though much of the Russians’ activity didn’t involve ads, there were hundreds of Facebook ads in that cycle that were targeted geographically. Russian ads also sought to drive Americans apart by targeting groups along racial or ideological lines.
+
+In a tweet on Wednesday, Facebook said it is reviewing its political ad policies. The changes it is considering include revisions to ad targeting policies, CNN Business previously reported. The company declined to comment further.
+
+Twitter has moved to stop accepting political advertising altogether. CEO Jack Dorsey, who announced the decision on Twitter last month, has won praise for breaking from Facebook and Google on that front. But some analysts have warned that Twitter’s new policy is an imperfect solution that could lead to unintended consequences. (Twitter declined to comment beyond Dorsey’s announcement.)
+
+“Twitter’s ban on political ads disadvantages challengers and political newcomers,” wrote Shannon McGregor, an assistant professor at the University of Utah who studies political communication, in a recent op-ed for The Guardian.
+
+Targeted political ads, McGregor wrote, help unknown candidates “build lists of supporters, solicit donations and mobilize volunteers. Digital ads also allow political newcomers to introduce themselves — a tactic that often only breaks through with paid promotion.”
+
+If ad targeting generally serves democracy by helping unknown candidates break the staying power of incumbents, then perhaps the public would be better served by focusing on how political ads are being targeted, McGregor wrote.
+
+That view has attracted growing support in the academic community. Understanding how individual advertisements are being aimed at specific audiences could help election watchdogs detect efforts to interfere with groups of voters, said McCoy. To that end, major tech platforms have created online portals where members of the public can go to analyze political ads and who may have seen them.
+
+The problem, McCoy said, is that the platforms rarely provide enough targeting data to be useful.
+
+“In the online space, we’re pretty much at the mercy of the platforms as to what they choose to make transparent,” he said.
+
+For example, he noted, Facebook discloses some demographic information — such as gender, age and geography — about who may have seen an ad, but gives no information about who the advertiser wanted to see the ad. Twitter provides what McCoy said is “more complete targeting information,” including gender and geography.
+
+Even as researchers hope for greater transparency in political ad targeting, others have said the practice should stop entirely.
+
+Weintraub has called for large tech companies to refrain from allowing any political ad targeting. Microsoft (MSFT) co-founder Bill Gates has also said the practice should be banned entirely.
+
+“I think that targeting, in that domain essentially, should not be allowed,” Gates said at a recent conference hosted by The New York Times (NYT). “It’s the targeting where you don’t see the hate ad that just appeals to that one person. It’s the targeting that’s really screwed this thing up.”
+
+Despite those calls from high-profile individuals, the debate surrounding microtargeting has yet to become mainstream in Silicon Valley, according to one former Facebook employee.
+
+“I don’t think any of my friends think microtargeting is the evil here,” the former employee said. “Employees are concerned about the policies that govern speech and who gets to stay on the platform, but I don’t think ad targeting as a societal ill has really made its way into the circles here.”

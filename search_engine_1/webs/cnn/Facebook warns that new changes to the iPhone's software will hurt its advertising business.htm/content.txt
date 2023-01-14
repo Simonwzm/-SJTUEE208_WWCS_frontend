@@ -1,0 +1,21 @@
+CNN Business —
+
+Facebook says its ability to serve ads to iPhone users will be significantly curtailed by Apple’s latest software update.
+
+Apple (AAPL)’s new operating system, iOS 14, places additional restrictions on user data that make it harder to serve them with targeted ads, Facebook (FB) said in a note to developers Wednesday. The biggest impact from the changes will be on Audience Network, Facebook (FB)’s service that allows advertisers to target users even when they’re using non-Facebook (FB) apps. Facebook (FB) did not reveal how much of its business the service comprises, but cited tests showing that removing personalization led to a more than 50% drop in revenue from the Audience Network.
+
+Facebook says it will stop collecting identifiers for advertisers on devices that use iOS 14 and limit the data apps can collect using its services, making it harder for advertisers to track Apple users.
+
+“This is not a change we want to make, but unfortunately Apple’s updates to iOS14 have forced this decision,” Facebook said, adding that the update “may render Audience Network so ineffective on iOS 14 that it may not make sense to offer it on iOS 14 in the future.”
+
+Apple’s operating system is the second most popular in the world behind Google-owned Android. The company announced iOS 14 in June, and a full rollout of the new operating system is expected in the fall.
+
+Facebook said it works with more than 19,000 developers and publishers around the world and paid out “billions of dollars” as part of advertising partnerships last year.
+
+Apple did not immediately respond to a request for comment on Facebook’s announcement.
+
+Advertising accounts for the vast majority of Facebook’s business, and the company’s ad targeting practices have long been controversial. Apple, meanwhile, has repeatedly touted its commitment to protecting user privacy.
+
+Facebook said it is awaiting further guidance from Apple on the changes.
+
+“We stand in strong support of the developer community and will share updates as we learn more about Apple’s policy and what actions publishers can take,” the company said.

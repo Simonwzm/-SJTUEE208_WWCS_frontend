@@ -1,0 +1,61 @@
+(CNN Business) Days after taking control of Afghanistan earlier this month, the Taliban used its first press conference to take a swipe at Facebook in response to a question about freedom of speech.
+
+"This question should be asked to those people who are claiming to be promoters of freedom of speech, who do not allow publication of all information," the group's spokesperson, Zabihullah Mujahid, said . "I can ask Facebook. ... This question should be asked to them."
+
+The response, implying that Facebook was curbing free speech, hinted at a curious power dynamic: even as the Taliban presses for US forces to leave the country, it remains reliant on American social media companies such asandto get its message out, both within Afghanistan and beyond its borders. On Twitter, for example, multiple Taliban spokesmen, including Mujahid and Suhail Shaheen , have active, unverified accounts, each with more than 300,000 followers.
+
+But many of those platforms, including Facebook and its subsidiary WhatsApp, have said they will crack down on accounts run by or promoting the Taliban. The Taliban's efforts to push back against or circumvent restrictions on its online activities illustrate how reliant the militant group has become on Western tech companies and the internet broadly — and highlight a potential reversal from the group's rule decades ago when it banned the internet outright.
+
+"All in all, various social media platforms and messaging applications have had a vital role in the Taliban's media strategy," said Weeda Mehran, a lecturer and Afghanistan expert at the University of Exeter who focuses on propaganda by extremist groups.
+
+Those platforms are now serving an important purpose for the Taliban as it retakes control of Afghanistan. Much of the group's focus thus far has been on cultivating a more sanitized and rehabilitated image than the brutality it was known for the last time it was in power . And it sees platforms such as Facebook and Twitter as key to that effort both within and outside the country, according to Safiya Ghori-Ahmad, a director at policy consulting firm McLarty Associates and a former State Department adviser on Afghanistan.
+
+"The Taliban are really trying to change their narrative and they're really trying to change the way they're viewed," she said. "And so I think you're seeing that shift now. A lot of it has to do with the huge use of smartphones and the fact that many in Afghanistan now have smartphones. ... They've noticed that you can use these tech platforms to really spread your message."
+
+From imposing internet bans to dodging them
+
+The Taliban's current approach to media and technology is in stark contrast to when it was in charge in the 1990s and early 2000s. Then, it imposed bans on television and the still-nascent internet, explaining the latter move was intended to "control all those things that are wrong, obscene, immoral and against Islam,"
+
+Mehran says the Taliban's online presence in its current form really began after it was ousted from power in 2001, when the militant group started posting videos and sharing messages online. Since then, it has enthusiastically embraced platforms such as Facebook, Twitter, WhatsApp and Telegram, none of which existed during its last period in power.
+
+That embrace has coincided with a surge in internet usage across Afghanistan over the past decade. As of 2019, the country had nearly 10 million internet users and around 23 million cellphone users , with 89% of Afghans able to access telecommunication services, according to the latest available figures from the country's Ministry of Communications and Information Technology. Facebook Messenger alone has around 3 million users in Afghanistan, according to the ministry.
+
+As a result, instead of imposing internet bans, the Taliban finds itself trying to get around them — at least for now.
+
+Even as the US government and global community deliberate the extent to which they will recognize the militant group as Afghanistan's official government, some Silicon Valley companies have taken matters into their own hands
+
+Facebook earlier this month reiterated its longstanding ban on the Taliban across all its platforms, including Instagram and WhatsApp, the latter of which reportedly shut down a Taliban helpline in Kabul and several other Taliban accounts.
+
+"The Taliban is sanctioned as a terrorist organization under US law and we have banned them from our services under our Dangerous Organization policies," a Facebook spokesperson said. A WhatsApp spokesperson declined to comment specifically on the helpline ban, but said it was "obligated to adhere to US sanctions laws," which includes "banning accounts that appear to represent themselves as official accounts of the Taliban."
+
+YouTube said it will continue to "terminate" accounts run by the Taliban. Twitter hasn't actively banned Taliban accounts but a spokesperson for the company said its "top priority is keeping people safe, and we remain vigilant."
+
+Taliban fighters stand guard along a street in Kabul on August 16, 2021.
+
+"I think at the end of the day, [the Taliban] don't want the internet to be banned. I don't think they want YouTube to pull out of the country, I don't think they want Google to pull out, I don't think they want Facebook or Twitter to just pack up and leave," Ghori-Ahmad said.
+
+The relationship between the Taliban and the tech platforms may get even more complicated if the Taliban receives official recognition from the global diplomatic community — a determination that depends to a large extent on what form the Afghan government now takes.
+
+"If the Taliban allows for an inclusive government, and them ... being a part of that government, then they have essentially, for lack of a better word, they've gained their legitimacy in Afghanistan, because other groups are going to be represented," Mehran said. If that does happen, it might be harder for the likes of Facebook and YouTube to justify keeping the militant group off the platform.
+
+An uncertain future for online expression
+
+The real test of the Taliban's approach to the internet may not be what the group says, but what it allows the Afghan people to say.
+
+There has already been a flurry of dissent online, with videos of protests on the streets of Kabul and of conditions in the Afghan capital being shared widely on social media. But if that dissent continues to grow, the Taliban might become more aggressive about curbing internet access for the people it hopes to govern.
+
+"Looking ahead, the Taliban will certainly want to use technology for its own PR and propaganda purposes. But now that it has taken over Afghanistan, it will in all probability want to restrict social media access to the Afghan population in its bid to reduce their access to information," said Madiha Afzal, a fellow at the Brookings Institution's foreign policy program. "Platforms like Twitter and WhatsApp will have to figure out how to deal with the Taliban's propaganda, while still trying to ensure that Afghans retain their access to these platforms if the Taliban attempts to restrict access."
+
+At the same time, the Taliban insists that online content must comply with Islamic law, which experts say could only add to the challenge platforms face in trying to continue operating in the country. "I think it's going to be a really tricky and delicate balance for a lot of these tech companies to have to figure out how to navigate that market," Ghori-Ahmad said.
+
+Taliban fighters stand guard at an entrance gate outside the Interior Ministry in Kabul on August 17, 2021.
+
+Beyond that, there is already widespread fear that the Taliban could use social media in a more sinister fashion — to find and go after Afghans who worked with the US government or military.
+
+Facebook last week introduced a one-click tool for its Afghan users to lock their profiles and is introducing pop-up alerts on Instagram in Afghanistan detailing how to protect one's account, the company's head of security policy Nathaniel Gleicher said in a series of tweets . "We're working closely with our counterparts in industry, civil society and government to provide whatever support we can to help protect people," Gleicher said.
+
+Twitter is working with the Internet Archive to address requests from users to remove older tweets and has offered the option of temporarily suspending accounts in case Afghan users aren't able to access them to delete content. LinkedIn said it has "taken some temporary measures including limiting the visibility of connections, and helping members in the country understand how they can hide their profiles from public view."
+
+And although the Taliban has sought to project a more moderate image in the days since it took back control, there are no guarantees that will last — particularly once US forces exit the country at the end of this month. After that, it may only be a matter of time before Afghans start to lose the ability to use social media to speak out.
+
+"If that is silenced by the Taliban, and if that is not accessible to them, then that should actually tell a lot to the tech companies about the Taliban," Mehran said, "And they should factor that in when they want to decide if the Taliban ... should be allowed to have a presence on those platforms."

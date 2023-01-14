@@ -1,0 +1,21 @@
+Samsung is the latest tech company giving customers the ability to repair their own mobile devices amid pressure from consumers, regulators and even US President Joe Biden to ease restrictions on fixing products.
+
+The company announced on Thursday a new program that will allow users of some of its flagship Galaxy devices to repair their own products, giving them and third-party fixit companies access to genuine parts, repair tools and visual step-by-step repair guides for the first time. Previously,users had to rely on the company's in-house repair service to fix devices.
+
+The new program will first be available starting this summer to users of the Galaxy S20 and S21 family of products, and the Galaxy Tab S7+, but not to owners of its S22 lineup. The company said it is collaborating with iFixit, an online repair community that's worked with Motorola on a similar self-repair program
+
+In November,announced a program, called Self Repair Service , that will make spare parts for Apple products, such as displays, batteries and camera modules, available to purchase and give anyone access to repair manuals. The program, which has not yet officially launched, will be limited to iPhone 12 and iPhone 13 users to start. Apple previously said the service will later expand to Mac computers that use Apple's new in-house M1 chip.
+
+Companies such as Samsung and Apple have been criticized for using tactics that make it harder for independent repair businesses to access devices, such as using non-removable memory or batteries, or sealing devices with special glue. The companies argue that this is done to ensure the products are properly repaired through authorized repair services.
+
+Kyle Wiens, CEO of iFixit, told CNN Business that Samsung's latest announcement is "part of a sea change where manufacturers are moving to support your right to repair."
+
+"Extending the lifespan of electronics is essential for the future of the planet, and providing consumers with self-repair options is an essential step to making that happen," he added.
+
+Last summer, President Biden urged the Federal Trade Commission to set rules preventing manufacturers from imposing restrictions on independent device repair shops and DIY repairs, a principle known as "right to repair." A week later, the FTC vowed to "root out" illegal repair restrictions on various products, including phones. This push has also gained traction among regulators in Europe.
+
+New regulations could prohibit this practice and require all smartphone manufacturers to make parts, tools, repair manuals, and diagnostics for out-of-warranty repairs more readily available to third-party businesses.
+
+"In many cases, the price to fix a smartphone or computer is close to, if not more than, replacing it all together — a strategy that encourages people to buy new devices rather than fixing them," Pedro Pacheco, a senior director at market research firm Gartner, told CNN Business at the time.
+
+Consumers could benefit from the shift in other ways. Because giving customers more control over how their devices get fixed could likely prolong the lifespan of products, companies will need to "entice consumers to switch or upgrade smartphones with better specs and other approaches," Pacheco added. "They will need to refocus their efforts."

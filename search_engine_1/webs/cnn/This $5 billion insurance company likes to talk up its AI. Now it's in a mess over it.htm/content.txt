@@ -1,0 +1,29 @@
+(CNN Business) A key part of insurance company Lemonade's pitch to investors and customers is its ability to disrupt the normally staid insurance industry with artificial intelligence. It touts friendly chatbots like AI Maya and AI Jim, which help customers sign up for policies for things like homeowners' or pet health insurance, and file claims through Lemonade's app. And it has raised hundreds of millions of dollars from public and private market investors, in large part by positioning itself as an AI-powered tool.
+
+Yet less than a year after its public market debut, the company, now valued at $5 billion, finds itself in the middle of a PR controversy related to the technology that underpins its services.
+
+On Twitter and in a blog post on Wednesday, Lemonade explained why it deleted what it called an "awful thread" of tweets it had posted on Monday. Those now-deleted tweets had said, among other things, that the company's AI analyzes the videos that users submit when they file insurance claims for signs of fraud, picking up "non-verbal cues that traditional insurers can't, since they don't use a digital claims process."
+
+The deleted tweets, which can still be viewed via the Internet Archive's Wayback Machine, caused an uproar on Twitter. Some Twitter users were alarmed at what they saw as a "dystopian" use of technology, as the company's posts suggested its customers' insurance claims could be vetted by AI based on unexplained factors picked up from their video recordings. Others dismissed the company's tweets as " nonsense ."
+
+"As an educator who collects examples of AI snake oil to alert students to all the harmful tech that's out there, I thank you for your outstanding service," Arvind Narayanan, an associate professor of computer science at Princeton University, tweeted on Tuesday in response to Lemonade's tweet about "non-verbal cues."
+
+Confusion about how the company processes insurance claims, caused by its choice of words, "led to a spread of falsehoods and incorrect assumptions, so we're writing this to clarify and unequivocally confirm that our users aren't treated differently based on their appearance, behavior, or any personal/physical characteristic," Lemonade wrote in its blog post Wednesday.
+
+Lemonade's initially muddled messaging, and the public reaction to it, serves as a cautionary tale for the growing number of companies marketing themselves with AI buzzwords. It also highlights the challenges presented by the technology: While AI can act as a selling point, such as by speeding up a typically fusty process like the act of getting insurance or filing a claim, it is also a black box. It's not always clear why or how it does what it does, or even when it's being employed to make a decision.
+
+In its blog post, Lemonade wrote that the phrase "non-verbal cues" in its now-deleted tweets was a "bad choice of words." Rather, it said it meant to refer to its use of facial-recognition technology, which it relies on to flag insurance claims that one person submits under more than one identity — claims that are flagged go on to human reviewers, the company noted.
+
+The explanation is similar to the process the company described in a blog post in January 2020, in which Lemonade shed some light on how its claims chatbot, AI Jim, flagged efforts by a man using different accounts and disguises in what appeared to be attempts to file fraudulent claims. While the company did not state in that post whether it used facial recognition technology in those instances, Lemonade spokeswoman Yael Wissner-Levy confirmed to CNN Business this week that the technology was employed then to detect fraud.
+
+But in Lemonade's IPO paperwork , filed with the Securities and Exchange Commission last June, the company wrote that AI Jim "handles the entire claim through resolution in approximately a third of cases, paying the claimant or declining the claim without human intervention".
+
+Wissner-Levy told CNN Business that AI Jim is a "branded term" the company uses to talk about its claims automation, and that not everything AI Jim does uses AI. While AI Jim uses the technology for some actions, such as detecting fraud with facial recognition software, it uses "simple automation" — essentially, preset rules — for other tasks, such as determining if a customer has an active insurance policy or if the amount of their claim is less than their insurance deductible.
+
+"It's no secret that we automate claim handling. But the decline and approve actions are not done by AI, as stated in the blog post," she said.
+
+When asked how customers are supposed to understand the difference between AI and simple automation if both are done under a product that has AI in its name, Wissner-Levy said that while AI Jim is the chatbot's name, the company will "never let AI, in terms of our artificial intelligence, determine whether to auto reject a claim."
+
+"We will let AI Jim, the chatbot you're speaking with, reject that based on rules," she added.
+
+Asked if the branding of AI Jim is confusing, Wissner-Levy said, "In this context I guess it was." She said this week is the first time the company has heard of the name confusing or bothering customers.

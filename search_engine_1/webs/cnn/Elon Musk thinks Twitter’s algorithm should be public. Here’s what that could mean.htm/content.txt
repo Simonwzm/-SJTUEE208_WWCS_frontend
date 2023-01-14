@@ -1,0 +1,63 @@
+LAS VEGAS, NEVADA - JULY 09: UFC commentator Joe Rogan announces the fighters during a ceremonial weigh in for UFC 264 at T-Mobile Arena on July 09, 2021 in Las Vegas, Nevada. (Photo by Stacy Revere/Getty Images)
+
+Apple says the new update focuses on features around users' eyes to unlock an iPhone with FaceID.
+
+CUPERTINO, CALIFORNIA - March 8, 2022: Apple CEO Tim Cook showcases the new iPhone SE featuring 5G and the A15 Bionic chip during a special event at Apple Park. (Photo by Brooks Kraft/Apple Inc.)
+
+CJ Dawley died by suicide at the age of 17. His parents allege his social media addiction contributed to his death. (John General/CNN)
+
+CNN —
+
+On March 24, weeks before he offered to buy Twitter, Elon Musk posted a poll on the social media platform: “Twitter algorithm should be open source,” he wrote, with options for users to vote “yes” or “no.”
+
+Some of Twitter (TWTR)’s technology is already open source, which means it’s publicly available for anyone to view, rework, and use for other purposes. But what Musk was asking, essentially, was whether the rules that computers follow to determine what you see in your Twitter (TWTR) feed should be public, too. Over a million votes were tallied by the time the poll closed, with an overwhelming amount of “yes” votes (82.7%).
+
+The implication of Musk’s suggestion and poll took on new weight last week, after the Tesla (TSLA) and SpaceX CEO announced he offered to buy all the shares of Twitter that he doesn’t already own in a deal that would value the company at about $41 billion. On Friday, Twitter’s board announced a so-called “poison pill” measure that could make it more difficult for Musk to acquire the company.
+
+If the deal does go through, Musk has said his goal is to “unlock” Twitter’s “extraordinary potential,” but his suggestions for specific changes for how to do that have arguably been vague. A key focus of his has been bolstering free speech on the platform, and his suggestion for algorithms is central to that effort.
+
+Hours after Musk made his offer to buy Twitter, he repeated the idea for open sourcing Twitter’s algorithms during an on-stage appearance at the TED conference in Vancouver. He also said it should be made clearer to users when any actions are taken by Twitter that impact what you tweet — such as decisions to amplify or de-emphasize tweets.
+
+This way, he explained at TED, “there’s no sort of behind-the-scenes manipulation, either algorithmically or manually.” Members of the TED audience clapped loudly in response. (Twitter does add labels to tweets for a host of reasons, such as if a post contains misleading information or if a post violates the social network’s rules but is kept available after having been determined to be “in the public’s interest.”)
+
+Musk isn’t alone in calling for tech platforms to be more transparent with their algorithms. In the wake of the 2021 release of the Facebook Papers, which showed how algorithms can fuel divisiveness and lead users down dangerous rabbit holes, there’s been renewed scrutiny regarding the algorithms that increasingly dominate our lives. Additionally, Twitter’s cofounder and former CEO Jack Dorsey has called for doing more to give users control on the social network, including responding to Musk’s poll by quote-tweeting it with a comment of his own: “The choice of which algorithm to use (or not) should be open to everyone.”
+
+Adobe Stock
+
+Musk is also correct in pointing to the algorithms that support the company as a key part of what makes Twitter, well, Twitter. After all, algorithms, which are at their simplest a set of instructions, underpin countless products and services that depend on computers. They’re used for figuring out which tweets you see from people you follow on the platform and showing you tweets from others that Twitter thinks you’d like to see, based on a slew of factors such as the accounts you interact with, how popular a tweet is, and how other people you know are interacting with a tweet. They’re also used to crop images people post, and to remove hateful content. And if you choose to view tweets in order of how recently they were posted on Twitter, that’s using an algorithm, too.
+
+But making public the algorithms that shape what you see on Twitter won’t by itself do much to make Twitter a more transparent company, according to artificial intelligence and open-source software experts. Even if it does ultimately help address some distrust that critics have in Twitter’s content enforcement actions, moving in this direction could also create a new set of risks for Twitter.
+
+Musk did not respond to a request for comment from CNN Business. Twitter declined to comment.
+
+The limitations of Musk’s plan
+
+Even those who can understand the code that goes into an algorithm don’t necessarily understand how it works. Consider, for example, how there’s often little more than a basic explanation from tech companies on how their algorithmic systems work and what they’re used for. The people who build these systems don’t always know why they reach their conclusions, which is why they’re commonly referred to as “black boxes.”
+
+Enabling anyone to see the site’s code is “a bit senseless,” said Vladimir Filkov, a computer science professor at the University of California, Davis, because very few people can understand how Twitter’s code base works to produce what they see on their screens.
+
+“Open sourcing something by definition means you can see the code, but it doesn’t mean you can understand the policies or influence the policies that lead to that code,” said Filkov, who develops tools to help developers run more effective open-source software projects.
+
+That said, those who can understand it would be able to figure out how Twitter decides which tweets to show users, said Ariel Procaccia, a computer science professor at Harvard University whose studies include artificial intelligence and economics.
+
+“In those circumstances, the company had better make sure their algorithms are fair, as it would surely be held accountable if they weren’t,” Procaccia said. “I believe this would be a net positive for users.”
+
+Filkov thinks it would be really useful to take a page from what other open-source projects often do alongside their code: Publicly list the policies that lead to that code.
+
+“Understanding those policies would be easier than understanding code,” he said.
+
+A new set of risks for Twitter
+
+Apart from the effectiveness of open sourcing Twitter’s algorithms, there’s also the question of what, exactly, would be released to the public along with code.
+
+If Twitter were to open-source just a machine-learning algorithm it uses to decide what is and is not allowed on the platform, for example, but not the training data that was used to inform that algorithm, it would be “pretty meaningless,” said Allison Randal, a board member at the Software Freedom Conservancy and at the Open Infrastructure Foundation. It gets stickier if you consider training data, though. If that training data includes private tweets, releasing it would lead to “massive negative privacy implications,” she said.
+
+Making Twitter’s algorithms public wouldn’t necessarily lead to any changes on Twitter, however. Users wouldn’t be able to make any changes to the code that runs the social network unless Twitter enabled such actions (such as by deploying a change to all users, or by letting individual users futz with the code that controls their personal accounts).
+
+“Users would of course be able to copy the code and modify it, but such changes would not affect the algorithms deployed on Twitter itself,” Procaccia said. “It’s highly unlikely Twitter would even consider deploying changes made by non-employees.”
+
+While making its algorithms publicly available could increase trust among users, it could also give Twitter’s competitors an edge. As Procaccia noted, competitors could copy and roll out Twitter’s algorithms.
+
+It must also be done carefully to avoid security breaches, Filkov said. He thinks releasing code publicly would need to be accompanied by an effort to ensure the code base is more secure.
+
+“Understanding the code really means understanding the faults in the code also,” he said. “So someone who is a bad actor can certainly take advantage of knowing the code and exposing the platform to risks, which may include taking over accounts or exposing the platform to misinformation.”

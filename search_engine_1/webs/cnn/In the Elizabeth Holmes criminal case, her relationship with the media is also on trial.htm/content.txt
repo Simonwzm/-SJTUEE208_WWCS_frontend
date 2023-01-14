@@ -1,0 +1,39 @@
+(CNN Business) For a time, Elizabeth Holmes was a media darling. The college dropout who started her blood-testing company Theranos at 19 graced the cover of magazines such as Forbes, Fortune, and Inc . in her signature black turtleneck to help cultivate her image as "the next Steve Jobs." She was upheld as a rare female founder who'd raised significant sums of capital to drive her startup towards an eye-popping $9 billion valuation.
+
+Seemingly everyone was fascinated by the young entrepreneur seeking to revolutionize blood testing and who managed to attract a who's who of powerful men to buy into her lofty mission.
+
+Now, Holmes' criminal case is underway in a San Jose federal court where her relationship with the media is also on trial.
+
+Holmes, who has pleaded not guilty, faces a dozen counts of federal fraud and conspiracy charges, and up to 20 years in prison over allegations that she knowingly misled doctors, patients and investors in order to take their money. Part of the alleged scheme? That she and her ex-boyfriend, Ramesh "Sunny" Balwani -- who served as Theranos' chief operating officer -- leveraged the media in their efforts to defraud investors. (Balwani faces the same charges, has pleaded not guilty and is set to be tried after Holmes' case concludes.)
+
+In the government's opening statements, lead prosecutor Robert Leach called attention to Holmes' role in using the media and positive press coverage to propel her company and attract investors. "The defendant's fraudulent scheme made her a billionaire. The scheme brought her fame, it brought her honor, and it brought her adoration," Leach said.
+
+The government alleged that Holmes even approved a 2013 piece by a Wall Street Journal opinion writer prior to its publication that offered a glowing look at Holmes and Theranos, but also contained misleading claims of the company's capabilities at the time. The article corresponded with a broader unveiling of the startup after years of operating in stealth and was leveraged by Holmes as external validation of the company.
+
+In a statement to CNN Business, Journal spokesperson Steve Severinghaus said, "editors make publishing decisions based on their independent judgment."
+
+The statement continued, "Our writer asked Elizabeth Holmes to confirm complicated facts on a technical subject, not to approve publication. Our writer visited Theranos, spoke with numerous sources in and outside the company about its technology, and had his blood tested on a Theranos machine that appeared to offer credible results. If that was all a deception, then the responsibility lies with Ms. Holmes and Theranos."
+
+In his testimony Wednesday, retired four star general and former Secretary of Defense James Mattis, who served as a board member and invested $85,000 into the startup, shed light on the level of control Holmes asserted over what was revealed to reporters. Mattis testified that he asked what he was at liberty to share before speaking to the New Yorker's Ken Auletta, who profiled Holmes in December 2014 . Holmes responded to Mattis in an email, shown in the courtroom, with a list of three topics she said the company didn't talk about on the record, including "How our technology works (ie that there is a single device that does all tests)."
+
+"I thought we had been kind of out front that there's a single device and why would we want to hide that," Mattis testified Wednesday, while also noting that it "didn't bother me because I didn't consider myself a technological expert, and I wasn't going to talk about something I wasn't an expert in anyway." (Mattis is not directly mentioned in the New Yorker article.)
+
+It was Auletta's article that ultimately led then-Wall Street Journal reporter John Carreyrou to start digging. Carreyrou's investigative reporting would uncover significant flaws in the company's technology and capabilities that contradicted claims made by Holmes and Theranos. His work prompted broader scrutiny into the company leading to its eventual demise. Carreyrou also wrote a critically-acclaimed book "Bad Blood: Secrets and Lies in a Silicon Valley Startup" based on his reporting.
+
+In the course of his own reporting, Auletta pressed Holmes on her claims -- particularly that Theranos was sharing data with the Food and Drug Administration. Holmes grew frustrated, according to audio recording of Auletta's interview of Holmes that aired on the latest episode of Carreyrou's podcast covering the trial. "You're getting into an area that's privileged," she told Auletta.
+
+"For the media to become part of the story, that's less common"
+
+The media both helped build up Holmes and Theranos and then played an important role in revealing what was really happening at the company, Margaret O'Mara, a historian of the tech industry and professor at University of Washington, told CNN Business in an interview this month. Holmes arrived on the scene as a rare female founder claiming to be "doing big things, changing the world ... at a time when Silicon Valley is starting to get heat -- rightly so -- for not having many women at the top." O'Mara said it was a storyline that Holmes leaned into.
+
+According to Miriam Baer, a law professor at Brooklyn Law School, corporate fraud cases can often involve a charismatic actor who tells a compelling narrative. "It is not unheard of or infrequent for the media to discover fraud," she told CNN Business. "But for the media to become part of the fraud -- or part of the story, if you will -- that's less common."
+
+Holmes' interactions with reporters may be put front-and-center if journalist Roger Parloff, a possible government witness, takes the stand. Parloff wrote the Fortune Magazine cover story on Holmes and Theranos in June 2014 -- the first of many favorable profiles. In Parloff's own words, the feature "helped raise to prominence" Holmes, as he later detailed in a column more than a year later titled " How Theranos Misled Me.
+
+"Roger was first [to the story] and felt a tremendous amount of guilt," said Alex Gibney in 2019; Gibney is the prolific documentary filmmaker whose HBO film, "The Inventor," chronicled the rise and fall of Theranos. Gibney, who has said his work began with interviewing journalists who felt duped, has called Parloff the "beating heart" of his film. (CNN and HBO share a parent company.)
+
+While Parloff has turned over audio recordings and notes from his interviews with Holmes and Balwani as part of a grand jury subpoena order, he's objected to a trial subpoena order by Holmes' defense team, citing reporter's privilege among other considerations.
+
+According to a recent court filing, Holmes' defense team is seeking to compel Parloff to comply with the order, asking that he be required to turn over notes and recordings from interviews he conducted with others for his story. This evidence, Holmes' team believes, will serve to refute the claims that Holmes misled Parloff, and through him, investors. Holmes' team has called for a hearing on the matter on or around October 6. (According to Baer, "a trial subpoena contains more hurdles to collecting information than there are under a grand jury subpoena," adding that the outcome of the hearing "may well result in a much narrower field of documents that the reporter has to produce.")
+
+There's also a chance Carreyrou will take the stand -- with Holmes listing him among her potential witnesses. Carreyrou, in a tweet, said his name appearing on her possible witness list -- along with three prosecutors and officials from the FDA and Centers for Medicare and Medicaid Services -- indicate to him, "They're going to argue to the jury that this was a witch hunt."

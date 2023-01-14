@@ -1,0 +1,11 @@
+(CNN Business) The ransomware attack that forced Colonial Pipeline, one of the largest fuel pipelines in the United States, to go offline this spring also compromised the personal information of nearly 6,000 individuals, a company spokesperson told CNN Business.
+
+The pipeline operator has begun sending data breach notification letters to the 5,810 affected individuals, who are mostly current or former company employees and their family members, the spokesperson said on Monday.
+
+A sample letter dated Aug. 13 and reviewed by CNN Business informs recipients that the hackers gained access to records including names; contact information; birth dates; Social Security, driver's license and military ID numbers; and health insurance information. The letter was first reported by the cybersecurity news outlet Bleeping Computer and its authenticity was confirmed by the spokesperson.
+
+"Though our pipeline system is now fully operational, we have been hard at work with third-party cybersecurity experts determining what, if any, personal information may have been affected as a result of the attack," the company spokesperson told CNN Business in a statement. "Based on this review, we learned that an unauthorized party acquired certain personal information in connection with the attack."
+
+"Colonial Pipeline sincerely appreciates the ongoing support and understanding from our dedicated employees and the public as we worked to thoroughly investigate this incident," the spokesperson added.
+
+Read More

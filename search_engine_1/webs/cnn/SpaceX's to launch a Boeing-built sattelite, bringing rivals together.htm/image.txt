@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190806222505-spacex-launch-0806.jpg?q=x_5,y_222,h_2795,w_4967,c_crop/w_800

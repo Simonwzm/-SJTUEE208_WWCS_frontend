@@ -1,0 +1,11 @@
+(CNN Business) Kaseya, the software firm whose remote access tool was used to deliver REvil ransomware to hundreds of businesses around the world this month in a devastating supply-chain attack, has obtained a decryptor key allowing it to unlock networks seized by the malware, the company confirmed to CNN Business.
+
+Kaseya is currently helping to restore the systems of customers whose networks were still locked down by REvil's software, it said.
+
+"I can confirm we have received a decryptor and are currently working to assist the customers impacted by the attack," said Kaseya spokesperson Dana Liedholm. "We can't share the source but can say it's from a trusted third party."
+
+Liedholm declined to answer further questions about whether the decryptor key had been reverse-engineered from the REvil malware.
+
+Brett Callow, a threat analyst at the cybersecurity firm Emsisoft, said his firm had verified the effectiveness of the key at restoring victim data.
+
+Read More

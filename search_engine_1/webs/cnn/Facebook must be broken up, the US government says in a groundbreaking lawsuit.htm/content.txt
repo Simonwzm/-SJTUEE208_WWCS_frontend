@@ -1,0 +1,43 @@
+(CNN Business) Dozens of states and the federal government sued Facebook ( FB ) on Wednesday in twin antitrust lawsuits, alleging that the social media giant has abused its dominance in the digital marketplace and engaged in anticompetitive behavior.
+
+The Federal Trade Commission, in particular, is seeking a permanent injunction in federal court that could, among other things, require the company to divest assets, including Instagram and WhatsApp, effectively breaking up Facebook as we know it. The states are also calling for the company to be broken up, if necessary.
+
+"Personal social networking is central to the lives of millions of Americans," said Ian Conner, Director of the FTC's Bureau of Competition, in a statement. "Facebook's actions to entrench and maintain its monopoly deny consumers the benefits of competition. Our aim is to roll back Facebook's anticompetitive conduct and restore competition so that innovation and free competition can thrive."
+
+The parallel lawsuits, months in the making, represent an unprecedented challenge to one of Silicon Valley's most powerful corporations. The complaints zero in on Facebook's acquisition and control over Instagram and WhatsApp, two key services in its social media empire. Facebook announced in 2012 that it was buying Instagram for $1 billion; two years later, it announced a $19 billion acquisition of WhatsApp.
+
+The suits come roughly 14 months after New York Attorney General Letitia James announced that her office was leading a group of attorneys general in investigating Facebook for potential anticompetitive practices. More than 40 attorneys general ultimately signed onto Wednesday's complaint. The FTC, meanwhile, has been conducting its own antitrust investigation of Facebook since June 2019.
+
+"For nearly a decade, Facebook has used its dominance and monopoly power to crush smaller rivals and snuff out competition," James said at a press conference Wednesday. "By using its vast troves of data and money, Facebook has squashed or hindered what the company perceived to be potential threats."
+
+The state suit calls for a court order requiring Facebook to notify state officials of any future acquisitions valued at $10 million or more.
+
+"The most important fact in this case, which the Commission does not mention in its 53-page complaint, is that it cleared these acquisitions years ago," Jennifer Newstead, VP and General Counsel at Facebook, said in a statement. "The government now wants a do-over, sending a chilling warning to American business that no sale is ever final."
+
+"People and small businesses don't choose to use Facebook's free services and advertising because they have to, they use them because our apps and services deliver the most value," Newstead added. "We are going to vigorously defend people's ability to continue making that choice."
+
+Although regulators may not have opposed the WhatsApp and Instagram deals at the time, competition watchdogs have every right to change their minds in light of new evidence, said William Kovacic, a former chairman of the FTC.
+
+"There's nothing in US merger law that says an agency's decision not to challenge a proposed deal immunizes that deal from future review," he said.
+
+Much of the scrutiny of Facebook concerns the companies it has purchased to build up a massive audience that now totals more than 3 billion users across its portfolio of apps, according to its financial statements. That dominance has raised questions by some legal experts, including US lawmakers, about whether Facebook CEO Mark Zuckerberg set out to neutralize competitive threats by gobbling them up.
+
+As the drumbeat in Washington against Facebook has grown louder, the company has had years to prepare for a showdown. It's moved to tightly integrate its apps on a technical level, a decision some critics have suggested is a strategy to frustrate any potential breakup. It's stepped up its hiring of lawyers with antitrust and litigation experience. And the company has fine-tuned its talking points, settling on a narrative that Facebook welcomes regulation but that cracking down too hard could risk giving other countries like China a competitive edge in the fast-moving technology sector.
+
+Wednesday's legal action makes Facebook the second global tech company to be taken to court by US and state government officials this year over antitrust concerns. In October, the Justice Department and 11 states filed a lawsuit against Google, alleging that it had stifled competition to maintain its powerful place in online search and search advertising. (Google has called the suit "deeply flawed" and that consumers use Google's platform because they choose to, not because they are forced to.) The last major tech antitrust suit before that, experts say, dates back to the US government's landmark case against Microsoft in the late 1990s and early 2000s.
+
+Facebook and Google aren't the only tech companies of concern among policymakers. US officials have increasingly probed the entire tech sector for potential anticompetitive behavior, giving particular focus to the big four firms that now touch every corner of our lives. The scrutiny has ranged from Apple's control over the iOS app ecosystem to Amazon's treatment of independent sellers on its e-commerce platform.
+
+In Facebook's case, government officials will need to prove in court that the company's alleged misconduct led to real-world, measurable harms to consumers or competition, said Hal Singer, an economist and antitrust expert at George Washington University's Institute of Public Policy.
+
+"It doesn't have to be a price effect; it could be some privacy thing," Singer said. "But you have to show it causally."
+
+According to the state suit, Facebook's alleged misconduct has resulted in consumers being harmed. Internet users have fewer choices among social media platforms and poorer experiences, the complaint said, while the tech industry has suffered from "reduced investment in potentially competing services."
+
+In another critical allegation, state officials said Facebook opened its platform to third-party app developers to draw them into the company's orbit, then cut off their access to Facebook's services once Facebook perceived them to be a competitive threat.
+
+Singer said that if Facebook is ultimately deemed to have violated the law, the company could try to forestall a breakup by arguing that its services are too tightly integrated to be unwound. But, he said, it would be up to the courts to determine whether that is a persuasive argument.
+
+As the Microsoft case showed, antitrust lawsuits can take years to play out. But they can ultimately have an enormous impact. Experts credit the Microsoft suit, which was eventually settled, with paving the way for Google's rise.
+
+Similarly, a court ruling that breaks up Facebook or imposes certain behavioral limitations could have wide-ranging effects on what new startups may emerge — and what products consumers see in the marketplace.

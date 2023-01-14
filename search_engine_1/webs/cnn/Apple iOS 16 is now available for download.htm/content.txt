@@ -1,0 +1,11 @@
+(CNN Business) Apple on Monday released its next-generation mobile software, iOS 16, with new features that allow users to personalize their iPhone lock screens and change how they text friends through iMessage.
+
+Among the most anticipated changes is the ability to edit and unsend recently sent iMessages, or mark the messages as unread if users want to revisit them later. Recipients will receive an alert that the original message was edited or deleted, and it only works if both parties are running iOS 16. Apple previously said this was among the most requested features among users.
+
+But perhaps the biggest change is the interactive lock screen. It now features custom fonts, new photo effects, personalized wallpapers and widgets that add information at a glance. Widgets include calendar events, battery life, alarms, Apple Watch Activity rings and the weather, as well as the ability to track "live" activities, such as an Uber ride's progress, updates on a sports game or food deliveries. (Android introduced an interactive lock screen last year).
+
+There are also options to create multiple lock screens with different backdrops that can be switched throughout the day. Users can browse wallpapers with suggested images from a user's photo library, and notifications will now appear at the bottom of the screen so they're not in the way.
+
+The updated software works with any iPhone model dating back to the iPhone 8, released in 2017. Apple previously teased the features in June at its annual developer's conference.
+
+Read More

@@ -1,0 +1,11 @@
+New York (CNN Business) Microsoft is redesigning Office to look more like Windows 11.
+
+Gone are the flat, bold colors atop the Office app command ribbons — forest green for Excel, deep blue for Word, burnt orange for PowerPoint, etc. They'll be replaced with a neutral gray color, Microsoft announced in a blog post
+
+Connecting Office and Windows even further, the Office theme will match your Windows theme by default. So if you have Windows set to a dark tone, you won't go blind from a bright white screen in the middle of the night when you open Word to finish that term paper.
+
+The new look for Office 365
+
+But for users who want to customize their Office look, Microsoft will allow customers to choose various appearances. These include dark theme and the more familiar look, with a colored toolbar, that has been around for the past five years.
+
+Read More

@@ -1,0 +1,29 @@
+New York CNN Business —
+
+The family of an Apple engineer killed in a crash of his Tesla last year is suing the automaker, saying the Autopilot feature on the car caused his death.
+
+Walter Huang was in the driver’s seat of the Model X SUV, wearing his seatbelt at the time of the March 23, 2018, crash in Silicon Valley, According to the National Transportation Safety Board.
+
+The NTSB investigated the crash and determined that the Autopilot feature, which provides some self-driving functions to Tesla cars, was engaged for nearly 19 minutes before the fatal crash. The car veered off a highway to the left, accelerated and crashed into a concrete highway median going 71 mph, and then struck two other vehicles. After the crash, the car became engulfed in flames.
+
+Huang’s family members said Tesla’s Autopilot was unsafe.
+
+This March 23, 2018 crash of a Tesla Model X in Autopilot mode killed the car's owner, Walter Huang. His family is suing Tesla charging the Autopilot feature caused the crash. Eric Marrapodi/CNN
+
+“Mrs. Huang lost her husband, and two children lost their father because Tesla is beta testing its Autopilot software on live drivers,” said B. Mark Fong, the lawyer who brought the suit filed in California state court last week. “The Huang family wants to help prevent this tragedy from happening to other drivers using Tesla vehicles or any semi-autonomous vehicles.”
+
+“We want to ensure the technology behind semi-autonomous cars is safe before it is released on the roads, and its risks are not withheld or misrepresented to the public,” said Doris Cheng, another attorney working on the case.
+
+In a blog post shortly after the accident, Tesla said it determined Huang’s hands were not detected on the wheel for six seconds prior to the crash. Tesla analyzed data sent by the car in the moments before the crash.
+
+The company said Huang had received warnings earlier in the drive to have his hands on the wheel. It also said he had five seconds before the crash and more than 150 yards between his car and the concrete divider and did not take action to avoid it.
+
+“Tesla Autopilot does not prevent all accidents — such a standard would be impossible — but it makes them much less likely to occur,” said Tesla in the blog post. “It unequivocally makes the world safer for the vehicle occupants, pedestrians and cyclists.”
+
+A separate vehicle safety report from Tesla shows that in the first quarter of this year there was one accident for every 2.87 million miles driven in which drivers had Autopilot engaged. For those driving a Tesla without Autopilot, there was one accident for every 1.76 million miles driven.
+
+The large number of Teslas in that part of California mean that there had been more than 200 successful Autopilot trips per day on this exact stretch of road, according to data released by Tesla.
+
+The suit charges that Huang believed his car in Autopilot was safer than human-driven cars. But the suit charges his car “lacked a properly designed system for crash avoidance. As a result, it was a vehicle that could and would strike and collide with ordinary and foreseeable roadway features in Autopilot mode.”
+
+A Tesla (TSLA) spokesperson declined to comment on the suit itself.

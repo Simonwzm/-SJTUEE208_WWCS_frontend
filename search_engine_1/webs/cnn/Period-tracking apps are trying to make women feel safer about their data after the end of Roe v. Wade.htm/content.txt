@@ -1,0 +1,37 @@
+This is how data collected from fertility apps could be used to prosecute abortion
+
+New York CNN Business —
+
+In the wake of the Supreme Court decision to overturn Roe v. Wade, women living in states that criminalize abortion are grappling with the possibility that their phones could now hold incriminating information about their travel, search history and menstrual cycles.
+
+With that in mind, some popular services are rethinking the data they collect from users and also stressing the privacy protections they already have in place — but it remains to be seen how much those efforts will protect women, or ease their minds in this new era.
+
+Flo, the leading menstrual cycle tracking app with 240 million users, announced an “anonymous mode” option last week. This lets users enter data into the app without adding their name, email or technical identifier. If the company, which is based in London, receives an official request to identify a user by name or email, it will be unable to connect that information with their health data, Flo said.
+
+“Flo will never share or sell user data, and only collects data when we have a legal basis to do so and when our users have given their informed consent,” Susanne Schumacher, Flo’s data protection officer, said in a company statement last week. “Any data we do collect is fully encrypted, and this will never change.”
+
+But some privacy experts are skeptical about how much a feature like anonymous mode can separate the user from their personal health data.
+
+“If they want to be serious about privacy commitments, they should say, ‘Within a month we delete all the data. We can give you a sort of guidance and help in predicting your periods, but we don’t have to do it by storing it,’” said Danielle Citron, a law professor at the University of Virginia and author of the forthcoming book “The Fight for Privacy.” “Unless they’re doing that, I’m not feeling so secure for women and girls.”
+
+Albert Fox Cahn, founder and executive director of the Surveillance Technology Oversight Project and a fellow at the NYU School of Law, echoed the point. “It’s not enough just to see that they’re saying they have an anonymous mode,” said Fox Cahn. “It’s really going to come down to seeing what data do they collect, what data do they keep, how is that data stored, how is that data potentially shared — really drilling into the technical details of each of these apps, and the changes they make.”
+
+According to Flo, its new anonymous mode removes all personally identifiable information, making it impossible to connect data to someone once the mode is activated.
+
+Other menstrual apps have touted their existing protections. Clue, based in Berlin and serving 12 million users globally according to its site, claims its European location makes it a more secure home for data. “Given the increasing criminalization of abortion in the US, we understand that many of our American users are worried that their tracked data could be used against them by US prosecutors,” the company said in a statement. “It is important to understand that European law protects our community’s sensitive health data.”
+
+Flo and Clue are part of a much larger market. The “FemTech” industry, as Clue founder Ida Tin has coined it, groups together tech used to support and further female healthcare, and is projected to grow to $60 billion globally by 2027. according to Emergen Research, a market research and strategy consulting company. While these services help women manage premenstrual symptoms and track fertility, the risks of using FemTech could outweigh the benefits in a post-Roe world, privacy experts say.
+
+In a state with criminalized abortion, Fox Cahn said third parties and law enforcement could use such data for two types of surveillance: as a dragnet to figure out generally which users are pregnant and possibly seeking abortion care, and as targeted surveillance of specific individuals. Some new privacy offerings could, if nothing else, help these apps from serving as digital dragnets, according to Fox Cahn. But once an individual is identified and their data specifically sought out, there is little these apps — or any apps on a phone — can do to protect a user, he said.
+
+“Once police have probable cause, and issue a specific individual a warrant, then that person is at risk from nearly all the apps on their phone that collect location and health data,” said Fox Cahn. “At that point, there’s a much broader list of concerns: Google location data, their search histories, their Apple health data, their device backups in iCloud if they use an iPhone or their Android device backup.”
+
+Since the ruling, Apple, for one, has told CNN it takes numerous steps to protect health data on its devices and in the cloud, including by encrypting health information in iCloud when a user enables two-factor authentication.
+
+But tech companies have also broadly said they would comply with government data requests so long as they are consistent with existing laws. The rollback of federal abortion protections, combined with the passage of new legislation in numerous states restricting abortion, could make it difficult for platforms to fight certain data demands related to abortion investigations.
+
+Google last week said it will soon automatically delete location history records that show whether a person has visited an abortion clinic or fertility center. In a blog post, Google said the move is intended to help users protect their privacy when they visit locations that could shed light on their personal medical situation or health care decisions.
+
+How all these offerings work in the real world has yet to be tested, of course.
+
+“I think some of these protections could be really helpful, but it depends,” said Fox Cahn. “It won’t be something that can be fully evaluated until after the the software is available to the public.”

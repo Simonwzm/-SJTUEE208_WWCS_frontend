@@ -1,0 +1,47 @@
+(CNN Business) A 16-month congressional investigation into Amazon, Apple, Google and Facebook has found that the tech giants hold "monopoly power" in key business segments and have abused their dominance in the marketplace, in a full-throated condemnation of the giants.
+
+The findings set the stage for possible future legislation designed to rein in Big Tech, even as antitrust enforcers at the Justice Department and the Federal Trade Commission gear up for potential litigation against some of the companies.
+
+In a 450-page report, staffers for the House Judiciary Committee's antitrust panel wrote that there is "significant evidence" to show that the companies' anticompetitive conduct has hindered innovation, reduced consumer choice and weakened democracy.
+
+Under Chairman David Cicilline, the antitrust subcommittee collected more than 1 million documents from the companies and interviewed academics, business leaders and even many of Big Tech's rivals — including some Fortune 500 companies concerned about the tech giants' power, said an attorney for the subcommittee.
+
+"These firms have too much power, and that power must be reined in and subject to appropriate oversight and enforcement," the report said. "Our economy and democracy are at stake."
+
+The report laid out several recommendations to curtail the dominance of the companies, ranging from "structural separation" — forcing companies such as Amazon not to compete on the same platform that it operates — to giving new tools and funding to antitrust enforcement agencies.
+
+Much like the railroad tycoons and telecom barons of yesteryear, modern day tech giants have amassed tremendous market share over vital levers of commerce — search engines, app stores and social media services, the report said.
+
+But unlike prior monopolistic industries, the subcommittee attorney said, tech companies have successfully used the data they accumulate in one area of business to gain tremendous advantages when they expand into related businesses.
+
+For example, the attorney said, the investigation showed that Google used its search product to find out which browsers were the most popular, "and that informed their strategy for Chrome."
+
+"It's the fact that they're able to develop near-perfect market intelligence that does make it feel like we're living in a new world," the attorney told reporters.
+
+Google rejected the subcommittee report and many of its recommendations as the product of complaints by commercial rivals opportunistically seeking an edge.
+
+"We compete fairly in a fast-moving and highly competitive industry," Google said in a statement. "We disagree with today's reports, which feature outdated and inaccurate allegations from commercial rivals about Search and other services."
+
+Facebook, the report said, has maintained "an unassailable position in the social network market for nearly a decade" and solidified its power through a series of targeted acquisitions designed to eliminate would-be rivals.
+
+The strategy has meant that Facebook confronts competitive pressure only "from within its own family of products—such as through Instagram competing with Facebook or WhatsApp competing with Messenger—rather than actual competition from other firms in the market," the report said.
+
+In a statement, Facebook said it competes vigorously with "a wide variety of services" with many users.
+
+"Facebook is an American success story," said spokesman Christopher Sgro. He added: "Instagram and WhatsApp have reached new heights of success because Facebook has invested billions in those businesses. A strongly competitive landscape existed at the time of both acquisitions and exists today. Regulators thoroughly reviewed each deal and rightly did not see any reason to stop them at the time."
+
+Apple said in a statement it disagreed "vehemently" with the subcommittee report, saying it does not hold a dominant marketshare with any of its business segments.
+
+"Competition drives innovation, and innovation has always defined us at Apple," the company said. "We work tirelessly to deliver the best products to our customers, with safety and privacy at their core, and we will continue to do so."
+
+Amazon lashed out in a blog post, describing "misguided interventions in the free market" as "fringe notions."
+
+"Large companies are not dominant by definition, and the presumption that success can only be the result of anti-competitive behavior is simply wrong," the blog post said . "And yet, despite overwhelming evidence to the contrary, those fallacies are at the core of regulatory spit-balling on antitrust."
+
+The report now heads to a subcommittee markup, where a vote to adopt the final report is expected to take place before any legislative proposals are introduced.
+
+Rep. Ken Buck, a top Republican on the subcommittee, released his own report on Tuesday largely agreeing with Cicilline's report, though he differed on some of the proposals.
+
+"Many of the factual findings detailed in the report are undeniable," Buck wrote. "The majority staff accurately portrays how Apple, Amazon, Google and Facebook have used their monopoly power to act as gatekeepers to the marketplace, undermine potential competition, and pick winners and losers."
+
+Buck said that some of the Democratic-led report's recommendations were "non-starters," such as the proposal to force platform companies to separate their lines of business. But Republicans are on board with other ideas, such as giving more resources to antitrust enforcers and amending the nation's antitrust laws to make it easier for them to block mergers and bring and win cases against misbehaving firms.

@@ -1,0 +1,11 @@
+San Francisco (CNN Business) You may not be traveling or hanging out in malls much these days, but Google Maps is preparing for a return to such places in the not-so-distant future: It's rolling out a new feature that uses augmented reality to navigate malls, airports, and train stations.
+
+On Tuesday, Google unveiled the feature, called Indoor Live View, which shows graphics like arrows, directions, and icons on your smartphone's screen, laid atop a camera view of the world around you. It can be used to help you find a store in a shopping mall or a bathroom at an airport, for instance. The feature is more interactive than Google Maps' existing indoor maps , and expands on a similar feature for city-street navigation that launched in 2019. It's available for Android and iOS users at some malls in Chicago, Los Angeles, San Francisco, Long Island, Seattle, and Newark, New Jersey. Google said it will be available for use at a limited number of airports, malls, and transit stations in Tokyo and Zurich in the coming months.
+
+Google GOOG The feature is among a host of changeshas made in recent years to Maps as it continues to position its popular app as one that goes far beyond offering maps and turn-by-turn directions.
+
+Russell Dicker, a Google Maps director of product, said during a briefing with journalists on Monday that the AR feature will help users find a range of things indoors, such as a baggage claim or a train platform at a transit station, or, in a mall, directions to a store on a certain floor.
+
+Typically, a smartphone uses its built-in GPS and compass to determine your location and what direction you are facing in a mapping app. In crowded cities and inside buildings, however, these technologies may not be as effective (GPS, for example, relies on having a line of sight to pass along radio signals from far-off satellites to your phone).
+
+Read More

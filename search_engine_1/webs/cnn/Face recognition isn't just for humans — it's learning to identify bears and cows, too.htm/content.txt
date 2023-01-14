@@ -1,0 +1,63 @@
+San Francisco (CNN Business) It's hard for the average person to tell Dani, Lenore, and Bella apart: They all sport fashionably fuzzy brown coats and enjoy a lot of the same activities, like playing in icy-cold water and, occasionally, ripping apart a freshly caught fish.
+
+Melanie Clapham is not the average person. As a bear biologist, she has spent over a decade studying these grizzly bears, who live in Knight Inlet in British Columbia, Canada, and developed a sense for who is who by paying attention to little things that make them different.
+
+"I use individual characteristics — say, one bear has a nick in its ear or a scar on the nose," she said.
+
+But Clapham knows most people don't have her eye for detail, and the bears' appearances change dramatically over the course of a year — such as when they get winter coats and fatten up before denning — which makes it even harder to distinguish between, say, Toffee and Blonde Teddy
+
+Tracking individual bears is important, she explained, because it can help with research and conservation of the species; knowing which bear is which could even help with problems like figuring out if a certain grizzly is getting into garbage cans or attacking a farmer's livestock. Several years ago Clapham began wondering whether a technology typically used to identify humans might be able to help: facial recognition software, which compares measurements between different facial features in one image to those in another.
+
+Clapham teamed up with two Silicon Valley-based tech workers and together they created BearID , which uses facial-recognition software to monitor grizzly bears. So far, the project has used AI to recognize 132 of the animals individually.
+
+as a tool for identifying humans — and a controversial one at that, due to well-known issues regarding privacy, While facial-recognition technology knownas a tool for identifying humans — and a controversial one at that, due to well-known issues regarding privacy, accuracy, and bias — BearID is one of several efforts to adapt it for animals in the wild and on farms. Proponents of the technology, such as Clapham, say it's a cheaper, longer-lasting, less invasive (and with animals such as bears, less dangerous) way to track animals than, say, attaching a collar or piercing an ear to attach an RFID tag.
+
+Building a grizzly data set
+
+For Clapham, who's also a postdoctoral fellow at the Unversity of Victoria, this interest in combining bears and AI has been in the works for years. In 2017 she joined Wildlabs.net , which connects conservationists with those in the tech community. There, she quickly met Ed Miller and Mary Nguyen — two tech workers in San Jose, California (who happen to be married) who were interested in machine learning and watching grizzlies via live webcam at another popular bear hangout, Brooks Falls in Alaska's Katmai National Park.
+
+The trio has since gathered thousands of bear photos from Knight Inlet and Brooks River to create data sets, and adapted existing artificial intelligence software called Dog Hipsterizer (used, naturally, to add silly mustaches and hats to pictures of dogs) to spot bear faces in their images. Once the faces are detected, they can also use AI to recognize specific bears.
+
+"It does way better than we do," said Miller.
+
+So far, BearID has collected 4,674 images of grizzly bears; 80% of the images were used for training the facial-recognition system, Clapham said, and the remaining 20% for testing it. According to recently-published research from her and her collaborators, the system is 84% accurate. The bear you're trying to recognize must already be in the group's relatively small dataset, though.
+
+So far, BearID has collected 4,674 images of grizzly bears.
+
+Facial recognition on the ranch
+
+While BearID is putting names to faces in the wild, Joe Hoagland is trying to do likewise on cattle ranches. Hoagland, a cattle rancher in Leavenworth, Kansas, is building an app called CattleTracs that he said will enable anyone to snap pictures of cattle that will be stored along with GPS coordinates and the date of the photo in an online database. Subsequent photos of the same animal will be able to matched to the earlier photographs, helping track them over time.
+
+Beef cattle, he explained, pass through many different people and places during their lives, from producers to pasture operations to feed lots and then to meat packing plants. There isn't much tracking between them, which makes it hard to investigate problems like animal-based diseases that can devastate livestock and may harm people, too. Hoagland expects the app to be available by the end of the year.
+
+"Being able to trace that diseased animal, find its source, quarantine it, do contact tracing — all the things we're talking about with coronavirus are things we can do with animals, too," he said.
+
+CattleTracs, an upcoming app for monitoring cattle, uses facial recognition technology to tell the animals apart.
+
+Hoagland approached KC Olson, a professor at Kansas State University, who brought together a group of specialists at the school in areas like veterinary science and computer science in order to gather pictures of cattle to create a database for training and testing an AI system. They built a proof-of-concept system in March that included more than 135,000 images of 1,000 young beef cattle; Olson said it was 94% accurate at identifying animals, whether or not it had seen them before.
+
+He said that's far better than what he's seen with RFID tags and readers, which can work poorly when cattle are densely packed.
+
+"This is a major leap forward in accuracy," he said.
+
+Gold for poachers
+
+Although facial recognition for animals isn't fraught with the same privacy, bias, and surveillance issues as it is for people, there are unique issues to consider.
+
+For example, while surveillance technology could help protect animals, it may also be used against them. Tanya Berger-Wolf, co-founder and director of Wildbook.org , which is an AI platform for wildlife research projects, stressed the importance of controlling access to animal data to those who have been vetted.
+
+"What's great for scientists and conservation managers is also gold for poachers of wildlife," she said.
+
+That's because a poacher could use images of animals, coupled with data such as GPS coordinates that may be attached to the photos, to find them.
+
+There's also the difficulty of collecting a large number of images of individual animals — from multiple viewpoints, in different lighting conditions, without obstructions like plants, taken repeatedly over time — to train AI networks.
+
+Anil Jain, a computer science professor at Michigan State University, knows this better than most: He and his colleagues studied how facial-recognition software could be used to identify lemurs, golden monkeys, and chimpanzees — the hope was to help track endangered animals and halt animal trafficking. They released an Android smartphone app in 2018 called PrimID that let users compare their own primate photos to ones in their database.
+
+BearID software spots the face of a bear in an image.
+
+Jain, who is no longer working on that project, said gathering sufficient animal photos was particularly tricky — especially with lemurs, who may bunch together in a tree. Facial-recognition networks for humans, he noted, may be trained with millions of photos of hundreds of thousands of people; BearID has relied upon just a fraction as many so far, as did Jain's research.
+
+Clapham said she has more images of some bears than others, so her team is trying to get more of the bears that are less represented in the dataset. The researchers also want to stfart training their AI system on footage from camera traps, which are cameras equipped with a sensor and lights and placed in the wilderness where animals may wander by and trigger video recordings. They're considering how BearID could go beyond bears to other animals as well.
+
+"Really any species we can get good training data for we should potentially be able to develop this type of facial recognition for as well," Clapham said.

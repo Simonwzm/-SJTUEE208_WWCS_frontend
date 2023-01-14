@@ -1,0 +1,53 @@
+New York (CNN Business) In August 2019, when a Facebook employee typed "climate change " into the platform's search bar, the auto-fill suggestions that popped up included "climate change debunked" and "climate change is a hoax." The results prompted the employee to ask in a post on the company's internal site: "Do our policies combatting the spread of misinformation on Facebook apply to climate denialism?"
+
+More than a year later, in January 2021, a Facebook employee noted a similar concern when searching for "climate change" on the social network's video-on-demand service, Facebook Watch. The second result, according to the employee, was a video titled "Climate Change Panic is not based on facts." The video had been posted nine days earlier and already had 6.6 million views, according to another internal post.
+
+These examples were flagged byemployees on the company's internal site, according to documents reviewed by CNN Business. These were part of the hundreds of internal company documents included as evidence to support disclosures made to the Securities and Exchange Commission and provided to Congress in redacted form by Facebook whistleblower Frances Haugen's legal counsel. A consortium of news organizations, including CNN, reviewed the redacted versions received by Congress.
+
+The documents highlight how, for years, some employees of the social media company — which recently changed its name to Meta — have raised alarms about climate change misinformation spreading on its platforms, and called on the company to do more to crack down on it.
+
+There has long been public pressure on the social media company to take action on climate change misinformation. In March, CEO Mark Zuckerberg admitted to lawmakers that "climate misinformation ... is a big issue."
+
+This week, Meta announced additional climate-related efforts that coincided with the start of the COP26 Climate Summit, where world leaders gathered to discuss efforts to prevent catastrophic disruptions due to climate change. Meta was already facing heavy scrutiny following the leak of tens of thousands of pages of internal documents Haugen took from the company, now known as the "Facebook Papers."
+
+Although Facebook has taken a number of steps in recent years to address climate change misinformation, it has so far resisted calls to remove such content altogether, the way it does for Covid-19 or election misinformation. Instead, it has focused on efforts to promote good information and relies on third-party fact checkers to label false claims.
+
+On Monday, the company's VP of Global Affairs, Nick Clegg, announced in a blog post additional steps Facebook is taking to address climate change, including expanding informational labels on some posts about climate change to more than a dozen countries.
+
+But the company's own research has hinted at limitations with some of its strategy, including highlighting user trust and awareness issues with its Climate Science Center , a dedicated hub for climate change information that launched last year, the documents show. Some employees have also expressed concern that Facebook's current efforts aren't sufficient, documents show. In a comment on another internal post from earlier this year about the company's efforts to combat climate change — including by enabling people to raise funds to fight climate change on Instagram and Facebook — one employee said: "This is great work. Can we take it a step farther and start classifying and removing climate misinformation and hoaxes from our platforms?"
+
+Meta has repeatedly said the "Facebook Papers" paint a skewed picture of the company and its efforts. The company said the internal documents underscore "the reasons why we've launched our Climate Science Center and has informed our approach to connecting people with authoritative information about climate change from the world's leading climate change organizations."
+
+"As a result, more than 100,000 people are visiting the Climate Science Center every day and we're continuing to update it with new features and more actionable resources so people know how they can make a difference," Meta spokesperson Kevin McAlister said in a statement to CNN Business. He added that on Facebook Search and Watch, the company has removed climate denial suggestions and now directs users to the Climate Science Center and other authoritative information sources, and that misinformation makes up only a small percentage of all climate-related content on the company's platforms.
+
+Experts, however, say the stakes could not be higher for Facebook to further ramp up its solutions for this problem — and soon.
+
+"Given that [climate change] is an existential threat, we can't be casual about the seriousness about the threat of climate misinformation," said John Cook, a research assistant professor at the Center for Climate Change Communication at George Mason University. "It needs to be addressed with the same level of urgency and proactiveness that they're showing with Covid-19 and election misinformation."
+
+Facebook launched its Climate Science Center in September 2020 in an effort to provide users with authoritative information about climate change.
+
+The shortcomings of Facebook's climate misinformation strategy
+
+Facebook launched its Climate Science Center last fall in an effort to provide users with authoritative, reliable information about climate change and climate science. In September, it said the resource had expanded to 16 countries and was reaching more than 100,000 daily visitors. (Facebook had 1.93 billion daily active users as of that same month.) On Monday, the company said the Climate Science Center will soon be available in more than 100 countries.
+
+But the company's internal documents suggest there may be barriers to effectively countering misinformation with the Climate Science Center.
+
+"Facebook is a key place for people to get information related to climate change, so there is an opportunity to build knowledge through our platform," according to one internal report posted in April. However, the researchers found user awareness of the Climate Science Center was low. The report said 66% of users surveyed who had visited the center "say they are not aware" of it; 86% of those who hadn't visited it said they didn't know about it.
+
+The report also found that some users did not trust the information Facebook published in its Climate Science Center, especially US users. This tracks with research on the effects of climate misinformation, according to Cook.
+
+"Providing facts is necessary but it's insufficient to deal with misinformation," Cook said, adding that his and others' research has found that "misinformation can cancel out facts." For example, if a Facebook post says one thing and a fact-check label says another, it can leave a user confused and believing neither. An effective strategy to address climate misinformation "needs to be a mix of providing facts and countering misinformation with fact checking, but also there need to be efforts to reduce the spread of misinformation or to bring down misinformation," Cook said.
+
+Meta, however, says that research was meant to inform internal discussions but was not representative of its user base and therefore not to measure casual relationships between its users and real-world issues. It also notes that some outside research has found that, in general, people in the United States are less likely to believe in climate change than people from other countries. A Pew Research survey from last year, for example, found that the United States ranked among the bottom in a list of 14 developed countries in terms of its citizens believing global climate change is "a major threat" to their country.
+
+Facebook says it does "downrank," or reduce the spread, of climate change content that third-party fact checkers have labeled as false, and says "we take action" against pages, groups or accounts that regularly share false claims about climate science.
+
+"We work with a global network of over 80 independent fact-checking organizations who review and rate content, including climate content, in more than 60 languages," the company said in blog post Monday. "When they rate content as false, we add a warning label and move it lower in News Feed so fewer people see it. We don't allow ads that have been rated by one of our fact-checking partners."
+
+But it doesn't outright remove climate change misinformation — something it does do for misinformation about Covid-19, vaccines and elections.
+
+Zuckerberg explained that policy to lawmakers in a March hearing. "We divide the misinformation into things that could cause imminent physical harm, of which Covid misinformation that might lead someone to get sick ... falls in the category of imminent physical harm, and we take down that content. And then other misinformation are things that are false but may not lead to imminent physical harm, we label and reduce their distribution but leave them up," he said. 7
+
+However, environmental advocates say climate change does indeed present imminent threats to safety.
+
+"People around the US have faced harm from extreme events just in the last few months with Hurricane Ida and people dying, wildfires across the West and extreme heat in the Northwest," said Kathy Mulvey, accountability campaign director for the Climate & Energy team at the Union of Concerned Scientists. "Climate change is not a threat in the future, it's a reality in the present."

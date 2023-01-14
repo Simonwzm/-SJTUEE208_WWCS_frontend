@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190904103644-wework-chicago.jpg?q=x_31,y_407,h_1592,w_2830,c_crop/w_800

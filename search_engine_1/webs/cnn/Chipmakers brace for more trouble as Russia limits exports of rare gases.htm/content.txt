@@ -1,0 +1,67 @@
+After grappling with pandemic-fueled supply bottlenecks , chipmakers are facing a new headache: Russia, one of the world's biggest suppliers of gases used to make semiconductors, has started to limit exports.
+
+Moscow began restricting exports of inert, or "noble" gases, including neon, argon and helium to "unfriendly" countries at the end of May, according to a report by Russian state news agency TASS.
+
+All three gases are used to produce the tiny electronic chips found in a raft of consumer products, from smartphones to washing machines to cars, and which have been in critically short supply for months.
+
+It is one of the latest salvos by President Vladimir Putin against countries that have imposed a slew of sanctions on Moscow in response to his assault on Ukraine. Prior to the war, Russia and Ukraine together accounted for about 30% of the chip industry's supply of neon gas, according to consultancy Bain & Company.
+
+The export limits come just as the semiconductor industry, and its customers, were beginning to shake off the worst of the supply crisis. Last year, carmakers built 10 million fewer vehicles because of the chip shortage, according to LMC Automotive, but supplies were expected to improve in the second half of this year.
+
+"What we don't need, obviously, is another drama with the chip supply that could affect and perhaps stall a recovery," said Justin Cox, director of global production at the automotive consultancy.
+
+He told CNN Business that neon export limits were "worrying," but had not taken chipmakers by surprise. After Russia annexed Crimea from Ukraine eight years ago, the industry had been preparing for further supply disruptions from the region, he said.
+
+Chipmakers have been preparing
+
+Neon plays a critical role in the production of semiconductors, in a process called lithography. The gas controls the wavelength of light produced by a laser as it etches patterns onto the silicon wafers that make up the chip.
+
+Before the war, Russia collected raw neon as a byproduct in its steelworks, then sent it to Ukraine for purification. The two countries have been leading producers of noble gases since the days of the Soviet Union, when the superpower used them to build its military and space technologies, Jonas Sundqvist, senior technology analyst at Techcet, a market research company, told CNN Business.
+
+The conflict has caused lasting damage to capacity. Intense fighting in some of Ukraine's cities, including Mariupol and Odessa, two strategically important port cities, has destroyed industrial sites and made it extremely difficult to export goods from the region.
+
+"Now we have permanent loss of some purification capability in Mariupol and Odessa," Sundqvist said.
+
+But semiconductor manufacturers have been reducing their dependence on the region ever since Russia invaded Crimea in 2014.
+
+Peter Hanbury, a partner at Bain & Company's manufacturing practice for the Americas, told CNN Business that chip makers have redoubled their efforts in the wake of February's invasion.
+
+The industry's dependence on Ukraine and Russia for neon was "historically very high" at between 80% and 90%, Hanbury said. But since 2014, chipmakers have whittled that down to less than one third.
+
+"The industry recognized the risk associated with [the region] and began basically qualifying new sources, developing new countries and specific suppliers," he added.
+
+Price rises
+
+It is still too early to know how Russia's export restrictions will impact semiconductor makers.
+
+So far, the war in Ukraine has not impaired production of chips, Hanbury said.
+
+"I don't think we're going to see an impact for at least a few months... I do think that the impact that we see will likely be somewhat minimal," he said.
+
+However, even if chipmakers can replace lost supply from the region, they are likely to end up paying much more for the vital gases.
+
+It is difficult to track the price of neon and other gases, because most are traded under private long-term contracts, Sundqvist said. But Techcet estimates that neon contract prices have already increased fivefold since the invasion earlier this year, and will remain at those elevated levels in the near-term.
+
+"[Russia's export limits] will definitely have an impact on any new contracts," Sundqvist said.
+
+Samsung SSNLF South Korea, home to giant chipmaker, will feel the pain first, he added, because it is reliant on noble gas imports and — unlike the United States, Japan and Europe — lacks big gas companies which could ramp up production.
+
+Intel INTC Samsung overtooklast year as the biggest semiconductor maker by revenue, according to data compiled by Counterpoint Research.
+
+Micron Technology MU , another of the world's biggest chip manufacturers, told CNN Business that it has seen noble gas prices increase, but that it had "sufficient supply for the next few months" and does not expect to make any cuts to its production in the short term.
+
+"[We] are taking steps to secure additional supply for a longer period," a company spokesperson said.
+
+China could benefit
+
+Countries are now racing to build up their chipmaking capacity after two years that left them brutally exposed to the volatility of global supply chains.
+
+Intel has offered to help the US government with its plan, and earlier this year announced it would invest $20 billion in two new factories. Last year, Samsung also committed to building a $17 billion facility in Texas.
+
+More chipmaking will likely translate into higher demand for the noble gases.
+
+With Russia threatening to curtail its exports, China could be a big beneficiary. It has the "biggest, newest" production capacity, according to Sundqvist.
+
+Since 2015, the country has poured investment into its own semiconductor industry, including into the equipment needed to separate noble gases from other industrial products. China is now a net exporter of these gases, and claims to be self-reliant, he said.
+
+The world's demand for noble gases will likely concentrate on China, Sundqvist added, and the county will "get a good price for [its] product."

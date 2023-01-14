@@ -1,0 +1,99 @@
+Washington CNN Business —
+
+Twitter’s former head of security is blowing the whistle on company practices that he says have jeopardized US national security and misled investors and regulators. With a nearly 200-page disclosure to the US government, Peiter “Mudge” Zatko has become the latest whistleblower to come forward from the tech industry.
+
+Zatko levels a barrage of devastating allegations that US lawmakers who have received the disclosure say are extremely concerning. A highly respected cybersecurity expert with experience in senior roles at Google, Stripe and the Defense Department, Zatko claims Twitter (TWTR) (TWTR) is full of critical security flaws; may not be deleting the data of users who leave the platform as it is required to do; has misled the public about its spam account problem; may currently have foreign intelligence agents on the payroll; and that it hasn’t lived up to years of legal obligations stemming from an earlier privacy settlement with the Federal Trade Commission, which could lead to further liability.
+
+Here’s more on some of the top takeaways from Zatko’s disclosure.
+
+Twitter is riddled with security vulnerabilities.
+
+One of Zatko’s biggest allegations is that Twitter data is not secure. The company routinely lets thousands of employees — accounting for roughly half its workforce, and all its engineers — work directly on Twitter’s live product and interact with actual user data, the report alleges. That’s a big departure, Zatko claims, from the standard at companies like Google and Meta, where developers are required to use dummy data to perform coding and testing in specialized sandboxes that don’t touch the main products consumers use.
+
+This single fact, according to Zatko, creates a host of security problems: The potential for rogue employees to snoop on Twitter users’ information, or that a poorly coded update could make parts or all of the platform unusable, or that insider threats may give outsiders significant access to Twitter’s systems in ways that would not be possible at other companies. In multiple situations, Twitter learned that employees had intentionally installed spyware on their computers at the behest of third-party organizations, according to the disclosure. It is not clear how many employees may have been involved in the spyware incidents.
+
+Twitter headquarters in San Francisco, California, U.S., on Monday, July 19, 2021. David Paul Morris/Bloomberg/Getty Images
+
+This kind of expansive access is what contributed to a 2020 incident in which hackers gained control of high-profile accounts belonging to Joe Biden, Barack Obama, Elon Musk and a range of other powerful people. And it is responsible, Zatko alleges, for a dizzying rate of security incidents — approximately one per week — that the public may not hear about but that are so serious the company is obligated to report them to authorities like the Federal Trade Commission and Ireland’s Data Protection Commission.
+
+Zatko also alleges Twitter does not reliably delete users’ data after they cancel their accounts, in some cases because the company has lost track of the information, and that it has misled regulators about whether it deletes the data as it is required to do.
+
+In response to more than 50 specific questions from CNN regarding the disclosure, Twitter said members of its engineering and product teams are authorized to access Twitter’s platform if they have a specific business justification for doing so, but that members of other departments — such as finance, legal, marking, sales, human resources and support — cannot. The company also said it uses automated checks to ensure laptops running outdated software cannot access the production environment, and that employees may only make changes to Twitter’s live product after the code meets certain record-keeping and review requirements.
+
+Twitter’s employees use devices overseen by other IT and security teams with the power to prevent a device from connecting to sensitive internal systems if it is running outdated software, Twitter added.
+
+And it has created internal workflows to ensure users know that when they cancel their accounts, Twitter will deactivate the accounts and start a deletion process, Twitter said. Twitter declined to say whether it typically completes the process.
+
+Twitter could easily calculate a better metric to estimate spam accounts, but it chooses not to.
+
+Zatko’s disclosure could give Elon Musk more ammunition to claim Twitter is being evasive about bots — an argument Musk has put forward to justify wanting to back out of buying Twitter for $44 billion.
+
+Video Ad Feedback 04:11 - Source: CNN Business What the Twitter whistleblower disclosure says about Elon Musk and bots
+
+For years, Twitter has said in investor filings that fake or spam accounts represent less than 5% of the daily active users Twitter believes it can monetize with advertising. But Zatko’s disclosure claims the statistic might not present a full picture of the number of spam accounts on the platform, because it does not represent spam accounts as a percentage of all accounts on Twitter — merely as a subset of some selected Twitter users the company finds commercially meaningful.
+
+In 2021, Zatko says Twitter’s site integrity chief told him the company doesn’t really know how many bots there may be on Twitter. Executives had no incentive to find out, Zatko alleges in the disclosure, because “they were concerned that if accurate measurements ever became public, it would harm the image and valuation of the company.”
+
+In light of that allegation, a tweet in May by Twitter CEO Parag Agrawal claiming the company is “strongly incentivized to detect and remove as much spam as we possibly can, every single day,” is a flat-out “lie,” Zatko’s disclosure says.
+
+Twitter has told CNN that the claim it doesn’t know how many bots are on its platform lacks context, reiterating that not all bots are bad and adding that to focus on the total number of bots on Twitter would include those the company may have already identified and taken action against. The company also does not believe it can catch every spam account on the platform, Twitter said, which is why it reports its less-than-5% figure, which reflects a manual estimate, in its financial filings.
+
+Twitter did not respond to Zatko’s allegation about Agrawal’s tweet being a lie.
+
+Some or all of Twitter’s services could be forced offline, perhaps forever.
+
+Partly due to its cybersecurity issues, Zatko’s disclosure says, Twitter’s data centers are constantly at risk of going down. And the company has misrepresented its ability to recover from simultaneous data center outages, Zatko alleges. More than half of Twitter’s 500,000 servers run on outdated software, the report claims; many allegedly lack basic security standards such as the ability to encrypt stored data, while other servers no longer receive vendor support because the software they run on is too old.
+
+Peiter Zatko, known as Mudge in the computer hacking community, poses for a portrait on August 22. Sarah Silbiger for CNN
+
+If multiple data centers fail at the same time, Twitter’s lack of a comprehensive recovery process could make it a potentially catastrophic incident forcing Twitter to shut down for months or even permanently in an “existential company ending event,” according to the disclosure.
+
+Twitter also hasn’t paid for the intellectual property rights to all the datasets that train its artificial intelligence, the disclosure alleges. As a result, Zatko claims, some of Twitter’s core features, such as the recommendation algorithm that decides what tweets to show to users, may be operating illegally.
+
+If the companies that supply the data ever sued to enforce their rights, it could lead to steep financial losses for Twitter and potentially even force it to stop offering the features the alleged infringement helped create, according to the disclosure.
+
+Twitter did not respond to Zatko’s allegations about data center outage risks or intellectual property violations.
+
+Twitter is vulnerable to foreign exploitation and may even now have foreign spies on its payroll.
+
+Due to Twitter’s weak overall cybersecurity stance, foreign governments that gain access to the company — or that can find leverage against it — could do enormous damage to US interests and national security, the disclosure alleges.
+
+The threat is not theoretical, according to the report. It claims that shortly before Zatko was fired from Twitter in January, the US government gave Twitter a specific tip that one or more of its employees was working for a foreign intelligence agency.
+
+It’s not clear whether Twitter knew, or if it has acted on the information. But it would not be the first time: The disclosure is being made public just days after a jury convicted a former Twitter employee of spying for Saudi Arabia. That incident, which was uncovered in 2019, predates the tip described in the disclosure.
+
+The disclosure also alleges that Agrawal, while he was Twitter’s chief technology officer and in the months before Russia’s invasion of Ukraine, proposed making concessions to Russia that could have helped the company grow in the country at the cost of allowing broad-based censorship or surveillance of the platform.
+
+The Twitter Inc. logo is seen on coffee mugs inside the company's headquarters in San Francisco, California, U.S., on Friday, Sept. 19, 2014. David Paul Morris/Bloomberg/Getty Images
+
+“The fact that Twitter’s current CEO even suggested Twitter become complicit with the Putin regime is cause for concern about Twitter’s effects on U.S. national security,” the disclosure reads.
+
+The disclosure also claims that Twitter has taken money from Chinese sources and shared information in return that could potentially lead to the identification of Chinese Twitter users who have illegally circumvented government censorship in order to access the platform. Executives are aware of the risk but believe the company is too reliant on the money to stop taking it, the disclosure says.
+
+Additionally, Zatko claims that India has “forced” Twitter to hire government agents who would have wide-ranging access to internal Twitter systems, and that the company has not disclosed the fact in its transparency reports. Twitter’s tensions with India have run high as civil rights experts have said the country has increased digital authoritarianism amid the pandemic.
+
+Twitter did not respond to Zatko’s allegations concerning China, Russia, India or the US government tip. A person familiar with the matter, and with Zatko’s tenure at Twitter, told CNN the Indian agents Zatko describes are government-mandated roles the country requires of tech platforms under its local laws.
+
+Twitter is violating its many commitments to the FTC.
+
+Zatko’s disclosure alleges “extensive, repeated [and] uninterrupted” violations of federal law barring unfair or deceptive business practices.
+
+In his disclosure to the US government, Zatko claims Twitter deliberately misled regulators about its handling of user data and that the company is not living up to its obligations under a 2011 privacy settlement with the Federal Trade Commission — a legally binding order that requires, among other things, the creation of “reasonable safeguards” to protect users’ personal information.
+
+Twitter has knowingly misled regulators, including the FTC, that ask whether Twitter deletes the data of users who cancel their accounts, according to the disclosure. The company has told regulators it “deactivates” the accounts, but can’t truthfully say it deletes the data because in some cases the company has lost track of it, Zatko alleges. Twitter also knowingly misled the FTC and French regulators on its intellectual property rights violations, the disclosure claims.
+
+The report says user security data — such as email addresses and phone numbers — were actively being misused for advertising purposes even as Twitter and the FTC were already negotiating a settlement in 2020 to resolve a prior instance of that very same type of misuse.
+
+The disclosure raises concerns about how Twitter handles user data. Adobe Stock
+
+Claims that Twitter mishandled user data and deliberately misled regulators; that it failed to develop robust cybersecurity practices; and even that it failed to fill a key information security job in a timely manner all reflect violations of either the Federal Trade Commission Act or a 2011 FTC settlement that required Twitter to better protect user privacy, according to the disclosure.
+
+One of the key requirements of the 2011 consent order was that Twitter implement a “uniform process to develop and test software,” according to the report. Ten years on, and Twitter has only a template for that process, rather than an actual process, and it covers just 8% to 12% of company projects, the disclosure says.
+
+When he arrived at Twitter, Zatko’s subordinates told him “unequivocally that Twitter had never been in compliance with the 2011 FTC Consent Order, and was not on track to ever achieve full compliance,” the disclosure says.
+
+The FTC settlement was supposed to force Twitter to shape up after hackers in 2009 gained access to internal Twitter systems. Instead, “things actually got meaningfully worse,” the disclosure claims. A finding that Twitter has violated its FTC order could lead to billions in new fines and draconian new obligations, legal experts say.
+
+Twitter told CNN its FTC compliance record speaks for itself, citing third-party audits filed to the agency under the 2011 consent order in which it said Zatko did not participate. Twitter also said it is in compliance with relevant privacy rules and that it has been transparent with regulators about its efforts to fix any shortcomings in its systems.
+
+Zatko’s allegations are based in part on a failure to grasp how Twitter’s existing programs and processes work to fulfill Twitter’s FTC obligations, the person familiar with Zatko’s tenure told CNN, saying that that misunderstanding has prompted him to make inaccurate claims about the company’s level of compliance.

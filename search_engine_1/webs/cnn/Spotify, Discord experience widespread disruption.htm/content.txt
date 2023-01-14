@@ -1,0 +1,17 @@
+(CNN Business) Spotify and Discord experienced disruptions to their services on Tuesday.
+
+Severalusers reported being automatically logged out of their accounts.
+
+"Something's not quite right, and we're looking into it," the company tweeted
+
+At roughly the same time, messaging platform Discord reported a partial outage. "We're aware of an issue causing message failures and are working on a fix," the company said in a tweet , apologizing to users for the disruption.
+
+Around two hours after the issues were first reported, both Spotify and Discord said they were resolved.
+
+"Many customers were recently having problems logging in and reaching customer support," Spotify said on Twitter . "Things are looking better, but if you're still having issues, please reach out to us again."
+
+Discord tweeted that its messages, calls and streams were "back up and running."
+
+"We are still working on a few things like attachments and typing events, but those should come back online soon," the company added.
+
+Neither company revealed the cause of their respective outages.

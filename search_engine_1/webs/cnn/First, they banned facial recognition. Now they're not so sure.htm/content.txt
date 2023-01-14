@@ -1,0 +1,49 @@
+(CNN Business) Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback.
+
+There are no federal laws governing the use of facial-recognition technology, which has led states, cities, and counties to regulate it on their own in various ways, particularly when it comes to how law enforcement agencies can use it.
+
+Generally, there are two types of facial-recognition software: one compares a photo of a person to those in a database of faces looking for a likely match (the kind of software police might use when investigating a crime, such as that sold by Clearview AI ), while the other compares a photo of a person to one other image (the kind that is used when you open your iPhone with your face).
+
+The technology has been used increasingly across the United States in recent years, but it has also been blasted by privacy and digital rights groups over privacy issues and other real and potential dangers: The technology has been shown to be less accurate when identifying people of color, and several Black men, at least, have been wrongfully arrested due to the use of facial recognition.
+
+To Adam Schwartz, a senior staff attorney at the Electronic Frontier Foundation, the bans and subsequent changes represent a "pendulum swing."
+
+An NOPD officer stands before an empty Bourbon Street on February 16, 2021 in New Orleans, Louisiana.
+
+Roughly two dozen facial-recognition bans of various types have been enacted in communities and a few states across the United States since 2019 . Many of them came in 2020; as Schwartz pointed out, there was a push in favor of limiting police use of surveillance technology surrounding the protests that came in the wake of the fatal arrest of George Floyd by Minneapolis police officers in May of that year. Then, in the past year, "the pendulum has swung a bit more in the law-and-order direction," he said.
+
+"In American politics there are swings between being afraid of government surveillance and being afraid of crime. And in the short term there seems to have been a swing in favor of fear of crime," he said, adding that the EFF is "optimistic" that the overall trend is toward limiting government use of such surveillance technologies.
+
+Reversals in New Orleans and Virginia
+
+When New Orleans approved a ban of facial-recognition technology in late 2020 as part of a broader ordinance to regulate numerous surveillance technologies in the city, six of the seven council members at the time voted in favor of it (one was absent). By contrast, when the votes were tallied in July for the ordinance that would allow police to use facial-recognition technology, four council members voted for it and two voted against it (one counsel member was absent).
+
+The turnabout less than two years later comes after a rise in homicides , following a decline from 2016 to 2019.
+
+The new rule lets city police request the use of facial-recognition software to aid investigations related to a wide range of violent crimes, including murder, rape, kidnap, and robbery.
+
+In a statement applauding the city council's July 21 vote in favor of facial-recognition technology, New Orleans mayor LaToya Cantrell said, "I am grateful that the women and men of the NOPD now have this valuable, force multiplying tool that will help take dangerous criminals off our streets."
+
+Yet Lesli Harris, a New Orleans city council member who opposed the July ordinance, is concerned about how the legislation could impact the civil rights of people in the city. "As a woman of color it's hard for me to be in favor of facial recognition," Harris said, pointing out that studies that have shown that the technology can be less accurate at recognizing people of color, and women of color in particular.
+
+reverses that 2021 rule by allowing the use of the technology by local and campus police in certain situations. In Virginia, legislation that went into effect last July banned local law enforcement and campus police from using facial-recognition technology unless the state legislature first passed a rule allowing it. The state's 2022 legislation , which became effective in July, essentiallyreverses that 2021 rule by allowingthe use of the technology by local and campus police in certain situations.
+
+Scott Surovell, a Virginia state senator who introduced the newer rule, said it is meant chiefly as a "lead generator" that police would have to independently corroborate before arresting a suspect. He also pointed out that, while the 2021 legislation stopped local police from using facial-recognition software, it didn't prevent Virginia state law enforcement from doing so, or from using it on behalf of local police.
+
+The 2022 legislation requires police agencies using facial-recognition software to publish a report each year about how it is being used. It also requires that police only use facial-recognition software that has been deemed at least 98% accurate across all demographics measured by the National Institute of Standards and Technology, a branch of the US Commerce Department whose functions include measuring the accuracy of facial-recognition algorithms that companies and researchers submit to its lab.
+
+Seeking more guardrails
+
+It's still largely unknown how often facial-recognition technology is being used and where in the United States. The US government has embraced it for years and Clearview AI alone has said it counts over 3,100 US agencies among its customers, including the FBI, Department of Homeland Security, and "hundreds of local agencies."
+
+Surovell hopes more rules will be passed to regulate the technology in other states, similar to how law enforcement use of technologies such as radar, breath testing, and substance analysis are already regulated.
+
+"I think it's important for the public to have faith in how law enforcement is doing their job, that these technologies be regulated and there be a level of transparency about their use so people can assess for themselves whether it's accurate and or being abused," he said.
+
+But if recent developments are any indication, getting there may be a bumpy ride.
+
+In New Orleans, an amendment that Harris and two other council members supported that would set guardrails regarding how facial-recognition technology can be used by the city's police department — such as requiring court approval each time it is used and monthly reports about how it has been used — failed in July. Chris Kaiser, advocacy director for the ACLU of Louisiana, said he was concerned about this, in addition to the change in the city's rules regarding the use of facial-recognition software in general.
+
+"We can't understand why you would object to these safeguards," he said.
+
+The trio of New Orleans council members tried a second time on Thursday: Their proposed amendment — which was modified in several ways, including removing the need for judicial approval before the use of the technology and requiring quarterly, rather than monthly, reports regarding its use — was voted on once again. This time, it passed.

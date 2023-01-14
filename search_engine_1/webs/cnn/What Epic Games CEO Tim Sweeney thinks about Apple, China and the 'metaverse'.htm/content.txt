@@ -1,0 +1,63 @@
+The Epic Games CEO has been mounting a relentless attack on Apple, after the tech giant kicked his company's hugely popular video game Fortnite off the App Store. Apple said at the time that Epic flouted rules on digital payments by establishing its own system.
+
+Epic sued Apple in response, kicking off a highly public trial . Apple has argued that its rigid payments system exists to protect the security and privacy of its developers and customers, and that it's only a small part of the video game market — and therefore has no monopoly.
+
+Sweeney sees things differently. Companies likeand, he argues, wield enormous power over the app market. Their control prevents consumers and companies from choosing how they do business.
+
+The case is still working its way through US courts, but in September a judge ruled that Apple could no longer prohibit app developers from directing users to payment options outside its App Store. Still, the judge stopped short of calling Apple a monopoly, and the company has barred Fortnite from its devices until the legal battle finishes, which could delay the game's return to iPhones by several years.
+
+CNN Business caught up with Sweeney in Seoul, where he was attending the Global Conference for Mobile Application Ecosystem Fairness — an event hosted by South Korean lawmaker Jo Seounglae. The country recently enacted a law that allows app developers to use alternative payment systems.
+
+Facebook FB We asked Sweeney questions about that law, as well as his ongoing fight with Apple, Fortnite's failed foray into China and his thoughts on the "metaverse," the virtual worldsees as its future. Our Q&A has been condensed and lightly edited for clarity.
+
+South Korea recently passed a bill banning mandatory in-app purchases and ordering tech companies to allow alternative payments. What did you think?
+
+Samsung SSNLF I was very happy to see that Korea was taking the leadership role, initially. Korea is one of the leading technology powerhouses in the world, withand all the great game developers around Korea. It's great to see Korea really defending developers, including all the Korean developers against these bad practices [by] Apple and Google.
+
+How much business and revenue has Epic Games lost as a result of getting kicked off Apple's ecosystem?
+
+Fortnite had made hundreds of millions of dollars, and with Fortnite being off of iOS, it's losing that much now. But fortunately, Fortnite is also successful on personal computers and game consoles. So the business continues to be strong, despite being off of iOS.
+
+But it just shows how much power Apple wields and is able to completely eliminate a game's existence on iOS. No platform company should have that power, right? Consumers should be free to install software. And developers should be free to create software, and the platform company should never stand in between them.
+
+Do you have any regrets about how the legal battles with Apple and Google have played out?
+
+We always knew it would be a slow and complex case. Both Apple and Epic realized from the beginning that whatever happened within the District Court ... the decision would be appealed to the Ninth Circuit Court in the United States, and, if possible, to the United States Supreme Court, to ultimately make the decision. And so, it was inevitable that this would take many years.
+
+Do you have anything to say to the people who have influence over this issue in the United States?
+
+Ultimately, this is a battle for consumer rights. Though the disputes are mostly between companies and governments, it's about the right of a smartphone owner to be able to install software from sources of their choosing, and to do business directly with developers without the platform company adding taxes and fees to every transaction. ... It's about the basic freedom of everybody to do business together directly if they choose.
+
+I think it's the most important fight for digital rights in the industry right now. Because more and more of our lives are moving online and becoming digital — all of our digital interactions are increasingly controlled by Google and Apple.
+
+If we allow the world's two most powerful corporations to control our online lives, it'll become a force that's more powerful than the government itself.
+
+Epic spent a long time working on Fortnite's launch in China, but it didn't happen. Was that time and effort worth it?
+
+I'm glad we tried. There's always been a lot of uncertainty about the future of US-China relations, and unfortunately, they've been strained for the past few years. And we just didn't see a realistic likelihood of being able to receive approval to launch in China. So we gave up trying , but I think it was a good effort.
+
+The team did a wonderful job, and I wish there had been a way, but I think there's just going to be a long period in which there's a separation between consumer services inside China and globally.
+
+What is the "metaverse" to you?
+
+It is real time 3D entertainment experiences that are social. It's you and your friends together in a 3D world, having fun in lots of different ways. You can be playing games like Fortnite Battle Royale, you can be going to concerts, you can be dancing, or you can just be standing around and chatting. It's all the sorts of social interactions we can have in real time 3D together with our group of friends.
+
+What kind of future do you envision in the metaverse? Is it really going to be a game changer, like the internet was when it was introduced?
+
+I think it will take a decade or more to really get to the end point, but I think that is happening. And it will be a better online experience than we're having today. It will succeed because it's better.
+
+The metaverse doesn't require fancy new hardware. It doesn't require all that reality hardware or [virtual reality] or things that haven't been invented yet. You can get online and start experiencing this right now.
+
+The next step of this metaverse evolution is to open up broader experiences to bring in the next billion users.
+
+What are some of the biggest hurdles to making it happen?
+
+The metaverse isn't going to be created by one company. It will be created by millions of developers each building out their part of it.
+
+Another challenge is building the economy. In order to have millions of developers building for the metaverse, you need to have a business where they can make as much or more money from that effort, developing software to support their businesses.
+
+We need to win the fight against platform monopolies, because Apple and Google currently have rules in place to prevent the metaverse from existing on the Google Play Store and on iOS. They have rules that prevent web browsers from existing — you're only allowed to use their web browser.
+
+They don't allow commerce to be done directly with users. They don't allow code to be run on your local device if it hasn't been reviewed by Apple and Google. The metaverse needs to support all of these things, so we really need to win this battle to open up platforms before the metaverse can truly exist.
+
+-- Rishi Iyengar and Jill Disis contributed to this report.

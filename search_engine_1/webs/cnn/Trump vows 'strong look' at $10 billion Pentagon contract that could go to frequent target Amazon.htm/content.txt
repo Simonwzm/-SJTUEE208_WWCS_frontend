@@ -1,0 +1,29 @@
+Washington CNN Business —
+
+President Trump said Thursday he intends to scrutinize a plan by the Pentagon that could end in a multi-billion dollar contract being awarded to Amazon (AMZN).
+
+Trump told reporters his administration has been receiving “tremendous complaints” about the proposed contract, which aims to provide the military with a cloud computing system.
+
+The complaints, Trump said, are coming from Amazon’s biggest rivals, including IBM (IBM), Microsoft (MSFT) and Oracle (ORCL), and that his administration will “take a very strong look” at the procurement effort. Lawmakers including Sen. Ron Johnson (R-Wisc.) raised the issue privately with Trump last week, according to Bloomberg.
+
+Microsoft and Amazon are the two remaining finalists for the contract, which is expected to be awarded within weeks and could be worth $10 billion over a decade. Amazon didn’t immediately respond to a request for comment. In a statement, IBM said it has “long raised serious concerns” about the contract’s structure, arguing that multiple cloud providers should be allowed to supply the Pentagon, not just one. Oracle and Microsoft declined to comment.
+
+Photo Illustration: Getty/Shutterstock/CNNMoney
+
+Trump’s remarks risk inflaming an already contested process. For months, Oracle has argued that the Defense Department’s procurement process was set up to give an advantage to Amazon Web Services, the e-commerce giant’s cloud computing arm.
+
+Oracle lodged complaints with the Government Accountability Office and even filed a lawsuit alleging that the process was riddled with conflicts of interest. The suit zeroed in on Pentagon employees who in some cases worked at Amazon, then worked on the military’s cloud computing initiative, then went back to working for Amazon.
+
+Despite the complaints, Pentagon audits concluded there was no conflict of interest, and the lawsuit was dismissed by a judge for the US Court of Federal Claims. Amazon has accused Oracle of distorting the facts and making baseless claims.
+
+IBM filed its own protest with the GAO, saying the contract’s “primary flaw” lies in the fact that only one company can win the deal.
+
+That approach “also would give bad actors just one target to focus on should they want to undermine the military’s IT backbone,” IBM said in a blog post last year. “The world’s largest businesses are increasingly moving in a multi-cloud direction because of security, flexibility and resilience; the Pentagon is moving in precisely the opposite direction.”
+
+Trump’s personal involvement in the contract would be unusual; senior government officials do not typically intervene in agency procurement matters.
+
+But Trump is a frequent critic of Amazon CEO Jeff Bezos and his companies. He has slammed Amazon over the shipping prices it receives from the US Postal Service, and has complained that the company does not pay enough in taxes. (Amazon in recent years has reported $0 in federal income tax obligations; experts say the company was able to whittle down its tax liability by using loopholes that were not closed by the Republican-led tax overhaul of 2017.) And Trump has also frequently targeted The Washington Post, which is owned by Bezos, accusing the outlet of being a lobbyist for Amazon.
+
+On Thursday, Trump called IBM, Oracle and Microsoft “some of the greatest companies in the world” — and vowed to look into the cloud procurement matter because “I have very few things where there’s been such complaining.”
+
+Trump’s warning to Amazon may add to the e-retailer’s challenges in Washington, where policymakers have increasingly raised questions about its power and dominance in the internet ecosystem. On Wednesday, lawmakers at a House Judiciary subcommittee hearing repeatedly pressed an Amazon lawyer to explain whether the company uses data from its third-party sellers to undercut them and give an advantage to Amazon’s own products. (Regulators in Europe announced an Amazon investigation into that very subject on Thursday.)

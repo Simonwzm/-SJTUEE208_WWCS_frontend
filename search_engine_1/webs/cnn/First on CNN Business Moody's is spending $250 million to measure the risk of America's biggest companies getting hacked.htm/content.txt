@@ -1,0 +1,11 @@
+(CNN Business) Moody's is spending hundreds of millions of dollars to better evaluate the cybersecurity risks that face America's largest corporations.
+
+The announcement from the company — whose credit ratings can influence global markets — comes as Biden administration officials are urging major firms to be more transparent about the security of their software. Several high-profile supply-chain hacks and ransomware attacks have rattled businesses and other organizations over the past year, costing companies millions of dollars and compromising their operations.
+
+To better assess the risks that ransomware and other digital threats pose to Fortune 500 firms and government agencies, Moody's is investing $250 million in BitSight, which uses an algorithm to assess the likelihood that an organization will be breached. Moody's shared the news first with CNN Business.
+
+As part of the deal, Moody's will become the largest minority shareholder in Bitsight. In addition, BitSight will acquire a cyber risk rating system created by Moody's and Team8, a company which bills itself as a "think tank" focused on global cybersecurity issues.
+
+"There's just a lot of opacity around cyber risk," Moody's CEO Rob Fauber told CNN Business. "You have compromises that have serious operational and organizational implications. It's affecting a broader range of industries and the stakes are higher than they've ever been."
+
+Read More

@@ -1,0 +1,11 @@
+(CNN Business) For years, video gamers have blamed shortages of PC graphics cards on cryptocurrency enthusiasts, who have snapped up growing numbers of the devices to generate digital coins. The pandemic, along with the Trump administration's tariffs on Chinese imports, have only made the situation worse, leading to skyrocketing retail and aftermarket prices.
+
+Now, US securities regulators say the graphics card giant Nvidia knew cryptocurrency miners had been eating into sales of cards meant for gaming — and thus potentially contributing to supply issues — but had illegally withheld that fact from investors who repeatedly asked about crypto mining's impact on Nvidia's gaming segment.
+
+In a cease-and-desist order on Friday, the Securities and Exchange Commission said Nvidia would pay $5.5 million to settle the allegations of inadequate disclosure, adding in a release that the company's "omissions of material information ... were misleading." Nvidia declined to comment for this story.
+
+The order marks yet another sign of the SEC's emerging focus on virtual currencies; the agency separately announced this week it is hiring another 20 people to investigate and prosecute cryptocurrency fraud and cybercrime. It also validates concerns that PC gamers have been increasingly forced to compete with the cryptocurrency industry as generating coins such as Ethereum has grown more computationally demanding.
+
+The SEC's allegations zero in on Nvidia's quarterly reports in fiscal year 2018, when graphics cards began being used to mine virtual currencies. As the value of currencies such as Ethereum grew, "some of NVIDIA's sales personnel expressed their belief that much of the increased demand of the company's Gaming products, primarily in China, was being driven by cryptomining," the SEC order said.
+
+Read More

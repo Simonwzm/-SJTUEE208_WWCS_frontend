@@ -1,0 +1,45 @@
+San Francisco CNN Business —
+
+Last week, photo-editing app FaceApp went viral as people flocked to its aging feature. Faux-elderly photos of celebrities spread on social media, and it became the top free app in Apple’s App Store.
+
+But privacy concerns quickly grew around the app’s terms of service. Anyone who agreed to the terms gave FaceApp access to their photos, name and likeness.
+
+A section of the terms said users grant the company “irrevocable” access to “use, reproduce, modify, adapt, publish … distribute” any name, username or likeness provided.
+
+Its viral success showed how little people scrutinize companies’ terms and conditions or privacy policies before giving them access to sensitive information. The issue is hardly limited to FaceApp: Users of services including Facebook (FB), Google (GOOG) and Amazon (AMZN) often agree to similar terms without reading them.
+
+So who owns your uploaded photos and what can you do to take back your rights?
+
+Read the terms of service
+
+If a company says it owns your data and you agreed to their terms, and their terms hold up, then they own your data, according to Melissa Brekke, an attorney at Gunderson Dettmer who drafts and reads these policies regularly.
+
+“Nothing is a for sure guarantee. There can always be an argument that [a company] has gone too far or that it doesn’t have all the rights they think they have for whatever reason,” Brekke told CNN Business. “Also, often times even if a company grants itself rights to your data they also may include information about how you can have it deleted.”
+
+If you’ve downloaded an app or visited a website and are concerned about your personal information, there are steps you can take to try to revoke access to it.
+
+Revoking an app’s access to personal information or a feature, such as your camera, is another way to limit sharing your data. But this isn’t retroactive; it’ll just cut off its access to new data moving forward.
+
+“[When] you delete an app, it just means you can’t use it anymore,” said Jen King, Director of Consumer Privacy at Stanford Law School’s Center for Internet and Society.”The company doesn’t know you deleted the app. They’re completely unaware and it does nothing to get back the data you sent them.”
+
+Ask the company to delete your info
+
+One step people can take is to submit a formal request to a company to have their info deleted. Not all companies allow people to do this, but even for those that do, it’s not necessarily a straightforward process. For example, FaceApp lets users submit a written request through its app to wipe their records. However, it’s unclear how quickly this occurs. FaceApp did not respond to a request for comment.
+
+Another option is the legal route to resolve the issue in court. If a company didn’t do certain things such as send notices about updated policies or get people to affirmatively click to agree to its terms, a stronger case could be made against its terms. Displaying a policy as just a link at the bottom of a website, using too small a font or pre-checking the consent box can also work to consumers’ benefit, according to Brekke.
+
+She said it’s often technically difficult for companies to truly delete your data.
+
+“[It] requires them knowing all the places they store your data, being able to tie all the data they have about you to your request and having the back-end capabilities to successfully delete it,” she said.
+
+Facebook, for example, says on its website that it may take up to 90 days to completely delete everything someone has posted. Also, some companies may only delete select data. In a letter to Senator Chris Coons in June, Amazon said it will delete Alexa-related voice recordings at a customer’s request but may still keep people’s data related to things such as purchases and reminders.
+
+What the law says
+
+In some jurisdictions, such as the European Union, companies are legally obligated to comply with deletion requests. That’s because the EU’s General Data Protection Regulation, which took effect in May 2018, imposes much tougher data privacy rules on companies and requires them to consent with such requests with only a few exceptions. In January 2020, the California Consumer Privacy Act will grant similar rights to residents of the state.
+
+Ahead of both laws, companies had to make sure their platforms were capable of responding to deletion requests, according to Brekke. For people who aren’t covered by those laws, it’s even more important to understand what’s in a company’s policies before agreeing to them.
+
+In the case of FaceApp, its privacy policy is really standard. But the terms of use section has a very broad license “that does seem very concerning,” according to Brekke.
+
+“Users have granted FaceApp an irrevocable license to do whatever they want with any user content they’ve uploaded,” she said. “They don’t own your photos technically, but they basically have unrestricted rights to them.”

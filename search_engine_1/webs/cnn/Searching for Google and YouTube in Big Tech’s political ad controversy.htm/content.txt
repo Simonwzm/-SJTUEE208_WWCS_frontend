@@ -1,0 +1,29 @@
+CNN Business —
+
+You’d be forgiven for thinking that the only tech platform that allows politicians to run false ads is Facebook.
+
+The company has faced an onslaught of criticism from Congress, Democratic presidential candidates, the media, and even its own employees.
+
+Twitter (TWTR) CEO Jack Dorsey was initially applauded last week when he announced his company would stop taking political ads entirely — likely a result of, and further contributing to, the battering Facebook was getting. But that enthusiasm soon turned to concern when people realized it could mean advocacy and activist groups might no longer be able to advertise on the platform.
+
+But both Facebook (FB) and Twitter — for better or for worse — have taken a stand and have publicly explained and defended their policies.
+
+Google (GOOG), on the other hand, has stayed largely silent and out of the spotlight — even as it too allows politicians to run ads containing false claims.
+
+When President Donald Trump’s reelection campaign created the ad falsely accusing former Vice President Joe Biden of corruption for his role in Ukraine policy during the Obama administration that set off the current controversy over digital ads, Facebook, Twitter, and YouTube all ran it.
+
+The Trump campaign spent somewhere between $100,000 and $200,000 promoting a YouTube video of the ad. The ad was seen between 10 and 30 million times, according to Google’s political ad database.
+
+A YouTube spokesperson told CNN Business the ad did not break its rules.
+
+“We don’t have special exceptions for political ads - all ads that run on our platform have to comply with our ads policies, and all political ads are included in our Transparency Report and Ads Library,” the YouTube spokesperson said.
+
+The spokesperson pointed to Google Ads’ policies, which seemingly also apply to YouTube. A section of that policy reads, “We don’t want users to feel misled by ads, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We don’t allow ads or destinations that intend to deceive users by excluding relevant information or giving misleading information about products, services, or businesses.”
+
+CNN Business asked the YouTube spokesperson multiple times to explain why the false Trump ad attacking Biden did not break those rules. The spokesperson did not provide an answer.
+
+The Wall Street Journal reported Wednesday that Google was considering change to its policy. CNN Business has reached out to Google for comment.
+
+Facebook, perhaps because of its perceived ubiquity, may continue to get the most scrutiny. The company is often used as a way to scrutinize issues in Silicon Valley that go far beyond them — or, in the view of some Facebook employees, as a scapegoat.
+
+To some extent that is what has happened here. Facebook has, to coin a phrase, leaned in to this debate, with executives like Nick Clegg and even Mark Zuckerberg giving public speeches that have made the company a target. And it is the digital outlet on which the most ad dollars from presidential campaigns are spent. But that does not mean it is the only company that will have to address the concerns about this issue, and soon.

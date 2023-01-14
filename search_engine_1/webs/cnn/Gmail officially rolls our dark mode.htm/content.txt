@@ -1,0 +1,17 @@
+New York CNN Business —
+
+The highly-anticipated dark theme option for Gmail is now rolling out to Android and iOS users.
+
+The new appearance, which flips the default white background in Gmail to black, will begin rolling out immediately, according to a Google blog post. However, it may take 15 days or longer for some users to see the feature, according to the company.
+
+Dark mode is a preferred appearance for some users because it’s easier on the eyes. The company says it also prolongs battery life; darker pixels require less power than lighter ones.
+
+The move is part of a larger trend: It’s become increasingly popular on several platforms and devices, including Twitter, Samsung Galaxy smartphones, Google’s Chrome browser and Apple’s iOS and MacOS software. Apple’s support page for installing dark mode on Mac claims the setting “makes it easier to stay focused on your work, because your content stands out while darkened controls and windows recede into the background.”
+
+Facebook is also testing a dark mode, according to multiple reports.
+
+For Android 10 users, the dark theme is accessible in the Android Display system setting, and it’s enabled in Gmail after the whole operating system is set to dark mode. On Pixel devices, Gmail will default to the dark theme when Battery Saver mode is activated.
+
+For iPhone users, it depends on which version of iOS you have. With iOS 11 and iOS 12, the dark theme can be accessed in the Settings section. With the newly released iOS 13, users can either go to the settings in Gmail or they can automatically enable the feature when they set their device to dark mode.
+
+Google teased the new option during the Android 10 release a few weeks ago. The new operating system also has a dark theme that changes colors for the phone’s menus and home screen, but only some apps support it.

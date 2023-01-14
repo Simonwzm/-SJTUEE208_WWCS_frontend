@@ -1,0 +1,65 @@
+(CNN Business) Deciding whether — or when — to upgrade your smartphone is hard. Besides some attempts at swanky foldable phones , the look of smartphones hasn't changed much in recent years. Most improvements, while technologically impressive, mostly feel minor to the average consumer. But Apple's latest iPhone lineup has analysts predicting tons of upgrades.
+
+The most buzzed about feature of the iPhone 12 isn't even somethingcreated: it's the ability to use it with the extremely fast -- though still very elusive -- 5G network.
+
+After spending some time testing two of the four new devices, the iPhone 12 and the iPhone 12 Pro, most people should consider the impressive array of camera features when deciding whether to upgrade or not.
+
+In addition to 5G capabilities and new camera tricks, the phones are slightly thinner, smaller and lighter than their predecessors, and they have a sleek new design with flat edges instead of curved ones. They have faster chips, 6.1-inch OLED displays and more color options. The main difference between the two models we tested was the iPhone 12 Pro's additional telephoto camera lens.
+
+5G is not a good enough reason to upgrade on its own
+
+When unveiling the new iPhones on stage last week, Apple CEO Tim Cook touted the benefits of 5G, including faster download and upload speeds and better real-time gaming.
+
+But for now, 5G doesn't live up to the hype, which is largely out of Apple's control.
+
+While a slower version of 5G is more broadly available now, ultra-fast 5G is harder to access and requires nearby cell sites to reap the benefits. Wireless carriers building high-band 5G are installing tons of small cell sites (about the size of pizza boxes) to light poles, walls or towers, often in relatively close proximity to one another. Those networks are basically only available in major city centers because they require installing hundreds of these small cell sites in close proximity to one another in order to work.
+
+I saw "5G" icons pop up while testing the phones in the suburbs of New York City, both in New Jersey and New York, and occasionally saw modest to very good speed increases compared to LTE. But as a whole, I found that 5G is not universally accessible or consistent.
+
+Depending on your carrier and where you live, you will see different 5G download and upload speeds. But the bottom line is most consumers may not notice a significant difference in speed compared to LTE service at this point. Upgrading to a 5G phone now is more about preparing for when the network is fully rolled out — which is expected to take years — and hopefully, in the meantime seeing a bit faster service.
+
+The camera, as usual, is better
+
+The iPhone 12 pro, pictured here, has three cameras, compared to two cameras on the 12.
+
+We've come to expect that iPhone cameras get better and better each year, and the iPhone 12 lineup has some features that truly wowed.
+
+This year's standout feature is an improved Night mode, first introduced in the iPhone 11, which boosts low-light selfies or photos taken in the evening, showing better contrast and more details, without needing a flash. It's impressive. The addition of Night mode for selfies, in particular, is a nice touch.
+
+In my tests, I took photos of the same subject or object with an iPhone 12, iPhone 12 Pro and my 2-year-old iPhone XR during different times of day. Like many consumers , I typically hold on to my phone for two years or more before even thinking about an upgrade, so the iPhone XR is a good point of comparison for people who are likely to be thinking about a new device. It's worth noting that more advanced phones have been released since the XR, so this isn't a perfect comparison for everyone's decision making.
+
+Both the iPhone 12 and 12 Pro were better at picking up more details, from imperfections in someone's skin to individual strands of hair in my puppy's coat, when compared to photos taken on the XR. For the daytime photos, I still thought my iPhone XR held its own and took nice shots.
+
+The major difference came once it got darker outside. Images taken on the 12 and 12 Pro had more vibrant colors and clearly showed details like rain drops glistening on a pumpkin, even though it was shot at night. The iPhone XR night shots were feeble in comparison.
+
+Photos taken at night by the iPhone XR, iPhone 12 and iPhone 12 Pro, from left to right.
+
+While I was impressed with the 12's camera, the Pro definitely picked up more details, and made for slightly sharper, brighter and nicer photos than the 12, when compared side by side. The Pro's camera is aided by lidar, a technology most commonly associated with self-driving cars, which helps the phone's camera focus faster in low-light settings.
+
+The iPhone 12 features a dual-camera system on the back, with wide and ultra wide lenses, while the iPhone 12 Pro adds a telephoto zoom lens for a total of three cameras.
+
+The iPhone 12 lineup is a solid choice for people with pre-Night mode phones from a few years ago who are looking for a better camera. And if you're still using a single-lens device such as the iPhone XR or iPhone 8, the upgrade will be even more noticeable. Those who already have an iPhone 11 can safely hold off on upgrading this year, if only because 5G isn't widely available.
+
+A more shatterproof phone?
+
+I accidentally dropped the iPhone Pro (with a case on) on a stone walkway, and then again on a hardwood floor (I'm kinda clumsy), and it didn't scratch or shatter. But that could've just been pure luck.
+
+It's unclear how much more durable these phones will be over time, but Apple claims its new Ceramic Shield glass is scratch resistant and has four times better drop performance in its tests.
+
+Colors, magnets and battery life
+
+The iPhone 12 Pro comes in four different metallic finishes for added razzle dazzle.
+
+Apple has added some fun color choices to the 12 and 12 Pro this year. The 12 comes in red, green, blue, black and white. The 12 Pro comes in silver, black, gold and blue. The Pro has a higher-end finish, with metallic edges for extra wow factor.
+
+Apple added a magnet to the back of the iPhone 12 to help it better line up with wireless chargers for more efficient charging. This also enables certain accessories to snap on, like a slim wallet. I tried out Apple's MagSafe Charger, and it was surprisingly cool. The charger easily snapped into the back of a corresponding phone case, but also worked fine with a regular case. The phone got a little hot while charging, similar to how it does with Apple's faster lightning charger.
+
+5G is expected to be a battery drain, but Apple's smart data mode will automatically switch the iPhone to LTE to save battery life when 5G isn't delivering noticeably better speeds. In my experience, the battery lasted all day with normal use (think checking emails, texting, scrolling through social media and a few phone calls).
+
+There are some more options to consider in a few weeks: extra large or mini
+
+Apple has never introduced so many new models in its phone lineup. One intriguing offering, the iPhone 12 mini ($699), wasn't available for testing and won't be available for pre-order until November 6. Apple promises it is packed with all the same features as the iPhone 12, but for $99 less and with a slightly smaller screen. The mini has a 5.4-inch screen, while the 12 has a 6.1-inch screen.
+
+The 12 Max Pro ($1099) is another option, but on the other end of the price spectrum. For a higher price tag, you get a 6.7-inch screen and an even better camera, compared to the 12 Pro's 6.1-inch screen. It will also be available for pre-order on November 6.
+
+The iPhone 12 starts at $799, while the 12 Pro costs $999. Both are available starting Friday.

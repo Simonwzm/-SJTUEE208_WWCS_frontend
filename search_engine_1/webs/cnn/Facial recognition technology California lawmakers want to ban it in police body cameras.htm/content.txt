@@ -1,0 +1,53 @@
+CNN —
+
+A picture of every California state legislator was run through a facial-recognition program that matches facial images to a database of 25,000 criminal mugshots, the American Civil Liberties Union of California (ACLU) said Tuesday in a statement.
+
+The program falsely flagged 26 legislators as criminals, the ACLU said.
+
+The ACLU announced the results of its test in pressing for passage of a bill to ban the technology in police body cameras.
+
+“This experiment reinforces the fact that facial recognition software is not ready for prime time - let alone for use in body cameras worn by law enforcement,” Assemblymember Phil Ting, whose photo was flagged as a match to a mugshot, said in the ACLU’s statement.
+
+Facial-recognition systems have gained popularity in recent years and are being used at airports, schools, homes and even concerts. The technology can also help a bartender identify who’s next in line for a drink. It works by identifying people’s faces from videos and photos and then comparing their facial features to those in a database.
+
+But the ACLU is concerned the technology shows bias and is inaccurate, especially with women and people of color.
+
+Ting, along with the ACLU, co-sponsored AB 1215, also known as The Body Camera Accountability Act. The bill would ban the use of facial recognition and any biometric surveillance system in police-worn body cameras. Currently, there are no cities in California that have that technology in their police body cameras, Ting said Tuesday at a news conference.
+
+“I could see innocent Californians subjected to perpetual police lineups because of false matches,” said Ting. “We must not allow this to happen.”
+
+More than half of the falsely matched lawmakers were people of color, according to the ACLU. Last year, the organization conducted a similar test that misidentified 28 members of Congress. In those results, they found that the program was more inaccurate with women and people of color.
+
+The legislatures that were falsley flagged. One declined to have their photo released. ACLU of Northern California
+
+“Facial recognition-enabled police body cameras would be a disaster for communities and their civil rights, regardless of the technology’s accuracy,” said Matt Cagle, Technology and Civil Liberties Attorney, ACLU of Northern California.
+
+“Even if this technology was accurate, which it is not, face recognition-enabled body cameras would facilitate massive violations of Californians civil rights.”
+
+The ACLU said Amazon’s Face Recognition program is what incorrectly matched the lawmakers to the mugshots and that during their testing they used the default confidence score, which is 80%. The ACLU also said an independent expert from UC Berkeley verified the results.
+
+In a statement, an Amazon spokesperson said the ACLU is “once again knowingly misusing and misrepresenting” the company’s facial-recognition technology “to make headlines.” The statement added that, as the company has said in the past, it recommends using its software with a 99% confidence score “and as one part of a human driven decision” to recognize faces.
+
+Others says the technology is a “necessary tool”
+
+Some law enforcement agencies disagree and say the bill would impair the ability of officers.
+
+During a Senate committee on pubic safety committee hearing in June, the Riverside Sheriffs’ Association said the technology would help provide events that draw massive crowds like Coachella Music and Arts Festival and the Rose Bowl with the best security available.
+
+“By banning this technology, California will be announcing to the nation and world that it doesn’t want our law enforcement officers to have the necessary tools they need to properly protect the public and attendees of these events,” their sheriffs’ association statement reads.
+
+John Mirisch, the mayor of Beverly Hills, echoes those sentiments in a letter he wrote to Ting in June stating his opposition. He said the technology will help manage events that attract high-profile entertainers to the area such as The Golden Globes.
+
+“This technology allows law enforcement agencies to compare images of hundreds of thousands of individuals, which saves time and agency resources,” Mirisch writes.
+
+Other states have banned it
+
+If the bill is passed, California will become the largest state to prohibit facial-recognition technology in police-worn body cameras. New Hampshire and Oregon both passed legislation in 2017 to prohibit the practice.
+
+This year, San Francisco, long one of the most tech-friendly and tech-savvy cities in the world, and Oakland, California, banned the use of the technology by police and other government departments.
+
+Axon, who makes police worn body-cameras worn by Los Angeles police, also announced this year that facial-recognition systems will not be added to those devices.
+
+AB 1215 was first introduced in February and approved by the California Assembly in May. It is set to be voted on in the California Senate in the coming weeks, according to the ACLU.
+
+CORRECTION: An earlier version of this story misstated the timeline for the bill’s approval. The article has been updated to say that the bill was approved by the California Assembly in May.

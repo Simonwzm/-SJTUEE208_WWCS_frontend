@@ -1,0 +1,9 @@
+(CNN Business) TikTok on Wednesday said it would share more data with certain researchers to study activity on the platform amid renewed scrutiny of the short-form video app's impact on society and its ties to Beijing.
+
+Later this year, the company will provide "selected researchers" with access to its API, or application programming interface, TikTok chief operating officer Vanessa Pappas said in a blog post Wednesday. The move is intended to "improve ease of access to public and anonymized data about content and activity on our platform," Pappas said.
+
+The company is also developing a tool to give researchers an "effective way to evaluate our content moderation systems and examine existing content available on our platform," Pappas added. Researchers will also soon be able to upload their own posts to see how different types of content are either permitted, rejected or passed to moderators for further evaluation.
+
+Beyond that, TikTok pledged to expand its transparency reports with information about "countering covert influence operations," according to Pappas. This information will be included in the company's quarterly Community Guidelines Enforcement Reports.
+
+"We know that just saying 'trust us' is not enough," Pappas said. "That's why long ago we made an important commitment to transparency, particularly when it comes to how we moderate and recommend content."

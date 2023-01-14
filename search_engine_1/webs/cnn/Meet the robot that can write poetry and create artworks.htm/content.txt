@@ -1,0 +1,11 @@
+(CNN) When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of "The Terminator," "i, Robot," "Westworld," and "Blade Runner." For many years, fiction has told us that AI is often used for evil rather than for good.
+
+But what we may not usually associate with AI is art and poetry -- yet that's exactly what Ai-Da, a highly realistic robot invented by Aidan Meller in Oxford, central England, spends her time creating. Ai-Da is the world's first ultra-realistic humanoid robot artist, and on Friday she gave a public performance of poetry that she wrote using her algorithms in celebration of the great Italian poet Dante.
+
+The recital took place at the University of Oxford's renowned Ashmolean Museum as part of an exhibition marking the 700th anniversary of Dante's death. Ai-Da's poem was produced as a response to the poet's epic "Divine Comedy" -- which Ai-Da consumed in its entirety, allowing her to then use her algorithms to take inspiration from Dante's speech patterns, and by using her own data bank of words, create her own work.
+
+Ai-Da's poem was described was "deeply emotive" by Meller and includes the following verse:
+
+"We looked up from our verses like blindfolded captives,
+
+Read More

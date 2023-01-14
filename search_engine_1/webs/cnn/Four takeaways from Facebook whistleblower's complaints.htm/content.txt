@@ -1,0 +1,33 @@
+Washington (CNN Business) Facebook's week is off to a tumultuous start. On Monday, Facebook, WhatsApp and Instagram went down for about six hours. On Tuesday, Frances Haugen , the Facebook whistleblower, testified before a Senate subcommittee, following the release of thousands of pages of internal research and documents.
+
+Haugen, the 37-year-old former Facebook (FB) product manager who worked on civic integrity issues at the company, revealed her identity during a "60 Minutes" segment that aired Sunday nigh t. She has reportedly filed at least eight whistleblower complaints with the Securities and Exchange Commission alleging that the company is hiding research about its shortcomings from investors and the public. She also shared the documents with regulators and the Wall Street Journal, which published a multi-part investigation showing that Facebook was aware of problems with its apps.
+
+"60 Minutes" published eight of Haugen's complaints on Monday. Here are four takeaways from the complaints:
+
+Facebook's mechanics further the spread of misinformation
+
+One document entitled "What is Collateral Damage?" even goes so far as to note "the net result is that Facebook, taken as a whole, will be actively (if not necessarily consciously) promoting these types of activities. The mechanics of our platform are not neutral."
+
+Facebook has taken limited action to address existing misinformation
+
+According to an internal document on problematic non-violating narratives referenced in at least two of the complaints, Facebook removes as little as 3% to 5% of hate speech and less than 1% of content that's considered violent or inciting to violence. That's because the volume is too much for human reviewers and it's challenging for its algorithms to accurately classify content when context must be considered.
+
+Internal documents on Facebook's role in the 2020 election and January 6 insurrection also suggest those spreading misinformation are rarely stopped by the company's intervention mechanisms. One document notes that, "Enforcing on pages moderated by page admins who post 2+ pieces of misinformation in the last 67 days would affect 277,000 pages. Of these pages, 11,000 of them are current repeat offenders pages."
+
+Despite Facebook's claims that they "remove content from Facebook no matter who posts it, when it violates our standards," according to Haugen , "in practice the 'XCheck' or 'Cross-Check' system effectively 'whitelists' high-profile and/or privilege users." An internal document on mistake prevention cited in a complaint contends that "'over the years many XChecked pages, profiles and entities have been exempted from enforcement.'"
+
+Internal documents on "quantifying the concentration of reshares and their VPVs among users" and a "killswitch plan for all group recommendation surfaces" indicate Facebook also rolled back some changes proven to reduce misinformation because those changes reduced the platform's growth.
+
+Additionally, Haugen claims the company falsely told advertisers they had done all they could do to prevent the insurrection. According to a document cited in the filing titled "Capitol Riots Breaks the Glass," the safer parameters Facebook implemented for the 2020 election, like demoting content such as hate speech likely to violate its Community Standards, were actually rolled back afterwards and reinstated "only after the insurrection flared up."
+
+In one document, a Facebook official states "we were willing to act only *after* things had spiraled into a dire state."
+
+Facebook has misled the public about the negative effects of its platforms on children and teens, especially young girls
+
+When asked during a congressional hearing in March whether Facebook's platforms "harm children" Facebook CEO Mark Zuckerberg said , "I don't believe so."
+
+However, based on Facebook's own internal research cited in one of Haugen's complaints , "13.5% of teen girls on Instagram say the platform makes thoughts of 'Suicide and Self Injury' worse" and 17% say the platform, which Facebook owns, makes "Eating Issues" such as anorexia worse. Their research also claims Facebook's platforms "make body image issues worse for 1 in 3 teen girls."
+
+Facebook knows its platforms enable human exploitation
+
+Although Facebook's community standards state that they "remove content that facilitates or coordinates the exploitation of humans," internal company documents cited in one of Haugen's complaints suggest the company knew "domestic servitude content remained on the platform" prior to a 2019 investigation by BBC News into a black market for domestic workers on Instagram.

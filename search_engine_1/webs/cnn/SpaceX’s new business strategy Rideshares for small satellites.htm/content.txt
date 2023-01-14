@@ -1,0 +1,31 @@
+New York CNN Business —
+
+Enormous communications and military satellites are the bread and butter of SpaceX’s launch business. But big satellites are dying out — and smaller, nimbler satellites are all the rage.
+
+SpaceX announced a new business strategy on Monday that indicates the company wants to adapt: It’s establishing a “rideshare program” for small satellites. Under the new initiative, SpaceX will dedicate “regularly scheduled” launches of its mighty Falcon 9 rocket to carrying large batches of smallsats, rather than focusing on one large, primary payload.
+
+“SpaceX is committed to serving the commercial market as it grows and changes, and we believe we can address the needs of small satellite operators,” the company said in an emailed statement.
+
+Smallsats have seen a meteoric rise in popularity over the past few years. They range in size from as small as a smartphone to as large as a kitchen refrigerator. And as they’ve grown more advanced, hoards of businesses have entered the market promising to deliver services using new smallsat technologies.
+
+SpaceX itself plans to create a broadband network using thousands of smallsats in low-Earth orbit. The company hopes the project, called Starlink, will bring cheap high-speed internet to communities all over the globe.
+
+Typically, smallsats reach orbit by tagging along with larger, more expensive satellites, and the waiting list can be long and unpredictable.
+
+But there’s been a major push in the launch industry to cater directly to the booming smallsat market. Dozens of new rocket companies are promising to build scaled-down rockets that can provide quick and easy launches for smallsats. One such company, Rocket Lab, is the first to start commercial operations and has launched seven missions so far.
+
+Cramming a bunch of smallsats onto large rockets isn’t a new idea. Rideshares have been done for years, and a company called Spaceflight has organized such trips, including a dedicated rideshare aboard a SpaceX rocket that took off in December.
+
+SpaceX also used its Falcon 9 to put up the first batch of 60 Starlink internet satellites earlier this year.
+
+Leena Pivovarova, an analyst at Northern Sky Research, said the price points and capabilities SpaceX is advertising for its new rideshare program will be very attractive to smallsat companies.
+
+“I think that SpaceX is very well positioned to compete here, and I think this is going to have a really big impact on the dedicated smallsat launch providers,” Pivovarova told CNN Business. However, she also noted there are still some unanswered questions about SpaceX’s new program, like how it will fit the dedicated smallsat missions into the long list of launches it already has lined up.
+
+According to a new web page that went live Monday, SpaceX says it plans to launch about one dedicated smallsat rideshare per year beginning in late 2020 or 2021. Each mission will travel to a sun-synchronus orbit about 500 to 600 kilometer (310 to 372 miles) above Earth. That’s a common destination for Earth observation and communications smallsats, according to Pivovarova.
+
+SpaceX is expected to continue launching large communications satellites as it clears a backlog of scheduled missions. Military payloads are also expected to remain a core part of its business.
+
+But SpaceX’s president and chief operating officer, Gwynne Shotwell, acknowledged that the company’s core launch business hasn’t grown like it once hoped. SpaceX had forecasted in 2017 it would be launching 30 to 40 rockets per year by 2018, according to SpaceNews, but it only launched 21 times last year and is expected to match that number in 2019.
+
+“We thought the commercial market might expand to that, I think we probably wished it had, but [now] we’ve got plenty of capacity to launch our Starlink system,” Shotwell said, according to SpaceNews.

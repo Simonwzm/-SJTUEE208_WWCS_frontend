@@ -1,0 +1,49 @@
+New York (CNN Business) In public, Facebook has touted the resources it has dedicated to tackling Covid-19 and vaccine misinformation , even scolding US President Joe Biden for his harsh criticism of the company's handling of the issue. In doing so, it claimed that "more than 2 billion people have viewed authoritative information about COVID-19 and vaccines on Facebook, which is more than any other place on the internet."
+
+But internaldocuments suggest a disconnect between what the company has said publicly about its overall response to Covid-19 misinformation and some of its employees' findings concerning the issue.
+
+"We have no idea about the scale of the [Covid-19 vaccine hesitancy] problem when it comes to comments," an internal research report posted to Facebook's internal site in February 2021, a year into the pandemic, noted. "Our internal systems are not yet identifying, demoting and/or removing anti-vaccine comments often enough," the report pointed out.
+
+Additional reports a month later raised concerns about the prevalence of vaccine hesitancy — which in some cases may amount to misinformation — in comments, which employees said Facebook's systems were less equipped to moderate than posts. "Our ability to detect vaccine hesitancy comments is bad in English and basically non-existent elsewhere," one of the March 2021 reports stated.
+
+The World Health Organization (WHO) began describing Covid-19 misinformation as an "infodemic" in the early stages of the pandemic last year, amid a flood of social media posts on conspiracy theories about the origins of the virus, dangerous advice about faulty treatments and unreliable reports on vaccines. The organization called on big tech firms to give it a direct line to flag posts on their platforms that could harm people's health.
+
+CEO Mark Zuckerberg posted on Facebook on March 3, 2020, that his company was working with the WHO and other leading health organizations to help promote accurate information about the virus. At the time, there were only around 90,000 recorded cases globally and about 3,100 known deaths, most of them in China. Approved vaccines were still months away. But the company was already grappling with the spread of misinformation and myths about Covid-19.
+
+"As our community standards make clear, it's not okay to share something that puts people in danger," Zuckerberg wrote. "So we're removing false claims and conspiracy theories that have been flagged by leading global health organizations."
+
+He added that the company planned to give the WHO "as many free ads as they need for their coronavirus response along with other in-kind support," and would give "millions more in ad credits" to other authoritative organizations, too.
+
+But a flood of comments raising questions and illegitimate concerns about vaccines on the platform meant that, in some cases, those organizations didn't want to take advantage of that free help. One of the March 2021 internal reports noted that the rate of vaccine hesitancy comments was so high on Facebook posts "that authoritative health actors, like UNICEF and the WHO, will not use free ad spend we are providing to them to promote pro-vaccine content, because they do not want to encourage the anti-vaccine commenters that swarm their Pages."
+
+Facebook employees were concerned that while the company's AI systems were trained to detect misinformation in posts, the same wasn't true for comments, which may be more likely to have vaccine-hesitant content, documents show.
+
+"The aggregate risk from [vaccine hesitancy] in comments may be higher than that from posts, and yet we have under-invested in preventing hesitancy in comments compared to our investment in content," another March 2021 report stated.
+
+"One flag from UNICEF was the disparity between FB and IG," one comment on the report stated, "where they said this: 'One of the ways we manage these scenarios on Instagram is though pinning top comments. Pinning helps us highlight our top comment (which will almost always be a link to helpful vaccine information) and also highlight other top comments which are pro-vaccine.'"
+
+UNICEF and the WHO did not respond to requests for comment.
+
+A Facebook spokesperson said the company had made improvements on issues raised in the internal memos included in this report and said: "We approach the challenge of misinformation in comments through policies that help us remove or reduce the visibility of false or potentially misleading information, while also promoting reliable information and giving people control over the comments in their posts. There are no one-size-fits-all solutions to stopping the spread of misinformation, but we're committed to building new tools and policies that help make comments sections safer."
+
+Among other efforts, Facebook — as well as fellow social media giants Twitter and YouTube — has added Covid-19 misinformation to its "strike policy" under which users can get suspended (and potentially removed) for posting violating content since the pandemic began. The platforms also started labeling content related to Covid-19 to direct users to information from authoritative sources.
+
+Earlier this year it emerged that Facebook shelved the public release of a "transparency" report after it revealed that the most-viewed link on the platform in the first quarter of 2021 was a news article that said a doctor died after receiving the coronavirus vaccine, the New York Times reported
+
+Irresponsible and sensationalist news media coverage of purported dangers associated with Covid-19 vaccines also appear to be richly rewarded on Facebook. The internal February memo noted a tabloid story about vaccine deaths had been shared more than 130,000 times on the platform. The company's challenges have not only been tied to comments and news articles, however.
+
+As of May last year, the "most active" civic groups in the United States "have been the hundreds of anti-quarantine groups in addition to the standard set that have been most active for months/years (Trump 2020, Tucker Carlson, etc.)," according to a May 18, 2020 post to Facebook's internal site.
+
+The post's author wrote how these groups were rife with Covid-19 misinformation and noted that content from the groups were featuring heavily in the Facebook feeds of "the tens of millions of Americans who are now members of them."
+
+A Facebook spokesperson told CNN the company had added new safety controls to groups since that internal May 2020 post.
+
+In July 2021, Biden said platforms like Facebook were "killing people" with Covid-19 misinformation. Biden later backed away from that claim, but not before a Facebook executive published a strong rebuke of the President on the company's website.
+
+"At a time when COVID-19 cases are rising in America, the Biden administration has chosen to blame a handful of American social media companies," Guy Rosen, Facebook vice president of integrity, wrote. "While social media plays an important role in society, it is clear that we need a whole of society approach to end this pandemic. And facts — not allegations — should help inform that effort."
+
+He added that when Facebook sees misinformation about Covid-19 vaccines, "we take action against it," and pointed to research the company conducted with Carnegie Mellon that shows a great majority of US Facebook users had been or wanted to be vaccinated.
+
+Still, the February 2021 internal report about the prevalence of vaccine-hesitant or anti-vaccine messages in Facebook comments suggested that "anti-vax sentiment is overrepresented in comments on Facebook relative to the broader population" in the United States and United Kingdom.
+
+"This overrepresentation may convey that it is normative to be hesitant of the Covid-19 vaccine and encourage greater vaccine hesitancy," the report stated.

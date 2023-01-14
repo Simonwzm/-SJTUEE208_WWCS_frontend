@@ -1,0 +1,11 @@
+(CNN) At the University of Vermont Medical Center in October, a cyberattack knocked out 5,000 computers on the hospital's IT network, disrupting everything from its financial systems to its radiology services and sleep studies. Patient care ground to a halt -- and the outage lasted for weeks.
+
+"We really did not anticipate the scope or the impact the attack had on our system and how far-reaching it was," the organization's president, Dr. Stephen Leffler, told reporters at a December news conference. Staff at the facility had been trained to handle outages of 3 to 5 days at most. What hit UVM Medical Center was far worse: "Thirty days of downtime, going across all systems, was a true challenge for our staff -- it was a challenge for our patients."
+
+UVM Medical Center is one of many health care facilities — in the middle of a global pandemic, no less — to fall victim to ransomware, an increasingly common form of malicious software that criminals use to seize control of computers and often refuse to unlock until the victim pays a fee.
+
+In fact, health care providers were among the most popular targets for ransomware last year, according to new research by the cybersecurity firm Emsisoft. Emsisoft's review — which is based on public announcements, local media reports and information leaked by hackers on the web — provides the clearest picture yet of the growing threat ransomware poses to the country.
+
+The company's list shows that as many as 560 health care facilities, 1,681 schools and 113 government agencies at every conceivable level were held hostage by ransomware in the United States last year. The software encrypted computers and other devices so that they couldn't be used, and in many cases, the hackers would not only lock up the data, but would also steal it.
+
+Read More

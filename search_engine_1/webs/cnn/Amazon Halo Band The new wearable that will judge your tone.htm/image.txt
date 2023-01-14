@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200827080822-20200825-amazon-halo.jpg?q=x_0,y_0,h_619,w_1100,c_fill/w_800

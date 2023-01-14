@@ -1,0 +1,27 @@
+CNN Business —
+
+House lawmakers are demanding that Amazon CEO Jeff Bezos testify before Congress, threatening to subpoena the world’s richest man following a report last week that the company allegedly uses sales data from third-party sellers on its platform to gain a competitive advantage against them.
+
+In a letter dated Friday, House lawmakers said the report from the Wall Street Journal appeared to contradict Amazon (AMZN)’s earlier testimony that the company does not use individual seller data to compete with them. Amazon (AMZN) had told lawmakers last year that it uses aggregated seller data.
+
+Amazon previously told the Journal that it is investigating the allegations internally and that employees caught using individual seller data would be in violation of company policies.
+
+“Like other retailers, we look at sales and store data to provide our customers with the best possible experience,” Amazon told the Journal. “However, we strictly prohibit our employees from using nonpublic, seller-specific data to determine which private label products to launch.”
+
+Amazon didn’t immediately respond to CNN Business’s request for comment on the letter.
+
+The letter highlights the rising risk for Amazon in Washington, where policymakers have increasingly zeroed in on the company’s relationships with independent sellers on its marketplace as part of a broader focus on antitrust concerns. And it underscores how Amazon’s vital role in getting items to consumers during the pandemic has also made it a bigger subject of scrutiny by skeptical politicians.
+
+“If the reporting in the Wall Street Journal article is accurate, then statements Amazon made to the Committee about the company’s business practices appear to be misleading, and possibly criminally false or perjurious,” the lawmakers wrote.
+
+The letter threatened to compel Bezos to testify if necessary. It was signed by House Judiciary Committee Chairman Jerry Nadler, as well as Rep. David Cicilline, who heads the panel’s antitrust subcommittee and is leading an antitrust probe of the tech industry.
+
+The letter also faulted Amazon for what the lawmakers said was a failure to cooperate swiftly enough with the antitrust investigation, saying Amazon has “not made an adequate production” of evidence in response to committee requests.
+
+Congress has frequently asked tech CEOs to testify in recent years as scrutiny of their privacy practices and market power has grown. Facebook (FB) CEO Mark Zuckerberg testifed multiple times last year; Google CEO Sundar Pichai also testified in 2018. It’s unclear whether Bezos will follow in their footsteps.
+
+The alleged misuse of individual seller data has raised competitive concerns because it could potentially give Amazon an unfair advantage in a marketplace it controls. Critics such as Sen. Elizabeth Warren have used baseball analogies to describe Amazon, arguing that it is both umpire and team owner and implying that Amazon could abuse its position for illegal gains.
+
+Bezos’s relationship with the nation’s capital has evolved significantly. After buying a home in the area and announcing that the region will play host to Amazon’s new headquarters, Bezos has upped his engagement with the Trump administration, talking frequently with the White House amid the pandemic.
+
+But in other areas, he has sought to keep his distance — for example, by declining to meet personally with Trump’s trade adviser, Peter Navarro, on the subject of counterfeit goods, a decision that has led to a bizarrely personal feud. Amazon has also accused Trump of interfering politically with the Pentagon’s multibillion-dollar cloud computing contract, the Joint Enterprise Defense Infrastructure.

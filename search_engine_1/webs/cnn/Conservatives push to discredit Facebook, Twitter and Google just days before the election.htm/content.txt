@@ -1,0 +1,81 @@
+What began as complaints about anti-conservative censorship by social media companies has now evolved into outright allegations of election interference, as high-ranking Republicans have accused online platforms of helping Democrats by way of their content moderation decisions. On Wednesday, the Senate Commerce Committee is set to grill the CEOs ofandamid right-wing cries of partisanship and threats to change a critical law, known as Section 230, that protects the companies' ability to moderate content as they see fit.
+
+Outside experts have found little evidence to support claims of widespread, systematic political bias in Silicon Valley's technology. But the conservative allegations are an explosive charge and a dramatic escalation ahead of Election Day. They reflect not only the stakes of the race, but also the fact that Facebook, Twitter and YouTube have become key parts of America's democracy, for better or for worse — and now, fair game for a party with a habit of working the refs.
+
+The Commerce Committee isn't the only one looking to put tech execs in the hotseat. Last Thursday, Senate Judiciary Committee Republicans voted to authorize subpoenas for Facebook CEO Mark Zuckerberg and Twitter CEO Jack Dorsey that would compel them to testify about conservative censorship. No Democrats participated in the vote to compel their testimony.
+
+In calling for the subpoenas earlier this month, Sen. Ted Cruz blasted tech platforms for "actively interfering in this election in a way that has no precedent in the history of our country."
+
+"Twitter and Facebook and Big Tech billionaires don't get to censor political speech and actively interfere in the election," Cruz said. "That's what they're doing right now."
+
+Twitter declined to comment for this story. Facebook spokesman Andy Stone said the company has faced criticism equally from Republicans "for being biased against conservatives and Democrats for not taking more steps to restrict the exact same content. We have rules in place to protect the integrity of the election and free expression, and we will continue to apply them impartially."
+
+Google didn't respond to a request for comment.
+
+Constant complaints of bias
+
+As with traditional media, conservatives have long complained of unfair treatment at the hands of social media platforms. But that critique shifted into overdrive this month with the election looming.
+
+The high-profile demands for executive testimony are just one way that conservatives are dialing up the pressure on Big Tech.
+
+Sen. Josh Hawley, one of the tech industry's most vocal antagonists, sent letters to Facebook and Twitter this month characterizing some of the companies' content moderation decisions as an illegal campaign contribution benefiting former Vice President Joe Biden. Hawley has encouraged President Donald Trump's campaign to file a complaint to the Federal Election Commission. The Republican National Committee actually did so, accusing Twitter on Oct. 16 of being Biden's "media operative" and of perpetuating a "feud" with Trump.
+
+The flurry of accusations has created a right-wing firestorm aimed at forcing social media platforms to treat conservative content more permissively — and in the event they refuse, to broadly delegitimize the platforms at a time when millions are relying on their services for accurate information about voting and the pandemic.
+
+Experts in political communication say that what Cruz, Hawley and other Republicans are doing right now fits a longtime pattern.
+
+"We could have called this like a CW show from the year 2000," said Dave Karpf, a political scientist at George Washington University. "You can predict every beat that'll happen."
+
+Independent studies of social media have found little credible evidence to suggest that the technology is biased against right-wing viewpoints. Trump, Fox News, the conservative commentator Dan Bongino and other right-wing stalwarts consistently dominate rankings of the top-performing posts on Facebook, according to data from CrowdTangle, a Facebook-owned data analysis tool used widely by many outlets, including CNN, to survey the social media landscape.
+
+A complicated relationship
+
+The Trump campaign was so effective on social media — particularly Facebook — in 2016 that election post-mortems would describe Brad Parscale, Trump's digital campaign director, as a genius for figuring out how to target voters with just the right political messaging.
+
+And the platforms themselves have gone out of their way to help conservatives.
+
+Tech companies in 2016 embedded employees in political campaigns of both parties to advise them on how to engage with voters on digital platforms. Trump's presidential campaign accepted the offer of assistance; Hillary Clinton's campaign declined to join the programs. The practice was first reported in a peer-reviewed paper by political scientists and media experts including Shannon McGregor, an assistant professor now at the University of North Carolina.
+
+Since then, companies like Facebook have moved away from providing such assistance — though Sen. Roger Wicker, who chairs the Senate Commerce Committee, sent letters to Facebook and Twitter last week asking if they have continued to provide data-driven support to campaigns. Twitter said it had received Wicker's letter and would respond to the senator; Facebook didn't immediately respond to a request for comment on the letter.
+
+McGregor said it makes no sense to label companies' content moderation decisions under their publicly stated policies as an "in-kind contribution" when the companies had already provided direct assistance to campaigns in the past.
+
+"No one was making claims of it being an illegal in-kind contribution in 2016 when there were actual staffers working side-by-side in the Trump campaign offices," McGregor said. To say that the companies' content decisions violate campaign finance laws "is a pretty wild and baseless claim," she added.
+
+Social media platforms have also given prominent conservatives the benefit of the doubt. For years, they took a hands-off approach to Trump's comments on social media that otherwise would have violated their policies, crafting ever more elaborate loopholes that allowed them to turn a blind eye. The Wall Street Journal has reported that after Facebook tweaked its algorithm in 2017 to reduce low-quality political content, "policy executives were concerned about the outsize impact of the changes on the right," prompting Zuckerberg to approve plans to suppress left-leaning content more. In a statement to the Journal, Facebook said its changes were never meant to target any single publisher, but it did not dispute the report.
+
+It was not until this spring that Twitter, and then Facebook, began more aggressively applying labels and in some cases removing some of Trump's misleading claims about Covid-19 and mail-in voting — decisions that incensed Trump and his allies, prompting the president to call for government regulation of social media that a digital rights group has alleged is unconstitutional.
+
+Among tech executives, Zuckerberg has proven particularly receptive to right-wing complaints, hosting a landmark meeting with conservative leaders in 2016 to hear their concerns about bias and with many others since then, including Trump.
+
+In the May 2016 meeting, one of the attendees told CNN that most in the room assumed Facebook is "not operating in bad faith."
+
+But fast-forward four years, and allegations of the tech industry's liberal agenda dominates Republican talking points.
+
+"If there's any interference in the election, it's by Twitter and Facebook right now and trying to put a particular narrative out there," White House chief of staff Mark Meadows said last Monday on Fox News.
+
+Republican lawmakers have repeatedly hammered Google over its alleged censorship of The Federalist, a right-leaning website Google warned could be banned from its advertising platform because the site's comment sections were filled with racist rhetoric that violated platform rules. Sen. Mike Lee has tried to draw a connection between the incident and Google's antitrust woes.
+
+"Isn't this behavior evidence of market power?" he said in a September hearing. "Why would any company want to treat its customers that way unless it was confident its customers had no viable alternative?"
+
+In the hearing, Google testified that its policies are designed to protect advertisers from having their ads shown against harmful content, and that it worked with The Federalist to find a solution. Google has also previously taken similar actions against non-conservative sites.
+
+Big Tech's real Washington problems
+
+Big Tech does face a range of problems in Washington, including questions over its economic dominance and facilitation of violent and hateful rhetoric. With lawmakers concluding that Big Tech wields monopoly power in anti-competitive ways, a major reckoning for the industry on those issues is looming. Last week, the Justice Department sued Google in a landmark antitrust complaint, alleging it has abused its monopoly position in online search.
+
+But those issues are fundamentally different from what top Republicans have identified as their main grievance with tech companies, said Sen. Brian Schatz, who also sits on the Commerce Committee.
+
+"I do want to separate the good-faith critiques of Section 230 and the questions surrounding antitrust, which are legitimate," Schatz said. "That's not what this [upcoming] hearing is about, and that's not what this effort two weeks out from the election is. This is about just bludgeoning these CEOs into submission."
+
+No matter how hard tech platforms seek to win conservatives' approval, it is becoming increasingly clear that nothing will stop the attacks over alleged political bias, said Karpf. That's because, he said, sowing distrust in the medium is precisely the point.
+
+"There is no set of things you can do to get Josh Hawley and Ted Cruz not to complain about this, because it is strategically useful to complain about it," said Karpf.
+
+A troubling side effect of the conservative attacks is the politicization of social media technology itself, said McGregor, which is problematic when so many Americans now use social media to get their news.
+
+"We can disagree about information," McGregor said. "But to say that there is some grand conspiracy perpetrated by the legacy media and tech platforms to silence Republicans is a step beyond that, and it delegitimizes these mechanisms we have to get people information."
+
+Several experts said the GOP's efforts to discredit social media companies is similar to how it has politicized executive agencies, cast aspersions on federal inspectors general and violated longstanding political norms over judicial appointments and confirmations.
+
+"If you undermine those institutions that can provide a check on your power, then power is unlimited," McGregor added. "Then that's not a democracy."

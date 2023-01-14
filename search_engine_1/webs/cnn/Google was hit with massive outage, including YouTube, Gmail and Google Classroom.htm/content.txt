@@ -1,0 +1,11 @@
+New York (CNN Business) Google's services went down for about an hour Monday in a massive outage that prevented many people from watching YouTube videos, accessing their Google Docs or sending email on Gmail.
+
+The outage also made Google Classroom temporarily unavailable, preventing many students learning remotely from accessing their classes.
+
+A little after 8 am ET, most of Google's services came back online. The company's workspace status dashboard had been red across the board, with every single Google service indicating an outage. Later Monday morning, they turned green, indicating that they're operating normally.
+
+"We apologize for the inconvenience and thank you for your patience and continued support," Google said in a statement
+
+Google said it will work toward restoring its apps for the remaining people who are still unable to access them, but the problems should largely be resolved.
+
+Read More

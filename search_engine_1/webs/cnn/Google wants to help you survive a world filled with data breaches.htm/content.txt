@@ -1,0 +1,21 @@
+New York CNN Business —
+
+Each time there’s a major data breach, it’s up to users to look out for an email from the compromised company or stay on top of the news to figure out how best to protect themselves if their personal information has been compromised.
+
+Google (GOOG) is trying to help users navigate that headache by rolling out new tools.
+
+On Wednesday, the company announced its new Password Checkup feature will automatically check all your saved passwords for security problems and alert you if passwords have been exposed in a third-party data breach.
+
+The tool will also tell you if your password is being reused across different sites by bad actors or if you have a weak password that should be updated.
+
+This functionality — first introduced earlier this year as an extension for its Chrome browser — is now being more deeply integrated into the core Google experience through its password manager.
+
+Later this year, Google said it would also add this same tech to its Chrome browser. If a username and password has been compromised in a data breach, a notification will pop up encouraging you to change your password.
+
+Google pulls in data to check breached passwords from the open Web and Dark Web, said Mark Risher, director of account security at Google, at a briefing with reporters in New York. Usernames and passwords are often “dumped” on the open Web in the wake of data breaches, he said. Google has found 4 billion unique username and password combinations from crawling only the open Web.
+
+Two-thirds of US adults use the same password for more than one online account, according to a new survey conducted by Harris Poll in partnership with Google. And 59% admit to using a name, such as their own or a pet’s, or a birthday as part of their password.
+
+Those are concerning results: Experts recommend choosing passwords that aren’t easily guessed and having different passwords for all the services you use.
+
+Google’s free tools could make it harder for paid password manager services like 1Password to compete, although they will still appeal to tech-savvy users or businesses who want additional functionality.

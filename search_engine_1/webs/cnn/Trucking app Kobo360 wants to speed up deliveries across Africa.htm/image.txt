@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200410095440-kobo360-truck-driver.jpg?q=x_3,y_54,h_1277,w_2270,c_crop/w_800

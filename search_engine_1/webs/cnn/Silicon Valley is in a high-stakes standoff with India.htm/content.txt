@@ -1,0 +1,45 @@
+New Delhi (CNN Business) The biggest names in tech are locked in an increasingly tense stand-off with India over strict new social media rules they fear will erode privacy, usher in mass surveillance and harm business in the world's fastest growing market.
+
+This week's events underscore the challenges facingandas they try to navigate an increasingly tricky Indian political landscape and deal with the new regulations, which were due to take effect on Wednesday.
+
+On Monday, Indian police visited Twitter's offices after it labeled a tweet from a prominent official of the governing party as "manipulated media." On Tuesday, WhatsApp sued the Indian government over the new rules. On Wednesday, Prime Minister Narendra Modi's administration rebuked the Facebook-owned platform for its "clear act of defiance" when it comes to following the "law of the land." And on Thursday, Twitter said it was "concerned" about the safety its employees in the country.
+
+Modi's government insists that the new regulations are reasonable and will help protect national security, maintain public order and reduce crime by making it easier to identify the sources of viral misinformation. The tech companies say the rules are inconsistent with democratic principles.
+
+This is just the latest tussle in an increasing contentious relationship between American tech companies and one of their largest markets. India's ruling party has intensified its crackdown on social media and messaging apps this year, particularly since a second Covid-19 wave engulfed the country.
+
+Twitter's decision to label the tweet from a spokesperson for the Bharatiya Janata Party earned it a visit from the Delhi police. The police said the visit was a "part of a routine process" to get Twitter to cooperate with its investigation. The social media giant called it "intimidation tactics."
+
+"We, alongside many in civil society in India and around the world, have concerns with regards to the use of intimidation tactics by the police in response to enforcement of our global terms of service, as well as with core elements of the new IT Rules," the company said in a statement Thursday.
+
+"We plan to advocate for changes to elements of these regulations that inhibit free, open public conversation," it added.
+
+In a statement late Thursday, the Delhi police called Twitter's response "contrived fear mongering" that is "unfounded and misplaced."
+
+Mass surveillance or national security
+
+The new rules, which were issued in February, include demands that companies create special compliance officers in India. There are also requirements that services remove some content, including posts that feature "full or partial nudity."
+
+Additionally, tech platforms would have to trace the "first originator" of messages if asked by authorities — a requirement that compelled WhatsApp to file its legal complaint against the government. The company said this demand would break the platform's "end-to-end encryption and fundamentally undermines people's right to privacy."
+
+A government "that chooses to mandate traceability is effectively mandating a new form of mass surveillance," WhatsApp has written in a blog post about why it opposes the practice.
+
+India's Ministry of Electronics and Information Technology called WhatsApp's lawsuit an "unfortunate attempt" to prevent the new rules from coming into effect at the last minute. The ministry said it respects the right of privacy and would only ask the platform to reveal private data if required for the investigation or prevention of "very serious offenses" related to the sovereignty, security and integrity of India, public order, rape, child sex abuse or sexually explicit material.
+
+It also said that the Indian government was committed to securing the right of privacy for all citizens as well as the means to maintain national security.
+
+"It is WhatsApp's responsibility to find a technical solution, whether through encryption or otherwise, that both happen," it added.
+
+But privacy isn't the only concern that social media companies have. They are required to appoint a chief compliance officer, who may be held liable in any proceedings if flagged content is not removed. WhatsApp and Twitter have told CNN Business that they find this requirement problematic.
+
+Censorship fears
+
+Silicon Valley firms have also been asked to take down posts this year by the Indian authorities. In April, the government asked Facebook and Twitter to remove around 100 posts, including some that were critical of Modi's Covid-19 response. In February, just a few weeks before the new social media rules were published, India pressured Twitter to take down accounts it deemed incendiary
+
+Twitter said Thursday that it was concerned about "the potential threat to freedom of expression" in the country.
+
+But with hundreds of millions of internet users, and more getting online every day, India is too big a market for any tech company to ignore. While WhatsApp has taken the unusual step of suing the authorities, Google and Twitter have signaled their willingness to engage with the government on most of the requirements in the new rules.
+
+"It's obviously early days and our local teams are very engaged ... we always respect local laws in every country we operate in and we work constructively," Google's CEO Sundar Pichai told The Press Trust of India on Wednesday. The company has not yet responded to a request for comment from CNN Business.
+
+"We will continue our constructive dialogue with the Indian government and believe it is critical to adopt a collaborative approach," Twitter added in its statement Thursday.

@@ -1,0 +1,13 @@
+(CNN Business) Artificial intelligence systems are often criticized for built-in biases. Commercial facial-recognition software, for instance, may fail when attempting to classify women and people of color. In an effort to help make AI fairer in a variety of ways, Facebook (FB) is rolling out a new data set for AI researchers that includes a diverse group of paid actors who were explicitly asked to provide their own ages and genders.
+
+Facebook hopes researchers will use the open-source data set, which it announced Thursday, to help judge whether AI systems work well for people of different ages, genders, skin tones, and in different types of lighting. (The data set is not meant to be used to train AI to identify people by their gender, age, or skin tone, the company said, as this would violate the terms of the data use.) Facebook also released the data set internally for use within Facebook itself; the company said in a blog post that it is "encouraging" teams to use it.
+
+includes 3,011 people from around the United States and 45,186 videos. Facebook gave the data set that name because participants were recorded while giving unscripted answers to a variety of pre-chosen questions. The data set, called "Casual Conversations," includes 3,011 people from around the United States and 45,186 videos. Facebook gave the data set that name because participants were recorded while giving unscripted answers to a variety of pre-chosen questions.
+
+Facebook had humans label the lighting conditions in videos and label participants' skin tones according to the Fitzpatrick scale, which was developed in the 1970s by a dermatologist to classify skin colors.
+
+Facebook is rolling out a new data set that uses a diverse group of paid actors who were explicitly asked to provide their own ages and genders.
+
+Though there are some AI data sets that include people who agreed to participate, it is often the case that people are unaware that they have been included in some manner. That's been the case with images used to build some of the key data sets for training facial-recognition software . And tech companies including Facebook have used ImageNet , an enormous data set of all kinds of images (including those of people) gathered from the internet, to advance their progress in AI.
+
+Read More

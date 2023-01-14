@@ -1,0 +1,49 @@
+CNN Business —
+
+California Gov. Gavin Newsom responded Thursday to Tesla CEO Elon Musk’s claim that the company had delivered more than 1,000 ventilators to the state’s hospitals treating a surge of coronavirus patients.
+
+In a series of tweets early Thursday, Musk asked Newsom to “please fix this misunderstanding” after the governor’s office told CNN the state’s hospitals had not received ventilators promised last month by the Tesla CEO. Included in the tweets from Musk was a partial list of hospitals that he said had been sent ventilators. In another tweet, he said the donations were “based on direct requests from their ICU wards, with exact specifications of each unit provided before shipment.”
+
+“I was not personally aware of that list,” Newsom said at a press conference. “I’m very encouraged that he put out that list and those specific hospitals that’s where he had been sending those resources and I look forward to learning more about where they went and am grateful for his support.”
+
+Ventilators? Or something else?
+
+CNN contacted 10 California hospitals identified by Musk in the partial list of recipients he posted on Thursday. Of the four hospitals that responded, all said they had received bilevel positive airway pressure (biPAP) or continuous positive airway pressure (CPAP) machines — devices that can aid breathing and be used for sleep apnea. None had received ventilators.
+
+“We received six CPAPs and we are very grateful for the gift,” said a spokesperson for Sonoma Valley Hospital.
+
+Mammoth Hospital also said it received 10 bilevel machines from Tesla. “They’re not full ventilators but there are lots of people that need breathing assistance,” a spokesperson said, calling the donation “very gracious.”
+
+Los Angeles County officials said they received from Tesla 100 bilevel units manufactured by the company ResMed in late March.
+
+“They have been distributed to hospitals in our system and are being used as intended,” said Kathleen Piché, Director of Public Information for L.A. County Department of Health Services. “These units are used for breathing and airway support, reducing the need for certain patients to be placed on mechanical ventilation.”
+
+Musk’s donation of medical devices to California hospitals mirrors his gift to New York hospitals. In that case, too, he sent biPAPs instead of ventilators, as first reported in the Financial Times.
+
+CPAP machines typically start around $500, while biPAP machines can be had for about $1,200. Ventilators, however, range in price from $20,000-$50,000.
+
+A “heroic” effort
+
+On March 23, Newsom announced Musk had acquired 1,000 ventilators and would be distributing them to help California hospitals treating patients infected with the coronavirus, an effort the governor hailed as “heroic.”
+
+But on Wednesday, Brian Ferguson, the Deputy Director for Crisis Communication at Newsom’s Office of Emergency Services told CNN that the governor’s office had been speaking to hospitals in the state every day and to date had “not heard of any hospital system that has received a ventilator directly from Tesla or Musk.”
+
+In response to the confusion Thursday, an official in Newsom’s Office of Emergency Services told CNN, “We wouldn’t necessarily have visibility on every hospital, and based on the information we did have yesterday that statement remains consistent.”
+
+Tesla did not respond to repeated requests for comment from CNN.
+
+The difference between a ventilator, a CPAP and a biPAP
+
+In March, the US Food and Drug Administration sent a letter with guidance to health care providers treating coronavirus that said CPAP and biPAP machines “may be used to support patients with respiratory insufficiency provided appropriate monitoring (as available) and patient condition.”
+
+On its website, the American Society of Anesthesiologists, said in a statement that health care workers should be cautious when using bilevel or CPAP machines for coronavirus patient treatment because the devices could increase transmission of the virus.
+
+“In patients with acute respiratory failure, it may be prudent to proceed directly to endotracheal intubation, because non-invasive ventilation (e.g. CPAP or biPAP) may increase the risk of infectious transmission,” it says.
+
+In an interview with CNN on Thursday, Carlos Nunez the chief medical officer for ResMed, a manufacturer of ventilators, CPAP and biPAP machines, said CPAP devices are “the gold standard” for treating patients with sleep apnea.
+
+“If someone drops off a CPAP as a gift [to a hospital], that’s a nice gesture but those should be used for people with sleep apnea,” Nunez said. “Hospitals will scratch their heads and not know what to do with them.”
+
+Bilevel devices, he said, are “capable of delivering ventilation” and can be used to support patients who need help with breathing and potentially “buy some time” for hospitals until a patient might need more critical care from a ventilator.
+
+“There are some hospitals, like in hot spots, where in the worst case scenario if they run out of invasive vents they could use them,” Nunez said of the bilevel machines. “I don’t know if it’s actually been used yet, maybe in isolated cases.”

@@ -1,0 +1,33 @@
+Hong Kong CNN Business —
+
+Doing business with the wrong kind of client can be extremely costly for banks.
+
+HSBC (HBCYF) had to pay $1.9 billion in 2012 to settle allegations that it allowed international drug cartels to launder billions of dollars across borders. ING (ING) took a $900 million hit in September after admitting criminals had moved money through its accounts. And Danske Bank has in recent months found itself at the center of a scandal involving suspicious Russian funds.
+
+A Singapore-based startup thinks artificial intelligence could help financial companies avoid that kind of trouble. Silent Eight says its technology uses AI and machine learning to identify and halt illegal transactions before they happen.
+
+The company is the brainchild of Martin Markiewicz. The trained mathematician founded Silent Eight when he moved to Southeast Asia from Poland about five years ago.
+
+Markiewicz claims artificial intelligence is better than the methods banks currently use. They often rely on staff manually checking lists of individuals and companies facing sanctions or under criminal investigation.
+
+“Global banks look at millions of suspicious transactions every year, so it’s a very inefficient way of keeping the bad guys out of the financial system,” he said. With AI, “you can do it much faster and you’re not exposed to human error.”
+
+Silent Eight’s software hunts for transactions like a blacklisted North Korean government official trying to open an account or a company with ties to the Iranian government trying to take out a loan.
+
+“No one wants to be the bank that’s caught financing North Korea’s nuclear program,” Markiewicz said.
+
+CNN/Shutterstock
+
+Silent Eight’s system works by collecting and analyzing data from thousands of documents and other sources, getting smarter and more effective as it does so, according to the company.
+
+The startup initially considered setting up operations in London or Tokyo before settling on Singapore. Markiewicz said the team chose the city-state for its ease of doing business, use of the English language and the good reputation of its financial regulator.
+
+Banks are taking an interest in what the company offers.
+
+Standard Chartered (SCBFF) announced last year that it was deploying Silent Eight’s tech to help screen potential clients against “watch lists” of high risk individuals and companies.
+
+The international bank, which is based in London but has a heavy focus on Asia, paid more than $600 million in penalties in 2012 after US authorities found that one of its units violated Iran sanctions. The bank recently set aside an additional $900 million for further potential fines.
+
+A Standard Chartered spokesman declined to provide details on how the bank is using Silent Eight’s technology.
+
+Oversea-Chinese Banking Corporation, a big Singaporean bank, is also using Silent Eight’s technology. Markiewicz said several other financial institutions around the world are trialing the technology or are in discussions about deploying it.

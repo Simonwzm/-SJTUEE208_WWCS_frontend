@@ -1,0 +1,87 @@
+New York (CNN Business) Potentially abysmal air travel interruptions were narrowly avoided this week when wireless carriers made a last-minute change to their planned 5G rollout in response to fears that new cell service towers could interfere with a key component on passenger jets that allows them to safely land in low visibility conditions.
+
+Warnings of mass flight cancellations came as AT&T, Verizon and the airline industry hashed out a deal to delay 5G deployment around major airports. And on Thursday, the Federal Aviation Administration cleared a greater number of commercial airliners to fly in the situations where pilots consider possible 5G interference to be the most dangerous. Now, nearly 80% of the United States' entire commercial airliner fleet has that clearance.
+
+In the end, crisis seemed to be mostly averted. No planes fell out of the sky. And — with a few exceptions — air travel stayed mostly on schedule.
+
+But we're not in the clear yet.
+
+The agreement to delay 5G deployment around airports is only a temporary fix, and it's not clear if all the negotiating parties have a specific deadline they're working toward. A significant number of planes still haven't been cleared to land in those most dangerous situations. Regional air carriers have been crying out that they've been left out of discussions and are still facing long- and short-term impacts. And, to the public's knowledge, a permanent solution to the issue still hasn't been settled on.
+
+Here's everything we do — and don't — know about the situation.
+
+What's the deal with the FAA 'clearing' some planes but not others?
+
+Radar altimeters are devices that uses radio waves to gauge how far an aircraft is off the ground, and they're essential for commercial airliners to land in bad weather. At the root of the ongoing problem is the fact that 5G frequencies Verizon and AT&T have just deployed, known as the C-band, are very near to the frequencies used by radar altimeters, sparking concerns about interference.
+
+Over the past two weeks, radar altimeter manufacturers have scrambled to "evaluate data from the wireless companies to determine how robust each model" of radar altimeter is and whether it can still function even when flying near an active 5G antenna, according to the FAA
+
+In a statement Thursday, the FAA said it issued more approvals that allow 78% of the US commercial airliner fleet to perform low-visibility landings at airports near where wireless companies deployed 5G. Essentially, regulators said that they now deemed it safe for aircraft that used one of 13 types of radar altimeters.
+
+The approved models include:
+
+All Boeing 717, 737, 747, 757, 767, 777, 787, MD-10/-11 jets
+
+All Airbus A300, A310, A319, A320, A330, A340, A350 and A380 models
+
+Some Embraer 170 and 190 regional jets
+
+But of course, more than 20% of the United States' commercial aircraft fleet hasn't been approved. And the FAA warned that it anticipates that "some altimeters will be too susceptible to 5G interference."
+
+"To preserve safety, aircraft with those altimeters will be prohibited from performing low-visibility landings where 5G is deployed because the altimeter could provide inaccurate information," the agency said.
+
+The agency also warned that the buffers that are reducing 5G signal strength around certain airports are essential for keeping safe operations going.
+
+A 5G cellular tower stands as a Southwest Airlines Co. Boeing 737 airplane lands at Los Angeles International Airport (LAX) in the Lennox neighborhood of Los Angeles, California, on January 19.
+
+It is not clear, however, why the FAA and altimeter manufacturers could not have done these evaluations sooner.
+
+On its website , the FAA states that over the past two weeks it has "received vital 5G" data that made these decisions possible and "facilitated data sharing" between altimeter manufacturers and wireless companies.
+
+What's the deal with regional carriers?
+
+They're still in limbo, according to Faye Malarkey Black, who as Regional Airline Association president represents the carriers connecting larger hubs to dozens of smaller cities around the country.
+
+Regional flights have brands like American Eagle, Delta Connection, and United Express, and they're contracted out to companies or subsidiaries like Envoy, ExpressJet, Republic Airways and SkyWest Airlines.
+
+And for them — "crisis has not been averted," Black warned
+
+A Delta Air Lines Inc. plane is prepared for taxiing at Raleigh-Durham International Airport (RDU) in Morrisville, North Carolina, U.S., on Thursday, Jan. 20.
+
+Bombardier jets, which are frequently flown by regional carriers, haven't gotten the green light for their altimeters. And Black said the rural airports will still "take a big hit to [their] operation when weather rolls in."
+
+"We will never compromise on safety," Black wrote on Twitter . "Flights will be grounded. Near term = highly disruptive. Long term = small [communities] will have less choice & less service."
+
+How did we get here and who's to blame?
+
+We're not sure. The airline industry has known for years that 5G was coming. Part of the issue may be an ongoing power struggle between the FAA and the Federal Communications Commission, which is the United States' referee for all things radio spectrum-related and sold off the band of spectrum at issue to wireless companies for a whopping $80 billion last year
+
+The FAA and FCC had been aware that airlines believed a travel disaster could be imminent if 5G were deployed without addressing the altimeter concerns. Wireless carriers had largely dismissed those concerns , however, and it wasn't until international airlines began canceling flights ahead of the 5G deployment on Wednesday that everyone began to announce significant strides in finding a solution.
+
+And that's how we got to where we are now, with temporary buffer zones that prevent 5G from being deployed near certain airports — we don't know exactly which ones — and a massive scramble to hash out exactly how much the altimeters will be impacted by this new cell service.
+
+As far as who is to blame, Verizon and AT&T — which owns CNN parent company WarnerMedia — pinned much of the blame on the Federal Aviation Administration in statements on Tuesday.
+
+But the FAA has been adamant that the aviation industry's concerns are real — and with the industry already reeling from the global pandemic — airlines are desperately hoping to avoid giving people yet another reason not to fly.
+
+Emirates president Sir Tim Clark did not mince words about what he sees as the issue, placing blame on the entire structure of the US system, saying "this is one of the most delinquent, utterly irresponsible" situations that he's seen in his aviation career.
+
+He added that the "risks and dangers" should have already been evaluated.
+
+How do we fix all this?
+
+It's not clear. Discussion among wireless carriers AT&T and Verizon as well as the airline industry and federal regulators are still ongoing.
+
+We're not sure if or when they will publicly announce a definitive path forward, but decisions will have to be made, especially considering the 5G "buffer zones" around major air hubs are still only temporary.
+
+Tom Wheeler, who served as chair of the FCC from 2013 to 2017, wrote some suggestions in a November piece for The Brookings Institution , where he said the concerns over spectrum interference could be allayed by making adjustments to the altimeters themselves.
+
+The problem? That's likely to cost billions of dollars — billions that no corporation wants to take out of its own pockets.
+
+"There are only three sources of such funds for the aviation industry. The government could pay out of the almost $82 billion generated by the sale of licenses to use the [5G spectrum at issue]; that would probably require an act of Congress," Wheeler wrote. "The wireless industry could pay an additional tariff on top of the billions already spent for spectrum the government said would be ready for use on December 5. The aviation industry, having known for some time of the new 5G allocation, could pay to fix the offending altimeters."
+
+Wheeler, for his part, also placed much of the blame for this debacle on a lack of leadership and a lack of a national spectrum policy.
+
+What's next?
+
+We're still waiting for updates on the negotiations from the FAA, FCC and all the other involved parties. It's not clear if there is a firm deadline they're working toward, nor is it clear how long the "temporary" 5G buffer zones will stay in place.

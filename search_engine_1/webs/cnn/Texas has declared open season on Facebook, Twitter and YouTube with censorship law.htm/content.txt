@@ -1,0 +1,87 @@
+(CNN) Texas residents can now sue Facebook, Twitter and YouTube for allegedly censoring their content after a federal appeals court sided Wednesday with the state's law restricting how social media sites can moderate their platforms.
+
+The 15-word ruling allowing the law, which had been blocked last year, to take effect has significant potential consequences. Most immediately, it creates new legal risks for the tech giants, and opens them up to a possible wave of litigation that legal experts say would be costly and difficult to defend.
+
+Texas's law makes it illegal for any social media platform with 50 million or more US monthly users to "block, ban, remove, deplatform, demonetize, de-boost, restrict, deny equal access or visibility to, or otherwise discriminate against expression."
+
+The law creates enormous uncertainty about how social media will actually function in Texas, according to legal experts, and raises questions about what users' online spaces may look like and what content they may find there, if the companies are even able to run their services at all.
+
+The ruling also sets the stage for what could be a Supreme Court showdown over First Amendment rights and, possibly, a dramatic reinterpretation of those rights that affects not just the tech industry but all Americans — and decades of established precedent.
+
+In short, the decision has allowed Texas to declare open season on tech platforms, with huge ramifications for everyone in the country. It could reshape the rights and obligations of all websites; our relationship to technology and the internet; and even our basic, fundamental understanding of the First Amendment.
+
+A controversial law takes effect
+
+The origins of Texas's law, HB 20, lie in the longstanding Republican criticism that tech platforms discriminate politically against conservative users, a charge the companies have denied and which platform moderation researchers say there is little systemic evidence to support.
+
+The law, which seeks to address the perceived imbalance, was blocked in December by a district court judge who ruled it was unconstitutional under the First Amendment. That decision came months after a similar law, in Florida, was also blocked for the same reason.
+
+But that all changed this week, when in oral arguments at the Fifth Circuit Court of Appeals, a three-judge panel confused social media platforms with internet service providers; disputed that Facebook and Twitter are websites; and expressed surprise that a service such as Twitter could "just decide" what content appears on its platform as a matter of course.
+
+Texas Attorney General Ken Paxton (2R) and Missouri Attorney General Eric Schmitt (2L) speak to reporters in front of the US Supreme Court in Washington, DC, on April 26, 2022.
+
+The result was Wednesday's decision overturning the lower-court injunction that had kept Texas's law from going into effect. The ruling promptly led Texas's attorney general Ken Paxton — who is also empowered to sue tech companies under HB 20 — to declare victory.
+
+"My office just secured another BIG WIN against BIG TECH," Paxton's office tweeted
+
+The appeals court has not provided a written opinion explaining the decision, and it did not offer the tech advocacy groups who challenged the law time to seek an appeal.
+
+"Apparently, they do not think this is disruptive or something," said Harold Feld, a senior vice president and communications lawyer at the consumer group Public Knowledge.
+
+Whatever happens next, legal experts appear convinced that the outcome will be chaos.
+
+Uncharted waters
+
+We are now in uncharted waters. For as long as the major US social networks have existed, they have been able to lean on Section 230 of the Communications Decency Act, a liability shield for how platforms handle user-generated content. Section 230 has bailed tech platforms out of many a lawsuit over the years. But the Texas law is poised to change everything. The tech industry's opponents have never had something like HB 20 on their side.
+
+The scope of the law is truly vast, according to legal scholars. It is broad both in terms of its text — explicitly naming at least nine types of prohibited content moderation — as well as its subtext. What does it really mean to "de-boost" or "deny equal visibility"? The ambiguity of those terms provides carte blanche to creative plaintiffs willing to stretch the definitions of the English language, according to Jeff Kosseff, a law professor at the US Naval Academy.
+
+"Just think of all the actions that could be seen as 'denying equal visibility' to user content," Kosseff tweeted
+
+The state law also forces tech companies to fight the same battles over and over again, prohibiting them from citing a successful defense in one court as a way of nipping similar cases in the bud in other courts.
+
+"Those are all things you'd do if you wanted to make litigation as attractive, expensive, and difficult to defend as possible," said Ken White, a First Amendment lawyer better known as @Popehat on Twitter.
+
+In theory, Section 230 may still preempt the state law and allow tech platforms to continue to escape liability. But the Fifth Circuit ruling throws much of that in doubt.
+
+How social media platforms might respond
+
+Supposing the law is not hit with another injunction, social media platforms must now try to figure out how to comply with it, with the knowledge that the litigation is ongoing and things could still change — again.
+
+What does social media look like in a post-HB 20 world? It isn't obvious. (Facebook and Twitter declined to comment for this story; YouTube didn't respond to a request for comment.)
+
+One option for tech platforms is to halt all algorithmic content filtering or ranking entirely. While it's tempting to imagine all social media looking like the clean, reverse-chronological feed you can actually find on Twitter today (if you know where to look), that is merely the best-case scenario and not the likeliest one, according to Daphne Keller, a platform liability expert at Stanford University.
+
+The Texas law opens the door to residents suing social platforms including Facebook, Twitter and YouTube for allegedly censoring their content.
+
+The reality might look more like email before the advent of spam filters. Because algorithms would be prohibited from removing or down-ranking material, social media platforms would have to host spam, porn, or hate speech indiscriminately -- an "unmoderated garbage dump," as Keller described it in a tweet
+
+That may not protect tech platforms from lawsuits either, however. Thanks to the law's broad language, a plaintiff could try to argue Facebook has silenced a user because her speech is now no longer visible underneath a mountain of spam. In this world, Facebook gets sued no matter what it does: Sued for taking down content and sued for not promoting content.
+
+After all, removing algorithmic amplification of some content could itself be seen as a kind of demotion, which is illegal under HB 20, Kosseff told CNN. "Who knows!" he said, emphasizing how wide open the possibilities are.
+
+In the face of all this uncertainty, tech platforms could simply throw up their hands and stop offering services in Texas altogether. But even pulling out of Texas might not save them. Buried in the law is a prohibition on discriminating against Texans based on their geographic location. By withdrawing from Texas, tech companies could expose themselves to allegations they have geographically discriminated against Texans in violation of HB 20.
+
+And that's without getting into all the ways people could try to maliciously game the law. With virtual private networks, it's trivial for your computer to become a "Texan" even if your physical body is sitting in Mississippi or Massachusetts. Could someone in those states avail themselves of HB 20 even if they don't live in Texas? As Kosseff might say: Who knows!
+
+A possible Supreme Court showdown
+
+After Wednesday's decision, the dispute over HB 20 could well end up at the Supreme Court. The groups that challenged HB 20 have at least two obvious options before them: They could turn to the Supreme Court directly, or they could ask for a rehearing in front of a wider panel of appellate judges in hopes of a different outcome — which could eventually lead to a Supreme Court appeal anyway.
+
+At least one justice, the conservative Clarence Thomas, has previously expressed interest in hearing a case that might allow the Court to rule on the issue of platform liability. A case involving HB 20 would present a ripe opportunity. If that happens, it's not a stretch to say that decades of First Amendment precedent may suddenly be on the line.
+
+A fundamental question at the heart of the case is whether the state of Texas — a government entity — is forcing social media companies to host speech with HB 20.
+
+This concept of "government-compelled speech" has long been held unconstitutional under the First Amendment. But a Supreme Court ruling upholding HB 20 may throw that longstanding precedent into doubt. Historic decisions that deal with compelled speech and protections for editorial curation might be substantially narrowed if not overruled in that scenario, said Kosseff.
+
+Because of the law's broad language, a plaintiff could theoretically try to argue Facebook has silenced a user because her speech is now no longer visible underneath a mountain of spam. In this world, Facebook gets sued no matter what it does: Sued for taking down content and sued for not promoting content.
+
+In light of the Court's apparent willingness to overturn decades of precedent in Roe v. Wade, it's not difficult to imagine the Court revisiting some of its most basic First Amendment convictions.
+
+Then there is the fate of Section 230, the quarter-century-old liability shield. Because Section 230 is a federal law that affirms websites' rights to manage their platforms (on top of the First Amendment), a Supreme Court ruling upholding Texas's state law could create a conflict, raising questions about federal preemption. Might the Court take this opportunity to curtail or strike down Section 230 in the process? It's anyone's guess.
+
+Another issue that could have far-reaching consequences involves HB 20's attempt to define social media platforms as "common carriers" akin to phone companies, railroad operators and electric utilities. Whether you agree social media platforms ought to be considered utilities or not, a finding upholding that classification would give states everywhere a roadmap for regulating online platforms like never before in the history of the internet, with vast implications for the wider digital economy.
+
+Of course, it's possible the Court may not even attempt to weigh in on some of these issues and simply leaves them unresolved — perhaps by giving HB 20 a thumbs-up or thumbs-down using the much-maligned shadow docket , CNN legal analyst Steve Vladeck suggested.
+
+Depending on how it turns out, this scenario could be the worst of all worlds — the legal equivalent of blowing things up and leaving everyone else to pick up the pieces.

@@ -1,0 +1,19 @@
+New York CNN Business —
+
+Google’s new Stadia gaming service is hot — in more ways than one.
+
+Some gamers accessing the new cloud gaming platform through a Google (GOOG) Chromecast Ultra dongle are reporting that their devices are crashing and overheating after just a few hours of use.
+
+Stadia, which launched on Tuesday, has been called the Netflix of video games. It delivers a games-on-demand experience without a clunky, space-consuming console. Customers can stream and play video games via smartphones, web browsers or wirelessly through a Chromecast.
+
+But perhaps running video games with super-complex graphics over the information superhighway isn’t the best thing for a tiny Chromecast the size of your thumb.
+
+In a Stadia thread on Reddit, one user wrote: “I was in the middle of a fight in Destiny 2 when suddenly my Chromecast died and lost connectivity to the network. I went to unplug it from the power and it was extremely hot.”
+
+Others chimed in with similar experiences: “Mine has overheated and shut off twice now.”
+
+Google told CNN Business it “will happily work with users to understand their particular experience better,” but noted it hasn’t seen thermal shutdown problems during its extensive testing.
+
+“During normal usage, the surface of the device may get warm to the touch. This is working as designed. Using your Chromecast Ultra to stream Stadia games is very similar to using it to stream TV shows and movies,” the company said in a statement.
+
+Google joins a growing list of competitors that are betting on cloud gaming. Sony (SNE) launched its PlayStation Now streaming service in 2014 and achieved some success, but some cutomers continue to complain about lag time on social media. Gaming hardware company Nvidia (NVDA) is already in the space with GeForce Now. Microsoft (MSFT) started publicly testing its cloud gaming service, Project xCloud, in October and plans to bring it to PCs next year. Amazon (AMZN) is rumored to be looking into its own cloud gaming service.

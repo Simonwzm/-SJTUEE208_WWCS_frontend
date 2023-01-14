@@ -1,0 +1,43 @@
+New York CNN Business —
+
+Google’s video-game streaming service, Stadia, will start rolling out in November, the company announced Thursday on a YouTube livestream.
+
+The system, which was originally announced in March, will act like a Netflix for video games. Google says it will eventually allow people to play games directly over WiFi from any TV with Chromecast, computer with a Chrome browser, and Google Pixel phones. There are no downloads as the games themselves exist on Google cloud servers. That means Stadia can also sync game progress across devices.
+
+At launch in November, Stadia will work on TVs with a Chromecast Ultra dongle, most computers with a Chrome browser, and Pixel 3 and Pixel 3a phones. More devices are slated to be added in 2020.
+
+People will have to buy a special subscription bundle if they want to play this year: The $129.99 Founder’s Edition will include a Stadia controller, a Chromecast dongle, three months of a Stadia streaming subscription, and a free pass so a friend can also play for three months. The company is taking pre-orders for the Founder’s Edition now.
+
+Stadia will launch in 14 countries in November, including the United States, Canada, the United Kingdom, Germany, Sweden, France, and Italy. Google plans to expand it to more countries next year.
+
+google, cnn
+
+Next year, Google will release a regular streaming subscription called Stadia Pro, which will cost $9.99 a month and include a rotating free game, as well as discounts for purchasing select individual titles. Google did not say how big the discounts would be. Stadia currently supports 31 games and counting, including Destiny 2, Assassin’s Creed Odyssey, Borderlands 3, and Rage 2.
+
+It will also offer a free-to-play version of Stadia with a lower resolution. People will have to pay for the titles they want.
+
+Michael Pachter, an analyst at financial services firm Wedbush, told CNN Business that the current game selection of 31 titles is underwhelming. “It’s analogous to a buffet that has only 31 dishes; if they don’t have what you want, they won’t get your business,” he said.
+
+Google told CNN Business that individual game publishers will announce more Stadia-compatible titles at the annual E3 video game conference, including new and highly anticipated releases.
+
+Attendees play games on the new Stadia gaming platform at the 2019 Game Developers Conference. Justin Sullivan/Getty Images
+
+Similar streaming services have failed in the past, Pachter wrote in an analyst note. Cloud gaming services like GameTap and OnLive did not taken off among gamers. OnLive was ultimately discontinued and GameTap was sold to a new company, where it still lives today. (GameTap was originally part of Turner Broadcasting, which is now WarnerMedia, CNN’s parent company.)
+
+The problem is in how much companies can charge for a subscription service, according to Pachter. Charge $20 a month, and they can get better access to third-party content but gamers won’t bite. Charge $10, and the offerings will be paltry.
+
+Still, there’s hope for Google, analysts say. The company’s free version of Stadia won’t require people to buy a separate console and could be attractive. Pachter predicts that the storefront business model will be “immensely successful.” “Publishers would likely embrace this model and we see few impediments to its success,” he wrote.
+
+Google has invested a lot into Stadia. It launched its own Stadia Games and Entertainment studio to make Stadia games. A spokesperson said original content could be available starting next year.
+
+Google also recently hired Jade Raymond, a Google VP who previously worked at Sony, Electronic Arts, and Ubisoft, according to her LinkedIn.
+
+But its competitors are gearing up for a fight. Microsoft’s upcoming xCloud game streaming service is still being tested, and it’s possible the company will provide an update at E3.
+
+Analysts anticipate Amazon potentially releasing its own streaming-game service by the end of the year. It would be different from the Amazon-owned Twitch, which lets people watch others play video games.
+
+Laine Nooney, assistant professor and historian of video games at New York University, said that while Stadia has the advantage of being first to market with cloud streaming, Google still has to figure out who it’s serving.
+
+“Does Google think it can pull players from Xbox, PlayStation, or Nintendo, companies that have defined what it means to be a gamer for 20 or 30 years? Or is Google hoping to…open up new player markets?” said Nooney. “It seems like Google is hoping to have it both ways.”
+
+Correction: An earlier version of this story incorrectly described some details of Stadia's availability and game offerings.

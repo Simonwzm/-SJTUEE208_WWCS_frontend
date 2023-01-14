@@ -1,0 +1,35 @@
+New York (CNN Business) A group of more than 80 fact-checking organizations from around the world has called YouTube "one of the major conduits of online disinformation and misinformation worldwide" and wants the platform to do more to address the problem.
+
+In an open letter to YouTube CEO Susan Wojcicki published Wednesday, the group said the platform's current measures to combat misinformation are "proving insufficient" and laid out a series of recommended steps to improve its approach, including providing more context and debunks, as well as reducing the ability for spreaders of misinformation to monetize their content on the platform.
+
+The letter comes amid ongoing concerns about online misinformation, especially related to elections and health claims . YouTube, however, has generally faced less scrutiny than fellow tech giant Facebook (now a division of parent company), which received a similar letter in November 2016.
+
+"YouTube is allowing its platform to be weaponized by unscrupulous actors to manipulate and exploit others, and to organize and fundraise themselves," the letter reads. "We urge you to take effective action against disinformation and misinformation, and to elaborate a roadmap of policy and product interventions to improve the information ecosystem — and to do so with the world's independent, non-partisan fact-checking organizations."
+
+Meta, Twitter and YouTube have all partnered with fact-checkers in some capacity over the years. Meta's effort is generally considered the most robust, as it involves partnerships with 80 fact-checking organizations across 60 languages globally that are certified by the independent International Fact Checking Network . YouTube, for its part, says it collaborates with hundreds of publishers to direct users in several countries to authoritative information in fact-check panels.
+
+In a call with reporters ahead of the letter's publication, members of several of the letter's signatories said they had met multiple times with representatives of YouTube and corporate sibling Google to discuss working together to combat misinformation, but said the company's commitments were still falling short.
+
+"Nothing moves, nothing changes," said Cristina Tardáguila, founder of Brazilian fact-checking organization Agencia Lupa, during the call. "I think the huge difference here ... is that it's time to actually heavily pressure YouTube. They've been around for a long time."
+
+In a statement to CNN Business about the letter, YouTube spokesperson Elena Hernandez called fact checking a "crucial tool" but "one piece of a much larger puzzle to address the spread of misinformation."
+
+"Over the years, we've invested heavily in policies and products in all countries we operate to connect people to authoritative content, reduce the spread of borderline misinformation, and remove violative videos," Hernandez said. "We've seen important progress, with keeping consumption of recommended borderline misinformation significantly below 1% of all views on YouTube, and only about 0.21% of all views are of violative content that we later remove. We're always looking for meaningful ways to improve and will continue to strengthen our work with the fact checking community."
+
+YouTube has taken some actions to combat misinformation . For example, when users search "Covid-19" on YouTube, the results page links to information from the US Centers for Disease Control and Prevention, and it surfaces videos from authoritative news sources first. YouTube has suspended figures such as GOP Senators Rand Paul and Ron Johnson for violating its Covid-19 misinformation policies. And it has a years-old strike policy that dictates escalating punishments for repeated violations of its community guidelines , which prohibit "certain types of misleading or deceptive content with serious risk of egregious harm," including harmful health remedies or content aimed at suppressing participation in the US census.
+
+But the group of fact checkers say they want YouTube to create a more clear and consistent system for working with fact-checking organizations. The letter calls on YouTube to "publish its full moderation policy regarding disinformation and misinformation, including the use of artificial intelligence and which data powers it."
+
+"YouTube's focus should be on providing context and offering debunks, clearly superimposed on videos or as additional video content," it states. "That only can come from entering into a meaningful and structured collaboration ... and systematically investing in independent fact-checking efforts around the world."
+
+The letter's signatories comprise fact-checking organizations from more than 46 countries, including Africa Check, the Philippines' Rappler; France's Science Feedback; India's Factly; Colombia's Colombiacheck; and FactCheck.org and The Washington Post Fact-checker from the United States. The letter specifically calls out shortcomings in YouTube's ability to moderate non-English-language content, and raised concerns about the cross-border spread of misinformation.
+
+"We would like YouTube to be really serious about languages other than English, countries other than the United States," Carlos Hernández-Echevarría, head of public policy and institutional development at fact checking and social media verification nonprofit Maldita. (YouTube's Hernandez said the platform enforces its policies globally, and that its systems work to reduce potentially violative content and promote authoritative content around the world.)
+
+The letter also calls on YouTube to take action against accounts whose content is repeatedly flagged as misinformation. Proposed actions include removing such accounts' ability to monetize that content through ads or to point viewers toward outside payment platforms, and ensuring YouTube's algorithm doesn't promote misinformation.
+
+YouTube has said that in 2020 it banned coordinated groups such as QAnon and the Proud Boys, known for spreading conspiracy theories and misinformation about voting and elections. The platform says it has taken similar actions in other countries.
+
+In late September, YouTube announced steps to crack down on anti-vaccine claims . The platform said at the time it would remove the channels of several well-known vaccine misinformation spreaders and that videos pushing misinformation about currently approved and administered vaccines would be taken down and their posters subject to its strike policy. Still, critics questioned why YouTube had waited so long to take such actions.
+
+The letter's signatories said they hope to meet with Wojcicki to discuss implementing their suggestions to "make YouTube a platform that truly does its best to prevent disinformation and misinformation being weaponized against its users and society at large."

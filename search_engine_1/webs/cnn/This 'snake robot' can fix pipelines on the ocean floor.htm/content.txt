@@ -1,0 +1,11 @@
+Trondheim, Norway (CNN Business) The deep-sea oil and gas industry has a vast and costly infrastructure to maintain. Wells, other equipment, and thousands of kilometers of pipeline must be installed, inspected and repaired.
+
+Now, cutting-edge underwater drones and robots are being developed that could make the work safer, cheaper and less polluting.
+
+Among them is Eelume, a six-meter-long, snake-like robot kitted out with sensors and a camera at each end. It can be kept at a docking station at depths up to 500 meters (547 yards) for six months, without being brought back to the surface.
+
+The self-propelling robot can travel up to 20 kilometers (12.4 miles) before needing to return to its station to recharge. It can also swap out parts for different tasks, including tools to operate subsea valves, and cleaning brushes to remove marine growth and sediments.
+
+Maintenance work at many deep-water wells and pipeline systems is already carried out by unmanned vehicles. But these vehicles typically need to be transported to the offshore site on a fully crewed ship and then remotely operated from onboard the surface vessel. That can cost up to $100,000 per day, according to Pål Liljebäck, chief technology officer with Eelume Subsea Intervention , which developed the robot.
+
+Read More

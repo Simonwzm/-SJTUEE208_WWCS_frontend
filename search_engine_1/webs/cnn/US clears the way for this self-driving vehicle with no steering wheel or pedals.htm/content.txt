@@ -1,0 +1,29 @@
+Washington, DC CNN —
+
+The federal government has cleared the way for a Silicon Valley startup to deploy thousands of its self-driving delivery vehicles on US streets.
+
+Nuro, based in Mountain View, California, is now able to launch up to 5,000 of its R2 autonomous vehicles over the next two years, according to the US Department of Transportation.
+
+The R2 has no steering wheel, pedals or side mirrors as it’s designed to be unmanned and carry cargo. Large compartments on its side open up to reveal deliveries, such as groceries or pizza.
+
+Nuro said the R2 will begin delivering pizza and groceries in Houston this year. Nuro
+
+Nuro said it will initially deploy the R2 in six zip codes in Houston, covering 160,000 residents. It plans to start delivering Domino’s pizza in Houston soon, although it didn’t specify an exact date. In December, the company announced a partnership with Walmart to test autonomous grocery delivery in Houston sometime this year.
+
+The federal government has told self-driving companies to apply for exemptions to its vehicle standards in order to more quickly get innovative technologies onto roadways. Nuro is the first company to receive an exemption from the Department of Transportation’s Federal Motor Vehicle Safety Standards, which requires cars to have a long list of safety features including airbags and seat belts.
+
+“Since this is a low-speed self-driving delivery vehicle, certain features that the department traditionally required – such as mirrors and windshield for vehicles carrying drivers – no longer make sense,” said Transportation Secretary Elaine Chao in a statement.
+
+The R2 is also classified as a low-speed vehicle so it doesn’t have to meet the same safety requirements as cars and SUVs. Low-speed vehicles can only go as fast as 25 miles per hour and must not weigh more than 2,500 pounds.
+
+Nuro is required to report any crash-related information to the federal government and to periodically report general information about the R2’s operation. A spokeswoman for the Department of Transportation declined to offer additional details on what other data must be provided.
+
+“One will need to look at the fine print of the reporting requirements to fully assess if NHTSA will be requiring robust enough information on adverse events to fully quantify the risks and benefits of the deployments,” said Bryan Reimer, a research scientist in the MIT AgeLab and the associate director of the New England University Transportation Center at MIT. “I’m glad to see that this is only for low speed deployments as one needs to walk before anyone is allowed to run.”
+
+Initially, the R2 will be followed by a vehicle with a human driver who will monitor it and intervene remotely if needed. The R2 is already being tested on private land.
+
+Nuro plans to build only a few hundred R2s in its first year and will remain focused on Houston for the time being. It expects to produce thousands more vehicles once it releases its next-generation R3. The company did not say when it plans to release the R3.
+
+Unlike most self-driving companies, Nuro is focused on carrying goods rather than people. There are fewer safety and ethical questions when an autonomous vehicle is carrying groceries than a human being. Such questions as to whether a pedestrian or a passenger should be prioritized in a crash can be avoided.
+
+Most self-driving companies have not applied for government exemptions as they continue to develop and alter their vehicles. Companies offering self-driving rides today, such as Alphabet’s Waymo, are relying on vehicles that include traditional car components, including steering wheel, pedals and mirrors, which have given them a quicker path to deployment.

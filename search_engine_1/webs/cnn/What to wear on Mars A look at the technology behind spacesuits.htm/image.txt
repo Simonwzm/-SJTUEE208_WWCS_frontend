@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190529222938-spacesuit-designer-01.jpg?q=x_2,y_3,h_926,w_1646,c_crop/w_800

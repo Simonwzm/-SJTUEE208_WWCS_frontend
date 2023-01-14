@@ -1,0 +1,25 @@
+CNN Business —
+
+A desire to steal money continues to be the leading motivator behind cyber attacks, according to Verizon’s annual Data Breach Investigations Report.
+
+The report, released Tuesday, appeared prescient after EasyJet (ESYJY) announced the same day that hackers stole personal data on 9 million customers, including the credit card details of more than 2,000 people.
+
+Verizon (VZ)’s report found that 86% of the data breaches it analyzed from 2019 were for financial gain — up from 71% in the year prior — and many of them were conducted by organized criminal groups. Other motivators include espionage, ideology and so-called “secondary” motivators, such as a desire to steal intellectual property or trade secrets.
+
+The report analyzed 32,002 security incidents and 3,905 confirmed breaches reported by 81 organizations from a range of industries around the world.
+
+“Every year I am surprised by the number (of financially motivated attacks),” Sowmyanarayan Sampath, president of global enterprise for Verizon Business Group, told CNN Business. “If you look at most of the news that’s out there, you see state actors, espionage, trade secrets, but most of these breaches are people wanting to steal money from you.”
+
+Those financially motivated attacks include direct theft of a person or company’s money, such as through their bank account, or financial information, as well as theft of information that could be sold (on the dark web, for example). The category also includes ransomware attacks, which accounted for 27% of the malware incidents the report analyzed. Such attacks can cost companies anywhere from around $1,000 to hundreds of thousands of dollars.
+
+The majority of breaches — at least 67% — were caused by one of three common issues: credential theft, social attacks such as phishing, and human errors like leaving a password written somewhere others can see. Credential theft is often easy because people have poor “password hygiene,” using weak passwords or the same password across multiple websites, Sampath said.
+
+“If you have common passwords for many sites, and one site gets exposed and that information is available on the dark web, (bad actors) will go through and try different sites to see what opens up,” he said.
+
+As use of cloud computing grows, attacks on web applications, such as online email or remote collaboration systems, are another growing way hackers carry out breaches. Web application attacks doubled over the past year to 43%, according to the report.
+
+Companies may want to be on even higher alert for potential cybercrime these days, with so many employees working from home. Remote workers likely use web applications more often to access company information and servers, and could be more vulnerable to phishing schemes, which Sampath said have proliferated in recent weeks.
+
+Protecting company computer networks when so many are working from home requires “a major mindset change,” Sampath said. He added that whereas companies have long thought of enacting cybersecurity measures as building a moat around a castle, when employees aren’t working from a centralized office space, it’s even harder to identify where the “castle” is. Instead, he said, companies should adopt a “zero trust” approach to security.
+
+“Everyone touching your network has to be authenticated,” Sampath said. “Every application, every bit of data that comes in, you verify it … You just have to do a lot more to check, (including) multi-factor authentication, identity management, encryption.”

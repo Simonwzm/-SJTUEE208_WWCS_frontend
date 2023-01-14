@@ -1,0 +1,49 @@
+San Francisco CNN Business —
+
+Twitter (TWTR) accounts belonging to Joe Biden, Bill Gates, Elon Musk and Apple, among other prominent handles, were compromised on Wednesday in what Twitter (TWTR) said it believes to be an attack on some of its employees with access to the company’s internal tools.
+
+“We detected what we believe to be a coordinated social engineering attack by people who successfully targeted some of our employees with access to internal systems and tools,” Twitter’s support team said late Wednesday.
+
+The attackers posted tweets that appeared to promote a cryptocurrency scam.
+
+The accounts, along with those of former President Barack Obama, Kanye West, Kim Kardashian West, Warren Buffett, Jeff Bezos and Mike Bloomberg, posted similar tweets soliciting donations via Bitcoin to their verified profiles on Wednesday.
+
+“Everyone is asking me to give back, and now is the time,” Gates’ tweet said, promising to double all payments to a Bitcoin address for the next 30 minutes. All the tweets were subsequently deleted.
+
+“Once we became aware of the incident, we immediately locked down the affected accounts and removed Tweets posted by the attackers,” Twitter said. “We have locked accounts that were compromised and will restore access to the original account owner only when we are certain we can do so securely.”
+
+Bill Gates was one of a number of prominent Twitter users to have their accounts compromised on Wednesday. CNN has blurred a portion of the image. Twitter
+
+In a tweet on Wednesday, CEO Jack Dorsey said it was a “tough day for us at Twitter.”
+
+“We all feel terrible this happened,” Dorsey said. “We’re diagnosing and will share everything we can when we have a more complete understanding of exactly what happened.”
+
+A little more than an hour after the attack began, Twitter apparently moved to prevent holders of verified accounts from tweeting. Non-verified accounts could still tweet, however.
+
+Around 8:30 pm ET, roughly three hours after Twitter first said publicly that it was investigating the apparent hack and a little more than two hours after it shut down tweeting for some accounts, Twitter said the majority of accounts had been restored to full functionality.
+
+“Most accounts should be able to Tweet again. As we continue working on a fix, this functionality may come and go,” Twitter said. “We’re working to get things back to normal as quickly as possible.”
+
+The company said it is still investigating the breach and what other data may have been compromised.
+
+“We’re looking into what other malicious activity they may have conducted or information they may have accessed and will share more here as we have it.”
+
+The sheer number of prominent accounts impacted made it arguably the biggest security incident in Twitter’s history. A hack like this is particularly concerning not just because of any financial scam that can be run, but because so many world leaders use Twitter — and some, like President Donald Trump, use it to announce major policy decisions. A hack that took over an account belonging to one of those leaders could have devastating consequences.
+
+Last year, Dorsey’s account was hacked, raising concerns about whether any account on the platform can truly avoid being compromised. The mechanism by which that hack occurred was fixed by Twitter after Dorsey’s hack and there’s no reason to believe it is to blame here.
+
+A campaign aide for Biden said Twitter “locked down” his account immediately. “We remain in touch with Twitter on the matter,” the aide added.
+
+Barack Obama's Twitter account also appeared to be compromised as part of a broader security incident on the platform Wednesday. CNN blurred a portion of the image. Twitter
+
+“We can confirm that this tweet was not sent by Bill Gates,” a spokesperson for Gates told CNN Business. “This appears to be part of a larger issue that Twitter is facing. Twitter is aware and working to restore the account.”
+
+Asked whether it was concerned about the President’s account potentially being affected, or whether it was in touch with Twitter about the issue, the White House declined comment.
+
+The first Bitcoin wallet featured in some of the tweets only became active on Wednesday, Tim Cotten, a Bitcoin researcher, told CNN Business. In the hours immediately after the wallet’s identification number was posted to Twitter, it received more than $100,000 worth of Bitcoins through hundreds of transactions, Cotten said.
+
+Some of that Bitcoin was then transferred to other wallets, he added.
+
+The apparent scam has also caught the attention of the FBI.
+
+“We are aware of today’s security incident involving several Twitter accounts belonging to high profile individuals,” the FBI’s San Francisco field office said in a statement. “The accounts appear to have been compromised in order to perpetuate cryptocurrency fraud. We advise the public not to fall victim to this scam by sending cryptocurrency or money in relation to this incident.”

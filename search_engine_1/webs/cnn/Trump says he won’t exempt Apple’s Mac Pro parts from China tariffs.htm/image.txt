@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190726113830-apple-mac-pro.jpg?q=x_4,y_202,h_2190,w_3891,c_crop/w_800

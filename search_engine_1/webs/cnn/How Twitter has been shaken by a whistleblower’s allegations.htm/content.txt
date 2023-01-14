@@ -1,0 +1,59 @@
+New York CNN Business —
+
+In the days since it was first reported that former Twitter head of security Peiter “Mudge” Zatko had filed an explosive whistleblower disclosure, the company has had to confront renewed scrutiny from lawmakers, a dip in its stock price and added uncertainty in its high-stakes legal battle with billionaire Elon Musk.
+
+In the disclosure, Zatko alleged that the company has serious security and privacy vulnerabilities that could put users, investors and US national security at risk. He also alleged that Twitter executives have misled regulators and even the company’s own board about its shortcomings.
+
+Twitter (TWTR) has criticized Zatko and broadly defended itself against the allegations, saying the disclosure paints a “false narrative” of the company and is “riddled with inconsistencies and inaccuracies.” Zatko was fired from Twitter (TWTR) in January for what a company spokesperson said was “ineffective leadership and poor performance.”
+
+The slew of sharp reactions to Zatko’s disclosure from lawmakers, regulators and cybersecurity industry experts, not to mention Musk’s attorneys, raise the prospect that the claims could have significant and long-lasting implications for the social media company. To make matters worse, it comes at a time when Twitter has already been grappling with uncertainty among its employees, shareholders and advertisers from its pending deal with Musk.
+
+The disclosure — which totals around 200 pages, including supporting exhibits — was sent last month to several US government agencies and congressional committees, including the Securities and Exchange Commission, the Federal Trade Commission and the Department of Justice. CNN obtained a copy of the disclosure from a senior Democratic aide on Capitol Hill. The SEC, DOJ and FTC declined to comment.
+
+Twitter shares fell 7% Tuesday following news of the disclosure. The company’s stock was already suffering amid Musk’s attempt to get out of his $44 billion deal to acquire the platform, and is now trading at just over half of its all-time high near $80 last February.
+
+Here is a look at the fallout in the immediate aftermath of the reporting on the disclosure:
+
+Lawmakers and regulators start asking questions
+
+On Wednesday, the day after the disclosure was first reported by CNN and The Washington Post, the Senate Judiciary Committee announced it would hold a hearing with Zatko to discuss his allegations of security failures and misleading statements by Twitter executives.
+
+The hearing is slated for September 13, which just so happens to be the same day Twitter shareholders are set to vote on whether to approve Musk’s $44 billion takeover deal.
+
+“Mr. Zatko’s allegations of widespread security failures and foreign state actor interference at Twitter raise serious concerns,” said Sens. Dick Durbin and Chuck Grassley, the committee’s chair and ranking Republican, respectively. “If these claims are accurate, they may show dangerous data privacy and security risks for Twitter users around the world.”
+
+Other US lawmakers have also weighed in on the matter.
+
+The Senate Intelligence Committee, which received a copy of the report, is taking the disclosure seriously and is setting a meeting to discuss the allegations, according to Rachel Cohen, a committee spokesperson. Sen. Richard Blumenthal, who chairs the Senate subcommittee on consumer protection, wrote a letter to the FTC on Tuesday calling on the agency to investigate the claims, and impose fines and individual liability on specific Twitter executives if a probe finds they were responsible for security lapses. Sen. Ron Wyden on Wednesday renewed calls for Twitter to protect its users’ direct messages from prying eyes with secure, end-to-end encryption.
+
+Members of the US House Committee on Homeland Security on Thursday sent Twitter CEO Parag Agrawal a letter demanding that he address Zatko’s allegations and explain Twitter’s readiness for the 2022 midterms. And Twitter’s main regulator in Europe, the Irish Data Protection Commission, has also said it is seeking information from the company in light of the allegations.
+
+Implications for the Twitter-Musk Trial
+
+The whistleblower disclosure could have major ramifications for Twitter’s fight with Musk over their acquisition deal. But the Tesla CEO has been uncharacteristically quiet in the days since the news broke.
+
+On Tuesday, Musk tweeted a meme of Jiminy Cricket (Pinocchio’s conscience in the Disney classic) with the words “give a little whistle,” as well as a screenshot of a portion of a Washington Post story discussing Twitter’s process for measuring spam bots. The latter issue has become central to Musk’s attempt to exit the deal. (Twitter has said it stands by its publicly reported measurements and has accused Musk of using bots as a pretext to get out of a deal he now has buyer’s remorse over.)
+
+But while Musk has said little about Zatko, his lawyers are clearly interested in the former Twitter head of security. Musk lawyer Alex Spiro told CNN Tuesday that the billionaire’s legal team had subpoenaed Zatko in the case even before news of the disclosure was reported.
+
+In a Wednesday court hearing in the case, Spiro mentioned Zatko multiple times, in an early preview of how Musk’s side might use the new allegations in his legal battle. Spiro suggested during the hearing that the billionaire’s team does not trust Twitter’s estimate for spam accounts and monetizable daily active users (mDAU), a key metric it provides to investors, and said Musk’s team is requesting information that would allow them to test the measurements.
+
+“They have an economic incentive to mislead,” Spiro said. “There’s a whistleblower complaint that has now been filed publicly that talks about the false information provided.”
+
+In the disclosure, Zatko claimed that Twitter does not have an accurate count of the number of spam and fake bot accounts on its platform and that the company has little incentive to undertake a full count of such accounts, allegations that could potentially burnish Musk’s claims. Musk’s lawyers could also attempt to seize on other claims in the disclosure unrelated to bots — including allegations that Twitter made misrepresentations to regulators such as the Federal Trade Commission and Securities and Exchange Commission about its privacy and security practices — as additional reasons he should be able to walk away from the deal.
+
+(Zatko told CNN that his disclosure is unrelated to the acquisition, that he has no personal relationship with Musk and that he began documenting the concerns that would become his disclosure before there was any indication of Musk’s involvement with Twitter.)
+
+Twitter says that it allows bots on its platform, such as good bots that tweet out news alerts, but its rules prohibit those that engage in spam or platform manipulation. The company says it regularly challenges, suspends and removes accounts engaged in spam and platform manipulation, including typically removing more than one million spam accounts each day. It declined to answer questions from CNN about the total number of accounts on the platform or total new accounts added each day.
+
+Reassuring employees
+
+Twitter executives have been pushing back against the allegations publicly, and trying to stem the fallout internally.
+
+Agrawal on Tuesday wrote an internal memo to employees, obtained by CNN, vowing to challenge the allegations in the disclosure and seeking to reassure employees, calling the allegations “frustrating and confusing to read.”
+
+The situation also came up in a regularly scheduled, company-wide meeting at Twitter on Wednesday. Agrawal opened the meeting by pushing back on claims made by Zatko, saying a “false narrative” has been created about the company, which “is currently challenging our integrity.” Details of the call were shared with CNN by a Twitter employee.
+
+In the meeting Wednesday, Sean Edgett, Twitter’s general counsel, said the company reached out to regulators and “various agencies around the world” when the company learned about the allegations being made by Zatko.
+
+On Thursday, Twitter confirmed to CNN that it will combine its teams working to prevent toxic content and spam bots in order to better fight bad actors and increase transparency around its efforts to improve platform health, a move first reported by Reuters. A spokesperson did not directly respond to a question about whether the reorganization is related to the disclosure.

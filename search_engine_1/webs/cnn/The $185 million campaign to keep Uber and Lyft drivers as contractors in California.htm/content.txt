@@ -1,0 +1,87 @@
+(CNN Business) At first, Uber and Lyft driver Michael Richert was undecided about how he would vote on Proposition 22, a California ballot initiative sponsored by gig economy giants Uber, Lyft, DoorDash, Instacart and Uber-owned Postmates that comes up for a vote in November.
+
+Then, he found out how much they were spending to get it passed: over $185 million, according to California Secretary of State records . Richert said he was "blown away" by the amount, and started looking into what's really at stake for him and other drivers.
+
+The amount of financing behind the ballot measure — the most expensive proposition in the state's history according to Ballotpedia — underscores how important its passage is to the future of the businesses.
+
+The companies have built up massive fleets of workers over the years by treating them as independent contractors, who are paid on a gig-by-gig basis. But a new law which went into effect this year in California, threw a wrench into the model.
+
+So, gig companies are fighting back with Proposition 22, the App-Based Drivers as Contractors and Labor Policies Initiative. If it passes, ride-hail and delivery drivers would continue to be treated as independent contractors with some benefit concessions granted by the proposition. If it doesn't pass, these workers would likely be considered employees who are entitled to a minimum wage, overtime pay, workers' compensation, unemployment insurance and paid sick leave.
+
+Richert, who is based in Southern California, said that, while he hasn't driven since the onset of the pandemic for fear of contracting the coronavirus, he frequently checks the apps when there's messaging about the importance of passing Proposition 22, or Prop 22 as it's commonly called. When he flips on the television, he sees ads sponsored by the campaign touting the flexibility of the job, a perk which is popular with workers and the companies claim is contingent on maintaining their independent contractor status.
+
+"This is an all-out battle royale to make sure they are ultimately victorious," Daniel Ives, an analyst at Wedbush Securities, told CNN Business. "If it falls by the wayside, there are going to be serious business model changes to the gig economy."
+
+If the ballot measure fails to pass, the market for ride hail and delivery drivers could drastically change, according to Yes campaign spokesperson Geoff Vetter to CNN Business by email. It could mean their services would become more expensive for consumers and that the companies would employ just a fraction of the drivers who are on the road today, Vetter said. Those workers would have stricter schedules and wouldn't be able to just turn on their apps and work whenever they want, according to the Yes campaign.
+
+Uber and Lyft are leveraging their apps to convey their stance on Proposition 22 to riders in California.
+
+By comparison, the opposition, backed by labor and union groups, has put over $12 million into fighting the initiative, according to California Secretary of State records . They argue that Prop 22 is an "attempt to strip away drivers' rights to wages and benefits like unemployment insurance," said Mike Roth, spokesperson for the No on Prop 22 campaign.
+
+"Do you believe for one second that these companies are spending $180 million on a ballot measure that's going to benefit drivers more than it benefits Uber-Lyft-DoorDash's bottom line?" he said.
+
+Veena Dubal, a labor law professor at University of California, Hastings, and a vocal advocate for labor rights, told CNN Business that the implications for labor could be much broader than the drivers covered by Prop 22. "There is a strong likelihood that if [Prop 22] passes, it would create lower labor standards across the board for the delivery and logistics industry."
+
+What will Prop 22 do
+
+Prop 22 seeks to side-step Assembly Bill 5, or AB-5, which went into effect on January 1 and codifies an "ABC" test to determine if workers are employees who are entitled to labor protections and benefits. Under the test, employers must meet three requirements to prove their workers are independent contractors, including that the workers are providing a service that is outside the company's core business.
+
+The law has proven to be a thorn in the side of gig companies.
+
+In May, the California Attorney General and a coalition of city attorneys sued the best-known companies — Uber and Lyft — accusing them of misclassifying drivers as independent contractors and depriving them of protections they would be entitled to as employees.
+
+An Uber spokesperson said in a statement at the time that it plans to "contest this action in court, while at the same time pushing to raise the standard of independent work for drivers in California, including with guaranteed minimum earnings and new benefits."
+
+A Lyft spokesperson said it is "looking forward to working with the Attorney General and mayors across the state to bring all the benefits of California's innovation economy to as many workers as possible."
+
+Other legal battles in California challenge the classification of workers of the on-demand food and grocery delivery companies.
+
+Prop 22 presents alternatives to the protections under AB-5, such as a minimum earnings guarantee of "120 percent of minimum wage," or $15.60 based on the California minimum wage of $13 for companies of 26 employees or more. But an analysis from UC Berkeley Labor Center estimates that the pay guarantee for Uber and Lyft drivers would actually be equivalent to a wage of $5.64 per hour, because of "multiple loopholes" in the proposition. These loopholes include that Prop 22 only counts "engaged time" as time when a driver is fulfilling a ride or delivery request, but not the time they spend waiting for a gig.
+
+A working paper released this week from UC Berkeley economist Michael Reich, who co-authored the earlier analysis, found that making drivers employees would boost overall compensation by 30%. Under Prop 22, workers would receive $0.30 reimbursement per engaged mile. The UC Berkeley Labor Center also points out that's lower than the IRS' estimated 58 cents per mile cost of owning and operating a vehicle.
+
+It also includes a health care contribution from the company for certain qualifying workers, also based on "engaged time." In lieu of worker's compensation, it offers capped benefits for medical and disability in cases of on-the-job injuries.
+
+Critics of Prop 22 argue it undermines the spirit of AB-5, which is intended to ensure workers aren't exploited by gig companies. Notably, for its concessions, Prop 22 does not offer explicit protections such as workers' compensation, unemployment insurance, family leave, or sick leave, or allow workers to unionize.
+
+The importance of these protections has been underscored by the pandemic. As ride-hail requests plummeted with people increasingly staying home, some drivers watched their income dry up. Other parts of the on-demand economy, such as meal and food delivery, have surged, serving as job opportunities for Americans out of work. These workers have had to weigh their own health against their financial needs.
+
+"Here we are in a pandemic and the drivers — who have by definition exposure to the public — are being denied sick pay," said William Gould IV, a law professor at Stanford University and former chairman of the National Labor Relations Board. "To me, it is scandalous."
+
+The gig economy companies set up various financial assistance programs during the pandemic, largely providing some limited funds to who had contracted the coronavirus or were quarantined by a doctor. But these programs aren't the same as established benefits.
+
+What about flexibility?
+
+Yes on 22 has positioned worker flexibility at the center of its television and social media campaigns, and indeed, for many workers the ability to work whenever they want by just opening an app is very appealing.
+
+But contrary to the Yes campaign's positioning, there's nothing in California law that prevents companies from providing such flexibility to workers, regardless of employment status, as some labor experts have pointed out. Terri Gerstein of the Harvard Labor and Worklife Program and Economic Policy Institute called it a "faux concern."
+
+In fact, it's spelled out in AB-5 that "nothing in this act is intended to diminish the flexibility of employees to work part-time or intermittent schedules or to work for multiple employers."
+
+What is true is that, if companies are required to classify workers as employees, companies might rein in the flexibility in order to efficiently operate their businesses. As Uber economist Alison Stein put it : "Businesses simply won't survive if they have zero control over what their hourly employees, whether full- or part-time, actually do."
+
+"Uber's incentive as an employer, then, would be to limit the number of employed drivers, hiring fewer drivers to each do more trips, and requiring them to work a certain number of hours (but likely preventing them from working overtime)," Stein wrote.
+
+Drivers join a car caravan at a protest by Uber and Lyft drivers against the upcoming California Proposition 22 ballot measure, which would exempt rideshare companies from classifying their drivers as employees, in Los Angeles, California, U.S., August 6, 2020. REUTERS/Lucy Nicholson
+
+According to Uber's analysis, if Prop 22 fails, prices of rides could be driven up as much as 25% to 111% to cover costs associated with making its workers employees. Moreover, Uber estimates that 158,000 of its drivers — or 76% — in the state would be out of work. Making drivers employees across the country would result in nearly 1 million jobs lost, Uber argues in a second analysis.
+
+In a statement, Lyft spokesperson Julie Wood said the company is "fighting to provide drivers independence plus benefits with Prop. 22 in California."
+
+Instacart and DoorDash referred requests for comment to the Yes on 22 campaign. Uber and Postmates declined to comment for this story.
+
+Expect a fight: 'It's a nailbiter'
+
+So far, the impact of the aggressive campaign on both sides remains unclear.
+
+"It's a nail biter; and that's why they're aggressively going after this from a resource perspective," Wedbush's Ives said of the Yes campaign.
+
+Roth said that while the No on 22 campaign "always knew it would be outspent," it has resources to communicate with voters ahead of November 3. Last week, it unveiled its response to the Yes campaign's commercials: its own statewide television ad.
+
+In a press release, the No campaign said the spot "drives home for voters how the deceptive Prop 22 was written by Uber, Lyft and DoorDash to deny their drivers benefits."
+
+Tim Rosales, a California-based political strategist, said that "money does not always equal success" when it comes to ballot initiatives.
+
+"David can absolutely beat Goliath," he said, adding that "passing an initiative is always much more difficult than opposing an initiative."
+
+According to Rosales, a 'Yes' vote typically requires a full buy-in on the issue being raised, whereas highlighting one red flag in a proposition can get someone to oppose an initiative. "A 'No' side can do a lot with much less money in order to defeat an initiative."

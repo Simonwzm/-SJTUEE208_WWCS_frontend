@@ -1,0 +1,59 @@
+(CNN Business) As the nation careens toward Election Day fears are bubbling up about potential election interference from a fresh source: ransomware.
+
+Ransomware is a type of malicious software that locks up a victim's computer and renders it unusable until the victim pays off the attacker, frequently in bitcoin. This type of cyberattack is worsening , and in recent years ransomware attacks have hit targets as varied as Baltimore's city government, the website of an Illinois public health district and the University of California. This week, Microsoft announced it took down a major hacking network that had been used to spread ransomware, and the company said it could have been used to interfere with the election indirectly by freezing access to voter rolls or websites displaying election results.
+
+There is no evidence that cyberattacks have compromised voting infrastructure in 2020. But the term ransomware understandably has many Americans on edge: It conjures up scary thoughts of widespread computer outages, chaos at critical entities like hospitals or banks, and shadowy hackers with a hidden agenda. Just how badly could ransomware disrupt the election, and how worried should we be?
+
+Experts say that while it's important to be alert and informed about the risk, it's vital to keep the threat in perspective. Ransomware's potential to disrupt the election is plausible, but it is "mainly a hypothetical threat right now," said Lotem Finkelsteen, a threat analyst at digital security firm Check Point.
+
+At a time of enormous uncertainty, ransomware may seem like an urgent and novel threat to the election. The reality is more complicated. Here's what you need to know about ransomware going into the 2020 election.
+
+How could ransomware affect the election?
+
+The nightmare scenario is if ransomware suddenly locked down important parts of the voting infrastructure all around the country, said Jason Healey, a cybersecurity expert at Columbia University and a former White House director of cyber infrastructure protection.
+
+"The concern at [the Department of Homeland Security] and the Pentagon will be that ransomware will hit at the county and state level to disable voting registers, vote tallying and reporting, and result reporting," Healey said. "Election machines themselves should be harder [to compromise], as they're less connected."
+
+Concerns around ransomware's disruptive potential spiked after Tyler Technologies, a major software vendor to many state and local governments, disclosed a ransomware attack affecting its systems last month. The company does sell software that is used by some clients to display voting information on websites, it said in a statement, but that software is hosted on Amazon servers, not its own, and it was not affected. The attack targeted Tyler Technologies' internal corporate network.
+
+In 2016, a Florida county elections office was hit by ransomware — but it was able to recover and has taken steps to prevent it from happening again.
+
+So how concerned should we be?
+
+While the pressure facing important targets is real and serious, there are several factors in play that mitigate the worst-case scenario, experts say.
+
+One main reason is that for ransomware to work, it must first take advantage of specific software flaws.
+
+Since virtually every jurisdiction uses slightly different software, it would be hard for an attacker to launch a simultaneous attack taking out a huge number of voting sites at once, said Daniel Dister, chief information security officer of the state of New Hampshire.
+
+"I can just about guarantee you there would be very little commonality amongst the 50 states running the same software across all their systems," he said. "It would be very unusual for one particular vulnerability to pervade across multiple states, because they'll find that every state is different."
+
+Rather than launch a mass attack, hackers would need to compromise systems individually, which would take time and be an inefficient way to cause havoc at scale, said James Lewis, a cybersecurity expert at the Center for Strategic and International Studies.
+
+Even attacking selected targets would not guarantee success. Most successful cyberattacks don't occur randomly over the open internet, said Dister. They are usually a result of phishing — when an unsuspecting employee gets tricked into opening a malicious email or clicking a link.
+
+Assuming that hackers could persuade an employee to click the right link, the ransomware would still only be effective if the attacked system hadn't already been patched to defend against it.
+
+That brings us to the final point: Ransomware is not a mystery. We know how to defend against it.
+
+What's being done to protect the election from ransomware?
+
+In light of the spike in ransomware attempts, the US government has issued a growing number of public advisories warning of the potential threat and offering advice on how to protect against ransomware.
+
+State and local governments are also increasingly attuned to the ransomware risk. Officials have been investing in stronger firewalls, better risk analysis platforms and device protection, as well as keeping important voting infrastructure isolated from other systems, said Rob Bathurst, chief technology officer of the risk management firm Digitalware.
+
+"Larger cities have been preparing for a while for this election and [are] better than they were in the past," he said. But, Bathurst added, smaller governments with fewer resources may still be at a disadvantage due to a lack of resources and trained staff.
+
+In New Hampshire, Dister works to ensure that the software used on government devices remains patched and up-to-date. And he also maintains policies to limit the type of apps that can be installed on work machines, which helps reduce the range of possible vulnerabilities the state must defend against.
+
+State and local governments also routinely share information with one another about what systems they each use and what new threats are on the horizon, through official clearinghouses such as the Multi-State Information-Sharing and Analysis Center.
+
+At the end of the day, experts say, the tools and principles for defending against ransomware are relatively straightforward, and apply equally to organizations and individuals: Create regular backups of your data that you store offline. Learn to recognize fraudulent emails or links and try to avoid falling for them. Keep your devices and apps up to date with the latest security updates.
+
+And, in the event your organization is hit by ransomware, do not pay the ransom. Security analysts emphasize that the overwhelming motive behind ransomware attacks is profit, not politics. Cut off the financial incentive to launch ransomware attacks, and hackers will move onto a different tactic.
+
+"If the flow of cash stops, the attacks will stop," said Brett Callow, a threat analyst at the security firm Emsisoft.
+
+The US government is trying to drive home that message, too. This month, the Treasury Department issued a warning that paying off ransomware attackers could violate US sanctions policy if the recipient is in a country that is subject to sanctions.
+
+Even those who help a victim make payments could be held liable, the Department said, as well as those who may have paid a ransom not knowing that the recipient was based in a sanctioned country.

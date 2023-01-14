@@ -1,0 +1,11 @@
+Washington (CNN Business) More than a dozen companies in the cybersecurity space are developing a single, open standard for sharing data about hacking threats, a project the companies say could help organizations detect cyberattacks more quickly.
+
+Amazon AMZN IBM IBM Salesforce CRM The initiative, which involves, Cloudflare, CrowdStrike,, Okta and, among others, aims to solve a critical bottleneck in the sharing of threat information: The different data formats currently in use across multiple cybersecurity tools and products.
+
+According to the companies, that mismatch can cause delays in understanding how a cyberattack may be unfolding because data from one tool often must be converted into a compatible format to work with another tool. That can hinder analysis of the underlying threat data, said Mark Ryland, a top cybersecurity executive at Amazon Web Services (AWS), Amazon's cloud computing arm.
+
+"Having a holistic view of security-related data across tools is essential for customers to effectively detect, investigate and mitigate security issues," said Ryland in a release . "Customers tell us that their security teams are spending too much time and energy normalizing data across different tools rather than being able to focus on analyzing and responding to risks."
+
+The new standard — known as the Open Cybersecurity Schema Framework — was announced Tuesday at the Black Hat cybersecurity conference in Las Vegas. The project is being led by AWS, the cybersecurity firm Symantec and Splunk, a data analysis company.
+
+Read More

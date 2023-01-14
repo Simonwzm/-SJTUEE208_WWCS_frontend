@@ -1,0 +1,77 @@
+Jerusalem (CNN) Audacious Mossad spy operations around the world. The plucky "startup nation" home to reams of billion-dollar ideas. These are two drivers of Israel's image abroad that its political and business leaders have long been happy to push.
+
+That slick image appears to have taken a hit with new reports that once again Israeli-founded technology, like the Pegasus software from the firm NSO , has been used by governments around the world to allegedly hack the cellphones of human rights activists, journalists and others.
+
+NSO and its defenders say its software is meant only to catch terrorists and other criminals, saying it regularly saves lives and operates under strict export controls.
+
+The company says it doesn't control what its clients do with the software, but follows Israeli laws on exporting military-grade technology, is selective in vetting its customers and cuts off access if it discovers misuse.
+
+But the recent revelations by an international consortium of media and human rights groups about Pegasus, have thrown the spotlight back on both the company and Israel. Now, as many consider the morality and legality of such programs, there are calls from both inside Israel as well as in the international community about how better to regulate the cyber-espionage market.
+
+A perfect marriage of spycraft and technology
+
+Israel's dominance in the cybersecurity field did not occur in a vacuum. The country's intelligence and covert operations divisions, especially its Mossad security force, have long had a storied reputation for engaging in cunning, daring and ruthless espionage, burnished by Hollywood depictions.
+
+As Israel's prominence as a hub of technological innovation and startup grew, the two areas converged to give the tiny country an outsized influence in the cybersecurity industry.
+
+The country's well-resourced education system, plus the compulsory military service, brings scores of young Israelis into high-level training in cybersecurity and cyberwarfare before many of them even go to university, according to Tal Pavel, Head of Cybersecurity studies at The Academic College of Tel-Aviv Yaffo. Much of the country's most cutting-edge technology has its roots in military development, Pavel noted.
+
+One of the most elite units of the Israel Defense Forces is the secretive Unit 8200, the cyber spy agency that has produced some of the country's biggest tech super stars.
+
+"One of the unique things in Israel, is the 'cynergy,' the bringing together of cyber and synergy between industries," Pavel told CNN, before alluding to a characteristic he says is perhaps rooted in the Israeli psyche.
+
+"There is also something here ... maybe there is also the struggle to survive. If everything is happy and you're not constantly trying to survive (against people trying to destroy you), you don't have to innovate, to cope."
+
+NSO fallout
+
+NSO was founded in 2009, but it wasn't until 2016 that the power of NSO's technology came under scrutiny.
+
+It was in that year that reports emerged that Emirati human rights activist Ahmed Mansoor received suspicious text messages with links, that researchers at Citizen Lab in the University of Toronto revealed contained malware from NSO that would have hacked his iPhone . (In 2018 Mansoor was sentenced to 10 years in prison for "damaging the reputation" of the UAE on social media.)
+
+Pegasus software was also allegedly connected to the 2018 murder of Washington Post columnist Jamal Khashoggi via fellow dissident Omar Abdulaziz, whose phone was allegedly hacked through Pegasus software. Abdulaziz sued NSO in 2019, accusing the company of violating international law by selling the software to oppressive regimes. Early last year an Israeli judged rejected NSO's request to dismiss the lawsuit, which NSO had argued was lacking "good faith," according to The Guardian. NSO has repeatedly denied its software was used to monitor Khashoggi or his family.
+
+The recent investigation by the international media and human rights consortium found evidence of Pegasus software on 37 phones belonging to people who, based on the company's own description of the software's purpose, shouldn't have been targets of NSO software, like journalists and human rights activists.
+
+CNN has not independently verified the findings of that investigation, named Pegasus Project, which was organized by Forbidden Stories. In a statement to CNN, NSO strongly denied the investigation's findings saying it found fault with many of its assertions.
+
+As a result, countries like France have announced probes into the use of the technology, while Amazon announced they had "shut down the relevant infrastructure and accounts" linked to NSO that used Amazon services.
+
+Tip of the iceberg
+
+NSO is simply one part of a vast industry of cyber espionage, according to Israel Bachar, a strategy and communications consultant who has worked with many of Israel's top political leaders, including former Prime Minister Benjamin Netanyahu and current Deputy Prime Minister and Defense Minister Benny Gantz.
+
+"Let's be honest, intelligence is being gathered by states against each other constantly. Everyone spies on everyone. And when it comes to an Israeli company there's a lot of hypocrisy," Bachar said, pointing to previous revelations about the US National Security Agency spying on world leaders and its own citizens. "NSO is another tool but there are many other tools."
+
+Beyond its actual capabilities, companies like NSO also help Israel diplomatically, Bachar said, as Israel has for years quietly, and now publicly, cultivated relationships with former adversaries.
+
+"One of the tools that Israel uses diplomatically is its ability in intelligence. It's not a secret that Israel is sharing sensitive intelligence even with Arab countries because we have an interest in protecting them," Bachar said.
+
+But Professor Yuval Shany, chair of the public international law department at Hebrew University of Jerusalem, says the tactic is starting to backfire on Israel's image.
+
+"The logic is Israel may be willing to turn a blind eye to transactions that are conducted with friendly regimes in the sense that they are friendly to Israel but not necessarily friendly to human rights," Shany said. "I think this recent scandal, which is quite embarrassing both for NSO but also for Israel, would lead at least in the short run to some tightening of export controls standards."
+
+How to control the uncontrollable
+
+Unlike conventional weapons, software is often intangible and can easily be sold and transferred across the globe, making attempts to control technology like the Pegasus system difficult.
+
+NSO and similar military-grade technology is regulated by an export control structure within Israel's Ministry of Defense, Shany said. This system looks both at the technology and the target; which entity -- either state or non-state -- is purchasing this technology including its human rights record, he added. But, Shany said, looking at the allegations around NSO's Pegasus software, "the results are not impressive, it's quite concerning."
+
+In response to the most recent allegations around NSO technology, Israeli Defense Minister Benny Gantz said they are "studying" the claims, while an interministerial team has been appointed to look into the current process and whether Israeli-made technology was being misused abroad, according to Reuters.
+
+JUST WATCHED Just spyware? It's a potential 'cyberweapon' Replay More Videos ... MUST WATCH Just spyware? It's a potential 'cyberweapon' 14:36
+
+A quick fix, Shany said, would be for Israel to formally sign onto the Wassenaar Arrangement between 42 countries, which tries to bring transparency to the export of military and dual-use technology and attempts to prevent such technology from being acquired by dangerous elements. Shany said Israel currently adheres to the agreement but is not a formal member.
+
+But the most important reforms to help controlling such technology will come from within, said Karine Nahon, a professor at the Interdisciplinary Center Herzliya and President of the Israel Internet Association.
+
+"If Israel doesn't export it someone else would, if you don't give those engineers and startup licenses and provide a kind of supervision nothing stops them from moving to another country and selling it from there," she said.
+
+Nahon is calling for the ethical consideration and the possibility such technology will be exploited to become a more significant part an export decision. And, she suggested, the companies should place more limitations on the software's use and have more oversight into how their clients are using the software -- something NSO says it has little control over.
+
+"NSO does not operate the system and has no visibility to the data," the company said in a statement last week, saying it will continue to investigate "all credible claims of misuse and take appropriate action based on the results" of such investigations.
+
+"It makes it more complicated in terms of the responsibility of these companies and Israel but on the other hand it might minimize the number of countries this software is being exported to," Nahon said.
+
+Even though it may seem like NSO and Israel's image is being dragged through the mud for its connection to such alarming surveillance, Bachar said overall it could have a positive effect for those who want to continue burnishing Israel as a leader in advanced technology and intelligence operations.
+
+"I think sometimes people come to curse and the outcome is there is a blessing because what happened at the end of the day, people remember that the best technology is Israeli technology, NSO," Bachar said. "That's what people three months from now will remember."

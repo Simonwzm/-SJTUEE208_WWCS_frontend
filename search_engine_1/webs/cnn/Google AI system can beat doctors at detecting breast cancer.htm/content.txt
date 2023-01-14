@@ -1,0 +1,33 @@
+London CNN Business —
+
+Google (GOOGL) says it has developed an artificial intelligence system that can detect the presence of breast cancer more accurately than doctors.
+
+A study that tested the accuracy of the system, which was developed through a collaboration between the tech giant and cancer researchers, was published Wednesday in the scientific journal Nature.
+
+The program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States, and early research shows it can produce more accurate detection than human radiologists.
+
+According to the study, using the AI technology resulted in fewer false positives, where test results suggest cancer is present when it isn’t, and false negatives, where an existing cancer goes undetected.
+
+Compared to human experts, the program reduced false positives by 5.7% for US subjects and 1.2% for UK subjects. It reduced false negatives by 9.4% for US subjects and 2.7% for UK subjects.
+
+The AI system was more accurate despite it having less information to work with than human experts, such as patient histories and prior mammograms.
+
+Professor Ara Darzi, one of the authors of the paper and the director of the Cancer Research UK Imperial Centre, said he had not expected to see such an impressive result from the AI system. “This is one of those transformational discoveries you have in your hand, which could disrupt the way we deliver screening in terms of improving accuracy and productivity,” Darzi told CNN Business.
+
+Breast cancer is the second leading cause of death from cancer in women, although outcomes improve considerably if the disease is caught and treated early, the authors of the study say.
+
+Yet despite large-scale breast cancer screening programs in developed countries, screening mammograms do not find about one in five breast cancers, according to the American Cancer Society.
+
+“The performance of even the best clinicians leaves room for improvement,” the study’s authors wrote in Nature. “AI may be uniquely poised to help with this challenge.”
+
+The technology could also be used to address shortages in radiologists, they say.
+
+A 2018 report by the Royal College of Radiologists found that 75% of UK radiology department directors feel there are insufficient clinical radiologists to deliver a safe and effective level of patient care.
+
+The report forecast that nearly 2,000 additional radiologists would be required to close the projected shortfall in 2023.
+
+In the United Kingdom, where two radiologists interpret each mammogram, the AI system could be used to replace the second reader, Darzi said. “I don’t think this will substitute humans at this stage,” he said.
+
+The detection and diagnosis of breast cancer sits alongside other Google research that demonstrates how AI can help doctors to more accurately predict lung cancer and prevent serious eye disease.
+
+The study published Wednesday was part of a collaboration between Google Health, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital.

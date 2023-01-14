@@ -1,0 +1,49 @@
+He was trying out Google Glass about a month before the company publicly unveiled the device. But he wasn't actually doing anything with it, because it was out of batteries. (I know, because I saw him walking down the street that day, and asked him.)
+
+Google Glass eventually flopped as a consumer product, with some wearers of the gadget dubbed "Glassholes" for the perceived creepiness of the device and its prism-shaped over-eye display. But it set the stage for years of wonderment and bewilderment about smart glasses: What should they look like? What will we do with them? And who even wants to wear them, anyway?
+
+In the nearly a decade since, many tech companies (including Amazon Bose , and Snap ) have tried to answer these questions in different ways, but none have truly popularized the idea of smart eyewear. On Wednesday, Facebook became the latest to offer an attempt for public consumption: glasses called Ray-Ban Stories, created with Ray-Ban (the brand is owned by eyewear giant EssilorLuxottica). Facebook hopes they'll be worn to take pictures and short videos, listen to music, and make phone calls, by anyone 13 or older.
+
+Ray-Ban Stories, a pair of $299 smart glasses built by Facebook and EsillorLuxottica, can be used to take photos and videos, play music, and take calls.
+
+The glasses, which Facebook had teased in the past , start at $299 and come in three styles, including the iconic Ray-Ban Wayfarer, and five hues (all the colors, including blue and green, are on the darker end of the spectrum). Initially, they're being sold at some Ray-Ban stores and at Ray-Ban.com, and are available to buyers in six countries, including the United States, Canada, and the United Kingdom.
+
+By looking, for the most part, not just like a normal pair of glasses, but like a classic, popular style, Ray-Ban Stories solves one of the biggest issues facing Google Glass and many other chunky, funky smart glasses of the past. The electronics are so well hidden that there are just a few hints that something is different about these specs: there's a camera embedded in the edge of each side of the frame, for instance. But on a pair of shiny Wayfarers they seem to melt into the frame itself.
+
+An app called Facebook View lets Ray-Ban Stories users edit and share pictures and videos shot with their glasses.
+
+Hind Hobeika, a product manager for augmented-reality devices at Facebook Reality Labs, told me Ray-Ban Stories are "the first smart glasses that people will want to wear."
+
+Facebook lent me a pair of Ray-Ban Stories with sunglass lenses so I could decide for myself. After about a week of trying them out, it's clear the glasses look and feel very much like a regular pair of shades. But Facebook and Ray-Ban may not fully appreciate the enormous challenge that remains in convincing people to buy and use such a wearable device, particularly when its capabilities seem more neat than essential.
+
+They felt a lot like sunglasses
+
+The first thing I noticed when putting the sunglasses on is that they felt a lot like, well, sunglasses. Sure, there's a power button hidden inside the glasses' left temple, a slim button for taking pictures and videos on top of the right temple, a slender speaker built into each, and a front-facing LED light that shines white when you take a picture or video. There's a touchpad on the right temple, too, though you can't see it. But the glasses only weigh a bit more (five grams, according to Facebook) than a standard pair of Ray-Ban Wayfarers, which makes them comfortable to wear for long periods of time. They're not annoying to charge, either: similar to Snap's Spectacles , they can do so while sitting in their included case. Like many other smart glasses released in the wake of Google Glass, they don't have a display.
+
+Ray-Ban Stories are surprisingly good for listening to music or making phone calls. The audio sounded crisp and dynamic during a nature walk, while not obscuring the sounds of birds and squirrels. I was a bit self-conscious while listening to tunes, though, since I could tell that anyone within a few feet could hear bits of the music. I also had trouble using the touchpad, which often interpreted my attempts to turn the volume up as pausing the music, or turned it down rather than up.
+
+The glasses were most fun to wear while playing with my kids at the park, as playground shenanigans (such as creeping inside a tunnel meant for 5-year-olds) make it tricky to pull out a smartphone to capture moments. I was able to take a number of photos and videos of my kids that are usually tough to catch while we're roughhousing.
+
+Yet while a selling point of the glasses is letting you stay immersed in a moment while capturing it, I often had the opposite experience while taking still photos. Many times, even though I was staring right at an object — a flower, a slice of pizza — I either couldn't capture the whole thing, couldn't center the image, or couldn't get the close-up I wanted.
+
+At one point, I stuck my head into the reeds at my local park to get closer to a frog; I looked silly and didn't get a great shot in the end.
+
+CNN Business Senior Writer Rachel Metz tested the new Ray-Ban Stories smart glasses. She tried to use them to photograph a slice of pizza, but couldn't capture the whole thing.
+
+Ray-Ban Stories rely on a companion smartphone app called Facebook View to let you see, edit and share images and videos. It was easy to send pictures to friends via the app, and I was able to create cute video montages of my kids with a few taps. (Facebook CEO Mark Zuckerberg posted a video to his Facebook page on Monday showing him paddling a boat while wearing Ray-Ban Stories, but the glasses are not splash or water resistant, so you'll want to keep them out of the pool.)
+
+Was I turning into a Facehole?
+
+Even while pushing a computer that sits on your face and looks quite similar to regular glasses, Facebook and Ray-Ban are emphasizing the importance of making other people aware that you may be recording them (Hobeika noted that the company consulted with numerous privacy experts and groups while building the product, including the Future of Privacy Forum and the National Network to End Domestic Violence).
+
+The glasses can only take videos up to 30 seconds long, and the LED on the front of the glasses is meant to be visible from 25 feet away; it shines the whole time you're taking a video. You can turn on Facebook Assistant through the View app to use voice commands for taking photos and videos — a way to make it painfully obvious that you're capturing the world around you — but not for anything else, like controlling music playback. (In order to do things such as turn music volume up via voice command while wearing the glasses, I had to summon Siri on my iPhone.)
+
+CNN Business Senior writer Rachel Metz tested Ray-Ban Stories and found it tricky at times to take up-close shots.
+
+Despite these efforts, I couldn't shake the feeling that I was getting away with something while wearing Ray-Ban Stories in public. As far as I could tell, nobody noticed anything unusual about the glasses while chasing my kids around a busy playground, even when I was taking numerous short videos. (It was impossible for me to tell, but perhaps the bright sunlight made the glasses' white LED less noticeable.) I walked into stores with them on, took pictures of myself in mirrors, and nobody even blinked. It would have been easy to use these glasses to invade other people's privacy. Was this accidentally furtive photo- and video-taking turning me into a Facehole?
+
+I spoke with Jeremy Greenberg, policy counsel at the Future of Privacy Forum and one of the people Facebook spoke with while developing Ray-Ban Stories, about my experience. He said there's "definitely some concerns" that people didn't appear to notice that I was capturing pictures and videos — something that would be more obvious if I had pulled out my phone.
+
+"It'll be interesting to see, if this technology becomes widespread, will folks sort of develop that cultural understanding that their image might be taken, video might be taken?" he asked. "It's really 'time will tell.'"
+
+And after days of trying them out, I still didn't have the sense that I (or anyone, really) needs Ray-Ban Stories. You may need eyeglasses or sunglasses, and a smartphone, too. But it's going to be tough for Facebook to convince most people that they have to have a gadget that can replicate a few of their phone's features while sitting on their face — even one that looks this good.

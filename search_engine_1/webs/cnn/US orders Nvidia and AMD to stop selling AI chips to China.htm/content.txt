@@ -1,0 +1,11 @@
+Hong Kong (CNN Business) Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence.
+
+Nvidia NVDA AMD AMD andsaid Wednesday that they had been told by the US government to halt exports of certain high-performance chips to the world's second largest economy.
+
+In a regulatory filing , Nvidia said that it had been told by US officials that the requirement was due to a potential risk of the products being used by, or diverted to, a "military end user."
+
+The restrictions cover Nvidia's A100 and forthcoming H100 integrated circuits, and any systems that include them, effective immediately, it said.
+
+The move threatens to upend $400 million worth of business for Nvidia, according to the filing.
+
+Read More

@@ -1,0 +1,43 @@
+(CNN Business) Hours after Google tried to turn the page on a months-long controversy over the abrupt departure of one leader of its Ethical AI team, the other leader said she was fired. The announcement quickly sent shockwaves through the artificial intelligence industry.
+
+In a tweet Friday afternoon, Margaret Mitchell wrote, "I'm fired." Mitchell, a Google researcher who founded the company's Ethical AI team, was put on administrative leave in January and had her email access blocked then, as she confirmed to CNN Business at the time.
+
+Mitchell had been outspoken on Twitter for months following the December exit of Timnit Gebru, which came as a shock to Mitchell and many other employees at Google. Earlier this month, Mitchell tweeted a lengthy internal memo that was heavily critical of Google which she wrote the day her Google email access was shut down.
+
+A Google spokesperson did not dispute that Mitchell was fired when asked for comment on the matter.
+
+"After conducting a review of this manager's conduct, we confirmed that there were multiple violations of our code of conduct, as well as of our security policies, which included the exfiltration of confidential business-sensitive documents and private data of other employees," the spokesperson said.
+
+When reached for comment, Mitchell said: "I don't know about those allegations actually. I mean most of that is news to me"
+
+Mitchell's firing will likely only add to tensions that have been brewing within the team, and the company, in the months since Gebru's departure. And it came as the company appeared to be trying to turn the page by wrapping up an investigation into the matter and announcing policy changes.
+
+Margaret Mitchell, a Google researcher who founded the company's Ethical AI team, said Friday she was fired.
+
+the company after finishing a months-long review of the abrupt and controversial Just hours before Mitchell tweeted the news of her firing, Jeff Dean, Google's head of AI, announced several policy changes in an internal memo, saying Google plans to change its approach for handling how certain employees leavethe company after finishing a months-long review of the abrupt and controversial departure of prominent Black artificial intelligence researcher Gebru.
+
+A copy of the memo, which was obtained by CNN Business, said changes would include having HR employees review "sensitive" employee exits.
+
+Until early December, when she abruptly left the company , Gebru was the co-leader of Google's Ethical AI team. A pioneer in the research of bias and inequality in AI, she was also one of few Black employees at the company overall . (3.7% of Google employees are Black, according to the company's 2020 annual diversity report.) Gebru is also co-founder of the group Black in AI, which aims to increase representation of Black people in the field.
+
+Back then, Gebru initially tweeted that she had been "immediately fired" for an email she had recently sent to Google's Brain Women and Allies internal mailing list. In the email she expressed dismay over the ongoing lack of diversity at the company and frustration over an internal process related to the review of a not-yet published research paper she coauthored. Dean wrote in an email to Google Research employees (which he also posted publicly ) that the paper in question was not submitted for internal review far enough in advance of its deadline, and that it "didn't meet our bar for publication."
+
+In later tweets, Gebru clarified that no one at Google explicitly told her that she was fired. Rather, she said Google would not meet a number of her conditions for returning and accepted her resignation immediately because it felt that her email reflected "behavior that is inconsistent with the expectations of a Google manager."
+
+, two Google employees quit over Gebru's exit. Gebru's sudden exit sparked anger among many Google employees and others in the tech industry that continues to simmer months later, often exhibited via emotional posts on Twitter. This year
+
+In the memo on Friday, Dean said of Gebru's contentious exit that the company "could have and should have handled this situation with more sensitivity" and that he regrets that it led to some employees questioning whether they belong at Google.
+
+"It's important that the Research org, along with the rest of Google, is a place where everyone feels like they belong and has the opportunity to succeed," he wrote. He also said Google will clarify internally what its process is for publishing "sensitive" research going forward.
+
+Dean also said the company will work to address diversity issues by "more than doubling" the staff that works on retaining Google employees. Additionally, he said Google will make diversity, equity and inclusion efforts part of the performance evaluations for Google employees at and above the vice-president level.
+
+Gebru responded to the memo on Friday by tweeting , "I write an email asking for things, I get fired, and then after a 3 month investigation, they say they should probably do some of the things I presumably got fired asking for, without holding anyone accountable for their actions."
+
+Gebru later confirmed that Mitchell had been fired and tweeted : "There are many words I can say right now ... To the VPs at google, I pity you."
+
+Marian Croak, a longtime vice president at Google, will run a new center focused on responsible AI within Google Research.
+
+The memo and firing came a day after Google announced it shuffled the leadership of its responsible artificial intelligence efforts. Marian Croak, a Black woman who has been a vice president at the company for six years working on a range of projects including getting public Wi-Fi on railroads in India, will run a new center focused on responsible AI within Google Research.
+
+Croak will report to Dean. Ten teams centered around AI ethics, fairness, and accessibility — including the Ethical AI team — will report to her.

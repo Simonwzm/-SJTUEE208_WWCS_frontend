@@ -1,0 +1,61 @@
+(CNN Business) Starting any business is full of challenges. Starting one in the middle of a global pandemic is on a whole other level. That reality didn't stop serial entrepreneur Rami Essaid from starting Finmark last June, but it did force him to take a different approach.
+
+Essaid, who said he "believed very strongly" in the value of being in an office together at his previous two companies, immediately knew it wasn't an option for his new financial modeling startup.
+
+"That changed my mindset from day one. It allowed me to hire people I wouldn't have necessarily hired before because they're, you know, in Utah or somewhere that we would never have an office," he said. Finmark is now a remote-only company, with 33 employees across the United States, England and Pakistan.
+
+The pandemic has upended how much of corporate America operates, particularly the big tech companies that were among the first movers in shutting down their physical offices and sending employees home. But it's also transforming the younger, smaller businesses that hope to eventually become tech giants in their own right, changing the way they grow and innovate with potential implications for the future of the industry at large.
+
+Iconic tech companies typically follow a familiar origin story: a couple of co-founders get together in their dorm room or their parents' garage, start working on an idea, hire employees as it gains traction, move into an office space that gets bigger and more perk-filled and ultimately expand into multiple offices across multiple cities, countries and continents.
+
+But thanks to the pandemic, that process is starting to look rather different. Multiple surveys earlier this year, including recent ones by employee research firm TINYPulse and Gallup , indicate that tech workers are more inclined than those in other industries to eschew a return to the office.
+
+For new startups like Finmark, deciding to shift away from the office can create new opportunities, including reducing real estate costs and expanding the pool of locations from which to hire. But depending how far they go on the spectrum of partial to fully remote work, having a distributed workforce can add to the challenges of building a product and creating a company culture. Gone may be the all-night coding sessions and team hackathons over pizza and beer, and in their place, more Zoom calls and Slack groups.
+
+"The earlier in the company, the more creative you need to be, the more problem solving you're doing," said Alexander Kvamme, CEO of employee management software startup Pathlight. "And getting people in the same room to hash out problems, there's no substitute."
+
+Rami Essaid says having everyone remote is the only way to "create democracy" among employees.
+
+Google GOOGL Facebook FB Uber UBER Apple AAPL More than that, startups face unique issues as the pandemic drags on. Whileandhave invested heavily in building sprawling campuses, they can also afford to toggle back and forth between remote and in-person work, as needed. Some startups, on the other hand, may have to decide whether or not to put their comparatively smaller budgets toward a costly office lease.
+
+"For startups, they have an uphill battle because they are competing against large organizations that are able to offer more flexible policies, they have more of that power to either say ... come into the office or stay home," said Elora Voyles, people scientist at TINYPulse.
+
+But some startup founders say they are, in fact, now at an advantage, as big companies tinker with (and in some cases, backtrack on ) various office return policies. Unlike their larger peers, who are saddled with physical spaces and decades of history, these startups can come up with new policies and a workplace culture from scratch.
+
+Building a new office culture without an office
+
+Rema Matevosyan co-founded Near Space Labs, an aerial imaging company, in 2017, but it wasn't until last year that the company began rolling out its core product — the specially outfitted weather balloons it uses to capture images.
+
+As with some other tech companies, building and shipping physical hardware during the pandemic added a hurdle that software companies did not have to contend with.
+
+"Before the pandemic, the assumption was that you're able to have engineers, who develop the hardware, fly onsite and provide training and support," she said. "That's just one of the examples where we actually had to start doing everything remotely. ... Today, we essentially have a standardized solution that ships in a box with like a few training videos."
+
+The company doubled in size to 17 employees (including six part-time workers) during the pandemic. Although the company has two headquarters — in New York and Barcelona — it has moved to a flexible work arrangement "where people can work essentially from anywhere" and coming into the office remains optional.
+
+But she acknowledges that establishing a company culture from scratch in a remote work environment can be challenging. Matevosyan has instituted certain videoconference rituals to try to bring the company together, including a daily meeting where each team talks about its work, specific meetings for what she calls "water cooler banter" and periodic one-on-one catchups between her and each employee.
+
+"It has to be more intentional, especially when the teams are distributed," she said. "Those are the things that I'm a bit worried about and actively working [on]."
+
+Rema Matevosyan has made coming into Near Space Labs' New York offices optional, but says creating a company culture when employees are distributed can be a challenge.
+
+Essaid has taken a slightly different approach to making sure everyone at the company is on the same footing. He opted for no physical office at all because of what he deemed the challenges of having only a portion of employees in the office.
+
+"I started realizing that there is no way to create democracy across every employee, to make everybody equal, unless everybody's remote or everybody's in one office," he said.
+
+Starting up differently
+
+It's not just companies and their founders. Some startup investors are also rethinking their long-held views on the right way to build new products.
+
+"Product building, sales, these are all very collaborative efforts," said Siri Srinivas, a principal at venture capital firm Draper Associates. "If there was an odd startup that told us, for instance, that they were distributed, that was sort of a little bit concerning. We would recommend that they work in a single location or spend that money and bring the team together as much as possible."
+
+The pandemic changed all that, in large part because Draper — an investor in both Finmark and Near Space Labs — has had to rethink its own office-centric culture.
+
+"We were forced to work without being in the office together, we were forced to do a lot of things without being in the office," Srinivas said. "We realized ... we can actually work efficiently and do 85% of our work while being remote."
+
+Not everyone is completely convinced, though.
+
+Like most other founders, Kvamme, Pathlight's CEO, took his company completely remote during the pandemic even as it grew from 12 to 30 employees. He said going remote was a big shift but was necessary "to support our growth, but also just to make sure we're hiring great people."
+
+Pathlight is now eying a return to the office, especially for the 50% of its workforce in Silicon Valley. Kvamme said remote work will remain an option for those who want it. But he worries that for startups like his, remote work has its limitations — and having "one foot in each world" is not sustainable long term.
+
+"I think there's a very good chance that we're three days a week in the office this year, four days a week in the office next year and we're just back to normal in two years," he said.

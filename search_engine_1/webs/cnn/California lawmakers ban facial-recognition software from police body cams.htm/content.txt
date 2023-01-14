@@ -1,0 +1,33 @@
+San Francisco CNN Business —
+
+California lawmakers on Thursday temporarily banned state and local law enforcement from using facial-recognition software in body cameras, as the most populous US state takes action against the technology.
+
+The bill, AB 1215, marks the latest legislative effort to limit adoption of facial-recognition technology, which critics maintain raises privacy and accuracy concerns. Now the bill, also referred to as the Body Camera Accountability Act, heads to Governor Gavin Newsom, who must decide whether or not to sign it into law by October 13. If he does, it will go into effect in January.
+
+A Los Angeles police officer wears an Axon body camera in 2017. Axon said earlier this year that it would not install facial-recognition technology in its body cameras, stating it's "not currently reliable enough." (Photo by David McNew/Getty Images) David McNew/Getty Images
+
+Cosponsored earlier this year by Assemblymember Phil Ting and the ACLU of California, the bill prohibits the use of biometric surveillance technology, which includes facial-recognition software, in police body cameras. It also prohibits police from taking body-camera footage and running it through facial-recognition software at a later time. It does not prevent state and local police from using facial-recognition technology in other ways, such as in stationary cameras, and it does not apply to federal agencies such as the FBI.
+
+The bill will last for three years. It was originally proposed with no end, but was amended by the state senate and agreed to on Thursday by the Assembly.
+
+Facial recognition software has become increasingly popular in the past several years, used at stores, concert venues, airports, and by some police departments. The technology identifies people from live or recorded video or still photos, typically by comparing their facial features with those in a database of faces (such as mugshots).
+
+Despite potential benefits such as helping solve crimes, many researchers and civil rights groups are worried about how well the technology works and biases that may be built into systems. Studies have shown, for instance, that the technology is worse at accurately identifying women and people of color.
+
+Currently, there are no federal rules regulating artificial intelligence in general, nor facial-recognition technology in particular. But two additional states — Oregon and New Hampshire — already have laws on the books that forbid the use of the technology in body cameras, and a number of cities, including California’s own San Francisco and Oakland, recently banned city departments (including police) from using the technology.
+
+For now, at least, California’s rule is more preemptive than reactive: Ting told CNN Business on Thursday that no law enforcement officers in California are using body cameras with facial-recognition software at the moment.
+
+“This is a proactive piece of legislation,” he said in an interview with reporters. “We wanted to introduce legislation before it became a major issue.”
+
+At least one maker of body cameras — Axon, whose cameras are used by the Los Angeles Police Department — already determined it wouldn’t install facial-recognition software on its cameras, saying in a company report that the technology is “not currently reliable enough.”
+
+The bill encountered some opposition, particularly from law enforcement groups such as the California State Sheriffs’ Association and the Riverside Sheriffs’ Association.
+
+In a June statement, the Riverside Sheriffs’ Association said the legislation would “significantly impair the ability of law enforcement to protect the public.”
+
+The length of time that the bill will last reflects misgivings from lawmakers about it, as well. Ting said that three-year lifespan addressed concerns of state senators who wanted to be able to revisit the issue if the technology improves.
+
+The compromise wasn’t enough for the California State Sheriffs’ Association, however. On Thursday, the group’s legislative director, Cory Salzillo, said he’s concerned generally about how the bill takes crime-fighting tools off the table.
+
+“Even a temporary ban on the use of facial recognition could limit law enforcement’s efficacy and limit its ability to fight crime and prevent crime,” he said.

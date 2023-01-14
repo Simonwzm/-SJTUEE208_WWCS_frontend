@@ -1,0 +1,75 @@
+(CNN Business) In early 2019, a team of Facebook's researchers spent two weeks interviewing 30 users across two Indian cities, Jaipur and Hyderabad. The goal: to learn about their experiences with misinformation and fact-checking on its platforms.
+
+The fact-finding mission, which was described by one of the researchers in an internal document seen by CNN, took place at an important moment for the country, and for Facebook's operations within it. India's national elections, the biggest in the world, were just months away — and Facebook was already bracing for potential trouble.
+
+The year prior, a spate of lynchings triggered by viral hoax messages on Facebook-owned WhatsApp had put the company at the center of a debate about misinformation in the country. In February, 2019, with the election approaching, WhatsApp announced it was deploying artificial intelligence to clean up its platform. It also warned Indian political parties their accounts could be blocked if they tried to abuse the platform while campaigning.
+
+Against that backdrop, Facebook's researchers interviewed over two dozen users and found some underlying issues potentially complicating efforts to rein in misinformation in India.
+
+"Users were explicit about their motivations to support their political parties," the researchers wrote in an internal research report seen by CNN. "They were also skeptical of experts as trusted sources. Experts were seen as vulnerable to suspicious goals and motivations."
+
+One person interviewed by the researchers was quoted as saying: "As a supporter you believe whatever your side says." Another interviewee, referencing India's popular but controversial Prime Minister Narendra Modi, said: "If I get 50 Modi notifications, I'll share them all."
+
+Indian Prime Minister Narendra Modi is a prolific user of social media.
+
+The document is part of disclosures made to the Securities and Exchange Commission and provided to Congress in redacted form by Facebook whistleblower Frances Haugen's legal counsel. A consortium of 17 US news organizations, including CNN, has reviewed the redacted versions received by Congress.
+
+The conversations reveal some of the same societal issues present in the United States that are sometimes viewed both as products of algorithmic social media feeds and complicating factors for improving them. These include nationalist parties, incendiary politicians, polarized communities and some distrust of experts. There have been widespread concerns globally that Facebook has deepened political divisions and that its efforts to fact-check information often make people double down on their beliefs, some of which were reflected in the research document. (Most of the Indian interviewees, however, also said they wanted Facebook "to help them identify misinfo on the platform.")
+
+Facebook also faced two fundamental problems in India that it did not have in the United States, where the company is based: understanding the many local languages and combatting distrust for operating as an outsider.
+
+In India, English literacy is estimated to be around 10% , Facebook's automated systems aren't equipped to handle most of the country's 22 officially recognized languages, and its teams often miss crucial local context, a fact highlighted in other internal documents and partly acknowledged by the misinformation researchers.
+
+"We faced serious language issues," the researchers wrote, adding that the users they interviewed mostly had their Facebook profiles set to English, "despite acknowledging how much it hinders their understanding and influences their trust."
+
+Some Indian users interviewed by researchers also said they didn't trust Facebook to serve them accurate information about local matters. "Facebook was seen as a large international company who would be relatively slow to communicate the best information related to regional news," the researchers wrote.
+
+Facebook spokesperson Andy Stone told CNN Business that the study was "part of a broader effort" to understand how Indian users reacted to misinformation warning labels on content flagged by Facebook's third-party fact checkers.
+
+"This work informed a change we made," Stone said. "In October 2019 in the US and then expanded globally shortly thereafter, we began applying more prominent labels."
+
+Stone said Facebook doesn't break out content review data by country, but he said the company has over 15,000 people reviewing content worldwide, "including in 20 Indian languages." The company currently partners with 10 independent fact-checking organizations in India, he added.
+
+Warnings about hate speech and misinformation in Facebook's biggest market
+
+India is a crucial market for Facebook. With more than 400 million users across the company's various platforms, the country is Facebook's largest single audience.
+
+India has more than 800 million internet users and roughly half a billion people yet to come online, making it a centerpiece of Facebook's push for global growth. Facebook's expansion in the country includes a $5.7 billion investment last year to partner with a digital technology company owned by India's richest man.
+
+But the country's sheer size and diversity, along with an uptick in anti-Muslim sentiment under Modi's right-wing Hindu nationalist government, have magnified Facebook's struggles to keep people safe and served as a prime example of its missteps in more volatile developing countries.
+
+India's hundreds of millions of new internet users have made it key to Facebook's global expansion.
+
+The documents obtained by CNN and other news outlets, known as The Facebook Papers , show the company's researchers and other employees repeatedly flagging issues with misinformation and hate speech in India.
+
+For example, Facebook researchers released a report internally earlier this year from the Indian state of Assam, in partnership with local researchers from the organization Global Voices ahead of state elections in April. It flagged concerns with "ethnic, religious and linguistic fear-mongering" directed toward "targets perceived as 'Bengali immigrants'" crossing over the border from neighboring Bangladesh.
+
+The local researchers found posts on Facebook against Bengali speakers in Assam with "many racist comments, including some calling for Hindu Bengalis to be sent 'back' to Bangladesh or killed."
+
+"Bengali-speaking Muslims face the worst of it in Assam," the local researchers said.
+
+Facebook's various platforms have more than 400 million monthly users in India.
+
+Facebook researchers reported further anti-Muslim hate speech and misinformation across India. Other documents noted "a number of dehumanizing posts" that compared Muslims to "pigs" and "dogs" and false claims that the "Quran calls for men to rape their female family members."
+
+The company faced issues with language on those posts as well, with researchers noting that "our lack of Hindi and Bengali classifiers means much of this content is never flagged or actioned."
+
+outlets. Some of the documents were previously reported by the Wall Street Journal and other news
+
+"An Indian Test User's Descent Into a Sea of Polarizing, Nationalistic Messages"
+
+Facebook's efforts around the 2019 election appeared to largely pay off. In a May 2019 note, Facebook researchers hailed the "40 teams and close to 300 people" who ensured a "surprisingly quiet, uneventful election period."
+
+Facebook implemented two "break glass measures" to stop misinformation and took down over 65,000 pieces of content for violating the platform's voter suppression policies, according to the note. But researchers also noted some gaps, including on Instagram, which didn't have a misinformation reporting category at the time and was not supported by Facebook's fact-checking tool.
+
+Moreover, the underlying potential for Facebook's platforms to cause real-world division and harm in India predated the election and continued long after -- as did internal concerns about it.
+
+One February 2019 research note, titled "An Indian Test User's Descent Into a Sea of Polarizing, Nationalistic Messages" detailed a test account set up by Facebook researchers that followed the company's recommended pages and groups. Within three weeks, the account's feed became filled with "a near constant barrage of polarizing nationalist content, misinformation, and violence and gore."
+
+Many of the groups had benign names but researchers said they began sharing harmful content and misinformation, particularly against citizens of India's neighbor and rival Pakistan, after a February 14 terror attack in the disputed Kashmir region between the two countries.
+
+"I've seen more images of dead people in the past 3 weeks than I've seen in my entire life total," one of the researchers wrote.
+
+Facebook's approach to hate speech in India has been controversial even among its own employees in the country. In August 2020, a Journal report alleged Facebook had failed to take action on hate speech posts by a member of India's ruling party, leading to demands for change among many of its employees. (The company told the Journal at the time that its leaders are "against anti-Muslim hate and bigotry and welcome the opportunity to continue the conversation on these issues.") In an internal comment thread days after the initial report, several of the company's workers questioned, in part, its inaction on politicians sharing misinformation and hate speech.
+
+"As there are a limited number of politicians, I find it inconceivable that we don't have even basic key word detection set up to catch this sort of thing," one employee commented. "After all cannot be proud as a company if we continue to let such barbarism flourish on our network."

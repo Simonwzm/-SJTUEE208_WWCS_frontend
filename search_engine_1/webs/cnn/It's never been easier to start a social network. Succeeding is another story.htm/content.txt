@@ -1,0 +1,51 @@
+(CNN Business) Former President Donald Trump lost his most-prized megaphone when he was suspended from Facebook and Twitter earlier this year. Since then, he's largely stuck with canned press statements instead of social media. But if Trump gets his way, that may change — he's reportedly planning to launch a brand-new social media platform that presumably won't restrict his content.
+
+But Trump isn't the only one pushing the social networking envelope. In recent months there's been a noticeable wave of social media upstarts making inroads. Last year the short video platform TikTok hit the 100 million user mark in the United States amid a Trump-led crisis over the company's Chinese ownership. The audio-focused Clubhouse has benefited from a surge in attention during the pandemic. Sites like Gab and Parler have emerged as havens for conservative icons.
+
+So what does it take to launch a successful social platform in the year 2021? The answer is part technical and part strategy, and the breakdown between the two reflects how dramatically different the challenges are for new entrepreneurs nowcompared to the days of Mark Zuckerberg hacking togetherfrom his dorm room.
+
+Back then, the entire idea of social networks was just emerging. MySpace, with its reverse-chronological timeline and friend-centric networking, was the dominant platform. The algorithmically-driven stream of content we'd later come to know as the Facebook News Feed was still years away — and what simple functionality Facebook did offer at the time had to be painstakingly hand-built. The first iPhone hadn't even been released yet.
+
+Despite those technical obstacles, early social networking companies like Facebook andenjoyed a distinct advantage: They were some of the earliest movers in an entirely open field, making it easy to acquire users and build a massive following.
+
+Today, circumstances have flipped. Advances in technology have made it trivial to establish a website and build basic social functionality. But the dominance and clout of major social media companies make it immensely hard to break in and gain staying power, according to entrepreneurs and venture capitalists.
+
+"There's not a lot of tech hurdles nowadays," said Evan Burfield, an angel investor and founder of 1776, a startup incubator based in Washington, D.C. "You would basically go to a platform-as-a-service provider — Heroku on Amazon, or Microsoft Azure with code from Github. If I wanted to hire somebody, I could have a reasonably feature-rich social network up and running in two days."
+
+Anyone who's used a social media app in the past five years knows what features to expect from a service. Posts, comments, a way to express approval or other reactions, the ability to add photos and videos — by this point, all have become standard offerings.
+
+With today's plug-and-play software, a stripped-down, barebones copycat of Facebook might cost no more than $25,000 to initially build, according to Charlie O'Donnell, the founder of Brooklyn Bridge Ventures, a New York-based venture capital firm. And instead of engineer salaries, the bulk of a new social platform's costs are now more likely to be recurring fees paid to cloud service providers. The more users a startup attracts, the greater those fees will be.
+
+"If you create the next YouTube and now people are uploading videos, it's the bandwidth costs, the storage costs that could quickly spiral out of control," O'Donnell said.
+
+A simple social networking platform with a small audience might only cost a few thousand dollars per month in recurring expenses, said Burfield. But someone with aspirations for a much bigger platform would have to pay much more.
+
+"If you ended up with tens of millions of engaged users," Burfield said, "then you could easily be paying more than $1 million per month for storage, bandwidth and compute."
+
+Amazon Web Services, which powers some of the internet's best-known websites, says early-stage startups don't necessarily have to begin paying right away; the company provides a "free tier" that allows for some usage at no charge. It also provides service credits to eligible startups that can help defray the costs of getting up and running.
+
+But an even bigger challenge than building the product is figuring out what product to offer and explaining why your social network is unique and worth users spending the scarcest commodity — time — on.
+
+All new businesses face a version of this question. Who's the audience you're trying to reach? What is the unsolved problem? How can this innovation lower costs, or provide a richer experience? What's the niche you serve, and can that create the engagement you need to achieve success?
+
+For apps like Clubhouse, the answer rests in the access it provides to Silicon Valley elites — the investors and the founders paving the way for the next Facebook and Google.
+
+"Clubhouse was not an out-of-left-field phenomenon that was super surprising," said O'Donnell. "A lot of the first invites to Clubhouse, similar to LinkedIn, went to venture capitalists and founders. And VCs have now become like mini-celebrities. Everyone wants to join the network where the investors are."
+
+Just having a good idea and the backing of influential investors doesn't necessarily lead to commercial success, however.
+
+Spotify SPOT After watching Facebook, Instagram, YouTube,and others increasingly dominate the industry, the biggest problem for would-be social entrepreneurs is figuring out how to siphon users away from the incumbents.
+
+On its own, Facebook controls several of the world's top platforms, including Instagram and WhatsApp. Facebook's core product has a total of more than 1.8 billion daily users; Twitter, a much smaller service by comparison, still reports 192 million daily users. Any new startup, by definition, would begin with even fewer, and faces the added hurdle of persuading people to change their routines.
+
+"Let's say you get someone to download your app. You literally have one or two or three seconds in which to have something that's intriguing to them, or they bounce," said Burfield. Compared to the industry's early days, he said, "it's the complete inverse. It's incredibly easy to build it. It's not necessarily hard to get people to come. It's unbelievably hard to get them to stay."
+
+Supposing that a new social media platform can get off the ground, it then confronts a host of linked problems. It needs systems to ensure that any user data it collects is protected, for example. It has to hire lawyers who can vet the platform's privacy policy and make sure it complies with state and federal and even international regulations, which are on the rise as lawmakers around the world call for reining in the tech industry.
+
+Then there's still the question of financial sustainability and, ultimately, profitability.
+
+Sites such as Gab or Parler that describe themselves as a free-speech alternative to more intensively moderated platforms have a clearly defined value proposition — but a hazier path to monetization. Parler has said that its business model will eventually revolve around advertising, but its controversies surrounding political speech — especially after it was kicked off of Amazon, Apple and Google's platforms — could deter major mainstream brands.
+
+Should he launch his own social network, Trump may discover much the same thing, even with his fervent base.
+
+"The challenge won't be creating a social network or even getting millions of people to listen to what he says," said Burfield. "I think it's very questionable whether he could build that into a profitable business."

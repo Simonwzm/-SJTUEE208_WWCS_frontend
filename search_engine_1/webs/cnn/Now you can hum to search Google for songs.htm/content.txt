@@ -1,0 +1,11 @@
+(CNN Business) If you've ever had a song stuck in your head but can't remember enough lyrics to search for it, Google has a solution: hum to search.
+
+Google unveiled a new search feature Thursday that lets users search for songs by humming a few bars, in an attempt to help you identify music.
+
+The feature is now part of Google's mobile app and Google Assistant, where you can say "what's this song?" (add a "Hey Google" first on Google Assistant) and then hum, whistle, or sing for 10 to 15 seconds. The results will include several probable songs, along with the search engine's estimation of how likely it is that each is the one you're looking for.
+
+Google said the feature, which was announced along with several other new search-related functions during an online event held by the company, will be available first in English on Apple's iOS and in over 20 languages on Google's Android mobile platform. Users don't need to have perfect pitch in order to get the feature to work, according to Google.
+
+Hum-to-search isn't a brand new idea — SoundHound, for instance, offers a hum-recognition feature — though it is new to Google. Like many of Google's search offerings, the feature uses machine learning: Essentially, software analyzes the tune you hum (or sing or whistle), turning it into a sequence of digits that can then be compared with tons of digitized songs to find a few that appear similar. The company has been working on using artificial intelligence for music recognition for a number of years.
+
+Read More

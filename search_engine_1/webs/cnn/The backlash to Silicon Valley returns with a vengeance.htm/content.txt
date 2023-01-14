@@ -1,0 +1,37 @@
+CNN Business —
+
+For a brief moment, it looked like Mark Zuckerberg might finally catch a break.
+
+After a prolonged period of backlash dating to the 2016 presidential election, the pandemic offered the promise of a reprieve, if not an entirely fresh start for Facebook. On any given day, as the coronavirus spread, you might find Zuckerberg interviewing the top infectious disease expert in the United States, touting efforts from his non-profit organization to fund research into the virus and talking about Facebook’s long-standing mission to connect people, this time with new resonance as millions found themselves cut off from the world.
+
+But whatever renewed goodwill there might have been for Facebook (FB) seemed to unravel in a matter of days thanks to the company’s handling of a few controversial posts from President Donald Trump. While Twitter took action on the posts, including one about the protests with the incendiary comment that “looting” will lead to “shooting,” Facebook (FB) and Zuckerberg chose to do nothing.
+
+Facebook now faces an insurrection, as employees publicly criticized Zuckerberg’s decision and staged a virtual walkout. At least one staffer quit over it. And even scientists backed by Zuckerberg’s philanthropic organization have urged him to rethink his decision.
+
+During a contentious town hall with employees earlier this month, Zuckerberg reportedly appeared to acknowledge that the good times were over. “It felt to me that over the last couple of months there was this brief moment of unity with our response on Covid, where it felt like we were all in this together,” the Facebook CEO said, according to the New York Times. Facebook did not respond when asked to confirm Zuckerberg’s remarks.
+
+While Facebook’s comedown has arguably been the most severe, it mirrors a broader whiplash that has taken place across the tech industry since the early days of the pandemic. Social media platforms that became communication lifelines and created hubs for reliable coronavirus information are now back to facing calls to be regulated. Video conferencing platform Zoom (ZM) acquired millions of users but has also been hit with a series of controversies over privacy and security. And Amazon, which became a vital lifeline for many as states imposed lockdowns, has faced ongoing scrutiny of warehouse worker conditions.
+
+“That was never going to last,” said Daphne Keller, a professor at Stanford University’s law school who focuses on platform regulation and internet users’ rights. “There was a lull, but I think the lull is over.”
+
+Keller said social media platforms in particular may have been given a bit of a pass in how they handled issues such as content moderation and misinformation during the pandemic, with a greater willingness to take down dangerous coronavirus content and rely on greater use of automated processes, as opposed to human review.
+
+“There was pretty broad consensus that this was an emergency and you could take emergency measures and forfeit some other priorities in the name of public health,” she said.
+
+Now, Trump is targeting these same companies with an executive order aimed at weakening some legal protections for social media platforms. The order seeks to dilute Section 230 of the Communications Decency Act, a 1996 law that protects online platforms from being sued for content their users post. There are serious doubts as to how far Trump can legally regulate companies like Facebook and Twitter, and his executive order has already been challenged in court.
+
+But while the executive order itself may run into legal constraints, Trump’s public broadsides against social media platforms could give added momentum to multiple efforts from lawmakers to tweak Section 230 and make the platforms more accountable.
+
+Regulators also continue to scrutinize the broader power that Big Tech wields. Facebook and Google are facing antitrust investigations from several authorities, including the Federal Trade Commission, the Justice Department and attorneys general of several states, which are expected to move forward this summer. Amazon CEO Jeff Bezos, who previously was said to be in regular contact with the White House during the pandemic, has more recently been called on to testify before Congress about his company’s alleged misuse of data.
+
+In fact, the health crisis could end up giving additional public momentum to efforts to rein in the tech industry, despite — or even because of — how vital it has proven during the pandemic.
+
+“I think what we are seeing as a result of the crisis is that more and more people are depending on these platforms, which just highlights how powerful they are,” said Charlotte Slaiman, competition policy director at the advocacy group Public Knowledge. “I think people are noticing in more areas of their life, that there are very few legal protections that people and companies have for their interactions with these platforms.”
+
+If all that wasn’t enough, the ongoing national conversation around race, sparked by mass protests following the death of George Floyd in police custody last month, could prove to be another source of scrutiny for the tech industry. Silicon Valley has long been criticized for not being diverse enough and for building tools that can enable discriminatory practices. Protestors are also reportedly calling out Facebook for funding a police department and urging companies to stop advertising on the platform.
+
+Zuckerberg sought to address some of the backlash in a lengthy note to employees last week, promising a broad review of several Facebook policies and initiatives to increase the “representation of diversity, inclusion and human rights” and “advance racial justice.”
+
+“To members of our Black community: I stand with you. Your lives matter. Black lives matter,” he said. He stopped short of committing to concrete change, however, saying the company “may not come up with changes we want to make” in all the areas being reviewed. Several people and groups criticized Zuckerberg’s statement for not doing enough, days after prominent civil rights organizations said they were “disappointed” by a conversation with the Facebook CEO about Trump’s posts.
+
+As the techlash returns with a vengeance, Zuckerberg and his peers may face a long, tense year ahead.

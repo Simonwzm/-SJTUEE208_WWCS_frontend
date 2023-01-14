@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/140922115110-instagram.jpg?q=x_5,y_220,h_2389,w_4248,c_crop/w_800

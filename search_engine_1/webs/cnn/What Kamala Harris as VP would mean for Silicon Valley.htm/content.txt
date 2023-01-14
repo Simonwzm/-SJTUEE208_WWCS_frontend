@@ -1,0 +1,49 @@
+CNN Business —
+
+With Sen. Kamala Harris ascending to become former Vice President Joe Biden’s running mate, Silicon Valley can breathe a little easier, at least for now.
+
+For nearly four years, top Democrats and Republicans have attacked the tech industry with allegations of antitrust violations, political bias and criticisms of how large online platforms handled privacy and misinformation. Biden himself is among Big Tech’s harshest critics — needling Facebook over misinformation and political advertising, and calling for the repeal of a key legal shield for the industry.
+
+But his selection of Harris for vice president is already giving some who operate in and around the tech industry cause for optimism. A California senator whose constituency includes Silicon Valley, Harris has experience working on technology issues. Her connections to technology execs include powerful donors such as Amazon (AMZN) general counsel David Zapolsky and LinkedIn co-founder Reid Hoffman. On Tuesday, Facebook (FB) COO Sheryl Sandberg wrote that Harris’s presumptive nomination “is a huge moment for Black women and girls all over the world – and for all of us.”
+
+“She’s a great pick for the tech industry,” said Matt Tanielian, co-founder of Franklin Square Group, a Washington-based lobbying firm that represents Apple (AAPL), Dropbox (DBX), eBay (EBAY) and others. “Not because I think she’s going to suddenly turn tech back into the darling it once was … but she knows the issues really well. She’s no pushover on any of the tough things.”
+
+On perhaps the most pressing issue for the tech industry, Harris also stands in stark contrast to Sen. Elizabeth Warren, her onetime rival in the Democratic presidential race and another name on Biden’s list of VP candidates. While Warren advocated for the breakup of tech giants like Amazon and Google (GOOGL), prompting other presidential candidates to do the same, Harris never endorsed the idea.
+
+“I believe that the tech companies have got to be regulated in a way we can ensure, and the American consumer can be certain, that their privacy is not being compromised,” Harris said when the New York Times directly asked if she thought Amazon, Facebook or Google should be broken up.
+
+On this particular issue, at least, it may not matter who the VP pick is, given the number of ongoing tech antitrust probes. “The regulatory exposure is already very far along” for the biggest tech giants, said Jason Kint, the CEO of Digital Content Next, a publishers’ trade group that’s been heavily critical of Google and Facebook. “And I think regardless of who the vice presidential candidate is, it’s going to move at a rapid pace.”
+
+Vice presidents may not always have the most direct impact on policies. And other candidates who were passed over, including Warren, could still have an impact if chosen for a cabinet role. Still, every VP pick sends a public message about how a potential administration might set priorities or approach certain issues. Here are some key areas in which tech experts say Harris could play a significant role.
+
+Privacy and data protection
+
+While Harris was not vocal on breaking up tech giants, she is widely regarded as an early leader on consumer privacy issues, several experts said.
+
+Her experience on privacy matters reemerged during a tense exchange with Facebook CEO Mark Zuckerberg when he testified before the Senate in 2018. Harris pushed Zuckerberg to say whether Facebook had deliberately decided not to tell users about the Cambridge Analytica data breach when the social media giant learned about it.
+
+In 2012, as California’s attorney general, Harris hammered out an agreement with Apple, Google, and other tech platforms requiring them to let consumers access the privacy policies of apps before they download them. Later that year, she sent letters to dozens of app developers warning that they were not in compliance with California’s privacy regulations and that they faced fines of up to $2,500 per violation.
+
+Since then, California has passed one of the toughest data privacy laws in the nation, but there’s still no federal privacy standard. Given Harris’s congressional experience, she may serve as a critical link between the White House and Congress on privacy, said Susan Hintze, a privacy lawyer and partner at Hintze Law.
+
+“Many folks don’t realize she built her political career championing privacy issues against the backdrop of the tech world,” Hintze said. “I suspect as VP she may continue that fight, and we may see more privacy initiatives at the federal level.”
+
+Encryption and law enforcement
+
+As a former attorney general and prosecutor, Harris is closely linked to law enforcement, and her record on policing has been deeply scrutinized during the Democratic primary.
+
+For Silicon Valley, this aspect of Harris’s record may represent the greatest source of uncertainty. As a senator, Harris supported a package of anti-sex trafficking bills known as SESTA/FOSTA, which many in the tech industry opposed because it watered down liability protections for online platforms. Biden has previously called for a complete repeal of those same protections, which were enshrined in Section 230 of the Communications Decency Act. It’s an open question how a Vice President Harris might influence that agenda, given her previous vote.
+
+Meanwhile, a top priority of the FBI and Justice Department has been accessing the encrypted communications of criminal suspects, an issue that’s caused a rift between Washington and Silicon Valley; technologists argue giving police special access to read encrypted messages would weaken privacy and security for everyone.
+
+Thus far, Harris has tried to walk a fine line on the matter. She avoided picking a side in the 2016 standoff between Apple and the FBI over unlocking the encrypted iPhone of the San Bernardino shooter. But as a potential decision-maker in a Biden administration, she may no longer have that luxury.
+
+Harris may face similar quandaries over other technology issues related to policing. Facial recognition, artificial intelligence, drone surveillance — all of these are likely to become major issues Harris may need to weigh in on during a Biden administration.
+
+Remote work, immigration and good government
+
+Some experts say Harris is unlikely to be mired so deeply in specific policy issues and instead may play a larger role on big-picture topics like immigration, intellectual property and broadband access, which are also important to the tech industry.
+
+These types of issues hew more closely to the overall task facing a potential Biden administration, which will be to continue managing the economic fallout from the pandemic.
+
+“How do we create a vibrant economy, and how do we make social justice in a world of remote everything?” said Blair Levin, a former chief of staff at the Federal Communications Commission. “That’ll probably be a fundamental tech issue in the next administration.”

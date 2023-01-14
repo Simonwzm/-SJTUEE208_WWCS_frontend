@@ -1,0 +1,69 @@
+Washington, DC CNN Business —
+
+Not quite two years ago, Palmer Luckey, the Oculus co-founder and onetime face of the virtual reality industry, unceremoniously left Facebook amid controversy over his support for a pro-Trump group. Now, he’s on the comeback trail.
+
+Shortly after his departure from Facebook, Luckey co-founded Anduril Industries, a defense startup in Orange County, California. Its core technology, called Lattice, uses sensors and data analytics to, Anduril says, help make military service members, first responders and law enforcement more aware of their surroundings. Luckey compares it to having superhuman abilities. Anduril’s drones and towers serve as an extra set of eyes and ears, sending alerts when a drone or tower spots something nearby, such as a person or truck.
+
+Lattice is being used on the Mexican border, bringing the 26-year-old Luckey into the national debate over Trump’s wall, border security and immigration. The Department of Homeland Security declined to comment on how effective the technology has been. And independent outside groups haven’t tested it, which has raised some concerns from critics.
+
+The issues are more complicated and political than a decade ago when Luckey was a homeschooled teenager who ate mostly frozen burritos and tinkered on gadgets in a camper trailer in his parents driveway in Long Beach, California.
+
+Back then, Luckey founded Oculus, which jumpstarted the virtual reality industry in 2012 with the announcement of the Rift, a virtual reality headset.
+
+“When I was 17, I mostly cared about whether or not I was going to be able to make the best possible virtual reality headset,” Luckey told CNN Business’ Laurie Segall in a recent interview. “Now I’m a lot more concerned about foreign entities and how they’re impacting the world and the United States.”
+
+Facebook acquired Oculus for $2 billion in 2014. But early in 2017, Luckey left Facebook months after it was reported that he funded a group opposed to Hillary Clinton during the 2016 election.
+
+“I’ve been through a lot,” Luckey said. “Not a lot of people get to start a company, sell it for billions of dollars, and then get exiled from Silicon Valley.”
+
+His decision to launch Anduril was prescient. As US military leaders worry other countries are developing more advanced technologies, Pentagon officials now want to work closer with emerging companies and Silicon Valley to adopt new tools, such as artificial intelligence.
+
+An Anduril tower is shown. courtesy Anduril Industries
+
+But these efforts have met some resistance. For example, Google chose not to renew a contract last summer following employee pushback against working with the military.
+
+Luckey has no such reservations.
+
+“I’m much more concerned about other countries like Russia and China building technology that they use to oppress their own people and also expanding their sphere of influence over other countries,” said Luckey, adding he doesn’t intend to sell Anduril’s technology to China or Russia.
+
+Before Oculus, he worked at an Army-funded virtual reality lab at the University of Southern California. He also once commuted to work at Facebook in an old military Humvee. At Oculus, Luckey said, he met people in the Defense Department and became concerned that they needed more technology.
+
+To launch Anduril, Luckey teamed up with engineers from Oculus and from Palantir, a Silicon Valley-based data analytics company. Anduril’s surveillance towers stand on part of the Mexican border. Marines have tested its small drones, which can be used for automated surveillance of military bases and checkpoints.
+
+Anduril's drone is designed to autonomously monitor military bases and other areas. courtesy Anduril Industries
+
+Anduril is already building more products, such as an automated vehicle for fighting wildfires. The company hopes to eventually become one of the biggest defense companies, competing against giants of the industry like Lockheed Martin. Luckey foresees a day where a logistics manager could send a fully autonomous vehicles to deliver supplies to soldiers in the field.
+
+“[If the vehicle] runs into a bomb along the way, nobody is killed. If it’s ambushed along the way, nobody is killed,” Luckey said. “If I need to send twice as much food, I just send two of them. I’m not putting any any more people in harm’s way.”
+
+But Peter Asaro, a professor at The New School who studies technology ethics and is a spokesman for the Campaign to Stop Killer Robots, said there are still questions about the accuracy of Anduril’s products.
+
+“What are the error rates for misidentifying things?” Asaro told CNN Business. “You don’t really know unless you can test the system.”
+
+Anduril wants to stay ahead of the Chinese and Russian militaries. China’s government has revealed plans to invest heavily in artificial intelligence and become the global innovation center for AI by 2030.
+
+China’s government is focused on improving infrastructure and regulations to accelerate this process. In 2017, more money was invested in Chinese AI startups than American AI startups. It’s also a leader in quantum computing, another potential critical technology for becoming an even bigger force in the future.
+
+Russian President Vladimir Putin has been candid about his thoughts on AI, too: He believes whoever leads in this space will rule the world.
+
+“We can’t afford to say, ‘Just let Russia have the best military technology. Let’s let China have the best military technology,’” Luckey told Segall. “I’d rather have us moving quickly trying to build the best technology for the United States.”
+
+Raj Shah, who previously led DIUx, a Defense Department office to accelerate its innovation, is encouraged by Anduril’s work. He wants to see more companies with top engineers tackling national security problems with nascent technologies.
+
+“To access these technologies, the department has to work better with startups,” Shah said. “It’ll take significant and sustained reform.”
+
+Traditionally, startups have struggled to work with the Pentagon. Most want to avoid the complicated government bureaucracy.
+
+But Luckey seems up for the challenge. Oculus co-founder Michael Antonov calls him a bold and fearless inventor with a playful side.
+
+As author Blake J. Harris writes in his forthcoming book “The History of the Future,” on the rise of Luckey and virtual reality, Luckey once told friends he didn’t want to be another Eduardo Saverin, the Facebook co-founder who left the company in its early years and never reached the same level of success.
+
+In Anduril, Luckey may have found a project suited for his abilities and passions post-Facebook.
+
+Antonov recalled to CNN Business how Luckey once held a screw against his eye to measure the distance between his eye and a virtual reality lens.
+
+“People don’t just poke themselves in the eye with something to try to get at something,” Antonov said. “He’s still pretty goofy sometimes.”
+
+Harris describes Luckey as the only person in the world he could spend an hour talking to about improving the latency on a virtual reality headset, or how the media and public would react if there really was a Batman.
+
+“There’s something boyish in a good way about Palmer,” Harris said. “He’s light-hearted. But he doesn’t take these things lightly.”

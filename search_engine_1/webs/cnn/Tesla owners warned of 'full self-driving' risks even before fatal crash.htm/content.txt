@@ -1,0 +1,93 @@
+Washington, DC (CNN Business) Tesla's "full self-driving" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb, and at least one driver was able to set a maximum speed of 90 mph on a street where the posted speed limit was 35 mph, according to videos posted on social media.
+
+These drivers knew they weren't using a foolproof system, and that there would be glitches as they had agreed to test early versions of the regularly updating "full self-driving" software for Tesla. The company warned them of limitations, and their need to be attentive.
+
+Experts worry that the name of the feature implies a greater functionality than what Tesla is actually offering. But the risks of "full self-driving" don't appear to be holding Tesla back from a broad beta release of the feature. Tesla is preparing a wide rollout even as some of the Tesla loyalists testing the feature raise concerns about what will come next.
+
+Some Tesla enthusiasts spoke out even before two people were killed in a Tesla over the weekend when it crashed into some trees. Police said that one occupant had been in the front passenger seat, and the other had been in one of the rear seats. There was no one in the driver's seat, the police said. The National Highway Traffic Safety Administration said Monday that is investigating the crash.
+
+The police statement that there was no driver behind the wheel suggests that Autopilot, the widely available precursor to "full self-driving," may have been active and, if so, was being used inappropriately.
+
+Tesla CEO Elon Musk said Monday that data logs recovered so far show Autopilot was not enabled. But Musk did not rule out that future findings could reveal Autopilot was in use. He also did not share an alternative theory for the crash.
+
+Tesla did not respond to multiple requests for comment, and generally does not engage with the professional news media.
+
+The long road to "full self-driving"
+
+Tesla says that the "full self-driving" system can change lanes, navigate roads, and stop for traffic signals. Tesla has promised the feature since 2016, but the company only began to let a small group of drivers test an early version of it last fall. Musk said that about 2,000 Tesla owners were testing "full self-driving" as of March. The company is preparing a wider rollout with what it calls a significantly upgraded system than the one seen in the videos already, and with Musk tweeting that he would be "surprised" if a wide beta release isn't available by some time in June.
+
+Though the name implies a high degree of autonomy, drivers must stay alert, keep their hands on the wheel and maintain control of their cars while using the function, according to Tesla. While the initial rollout was rocky last October , its beta testers have described it as improving in social media posts, and Musk has said on Twitter that it is "getting mature."
+
+But the system's limitations have concerned some of Tesla's enthusiastic supporters. YouTube videos of "full self-driving" in beta testing have shown the steering wheel jerk back and forth unpredictably
+
+Teslas using a version of the "full self-driving" beta have at times attempted seemingly dangerous left turns -- pulling in front of looming high-speed traffic, or slowly making a turn, triggering uncomfortable drivers to push the accelerator to get out of harm's way.
+
+Tesla's full self-driving software, or FSD, is technically a driver-assist system, so American regulators allow beta versions of it to be tested on public roads. There are stiffer restrictions on driver-assist systems in Europe, where Tesla offers a more limited suite of autonomous driving features.
+
+And even when the system does appear to be working as intended, Tesla says that drivers are supposed to remain attentive and be prepared to take over at any time. But some worry that these guidelines won't be heeded.
+
+Calling for caution
+
+AI DRIVR, a YouTuber who posts Tesla videos and is testing "full self-driving" already, has said on social media that he's nervous about a large population getting the feature, and says people are bound to abuse it.
+
+Like other social media users who post frequently about Tesla's "full self-driving" software, AI DRIVR said he had an NDA, and, when contacted by CNN, he said he was not able to speak to CNN directly.
+
+"Please let's not screw this up and make Tesla regret their decision and the freedom that they are giving people," AI DRIVR said.
+
+He pointed to the controversial video in which a young man whose Tesla is using Autopilot, the company's precursor to "full self-driving," climbs out of the driver's seat and lies down under a blanket in the back of the Tesla as it appears to drive down a highway. Tesla has safeguards in place to prevent misuse of Autopilot, such as requiring a seatbelt to be on, and detecting torque on the steering wheel, but a driver could work around the safety measures. The man who goes by Mr. Hub on YouTube, did not respond to a request for comment.
+
+"This kid is playing Russian roulette without even realizing it," AI DRIVR said of the video
+
+In a series of tweets in March, Musk said that there have been no accidents with FSD though he did not give details on how he was defining "accident." But AI DRIVR posted a video in which his car hit a curb making a turn while in FSD mode. He said his vehicle was not damaged because of a plastic protection device that he'd previously installed, and which could be replaced.
+
+"The beta is at a point where it can behave amazingly well and then the next second does something very unpredictable," he said in a YouTube video. One shortcoming he claimed he experienced while using the beta version of "full self-driving" was his Tesla sometimes swerving on highways around semi trucks, when there was no clear reason to do so. In a YouTube video he speculated that one of the Tesla's side cameras could be to blame as it's obstructed by the trucks. AI DRIVR did not post video footage of his Tesla behaving in this way.
+
+Raj Rajkumar, a Carnegie Mellon University professor who studies autonomous vehicles, told CNN Business that the camera on the side of the Tesla may essentially see a flat surface (the side of the truck) with the same color and texture, and incorrectly conclude that something is very close.
+
+Tesla, like other self-driving companies, uses cameras to see objects. Tesla says its vehicles have eight cameras, 12 ultrasonic sensors and a radar. But Tesla says it does not rely on lidar and plans to soon stop using radar . Both are sensors that are standard in the rest of the industry, and helpful in complementing the limitations of cameras, such as the challenges of seeing certain objects, like tractor-trailers. Teslas have been involved in high-profile deadly crashes , in which they failed to see the side of a tractor-trailer. Autopilot was found by the National Transportation Safety Board to have been used against Tesla's own guidelines, and Tesla had apparently not restricted such use. Tesla said following the first NTSB investigation in 2017 that Autopilot is not fully self-driving technology and drivers need to remain attentive. It did not comment when the NTSB reiterated its findings in 2020 following another investigation.
+
+An instrument panel with the Tesla Motors Inc. 8.0 software update illustrates the road ahead using radar technology inside a Model S P90D vehicle in the Brooklyn borough of New York, U.S., on Tuesday, Sept. 20, 2016.
+
+"Their side cameras very likely do not sense depth," Rajkumar said. "With this ambiguity, the Tesla software may be concluding that it is best to be conservative and swerve."
+
+Tesla has a radar, but that is forward looking, so not aimed at trucks next to it. Ultrasonics are on all sides of the Tesla, but they're really only useful for parking, Rajkumar said.
+
+Rajkumar said that because "full self-driving" has "a lot of problems," based on his assessment of beta testers' YouTube footage, Tesla will need to prioritize what problems it addresses first and may not have had time to fully address the issue yet. Rajkumar has not tested the beta version of "full self-driving" himself.
+
+Rajkumar said that one of the problems of "full self-driving" is its own name, which like Autopilot, he says, is extremely misleading. Drivers will get complacent and tragic crashes will happen, he said.
+
+"I have wondered for a long time why the Federal Trade Commission does not consider this as deceptive advertising, and why NHTSA has not forced Tesla to not use these names from a public safety standpoint," Rajkumar said.
+
+The National Highway Traffic Safety Administration said that it will take action as appropriate to protect the public against risks to safety, but that it does not have authority over advertising and marketing claims and directed questions to the Federal Trade Commission, which does provide oversight of this kind. The Federal Trade Commission declined to comment.
+
+James Hendler, who studies artificial intelligence at Rensselaer Polytechnic Institute told CNN Business that another plausible explanation for Teslas allegedly swerving near semi trucks is that the angle that the sun reflecting off trucks makes the Tesla think the semis are extremely close.
+
+"These cars don't think in terms we can understand. They can't explain why they did it," Hendler said.
+
+Keeping an eye on drivers
+
+The concerns of Tesla owners echo the concerns of autonomous driving experts, who have long warned that "full self-driving" oversells what Teslas are capable of. There are also questions about if Tesla has sufficient driver monitoring systems to prevent abuse of "full self-driving."
+
+An MIT study of 19 drivers last year found that Tesla owners were more likely to look off-road when they use Autopilot, the precursor to "full self-driving," compared to when they were in manual driving mode. Researchers said that more should be done to keep drivers attentive.
+
+Rajkumar, the Carnegie Mellon professor, said that Tesla would be better off with a driver monitoring system similar to one used by GM, which uses an in-vehicle camera and infrared lights to monitor driver attention.
+
+"[It would] avoid the many shenanigans that some Tesla vehicle operators do to circumvent paying attention," Rajkumar said.
+
+Teslas have a camera mounted in the passenger cabin that could theoretically monitor a driver. But Tesla does not appear to be using that camera to check if beta testers pay attention. Two beta testers of "full self-driving" have said that they have at times blocked their cameras: one, who posts on YouTube as "Dirty Tesla," and "K10," a Twitter-based Tesla enthusiast who has said she's testing "full self-driving."
+
+"They're definitely not using it yet because I blocked mine, and they haven't said anything," Dirty Tesla said in an interview last month. "If they want it, they'll let me know."
+
+Dirty Tesla declined to answer follow-up questions from CNN.
+
+Musk said on Twitter last month that Tesla has revoked the beta program from cars "where drivers did not pay sufficient attention to the road." But CNN Business could not independently confirm that Tesla has revoked "full self-driving" access to a driver.
+
+The feature will cost $10,000, but monthly subscriptions will be a more affordable way to use "full self-driving" for a short period of time, like a summer road trip. Musk has said they'll be offered by July.
+
+Tesla Raj, another YouTuber with early access to "full self-driving," said in a recent video that there have been instances when he felt he was in danger of hitting another vehicle, or another vehicle hitting him, and he needed to take control of the car.
+
+"Please be careful, please be responsible," Tesla Raj said in his video.
+
+Ricky Roy, who calls himself a huge Tesla fan, and an investor in the company, posted a video recently called, "the truth about Tesla full self-driving." He said that important questions were getting lost in "crazy excitement about [a] future of robotaxis that will make people millions."
+
+Roy alluded to Musk's 2019 prediction that there would be a million robotaxis operating in 2020. Musk has said that "full self-driving" would make Teslas appreciating assets. Roy said in his video that he feared people would mistake Tesla's "full self-driving," which still requires a human driver ready to intervene at any time, for a fully autonomous vehicle, which does not need human supervision.

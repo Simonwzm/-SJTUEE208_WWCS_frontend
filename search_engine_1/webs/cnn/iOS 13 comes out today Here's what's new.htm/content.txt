@@ -1,0 +1,39 @@
+New York CNN —
+
+After months of waiting, Apple’s new software update for iPhones is finally here.
+
+The latest version of Apple (AAPL)’s mobile operating system officially became available to download on Thursday.
+
+Anyone with an iPhone 6S model or later can download the update. Here’s how: Go into the Settings section on your phone, tap on the tab that says “General,” and then press “Software Update.”
+
+Apple recommends plugging your phone into a power source and connecting to WiFi for the download. It’s also always best practice to back up your iPhone first. You can do that by connecting to Wi-Fi, going to your Settings section again, tapping on your name at the top, then selecting “iCloud” and scrolling down to where it says “iCloud Backup.”
+
+This way, if the new software update is buggy, your important files and data will be saved.
+
+The iOS 13 release promises a number of significant changes. Here are some of the key iOS 13 features that Apple has teased so far:
+
+Dark Mode
+
+Perhaps the single most buzz-worthy update in iOS 13 is Dark Mode. Apple will give users the option to have a dark background that is said to be easier on the eyes and potentially better for battery life. Some prefer it purely as a stylistic choice.
+
+Swipe to type
+
+Tired of punching in one letter at a time on your phone’s keyboard? Apple is set to introduce a new Quickpath keyboard, which lets you swipe to type more quickly, similar to how Google’s Gboard works. Until now, Apple users interested in this option have had to rely on apps from other developers, such as SwiftKey.
+
+A new privacy feature
+
+The company has a new feature that lets you log into third-party apps and websites using your Apple ID. As part of this option, called Sign in with Apple, you can even choose for Apple to generate an email address for you to log into these services, thereby limiting the amount of personal information you have to provide.
+
+The latest version of Apple's mobile operating system is set to become available for download on Thursday. One of the most talked about new features: Dark Mode. Apple
+
+Maps
+
+Apple Maps — if you use it — is getting a few updates. For one, you’ll be able to explore cities in 3D. With the updated Apple Maps, you’ll also be able to favorite spots you frequent and create collections of places you want to visit.
+
+Siri
+
+While Siri didn’t get much mention during Apple’s September keynote this year, the voice assistant is getting some changes. Siri will soon be able to read your incoming messages to you and let you share audio from your AirPods.
+
+Apple Arcade
+
+Apple’s new gaming subscription service launches on iOS 13. It costs $4.99 with a catalog of over 100 games. Analysts say it could be a game-changer for mobile apps, but it could take a while to gain traction.

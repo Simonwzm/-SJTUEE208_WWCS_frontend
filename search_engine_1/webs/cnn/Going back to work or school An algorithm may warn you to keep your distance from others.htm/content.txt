@@ -1,0 +1,51 @@
+CNN Business —
+
+At an acrylic fiber factory in Callao, Peru, surveillance cameras and artificial intelligence are tackling a pandemic-era challenge: making sure workers are wearing face masks and staying at least six feet apart.
+
+The Sudamericana de Fibras factory, which produces about 3,000 tons of acrylic fiber per month, started using technology from a Silicon Valley startup called Camio in May. Cameras that were already in place in the factory provide video that is analyzed by Camio’s AI software, pointing out behaviors that would normally seem innocuous but could contribute to the spread of coronavirus. This can range from people walking together in a hallway toward a cafeteria for lunch to a supervisor approaching a worker to have a conversation.
+
+Gianfranco Arce, who is a technology consultant for Sudamericana de Fibras, said these so-called “social distancing collisions” are used by the factory’s human resources department to talk to employees to try to change their behavior.
+
+“We see this system as very proactive — as pointing to problem areas and finding ways of fixing them,” he said.
+
+Actuate
+
+As the pandemic rages across the globe, a growing number of companies like Camio are repositioning themselves to offer AI to track whether people are keeping a safe distance in offices, warehouses and schools. Amazon (AMZN), which developed its own social-distancing tracking technology to use internally at buildings such as its warehouses, is offering a free tool that companies can use to show employees in real time, on a computer monitor, whether they’re far enough apart. While some won’t go into detail about many of their clients, these companies say there are customers at a range of businesses and schools who are either using or planning to use AI for tracking social distancing.
+
+The hope is that such technology can allow businesses and schools to reopen more safely by helping them understand where people tend to congregate and making changes to encourage social distancing — such as by moving furniture around or adding floor markers, or by having real people standing by to keep foot traffic flowing. But it could also be the latest example of a tech solution for the pandemic that results in a difficult tradeoff concerning privacy. Some technology rights advocates are now concerned that this AI approach is too invasive, particularly because they’re not convinced tech is even needed to enforce social distancing guidelines.
+
+“I totally understand the intent of wanting to reopen and wanting to keep people safe, but there are many ways you can do this without necessarily increasing surveillance,” said Hayley Tsukayama, a legislative activist at the Electronic Frontier Foundation.
+
+Minor behavior adjustments
+
+Based in San Mateo, California, Camio has spent years using machine learning to identify all kinds of objects and events in surveillance footage, letting users search videos for things like bikes, dogs, or even people wearing red or blue. The company counts former Yahoo CEO Marissa Mayer among its investors.
+
+Generally, social-distancing tracking uses AI software to spot people in security camera footage, then calculates the distances between them and logs instances when they are less than six feet from each other over a certain period of time. Some systems, such as Camio’s, can also detect whether or not people are wearing masks.
+
+Camio adapted its social-distancing software from an existing product that detected when an unauthorized person entered a building behind someone who had properly badged in. An online dashboard allows users to search for all the instances of people who are too close without a mask, for example, with video clips showing each time this was recorded.
+
+Arce said the use of Camio has led to some “minor adjustments” at the Sudamericana de Fibras factory, such as employees being asked to avoid walking together in hallways and telling maintenance employees — who often work together on a machine — to take turns. While Sudamericana de Fibras is only using Camio’s social-distancing tech in the finishing area of its factory, where fibers get their texture, it is planning to add it to the cafeteria next, he said.
+
+It’s not just workplaces that are interested in using AI to enforce social distancing rules. Camio CEO Carter Maslan, who previously worked at Google and Microsoft, said some universities that he could not name are using it. And Ben Ziomek, cofounder and chief technology officer at Actuate, another startup offering a similar AI service, said a large apartment building is trying out the technology in its lobby and several schools are considering it as well.
+
+Like Camio, Actuate didn’t start out working on technology meant to keep people apart: Until this past winter, it focused on using AI to detect guns in schools. As the pandemic forced businesses to shutter, Actuate started selling a service that used AI to detect intruders in closed facilities such as restaurants, in addition to building its social-distancing service, Ziomek said.
+
+Ziomek said the company’s software, which it has been selling for about six weeks, isn’t concerned about one person passing another closely in the hallway — it’s more interested in whether people stop to have a conversation within less than six feet of each other. The technology is accurate to “well within a foot”, he said.
+
+Actuate can send alerts to building staff to let them know when rules are being violated, and gives users an online dashboard view of social-distancing stats in their space as well as analytics over time. This way, Ziomek said, businesses can do things such as putting hand sanitizer in certain spots.
+
+Any surveillance can be used badly
+
+The companies selling this technology argue the benefits can outweigh any discomfort employees might feel over being surveilled by AI.
+
+“If you’re reopening, you just want to know where your hotspots are so you can put in plans to mitigate them,” Maslan said.
+
+But it may also be yet another way in which personal privacy can be eroded in the face of the pandemic as technologies are quickly rolled out without much time to study the consequences. Businesses and schools are considering numerous ways to keep an eye on people, from contact-tracing apps to temperature-monitoring bracelets.
+
+The AI approach may also raise questions about how the companies who build the tools decide what social behavior is safe or not. Neither Camio nor Actuate is working directly with public-health professionals to set standards for the social-distancing behaviors they flag; both said they’re working off guidance from the US Centers for Disease Control and Prevention.
+
+Ben Winters, equal justice works fellow at the Electronic Privacy Information Center, is concerned that such systems could put the onus on workers to be safe, rather than employers who could do so via measures such as varied work schedules. Additionally, he said, if people feel that they must go back to work to make a living despite the ongoing pandemic, “it’s not a choice they have, to be subject to these systems.”
+
+Tsukayama, with EFF, hopes that, rather than simply rolling out the technology, employers will first see how employees feel about it.
+
+“Any sort of surveillance can be used badly,” she said, “even if that’s not the intent when you put it in.”

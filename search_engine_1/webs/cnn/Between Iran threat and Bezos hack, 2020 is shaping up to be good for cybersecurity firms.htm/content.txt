@@ -1,0 +1,61 @@
+Washington, DC CNN Business —
+
+As US officials braced for a possible Iranian cyberattack this month following the killing of top military general Qasem Soleimani, a trio of cybersecurity companies ventured to Capitol Hill.
+
+In a closed-door briefing with Senate aides, the companies described how hacking outfits linked to Iran, criminal groups and other adversaries are growing more sophisticated — and how they could take advantage of a complex web of vulnerable US targets to sow chaos, according to several people familiar with the Jan. 16 meeting.
+
+Some of the hypothetical scenarios could have fit into a James Bond plot. By compromising the power grid, for example, skilled attackers could try to bring down oil and gas facilities that depend on electricity, Sergio Caltagirone, vice president of threat intelligence at Dragos, told the group.
+
+The presentations by Dragos and two other companies — CrowdStrike (CRWD) and Cloudflare (NET) — highlight the way rising international tensions, increasingly capable hackers and a high-stakes election year are combining to create a perfect storm of risks for US businesses, infrastructure providers and state and local governments.
+
+On Jan. 22, The Guardian first reported that a forensic analysis concluded the world’s richest man, Amazon CEO Jeff Bezos, may have been hacked via a WhatsApp account belonging to the Crown Prince of Saudi Arabia. And just this week, hackers employing a strain of malware that the FBI warned about in December publicly posted the data files of dozens of businesses.
+
+It’s a volatile mix that portends a very good year for the multibillion-dollar cybersecurity industry.
+
+“We are seeing huge growth,” Caltagirone said in an interview with CNN. “We’re servicing more calls than we can handle, which is actually a problem.” Dragos has hired more than 100 additional employees in the past 18 months and is still having trouble keeping up with demand, he added.
+
+Chaos, Inc, or When chaos is good for business
+
+As fears of an escalating conflict between the United States and Iran rattled much of the stock market at the start of the year, multiple cybersecurity companies saw their shares jump. Joel P. Fishbein, Jr., an industry analyst at SunTrust Robinson Humphrey, upgraded his rating of one firm, FireEye (FEYE), saying in a research note that “recent events in Iran and Iraq” are likely to drive higher spending on cybersecurity in the coming months.
+
+Information security companies were already riding high. Global spending on cybersecurity topped an estimated $120 billion last year, up 7% from the year prior, according to market research firm Gartner. That figure is expected to grow to $143 billion by 2021. And venture capital investment in cybersecurity startups hit a new high last year.
+
+But the enormous demand for cybersecurity know-how is also creating opportunities for fly-by-night operators with dubious track records, said James Lewis, a senior vice president at the Center for Strategic and International Studies, a security think tank.
+
+“Everyone has a marketing department,” said Lewis. “Not everyone has the skills to do the good analysis.”
+
+For the uninitiated, the line between self-promotion and cold, sober analysis can be difficult to find. A routine practice across the industry is to label hacking collectives using catchy aliases like Fancy Bear and Ocean Lotus. The naming conventions typically follow a pattern — for example, CrowdStrike refers to Iranian-linked hacking groups as “kittens” and Chinese-based groups as “pandas.”
+
+Though the practice may have originated out of necessity to differentiate anonymous hacking groups, it’s become a successful branding technique for security companies of all kinds, said Lewis.
+
+“If you have a name out there that sticks, it leads people back to your company,” he said. “Chief information officers or boards, when they realize they need to do something, they think about you.”
+
+That can result in situations where a company driven by marketing, not knowledge, wins an unwarranted amount of attention, said Yossi Appleboum, a former Israeli army intelligence officer and the CEO of Sepio Systems, a company specializing in defenses against hardware hackers.
+
+“The problem is that many people in the industry are talking about things they don’t really have a clue about,” said Appleboum.
+
+Appleboum’s skepticism is apparently shared. After the forensic analysis looking into Bezos’s phone became public, a number of high-profile independent experts challenged the consulting firm that Bezos hired for the investigation, saying it had done an incomplete job and had jumped to conclusions.
+
+In particular, the report betrayed a lack of familiarity with the specialized field of mobile forensics, said Sarah Edwards, an instructor at the SANS Institute, a security training and research group. It had principally relied on an iTunes backup of Bezos’s phone, Edwards said, citing the consultant report, which provided only a limited range of evidence.
+
+“My recommendation would have been to bring it to people who truly deal with this kind of work,” she said.
+
+Other experts panned the report for relying on circumstantial evidence to make confident claims about who may have been responsible. The team that did the analysis, FTI Consulting, declined to comment at the time.
+
+Repeated questions about a firm’s credibility or expertise can trigger a more serious loss of trust.
+
+In 2016, a bombshell report by independent journalist Brian Krebs revealed that Norse, an oft-quoted security company, was “imploding” after laying off much of its staff and firing its CEO. A major problem behind the scenes, said Krebs, citing former employees, was that the company had apparently been more committed to building a flashy, interactive map purporting to show real-time cyberattack traffic than it was in fleshing out its analytic capabilities.
+
+Norse later issued a press release alleging “serious errors” in Krebs’s reporting, focusing on details relating to the company’s ownership history and structure. But security experts had already long expressed doubts about Norse’s forensic analyses, questioning its research on Iran as well as the 2014 data breach affecting the entertainment giant Sony. The company’s profile has since diminished considerably; its last tweet was in 2016.
+
+Preparing for the 2020 election
+
+Just as cybersecurity firms can undermine their credibility by getting things wrong and appearing to get in the way of the public interest, though, many are pitching themselves as defenders of the public good.
+
+A growing number of security companies have latched onto concerns about the 2020 elections and whether they could be hacked by foreign adversaries. More than a dozen companies, including Microsoft (MSFT) and Cloudflare, have joined together to offer cybersecurity services to political campaigns of all backgrounds.
+
+The services are provided as in-kind donations, for free, through a not-for-profit group the Federal Election Commission cleared last year. The group is led by former US national security officials, as well as former presidential campaign managers for Hillary Clinton and Mitt Romney.
+
+While it won’t make them any money directly, said Lewis, it’s a smart strategy that’ll likely mean even more growth down the road.
+
+“It’s a sweet spot,” he said. “They get both marketing value and they get to do some good.”

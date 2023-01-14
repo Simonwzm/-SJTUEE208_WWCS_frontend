@@ -1,0 +1,49 @@
+Apple on Tuesday unveiled a slate of four 5G-enabled iPhone 12 models. The technical upgrade brings Apple up to speed with competitors and will likely significantly increase adoption of 5G technology. Analysts predict the new capability could prompt a "supercycle" of iPhone upgrades
+
+"Every decade, there's a new technology that provides a step change in what we can do with our iPhones," CEO Tim Cook said of the 5G iPhone 12. "Today is the beginning of a new era for iPhone."
+
+5G is next generation wireless network technology that's expected to change the way people live and work. It's faster and has greater bandwidth than existing 4G LTE networks, which will eventually mean rapid video downloads and improved experiences with services like augmented reality and live gaming, among other consumer perks.
+
+Cook noted that the iPhone 12's 5G connectivity will enable faster downloads and uploads, improved video streaming, more responsive gaming, real-time interactivity and other benefits.
+
+Apple AAPL But— and iPhone 12 buyers — could face a challenge: 5G is still in the process of being rolled out and services using the network's faster speeds remain relatively limited, meaning consumers may not experience massive differences compared to their old 4G phones. At least not right away.
+
+"This year, next year, the story for Apple is going to be: How do they manage consumer expectations when the network isn't there?" DA Davidson analyst Tom Forte said ahead of the announcement.
+
+How does 5G work?
+
+Download speeds on a 5G iPhone are likely to vary based on several factors: Where you live and who your cell provider is.
+
+US mobile carriers are building out 5G networks in several different ways, based on what kind of spectrum — a resource needed for wireless networks — they have. (Apple is releasing iPhone models compatible with how international 5G networks are being constructed.)
+
+As of Tuesday, all three major US mobile providers have "nationwide" 5G networks. These networks rely on "low-band" spectrum, which carries cell signals greater distances but provides a relatively small jump in speed compared to 4G. There are also swaths of the country not yet covered by these "nationwide" networks, because the term is defined by population, rather than geographic coverage area.
+
+Carriers are building out 5G in cities using "high-band" spectrum, which provides speeds significantly faster than 4G. But, because signals don't travel as far using high-band spectrum, this kind of network requires much more physical infrastructure in a given area for it to work — meaning it's available almost exclusively in dense, urban areas.
+
+Eventually, these lower- and higher-frequency networks will more or less converge. But, for now, most iPhone 12 owners shouldn't expect significantly higher download speeds, unless they live or work in the downtown core of a big city. This is especially true given the flight to the suburbs and continued work-from-home policies during the pandemic.
+
+"For some consumers, the experience on 5G might just feel a lot like 4G," according to Daniel Hays, strategy partner at consulting firm PwC US. "I think the thing that we're kind of seeing and experiencing at the moment is that the hype around 5G has far outpaced the reality at this point."
+
+The full 5G network roll-out is likely to take another five to seven years, Hays said.
+
+All four versions of the iPhone 12 will connect to low-, mid- and high-band 5G networks, meaning that if users can benefit from the slight bump in speed if they live outside of a city and can also experience superfast "high-band" speeds when they travel to a dense urban area.
+
+Google GOOGL GOOGLE By making even the lower priced iPhone 12 models connect to the "high-band" network, Apple will expand access to the most dramatic benefits of 5G. (made only its highest end devices connect to "high-band" 5G with the latest Pixel phones .)
+
+Building out 5G capabilities
+
+Despite some likely challenges in accessing superfast 5G, Apple is still expected to sell hundreds of millions of iPhone 12s. That means there will still be many consumers across the country soon able to access some form of 5G network. And that number will be growing as mobile providers continue building out their networks.
+
+In 2019, less than 1% of mobile subscriptions in North America were 5G, but by 2025, 5G is expected to account for around 74% of mobile subscriptions, according to Ericsson's 2020 Mobility Report
+
+For now, the list of consumer services and capabilities enabled by 5G remains relatively short. Uploads and downloads will be faster over the new network, which will be especially noticeable with big files like videos or movies. Over high-band 5G networks, it may be possible to download a two hour movie in fewer than 10 seconds, versus around 7 minutes with 4G.
+
+During Tuesday's event, Apple hyped the high quality video capabilities on the iPhone 12 — tools that will take advantage of the faster video upload speeds with 5G. It also noted improvements in multiplayer gaming and discussed some artificial reality capabilities, which are likely to function better with 5G.
+
+But it will take some time for more services taking advantage of 5G's speeds and bandwidth to be built. Ridesharing services, for example, were made possible by the 4G network, but weren't built overnight.
+
+Software development kits for app makers to create such things as augmented reality services for smartphones have just begun to emerge, Hays said.
+
+That could mean consumers will wait to shell out for a 5G device. However, now that consumers are hanging onto smartphones for three or more years, buying a 5G device even before the network is complete could be a way of "future-proofing" the purchase, CCS Insight Chief of Research Ben Wood said.
+
+"The iPhone 12 will mark the real start of 5G for the consumer mass market," Wood said. "Samsung and several Android phone-makers may have had an 18-month head start, but the limitations of early 5G devices, coupled with the time needed to expand network coverage, have meant momentum is still building. Apple is following its playbook by timing this launch for when the market is ready, rather than the technology."

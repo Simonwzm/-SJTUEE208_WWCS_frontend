@@ -1,0 +1,43 @@
+Washington CNN Business —
+
+Facebook said Thursday it had found evidence of something cyber security and national security experts have long suspected: people tied to the government of Saudi Arabia have been running covert campaigns on Facebook and Instagram in a bid to prop up support for the kingdom and attack its enemies.
+
+Thursday’s announcement is Facebook (FB)’s first public disclosure of its having found and taken down a covert influence campaign linked to the Saudi government. The people behind the campaign — who Facebook (FB) did not name but said were linked to the Saudi government — ran an expansive operation involving hundreds of Facebook (FB) pages and accounts. They built fictitious personas, Facebook (FB) said, and were well-resourced, spending more than $100,000 on ads on Facebook (FB) and Instagram. The pages involved in the campaign had more than one million followers, Facebook (FB) said.
+
+“We have shared information about our findings with law enforcement, industry partners and policymakers,” Nathaniel Gleicher, Facebook’s head of cybersecurity policy, wrote in a blog post released Thursday.
+
+Responding to the Facebook takedown, the Saudi government’s media organization — the Center for International Communication — said in a statement to CNN Business, “The government of Saudi Arabia has no knowledge of the mentioned alleged ‘extensive covert information operation’ and does not know on what basis such an operation was linked to it.”
+
+Over the past two years, Facebook has hired staff with backgrounds in areas including intelligence, law enforcement and journalism to be part of a team finding and closing down coordinated campaigns on the platform, including some spreading disinformation and linked to nation-states.
+
+“We’re constantly working to detect and stop this type of activity because we don’t want our services to be used to manipulate people. We’re taking down these Pages, Groups and accounts based on their behavior, not the content they posted,” Gleicher wrote.
+
+The company’s threat investigators have access to information like IP addresses, email addresses, and other indicators that they use to determine who is behind a network of accounts and from where they are operating.
+
+Some of the Saudi pages posed as local news websites targeting people in the Middle East and North Africa; other accounts were run using personas made to look like locals from countries in those regions. The network of pages and accounts posted about Saudi Crown Prince Mohammad bin Salman’s economic and social reform plan, touted what they portrayed as the success of the Saudi armed forces in Yemen, and “also frequently shared criticism of neighboring countries including Iran, Qatar and Turkey, and called into question the credibility of Al-Jazeera news network and Amnesty International,” Gleicher wrote.
+
+Facebook said recent reporting from the investigative website Bellingcat helped the company identify the pages that it took down.
+
+In June, Bellingcat released a report claiming that Saud al-Qahtani, bin Salman’s communications chief who was implicated in the murder of Washington Post journalist Jamal Khashoggi, purchased hacking services and was involved in creating fake social media accounts.
+
+Facebook said that while it benefited from the information Bellingcat published, it did not find any direct links between the pages it removed and al-Qahtani.
+
+The kingdom blamed Khashoggi’s murder on some of bin Salman’s closest aides. Al-Qahtani and several other officials were relieved of their positions in 2018. Saudi prosecutors said al-Qahtani was under investigation and was barred from leaving the kingdom.
+
+Two weeks after Khashoggi’s disappearance, al-Qahtani posted a tweet apparently responding to widespread accusations that he was the mastermind of Khashoggi’s killing.
+
+“Do you think I would create something out of the makings of my own mind and without direction? I am an employee and a faithful executor of the orders of the King and His Highness the faithful Crown Prince,” he wrote in an October 17 tweet.
+
+Bin Salman has denied any involvement in Khashoggi’s death.
+
+In total Facebook took down 217 Facebook accounts, 144 Facebook pages, five Facebook groups, and 31 Instagram accounts that were part of the network. The pages posted mostly in Arabic, Facebook said, and focused primarily on “Qatar, Saudi Arabia, the United Arab Emirates, Bahrain, Egypt, Morocco, Palestine, Lebanon and Jordan.”
+
+The pages had more than one million followers, though as always with any operation like this it is unclear how many of those followers were real and how many were either faked or purchased in a bid to make the pages look legitimate.
+
+“We’re taking down these Pages, Groups and accounts based on their behavior, not the content they posted,” Gleicher added.
+
+Facebook also announced it had removed a separate, unconnected network of accounts run out of the United Arab Emirates and Egypt. The pages in that network had almost 14 million followers and had spent $167,000 on ads on Facebook. The pages were run by a pair of marketing firms in the UAE and Egypt and targeted audiences in the Middle East and North Africa, Facebook said.
+
+CNN has reached out to the UAE company allegedly involved. Contact details for the Egyptian company could not immediately be found.
+
+The pages posted about “alleged support of terrorist groups by Qatar and Turkey, Iran’s activity in Yemen, the conflict in Libya, successes of the Saudi-led coalition in Yemen, and independence for Somaliland,” Gleicher wrote.

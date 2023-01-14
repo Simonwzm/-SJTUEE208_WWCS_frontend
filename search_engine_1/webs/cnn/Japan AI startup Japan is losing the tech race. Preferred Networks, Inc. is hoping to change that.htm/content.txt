@@ -1,0 +1,65 @@
+Tokyo CNN Business —
+
+A robot that can find the laundry even if you’ve moved it could give Japan’s startup scene a much-needed shot in the arm.
+
+Preferred Networks co-founder Daisuke Okanohara says his company’s artificial intelligence software enables the Human Support Robot to react to changes in its environment in unique ways.
+
+The technology is a source of pride for the Tokyo-based firm, which is worth roughly $2 billion, according to CB Insights. That kind of valuation is rare for a Japanese startup. While the United States and China have seen the rise of hundreds of unicorns — private tech companies worth at least $1 billion — Japan has just three.
+
+Falling behind
+
+It wasn’t always this way. The third biggest economy globally was once a leader when it came to disruptive, innovative technology. After all, this was the country that gave the world pocket calculators, the Sony Walkman and LED lights. But Japan has since fallen far behind in the innovation race.
+
+A study from consulting firm McKinsey found that Japan was keeping pace until about 2000, when the revenues of companies such as Sony (SNE) and Toshiba (TOSBF) fell sharply below those of industry leaders like Apple (AAPL) and Samsung (SSNLF).
+
+Japanese companies were known in the 1980s and 1990s for making consumer tech products lighter and thinner, said Kenji Nonaka, senior partner with McKinsey. But then the market changed. “Super engineered” products were less in demand. Consumer-driven tech, with an emphasis on software, became more important, according to Nonaka.
+
+“To be successful for that innovation, you have to be close to the customer, you have to have a sense of those customers’ needs. And Japan is very far from the United States and far, culturally, from China,” he said.
+
+Moreover, startups like Google (GOOGL), Netflix (NFLX), Facebook (FB) and Amazon (AMZN) — all American — have been responsible for the most exciting innovations in tech over the last 20 years, he added.
+
+“In Japan, there is a very limited startup community,” Nonaka said. “Everyone wants to go to large enterprise[s].”
+
+Experts also blame the innovation decline on Japan’s homogenous work culture, combined with a risk-averse financing system that has stifled creativity and innovation.
+
+Japan’s government directs tech investment. The salary-man work culture discourages employees from leaving their jobs. And companies rely heavily on banks, rather than debt markets, to raise money.
+
+The different approach to investment is particularly significant. Angel investors are plentiful in the United States and China, for example, where there’s more of a willingness to bet on people and companies that are taking big risks and are likely to fail.
+
+“When you’re going for new product innovation, the money and personnel that can be attracted in a short amount of time is amazing in the United States,” said Seijiro Takeshita, dean and professor at the University of Shizuoka’s School of Management and Information. But Japan is home to “a culture that frowns on failure,” he added. “At Japanese corporations, it’s more important not to fail than to succeed.”
+
+Some signs of progress
+
+That’s not to say Japan doesn’t innovate at all. Takeshita said there are still a lot of ideas in the country, but they just aren’t as splashy as what’s coming out of Silicon Valley or Shenzhen. Japan excels at taking an existing tech product and making significant improvements on it so that it can be more easily mass produced. Sony debuted the Walkman in 1979, for example, but magnetic cassette technology had been around for more than a decade by then.
+
+Japan is still a world leader in technological innovation based on another metric. It filed more intellectual property patents per capita than any other country in 2018, according to a report released last month by the World Intellectual Property Organization. (China and the United States still rank higher in total number of patents filed.)
+
+Even then, Japan has fallen far behind when it comes to “the political environment, education, infrastructure and business sophistication” needed to drive innovation, the group said. The country ranked 15th in the World Intellectual Property Organization’s annual global innovation list earlier this year, falling two places. It lagged far behind countries such as the United States, the United Kingdom and Israel. Switzerland came first.
+
+Daisuke Okanohara, co-founder of Japan's biggest tech unicorn Preferred Networks, says the country needs more creative diversity for new ideas to flourish. Futa Nagao/CNN
+
+Okanohara, the Preferred Networks co-founder, pointed to diversity as one solution. His company employs roughly 270 people, and about 10% are foreigners, representing more than 30 countries. The company recommends using English around the office and on Slack, and employs translators to help with communication. By comparison, foreign-born individuals make up roughly 57% of Silicon Valley’s technology workforce, according to a 2017 report published by the Silicon Valley Leadership Group, an advocacy organization, and the Silicon Valley Community Foundation.
+
+“We need more diversity to think or adapt more new, radical ideas,” Okanohara said, adding that Preferred Networks wants to create an environment where “new ideas [can be] easily adopted and tried.”
+
+At Japanese corporations, it’s more important not to fail than to succeed. Seijiro Takeshita, dean at the University of Shizuoka's School of Management and Information
+
+Nonaka, of McKinsey, said Japanese startups also need to have global ambitions.
+
+“Many startups have been very comfortable with succeeding in Japan. Japan’s not a small market, but it’s small compared to the US and China. They need to think of their growth in the US and China when they start their business,” he said.
+
+The same holds true for more established tech companies, too. When carrier company SoftBank (SFTBF) announced last week a plan to merge Z Holdings, formerly Yahoo Japan (YAHOF), with messaging app Line (LN), for example, it said that Japanese internet companies are lagging behind their American and Chinese counterparts and need to expand into other Asian countries to stay competitive.
+
+Finding investors
+
+Powerful investors can often make companies, but that’s yet another obstacle that many Japanese startups face. SoftBank (SFTBF) founder and billionaire tech investor Masayoshi Son is the country’s biggest tech cheerleader, but his $100 billion SoftBank (SFTBF) Vision Fund has notably not invested in any Japanese startups.
+
+Instead, the fund is pouring billions of dollars into big global startups like Uber (UBER), Chinese used car startup Chehaoduo and Indian hospitality group Oyo. Its lack of interest in Japan could be because of the slim pickings — most of Japan’s options likely don’t meet Son’s criteria, which requires late stage companies that are only a few years away from going public.
+
+Okanohara shrugged off being overlooked by Son, saying the Japanese tech environment “is very challenging.”
+
+“Compared to places like China there aren’t many opportunities,” he added.
+
+But his company did pique the interest of another big Japanese company: Toyota (TM). The carmaker first began working with Preferred Networks on joint research and development in 2014. Toyota (TM) has invested more than 11 billion yen ($101 million) in the startup since 2015, fueling work on projects such as artificial intelligence, robotics and driverless technology.
+
+That kind of investment has enabled some important breakthroughs for the company — like its AI software. After all, the robot that Preferred Networks is powering with its technology was made by Toyota.

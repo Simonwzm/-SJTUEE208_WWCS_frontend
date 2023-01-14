@@ -1,0 +1,43 @@
+Austin, Texas CNN —
+
+SpaceX is racing against time — and now a pandemic — to build a satellite-internet business.
+
+One of SpaceX’s Falcon 9 rockets fired 60 Starlink satellites into Earth’s orbit Wednesday, the sixth launch of its kind that Elon Musk’s company has sent up over the past year.
+
+The rocket launched from NASA’s Kennedy Space Center in Brevard County, Florida, at 8:16 a.m. ET.
+
+About 350 Starlink satellites now orbit Earth. They’re all part of SpaceX CEO Elon Musk’s plan to beam cheap, high-speed broadband internet from space. Musk hopes the venture will sign up its first customers this year.
+
+SpaceX planned to launch up to 24 dedicated Starlink missions this year, with each mission carrying 60 satellites. But it’s not yet clear if rocket launches will be impacted by the workplace closures and isolation orders that have halted much of the world’s business activity as communities combat the spread of coronavirus.
+
+The US government has already asked people not to gather in groups. Some areas – including in California where SpaceX is headquartered – are under shelter-in-place orders. And on Tuesday, NASA implemented a “Stage 3” response to the pandemic, which requires all staff to work from home unless absolutely necessary. If it moves to “Stage 4,” all NASA facilities across the country will be shut down.
+
+The newly established US Space Force, an arm of the Defense Department that will oversee rocket launches in the United States, supported SpaceX’s Starlink mission on Wednesday.
+
+A Space Force spokesperson said in statement that there are currently “no impacts” to “mission-essential activities due to COVID-19 concerns.”
+
+SpaceX’s internet ambitions
+
+Eventually, SpaceX wants to grow the Starlink constellation to include more than 40,000 satellites that it hopes will blanket the planet in cheap, high-speed connectivity. The company hopes to reach billions of people around the world without internet access and compete with traditional ground-based service providers.
+
+Musk has said Starlink could bring in $30 billion in annual revenue. And the company plans to pour that money back into development of Starship, a rocket and spacecraft system that SpaceX hopes will put the first humans on Mars.
+
+The company is approaching Starlink with a sense of urgency: “We have to make [Starlink] work,” Musk said at a satellite conference earlier this month, acknowledging that previous efforts by other startups to build cheap satellite-based internet have ended in bankruptcy.
+
+SpaceX brings in revenue by launching satellites and cargo into space for NASA, the military and other commercial companies. But the company is also rapidly raising money to help cover the cost of deploying its constellation.
+
+SpaceX has launched Starlink satellites at an unprecedented pace. It’s already the single largest satellite constellation in existence.
+
+As the company races to deploy its constellation, it’s also been a source of controversy. Experts concerned about debris in space and the risks of in-orbit collisions warn that Starlink — and other constellations planned by companies like OneWeb and Amazon — will make areas of orbit more congested. Astronomers have also raised concerns about Starlink satellites impacting visibility of the night sky. Musk has repeatedly attempted to assure the public that Starlink will not contribute to either such problems.
+
+Reusing rockets
+
+SpaceX is known for its efforts to reuse parts of its rockets to drive down cost. On Wednesday, the company used a first-stage booster, or the largest and bottom-most part of that rocket that gives the initial thrust at liftoff, that had previously been used on four other missions. It marked the first time a booster has flown five times.
+
+SpaceX had planned to launch the Starlink mission on Sunday. But when the countdown clock reached zero, flight computers automatically halted liftoff after finding abnormal data related to engine power.
+
+Musk said in a tweet Wednesday that one of the rocket’s nine first-stage engines ended up shutting down prematurely on the way to orbit — but it didn’t impact the overall mission. Musk has long touted the Falcon 9’s ability to fly, even if one or more of its engines malfunction.
+
+Yeah. There was also an early engine shutdown on ascent, but it didn’t affect orbit insertion. Shows value of having 9 engines! Thorough investigation needed before next mission. — Elon Musk (@elonmusk) March 18, 2020
+
+The first-stage booster missed its landing target on the way back down to Earth on Wednesday, so it won’t be able to be used on a sixth mission.

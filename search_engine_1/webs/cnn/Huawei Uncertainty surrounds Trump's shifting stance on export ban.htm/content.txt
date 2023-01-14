@@ -1,0 +1,69 @@
+New York CNN Business —
+
+When President Donald Trump suggested last weekend that he would relax a controversial ban on American sales to Huawei, it was welcome news for the Chinese telecom giant and its suppliers. Days later, the questions raised by his remarks remain unanswered.
+
+At the G20 summit in Osaka, Japan, Trump said he would allow American companies to resume sales to Huawei of products that don’t pose a security threat.
+
+Huawei is the world’s leading telecom equipment provider and an important customer of American companies. It’s also central to China’s technology ambitions and the global rollout of 5G wireless networks. The US government targets it as a national security problem.
+
+Trump’s announcement followed pressure from tech companies that said the ban was hurting their profits, and after Chinese officials reportedly said they would insist on concessions for Huawei as part of a US-China trade deal.
+
+“A lot of people are surprised, we sell to Huawei a tremendous amount of product that goes into the various things they make,” Trump said. “I’ve agreed to allow them to continue selling that product.”
+
+That was last Saturday. The administration has since offered few public details about what will happen next.
+
+The Commerce Department did not respond to requests for comment and has not released any additional guidance on Trump’s remarks. Companies are awaiting a clear answer on just how – and when – they’ll be able to resume billions of dollars in sales to Huawei.
+
+It also remains to be seen whether this easing of restrictions on Huawei will be enough to convince Chinese leaders to sign on to a trade deal. Trump said he would wait until the end of the negotiations to consider additional concessions for the company, even amid ongoing national security concerns.
+
+Here are a few of the significant remaining questions about the announcement.
+
+What products will US companies be able to sell to Huawei, and when?
+
+Trump’s comments at the G20 did not change the law, something White House officials emphasized in recent days. Because Huawei remains on the Entity List, American companies still have to apply for a license to sell to it.
+
+White House economic adviser Larry Kudlow said on Fox News Sunday that Huawei would remain on the Entity List, which restricts exports unless US companies obtain a license to do business with the Chinese company. Going forward, Kudlow suggested, the Commerce Department would grant more licenses, which have been difficult to obtain in the month since the ban was implemented.
+
+Peter Navarro, a White House trade adviser, told CNN’s Jim Sciutto Friday that the US government will divide Huawei into two parts: 5G and the rest of the business. American companies will still be forbidden from doing business with the 5G part, but they will be able to sell Huawei “a modest amount of low-grade chips.”
+
+“It allows us basically what we need to do on Huawei, but it is a bad actor,” Navarro said.
+
+Trump administration officials have said the loosened restrictions will allow only for the sales of “general merchandise.”
+
+It’s not clear which products this does and does not include, but experts expect it will mean the sale of cell phone or 4G equipment components will resume, while sales of products used to build Huawei’s 5G network equipment will not. The White House wants to curb Huawei’s involvement in 5G over concerns that its equipment could be used by the Chinese government to spy on other countries — a charge that Huawei denies.
+
+Michael Wessel, a commissioner on the US-China Economic and Security Review Commission, said that if the loosened restrictions did allow for sales of 5G equipment components, it would reignite the same security concerns the ban initially put in place to address.
+
+“For Trump, this is the art of the deal, but it’s an inappropriate conflation of two different policy goals — trade and national security,” Wessel said.
+
+It’s unclear when any licenses to sell to Huawei would be granted. In the meantime, some American suppliers had already found a way around the ban: resuming shipments to Huawei of products technically not “American-made” because they are produced outside of the United States.
+
+But, while Trump’s announcement eases controls for certain products, it may also get rid of those legal workarounds, according to Scott Kennedy, a senior adviser at the Center for Strategic and International Studies.
+
+What does this mean for Huawei?
+
+Huawei relies heavily on American products, especially for its smartphone business, a major driver of the company’s overall $104 billion in revenue last year. The company had expected to have a much better year in 2019 but has downgraded its revenue expectations by $30 billion. After the export ban was announced, Huawei’s overseas smartphone unit sales plummeted 40%.
+
+If sales from American companies like Google (GOOGL) and Intel (INTC) can resume, Huawei may have a chance to recover that business.
+
+However, continued US pressure on Huawei’s 5G efforts would be a significant negative to the company. Huawei itself said Tuesday it doesn’t expect any significant changes as a result of Trump’s initial announcement.
+
+“President Trump’s statements are good for American companies. Huawei is also willing to continue to buy products from American companies,” Huawei founder Ren Zhengfei told the Financial Times. “But we don’t see much impact on what we are currently doing. We will still focus on doing our own job right.”
+
+The company is also embroiled in multiple legal battles with the US government, including an American effort to extradite Huawei CFO Meng Wanzhou from Canada for alleged Iran sanctions violations. It’s unclear whether those legal proceedings will be affected.
+
+What about national security?
+
+American officials have for years worried that Huawei poses a national security risk. They’re especially fearful of the Chinese company’s involvement in 5G, as the network is expected to power key technological innovations like self-driving cars and smart cities. The US government has also accused Huawei of stealing American companies’ intellectual property. Huawei fiercely denies these claims.
+
+After Trump announced the concessions for Huawei, lawmakers from both parties chided him for easing up on national security-related restrictions as part of a trade dispute.
+
+“If President Trump has agreed to reverse recent sanctions against Huawei, he has made a catastrophic mistake,” Senator Marco Rubio, a Florida Republican, said on Twitter. “It will destroy the credibility of his administration’s warnings about the threat posed by the company, and no one will ever again take them seriously.”
+
+Trump administration officials, however, said they remain committed to addressing the national security concerns and the president said the loosened restrictions were for sales of products that did not pose a security risk.
+
+Kennedy, the Center for Strategic and International Studies adviser, said he thinks the shift could be a means of focusing more directly on the 5G technology that the government considers the most pressing concern.
+
+“It seems that they are no longer focused on putting Huawei out of business or hurting their overall profitability, but restricting them in 5G,” Kennedy said. “But can the administration really confirm that? And then do they have a longer term strategy to achieve this?”
+
+The answers to these questions have profound implications for American companies, Huawei, the future of 5G and, perhaps, the willingness of the United States and China to agree on a final trade deal at all.

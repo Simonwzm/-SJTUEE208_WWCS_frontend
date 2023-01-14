@@ -1,0 +1,75 @@
+Hong Kong (CNN Business) Facebook and Google are taking vastly different approaches to an escalating battle in Australia that could reset the relationship between tech and media.
+
+In the face of a proposed media code that would force Big Tech to pay publishers for news shared on their platforms,has decided that it would rather just stop people from finding such content on its service altogether. The company's ban on news content in Australia, announced Wednesday, forced the pages of media organizations and even some unrelated essential services to go dark.
+
+But— which just a month ago threatened to pull its search engine in the country if the law moved forward — took a different tack.
+
+Over the last few days, Google has tried to get ahead of the new legislation by announcing partnerships with some of the country's largest media organizations, including Rupert Murdoch'sand Seven West Media. The Sydney Morning Herald has also reported that its owner, Nine Entertainment, has struck a deal with the tech company. Nine and Google declined to comment to CNN Business about that report.
+
+Facebook's stunning announcement suggests that the company is willing to stand up to Australia where Google has backed down. So far, though, it appears that the search giant might be playing the winning hand: Facebook's move has been met with scorn in Australia, while Google's strategy has been cheered by media organizations and politicians alike.
+
+"We want to thank Google for the very constructive discussions that they have been having with stakeholders," Australian Treasurer Josh Frydenberg told reporters during a press conference Thursday, where he blasted Facebook for its ban.
+
+Frydenberg and Communications Minister Paul Fletcher had said earlier this week that a "central feature" of the new rules was that they encouraged companies "to undertake commercial negotiations outside the code."
+
+Facebook pulls the plug
+
+Facebook and Google have tussled with publishers for years over how they display their content, with media companies arguing the tech giants should pay them for the privilege. Critics of the two tech firms point out that since they dominate the online advertising business, the arrangement starves news publishers of money and leaves them scrambling for leftovers. Defenders of the platforms argue that they drive huge audiences to news content.
+
+The Australian legislation would allow media outlets to bargain either individually or collectively with Facebook and Google — and to enter arbitration if the parties can't reach an agreement. Both tech companies have been vehemently opposed to the code, arguing that they support the news media but don't necessarily need to in order to support the business.
+
+Facebook's move to block news content, which the government said it hadn't received "any notice" of beforehand, was blasted by officials on Thursday.
+
+"These actions will only confirm the concerns that an increasing number of countries are expressing about the behavior of Big Tech companies who think they are bigger than governments and that the rules should not apply to them," wrote Australian Prime Minister Scott Morrison perhaps pointedly, in a post on Facebook that criticized the company's decision to "unfriend" his country. "They may be changing the world, but that doesn't mean they run it."
+
+While Facebook has said that it enacted its ban with a " heavy heart ," and that it would reverse the restrictions on pages it said were "inadvertently impacted" by it, the company has otherwise stood by its decision.
+
+"What the proposed law introduced in Australia fails to recognize is the fundamental nature of the relationship between our platform and publishers," Campbell Brown, Facebook's vice president of global news partnerships, wrote in a blog post Wednesday . "I hope in the future, we can include news for people in Australia once again."
+
+"It's a massive show of power," said Belinda Barnet, a media and communications lecturer at Swinburne University in Melbourne. "Facebook hasn't budged."
+
+While shocking in its implementation, Facebook had been telegraphing its decision. The company raised the idea of a block on news content last month during a hearing of the Australian Senate.
+
+There was already a "deterrent effect of this law on investment in the Australian news industry," Simon Milner, Facebook's vice president of public policy for Asia Pacific, told lawmakers, citing a recent decision from his team to launch a news product in the United Kingdom in which it pays publishers for access to content, instead of Australia.
+
+Google looks for deals
+
+For a while, it was fellow California-based tech behemoth Google — not Facebook — that appeared more ready to wade into the firestorm.
+
+Last August, Google used its homepage to warn Australians that the proposed law would harm their ability to search and lead to "consequences" for YouTube users.
+
+And at last month's Senate hearing, Google's Australia chief Mel Silva warned that "if this version of the code were to become law, it would give us no real choice but to stop making Google Search available in Australia."
+
+The threat immediately sparked backlash, including criticism on social media and a sharp rebuke from the prime minister.
+
+"Let me be clear. Australia makes our rules for things you can do in Australia. That's done in our parliament. It's done by our government," Morrison said at the time. "We don't respond to threats."
+
+Tensions appeared to be cooling before this week's bombshell. Facebook CEO Mark Zuckerberg and Google CEO Sundar Pichai spoke with Frydenberg, the treasurer, last weekend. Those talks were constructive, according to Frydenberg.
+
+Google, at least, was inking deals — and the treasurer said Facebook had been "relatively close" to doing the same. The social network did not immediately respond to a request for comment about the result of those discussions.
+
+"Everything is pointing in the right direction," the treasurer told journalists on Wednesday.
+
+Australian Treasurer Josh Frydenberg speaking with Facebook CEO Mark Zuckerberg via video call on Jan. 28.
+
+While it was ultimately Google that gave some ground, Facebook's dramatic blockade might come back to bite the company. It didn't just block content from news pages: Australian users woke up Thursday to find the accounts of fire and emergency services, domestic violence charities, and government health agencies affected, too.
+
+Facebook is reinstating pages that it didn't intend to block, but the initial response will be costly for the company, according to Rob Nicholls, associate professor of regulation and governance at the University of New South Wales' business school.
+
+"It doesn't matter if it's deliberate ... these are horrible things to do, even accidentally on a short term basis," Nicholls said. "It's dumb."
+
+Google, meanwhile, has bought itself some goodwill by forging new partnerships with newsrooms. Two of the deals — with Seven and Nine — are reportedly worth as much as 30 million Australian dollars (about $23 million) a year, though financial terms were not disclosed. The companies declined to comment.
+
+The amount is a drop in the bucket for a company like Google, noted Nicholls. The company raked in some $180 billion in revenue last year. But the money could be significant for media publishers who have struggled financially for years.
+
+"What's really odd is that Facebook didn't go ahead and do the same thing," Nicholls said. "It's a high-stakes game, and it is very risky."
+
+Now, experts say that lawmakers could retaliate by further targeting Facebook. The bill — which passed this week through Australia's House of Representatives and is expected to become law, should it clear the Senate — could still be amended to include certain provisions for Facebook's other properties, such as Instagram, according to Nicholls.
+
+"We will continue to engage with the government on amendments to the law, with the aim of achieving a stable, fair path for both Facebook and publishers," a Facebook spokesperson said.
+
+Google, on the other hand, could potentially get a pass: Frydenberg did not rule out the option this week when asked whether he would decide to exempt it from the bill.
+
+"I don't want to pre-empt any decisions that I may or may not take," he said . "But what I have said is if commercial deals are in place, then it changes the equation."
+
+"I think Google read the room better," Barnet told CNN Business. "Google wins in all this."

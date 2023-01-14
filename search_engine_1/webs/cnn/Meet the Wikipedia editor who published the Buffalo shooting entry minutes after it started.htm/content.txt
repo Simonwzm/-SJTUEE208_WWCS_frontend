@@ -1,0 +1,59 @@
+(CNN Business) After Jason Moore, from Portland, Oregon, saw headlines from national news sources on Google News about the Buffalo shooting at a local supermarket on Saturday afternoon, he did a quick search for the incident on Wikipedia. When no results appeared, he drafted a single sentence: "On May 14, 2022, 10 people were killed in a mass shooting in Buffalo, New York." He hit save and published the entry on Wikipedia in less than a minute.
+
+That article, which as of Friday has been viewed more than 900,000 times, has since undergone 1,071 edits by 223 editors who've voluntarily updated the page on the internet's free and largest crowdsourced encyclopedia. Moore, who works as a strategist for a digital creative agency, has made nearly 500,000 edits to Wikipedia articles over the past 15 years. He is also ranked as one of the 50 most active English-language Wikipedia users of all time, based on the number of edits. (Wikipedia editors do not get paid.)
+
+"It's a hobby," Moore told CNN Business. "I sometimes spend a lot of time diving in and fleshing out an article, but other times I'm writing one or two sentences to get the ball rolling and watching other editors improve upon my work. I get a lot of satisfaction out of planting the seed and watching it evolve over time."
+
+He's credited with creating 50,000 entries, including some prominent breaking news pages such as one for the 2021 United States Capitol attack . He was also a major editor to the George Floyd and Black Lives Matter protest pages. "I had a lot more time when we were in lockdown that I could dedicate to quality Wikipedia work," he said.
+
+In the middle of breaking news, when people are searching for information, some platforms can present more questions than answers. Although Wikipedia is not staffed with professional journalists, it is viewed as an authoritative source by much of the public, for better or for worse. Its entries are also used for fact-checking purposes by some of the biggest social platforms, adding to the stakes and reach of the work from Moore and others.
+
+The day after the Buffalo shooting, Moore created the page for the shooting at Geneva Presbyterian Church in Laguna Woods, California, where one person was killed, and five others were injured (four critically). But he's also created pages for earthquakes, wildfires, terrorism attacks and other breaking news moments.
+
+"Editing Wikipedia can absolutely take an emotional toll on me, especially when working on difficult topics such as the COVID-19 pandemic, mass shootings, terrorist attacks, and other disasters," he said. "I've learned how to minimize this by stepping away if needed and revisiting tasks at a later time."
+
+Jason Moore is credited with creating more than 50,000 Wikipedia pages
+
+Moore is part of a subculture of Wikipedia users who spend hours each day contributing to the platform, helping to fulfill the organization's mission to "create and distribute a free encyclopedia of the highest possible quality to every single person on the planet in their own language." He calls his work as a volunteer editor "rewarding."
+
+"I like the instant gratification of making the internet better," he said. "I want to direct people to something that is going to provide them with much more reliable information at a time when it's very difficult for people to understand what sources they can trust."
+
+While anyone can contribute to a Wikipedia story, editors who are fast, reliable and resourceful have developed strong reputations in the "close knit" Wikipedia editor community. Steven Pruitt, for example, is perhaps the most well known Wikipedia editor -- he has made more than 4.7 million edits, more than any other user on the site. In 2017, Time Magazine named him one of the top 25 most influential people on the internet.
+
+Some of these expert users attend Wikipedia editor conferences and meetups all over the world. "We're kind of like ants," Moore said. "You kind of find how you fit in and how you can help."
+
+Cutting out the noise
+
+Although Wikipedia topics vary, it's evolved over the years as a destination for up-to-date information on breaking news. Wikipedia articles for current events often bring in hundreds of thousands of views, and other major tech companies, such as Facebook and YouTube, often use Wikipedia for fact-checking content on their own platforms. (Wikipedia entries summarize, present, and cite reliable sources, along with links to helpful resources that may otherwise be considered tangential in a traditional news article.)
+
+Lane Rasberry, who is employed at the School of Data Science at the University of Virginia and was a volunteer Wikipedia editor for 10 years, said there's also an allure and a culture around people involved in high-profile breaking news situations on Wikipedia.
+
+"It is considered cool if you're the first person who creates an article, especially if you do it well with high-quality contributions," said Rasberry. "Just like when a celebrity dies, there's a rush to go to Wikipedia and change their [date of] death. People like to be first ... and also make an impact" in getting reliable and accurate information out quickly.
+
+To help patrol incoming edits and predict misconduct or errors, Wikipedia -- like Twitter -- uses artificial intelligence bots that can escalate suspicious content to human reviewers who monitor content. However, the volunteer editors of the Wikipedia community make decisions on what to remove or edit. The platform also uses admins, known as "trusted users," who can apply or are nominated for the role, to help monitor content.
+
+Rasberry, who also wrote the Wikipedia page on the platform's fact checking processes , said Wikipedia does not employ paid staff to monitor anything unless it involves "strange and unusual serious crimes like terrorism or real world violence, such as using Wikipedia to make threats, plan to commit suicide, or when Wikipedia itself is part of a crime.
+
+Rasberry said flaws range from a geographical bias , which is related to challenges with communicating across languages; access to internet in lower and middle income countries; and barriers to freedom of journalism around the world.
+
+In addition, the organization behind Wikipedia has previously said it believes only a small percentage of Wikipedia editors are women. Other issues involve " deletionism " -- when an article is deleted because there's not enough journalism to support the topic -- and ideological bias , where Wikipedia may match the ideological bias of the news ecosystem.
+
+Another issue is vandalism, or people who make purposefully erroneous edits on Wikipedia pages. But Moore said he doesn't worry about his own pages falling victim to vandalism because he believes Wikipedia's guidelines and policies are working in his favor.
+
+"I've got many other editors that I'm working with who will back me, so when we encounter vandalism or trolls or misinformation or disinformation, editors are very quick to revert inappropriate edits or remove inappropriate content or poorly sourced content," Moore said.
+
+While "edit wars" can happen on pages, Rasberry said this tends to occur more often over social issues rather than news. "People have always assumed edit wars [play out on] Wikipedia and it does not happen nearly as much as outsiders expect," he said. "Wikipedia has both technological and social structures in place, which most people find agreeable and appropriate, and which permit many people to edit at once."
+
+Wikipedia also publicly displays who edits each version of an article via its history page , along with a "talk" page for each post that allows editors to openly discuss edits.
+
+"Administrators are very quick to block those who do not obey the rules, so if you're coming to Wikipedia with mal-intent, you're wasting your time because we will stop you from contributing to the site," Moore said.
+
+Challenges exist with getting users full access to news on Wikipedia, too. Rasberry said that due to news or magazine subscription costs, some Wikipedia editors may not be able to access and cite those sources in their updates. "Access to media and interpreting media is a major bottleneck," said Rasberry, saying "news agencies [should] see Wikipedia as more of a collaborator than rival news source."
+
+Wikipedia volunteers have created lots of guidance on reliable news sources. A dedicated Wikipedia page on the topic notes that articles should be "based on reliable, published sources, making sure that all majority and significant minority views that have appeared in those sources are covered."
+
+"If no reliable sources can be found on a topic, Wikipedia should not have an article on it," the page said.
+
+Although Moore is known among friends, colleagues and those in the Wikipedia editor community as being a Wikipedia influencer, the weight of that title is far less than the fame one can acquire on YouTube, Instagram and TikTok.
+
+"I don't spend all of my time contributing to Facebook and Twitter and these other platforms because I feel strongly about Wikipedia's mission," he said. "If it was a paid advertising site or if it had a different mission, I wouldn't waste my time."

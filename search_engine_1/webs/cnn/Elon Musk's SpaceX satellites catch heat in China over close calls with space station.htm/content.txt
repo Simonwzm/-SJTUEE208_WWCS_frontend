@@ -1,0 +1,67 @@
+New York / Hong Kong (CNN Business) Elon Musk's rocky year in China is ending on another sour note.
+
+The tech billionaire's SpaceX satellites are catching heat in the country after Beijing complained that two satellites launched by the American aerospace manufacturer endangered Chinese astronauts.
+
+The two encounters "constituted dangers to the life or health of astronauts aboard the China Space Station," according to the report, which said the incidents happened in July and October.
+
+China filed its complaint to the UN early this month. But the episodes didn't gain widespread attention in the country until this week.
+
+Chinese State media scrutinized the incidents, which involved satellites that are part of SpaceX's Starlink constellation — a project that promises to beam high-speed internet across the entire planet. The Global Times, a state-run tabloid, cited an expert Monday who speculated that SpaceX may have been "trying to test China's capability and response awareness in space."
+
+The topic also attracted some 90 million views on Weibo, a Twitter-like social media service in China. Users criticized the "US Starlink satellites." One person decried the network as a "rogue project" and a "kind of monopoly in the space race." Another accused the United States of " provoking trouble ."
+
+Asked about the incident on Tuesday, a spokesperson for China's Ministry of Foreign Affairs called on the United States to "take immediate measures to prevent such incidents from happening again."
+
+"It is a typical double standard for the US to proclaim the concept of 'responsible conduct in outer space' while ignoring its obligations under international treaties on outer space and posing a grave threat to the lives and safety of astronauts," Zhao Lijian told reporters.
+
+SpaceX did not respond to a request from CNN Business for comment about the document that China filed with the UN, nor to questions about whether the company was able to communicate with Chinese authorities during the incidents.
+
+The UN's Office for Outer Space Affairs did not immediately respond to a request from CNN Business for comment. In its report, China asked UN Secretary-General António Guterres to remind countries of the organization's treaty governing outer space activity.
+
+The US military's Vandenberg Space Force Base, which monitors space traffic and attempts to track potential collisions, did not respond to a request for comment about the UNOOSA report.
+
+A space traffic problem
+
+People across the United States are already using the new Starlink network , and it's rapidly expanding across the globe as SpaceX launches more Starlink satellites and expands its service into new countries.
+
+SpaceX's Starlink constellation already includes roughly 2,000 satellites, and it promises to far surpass that amount.
+
+Near-misses between objects in space happen all the time. And the apparent close calls documented in China's report to the UN may be symptoms of a larger problem plaguing space-faring nations: There is not a perfect, international solution for tracking and coordinating objects in space.
+
+Concerns about potential collisions will likely keep growing, and activities in space will become more dangerous as humans launch more objects into orbit
+
+It should also be noted that Russia and China have conducted anti-satellite, or ASAT, military tests that have essentially blown up satellites in orbit and created massive plumes of debris in space. That debris whips uncontrollably through orbit, threatening any spacecraft, space station or satellite that might cross the debris field's path.
+
+Jonathan McDowell, an astronomer at the Harvard-Smithsonian Center for Astrophysics, pointed out that the International Space Station has had to maneuver out of the way of debris created by China's 2007 ASAT test several times in recent years.
+
+In other words: Every party involved shares a bit of the fault for how crowded Earth's orbit has become.
+
+"This is another symptom that we're in a new era — a new space age that is both much busier much tenser," McDowell told CNN Business.
+
+It's not clear whether the Starlink satellites mentioned in the UN report attempted to move out of the way of China's space station on their own. During October's close encounter, according to China, the satellite's "maneuver strategy was unknown and orbital errors were hard to be assessed," prompting the space station to evade the satellite and "avoid a potential collision."
+
+though, says that autonomous collision avoidance technology is embedded into its satellites, allowing them to automatically duck out of the way if they detect a potential crash with an oncoming piece of space junk, a space station or any other space-faring object. The Starlink website though, says that autonomous collision avoidance technology is embedded into its satellites, allowing them to automatically duck out of the way if they detect a potential crash with an oncoming piece of space junk, a space station or any other space-faring object.
+
+McDowell told CNN Business that based on his data, the Starlink satellite that made a close approach to China's space station in July made a slight adjustment to its path that could indicate the autonomous system was working.
+
+But he added that those systems are hardly effective if there's not more coordination.
+
+"If I'm in China — even if I know that SpaceX has an autonomous system — I don't know that it's going to work this time," he said. "I don't know if it's switched on."
+
+Musk's reputation in China
+
+The controversy could hurt Musk's reputation in China.
+
+Musk spent years winning over authorities and Chinese citizens alike as his electric carmaker Tesla made inroads where other foreign firms could not.
+
+Tesla TSLA was the only foreign manufacturer without a local partner to win a big tax break for its cars in 2019, and Musk famously danced on stage during the debut of the Shanghai-made Model 3 early last year, which went viral on Weibo. Premier Li Keqiang once even said he would be happy to give Musk a "China green card" after the American entrepreneur said he "loves China very much."
+
+Musk, who has long shown an affinity for Chinese culture, has in the meantime been on a monthslong charm offensive
+
+In July, he applauded the government on the 100th anniversary for the ruling Chinese Communist Party, tweeting: "The economic prosperity that China has achieved is truly amazing, especially in infrastructure! I encourage people to visit and see for themselves."
+
+That came months after the world's richest man appeared for a rare interview with a Chinese state broadcaster, heaping praise on Beijing and saying that China would "become the biggest economy in the world." Musk has also predicted that the country will eventually become Tesla's most important market.
+
+And his many utterances have often created buzz within the country. In November, Musk cryptically tweeted an ancient Chinese poem that is famous in the country, and which refers to a spat between brothers. It swiftly became a trending topic on Weibo.
+
+-- CNN's Beijing bureau contributed to this report.

@@ -1,0 +1,13 @@
+Paris (CNN Business) If businesses are to get reluctant workers back into the office, finding ways to maintain social distancing will be key. An Israeli company thinks it can help, using smart sensors mounted on workplace ceilings.
+
+PointGrab developed its technology before the pandemic to help workspace managers optimize how employees use office space. About the size of a smoke alarm, the sensors can record the exact number and location of people in buildings including offices, hotels and restaurants.
+
+One of the company's first clients was Deloitte, which installed the system at its flagship London office last year. PointGrab's sensors were connected to screens in the building to show the availability of desks and shared areas in real time. PointGrab CEO Doron Shachar says it was one of a range of innovations that helped Deloitte fit 30% more people into 3% less space
+
+A PointGrab sensor, around the size of a smoke alarm.
+
+Now PointGrab has adapted the technology so the sensors can also monitor social distancing by keeping track of how far apart people are, and whether they're traveling in one direction around a building.
+
+Workspace managers can set up alerts for when two people are closer than two meters for more than 30 seconds, for example. "An organization will choose what to do with that alert," Shachar tells CNN Business. "I don't think that they should blow an alarm."
+
+Read More

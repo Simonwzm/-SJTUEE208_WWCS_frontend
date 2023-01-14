@@ -1,0 +1,11 @@
+New York (CNN Business) Microsoft is urging Windows users to immediately install an update after security researchers found a serious vulnerability in the operating system.
+
+The security flaw, known as PrintNightmare, affects the Windows Print Spooler service. Researchers at cybersecurity company Sangfor accidentally published a how-to guide for exploiting it.
+
+The researchers tweeted in late May that they had found vulnerabilities in Print Spooler, which allows multiple users to access a printer. They published a proof-of-concept online by mistake and subsequently deleted it -- but not before it was published elsewhere online, including developer site GitHub.
+
+We deleted the POC of PrintNightmare. To mitigate this vulnerability, please update Windows to the latest version, or disable the Spooler service. For more RCE and LPE in Spooler, stay tuned and wait our Blackhat talk. https://t.co/heHeiTCsbQ — zhiniang peng (@edwardzpeng) June 29, 2021
+
+Microsoft MSFT warned that hackers that exploit the vulnerability could install programs, view and delete data or even create new user accounts with full user rights. That gives hackers enough command and control of your PC to do some serious damage.
+
+Windows 10 is not the only version affected -- Windows 7, which Microsoft has ended support for last year , is also subject to the vulnerability.

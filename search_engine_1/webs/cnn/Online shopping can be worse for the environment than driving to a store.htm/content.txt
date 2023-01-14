@@ -1,0 +1,37 @@
+New York CNN Business —
+
+If you think shopping online is more eco-friendly than driving to a store, think again.
+
+It may sound counterintuitive, but the more eco-conscious way to shop is going to a physical store rather than by making purchases online from companies that don’t have physical stores, according to a new report Tuesday in Environmental Science & Technology, a peer-reviewed scientific journal published by the American Chemical Society.
+
+In the study, researchers estimated that shopping at brick-and-mortar stores for frequently bought items such as toilet paper, shampoo and toothpaste, often results in less greenhouse gas emissions than ordering the products from a company that only sells through the internet.
+
+The main reason is because of how people shop online: Many buy items online frequently – but they only buy a few items per purchase.
+
+“When they shop in a store, they aggregate these purchases in a single bulk purchase,” noted Sadegh Shahmohammadi, a PhD student in Environmental Science at Radboud University in the Netherlands. He’s one of six researchers who worked on the year-and-a-half long study.
+
+Frequent online purchases produce more packaging waste, and online items tend to come from different distribution centers. Both factors result in higher greenhouse gas emissions per item, said Shahmohammadi.
+
+The team modeled their research on the movement of goods from the factory all the way through to the end consumer.
+
+They then specifically focused on the part of the retail supply chain called “the last mile” delivery: the distance between a store to a customer, or in the case of online shopping, the distance between the distribution center for the goods to the customer.
+
+They analyzed the carbon footprint of the “last mile delivery” for the three most prevalent types of shopping channels in the United Kingdom – physical stores, “brick & clicks” (when people order online and a physical store delivers the items to them), and “pure players” (strictly online sellers). Included in the three models were greenhouse gas emissions estimates from number of products bought, transportation, warehouse storage, delivery and packaging activities.
+
+The analysis showed that total greenhouse gas footprints per item purchased were higher from physical stores than those from bricks & clicks purchases in 63% of the shopping events but lower than those of pure players in 81% of shopping events in the United Kingdom. In the United States, greenhouse gas emissions from shopping at physical stores were also estimated to be higher than from the brick & click channel, and lower than the pure play channel, on average.
+
+“This pattern holds true in countries where people mostly drive,” said Shahmohammadi. “It really depends on the country and consumer behavior there.”
+
+Walmart vs. Amazon
+
+Walmart (WMT), the world’s largest retailer, employs all three retail models to serve its customers through its website, more than 4,700 stores in the US and its brick & click model.
+
+“Which channel is most efficient in terms of carbon emissions? There is no single answer to that question, because our customers’ lives and purchase patterns are dynamic,” Walmart said in a 2017 company report titled “The Emissions Implications of Modern Retailing: Omnichannel vs. Stores and Online Pure-Plays”.
+
+“Sometimes they sprint to the store to purchase a last-minute toy for a birthday party, and sometimes they stock up on groceries. Sometimes they need it now, and other times next week will do. The better question is: When is each channel most efficient in terms of emissions.”
+
+Walmart said it has extensively studied the greenhouse gas emissions implications of all three retail channels and has efforts in place to curb them. Among them, it provides electric vehicle chargers at more than 100 of its store locations and it works with suppliers to reduce emissions from its global supply chain.
+
+Amazon (AMZN), the world’s largest online retailer, said sustainability is an ongoing commitment at the company. Last year, Amazon (AMZN) CEO Jeff Bezos announced a broad plan to fight climate change, including meeting the Paris climate agreement 10 years early, which will make the company carbon neutral by 2040.
+
+As part of that agreement, the retailer said it has ordered 100,000 new electric delivery vehicles and plans to start using them in the last mile delivery of packages to customers by 2021. It expects 10,000 of them to be on the road in the next two years and all in operation by 2030, “saving millions of metric tons of carbon per year.”

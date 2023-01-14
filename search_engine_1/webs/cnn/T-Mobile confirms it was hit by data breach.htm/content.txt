@@ -1,0 +1,11 @@
+(CNN Business) T-Mobile (TMUS) confirmed on Monday that it has been hit by a data breach but declined to say whether any personal information from customers was accessed or how widespread the damage may be.
+
+The company's acknowledgement of a breach comes after hackers told Vice that they were selling "full customer info" obtained from T-Mobile servers that pertained to what the hackers claimed were over 100 million people.
+
+Late Sunday, the company said it was "aware of claims made in an underground forum" and "actively investigating their validity." On Monday, the company said it has closed a vulnerability used by hackers to gain entry to T-Mobile's systems, and is working with the "highest degree of urgency" to investigate the breach.
+
+"We have been working around the clock to investigate claims being made that T-Mobile data may have been illegally accessed," the company said in a statement, adding that it is working with law enforcement on the matter. "We have determined that unauthorized access to some T-Mobile data occurred, however we have not yet determined that there is any personal customer data involved."
+
+"Until we have completed this assessment we cannot confirm the reported number of records affected or the validity of statements made by others," the statement continued.
+
+Read More

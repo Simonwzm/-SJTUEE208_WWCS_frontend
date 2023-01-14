@@ -1,0 +1,29 @@
+CNN Business —
+
+Uber’s former chief security officer has been charged with trying to conceal from federal investigators a 2016 data breach that exposed the information of 57 million users to hackers.
+
+A complaint filed Thursday in the US District Court in San Francisco alleges that Joe Sullivan, who led Uber’s security team for more than two years until November 2017, “engaged in a scheme to withhold and conceal” both the hack and the amount of data that was exposed from the US Federal Trade Commission.
+
+The complaint alleges that Sullivan and Uber (UBER) arranged to pay the hackers $100,000 in exchange for signing a non-disclosure agreement about the hack, which falsely stated that they had not accessed or stored any company data. Uber (UBER) didn’t disclose the breach or the payment until late 2017.
+
+“Silicon Valley is not the Wild West,” US Attorney David Anderson said in a statement announcing the charges. “We will not tolerate illegal hush money payments.”
+
+Sullivan, a former Assistant US Attorney, joined Uber in 2015 from Facebook, where he served as chief security officer for more than five years after stints at eBay and PayPal. He is currently the chief security officer of internet infrastructure company CloudFlare.
+
+Bradford Williams, a spokesperson for Sullivan, said in a statement that the charges — which include obstruction of justice — are without merit.
+
+“This case centers on a data security investigation at Uber by a large, cross-functional team made up of some of the world’s foremost security experts, Mr. Sullivan included,” Williams said in the statement. “If not for Mr. Sullivan’s and his team’s efforts, it’s likely that the individuals responsible for this incident never would have been identified at all.”
+
+Williams added: “From the outset, Mr. Sullivan and his team collaborated closely with legal, communications and other relevant teams at Uber, in accordance with the company’s written policies. Those policies made clear that Uber’s legal department – and not Mr. Sullivan or his group – was responsible for deciding whether, and to whom, the matter should be disclosed.”
+
+An Uber spokesperson said the company continues to “cooperate fully” with the investigation from the Justice Department. The data breach prompted scrutiny from regulators in the United States as well as other countries, including the United Kingdom, Australia, Italy and the Philippines.
+
+“Our decision in 2017 to disclose the incident was not only the right thing to do, it embodies the principles by which we are running our business today: transparency, integrity, and accountability,” Uber said in a statement.
+
+In September 2018, Uber agreed to pay $148 million to settle an investigation into the 2016 data breach that the company was accused of intentionally concealing. The settlement, with attorneys general for all 50 states and Washington, DC, was the largest ever multi-state data breach settlement, according to the New York attorney general at the time.
+
+As part of the settlement, Uber agreed to develop and implement a corporate integrity program for employees to report unethical behavior. It also agreed to adopt model data breach notification and data security practices, as well as hire an independent third party to assess its data security practices.
+
+The investigation was called to look into allegations that the ride-share company violated state-level notification laws by intentionally withholding that the breach occurred.
+
+Uber also previously settled a case with the FTC, which was investigating claims that Uber deceived customers over this breach.

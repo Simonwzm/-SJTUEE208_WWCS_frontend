@@ -1,0 +1,11 @@
+(CNN Business) Twitter on Monday launched Birdwatch, an experiment that relies on the social network's users to provide context to tweets and to combat misinformation.
+
+Twitter TWTR The tool, whichdescribed as a community-driven pilot project, allows participating users in the United States to create "notes" for a given tweet that will exist for now on a separate part of Twitter's website. Notes that contribute to a consensus on whether a post is misleading may "eventually" be shown directly on tweets, the company said in a blog post
+
+Twitter did not say, however, whether tweets that receive notes may lead to removal or other consequences; the intent behind the tool, it said, is for users to be able to respond quickly to a fast-spreading claim.
+
+Birdwatch's approach flips Twitter's existing model of moderation, in which Twitter itself labels content. It also places more power (or burden, potentially) in the hands of users, much in the way Wikipedia or reddit are platforms whose communities are self-governed by users.
+
+Twitter users have played a role before in flagging potentially problematic tweets to the company, but this move makes users even more involved in the content moderation process.
+
+Read More

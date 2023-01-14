@@ -1,0 +1,13 @@
+(CNN Business) Jason Gates spends a lot of his time thinking about trash, and how we can generate less of it.
+
+Since 2013 his San Francisco-based startup, Compology, has used cameras and artificial intelligence to monitor what's thrown into dumpsters and trash containers at businesses such as McDonald's restaurants and Nordstrom department stores. The point is to make sure dumpsters are actually full before they're emptied and to stop recyclable materials like cardboard from being contaminated by other junk so it, too, doesn't become waste.
+
+"We've found that most businesses and people have the right intentions about recycling, but oftentimes they just don't know what the proper way to recycle is," Gates, CEO of Compology , told CNN Business' Rachel Crane.
+
+To help them do it correctly, Compology puts trash-monitoring cameras and sensors inside industrial waste containers. The cameras take photos several times each day and when the container is lifted for dumping. An accelerometer helps trigger the camera on garbage day.
+
+Compology places cameras and sensors in businesses' dumpsters to monitor what's thrown inside.
+
+AI software analyzes the images to figure out how full the container is and can also let a customer know when something is where it shouldn't be, such as a bag of trash tossed into a dumpster filled with cardboard boxes for recycling. Gates said the company's cameras can cut the amount of non-recyclable materials thrown in waste containers by as much as 80%.
+
+Read More

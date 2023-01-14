@@ -1,0 +1,9 @@
+New York (CNN Business) Facebook does not plan to notify its customers who may be among the half a billion users whose personal information was exposed after being posted to a website used by hackers.
+
+Last weekend, it was reported that a database of records from more than 533 million Facebook accounts — including phone numbers, email addresses, birthdays and other personal details — had been shared online. While the leak did not include sensitive information such as credit card or social security numbers, the data could still be exploited by bad actors.
+
+Facebook FB noted earlier this week that the data was scraped from public profiles on its platform in 2019 using its "contact importer" feature. The company says it quickly made adjustments to the feature to prevent such activity from happening again.
+
+"In this case, we updated it to prevent malicious actors from using software to imitate our app and upload a large set of phone numbers to see which ones matched Facebook users," Facebook Project Management Director Mike Clark said in a blog post Tuesday.
+
+Although the data is from 2019, this week is the first time it was found to have been posted online. Because the data was scraped from public profiles, Facebook told CNN Business, the company can't be certain about exactly which users would need to be notified and therefore does not plan to alert individuals who were potentially affected.

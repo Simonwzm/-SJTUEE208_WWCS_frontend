@@ -1,0 +1,45 @@
+New York CNN Business —
+
+“Death Stranding,” is a blockbuster video game that was a PlayStation 4 exclusive until just recently. Sony and Kojima Productions have allowed the game to come to PCs in July.
+
+The bizarre game, a cult favorite, involves a delivery worker named Sam Porter Bridges, played by “The Walking Dead” actor Norman Reedus, traversing post-apocalyptic America, tasked with making a series of deliveries where he reconnects survivors to a virtual network similar to the Internet so they can communicate with each other.
+
+And that’s not even the most bizarre part. Only Bridges can do the job, because he cannot die. He carries with him an otherworldly baby that alerts him to supernatural threats.
+
+Since the pandemic, some critics have compared “Death Stranding” to the world’s current challenges, pointing out how in a shutdown we turn to delivery workers for much needed supplies.
+
+The game costs $59.99 from the PC games store, Steam. It’s only available on Windows.
+
+Death Stranding Kojima Productions
+
+“Porting” a console game over to PC can be a challenge. It involves optimizing the games’ files to run smoothly on PC and reconfiguring the controls.
+
+Gaming PCs are often custom built by their users, which can be a more affordable and enjoyable option than purchasing a store sold version at higher cost. They also have varying combinations of computing power, graphics, storage and more. The PlayStation 4 console, by contrast, has a single set of technical specifications that can’t be changed by the average user.
+
+What’s new
+
+CNN Business was able to try “Death Stranding” on PlayStation 4 and PC.
+
+The PC version has better technology, depending on how good your gaming PC is. Instead of being locked at the PS4’s 30 to 60 frames per second, the PC version can go beyond that, making the game run more smoothly. And if gamers play on an ultrawide monitor at home, they can see more of their surroundings.
+
+“In the cutscenes, we recreated the parts that were not shown before. Overall, this wider view helps the game become that much more immersive,” said Akio Sakamoto, Kojima Productions’ technical director, in an interview with CNN Business.
+
+Death Stranding Kojima Productions
+
+Kojima Productions’ greatest challenge in bringing “Death Stranding” to the PC was using relatively new software. The studio spoke to its partners, Intel (INTC) and AMD (AMD), on how to bring the performance of the game up.
+
+When a game comes to PC, it opens up a whole new market of gamers that could be interested in playing.
+
+Recently, another title, “Persona 4 Golden,” that was a PlayStation exclusive made the jump to PC. It was originally available only on the PlayStation Vita, a portable device that struggled with lackluster sales and was discontinued in 2019.
+
+“Persona” is a series of Japanese role-playing games where players attend high school and explore dungeons with monsters. The first few “Persona” games were exclusive to older PlayStation consoles, making them less accessible to modern gamers.
+
+When adapting a game to PC, the controls have to be reconfigured so that the player can comfortably use a mouse and keyboard instead of a controller – although it’s still possible to use a controller by connecting it to the computer.
+
+“In our office, we have a really hardcore PC gamer on staff. He had a strong say and passion to make sure that if you were to play “Death Stranding” on the PC, the controls on the keyboard and mouse must be this way!” said Sakamoto.
+
+After a few tries, it got easier to figure out the controls and moving around “Death Stranding” wasn’t really a problem, CNN Business found.
+
+Sakamoto said that in the future, it will be easier to bring games to both console and PC.
+
+“The PC as a platform has its strength, and is becoming very appealing to the developers,” said Sakamoto. “There will surely be more studios bringing their products out on the PC market.”

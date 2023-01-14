@@ -1,0 +1,73 @@
+Hong Kong (CNN Business) The world's biggest tech companies faced a global reckoning in 2020 as the United States, the European Union and even China took dramatic steps to curb their dominance. That pressure won't be going away in the new year.
+
+Dozens of US states and the federal government andover claims that the companies engaged in anticompetitive behavior that tightened their grip on the online marketplace. Europe, meanwhile, recently unveiled legislation that would give regulators sweeping new power to take on those American tech companies.
+
+The regulatory fervor has also spread to China. Officials last week announced an antitrust investigation into Jack Ma's, and turned up the heat on the company's financial affiliate Ant Group less than two months after blocking its blockbuster stock market debut at the last minute.
+
+While many of these developments have unfolded at a rapid pace in recent weeks, the desire to rein in Big Tech is not new. For years, governments have been grappling with the massive amount of influence these companies have over the online economy and the flow of ever-more valuable digital information.
+
+But huge antitrust fines, onerous data protection laws and interminable Congressional hearings have failed to bring tech companies to heel, and politicians are now signaling that they want to do more to prevent market abuse and an explosion of harmful online content and misinformation.
+
+Advancements in computing, data storage and global digital connectivity enabled major tech firms to balloon in size, said Dipayan Ghosh, co-director of the Digital Platforms and Democracy Project at the Harvard Kennedy School. Now, a handful of those companies have developed sophisticated artificial intelligence systems that have granted them an unprecedented amount of control over content, advertising and personal data.
+
+"It's always been inevitable, but when you have kind of an open, green field for market innovation, there will be some first movers," Ghosh added. "We're going to see some monopolies emerge, and that's what's happened over the past 10 years."
+
+While this global regulatory crackdown appears to be unfolding all at once, analysts note that each of the world's major powers have their own — and at times, competing — reasons for expanding their oversight of the tech industry.
+
+The United States and Europe have directed their efforts on curtailing the power of America's most powerful firms. But in China, where Google and Facebook have been locked out of the market for years, authorities are looking for ways to exercise tighter control over their own tech behemoths.
+
+A flood of lawsuits in the United States
+
+The US government has been scrutinizing Big Tech for a while.
+
+landmark federal lawsuit filed in October against Google followed a yearlong antitrust probe into the company, for example. And in the months since then, US authorities have turned up the heat even more.
+
+Dozens of states have now sued Google over claims that the company has operated an illegal monopoly in the markets for online search and search advertising. Facebook has received similar treatment, and now faces twin antitrust suits that accuse the social media giant of abusing its dominance in the digital marketplace.
+
+While the US-led crackdown has targeted these companies on antitrust grounds, the pressure comes amid broader questioning about their impact on democracy and the flow of information online. Misinformation and allegations of bias were at the forefront of concerns about the recent US election.
+
+"I think basically, what you're seeing ... is essentially a question of who controls this information, and consequently, access to the electorate," said Michael Witt, a senior affiliate professor of strategy and international business at INSEAD, the international business school.
+
+It's tough to predict how these cases will be resolved. Some of the arguments the US government is now trying to make — including that Facebook's purchases of Instagram and Whatsapp have allowed it to snuff out competition — may not stick, since those acquisitions were cleared by authorities years ago.
+
+"The government now wants a do-over, sending a chilling warning to American business that no sale is ever final," Facebook Vice President and General Counsel Jennifer Newstead said in a statement earlier this month.
+
+And analysts have pointed out that the United States may not be willing to apply other forms of pressure, such as new legislation, on the tech industry.
+
+America probably will not want to enforce antitrust rules at the expense of losing its grip on the flow of information in many other parts of the world, Witt said, referring to the large amount of power Silicon Valley's tech giants have in Europe and elsewhere.
+
+"I think there will be considerable resistance to any kind of attempt to somehow do anything that could actually take away this advantage for the United States," he added.
+
+Striking a balance in Europe
+
+On the other side of the Atlantic, authorities have been focused on reining in tech companies for years. The European Union's General Data Protection Regulation (GDPR) — a watershed privacy law — was enacted in 2018 and gave people much greater control over how their personal data is collected and used.
+
+This year, Europe has signaled that it wants to get even tougher. The European Commission released a set of draft policies earlier this month that would give regulators sweeping new powers to take on US tech giants, threatening huge fines and raising the prospect of breakups or bans for repeat offenders.
+
+The United Kingdom, which left the European Union earlier this year, has its own plans. Tech companies that fail to remove or limit the spread of illegal content will face fines of up to 10% of their annual sales.
+
+"I'm unashamedly pro tech but that can't mean a tech free-for-all," UK Digital Secretary Oliver Dowden said in a statement earlier this month. "We are entering a new age of accountability for tech to protect children and vulnerable users, to restore trust in this industry, and to enshrine in law safeguards for free speech."
+
+Witt of INSEAD noted that there's strong political support across Europe for taking some kind of action. But he added that Europe's options are somewhat limited. After all, the tech companies in the European Union's cross hairs are all based in the United States.
+
+"I think they will be taking a bit of time, trying to come up with something that is, on the one hand, legally watertight," he added. "And then on the other hand, something that does not annoy the United States."
+
+Maintaining control in China
+
+Beijing has not missed out on the push for more regulatory action, though the country has been on a very different path to the West in terms of its tech industry.
+
+"In China, you are dealing with a different set of players that are homegrown," said Nathan Bush, the head of antitrust and competition for Asia at the law firm DLA Piper.
+
+Alibaba BABA Tencent TCEHY American companies like Google and Facebook have long been shut out of the Chinese economy, allowing domestic firmsand others to flourish.
+
+"Chinese competition regulators are going to be confronting the same sorts of questions that they see in the rest of the world, but it's a different cast, and you've effectively factored out any concerns about foreign investment and market access, because the door is already shut," Bush added.
+
+The country's top political leaders have called out antitrust concerns as a big issue headed into 2021. At a Dec. 11 meeting, the Politburo of the Chinese Communist Party — the top decision-making body — pledged to promote reform, "strengthen antitrust and prevent disorderly expansion of capital."
+
+It's too early to tell how far Beijing's campaign may go. Bush said he expects China to focus on issues of consumer protection, among others. That appears to already be happening: Just last week, China's top market regulator summoned representatives from Alibaba, Tencent, JD.com and other big internet firms and warned them against dumping goods at unreasonably low prices , creating monopolies and abusing consumer data for profit. It also said it would probe alleged monopolistic behavior by Alibaba.
+
+Bush and others also noted that China's central government has a lot of tools aside from conventional competition law if it wants to keep its tech companies in check.
+
+Look, for example, at Ma's Ant Group IPO, which was pulled after the Chinese billionaire met with government officials and now faces the prospect of a massive overhaul. Just over a week before the offering was scuttled, Ma had publicly criticized Chinese regulators for stifling innovation by being too risk averse.
+
+"The options are, in the end, endless," Witt said. "The objective is not necessarily to increase competition in different fields. The objective is to make sure that the [Chinese Communist Party] stays in power."

@@ -1,0 +1,11 @@
+New York (CNN Business) SpaceX and T-Mobile want to beam cell service to "most places in the US," including some of the most remote areas of the country that traditionally have not been touched by wireless connectivity.
+
+The idea, which the companies plan to roll out in beta testing by the end next year, is to use SpaceX's satellite-based internet business , Starlink, to provide an "extra layer" of connectivity to T-Mobile phones. T-Mobile is also offering reciprocal roaming to cellular carriers in other countries as well, in the hopes that Starlink's global reach will enable people to use their phones for messaging around the planet.
+
+"This is an open invitation to carriers around the world, please get in touch with us," SpaceX CEO Elon Musk said during an event announcing the plan.
+
+The new service will rely primarily on "version 2," or V2, Starlink satellites, according to Musk . Those are not expected to begin launching before next year.
+
+"To provide this service, the companies will create a new network, broadcast from Starlink's satellites using T-Mobile's midband spectrum nationwide. This true satellite-to-cellular service will provide nearly complete coverage almost anywhere a customer can see the sky," according to a T-Mobile press release.
+
+Read More

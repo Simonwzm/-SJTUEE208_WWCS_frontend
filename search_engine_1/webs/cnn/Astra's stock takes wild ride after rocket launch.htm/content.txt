@@ -1,0 +1,33 @@
+New York (CNN Business) In the minutes after Astra — a US-based startup — launched its rocket from a remote site in Alaska Tuesday afternoon, investors appeared ready to believe that the company had, once again, failed to keep the mission on track.
+
+confirmed on Twitter that the rocket had made it to orbit, but it wasn't immediately clear whether its payload — a group of small satellites for a variety of customers — safely deployed into orbit.
+
+During a webcast of the launch, Astra's director of product, Carolina Grossman, warned that the company wouldn't know immediately if the satellites deployed safely, as the rocket wasn't in a position to send ground readings in the minutes after it reached orbit.
+
+Following the launch, 30 minutes of silence went by. Astra's stock shed more than 10% of its value, and trading was briefly halted.
+
+But then, another update came: "We can confirm the successful deployment of the satellites on Spaceflight's Astra-1 mission today," the company wrote on Twitter . But the company's stock didn't immediately reverse. Twenty minutes after confirming the success, its stock price was still down more than 3%.
+
+The ordeal highlights how volatile it can be to invest in a rocket company — especially when they choose to set off a rocket during trading hours.
+
+Astra in particular has been on a wild ride in recent months. The company had five failures attempting to put a rocket into orbit before its first success in November 2021 . That caused a massive surge in trading, taking the stock price up more than 30%. But then, in February, it notched another failure.
+
+Now, the company's stock is consistently below the $4 per share mark, way off its high of more than $16 per share.
+
+Astra is one of dozens of companies that plan to use relatively small, lightweight rockets to make frequent trips to space to drop off satellites — not to be confused with the far larger rockets launched by Elon Musk's SpaceX, or the suborbital space tourism rocket developed by Jeff Bezos' company, Blue Origin.
+
+Astra, Rocket Lab and California-based Virgin Orbit are among the only startups that have now proven their rockets can get the job done.
+
+And all of those companies have now gone public via SPAC , or "special purpose acquisition company," which serve as investment placeholders on the stock market as the fund's backers hunt for an acquisition target. The target company then takes over the SPAC's trading symbol, allowing it to go public with little of the financial disclosure or scrutiny that comes with traditional IPOs.
+
+That's not to say Astra and the others can't or won't be successful. But the company is facing stiff competition.
+
+When asked in a company Q&A posted online how Astra plans to stand out in such a crowded industry, Adam London, Astra's founder and chief technology officer, said that "rockets are typically artisanal, crafted objects. You make one at a time, and they're very complicated. But when you really get into it, they don't need to be that complicated, particularly when you're not flying people or critical national assets, and they don't absolutely, positively have to work 100% of the time."
+
+In other words, Astra plans to mass produce rockets to make them cheaper, but it doesn't put too much emphasis on having a pristine success rate.
+
+And that means its stock is likely to continue to be a wild ride for the foreseeable future.
+
+But that's not necessarily a bad thing, said Micah Walter-Range, president of space consulting firm Caelus Partners.
+
+"The stock swings related to Astra's launch can be seen as a positive sign because investors are watching the company's progress and are actively engaging with the space industry," he said via email. "The market moves also indicate that this is still an emerging industry, and we look forward to the day when launches are viewed in the same routine way as airline flights, where investors monitor the overall trends but not each individual flight."

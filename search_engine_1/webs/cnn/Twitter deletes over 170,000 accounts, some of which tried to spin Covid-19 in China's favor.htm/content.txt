@@ -1,0 +1,35 @@
+CNN Business —
+
+Twitter announced Thursday that it had shut down more than 170,000 accounts tied to the Chinese government. Experts working with Twitter who reviewed the accounts said they pushed deceptive narratives around the Hong Kong protests, Covid-19, and other topics.
+
+The company said the accounts were “spreading geopolitical narratives favorable to the Communist Party of China” and were removed for violating its platform manipulation policies.
+
+Twitter’s takedown is the latest development in Silicon Valley’s attempt to thwart governments using social media platforms to push narratives in their favor.
+
+Twitter (TWTR) is officially blocked in China, though many people in the country are able to access it using a VPN. Among the targets of the Chinese campaign were overseas Chinese “in an effort to exploit their capacity to extend the party-state’s influence,” according to the Australian Strategic Policy Institute, a group Twitter (TWTR) worked with to analyze the accounts. Twitter (TWTR) said the accounts tweeted “predominantly in Chinese languages.”
+
+Renee DiResta, research manager at the Stanford Internet Observatory, who also analyzed the accounts, said that many of those that posted about Covid-19 throughout the spring had only been set up in late January.
+
+“Narratives around Covid,” the SIO wrote in its analysis, “praise China’s response to the virus while tweets also use the pandemic to antagonize the U.S. and Hong Kong activists.”
+
+Twitter said it had identified 23,750 accounts it described as a “highly engaged core network” that were used to tweet content favorable to Beijing and a further 150,000 accounts that were used to amplify the content, for example, by retweeting content posted by core accounts.
+
+The 23,750 accounts collectively tweeted 348,608 times, according to the researchers at Stanford.
+
+Twitter said many of the accounts had been identified early and therefore had low follower counts and low engagement.
+
+China’s Ministry of Foreign Affairs on Friday questioned the basis for the removal of the accounts.
+
+“If Twitter really wants to do something they should shut those coordinated and organized accounts that attack and smear China,” said Hua Chunying, a spokesperson for the ministry. “China is the largest victim of disinformation, [and] we are against the spreading of disinformation.”
+
+This is not the first such action taken by Twitter. In August 2019, the company removed just under 1,000 accounts believed to be operating within mainland China for “deliberately and specifically attempting to sow political discord in Hong Kong.”
+
+The company also announced Thursday that it had shut down accounts tied to Russia and Turkey.
+
+Twitter found more than 1,000 accounts that promoted the ruling United Russia party.
+
+In Turkey, a network of 7,340 accounts posted content favorable of Turkish President Recep Tayyip Erdogan’s AK Parti. Stanford researchers said the accounts had tweeted 37 million times.
+
+Tweets from many of the accounts Twitter shut down will be posted by the company to an archive where they can be studied.
+
+– Isaac Yee contributed to this report.

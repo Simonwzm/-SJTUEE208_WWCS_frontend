@@ -1,0 +1,67 @@
+San Francisco (CNN Business) If you use the internet, Google is practically inescapable. This is most evident in how we search for almost everything online — so much so that "Google" is synonymous with search.
+
+That search dominance is now being targeted by the US Department of Justice, which on Tuesday filed a lawsuit against Google in one of the most significant ever antitrust cases against a tech company. It's unclear what consequences the tech giant may face, but US Deputy Attorney General Jeffrey Rosen said on a call with reporters that "nothing is off the table."
+
+But if reining in the Google search juggernaut is the goal, the big question is: Will anything on the table be enough?
+
+The numbers are staggering: Google accounts for more than 92% of the global search engine market, according to analytics website StatCounter. Google Chrome controls 66% of the world's web browsing and nearly three quarters of smartphones use Google's Android operating system.
+
+While the Department of Justice has made a first move toward curtailing that power, actually doing so will require unprecedented action for which there's no clear blueprint.
+
+Will people ever stop Googling things?
+
+Google's status as a default search engine is one of the central facets of the DOJ's complaint, which alleges that Google spends billions on agreements with web browsers, wireless carriers and smartphone makers to ensure that its search stays on top.
+
+Google says its practice of paying to be the default browser is "no different" than other businesses' moves to promote their products, comparing it to a cereal brand paying supermarkets to place its boxes on certain shelves.
+
+Kent Walker, Google's Senior Vice President of Global Affairs, slammed the DOJ lawsuit as "deeply flawed" in a blog post on Tuesday.
+
+"People use Google because they choose to, not because they're forced to, or because they can't find alternatives," he wrote.
+
+European regulators have been at the forefront of trying to rein in Google, imposing antitrust fines totaling more than $9 billion and forcing it to allow Android users to pick their preferred browser and search engine.
+
+That doesn't appear to have worked — Google still had a roughly 93% share of Europe's search market as of September 2020, according to StatCounter.
+
+"Europe has definitely been the leader in going after Google, and they've done a good job with their investigation and complaints," Sally Hubbard, director of enforcement strategy at the Open Markets Institute and author of the forthcoming book "Monopolies Suck," told CNN Business. "What they haven't done a good job with is the remedies."
+
+The biggest problem is that people are so conditioned to use Google that most users wouldn't bother picking anything else even when given a choice.
+
+"Given the position that Google has now, a lot of users might just continue to behave the same way and phone companies might continue to behave the same," said Charlotte Slaiman, director of competition policy at tech advocacy group Public Knowledge. "I think just getting rid of the default contracts is not going to be enough."
+
+Why it's so hard to make a new Google
+
+Undoing the dominance of one of the world's biggest companies -- with a market value of more than $1 trillion, virtually unlimited resources and a two-decade head start in cementing its position -- would not be easy.
+
+According to Hubbard, Google's sheer size and power rendered the EU's tactics relatively toothless.
+
+"Google is too powerful," she said. "Fines don't affect it. [The EU regulations have] basically proven they can't be regulated with behavioral remedies."
+
+Another reason Google is unlikely to cede its command over online search is the lack of a viable alternative and the challenge of building one.
+
+"Google's search index contains hundreds of billions of webpages and is well over 100,000,000 gigabytes in size," the DOJ said in its lawsuit. "Developing a general search index of this scale, as well as viable search algorithms, would require an upfront investment of billions of dollars."
+
+The last company to come close was Microsoft, which had the resources to comfortably compete with Google. But Microsoft's search engine Bing, launched more than a decade ago, has failed to attract a significant audience. Bing is currently in second place behind Google, but with only roughly 3% of the global search engine market , according to StatCounter.
+
+What the government could do
+
+One of Google's biggest strengths is the sheer breadth of data it has amassed, which is difficult to replicate.
+
+"The data that Google has been able to build out over these many years, from click and query data, from users doing searches and clicking, that's a big part of what has allowed their predictions of what users will click on to be so accurate," Slaiman said. "So I think that is also something that might need to be targeted."
+
+The paths forward for limiting the search power this data enables aren't so clear. One suggestion is to try to diminish Google's role in finding services for which there are strong competitors — think Yelp or Expedia. Slaiman says US regulators could put in place measures that give users more direct access to those specialized services while pulling back Google's influence in reaching them.
+
+"People might continue to go to Google for some searches that Google does a great job of, but plenty of these specialized search engines provide better quality in the area that they specialize in," she said. "If I'm looking for a plumber, I might not want the plumber that has received the most clicks, and Google is not doing that level of quality control that some of these specialized search providers are offering."
+
+The US government might potentially follow Europe's lead and mandate that Google give users the ability to choose their preferred search engines, as the company did on European Android devices.
+
+But given the limited impact that those measures — and even billions of dollars in fines — have had so far, several experts are calling for more aggressive action.
+
+Previous regulations and their negligible impact on Google's power highlight "why we need structural separation and actual breakup" of the company, said Hubbard.
+
+But talk of breaking up Big Tech companies has proven politically divisive in the United States, and Slaiman points out that while there are some precedents such as the 1984 breakup of AT&T , it has historically been difficult to win approval from the courts to force companies to divest parts of their business. (AT&T owns CNN's parent company, WarnerMedia.)
+
+Ultimately, it will likely take far more to bring down Google than any other company in history. And coming up with corrective action for Google's conduct — both in search and more broadly — will be "incredibly difficult," according to Slaiman.
+
+"It's been going on for so long, it's allowed Google to really amass an incredibly powerful position," she added.
+
+-- CNN's Brian Fung contributed reporting

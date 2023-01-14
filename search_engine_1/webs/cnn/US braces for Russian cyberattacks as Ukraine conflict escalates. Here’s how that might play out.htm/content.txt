@@ -1,0 +1,65 @@
+BERLIN, GERMANY - JUNE 22: In this photo Illustration hands typing on a computer keyboard on June 22, 2016 in Berlin, Germany. (Photo Illustration by Thomas Trutschel/Photothek via Getty Images)
+
+Fuel tanks are seen at Colonial Pipeline Baltimore Delivery in Baltimore, Maryland on May 10, 2021.
+
+This photo taken on August 4, 2020 shows Prince, a member of the hacking group Red Hacker Alliance who refused to give his real name, using his computer at their office in Dongguan, China's southern Guangdong province. - From a small, dingy office tucked away in an industrial city in southern China, the Red Hacker Alliance -- one of China's most well-known patriotic "hacktivist" groups -- maintain battle in the country's nationalistic online war. (Photo by NICOLAS ASFOURI / AFP)
+
+The silhouettes of attendees are seen standing in front of a Electronic Arts Inc. (EA) logo displayed on a screen during the company's EA Play event ahead of the E3 Electronic Entertainment Expo in Los Angeles, California, U.S., on Saturday, June 9, 2018. EA announced that it is introducing a higher-end version of its subscription game-playing service that will include new titles such as Battlefield V and the Madden NFL 19 football game. Photographer: Patrick T. Fallon/Bloomberg via Getty Images
+
+Here's everything you need to know about ransomware
+
+The new Microsoft Surface Pro 3 tablet with detachable keyboard and pen for writing on the screen after it was unveiled May 19, 2014 in New York. Microsoft unveiled the Surface Pro 3 tablet at an event in New York on Tuesday, as it attempts to fuel interest in its struggling tablet line amid increasing competition. The Intel Core-powered tablet measures 0.36 inches thick, boasts a 12-inch screen and weighs just under 2 pounds.
+
+How your device could be at risk of 'one of the most serious' cyber security threats
+
+This photo taken on August 4, 2020 shows Prince, a member of the hacking group Red Hacker Alliance who refused to give his real name, using his computer at their office in Dongguan, China's southern Guangdong province. - From a small, dingy office tucked away in an industrial city in southern China, one of China's last "volunteer hacker" groups maintains a final outpost in its patriotic hacking war. (Photo by NICOLAS ASFOURI / AFP) / TO GO WITH China-hacking-security,FOCUS by Laurie Chen / The erroneous mention[s] appearing in the metadata of this photo by NICOLAS ASFOURI has been modified in AFP systems in the following, we removed the HOLD HOLD HOLD in the main caption. Please immediately remove the erroneous mention[s] from all your online services and delete it (them) from your servers. If you have been authorized by AFP to distribute it (them) to third parties, please ensure that the same actions are carried out by them. Failure to promptly comply with these instructions will entail liability on your part for any continued or post notification usage. Therefore we thank you very much for all your attention and prompt action. We are sorry for the inconvenience this notification may cause and remain at your disposal for any further information you may require. (Photo by NICOLAS ASFOURI/AFP via Getty Images)
+
+CNN Business —
+
+The standoff between the United States and Russia over the conflict in Ukraine has so far mainly played out on diplomatic and economic fronts.
+
+But now, as Russia invades Ukraine and the United States imposes new sanctions on Russia, there are concerns that may change. The US government is on high alert for the possibility of the conflict spilling over into cyberspace, where Russia has shown an ability to cause significant disruption and damage in the past.
+
+On Tuesday, a senior FBI cyber official warned US businesses and local governments that they should be vigilant against potential ransomware attacks, just days after multiple US agencies issued a similar warning to executives at major US banks, according to people with knowledge of both meetings.
+
+If the recent past is any indication, there are a number of ways Russian hackers could disrupt US businesses and the general public.
+
+Precedent for Russian cyberattacks
+
+Some of the biggest cyberattacks against US infrastructure in the past two years have been linked to suspected Russian hackers. The list includes the SolarWinds hack that infiltrated several government agencies in 2020, the ransomware attack that forced a shutdown of one of America’s largest fuel pipelines for several days last year and another attack on one of the world’s largest meat producers, JBS.
+
+Russia has also been repeatedly accused of perpetrating online disinformation campaigns targeting the United States, including, most notably, efforts to interfere with US elections and sow discord. US officials this week also accused Russian intelligence of spreading disinformation about Ukraine.
+
+While many online attacks can’t directly be linked to the Russian state, there’s a widespread belief that hackers operate with Russia’s blessing, according to Herb Lin, a senior research scholar for cyber policy and security at Stanford University’s Center for International Security and Cooperation.
+
+“They don’t operate directly for the Russian government, but they operate under a set of rules that says: ‘you guys do what you want… don’t target Russian stuff and we won’t bother you,’” Lin told CNN Business.
+
+Spillover from Ukraine
+
+Ukraine has already faced multiple cyberattacks since the conflict with Russia started, including one on Wednesday that targeted the website of the country’s parliament as well as several banks and government agencies.
+
+Analysts say even targeted cyberattacks against Ukraine could potentially have implications beyond the country’s borders (both physical and virtual). In a report Tuesday, analysts at S&P; Global Ratings flagged “a heightened risk of cyberattacks on Ukraine… which could create knock-on effects for corporations, governments, and other parties in the region and beyond.”
+
+Companies worldwide that work with organizations in Ukraine need to be particularly careful, the analysts added, “since connections to Ukrainian systems might be used as a pivot point to other targets.”
+
+Military targets
+
+Even if Russian hackers don’t directly set their sights on US entities, Ukraine’s dependence on foreign technology can pose big problems for the United States, according to Lin.
+
+“For example, Ukraine doesn’t have its own spy satellites, so where does it get its spy imagery? It gets it from commercial satellites,” Lin said, with some of the companies behind those commercial satellites potentially located in the United States. “That’s an obvious place you would expect Russian cyberattacks to be targeted. And that’s just one example of what could be possible.”
+
+Should the conflict in Ukraine escalate further, Lin added, “all the stuff in the United States that directly helps the Ukrainian military machine… becomes fair game for the Russians to target.”
+
+Domestic targets
+
+As past precedent has shown, Russian cyberattackers increasingly seem to target large-scale US infrastructure — and there’s only so much consumers can do about it despite the resulting disruption to their own lives.
+
+For individuals, the most important defense is to ensure any potential vulnerabilities in your devices are patched, whether that’s through software updates or additional security measures such as two-factor authentication, where a code from an external device or app is used in addition to your password.
+
+The burden is arguably on the public and private sector to prepare. Lin notes that the US banking system may be particularly vulnerable to attacks, with Biden’s sanctions aimed at crippling the Russian financial system making American banks a ripe target for retaliation — particularly if the US moves to further cut off Russia from global financial networks.
+
+The Biden administration has focused on shoring up US cyber defenses in recent months to protect against overseas attacks, including government entities and major businesses. But vulnerabilities always exist, and all it takes is one breach.
+
+“Will they [cyberattackers] have more difficulty being successful? Yes, but the problem is that we don’t see those,” Lin said. “Let’s say they’re successful one in ten times instead of one in five times. It’s still one in ten, nobody notices the others that have failed.”
+
+— CNN’s Sean Lyngaas and Julia Horowitz contributed to this report

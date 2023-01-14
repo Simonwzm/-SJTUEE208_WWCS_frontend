@@ -1,0 +1,19 @@
+CNN —
+
+Testing a patient for Covid-19 can be an unnerving experience for health care workers, but researchers from the Massachusetts Institute of Technology and Brigham and Women’s Hospital in Boston are hoping to use robots to change that.
+
+Operating robots with a handheld device, medical workers may soon be able to talk with patients about their symptoms while measuring vitals – all from another room.
+
+Researchers modified Boston Dynamics' dog-like robot spot to measure patients' vital signs. Courtesy of the researchers, edited by MIT News
+
+The researchers have been using a robot on healthy volunteers and are making plans to use it to test people who show Covid-19 symptoms in a hospital setting, the university said in a news release.
+
+“In robotics, one of our goals is to use automation and robotic technology to remove people from dangerous jobs,” MIT postdoc Henwei Huang said, according to the release. “We thought it should be possible for us to use a robot to remove the health care worker from the risk of directly exposing themselves to the patient.”
+
+A tablet mounted to the “head” of Boston Dynamics’ dog-like robot, Spot, allows communication with patients. The robot also is equipped with an infrared camera, along with three monochrome cameras that are capable of filtering different wavelengths of light, the release states.
+
+These four cameras can measure skin temperature, breathing rate, pulse rate and blood oxygen saturation from as far as 6 1/2 feet (2 meters) away.
+
+“We didn’t really develop new technology to do the measurements,” Huang says. “What we did is integrate them together very specifically for the Covid application, to analyze different vital signs at the same time.”
+
+The researchers expect to focus on triage applications in the short term, with the goal of ultimately deploying robots like this to patients’ hospital rooms to continuously monitor them and let doctors to check in on them without ever having to step into the room.

@@ -1,0 +1,53 @@
+New York (CNN Business) Facebook is no stranger on Capitol Hill. Its executives have repeatedly been hauled in for hearings amid the social media giant's various scandals , as have other experts on the company. But Tuesday's hearing stood out for the strong performance of witness Frances Haugen .
+
+The former Facebook employee-turned-whistleblower detailed to the Senate Subcommittee on Consumer Protection, Product Safety, and Data Security her vast knowledge of the internal workings of the company through both her previous work and the thousands of pages of internal documents she reviewed and shared with lawmakers. And she explained the technical workings of Facebook's platforms in a polished and uncomplicated way, citing real-world examples of the harms they can cause.
+
+Facebook's products "harm children, stoke division and weaken our democracy" and put profit over moral responsibility, she told lawmakers. Although Haugen was highly critical of Facebook, she was constructive and even hopeful.
+
+"These problems are solvable. A safer, free speech-respecting, more enjoyable social media is possible," Haugen said. "Facebook can change, but is clearly not going to do so on its own. ... Congress can change the rules that Facebook plays by and stop the many harms it is causing."
+
+The hearing came as Facebook is already facing growing regulatory scrutiny and calls to break up the company. Indeed, criticism of the company is a rare point of bipartisan agreement among lawmakers, and her testimony this week may only add to the consensus that Facebook needs to be reined in with legislation.
+
+'A twenty-first century American hero'
+
+Facebook FB and possibly bring in Zuckerberg for a hearing of his own to respond. Haugen's testimony was clearly persuasive to members of the subcommittee, who repeatedly praised her as a hero and vowed to try to protect her from potential retribution by. They made it clear they would like to have her back for further testimony,and possibly bring in Zuckerberg for a hearing of his own to respond.
+
+"You are a twenty-first century American hero," Senator Ed Markey told her. "Our nation owes you a huge debt of gratitude for the courage you're showing here today."
+
+Unlike some Facebook executives who have testified before Congress, Haugen didn't appear to withhold information in hopes of protecting the company's reputation. And unlike Christopher Wylie , the former Cambridge Analytica data analyst who blew the whistle on Facebook's Cambridge Analytica scandal, Haugen was able to draw on experience working within Facebook. Moreover, while Haugen was working to fix Facebook's issues as a member of its civic integrity team, Wylie had been directly involved in the problematic work Cambridge Analytica did using Facebook's data.
+
+Google GOOGL GOOGLE Pinterest PINS Yelp YELP In explaining and criticizing how Facebook's platforms work, Haugen brought to bear her extensive background working in tech . After studying electrical and computer engineering, followed by an MBA at Harvard, Haugen worked at multiple tech firms before Facebook, includingand the dating app Hinge. She specializes in "algorithmic product management," and has worked on several ranking algorithms similar to the one Facebook uses to organize its main newsfeed, she said in her testimony.
+
+Haugen made specific recommendations for how Facebook might alter its platforms — or how regulators might create laws to force it to do so — including moving away from algorithms that rank content based on engagement and popularity-based measures such as likes and comments from Instagram.
+
+It was refreshing to veer away from the usual grandstanding that comes from more adversarial Facebook-related hearings, which usually devolve into debates over censorship, bias and misinformation. Rather than focus on conflict over how Facebook should handle different types of content, Haugen drilled down on the algorithms that surface that content and how they work.
+
+Facebook on edge
+
+Facebook made repeated attempts to discredit Haugen before, during and after her testimony.
+
+Facebook spokesperson Andy Stone said on Twitter during the hearing: "Just pointing out the fact that @FrancesHaugen did not work on child safety or Instagram or research these issues and has no direct knowledge of the topic from her work at Facebook." The company's statement following the hearing also tried to portray her as an employee with little tenure, no direct reports or high-level involvement, and said she testified concerning a subject with which she had no involvement.
+
+Monika Bickert, Facebook's head of global policy management, said in an interview with CNN after the hearing that there were "mischaracterizations" of the documents Haugen referenced during the hearing, calling them "stolen documents."
+
+And late Tuesday, Facebook CEO Mark Zuckerberg posted a 1,316-word statement to his Facebook page criticizing the testimony. Zuckerberg said he believed the testimony overall created a "false picture of the company" and also said tech companies "should build experiences that meet" the needs of young people "while also keeping them safe."
+
+Haugen herself repeatedly acknowledged during her testimony that she did not work directly on child safety issues, and instead only cited information she learned from Facebook's own internal research documents, which she said were "freely available to anyone in the company." Haugen also admitted when questions were outside of her scope of knowledge and declined to answer them.
+
+Facebook's early efforts to snub Haugen did not impress those inside the hearing. Senator Marsha Blackburn called out Stone's tweet during the hearing, saying, "If Facebook wants to discuss their targeting of children, if they want to discuss their practices, privacy violations, or violations of the Children's Online Privacy Protection Act, I am extending to you an invitation to step forward, be sworn in, and testify before this committee."
+
+A whistleblower who wants to fix Facebook
+
+In a call with reporters following the hearing, subcommittee Chair Sen. Richard Blumenthal said he found Haugen's remarks "compelling" and "credible."
+
+"Frances Haugen wants to fix Facebook, not burn it to the ground," Blumenthal said.
+
+Indeed, that may be one of Haugen's biggest assets as a reliable witness — she repeatedly told lawmakers that she was there because she believes in Facebook's potential for good, if the company is able to address its serious issues. Haugen even said she would work for Facebook again, if given the chance. She also said she is against breaking up Facebook, instead emphasizing collaborative solutions with Congress, or else "these systems are going to continue to exist and be dangerous even if broken up."
+
+Haugen suggested that Congress give Facebook the chance to "declare moral bankruptcy and we can figure out how to fix these things together." Asked to clarify what she meant by "moral bankruptcy," Haugen said she envisioned a process like financial bankruptcy where there is a "mechanism" to "forgive them" and "move forward."
+
+"Facebook is stuck in a feedback loop that they cannot get out of. ...They need to admit that they did something wrong and that they need help to solve these problems. And that's what moral bankruptcy is," she said.
+
+This likely won't be Haugen's last time testifying before Congress. During the hearing, she said her time working on counterespionage issues at Facebook gave her "strong national security concerns about how Facebook operates today."
+
+Blumenthal suggested that these national security concerns could be the subject of a future subcommittee hearing.

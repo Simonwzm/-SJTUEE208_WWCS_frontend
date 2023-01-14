@@ -1,0 +1,51 @@
+Hong Kong (CNN Business) China had been counting on its biggest chipmaker to help the country eventually reduce its reliance on the likes of Intel ( INTC ) and Samsung ( SSNLF ). The United States just put those ambitions in jeopardy.
+
+Washington announced Friday that it will require US exporters to apply for a license before they can sell to Semiconductor Manufacturing International Corporation (SMIC). The US government claims that the chipmaker can use its tech to help China modernize its armed forces.says it has no relationship with the Chinese military.
+
+But in a statement on Sunday, the company acknowledged that while the restrictions are unlikely to hurt its short-term operations, its loftier goals are in doubt. The new US rules will have "a material adverse effect" on its ability to develop highly advanced chips, it said.
+
+That's because Washingtonhas said that any request to exporttechneeded to produce super advanced chips " will be subject to a presumption of denial " — a major problem for SMIC, which uses American-made software and equipment to create its chips.(The US Department of Commerce defined "super advanced" as any semiconductor smaller than 10 nanometer.)
+
+Existing hurdles for SMIC
+
+TSMC TSM SMIC was already facing huge hurdles as it tried to catch up to global competitors. The company remains three to five years behind industry leaders Intel, Samsung and, which are all capable of producing chips in 7-, 5- and 3- nanometer sizes.
+
+"We think this is one of many blows to China, limiting its rise as a tech superpower," said Phelix Lee, an equity analyst for Morningstar, in a research note published earlier this month that anticipated US export restrictions.
+
+"Although Chinese substitutes have emerged in parts of the supply chain, their specifications are typically two to three generations behind," he pointed out in a separate report published in September.
+
+For example, Lee wrote that he thinks it will be hard for SMIC to fully localize production of semiconductors in the 40-nanometer range, let alone ones in the 5-nanometer range that TSMC and Samsung have already commercialized.
+
+It's clear that investors are worried about the company's future. SMIC's Hong Kong-listed shares were down 0.9% to close at 18.96 Hong Kong dollars ($2.50) on Tuesday, their lowest value in more than two months. They've lost 4.5% since the US ban was announced.
+
+Bailing out SMIC?
+
+The pressure from Washington also highlights how important — and challenging — it will be for China to find a solution to SMIC's woes.
+
+"given the Chinese semiconductor sector a sober reminder of the urgency of building a self-controlled industry chain." The Global Times, a state-run tabloid, reported Monday that the latest restrictions have"given the Chinese semiconductor sector a sober reminder of the urgency of building a self-controlled industry chain."
+
+Lee of Morningstar said he expects China could create more policies supportive of the chipmaking sector. He suggested the government could provide grants for chip research or offer tax breaks for semiconductor equipment.
+
+China is already starting to do that: Earlier this month, the government unveiled rules that will allow the country's chipmakers to be exempt from corporate income taxes for several years if they meet certain requirements. And Chinese President Xi Jinping recently said at an economic conference that the country needs to "strengthen China's strategic tech power" so it can break a "foreign stranglehold" on key tech, according to state news agency Xinhua
+
+And analysts at Bernstein wrote in a Sunday research note that they expect China to bail out SMIC, if necessary.
+
+More money may not solve the problem created by US tensions, though.
+
+SMIC, for example, has already raised billions of dollars this year from state-backed development funds and through a big secondary listing of its shares in Shanghai. But it is still far from being able to manufacture advanced chips without a reliable way to source US equipment.
+
+Analysts at the Beijing-based China Securities Corp pointed out Sunday that SMIC's next-generation technology still relies on equipment that it needs to source from a European firm bound by the US export ban.
+
+There's also the fact that Washington's pressure on Chinese companies isn't going away. On Monday, the US Department of Commerce added dozens more Chinese firms to a list that will restrict them from buying US goods and technology. Several aviation companies were on the list, suggesting that those supply chains could now face problems, too
+
+China's Ministry of Foreign Affairs criticized that move on Tuesday, calling it a "serious threat to the security of global industrial chains and supply chains."
+
+The United States has "constantly abused export controls and other measures to suppress and contain specific enterprises in other countries," ministry spokesperson Wang Wenbin told reporters at a regular press briefing.
+
+Beijing will have an opportunity to reset relations next month, when President-elect Joe Biden takes office. Observers have said they expect Biden to strike a more diplomatic tone than President Donald Trump, though tensions likely won't evaporate completely.
+
+The Bernstein analysts said that ultimately, the Chinese government may need to make other concessions if it wants to ease the pressure on chipmakers.
+
+"The dire situation that SMIC is in may not be totally reversed, but possibly partially alleviated," they added.
+
+— Jill Disis contributed to this report.

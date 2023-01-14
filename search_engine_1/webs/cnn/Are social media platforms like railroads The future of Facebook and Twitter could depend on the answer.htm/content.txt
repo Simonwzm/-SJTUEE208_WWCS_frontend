@@ -1,0 +1,73 @@
+(CNN Business) Services like Facebook and Twitter could change radically for millions of Americans in the coming years depending on how the courts decide one hotly debated question: Should social media platforms be regulated like railroads?
+
+It's a question that's gotten increased attention lately as a number of states, including Texas and Florida, have passed laws to that effect. Though they have been temporarily blocked amid ongoing legal challenges, the laws propose a fundamental rethinking of social media's legal status that could expose big swaths of the internet to government regulation. The new laws would force large social media platforms to host a much wider range of content than they currently allow, including content that may otherwise violate their terms of service, under threat of lawsuits.
+
+The Texas and Florida laws rest on a determination that social media providers are a kind of common carrier, a special label implying heightened public obligations and limited First Amendment rights. It's the first time in the internet's history that apps or websites stand to be regulated like the railroads or telegraph of yore.
+
+Last week, the Supreme Court prevented Texas' law from taking effect in an early-stage decision. But several of the justices suggested the underlying issues will ultimately be important for the Court to consider, and that it is "not at all obvious" how its previous rulings should apply to tech platforms.
+
+If the Texas and Florida laws are ultimately upheld, it could give governments in other states, and potentially at the federal level, new opportunities to treat digital services more like dumb pipes than active decision-makers in regards to the content they host.
+
+"The question is, can we put social media in that model," said Adam Candeub, a law professor at Michigan State University who assisted Texas with its case. "Does that fit? Because if it does, then government has a lot of power to regulate."
+
+What is a common carrier?
+
+The concept of common carriage dates back hundreds of years, likely even to the medieval era, according to some scholars, and originally dealt with services that moved or accommodated goods and people in some way.
+
+Some of the oldest examples of common carriers include English inns and alehouses offering travelers a place to sleep, or ferries providing transport across a river. If a customer believed he was being harmed, perhaps because the ferry operator damaged his goods or charged him an unfair rate, he could seek relief by taking the provider to court.
+
+Through centuries of litigation, comfmon carriage's core ideas — revolving around product consistency, equal access and consumer redress — were formalized and extended to other industries. These days, common carriers face the same obligations no matter what business they're in. They typically have to be seen as offering their services to the general public. They can't engage in unreasonable discrimination. They must charge just and reasonable prices. And they need to provide reasonable care; transit providers are expected to keep bus and train passengers safe, for example.
+
+Today, everything from taxicabs to shipping services tend to be considered common carriers. And if some conservatives are to be believed, services like Facebook, Twitter and YouTube deserve to be in this group, too.
+
+The experience of using social networks like Facebook, Twitter and YouTube could change for millions of Americans if courts ultimately decide social networks should be treated as common carriers.
+
+Conservatives argue they have been censored on social media by liberal-leaning computer programmers. It's a theory that has not been substantiated by credible independent research. But it is easy to see why common carriage's requirements to serve all comers and to refrain from "unreasonable" discrimination might seem like an attractive tool for the situation, said Harold Feld, a communications law expert at Public Knowledge, a consumer advocacy group.
+
+"What they would have is an ability to sue Facebook and say, 'You're not really engaged in 'reasonable' discrimination, you're engaged in unreasonable discrimination under the cover of neutrally applying your terms of service,'" said Feld.
+
+The politics of new tech regulation
+
+Common carrier regulation is just one of several ideas policymakers have come up with to try to rein in tech platforms, as criticism of Big Tech has escalated worldwide. In the United States, there have been bipartisan calls to change antitrust law , bolster privacy protections and narrow Section 230 of the Communications Decency Act, the internet's signature liability shield.
+
+But the common carrier focus is distinct from antitrust efforts and arguably more controversial because it can involve restricting a company's constitutional rights.
+
+In a federal appeals decision last month about the Florida law, a three judge panel held that the legislation risked violating the First Amendment. Social media companies explicitly cite their terms of service and algorithms to justify ranking, sorting and blocking content, which is a kind of speech act that disqualifies them in the first place from being considered common carriers, the Eleventh Circuit Court of Appeals held.
+
+"Neither law nor logic recognizes government authority to strip an entity of its First Amendment rights merely by labeling it a common carrier," the judges wrote.
+
+The Supreme Court prevented Texas' social media law from taking effect in an early-stage decision. But several of the justices predicted the underlying issues will ultimately be important for the Court to consider, and that it is "not at all obvious" how its previous rulings should apply to tech platforms.
+
+But there is another strand of thinking that argues social media platforms should be considered common carriers because they already fit some of the most important criteria. In court filings, Texas and Florida have argued that social media platforms hold themselves out to the general public as neutral platforms for speech, and because this is a primary feature of common carriage, then social media platforms can be considered common carriers.
+
+Certain members of the Supreme Court appear sympathetic to the argument; conservative justice Clarence Thomas has been a particularly vocal proponent of the perspective.
+
+"Though digital instead of physical, [digital platforms] are at bottom communications networks, and they 'carry' information from one user to another," he argued last year. "And unlike newspapers, digital platforms hold themselves out as organizations that focus on distributing the speech of the broader public."
+
+What common carriage isn't
+
+It's not unusual for common carriage to get jumbled together with other legal concepts, experts say, and it's important to know the difference because the implications could be significant for the future of internet regulation.
+
+Crucially, and perhaps confusingly, common carriers are not the same as public utilities, even though the terms sometimes get conflated, including in the debate about how to regulate social media.
+
+Public utilities are services so essential the government may seek to run them directly, or by granting exclusive monopolies to corporations that then enjoy government-like powers such as eminent domain. With a public utility, the government can officially set prices and require that certain areas or populations be served, even if they are unprofitable; that isn't the case with common carriers. Many public utilities are common carriers, but not all common carriers are public utilities.
+
+"'Common carriage' is an economic regulation that is about making sure everybody gets the same product," Feld said. "And 'public utility' is about the service being so important, it's not just that you want to have it, you have to have it. ... If you're not going to die without it, it's probably not a public utility."
+
+Certain members of the Supreme Court appear sympathetic to the argument, including conservative justice Clarence Thomas, who has argued "digital platforms hold themselves out as organizations that focus on distributing the speech of the broader public."
+
+Social media may be essential to modern democratic societies, but claims that they ought to be considered public utilities carry enormous regulatory implications. And even the Texas and Florida laws stop short of that by resorting to the common carrier framework.
+
+Common carrier regulation is also not a tool for addressing monopoly or market power, though it's a common misconception that it is, said Barbara Cherry, a law professor at Indiana University. You don't have to be a monopoly to face common carrier obligations, and having monopoly power isn't what exposes you to common carrier regulation.
+
+"Monopoly's got nothing to do with it," she said. "It's got nothing to do with how many carriers there are, it has nothing to do with their market power. It's about the kind of service you provide."
+
+What's next?
+
+Although a majority on the Supreme Court voted to temporarily block Texas' law from going into effect last week, three justices — Thomas, Samuel Alito and Neil Gorsuch — dissented. The outcome suggests there could be some level of support at the nation's top court for a broad rethinking of social media companies' legal status under state and federal law. In the dissent, Alito wrote that the underlying issues in the case "will plainly merit this Court's review."
+
+"I think there's a good chance this is going to go up to the Court next term," said Berin Szoka, president of the technology advocacy group TechFreedom, which has filed in support of social media companies in the case. "That's partly why this dissent was short and the other justices didn't say anything, because they see this coming."
+
+At the national level, legal experts said, a finding that social media platforms are common carriers would allow a future Federal Communications Commission to try to classify social media as a common carrier service. It could then attempt to impose its own regulations on the industry, similar to the way the Obama-era FCC sought to regulate internet service providers using the same rubric.
+
+"Under a Republican FCC, who knows?" said Cherry. "You can't count on what would happen. ... We are in a period of really high policy instability."

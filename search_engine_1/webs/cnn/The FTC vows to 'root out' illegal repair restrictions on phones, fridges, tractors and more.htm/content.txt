@@ -1,0 +1,11 @@
+(CNN) US regulators are vowing to make it easier for consumers and independent service shops to repair commercial products like smartphones without having to rely on those products' manufacturers, effectively backing a principle known as "right to repair."
+
+On Wednesday, the Federal Trade Commission led by Chair Lina Khan voted unanimously to condemn restrictions imposed by manufacturers on products that make them more difficult to repair independently. The decision commits the FTC to investigating restrictions that may be illegal under both the nation's antitrust laws as well as a key consumer protection law governing product warranties, the Magnuson-Moss Warranty Act.
+
+In a statement, FTC Chair Lina Khan vowed to use the agency's full range of tools to "root out" illegal repair restrictions.
+
+Apple AAPL The move is a shot across the bow of companies like, which for years has been criticized by right-to-repair advocates for shipping products with unremovable memory or batteries, or sealing devices with special glue. Apple didn't immediately respond to a request for comment on the vote.
+
+Beyond the use of adhesives that make it harder to access the insides of a device, the policy statement calls out restrictions that limit the availability of spare parts only to a manufacturer's preferred servicers. It zeroes in on "software locks" and copy-protection technology as well as restrictive user licensing language. And it blasts "unlawful, overbroad" patent and trademark lawsuits that have allegedly been weaponized to restrict independent repairs.
+
+Read More

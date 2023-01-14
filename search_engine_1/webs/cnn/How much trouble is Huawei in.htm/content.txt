@@ -1,0 +1,77 @@
+Hong Kong CNN Business —
+
+Huawei is under a lot of pressure.
+
+Fresh US sanctions have cut off the Chinese tech company’s access to vital American technology to a greater extent than ever before. Countries and mobile network operators around the world are now questioning whether Huawei will be able to deliver on its 5G promises. And rising anti-China sentiment in India and elsewhere is not helping matters.
+
+US Secretary of State Mike Pompeo declared last month that “the tide is turning against Huawei as citizens around the world are waking up to the danger of the Chinese Communist Party’s surveillance state.”
+
+Those remarks were “a bit pre-emptive,” said Carisa Nietsche, a researcher at the Center for a New American Security, a Washington think tank.
+
+Pompeo lauded countries such as the Czech Republic, Poland and Estonia for “only allowing trusted vendors in their 5G networks.” But Nietsche noted that many of those countries made up their minds last year, when they signaled they wouldn’t work with Huawei. And European countries with much bigger economies, such as the United Kingdom, France and Germany, have yet to announce a total ban on Huawei.
+
+But there is “the beginning of a sea change in Europe,” Nietsche said.
+
+European countries and mobile carriers are now worried that Huawei won’t be able to provide 5G infrastructure as promised given the “massive hit to their business” from the new US export controls, she said.
+
+Huawei’s 5G business in ‘grave danger’
+
+Huawei has been here before. Last year, the US government barred American firms from selling tech and supplies to the Shenzhen-based company without first obtaining a license to do so. Huawei stockpiled inventory and found alternative suppliers, and as a result, continued doing brisk business despite the US ban. The company’s overseas smartphone sales took a hit, though, because it was forced to release new models that weren’t able to access to popular Google apps.
+
+Even after reporting a strong finish to 2019, however, Huawei warned that 2020 would be “difficult.”
+
+That would prove to be all too true.
+
+Huawei's Shenzhen headquarters. Its 5G business is in danger, as the company battles a prolonged American campaign against its business. Kyodo News/Getty Images
+
+The latest US sanction announced in May cuts much deeper than last year’s ban. It applies to any global firms using American equipment to make semiconductors. The new rule restricts companies like TSMC, a Taiwan-based firm, from exporting computer chipsets and other key components to Huawei.
+
+Without those chipsets, Huawei can’t build 5G base stations and other equipment, according to analysts at brokerage firm Jefferies.
+
+“Based on the current direct export rule that the US put on, I really think that Huawei’s 5G equipment business is in grave danger,” Jefferies analyst Edison Lee said on a recent call with investors.
+
+“If the law doesn’t change, and if the US-China tension does not de-escalate, then I think there’s a big risk that Huawei will stop being able to provide 5G equipment” from early next year, he added.
+
+Asked for comment for this story, Huawei spokeswoman Evita Cao said “we continue to receive support from our customers,” without going into further detail.
+
+The company said in May that it “categorically opposes” the latest US sanction, calling the new rule “discriminatory.”
+
+“It will have a serious impact on a wide number of global industries” and damage “collaboration within the global semiconductor industry,” Huawei said in a statement. “We expect that our business will inevitably be affected,” it added.
+
+That may already be happening in the United Kingdom.
+
+On Saturday, the UK-based Telegraph newspaper reported that Prime Minister Boris Johnson is poised to begin phasing out Huawei 5G tech in Britain “as soon as this year,” walking back a decision that granted Huawei a limited role in building that network.
+
+Earlier last week, Oliver Dowden, the country’s digital and media secretary, said that the US sanctions will “likely have an impact on the viability of Huawei as a provider for the 5G network.”
+
+“I am not a Sinophobe, I won’t be drawn into Sinophobia,” Johnson said on Tuesday. But “I do want to see our critical national infrastructure properly protected from hostile state vendors, so we need to strike that balance.”
+
+Huawei said earlier this year that it has secured 91 commercial 5G contracts, more than half (47) are in Europe, 27 are in Asia and 17 are elsewhere in the world.
+
+China tensions
+
+The United States has long viewed Huawei warily, suspicious of how closely the company is tied to the Chinese Communist Party. The company maintains that it is a private firm owned by thousands of its employees.
+
+Critics also say Beijing could force Huawei to spy on other nations. Huawei says that has never happened and if it did, the company would refuse such orders.
+
+Yet even as it claims independence from Beijing, Huawei has been caught up in sparring between China and the United States, and to an increasing degree, the European Union and countries such as India that are growing more wary of China.
+
+The coronavirus pandemic has only strained relations further. Some countries, such as the United States, have blamed China for the outbreak, and others have been put off by what they see as Beijing’s aggressive response to criticism.
+
+There was a moment during the pandemic “where China was able to assert itself on the global stage as a leader, and I think they fumbled that,” especially in Europe, after China sent masks and respirators of dubious quality to countries experiencing outbreaks, said Nietsche.
+
+EU countries are concerned about their lopsided trade and investment relationship with China, and they have taken steps in recent months to prevent subsidized Chinese companies taking over the bloc’s industrial champions or winning public contracts. Beijing’s repression of the Uyghur ethnic minority in the northwest province of Xinjiang is another major area of concern.
+
+There are now “excellent signals” coming from Germany and the United Kingdom “that they will move to exclude or at least will take Huawei out of the core [5G] network,” said Nietsche. Germany, for instance, is scrutinizing Huawei’s data flows to see if the company is breaching European laws, she said.
+
+India, meanwhile, had been going back and forth over whether to include Huawei equipment in the country’s 5G network, said Chaitanya Giri, an analyst with Indian foreign policy think tank Gateway House. Huawei received the green light to participate in 5G trials late last year.
+
+But tensions between New Delhi and Beijing have risen dramatically in recent weeks after at least 20 Indian soldiers were killed in border clashes with Chinese troops stationed in the Himalayas. China has also been singled out in India for blame over the coronavirus pandemic, according to Giri.
+
+Some Indians have been calling for a boycott of Chinese goods. And in a move widely seen as retaliation against China, the Indian government last week banned TikTok and several other Chinese apps, saying they pose a “threat to sovereignty and integrity.”
+
+Huawei may now get caught up in the escalating tensions, according to Giri. Public sentiment has now “consolidated, that we are not going to use any of the Chinese equipment,” he said.
+
+What Europe and India share, according to Giri, is a growing sense of unease following years of substantial investment by China.
+
+“Big democracies right now are singing in a chorus,” he said. “They understand what’s at stake.”

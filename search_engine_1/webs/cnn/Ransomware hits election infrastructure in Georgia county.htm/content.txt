@@ -1,0 +1,11 @@
+DC (CNN Business) A Georgia county is ground zero for what may be the first ransomware attack to hit election infrastructure this political season.
+
+The attack on Hall County — home to Gainesville and located roughly an hour north of Atlanta — was disclosed on Oct. 7, but the impact to election infrastructure is only now coming to light.
+
+Among the county's affected systems were a voter signature database, as well as a voting precinct map hosted on the county's website, according to Katie Crumley, a Hall County spokesperson. The affected systems were first reported by The Gainesville Times
+
+"We are currently bringing various programs back online, and those two items are included in that process," Crumley said. "However, the voting process for our citizens has not been impacted due to the network issues."
+
+The initial disclosure by county officials said that the attack had hit "critical systems within the Hall County Government networks" but provided few additional details. Crumley declined to discuss further specifics, citing an ongoing investigation.
+
+Read More

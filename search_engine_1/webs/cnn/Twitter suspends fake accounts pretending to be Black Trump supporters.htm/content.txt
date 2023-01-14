@@ -1,0 +1,55 @@
+(CNN) Twitter has recently suspended a slew of fake accounts pretending to be Black supporters of President Donald Trump. Many have tweeted this identical phrase: "YES IM BLACK AND IM VOTING FOR TRUMP."
+
+A Twitter spokesperson told CNN the accounts violated rules against platform manipulation and spam, which ban users from tweeting to "artificially amplify or suppress information," among other activities.
+
+It's not clear who's creating these accounts or their intended purpose, CNN senior business writer Donie O'Sullivan, whose coverage includes technology and politics, told Don Lemon on Tuesday. The number of accounts also was unclear -- CNN reached out to Twitter to confirm the number and is waiting to hear back.
+
+But the fake accounts are the latest attempt at misinformation related to the 2020 presidential election -- this time -- in the form of fake Trump supporters.
+
+A fake account was using a real man's image
+
+One of the suspended accounts belonged to a user named "Gary Ray," who described himself as "probably the best meat eater in the world."
+
+The account was slim on personal details. His location was set to Detroit, and he'd only joined Twitter in August. His profile photo appeared to be a professionally shot black-and-white portrait.
+
+In at least two of his 10 tweets, he proudly claimed that he was a Black man who planned to vote for Trump next month.
+
+"YES IM BLACK AND IM VOTING FOR TRUMP," a screenshot of the suspended account reads. "Twitter has suspended 2 of my other accounts for supporting Trump. Can you please give me some retweets and a follow? I follow all back, Love ya"
+
+"Gary Ray" isn't real, but the man in his profile picture is. His name is Robert Williams, and he didn't know the account had used his photo until reached by CNN.
+
+A screenshot of the now-suspended Twitter account for "Gary Ray" shows that the acount used an image of Robert Williams and pretended to be a Black Trump supporter.
+
+The image of Williams the "Gary Ray" account used first appeared in The New York Times in August. Williams was profiled in the paper for his wrongful arrest after facial recognition software led Detroit police to accuse him of shoplifting. The Wayne County Prosecutor's Office in Michigan dismissed the case in January , the same month Williams was arrested, due to insufficient evidence.
+
+After his image was used in such a way just recently, Williams, a logistics planner from Farmington Hills, Michigan, learned his likeness had been used to show support for Trump.
+
+"I was shocked by it," Williams told CNN on Wednesday. "I thought it was a weird attempt to mislead people."
+
+The fake accounts followed familiar patterns
+
+A few suspended accounts, compiled by O'Sullivan and disinformation expert Josh Russell, show that their creators followed similar patterns: They'd all joined Twitter recently; their Twitter handles usually included a reference to "MAGA" or "KAG," Trump's newer campaign slogan that stands for "Keep America Great;" and their profile pictures were often stock images of Black men and women.
+
+Wallace told CNN he'd deactivated his account shortly before he found that his photo was being used by one of the fake accounts. He said he thinks whoever set up the count "just searched for a random tall black guy" before they found his photo.
+
+"I'm not even into politics like that," Wallace, who said he doesn't support Trump, told CNN. "I just want to continue doing my music and look after my family. I don't have time for this foolishness."
+
+The "Gary Ray" account was suspended this week after it garnered hundreds of likes and nearly 400 followers. Screenshots of the other now-suspended accounts showed they were retweeted dozens of times before Twitter took action.
+
+For his part, Williams said he doesn't agree with "Gary Ray's" political views.
+
+"I in no way intend to support Donald Trump, in any way," he said.
+
+Twitter hasn't confirmed who's behind the accounts
+
+Sam Riddell, a cybersecurity analyst who's been tracking the fake accounts since September, said the accounts may have had a "hidden motivation": After they built their follower base, the users behind the accounts would "periodically promote links to pro-Trump t-shirts for sale, urging followers to quickly purchase the merchandise before promptly deleting the promotional tweets."
+
+The users would then resume making political comments after deleting the tweets, and thus deleting evidence of "financial motivation," and would change photos and handles to avoid being detected by the platform, Riddell tweeted on Tuesday.
+
+"With IO ['information operations,' or misinformation campaigns] activity, there is very often more than meets the eye," he wrote.
+
+If Twitter can prove the accounts were created through a "state-backed information operation," it will disclose the countries involved through its public archive.
+
+Earlier this month, Twitter suspended over 1,500 accounts , including over 100 that were hacked by actors in Iran to amplify "politically sensitive topics" like Black Lives Matter and the killing of George Floyd.
+
+Similar tactics were used in the run-up to the 2016 election, when Black Americans were targeted more than any other group by Russian agents, who often created fake Twitter and Facebook accounts purported to belong to Black social justice activists.

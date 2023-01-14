@@ -1,0 +1,21 @@
+CNN —
+
+Nearly one year after Microsoft launched its flagship Windows 11, the tech giant has officially rolled out its first major update to the operating system.
+
+The update, which is available for free for current Windows 11 users, was released in more than 190 countries on Tuesday. Many of the new features hone in on Microsoft’s vision for the future of hybrid work.
+
+“We have formed new habits; and they stuck,” Panos Panay, the EVP and chief product officer of Windows and Devices at Microsoft, wrote in a blog post announcing the update. “Our work is never done to ensure Windows evolves and adapts to you.”
+
+Panay, who said Windows 11 is the most used version of Windows in its history, detailed how the latest update aims to make remote work on the PC even easier and more secure. For example, a new tool called Smart App control uses AI to block malicious or untrusted apps from running on devices. Microsoft calls Windows 11 the most secure version of the operating system yet.
+
+Other changes include enhancements to the Snap layouts program which helps people optimize their view when they need to have multiple apps or documents in front of them at the same time. It is also introducing a “Focus sessions” and “Do Not Disturb” feature to help minimize distractions that pull you away from the task at hand. When you start a new focus session, it will activate the Do Not Disturb feature which silences all notifications and turns off taskbar badges.
+
+The Start menu is also getting some refreshing, including a faster and more accurate search function and new ways to customize the menu. There are also now tabs available in the File Explorer, which Panay said was the most requested ask from Windows users.
+
+Meanwhile, a new tool called Windows Studio Effects helps to improve video and audio calls using AI technology that filters out background noise, such as lawnmowers and baby cries, and blurs out background objects. It also subtly lifts a speaker’s eyes to make it appear as though they’re directly looking into the camera on video calls.
+
+Microsoft is also rolling out some of its previously announced accessibility features, including system-wide live captions that automatically generate captions from any form of audio content on Windows 11, and an update to Natural Voices for Narrator, which more closely mirrors natural speech patterns and helps assist in reading documents or browsing the web.
+
+Microsoft previously told CNN that many of its new inclusivity features were developed in part by Microsoft employees who have disabilities.
+
+The update is being offered via a “measured and phased rollout” approach, Microsoft said in a separate blog post. Users with eligible devices can simply get the update by opening “Windows Update” in their settings.

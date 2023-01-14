@@ -1,0 +1,9 @@
+(CNN Business) Apple plans to give customers the ability to repair their own devices amid growing pressure from regulators and consumers around the world for manufacturers to ease restrictions on fixing products.
+
+The company on Wednesday announced a new program that will make spare parts for Apple products available to purchase starting early next year. The program, known as Self Service Repair, will let users fix broken devices using repair manuals that Apple will post on its website.
+
+Apple AAPL plans to start with some components that tend to require replacement such as displays, batteries and camera modules. The company says it will have more than 200 parts and tools available at launch and plans for more to be added later next year. The repair program will initially be available only for iPhone 12 and iPhone 13 users, but will later expand to Mac computers that use Apple's new in-house M1 chip.
+
+The company will only reveal the prices of its spare parts when the program formally launches next year, but Apple said it will charge individual users the same prices it currently charges independent repair providers.
+
+to ease restrictions on independent device repair shops or DIY repairs, a push known as the "right to repair" movement. Companies have been Apple's move comes as electronics manufacturers — as well as the makers of everything from tractors to hospital equipment — face increasing pressure to ease restrictions on independent device repair shops or DIY repairs, a push known as the "right to repair" movement. Companies have been criticized for using tactics that make it harder for independent repair businesses to access devices, such as using non-removable memory or batteries, or sealing devices with special glue. Critics argue these tactics can lead to more costs for consumers, hurt independent repair shops and be bad for the environment.

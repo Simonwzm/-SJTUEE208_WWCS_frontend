@@ -1,0 +1,119 @@
+In the west of Ireland lies a medieval market town, its roots steeped in legend. Beyond the labyrinth of narrow streets of the center are the chimney stacks of housing developments that still puff coal and peat. Past those homes, on the outskirts of Ennis, is an unremarkable but huge plot of land, nestled between a power station and farmland where cattle and sheep graze. This is where a mysterious company has applied to develop a new data center the size of 22 American football fields.
+
+If approved, it would be one of the country's biggest. A Dublin-based company called Art Data Centres Ltd. submitted the planning application for the center in July. Not much is known about the company, which was set up in 2018. Its director and secretary have been involved in more than 6,500 other listed Irish companies — over 3,000 of which have since closed, according to the Irish company records checking site SoloCheck. CNN was unable to establish contact with Art Data Centres and its representatives did not respond to requests for comment.
+
+It is not clear what the data center will be used for, nor if other larger tech companies could ultimately be involved.
+
+The €1.2 billion ($1.4 billion) investment is likely to be welcomed by the Irish government, which has included large data centers as part of its "strategic infrastructure development," despite concerns growth in data centers could undermine the country's commitment to cut carbon emissions in half by 2030.
+
+Ireland's temperate climate helps reduce the amount of energy needed to cool servers, but its corporate tax ratessome of the lowest in the world — and friendly regulatory environment are what makes it so attractive to big companies, such as(Facebook),and, who all have their European headquarters here.
+
+Despite that favorable climate, Ireland's data centers eat up a significant amount of electricity, leaving how their operations square with the country's ambitious climate goals in question. According to state-owned power operator EirGrid, they are on track to have consumed 17% of power generated in Ireland in 2021.
+
+EirGrid notes that Irish data centers are so energy-needy that over the past four years, the power they required was the equivalent of adding a half a million homes to the grid.
+
+Host in Ireland, a trade group that promotes Ireland "as the data hosting centre of Europe," said in a 2021 report that the number of completed data centers had grown by 25% between May 2020 and May 2021. And, cumulatively, data centers contributed 1.85% of the country's carbon emissions last year, Host in Ireland estimates.
+
+As more centers are built across the country, environmental advocates fear Ireland's climate targets are slipping further out of reach.
+
+In response, a spokesperson for the Department of the Environment, Climate and Communications told CNN in a statement that the government's Climate Action Plan 2021 "sets out a suite of actions to address electricity demand from data centres," which includes a review of its strategy on data centers "to ensure that growth of such users can only happen in alignment with sectoral emissions ceilings and renewable energy targets."
+
+When tech came to town
+
+Local authorities in Ennis are advocating for the data center's construction, a key project of the town's strategic economic plan. Developers say the center will create 250 permanent jobs and 1,200 temporary ones during construction, while also helping to diversify the tech sector away from Dublin, thereby reducing pressure on the capital's power grid.
+
+Ennis resident Pears Hussey told CNN that he would much prefer to see investment used "to ready and buffer us against the worst impact of climate, and to transition us into a more sustainable equitable society — rather than seeing huge areas of land, public infrastructure, and our national grid being devoted to multinational corporations."
+
+The proposed data center in Ennis will sit on a sprawling patch of land, some of which is currently used for farming.
+
+If the project is approved, it wouldn't be the first time that tech came to town.
+
+In 1997, Ennis was awarded the title of Ireland's "Information Age Town," along with a $22 million cash injection from Irish telecommunications company Telecom Eireann that provided more than 80% of homes with computers at a discount and all of the town's schools with new computers and free Internet connections.
+
+But it was the tech industry in Dublin, 155 miles (245 kilometers) away, that really exploded. Ireland's tech industry now employs over 37,000 people and generates €35 billion ($39.5 billion) in annual exports with Dublin at the center of those operations.
+
+Ennis authorities are keen to get a piece of that pie, with hopes the data center could bring jobs and growth to west Ireland. But the energy demands of the Ennis data center are eye-watering.
+
+According to its plan, the center comprises six two-story buildings and a massive 50,310 square-foot energy center, with 18 lean burn natural gas engines and 66 diesel backup generators. The plans also say that solar panels will be located on each of the centers and that rainwater harvesting is included in the development.
+
+A rendering of the proposed Ennis data center from developers.
+
+While planning documents from developers say its potential environmental impact won't be significant "in relation to Ireland's obligations under the EU 2030 target," the site is expected to emit the equivalent of 657,000 tonnes of CO2 per year, amounting to approximately 1.1% of Ireland's estimated total in 2020.
+
+"It's pretty big," says Phoebe Duvall, planning and environmental policy officer for the environmental agency An Taisce.
+
+"Around 1% may be small if you look at that one data center, but on average ... each one would use 0.3 to 1% of Ireland's annual emissions. If you look at all (70) data centers — with many more in the pipeline, that's actually a lot," she said.
+
+Ground the cloud
+
+Language like the "cloud" evokes a benign, ethereal picture of how data is stored. But in reality, that cloud lives on the ground in data centers that are extremely power-hungry.
+
+Melina Sharp of the environmental group Futureproof Clare told CNN that while people now understand the harms of single use plastic, the environmental impact of everyday tasks that use data, like sending an email, are less visible -- and perhaps less considered.
+
+"Like a plastic cup, those emails are also contributing to emissions. They're building up somewhere, just not in your home, but in new data centers built over the world," she said.
+
+"People are worried about single use cups, but actually they (plastics and data) are both fossil fuel-based at the moment," Sharp added.
+
+Melina Sharp of Futureproof Clare holds up a sign in protest of the data center outside the Clare County council offices in Ennis.
+
+Ireland has pledged to source up to 80% of its electricity from renewables by 2030. But with the average data center using as much electricity as a small Irish city, like Kilkenny (population 26,500, according to the 2016 Census) it's likely that those centers will continue to be at least partially powered by fossil fuels, experts say.
+
+Adding to environmental concerns is the distinct possibility that there will be ongoing fuel shortages.
+
+Earlier this year, Ireland's energy and water regulator, the Commission for Regulation of Utilities (CRU) warned that a surge in data center growth could result in rolling blackouts, prompting lawmakers from the Social Democrats party to call for a temporary ban on new data centers. They say the government "does not have a grasp on exactly what it means for Ireland and for our infrastructure."
+
+The CRU, however, decided against a moratorium on new centers, saying that "constructive engagement with industry stakeholders ... removed the need for radical policy changes or the implementation of a moratorium on data centre connections."
+
+Some places, including parts of the Netherlands, have previously or are currently enforcing data center moratoriums because of environmental concerns. The Singapore government in 2019 placed a temporary moratorium on all new data center projects to moderate growth in the sector, which accounted for about 7% of the country's total electricity consumption that year. Since then, the Singapore government has been consulting with industry experts on how to ensure sustainable growth, with that review due to conclude this year.
+
+But in Ireland, the energy regulator says it will now assess data center connection applications based on a variety of factors, including whether the center is tapping into an already energy-strapped region and whether it could generate its own power in the event that supply was cut. It's a decision that squares with the government's stance. The 2018 Government Statement on the Role of Data Centres in Ireland's Enterprise Strategy gives "data centers over certain size thresholds" special status for planning purposes, a move that helps authorities to streamline decision-making around their growth.
+
+Google's data center in Dublin.
+
+The Department of the Environment, Climate and Communications spokesperson said that "further (regulatory) measures will be considered to manage demand from large users, such as data centres. This will be in the context of our national climate targets and the future needs of the (electricity) network."
+
+"Research and development, to put Ireland firmly on a pathway to net-zero-carbon data centres, will be required," the department said in its statement to CNN.
+
+Ireland still has a long way to go to meet its 80% renewables target by 2030, and is already showing signs of falling behind. In 2020, it was 2.5% below its 16% interim goal, according to the Sustainable Energy Authority of Ireland (SEAI) 2021 report. The SEAI report said, however, that renewable electricity "formed the backbone" of that target, and that it was the renewable heating sector that had stalled progress. "Renewable energy sources are now the second largest source of electricity after natural gas," it said.
+
+'Window dressing'
+
+As awareness of the pressure data centers put on power grids grows, big tech is being asked to do more to make up for its impact.
+
+Patrick Bresnihan, a science and technology lecturer at Maynooth University, said most of the large tech companies are "opaque" about how they are achieving their climate goals, in a way that makes it difficult to hold them accountable. He points to a key idea within global climate governance: That environmental problems, including pollution and emissions, can be "offset" by investing in green energy or planting trees in forests.
+
+In Ireland, big tech (and smaller businesses) can enter corporate power purchase agreements (CPPAs) where they agree to buy electricity from renewable sources at a fixed price for a certain amount of time. It gives financial security to generators to build a wind farm, for example, and gives businesses a guaranteed price on that wind power.
+
+But Bresnihan calls many of those CPPAs window dressing, explaining that most of the investments are "minimal" compared to the amount of energy that large tech companies use.
+
+"They are really just a way for (companies) to say, 'we are doing our part,'" he said.
+
+Amazon AMZN is among the country's biggest corporate buyers of renewable energy. When CNN asked Amazon for a response to the criticism of CPPAs, a representative pointed to a statement from Emma Tinker, the CEO of Asper Investment Management, a UK-based investment firm focused on sustainable infrastructure. Asper and its partner Invis are the developers of three windfarm projects in Ireland that have been enabled through CPPAs.
+
+"Amazon's long-term commitment to procure 100% of the power from our wind farms in Cork, Donegal, and Galway enabled Invis to finance these projects and build them without the need for government subsidies, saving energy consumer tens of millions of euros," Tinker said. "These projects represent a significant proportion of wind projects in construction in Ireland today, and support jobs and investment in this critical sector as the country moves towards meeting 80% of its electricity from renewable sources by 2030."
+
+And a spokesperson for Meta (Facebook) told CNN the company commits "to supporting our operations with 100% renewable energy," and said that the renewable projects the company is associated with in Ireland produce as much energy as its Ireland data center consumes.
+
+A fuller picture
+
+County authorities in Ennis have given developers until the spring to provide further information about their plans for the new data center before making a decision on its approval.
+
+Councillor Johnny Flynn has called on the developers to do more for the environment, asking them to use an alternative, "sustainable green low carbon primary energy model" for its operation.
+
+"At the moment we are trying to decarbonize our way of living, but it's like trying to walk down an escalator coming up," Flynn said, quoting a webinar he attended about the project.
+
+Councillor Johnny Flynn stands on the Tulla Road, which runs parallel to the proposed data center site in Ennis.
+
+Still, Flynn is optimistic about the development, citing the economic potential it could bring, and not just data center jobs. Flynn hopes that this center might entice tech companies to expand their operations to Ennis, given the town's proximity to the River Shannon and the Atlantic -- home to a burgeoning offshore wind farm industry.
+
+An EirGrid draft proposal supports that idea, saying that large power users like data centers could be positioned in the west and the south, close to sources of clean energy generation, to take pressure off the eastern grid and prepare for 2030 emissions targets.
+
+The Department of the Environment, Climate and Communications spokesperson said that "energy demand as a whole, including from data centres, will be expected to operate within sectoral emissions ceilings," and that "data centres that locate close to renewable energy, bring their own renewable energy, are highly flexible and include some element of storage provide an opportunity for significantly lower carbon emissions."
+
+"If you have your renewable energy on the western seaboard, why not have the data storage where the renewable energy is and encourage tech clusters to locate along it?" Flynn said.
+
+But Hussey, the Ennis resident, doesn't share that optimism.
+
+"It doesn't feel very democratic that a small town of Ennis can have such a huge development with such a huge impact on our efforts to meet our climate targets kind of hoisted upon us, when the impact is going to go on for generations and generations," he said.
+
+"For every step forward Ennis takes, the power plants will take us two or three steps back."

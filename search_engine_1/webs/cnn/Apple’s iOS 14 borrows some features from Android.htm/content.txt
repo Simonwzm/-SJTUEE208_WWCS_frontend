@@ -1,0 +1,19 @@
+CNN Business —
+
+Some of Apple’s latest changes to the iPhone experience will look very familiar to Android users.
+
+On Monday, Apple (AAPL) unveiled a long list of updates coming to its newest iPhone operating system, iOS 14, at its annual Worldwide Developers Conference, some of which borrowed from features previously introduced by other tech companies, including Slack (WORK), Facebook’s WhatsApp and, of course, Android, which is owned by Google.
+
+As part of the changes in iOS 14, the iPhone home screen will look quite a bit more like an Android device. iPhone users will soon be able to pin widgets, or shortcuts to features found inside an app, to their home screens. They can now be stacked or customized based on work, activity or travel. Widgets have long been a part of Android devices, as well as on Windows phones.
+
+Beyond that, Apple’s new App Library automatically organizes the apps on your home screen so you don’t have to scroll through several pages, similar to Android’s app drawer.
+
+Apple also unveiled a significant new feature called App Clips, which offers a small part of an app for use at the moment it’s needed, such as ordering food from a restaurant or paying for parking. It’s a similar concept to Google’s instant app feature, which was first announced in 2016. With Google’s tool, apps and games can run without being installed, allowing users to try them out first.
+
+Apple also appears to have taken some inspiration from a rival product to address a pain point for some iPhone users: videos (and FaceTime calls) taking over the entire screen when you’re performing some other function. Now, users will be able to multi-task and switch to other applications while still watching a video with a feature called Picture in Picture. Samsung Galaxy phones have been able to do this for years.
+
+Apple redesigned widgets, which have long been part of Android devices. Apple
+
+While tech companies are fond of touting their unique “innovations,” it’s also common for them to copy or borrow features from one another, whether it’s Facebook cloning Snapchat features or Samsung copying Apple.
+
+Android isn’t the only place where Apple appears to be taking inspiration. Its new updates to group chats, such as mentioning people directly, have been popular features on WhatsApp and workplace messaging app Slack. Apple will also allow you to pin conversations to the top of your inbox. Pinning individual messages is a widely-used function on Slack.

@@ -1,0 +1,35 @@
+CNN —
+
+In a rare and lengthy interview, Mark Zuckerberg spoke with controversial comedian and podcast host Joe Rogan about Meta’s plans to release a new virtual-reality headset, his newfound love of jiu-jitsu and his company’s decision to limit the reach of an article about Hunter Biden that came out in the final weeks leading up to the 2020 election.
+
+In the three-hour chat with “The Joe Rogan Experience” podcast, Zuckerberg detailed his company’s plans to release a new virtual-reality headset in October. Zuckerberg said the forthcoming headset will have “a few big features,” including eye- and face-tracking so that people’s VR avatars can accurately mimic their facial expressions and users can feel as if their avatar is looking directly at another person’s avatar in VR social apps.
+
+The company’s most recent VR headset, Quest 2, was released in October 2020. The release of the interview with Rogan comes a week after Zuckerberg was widely criticized online for the simplicity of his avatar in Horizon Worlds, which is Meta’s flagship social VR app. (Zuckerberg later admitted the image he shared was “pretty basic.”)
+
+In his conversation with Rogan, Zuckerberg said more about the new headset will be revealed at Connect, which is Meta’s annual VR developer conference. The company hasn’t yet announced a date for the conference this year, but it’s typically in the fall; last year, it streamed online on October 28.
+
+Zuckerberg doesn’t sit for many traditional press interviews. Rogan’s podcast, while popular, has also come under criticism for the host’s inaccurate claims about Covid-19 and vaccines.
+
+In addition to discussing VR, Zuckerberg was also pressed on some of the company’s content moderation decisions. In one exchange, nearly two-hours into the chat, Zuckerberg addressed his company’s decision to reduce the spread of a New York Post article published in October of 2020 that made allegations about Hunter Biden.
+
+Zuckerberg said the article’s distribution was reduced for several days while it was reviewed by the company’s fact-checking partners. “For the, I think it was five or seven days, when it was basically being determined whether it was false, the distribution on Facebook was decreased, but people were still allowed to share it,” he said in the interview.
+
+The reduction in the article’s distribution was addressed publicly at the time of its publication. In Oct. 2020, Meta spokesman Andy Stone tweeted “While I will intentionally not link to the New York Post, I want be clear that this story is eligible to be fact checked by Facebook’s third-party fact checking partners. In the meantime, we are reducing its distribution on our platform.”
+
+Mark Zuckerberg spoke with controversial comedian and podcast host Joe Rogan for three hours. From The Joe Rogan Experience
+
+When pressed by Rogan about what it means for the distribution to be decreased, Zuckerberg added, “Basically, the ranking and Newsfeed was a little bit less, so fewer people saw it than would have otherwise.” Zuckerberg said he didn’t know by what percentage “off the top of my head,” but said it was “meaningful.”
+
+Zuckerberg said the decision to take action on the story came after broader warnings from the FBI to be “vigilant,” given Russian propaganda in the 2016 election.
+
+“We just kind of thought, hey, look, if the FBI, which I still view as a legitimate institution in this country, is very professional law enforcement, if they come to us and tell us that we need to be on guard about something then I’m going to take that seriously,” he said.
+
+Facebook and Twitter each took steps to limit the spread of the story on their platforms at the time. Twitter’s cofounder and former CEO Jack Dorsey later said his company made the “wrong” decision on the matter.
+
+After fact-checkers looked into it, Zuckerberg said no one was able to ultimately say that the story was false. The situation “sucks,” he said, “in the same way that probably having to go through a criminal trial, but being proven innocent in the end sucks.”
+
+He added: “I think the process was pretty reasonable. You know, we still let people share it, but obviously you don’t want situations like that.”
+
+On Thursday evening, after Zuckerberg’s interview with Rogan circulated on social media, Meta’s verified communications account on Twitter responded to tweets related to Zuckerberg’s discussion of the Hunter Biden story. “Mark testified before the Senate nearly two years ago that in the lead up to the 2020 election, the FBI warned about the threat of foreign hack and leak operations,” the account tweeted.
+
+In the conversation, Zuckerberg also touched on algorithms and content moderation, as well as lighter topics like his morning routine and his family’s love of jiu-jitsu. According to Zuckerberg, jiu-jitsu is “a big part of who I am.”

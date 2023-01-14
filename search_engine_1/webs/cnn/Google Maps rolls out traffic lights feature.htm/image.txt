@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200902172214-google-maps.jpg?q=x_3,y_75,h_1403,w_2494,c_crop/w_800

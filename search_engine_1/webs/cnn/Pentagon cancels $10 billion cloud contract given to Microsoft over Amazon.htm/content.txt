@@ -1,0 +1,11 @@
+Washington (CNN) The Department of Defense is canceling a controversial $10 billion cloud computing contract that had been awarded to Microsoft (MSFT) over Amazon (AMZN) under the Trump administration.
+
+The department announced Tuesday that it is canceling the Joint Enterprise Defense Infrastructure (JEDI) contract that was previously awarded to Microsoft. It will instead seek new solicitations for an updated Joint Warfighting Cloud Capability (JWCC) contract from Amazon and Microsoft.
+
+The JEDI contract would have resulted in Microsoft building a cloud storage system for sensitive military data and technology, such as artificial intelligence, for the Department of Defense and could have resulted in revenue of up to $10 billion over 10 years.
+
+Microsoft winning the JEDI contract in 2019 over Amazon caused some controversy, surprising many industry experts who saw Amazon as the stronger candidate to win the contract. Amazon Web Services is widely viewed as the market leader in the cloud computing industry.
+
+Amazon filed a suit with the US Court of Federal Claims contesting the decision, arguing that it was politically motivated by former President Donald Trump's dislike of then Amazon CEO Jeff Bezos and the Washington Post, which Bezos owns.
+
+Read More

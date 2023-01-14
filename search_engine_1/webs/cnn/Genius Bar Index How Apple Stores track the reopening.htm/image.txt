@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200708111136-apple-store-brooklyn-0622.jpg?q=x_15,y_26,h_1108,w_1970,c_crop/w_800

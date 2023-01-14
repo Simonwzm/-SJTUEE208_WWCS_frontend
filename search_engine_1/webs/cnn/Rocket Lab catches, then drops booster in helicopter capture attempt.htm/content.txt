@@ -1,0 +1,39 @@
+New York (CNN Business) Rocket Lab, which aims to launch satellites into space quickly and cheaply, said it just used a helicopter to catch part of a rocket in mid-air. But the rocket was dropped into the ocean shortly after, ending up having to be fished out of the water.
+
+This mission, labeled "There and Back Again," took off at 6:50 pm ET.
+
+Company communications advisor, Murielle Baker, after initially declaring success, came onto the companies webcast to acknowledge the pilot of the helicopter dropped the rocket "at his discretion" after experiencing a "different load characteristic" than he had during test runs of the catch.
+
+Still, Baker called the initial catch "a monumental step forward."
+
+"We witnessed a spectacular catch," she said.
+
+The webcast showed the helicopter snag the rocket's parachute about 15 minutes after launch, and a cheer arose from mission control, but moments later a disappointed sigh could be heard and the feed cut out.
+
+"They did release it after hook up as they were not happy with the way it was flying," Peter Beck, CEO of Rocket Lab, added on Twitter
+
+"It demands extreme precision. Several critical milestones need to align perfectly to ensure a successful capture," Baker had said earlier in the webcast.
+
+The Electron rocket, Rocket Lab's small rocket which had launched nearly two dozen successful missions prior to Monday's launch, did successfully complete its primary objective: It deployed 34 satellite payloads for a number of commercial operators, bringing the total number of Electron-launched satellites in space to 146.
+
+After separating from the first-stage booster, the Electron's second-stage continued to orbit to fulfill the satellite deployment while the booster fell back to Earth at nearly 5,150 miles per hour. Once near enough to the Earth's surface, the booster deployed parachutes to slow its descent. A helicopter waited to snag the booster's parachute with a hook.
+
+Catching the rocket booster mid-air is a big part of Rocket Lab's eventual goal of reusable rockets.
+
+said that the future of space tourism and people living on other planets would depend on reusable transport after Other companies have used reusable rockets as a way to make the space business more cost effective. In 2015, Blue Origin was the first company to land a reusable rocket on a landing pad. The companysaid that the future of space tourism and people living on other planets would depend on reusable transport after sending founder Jeff Bezos to space. Elon Musk's SpaceX uses reusable boosters in its Falcon 9 rockets.
+
+Rocket Lab, however, says it has other reasons for focusing on reusability than just profit. "Our biggest problem is building rockets fast enough to support all our customers," Beck told CNN Business in 2019. Rocket Lab wants to launch satellite payloads more frequently — 50 times or more a year. That kind of volume requires rocket reuse.
+
+NASA has retrieved spent rocket boosters from the Atlantic Ocean after a Space Shuttle launch. Rocket Lab plans to pursue the helicopter technique to recover its boosters. The company has said Electron is not large enough to carry the fuel supply needed for an upright landing, and a saltwater ocean landing can cause corrosion and physical damage.
+
+A customized Sikorsky S-92 helicopter, a large twin-engine chopper usually used for search and rescue missions and offshore oil and gas transportation, was used in Monday's grab. After the successful capture of the booster, the company planned to fly the machinery to an at-sea recovery vessel before moving to the company's production complex for assessment. But, ultimately it was jettisoned into the ocean and recovered form there. Ocean landings aren't optimal — the sea water can cause corrosion, which is why Rocket Lab hopes to snag the booster before it meets the water.
+
+The launch was postponed several times due to weather conditions. "For our first mid-air helicopter capture, we want ideal weather conditions so we can focus on the catch," Rocket Lab tweeted on Monday. "Just like our weather tolerances for launch have increased over time, so will our tolerance for weather in the recovery zone. For this first one though, we want to eliminate weather as a consideration so we can focus solely on the catch and supporting operations."
+
+The California-based company also released a video showing a successful practice run in the days leading up to launch, with a helicopter capturing a dummy booster as it fell to the ground.
+
+Rocket Lab has previously fished boosters from the ocean in three of Electron's 25 earlier missions. This was the first attempt at a mid-air catch.
+
+This isn't the first time humans have attempted to catch an object falling from space with aircraft. During the 1960s, the United States would use planes equipped with long hooks to grab film canisters containing film from spy satellites out of the sky. The Cold War-era technique was similar to the one attempted by Rocket Lab: the film canister fell to Earth from outer space and used parachutes to slow its descent so that planes could nab the intel. NASA also attempted in 2004 a mid-air grab of a capsule carrying samples of particles that had streamed off the sun, but the helicopter recovery attempt failed when the capsule's parachutes failed to release, causing it to crash into the Utah desert.
+
+Since its start in 2006, Rocket Lab has deployed satellites to orbit for customers including NASA, the US Space Force, the National Reconnaissance Office and Canon.

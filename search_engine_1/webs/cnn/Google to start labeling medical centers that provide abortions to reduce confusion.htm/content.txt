@@ -1,0 +1,19 @@
+New York CNN Business —
+
+Google said on Thursday it will begin prominently labeling health care facilities that offer abortion services in its search and maps products to help reduce confusion for women looking up nearby clinics that perform the procedure. The move follows pressure from Democratic lawmakers to rethink its abortion-related search results in the wake of Roe v. Wade’s demise.
+
+As part of the update, Google will use labels such as “provides abortions” and “might not provide abortions” to better distinguish results for abortion clinics, which provide medical care, and crisis pregnancy centers. The latter does not perform abortions and typically attempt to persuade people from terminating pregnancies, including by attempting to steer people seeking an abortion provider away from one.
+
+To get confirmation that a location does offer abortions, Google said it will call businesses directly or use reliable data sources. The company did not spell out which data sources but said it already does this when users search for EV charging stations or a certain Covid-19 vaccine brand.
+
+Google’s move comes days after Yelp, one of its main competitors, made a similar policy change. It also follows dueling pressure from Democrats and Republicans for how Google should handle the issue.
+
+In mid-June, one week before the Supreme Court overturned Roe v. Wade, more than 20 Congressional Democrats wrote a letter to Google CEO Sundar Pichai. The letter urged the company to prevent searches for abortion clinics from returning results and ads that direct users to facilities that actually oppose the procedure, noting it could put women’s health at risk.
+
+The next month,17 Republican attorneys general wrote a letter to Pichai pushing for the opposite. They argued that any move to suppress pro-life search results at the behest of Democratic officials “would violate the most fundamental tenet of the American marketplace of ideas” and also “actively harm women seeking essential assistance.”
+
+Some Democratic lawmakers praised Google’s announcement Thursday. “Importantly, this isn’t about silencing voices or restricting speech – it’s about returning search results that accurately address a user’s query and giving users information that is relevant to their searches,” Sen. Mark Warner said in a statement.
+
+In the two months since the Supreme Court overturned Roe, Google has been pressured to make other changes to protect abortion-seekers, too.
+
+In July, the company said it would begin deleting user location history for visits to abortion clinics and fertility clinics, among other destinations. Google also said it would add an option for Fitbit users to bulk delete their menstruation data. (The Google-owned fitness tracker previously gave users the option to delete period-tracking data on a record-by-record basis.)

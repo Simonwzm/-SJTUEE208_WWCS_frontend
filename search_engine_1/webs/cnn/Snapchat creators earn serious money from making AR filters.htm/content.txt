@@ -1,0 +1,63 @@
+New York CNN Business —
+
+Eighteen-year-old Ana Casciello couldn’t find a filter she wanted for her Snapchat photo that matched her personal style.
+
+“I just wanted a [filter] that suited me more,” Casciello, a Tampa, Florida native, told CNN Business.
+
+Casciello tinkered around with Snapchat’s free “Lens Studio” software and Adobe’s Photoshop to experiment with effects. She created augmented reality filters, known as “lenses” on Snapchat, that added star and flower-shaped freckles to photos and made them available to other users.
+
+“It started to grow and become more popular,” she said.
+
+Casciello is part of a community of about 100 “official lens creators” who make custom augmented reality lenses for Snapchat. Many creators find ways to earn tens of thousands of dollars creating sponsored AR lenses for brands, including Nike (NKE) and Fanta, and selling merchandise such as t-shirts.
+
+Casciello using her filter that gives users freckles in the shape of stars. Ana Casciello
+
+Since October 2018, Casciello has created about 30 Snapchat lenses, which overlay digital objects and special effects on photos and videos. One gives you a crown of smiling emojis, and a “Happy Vibe” filter gives you a sun-kissed look. Her creations have racked up over 17 billion views and helped her amass over 214,000 followers on the platform.
+
+Casciello, who will attend Virginia Tech in the fall to study computer science and engineering, sells a packages of filters on Etsy for up to $49. They can be downloaded and edited for use on platforms like Instagram. She’s made more than $4,000 since launching her online shop in June.
+
+Other official lens creators on Snapchat charge a minimum of $1,000 for a sponsored lens, according to Ben Knutson, who quit his IT job last year to make Snapchat lenses for brands full time. For more complex lenses, some creators charge brands as much as $30,000.
+
+Snap (SNAP), the parent company of Snap (SNAP)chat, encourages this community of creators, who range from graphic designers to artists, animators and Snap (SNAP)chat super fans. The company, which helps lens creators get deals with brands for sponsored projects, doesn’t get a cut of the deals, but lens creators bolster the company’s own AR offerings. This can help keep users engaged at a time when Snap (SNAP) is working hard to attract more people to the platform.
+
+Viral lenses have been key to Snapchat’s recent success. On its latest earnings call, Snap’s CFO Derek Andersen said the company’s new AR lenses resulted in an estimated 7 million to 9 million of the 13 million daily active users Snapchat added during the period. Two of Snapchat’s hits included a gender-swap lens that turns users into a man or woman and a filter that makes you look like a baby.
+
+Snap’s public Lens Studio software lets users create AR Snapchat lenses. It includes templates for making different kinds of lenses, such as custom sunglasses or lenses for your pet. The basic tools don’t require much technical knowledge.
+
+However, building more complicated lenses can require technical skills, such as coding, 3D modeling, photo editing and graphic design knowledge, and using other expensive programs such as Photoshop.
+
+“It’s opened up this whole new career path for a lot of people,” said Rhonda Greene, an official lens creator who has a day job as the CTO of a firm specializing in web development and social media strategy. “A lot of us came in as hobbyists or just being curious about it, and now it’s turned into something people have turned into a living.”
+
+She earns extra income from creating lenses for brands, such as a high-end bridal shop in Detroit, and from a line of clothing and accessories on Shopify (SHOP).
+
+Rival Instagram, which is owned by Facebook (FB), is also pushing into the AR space. On Tuesday it opened up its beta program, so that anyone can make and publish an AR effect on Instagram using Facebook (FB)’s augmented reality platform, called Spark AR.
+
+“I just wanted to make something to add a little spice to my [Snapchat] Story,” said Knutson, the lens creator, referring to the app’s photos and videos that disappear after 24 hours. “I totally started out doing it for fun.”
+
+But his lenses, such as one that turns users into a breaking news anchor, started getting more attention after he posted them on Reddit. Once he became an official lens creator, brands started reaching out.
+
+He’s since learned Javascript and 3D modeling techniques to develop lenses for brands such as Nike, Red Bull and Norwegian chocolate maker Freia. Knutson said he earns between $3,000 and $10,000 per month, depending on what types of projects he takes on.
+
+Michael Nicoll, the founder and creative director of social AR firm Blnk Digital, creates Snapchat lenses for the music industry. For example, he was behind a lens for Maroon 5 that turns eyes a pinkish purple and overlays faces with lyrics from its “Girls Like You” song. He also developed a lens that gives you faux grilles like Quavo from the hip hop trio Migos. That lens had over 5.7 million views and 200,000 shares, according to Nancy Liu of Capitol/Motown Records, who handles digital marketing for Quavo and Migos.
+
+Michael Nicoll makes Snapchat lenses for the music industry. Shane Norton
+
+“Quavo has a very specific look where he has this diamond-plated grille in his mouth, so we essentially replicated that, and branded it with letters inside of it. That did so well,” Nicoll said. “It was the fact that you could become him, as well as listen to his track [on the lens].”
+
+Nicoll – who will hire other official lens creators, including Knutson, to help work on a project if he doesn’t have a certain skill set – said Blnk’s yearly revenue is in the “six figures.”
+
+Frank Shi, cofounder of boutique media agency Paper Triangles, which is also an official lens creator, said sponsored Snapchat lenses now make up more than half of the firm’s work. He said Paper Triangles is on track to make roughly between $30,000 and $40,000 per month this year.
+
+“[Lenses are] like a print ad that has a whole other world behind it that moves, you can walk into, or turns you into a character,” said Shi of AR advertising.
+
+But some creators told CNN Business they want more ways to earn money from their work on the platform beyond sponsored content deals. On YouTube, for example, creators earn money directly from the ads running on their videos.
+
+“It would be nice to get revenue from my [lens] views,” said Casciello, the Snapchat lens creator.
+
+Another potential risk: betting big on Snapchat as it emerges from a tumultuous time. While Snap’s prospects are improving this year – most recently adding 13 million daily users in its latest quarter – it had a rocky 2018. Last year, Snap struggled with a controversial redesign of its Snapchat app, its first-ever declines in daily active users, an exodus of top executives and heightened competition from rival Instagram.
+
+Lens creator Nicoll said he monitors Snapchat’s business closely. “Of course, as a business owner, you do get a little weary. But it didn’t affect our company. Our clients still wanted to create lenses no matter where Snap was in the general public.”
+
+Despite Snapchat’s recent volatility, Knutson said he’s okay with “putting all my eggs in one basket.”
+
+“That’s because I have a lot of faith in what Snapchat has to offer for creators,” he said. “I know Snapchat is constantly improving and will only get better from here.”

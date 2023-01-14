@@ -1,0 +1,39 @@
+Hong Kong CNN Business —
+
+Tesla is accusing a former employee of stealing intellectual property worth hundreds of millions of dollars and sharing it with a Chinese rival.
+
+The electric car maker filed a lawsuit in the United States on Thursday, alleging that engineer Guangzhi Cao stole key details from Tesla’s self-driving car project and took them to Xiaopeng Motors, a Chinese electric vehicle startup. Elon Musk’s company is seeking damages and to stop Cao from using the information.
+
+Tesla (TSLA) says Cao uploaded complete copies of the company’s self-driving source code to his personal Apple (AAPL) iCloud account. He took more than 300,000 files and directories, according to a complaint filed in US District Court in California.
+
+After accepting a job with Xiaopeng, Cao then deleted 120,000 files from his work computer and disconnected his iCloud account from it, the complaint says. He then repeatedly logged into Tesla’s networks and cleared his browser history before leaving Tesla in early January.
+
+Cao now works at XMotors, Xiaopeng’s US subsidiary.
+
+Xiaopeng said in a statement that it has started an internal investigation but is unaware of any alleged misconduct by Cao, adding that it did not ask him to “misappropriate trade secrets, confidential and proprietary information of Tesla.”
+
+“XMotors fully respects any third-party’s intellectual property rights and confidential information,” it said.
+
+Cao could not immediately be reached for comment.
+
+Xiaopeng started selling its electric SUV, the Xpeng G3, in December. Chen Yihang/VCG/Getty Images
+
+Chinese efforts to get hold of American companies’ tech secrets are a sensitive issue. It’s one of the main reasons cited by the Trump administration for launching a trade war with China last year.
+
+The Tesla lawsuit is the second time in less than a year that someone hired by Xiaopeng has been accused of stealing self-driving trade secrets from a big US tech firm.
+
+In July, engineer Xiaolang Zhang was arrested and charged with stealing trade secrets from Apple’s self-driving project. Xiaopeng said that no Apple-related information was transferred to the company, and that Zhang had been dismissed. Zhang has pleaded not guilty.
+
+Xiaopeng has so far raised 100 billion yuan ($1.5 billion) from some of Asia’s biggest tech companies, including Alibaba (BABA), Foxconn and Xiaomi. It started selling its first and only electric vehicle, the XPeng G3, in China in December. The SUV includes a self-driving feature called X-Pilot. Tesla’s self-driving feature is called Autopilot.
+
+Tesla is accusing the Chinese company of blatant theft, saying in the complaint that it “has transparently imitated Tesla’s design, technology, and even its business model” and that XMotors currently employs at least five of Tesla’s former Autopilot employees, including Cao.
+
+“Tesla believes Cao and his new employer, XMotors, will continue to have unfettered access to Tesla’s marquee technology, the product of more than five years’ work and … hundreds of millions of dollars of investment, which they have no legal right to possess,” the complaint says.
+
+The Tesla Model X on display in Hong Kong. Tesla accuses a former employee of stealing self-driving tech and sharing it with Chinese rival Xiaopeng Motors. S3studio/Getty Images
+
+The US company is suing Cao for punitive damages and seeking a court order to prevent him from retaining and using Tesla’s trade secrets and confidential information.
+
+There’s a lot of Tesla already inside Xiaopeng’s car, according to Tu Le, founder of research firm Sino Auto Insights.
+
+“The XPeng G3 is in a lot of ways a poor man’s Tesla Model X,” he said.

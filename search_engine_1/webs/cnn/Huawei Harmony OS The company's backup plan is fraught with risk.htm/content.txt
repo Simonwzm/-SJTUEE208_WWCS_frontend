@@ -1,0 +1,53 @@
+Hong Kong CNN Business —
+
+Huawei has a plan B to help protect its global smartphone business from the US-China trade war. But it’s incredibly risky.
+
+The Chinese company recently unveiled its own operating system, called Harmony. The software can in theory be used to replace Google’s Android in Huawei’s smartphones and other devices should the United States continue to prevent the two companies from working together.
+
+Rolling out a new operating system is pretty easy, especially for a big tech firm like Huawei. The tech giant employs more than 180,000 people and has the resources and the infrastructure to build software. But the big challenge is getting developers to build apps for a new system.
+
+App designers want their products on platforms that have a lot users. And for years, the market has been dominated by two systems: Google’s (GOOGL) Android and Apple’s (APPL) iOS.
+
+If Huawei fails to win over developers of apps like Uber (UBER) or Instagram — or even regular banking and airline services — it will be a lot harder to persuade people to buy phones powered by Harmony.
+
+“Huawei understands this point,” said Kiranjeet Kaur, an analyst with research firm IDC. “Without apps, no one is going to buy [their phones].”
+
+The company acknowledged that the success of Harmony “will depend on a dynamic ecosystem of apps and developers.”
+
+“To encourage broader adoption, Huawei will release HarmonyOS as an open-source platform, worldwide,” Huawei said in a statement. “Huawei will also establish an open-source foundation and an open-source community to support more in-depth collaboration with developers.”
+
+The omens aren’t great. Other major tech companies that have released open-source operating systems to compete with Android and iOS and have failed to attract enough people and developers.
+
+Microsoft (MSFT) famously had too few apps when it launched its Windows mobile operating system several years ago — and the ones that it had were often not as good as rival apps. The company eventually killed the platform. Blackberry (BB) also tried and failed to launch its own system.
+
+A system with fewer users is less appealing, since there are fewer opportunities to make money.
+
+“From the developers’ point of view, the ease of bringing their apps and services to the end users, and how quickly they can monetize their work, is very important,” said Jason Low, an analyst with research firm Canalys.
+
+Even Samsung, which makes more smartphones than anyone else, has struggled to gain traction with its own operating system — Tizen.
+
+The first Tizen phone launched in India in 2015 for less than $100, and Samsung managed to sell about a million of them. But the phone received poor reviews and was criticized for being a bad Android clone and having too few apps. Samsung hasn’t released a new Tizen smartphone for more than two years, and the operating system is now mostly used on the company’s smart watches and TVs.
+
+Google problem
+
+Huawei has a pretty obvious reason for wanting to create its own operating system. The world’s No. 2 smartphone maker is at the mercy of the United States when it comes to which operating system it can offer to its millions of smartphone users.
+
+Washington banned US companies from selling tech and software to Huawei back in May, throwing a wrench into the company’s partnership with Google.
+
+Consumers who already owned Huawei smartphones were largely unaffected, Google said in May. But the blacklist limited Huawei to the public version of Android for new devices — thus cutting it off from Google apps and services, including Gmail and Google maps.
+
+Huawei could do what Blackberry did and try to woo developers to make apps for Harmony by giving them a tool set. That means they’d only have to take a few more steps to make new apps or modify existing ones so that they work on Huawei’s platform, according to Kaur, the IDC analyst. But that’s also extra work for developers, and the experience of the app is not as smooth for the end user, she said.
+
+Huawei had seen double digit growth in global markets recently, but without access to Google’s suite of services, its phones become a lot less attractive to international users.
+
+Last quarter, global sales accounted for about one third of Huawei’s smartphone shipments, according to IDC. In 2018, before the ban, Huawei sold nearly half of its smartphones outside of China. The company also faces fierce competition from Samsung and rival Chinese companies.
+
+“For consumers who have a choice between a phone that will work fine with Android, and something that may not work as smoothly, they’ll go with something that’s tried and tested,” said Kaur.
+
+This is especially true for the pricy, high end smartphones, such as the Mate X, Huawei’s foldable device, which is set to launch next month.
+
+“You’re spending $2,000 and if you can’t run YouTube … it’s quite a waste of money,” Kaur said.
+
+No wonder Richard Yu, CEO of Huawei’s consumer business group, said last week that even though the company can sell Harmony smartphones “at any time,” it is still giving “priority” to Android.
+
+For now, the new operating system will be deployed in Huawei’s smart watches, smart screens, smart speakers and other connected devices.

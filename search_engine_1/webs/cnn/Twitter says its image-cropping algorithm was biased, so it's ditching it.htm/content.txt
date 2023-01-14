@@ -1,0 +1,31 @@
+(CNN Business) Twitter has largely abandoned an image-cropping algorithm after determining the automated system was biased. Some users complained it had a preference toward showing pictures of white people in previews of tweets.
+
+In a blog post on Wednesday, Rumman Chowdhury, a software engineering director for Twitter's machine learning ethics, transparency and accountability team, wrote that the company concluded the algorithm was biased after testing it for gender- and race-based biases. The post and an accompanying research paper detail how the cropping system, when tested on randomly linked images of people of various races and genders, favored White people over Black people and women over men, for instance.
+
+Twitter's conclusion comes months after the company said it would look into the algorithm , and serves as yet another example of how bias can creep into computer systems that are meant to perform tasks that humans are often uniquely good at doing.
+
+"We considered the tradeoffs between the speed and consistency of automated cropping with the potential risks we saw in this research," Chowdhury wrote. "One of our conclusions is that not everything on Twitter is a good candidate for an algorithm, and in this case, how to crop an image is a decision best made by people."
+
+In March, Twitter started testing a new way to show a full image — rather than an automatically cropped preview version — on mobile devices when a user tweeted a single image. The company said that, following positive feedback, it rolled out the feature to all its iOS and Android users in May . (It center-crops images that are extremely long or wide, however).
+
+A Twitter spokesperson told CNN Business on Wednesday that the change came to Twitter's mobile app first since that's how most people tweet and look at images.
+
+When the image-cropping algorithm was in place, any time a user posted an image to Twitter, the automated system would crop a preview version of that image that viewers would see before clicking through to the full-size image. Twitter said in a blog post in 2018 that it previously used face detection to help figure out how to crop images for previews.
+
+However, the face-detecting software was prone to errors. The company scrapped that approach and instead had its software home in on what's known as "saliency" in pictures, or the area considered most interesting to a person looking at the overall image. Saliency is studied by tracking what people look at; we tend to be interested in things like people, animals, and text, for instance.
+
+Last September the company was prompted to study its algorithmic approach to cropping images after numerous tweets criticized it. These included one from Twitter user @bascule, who on September 19 tweeted , "Trying a horrible experiment... Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama?" Along with his words were two long, rectangular images. The first consisted of a picture of US Senate majority leader McConnell on the top, who is White, with a slender white rectangle in the middle, and a picture of former US President Obama, who is Black, at the bottom. The second featured the opposite, with Obama at the top and McConnell at the bottom. With Twitter's image-cropping algorithm in use, preview versions of the images, which are side by side, show just McConnell.
+
+Trying a horrible experiment...
+
+
+
+Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? pic.twitter.com/bR1GRyCkia — Tony "Abolish (Pol)ICE" Arcieri 🦀 (@bascule) September 19, 2020
+
+A day earlier, another Twitter user, @colinmadland, noticed a similar preview result when he posted a picture that he said showed himself, a White man, next to a picture of a Black man with whom he attended an online meeting; Twitter's preview defaulted to showing just the White man.
+
+In a response to @bascule at the time, the company tweeted that it didn't see evidence of racial or gender bias during testing before releasing the preview feature, but said it would look into whether there were issues with the cropping algorithm.
+
+In Twitter's blog post on Wednesday, Chowdhury wrote that the move away from using an algorithm to crop images lowers the company's dependency on machine learning (an artificial intelligence technique where a computer teaches itself by poring over data) "for a function that we agree is best performed by people using our products."
+
+The Twitter spokesperson said the company plans to dump the image-cropping algorithm on the Twitter.com website in the next few months. The algorithm is also used in a couple other ways, such as when a person tweets multiple images; the spokesperson said Twitter is working on improvements for those uses, too.

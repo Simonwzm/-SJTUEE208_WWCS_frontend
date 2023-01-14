@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200917235815-we-chat-0901.jpg?q=x_0,y_130,h_1406,w_2500,c_crop/w_800

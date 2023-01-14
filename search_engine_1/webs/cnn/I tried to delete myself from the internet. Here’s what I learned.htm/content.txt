@@ -1,0 +1,57 @@
+CNN Business —
+
+It was MyLife that broke me. After spending hours studying FAQ pages, sending terse emails and making occasional phone calls in an earnest-if-naive attempt to take back some control of my personal information online, I had my first demoralizing moment.
+
+MyLife pulls together vast amounts of public data to create background reports and “reputation scores” on millions of people in the US, all available to those willing to pay for a monthly membership. On it, I found a sometimes inaccurate but eerie amount of personal information about, well, my life: my birthday and home city; my previous job title (though curiously not my current one); a list of people “Seth maintains relationships with,” including the names of both my parents, each linked to their own profile pages with still more data. All there in one place waiting to be discovered.
+
+When I called the site, a customer service representative stressed that the information doesn’t come from MyLife, but rather from across the “interwebs.” Following some back and forth, the representative agreed to delete my profile page. I felt victorious – until two hours later when I received the first of many promotional emails from the company, one encouraging me to sign up for a membership, another talking about raising my credit score.
+
+As I would learn through my brief, manic campaign in December to scrub as much of my personal data as possible and start the new year with a clean digital slate, it’s hard not to feel like you’re just scratching the surface of an impossibly large data industrial complex. By the end of my experiment, I felt even worse off about my ability to wrestle back control of my data than when I started.
+
+Our data is out there. Now what?
+
+In recent years, it’s become a truism in certain tech-savvy Twitter threads that much of our personal information is already out there somewhere thanks to an ever-growing list of hacks.
+
+Banks, retailers, social networks – both popular and defunct – have all disclosed massive data breaches. In 2017 alone, Verizon (VZ) confirmed that every single Yahoo account – all 3 billion of them – had been affected by a massive breach and Equifax (EFX) disclosed that a breach had potentially exposed the names, Social Security numbers, birth dates, addresses and credit card numbers of as much as nearly half the US.
+
+There are only two viable emotional reactions to such a total collapse of personal privacy: denial or helplessness. After trying the former for a time, I shifted to the latter, prompted, as with so many moments in my life, by belatedly listening to a sobering podcast about a hack. I followed the usual measures recommended in informational cybersecurity stories – implementing two-factor authentication; signing up for a password management app; freezing credit reports indefinitely – all with an overriding sense that none of these steps eliminated any of that personal information floating around in some dark corner of the web.
+
+As cybersecurity expert Bruce Schneier recently put it to one of my colleagues: “So my password was stolen, is there any way I can go to every criminal on the planet, to their computers, and delete my name? No.”
+
+But there had to be something more to be done, I thought. The fact of the matter is, the internet is already littered with information that could be used against us, much of it collected through entirely legal means. Mothers’ maiden names. Birthdays. Home addresses. I might not be able to prevent my favorite stores from getting hacked, or sweet talk a bunch of hackers after the fact, but I could make it just a little bit harder for a bad actor to find my personal information online – and in the process, regain some sense of control of my data and my life.
+
+How to delete your personal information online
+
+Deciding to delete your information online is the easy part. The hard part is figuring out where to start.
+
+For many, the obvious answer would be focusing on consumer-facing services such as Facebook (FB) and Google (GOOGL), where we willingly – if not always consciously – hand over data about ourselves on a daily basis. Tech industry veteran Praveenkumar Venkatesan decided to launch DeleteMyData in late 2018 to help people do just that.
+
+By offering a quick and easy guide for deleting a range of popular services. Venkatesan hopes to “simplify” the process of scrubbing our data. As he put it to CNN Business companies “make it so easy” for people to have their data collected, but much harder “for them to get out.” About 40,000 people now come to the site each month, he said. By comparison, Facebook has four platforms with more than 1 billion users each.
+
+But as a tech journalist, I wasn’t looking to entirely delete the social networks and services I rely on regularly for work (though over the years I have tweaked my privacy settings for many and made certain accounts private). Instead, with the help of a few online resources, including guides from a cybercrime expert and Reputation Defender, an online reputation management service, I settled on a short list of lesser-known databases that are thought to be among the more prominent aggregators of personal information.
+
+These included data brokers, who buy and sell our personal data, as well as “people search” services like Spokeo and Radaris and background check platforms like Infotracer and MyLife. They may not be household names, but these sites know an awful lot about many households. You might turn to these services if you were looking for information on a new neighbor, hire, client or, according to Spokeo CEO Harrison Tang, “long lost family members or friends.” You might also stumble across a link to these sites when Googling yourself, if you’re into that kind of thing.
+
+“Different people have different feelings about privacy,” Tang said. In his telling of it, the pressing issue isn’t so much that data gets collected, but rather the need for greater transparency around how and why. “I don’t think consumers should be surprised.”
+
+Unlike the data breaches that get far more attention for exposing our personal information, this data is aggregated legally. Spokeo, which says it does roughly $70 million a year in sales mostly from everyday users as well as some enterprise customers including law enforcement agencies, pulls data from dating websites, social networks, criminal records and “marketing databases” from retailers, Tang said.
+
+Jenna Raymond, COO of Accucom Corporation, an information services company that counts Infotracer as one of its brands, told CNN Business in December that criminal records are also a “big” source of data for these sites, along with property records. “The minute you buy a house, that’s public information,” she said.
+
+“You can opt out of Infotracer,” she said, “but it’s still out there.”
+
+A game of whack-a-mole
+
+Over the course of a few days, I did opt out of Infotracer – and many others.
+
+Some, including Infotracer and Spokeo, I was able to delete almost immediately; others said it could take up to 72 hours before the information was pulled. A number of services required some new data in order to scrub the old, ranging from a phone number to confirm the removal to the email address MyLife asked for and later spammed me on.
+
+On Radaris, before I was able to opt out I had to click through a page with instructions for how to “control your information,” which lists more than a dozen “premium data providers who aggregate, host and distribute personal and business information,” including Facebook, Google, Equifax and … the United States Patent and Trademark Office. Next, I saw a page listing dozens more data brokers and websites.
+
+Representatives for Radaris and MyLife did not respond to requests for comment for this story. The USPTO did not immediately respond to questions.
+
+“Unfortunately there is no centralized service to remove your information from all resources by a single request,” according to the Radaris page.
+
+By the time I finally took control of my Radaris page, I felt more lost than before.
+
+“I do believe that information is power,” Raymond said, echoing a slogan of her company. On this at least we agreed: information is power, and consumers – myself included – have given too much of ours away.

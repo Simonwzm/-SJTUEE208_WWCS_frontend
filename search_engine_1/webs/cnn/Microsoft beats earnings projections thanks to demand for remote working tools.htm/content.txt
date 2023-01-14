@@ -1,0 +1,31 @@
+New York CNN Business —
+
+Microsoft earnings easily beat analysts’ expectations for the most recent quarter, as the pandemic drove demand for the company’s cloud and remote collaboration tools.
+
+Microsoft (MSFT) on Wednesday reported $38 billion in revenue for the three months ended in June — up 13% from the same period in the prior year and well above the $36.5 billion Wall Street analysts had expected.
+
+Earnings for the quarter were $1.46 per share, again handily beating analysts’ projection of $1.34 share.
+
+“The last five months have made it clear that tech intensity is the key to business resilience,” CEO Satya Nadella said in a release. “Organizations that build their own digital capability will recover faster and emerge from this crisis stronger.”
+
+The continued work-from-home trend boosted Microsoft’s “intelligent cloud,” “more personal computing” and “productivity and business processes” divisions.
+
+Revenue from the productivity and business processes segment was up 6% from the year-ago period to $11.8 billion, helped by a 19% boost in sales of Office 365 Commercial. Revenue in the intelligent cloud division was up 17% to $13.4 billion. And personal computing sales were up 14% to $12.9 billion.
+
+Still, Microsoft’s stock fell more than 2.5% in after-hours trading shortly after the results were released Wednesday, after ending the day up 1.4%.
+
+Investors may be concerned about slowing growth in its crucial Azure cloud business, which competes with market leader Amazon Web Services. Azure sales grew 47% during the second quarter, a slowdown from the 59% year-over-year growth it reported during the previous quarter.
+
+Analysts also foresee potential road bumps for Microsoft. In particular, the second wave of shutdowns in many parts of the country and the recession could cause further reduction in companies’ IT spending in the short term.
+
+Microsoft said business license purchasing slowed in the second quarter, especially by small and medium businesses suffering from the economic fallout of the pandemic. Its search business took a hit from a pullback in ad spending.
+
+However, as coronavirus cases continue to surge in the United States and many companies expect to keep relying on remote working, there is likely to be a greater incentive for businesses to update their digital capabilities, which should be positive for Microsoft in the longer term.
+
+The company’s operating expenses increased 13% during the quarter. They included a $450 million charge related to the plan Microsoft announced last month to close all 83 of its brick-and-mortar retail stores.
+
+But they also included apparent investments in services to help with companies’ digital transformations, including a 19% increase in operating expenses in the intelligent cloud division driven by investments in Azure. Operating expenses in the productivity and business processes segment increased 10%, “driven by Teams marketing and investments in cloud engineering.”
+
+“Right now, what I would like us to focus on, in the interest of our long-term investors, is to say: How can we build this modern tech stack so that it can really … help customers transform, be resilient, and help us to get into new categories and build a strong position in those categories,” Nadella said on a call with analysts Wednesday.
+
+He added: “My own approach to this would be not to worry as much about short term, whether it’s the growth number … nor are we trying to think about a margin target, because in some sense, the world needs to do well for us to do well in the long run. And I think the world will come out of this, and we will be stronger if we invest during this (time).”

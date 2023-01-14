@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200320092330-gamestop-file.jpg?q=x_3,y_74,h_1632,w_2901,c_crop/w_800

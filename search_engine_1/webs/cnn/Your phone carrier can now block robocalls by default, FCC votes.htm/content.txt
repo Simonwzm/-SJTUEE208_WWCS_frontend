@@ -1,0 +1,21 @@
+Washington DC CNN —
+
+Robocalls are flooding cell phones, interrupting dinners, and scamming people out of money. Relief could finally be on the horizon, but perhaps at a cost.
+
+The Federal Communications Commission voted on Thursday to give wireless carriers like Verizon the green light to block unwanted robocalls automatically for all customers. The move could curb a torrent of phone-based scams and unwelcome interruptions that have afflicted millions of consumers, said the FCC.
+
+The vote clears the way for carriers to switch on robocall-blocking technologies for phone lines by default. The technology works by using algorithms and network scanning to identify unwanted calls, similar to how email providers scan for spam messages.
+
+Carriers that switch on such technologies will be required to let customers opt out of the programs if they wish and continue receiving all calls.
+
+Americans now receive roughly 5 billion robocalls per month, according to industry research. Robocalls are automated phone calls people receive that often show up on caller ID as nearby phone numbers, or sometimes even their own number. While some robocalls are legal and come from legitimate institutions like banks, schools or medical providers, a vast share come from scammers and foreign sources.
+
+The decision by the FCC will extend robocall protections to consumers who weren’t aware they could sign up for them previously, according to agency chairman Ajit Pai.
+
+“There is one thing in our country today that unites Republicans and Democrats, liberals and conservatives, socialists and libertarians, vegetarians and carnivores, Ohio State and Michigan fans: It is that they are sick and tired of being bombarded by unwanted robocalls,” said Pai. “My message to the American people today is simple. We hear you, and we are on your side.”
+
+But questions remain about whether consumers may have to pay for such services, should carriers ultimately activate them.
+
+FCC Commissioner Geoffrey Starks said he will have “serious concerns” if carriers begin to charge their customers for robocall blocking. Jessica Rosenworcel, another agency commissioner, said she partly objected to Thursday’s decision because it does not require robocall blocking to be provided for free.
+
+“There is nothing here that prevents companies from charging each of us whatever additional fees they want to put this call blocking technology on our line,” Rosenworcel said.

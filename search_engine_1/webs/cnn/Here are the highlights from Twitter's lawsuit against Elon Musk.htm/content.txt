@@ -1,0 +1,59 @@
+New York (CNN Business) It's not every day that a major corporate lawsuit features a poop emoji, but then again it's not every day that one of the world's most influential social media platforms sues the world's richest man to make him buy it.
+
+Twitter on Tuesday filed a lengthy and colorful lawsuit against Elon Musk that aims to force the Tesla CEO to follow through with his $44 billion deal to buy the social media company after he moved last week to terminate the acquisition.
+
+Musk, who initially framed his desire to take over Twitter in grandiose terms as "important to the future of civilization," has attributed his change of heart to concerns about the number of bots and spam accounts on the platform. He accused Twitter of violating the deal (a binding agreement he signed without negotiating in a bot-related data provision) by not handing over information he says he needs to evaluate the scale of the issue.
+
+In its suit,attempts to paint a different picture: one of a mercurial billionaire who got buyer's remorse after the tech market, along with Twitter shares, declined amid rising interest rates, inflation and fears of a recession. It also points out that shares of, which Musk is relying on to finance much of the deal, have fallen sharply in recent weeks. "The structure of Musk's financing meant that the merger could become significantly more expensive for him if Tesla's stock price were to decline," the complaint notes.
+
+The 62-page document, which is sprinkled with memes, tweets and a certain emoji, effectively highlights the bizarre spectacle of the deal from start to where it currently stands. It also shows the unusual position Twitter now finds itself in. The company paints Musk as a non-serious potential owner — alleging at one point that he has "disdain" for the company, and at another saying, "Musk's strategy is ... a model of bad faith" — while seeking to compel him to become its owner. (Twitter's board has an obligation to its shareholders to try to see the deal through if they believe it is in their best interest. The dispute could also end in a settlement.)
+
+Musk did not respond to a request for comment on the suit. In a Tuesday evening tweet shortly after the suit dropped, he said, "Oh the irony lol."
+
+Oh the irony lol — Elon Musk (@elonmusk) July 12, 2022
+
+Here are some of the highlights from Twitter's complaint against Musk.
+
+Twitter calls out Musk's flip-flop on bots
+
+In his letter seeking to terminate the deal, Musk accused Twitter of making "materially inaccurate" representations related to the number of fake and spam accounts on the platform, and of failing to provide him sufficient data to evaluate the issue. In its complaint, Twitter attempts to refute those claims by laying out how Musk went from wanting to buy the company in order to address bots to wanting to exit the deal because of bots.
+
+On April 9, the day Musk said he wanted to buy Twitter outright instead of joining its board, the suit alleges Musk texted Twitter board chair Bret Taylor to say that "'purging fake users' from the platform had to be done in the context of a private company because he believed that it would 'make the numbers look terrible,'" according to the filing. On April 21, days before the deal was signed, Musk tweeted: "If our twitter bid succeeds, we will defeat the spam bots or die trying!"
+
+Crucially, according to the complaint, "Musk made his offer without seeking any representation from Twitter regarding its estimates of spam or false accounts."
+
+In the weeks following the deal Musk began raising concerns that the number of spam and fake accounts might be higher than the 5% of monetizable daily active users (mDAU) that Twitter has publicly reported. On May 13, Twitter held a two-hour diligence meeting with Musk and explained that its spam estimation process entails a daily sampling of a total set of about 9,000 accounts per quarter that are manually reviewed, according to the complaint. Later that day, Musk tweeted that the company uses a random sample of 100 accounts to estimate the prevalence of spam accounts.
+
+Twitter — which, per the agreement, retained the right to determine whether an information request was "reasonable" — says it continued to try to share information with Musk including, on May 21, "a detailed summary document describing the process the company uses to estimate spam as a percentage of mDAU." However, Musk "exhibited little interest in understanding Twitter's process for estimating spam accounts," according to the complaint.
+
+"In a June 30 conversation with [Twitter CFO Ned] Segal, Musk acknowledged he had not read the detailed summary of Twitter's sampling process provided back in May," the complaint states. "Once again, Segal offered to spend time with Musk and review the detailed summary of Twitter's sampling process as the Twitter team had done with Musk's advisors. That meeting never occurred despite multiple attempts by Twitter."
+
+Poop emoji
+
+As part of the acquisition agreement, Musk agreed not to post tweets that "disparage the Company or any of its Representatives."
+
+Twitter's suit lists various instances of Musk appearing to disparage Twitter after the deal was inked. One such example: After Twitter CEO Parag Agrawal tweeted an explanation of the company's process for measuring spam accounts, "Musk responded with another disparaging Tweet," the complaint states. Inserted into the court filing is said tweet, which contains, simply, a poop emoji.
+
+Musk's thoughts about creating a Twitter competitor
+
+In the days before he revealed his large ownership stake in Twitter, Musk tweeted that he was giving "serious thought" to creating a rival social media platform. Apparently, he was also threatening to make such a move directly to Twitter leadership at the time.
+
+On March 26, Musk met with Twitter founder Jack Dorsey and board member Egon Durban to discuss "the future of social media and the prospect of Musk's joining the Twitter board," according to the complaint. "Soon after, Musk told Twitter CEO Parag Agrawal and Twitter board chair Bret Taylor that he had in mind three options relative to Twitter: join its board, take the company private, or start a competitor," the filing states.
+
+To due diligence or not to due diligence?
+
+There has been much focus on the point that Musk signed a binding agreement without first conducting due diligence into Twitter. In his Friday termination letter, Musk's lawyers pushed back on that idea, stressing that "he negotiated access and information rights within the Merger Agreement precisely so that he could review data and information that is important to Twitter's business before financing and completing the transaction."
+
+However, Twitter alleges that after initially making an offer contingent on due diligence, Musk obtained financing commitments for the deal and then submitted an updated offer on April 21 stating that his offer was "no longer subject to business due diligence."
+
+In his securities filings, Musk described his offer as "seller friendly." The company's complaint says "Twitter had taken Musk's claimed 'seller friendly' draft agreement and secured other key concessions to make it even more so. Not only were there no financing or diligence conditions, but Musk had already secured debt commitments that together with his personal equity commitment would suffice to fund the purchase."
+
+Disagreement over Twitter employees
+
+In his termination letter, Musk alleges that Twitter had violated its obligation to seek his consent before deviating from its commitment to conducting business in "the ordinary course" when it let go two senior executives last month and, more recently, when it announced it would lay off a third of its talent acquisition team.
+
+However, Twitter claims that as a part of the acquisition agreement, it negotiated the ability to hire and fire employees at all levels without seeking Musk's consent.
+
+"Musk's initial draft of the merger agreement would have deemed the hiring and firing of an employee at the level of vice president or above a presumptive violation of the ordinary course covenant absent Musk's consent," the complaint states. "Twitter successfully struck that provision before signing."
+
+Moreover, Twitter alleges that Musk has "withheld consent to two employee retention programs designed to keep selected top talent during a period of intense uncertainty generated in large part by Musk's erratic conduct and public disparagement of the company."

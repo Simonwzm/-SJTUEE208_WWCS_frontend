@@ -1,0 +1,11 @@
+New York (CNN Business) Meta on Thursday said it is testing expanded encryption features for Messenger and Instagram, days after the company came under scrutiny for providing messages to police in an abortion-related case.
+
+Facebook's parent company said it plans to test making chats end-to-end encrypted by default for some Messenger users and to make fully encrypted calls on the platform. It's also planning to expand tests of end-to-end encrypted messages and calls on Instagram.
+
+Meta FB said it's also testing a "secure storage" option for end-to-end encrypted conversations, which have been stored only on users' devices. The new storage service, which Meta says will become the default for storing encrypted conversations on Messenger, would allow users to back up their conversations with Facebook in case they lose their devices. The company said that it "won't have access to your messages" in secure storage. Meta says it is only able to see encrypted messages in live conversations or in secure storage if users report them, for example, with harassment concerns.
+
+The company has for years been working to expand and improve end-to-end encryption on its platforms, with the promise of ensuring that messages are only viewable by members of the conversation and not accessible by the company. These moves have sometimes received pushback from government officials who worry about the impact on law enforcement.
+
+WhatsApp, which is owned by Meta, already enables end-to-end encryption by default. Messenger mobile app users can currently opt-in to end-to-end encryption in conversations. The company has previously pledged to make end-to-end encryption the default for all messages and calls on its platforms globally in 2023, a promise it reiterated Thursday.
+
+Read More

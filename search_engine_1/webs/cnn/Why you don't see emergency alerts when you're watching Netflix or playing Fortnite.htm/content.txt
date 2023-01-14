@@ -1,0 +1,47 @@
+New York CNN Business —
+
+The federal emergency alert program was designed decades ago to interrupt your TV show or radio station and warn about impending danger — from severe weather events to acts of war.
+
+But people watch TV and listen to radio differently today. If a person is watching Netflix, listening to Spotify or playing a video game, for example, they might miss a critical emergency alert altogether.
+
+“More and more people are opting out of the traditional television services,” said Gregory Touhill, a cybersecurity expert who served at the Department of Homeland security and was the first-ever Federal Chief Information Security Officer. “There’s a huge population out there that needs to help us rethink how we do this.”
+
+Possible vs. practical
+
+Adding federal alerts to those platforms might not entirely be a technical issue, at least on the government’s end. The service has already been updated to include smartphones.
+
+And FEMA, the agency that manages the system’s technology, told CNN Business that there are “no known technical hurdles involved in transmitting alerts” to devices that are connected to the internet. In fact, the agency has a way to do that, according to a FEMA spokesperson.
+
+But a new tool would need to be developed to distribute alert information to streaming platforms. FEMA said the “unknown quantity” is figuring out who would develop and install the applications.
+
+That’s not a simple task, said Touhill, who’s now president of the cybersecurity firm Cyxtera Federal Group. He told CNN Business that the required tool would need to be “exquisitely complex.” It would need to be thoroughly tested and safeguarded to ensure that only authorized parties have access.
+
+“Is it possible? Yes. Is it practical? Maybe not,” Touhill told CNN Business.
+
+Another concern is whether devices connected to the internet are reliable indicators of a person’s location. Emergency alerts need to be able to target a specific area so that they only reach people who are at risk.
+
+People on the internet can be traced through their IP addresses — unique strings of numbers assigned to each device that are also associated with a specific set of geographic coordinates. That’s how companies like Netflix determine which language and content to show its customers.
+
+But those locations can be unreliable or easily manipulated, Touhill said.
+
+It’s also not clear that enough information is there in some cases. A source familiar with Netflix’s thinking told CNN Business that the company’s ability to pinpoint a customer’s exact location may vary depending on that person’s internet service provider. That means Netflix might not reliably know a person’s location with enough specificity to provide effective emergency alerts.
+
+Congress has considered some of these issues. Hawaii Senator Brian Schatz, a Democrat, proposed a bill last year that called for authorities to look into the feasibility of adding streaming services to the federal emergency alert system.
+
+The READI Act received bipartisan support and passed the Senate, but it died in the House. Schatz’s office told CNN Business this week that he plans to refile the bill for the current Congress.
+
+How to improve
+
+Adding streaming platforms to the alert system “is not a bad idea,” said National Weather Service senior meteorologist Kevin Laws.
+
+Laws is based in Birmingham and was part of a team that issued warnings to residents when tornadoes struck Alabama last Sunday. His team watches storms on a radar, and their predictions are automatically routed to FEMA’s alert system.
+
+But upgrades to the system are expensive and slow. Instead, Laws said he thinks alerts would be better helped through improvements to the type of information that authorities can share when a storm is in the area.
+
+His ideal scenario? A day when storms are tracked automatically and alerts are consistently updated to show residents percentage of the likelihood that they will be affected.
+
+Such a feature would have helped last Sunday, he said, when some storms were particularly strong and unpredictable. Some parts of Alabama received emergency warnings more than half an hour before they were hit. But when a deadly tornado unexpectedly veered toward Lee County, where the death toll reached 23 people, locals were only notified about nine minutes beforehand.
+
+“I’ve spent many tearful days out there doing this job. And it kills me a little more every time,” Laws said, adding that disasters like the one that hit the state will happen again.
+
+“We have to keep improving the system,” he said.

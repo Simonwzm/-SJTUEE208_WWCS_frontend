@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200618112830-doordash-restricted.jpg?q=x_465,y_382,h_850,w_1511,c_crop/w_800

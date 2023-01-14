@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191022040556-infosys-restricted.jpg?q=x_2,y_104,h_1123,w_1995,c_crop/w_800

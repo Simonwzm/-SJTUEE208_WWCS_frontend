@@ -1,0 +1,33 @@
+CNN Business —
+
+If there’s one company the pandemic has turned into a household name, it’s Zoom. Amid the continued state lockdowns, the video conferencing platform has become a lifeline for schools and businesses and a gathering place for virtual cocktail hours, birthday parties, workout classes and even weddings. And that hasn’t escaped the notice of some of the world’s biggest technology companies, including Facebook and Google.
+
+The two tech giants are now gunning for Zoom by ramping up their own group video apps, raising questions about whether they’ll be able to successfully eat Zoom’s lunch by leveraging the immense advantages they hold in scale and existing user loyalty. The added competition will also test whether Zoom has done enough to allay the privacy concerns that cropped up as its service was taking off.
+
+Facebook
+
+Facebook last week announced a new service it’s calling Messenger Rooms, which doesn’t require a Facebook account and allows up to 50 people to meet virtually for as long as they like. This week, Google said its video conferencing tool for businesses, Google Meet, will now be free to everyone with an email address — allowing up to 100 people to meet for as long as they like. By comparison, Zoom’s free tier allows 100 people to meet for up to 40 minutes at a time.
+
+The intensifying competition means consumers will have more choices for group video calls. But there are also long-term implications for the market and whether user demand will support multiple providers — or if a single winner will emerge.
+
+To measure its success, Zoom (ZM) has turned to a metric known as “daily meeting participants,” or the number of people Zoom (ZM) hosts in meetings during a given day. (It’s not quite the same metric as “daily users,” because one user can participate in several meetings throughout a day.)
+
+Last week, Zoom said it hosted 300 million meeting participants each day, up from 200 million per day in March, suggesting dramatic growth. Google (GOOG) isn’t far behind; last week, according to the company, Google (GOOG) Meet hit 100 million daily meeting participants. It’s early to be getting comparable numbers for Facebook (FB)’s Messenger Rooms, but the company said in its announcement that between WhatsApp and Facebook (FB) Messenger, 700 million accounts already participate in video calls each day.
+
+That makes Facebook in particular a massive competitor to Zoom with a large, built-in audience and a strong consumer brand.
+
+Shutterstock
+
+“It’s more likely that Facebook will be successful than Google,” said Laura Martin, an industry analyst at Needham & Co, “based on Google’s track record of late entries into other companies’ businesses, where its results have been anemic.”
+
+Zoom didn’t immediately respond to a request for comment on Facebook’s and Google’s offerings.
+
+Facebook has a history of aping popular features of its competitors and turning them into successful products given its scale. For example, its launch of Instagram Stories was widely viewed as an answer to Snapchat, whose growth subsequently slowed to a crawl.
+
+Whether Zoom faces the same fate is unclear. But some experts say video conferencing differs from pure social networking, where how many of your friends are also using the same service matters more.
+
+“Unlike a social network, a user doesn’t need to spend time replicating their hundreds of friend connections each time they join a new video call service,” said Charlotte Slaiman, a competition expert at the consumer advocacy group Public Knowledge. “As a result, consumers may be more willing to ‘multi-home,’ or use multiple services, on video calls.”
+
+Geoffrey Manne, a competition expert at the International Center for Law and Economics, said the video conferencing market could easily be defined by several strong players rather than a single, dominant company capitalizing on winner-take-all effects.
+
+“Barring some self-inflicted catastrophe,” he said, “I don’t see Zoom losing steam anytime soon.”

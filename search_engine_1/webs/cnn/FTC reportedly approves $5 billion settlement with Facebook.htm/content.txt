@@ -1,0 +1,31 @@
+New York CNN Business —
+
+The Federal Trade Commission has reportedly approved an approximately $5 billion settlement with Facebook (FB), suggesting a lengthy investigation into the social media company’s data privacy practices could be nearing an end.
+
+The FTC is said to have voted 3-2 in favor of the settlement, along party lines, The Wall Street Journal and The Washington Post both reported on Friday, citing unnamed sources familiar with the matter.
+
+The FTC and Facebook declined to comment on the reports.
+
+The federal agency first confirmed it was investigating Facebook’s privacy practices in the wake of the Cambridge Analytica scandal more than a year ago. Since then, Facebook has also come under public scrutiny for offering more of its users’ data to companies than it had previously admitted.
+
+Both incidents raised the prospect that Facebook had violated a 2011 consent agreement with the FTC which required the social network to have a “comprehensive privacy program” and to get the “express consent” of users before sharing their data.
+
+While this settlement would mark by far the largest penalty against a tech company, far in excess of the $22.5 million the FTC fined Google in 2012, investors nonetheless appeared to breathe a sigh of relief that it wasn’t bigger.
+
+Facebook stock ended Friday up nearly 2% after the Journal report was released.
+
+Facebook told investors in April that it expected fines from the investigation to be between $3 billion and $5 billion. It set aside $3 billion in legal expenses related to the investigation, cutting into its profits for the first three months of the year.
+
+“The FTC’s settlement is woefully insufficient in light of Facebook’s persistent privacy violations,” Sally Hubbard, director of strategic enforcement at the Open Markets Institute, an advocacy group generally skeptical of big tech, said in a statement. “The fine is a mere cost of doing business that makes breaking the law worth it for Facebook.”
+
+Former FTC officials told CNN Business the agency would feel more pressure to make a statement with its fine against Facebook in light of all the public attention the company’s data privacy scandals have received.
+
+“This has emerged as a powerful test of the FTC’s credibility as a privacy data protection authority,” William Kovacic, who chaired the FTC under former President George W. Bush, told CNN Business earlier this year. “If it seems to conclude this in a way that is weak, it will suffer tremendously.”
+
+But a fine is only one tool at the FTC’s disposal. The agency could also impose new restrictions on how Facebook handles user data and even seek to hold Facebook CEO Mark Zuckerberg personally accountable for privacy lapses, as had been rumored in recent months.
+
+There were no details about these or any other possible additional measures in Friday’s reports.
+
+“A 3-2 vote along party lines is definitely not ideal for an FTC settlement of this magnitude,” Ashkan Soltani, a former chief technologist at the FTC, wrote on Twitter Friday. Based on this breakdown, he speculated “the amount of direct liability on Zuckerberg is likely very limited.”
+
+– CNN Business’ Donie O’Sullivan contributed reporting.

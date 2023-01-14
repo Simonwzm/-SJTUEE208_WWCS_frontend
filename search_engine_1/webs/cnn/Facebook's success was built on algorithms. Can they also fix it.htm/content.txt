@@ -1,0 +1,55 @@
+(CNN Business) For billions of people around the world, Facebook can be a source for cute baby pictures, vaccine misinformation and everything in between — and all of it surfaces in our feeds with the help of algorithms.
+
+Now, hours of testimony and thousands of pages of documents from Facebook whistleblower Frances Haugen have renewed scrutiny of the impact Facebook and its algorithms have on teens, democracy and society at large. The fallout has raised the question of just how much Facebook, and perhaps platforms like it, can or should rethink using a bevy of algorithms to determine which pictures, videos and news users see.
+
+Haugen, a former Facebook product manager with a background in "algorithmic product management," has in her critiques mainly focused on the company's algorithm designed to show users content they're most likely to engage with. She has said this is responsible for many of Facebook's problems, including fueling polarization, misinformation and other toxic content. Facebook, she said on a "60 Minutes" appearance, understands that if it makes the algorithm safer, "people will spend less time on the site, they'll click on less ads, they'll make less money." (Facebook CEO Mark Zuckerberg has pushed back at the idea that the company prioritizes profit over users' safety and well being.)
+
+Facebook's head of global policy management, Monika Bickert, said in an interview with CNN after Haugen's Senate hearing on Tuesday, that it's "not true" that the company's algorithms are designed to promote inflammatory content, and that Facebook actually does "the opposite" by demoting so-called click-bait.
+
+At times in her testimony, Haugen appeared to suggest a radical rethinking of how the news feed should operate to address the issues she presented via extensive documentation from within the company. "I'm a strong proponent of chronological ranking, ordering by time," she said in her testimony before a Senate subcommittee last week. "Because I think we don't want computers deciding what we focus on."
+
+But algorithms that pick and choose what we see are central not just to Facebook but to numerous social media platforms that followed in Facebook's footsteps. TikTok, for example, would be unrecognizable without content-recommendation algorithms running the show. And the bigger the platform, the bigger the need for algorithms to sift and sort content.
+
+Algorithms are not going away. But there are ways for Facebook to improve them, experts in algorithms and artificial intelligence told CNN Business. It will, however, require something Facebook has so far appeared reluctant to offer (despite executive talking points): more transparency and control for users.
+
+A woman's hand holding an iPhone X to use facebook with login screen. Facebook is a largest social network and most popular social networking site in the world.
+
+What's in an algorithm?
+
+The Facebook you experience today, with a constant flow of algorithmically-picked information and ads, is a vastly different social network from what it was in its early days. In 2004, when Facebook first launched as a site for college students, it was both simpler and more tedious to navigate: If you wanted to see what friends were posting, you had to go visit their profiles one at a time.
+
+This began to shift in a major way in 2006, when Facebook introduced the News Feed , giving users a fire hose of updates from family, friends, and that guy they went on a couple bad dates with. From the start, Facebook reportedly used algorithms to filter content users saw in the News Feed. In a 2015 Time Magazine story , the company's chief product officer, Chris Cox, said curation was necessary even then because there was too much information to show it all to every user. Over time, Facebook's algorithms evolved, and users became accustomed to algorithms determining how Facebook content would be presented.
+
+An algorithm is a set of mathematical steps or instructions, particularly for a computer, telling it what to do with certain inputs to produce certain outputs. You can think of it as roughly akin to a recipe, where the ingredients are inputs and the final dish is the output. On Facebook and other social media sites, however, you and your actions — what you write or images you post — are the input. What the social network shows you — whether it's a post from your best friend or an ad for camping gear — is the output.
+
+At their best, these algorithms can help personalize feeds so users discover new people and content that matches their interests based on prior activity. At its worst, as Haugen and others have pointed out, they run the risk of directing people down troubling rabbit holes that can expose them to toxic content and misinformation. In either case, they keep people scrolling longer, potentially helping Facebook make more money by showing users more ads.
+
+Many algorithms work in concert to create the experience you see on Facebook, Instagram, and elsewhere online. This can make it even more complicated to tease out what's going on inside such systems, particularly in a large company like Facebook where multiple teams build various algorithms.
+
+"If some higher power were to go to Facebook and say, 'Fix the algorithm in XY,' that's really hard because they've become really complex systems with many many inputs, many weights, and they're like multiple systems working together," said Hilary Ross, a senior program manager at Harvard University's Berkman Klein Center for Internet & Society and manager of its Institute for Rebooting Social Media.
+
+More transparency
+
+There are ways to make these processes clearer and give users more say in how they work, though. Margaret Mitchell, who leads artificial intelligence ethics for AI model builder Hugging Face and formerly co-led Google's ethical AI team , thinks this could be done by allowing you to view details about why you're seeing what you're seeing on a social network, such as in response to the posts, ads, and other things you look at and interact with.
+
+"You can even imagine having some say in it. You might be able to select preferences for the kinds of things you want to be optimized for you," she said, such as how often you want to see content from your immediate family, high school friends, or baby pictures. All of those things may change over time. Why not let users control them?
+
+Transparency is key, she said, because it incentivizes good behavior from the social networks.
+
+Another way social networks could be pushed in the direction of increased transparency is by increasing independent auditing of their algorithmic practices, according to Sasha Costanza-Chock, director of research and design at the Algorithmic Justice League. They envision this as including fully independent researchers, investigative journalists, or people inside regulatory bodies — not social media companies themselves, or companies they hire — who have the knowledge, skills, and legal authority to demand access to algorithmic systems in order to ensure laws aren't violated and best practices are followed.
+
+James Mickens, a computer science professor at Harvard and co-director of the Berkman Klein Center's Institute for Rebooting Social Media, suggests looking to the ways elections can be audited without revealing private information about voters (such as who each person voted for) for insights about how algorithms may be audited and reformed. He thinks that could give some insights for building an audit system that would allow people outside of Facebook to provide oversight while protecting sensitive data.
+
+Other metrics for success
+
+A big hurdle, experts say, to making meaningful improvements is social networks' current focus on the importance of engagement, or the amount of time users spend scrolling, clicking, and otherwise interacting with social media posts and ads.
+
+Haugen revealed internal documents from Facebook that show the social network is aware that its "core product mechanics, such as virality, recommendations and optimizing for engagement, are a significant part" of why hate speech and misinformation "flourish" on its platform.
+
+Changing this is tricky, experts said, though several agreed that it may involve considering the feelings users have when using social media and not just the amount of time they spend using it.
+
+"Engagement is not a synonym for good mental health," said Mickens.
+
+Can algorithms truly help fix Facebook's problems, though? Mickens, at least, is hopeful the answer is yes. He does think they can be optimized more toward the public interest. "The question is: What will convince these companies to start thinking this way?" he said.
+
+In the past, some might have said it would require pressure from advertisers whose dollars support these platforms. But in her testimony, Haugen seemed to bet on a different answer: pressure from Congress.

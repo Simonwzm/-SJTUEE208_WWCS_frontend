@@ -1,0 +1,29 @@
+New York (CNN Business) T-Mobile has been popular with consumers, but an underdog when it comes to serving businesses. The "Uncarrier" wants to change that with the rollout of 5G .
+
+The company announced Thursday a series of of new offerings for business customers: corporate wireless plans with unlimited data and 5G access, cloud-based workplace communication tools and a "Home Office Internet" program.
+
+The new services aim to take advantage of not only T-Mobile's 5G network, but also the mass shift to working from home during the pandemic. 5G is the next generation wireless network technology that boasts faster speeds and higher bandwidth compared to existing 4G LTE networks.
+
+It's a big shift in strategy for the country's third-largest wireless carrier. In its announcement,acknowledged that competitors(CNN's parent company) andhold more than 90% of the enterprise wireless market.
+
+But T-Mobile is confident that it can make strong inroads into the enterprise 5G market, which it expects will total at least $40 billion by 2025. In fact enterprise applications, while perhaps less exciting for the average consumer, are expected to be the biggest revenue drivers for network operators — which have spent years and billions of dollars rolling out 5G.
+
+"We now have the resources and unmatched network not just to be in the game, but to change the game," CEO Mike Sievert said during a press conference Thursday.
+
+For the new corporate wireless plans with unlimited data and 5G access, T-Mobile says it will match the price of comparable plans from AT&T and Verizon that impose data limits. It also introduced T-Mobile Collaborate, a suite of cloud-based workplace communication tools for business customers, include video conferencing, automatic meeting transcription and other features.
+
+Its other new product is T-Mobile "Home Office Internet," a tool meant to replace workers' sometimes-spotty home internet connections. If a company subscribes to this service, T-Mobile will ship routers to its employees that connect directly to cell networks to provide internet to work devices — so remote workers won't have to share the same Wi-Fi connection with family members also stuck working or schooling from home.
+
+The enterprise business is one of the biggest potential growth areas for T-Mobile in the coming year, along with expanding its customer base in rural America, Mike Katz, executive vice president of T-Mobile for business, told CNN Business in an interview Thursday.
+
+New customer acquisition in T-Mobile's business-to-business segment grew 300% during 2020, and revenue from the segment climbed 200% over the same time frame. The company expects that growth to continue.
+
+"If you just look at the math ... [it will be] a $40 billion market in the next five years and T-Mobile has less than 10% of it, so we think there's a massive revenue expansion opportunity for us," Katz said.
+
+While AT&T and Verizon have discussed business uses for 5G such as factories with private networks full of connected robots that will make manufacturing safer, these often involve additional investment and infrastructure deployment. T-Mobile is working on those kinds of offerings, too, but Katz said the company is focusing on services that companies can put to immediate use — a need the pandemic put into sharp focus.
+
+"We're not going back to the way that we used to work," Katz said. "We wanted to have a suite of services that would allow employees leveraging the mobile network to work truly from anywhere,"
+
+For years, T-Mobile has trailed AT&T and Verizon in the enterprise business as it's been trying to grow and improve its own network, Katz said. But now T-Mobile's unique spectrum portfolio for 5G could give it the edge: It's well positioned to provide 5G business services that don't require being in a single centralized location, because it obtained a large chunk of "mid-band" spectrum as part of its acquisition of Sprint last year. AT&T and Verizon can't yet match that, he noted.
+
+"We think that gives us tremendous opportunity to grow the overall T-Mobile US business, through growing share in enterprise," Katz said.

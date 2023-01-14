@@ -1,0 +1,37 @@
+New York CNN Business —
+
+Larry Tesler, a pioneer of personal computing credited with creating the cut, copy and paste as well as the search and replace functions, has died. He was 74.
+
+Tesler was not nearly as well known as computing giants such as Bill Gates or Steve Jobs. But he played an early, central role in making computers accessible to people without computer engineering degrees, i.e. most of us.
+
+Xerox (XRX), the company for whom he developed the functions, tweeted out news of his death. “Your workday is easier thanks to his revolutionary ideas,” the company’s tweet said.
+
+The inventor of cut/copy & paste, find & replace, and more was former Xerox researcher Larry Tesler. Your workday is easier thanks to his revolutionary ideas. Larry passed away Monday, so please join us in celebrating him. Photo credit: Yahoo CC-By-2.0 https://t.co/MXijSIMgoA pic.twitter.com/kXfLFuOlon — Xerox (@Xerox) February 19, 2020
+
+Cut, copy and paste and search and replace functions are used millions of times a day without users thinking twice about how they were developed or by whom.
+
+But before Tesler’s work, computer users had to interact with clunky programs in different “modes,” where the same commands meant different things depending on how they were used. Even an expert like Tesler found that to be a problem.
+
+“Most interactive programs had modes, which always tripped me up,” he wrote in a 2012 paper about the development of copy, cut and paste. Tesler became a champion of eliminating modes from computer programs. His personal web site was nomodes.com.
+
+The elimination of modes opened the door to how computer users have interacted with personal computers for the last 40 years. Much of that work was done not at one of today’s tech giants, but at a computer lab at Xerox.
+
+Today most people know Xerox only as a maker of copiers, but in its heyday the company developed much of the technology that led to the personal computer: the mouse, a graphical user interface that allowed for more than lines of text on a screen. The work was done at the company’s Silicon Valley-based Xerox Palo Alto Research Center, or Xerox PARC.
+
+Tesler was at the center of those efforts, and is credited with coining the terms “friendly user interface” and “browser” during his time at Xerox.
+
+When Jobs visited Xerox PARC in 1979, he met with Tesler. “You’re sitting on a gold mine!” Tesler later recalled Jobs telling him. “Why aren’t you doing something with this technology? You could change the world!”
+
+Jobs was right: Xerox was not taking advantage of the pivotal research being done at Xerox Parc. So Apple (AAPL) to became the first to make broad use of the graphic user interface, as well as the mouse and other features. Tesler left Xerox for Apple (AAPL) in 1980, where he rose to the position of vice president and chief scientist.
+
+While there he helped to design the Macintosh computer, QuickTime and the Lisa computer, one of the first personal computers to use a graphical user interface. It was the Lisa that popularized the now-familiar copy, paste and undo shortcuts. (That’s C to copy, V to paste and Z to undo).
+
+“I have been mistakenly identified as the ‘father of the graphical user interface for the Macintosh,’” Tesler wrote on his website. “I was not. However, a paternity test might expose me as one of its many grandparents.”
+
+Tesler stayed at Apple until in 1997. In 2001 he joined Amazon (AMZN), where he served as vice president of shopping experience. He then went to Yahoo (YAHOF) in 2005, where he was vice president of user experience and design. He was issued numerous patents while working at those firms.
+
+Until his death, Tesler served as a consultant to companies like Western Union (WU) and note-taking app Evernote on how to improve their user experience on desktop and mobile. He was dedicated to innovating, simplifying, improving.
+
+“As is my personality, if I ever hear somebody say something’s impossible or extremely difficult, almost impossible, it’s a challenge and I always try to do it,” he said in an interview at Silicon Valley’s Computer History Museum in 2013.
+
+One thing he never overcame – his hatred of modes. He drove around California with the personalized license plate “NOMODES.”

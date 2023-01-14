@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/181012171008-06-segway-scooters.jpg?q=x_2,y_152,h_1235,w_2195,c_crop/w_800

@@ -1,0 +1,31 @@
+Hong Kong CNN Business —
+
+China’s leading search engine will soon be helping make deliveries for Walmart, bringing it into direct competition with Google’s driverless technology.
+
+California startup Udelv announced Tuesday that it will deploy self-driving vans using Baidu’s technology in Surprise, Arizona, as part of a pilot program to deliver fresh groceries for Walmart (WMT).
+
+Udelv has developed a fleet of autonomous delivery vans on Baidu’s (BIDU) open-source autonomous driving platform, Apollo.
+
+The partnership with Baidu comes amid heightened trade tensions between the United States and China, a lot of which are centered around advanced technologies, and highlights how companies from the two countries continue to work together.
+
+California startup Udelv has developed a fleet of autonomous delivery vans on Baidu's (BIDU) open-source autonomous driving platform, Apollo. corporatewalmart.com
+
+Udelv CEO Daniel Laury said using Apollo software helped speed up development of the company’s latest self-driving delivery van, dubbed the Newton.
+
+“Baidu’s Apollo brings us one step closer towards realizing our mission of reinventing delivery by bringing autonomous vehicles to the e-commerce industry,” Laury said in a statement.
+
+Udelv’s Newton “is a prime example of Apollo accelerating innovation and utility in the autonomous driving industry,” said Jingao Wang, head of Baidu’s Apollo platform.
+
+The self-driving delivery vans will be used by other US companies in San Mateo, California, and Houston, Texas.
+
+Baidu has been extremely bullish on artificial intelligence and wants to become an industry leader. Last year it became the first Chinese company to join a US-led alliance on AI that includes Silicon Valley’s biggest names, including Facebook (FB), Google (GOOGL), Amazon (AMZN), Microsoft (MSFT) and IBM (IBM).
+
+The tie-up with Udelv and Walmart will pit Baidu against one of its biggest autonomous driving rivals, Waymo.
+
+Walmart started running a pilot “chauffer” program with Waymo, the self-driving car division of Google’s parent company Alphabet, last year in Chandler, Arizona. Walmart customers order groceries online, and Waymo cars drive them to and from the store to pick up their goods. The US retailer also has a pilot program with Ford (F) to deliver groceries via autonomous cars in Miami, Florida.
+
+Baidu’s self-driving car unit is partly based in Silicon Valley, and the company was one of the first to apply for a license to test driverless cars in California. It got approval to start testing them in September 2016.
+
+The Chinese firm launched Apollo the following year and has attracted global brands like Volvo (VLKAF) and BMW (BMWYY) to join the open-source platform and help develop the technology driving it.
+
+Baidu said Apollo is currently used by about 12,000 developers worldwide.

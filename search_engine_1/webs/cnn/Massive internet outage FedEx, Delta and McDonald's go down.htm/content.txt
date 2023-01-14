@@ -1,0 +1,11 @@
+New York (CNN Business) A sweeping internet disruption on Thursday briefly took out a wide range of major corporate websites — from FedEx and Delta Air Lines to HSBC and McDonald's.
+
+Akamai AKAM Oracle ORCL The outages coincided with reports of system disruptions fromand, two key providers of internet infrastructure services
+
+Oracle said Thursday afternoon that its outage was the result of Akamai's service disruption.
+
+"We are monitoring a global issue related to a partner Edge DNS that is impacting access to many internet resources, including Oracle cloud properties," Oracle said.
+
+Akamai's Edge DNS service helps route web browsers to their correct destinations and also provides a security service.
+
+Read More

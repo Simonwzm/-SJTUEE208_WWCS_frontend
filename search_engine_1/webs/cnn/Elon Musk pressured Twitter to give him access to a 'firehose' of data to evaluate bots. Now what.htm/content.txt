@@ -1,0 +1,37 @@
+New York (CNN Business) Elon Musk spent weeks raising alarms that Twitter may have far more fake, spam and bot accounts than previously disclosed and threatening to abandon his $44 billion deal to buy the company if it didn't provide him with more information to evaluate the matter.
+
+Now, Twitter apparently plans to provide Musk with its "firehose" of data about tweets on the platform, according to recent reports from the Washington Post and the New York Times . The Twitter firehose is the real-time stream of the millions of public tweets posted on the platform daily and information on the accounts behind them, although it does not contain private information such as the IP addressfrom which the tweet was posted.
+
+Twitter may have been backed into a corner after Musk's lawyer argued he was being denied information to which he is entitled through the deal. But in handing over access to the data firehose,risks attempting to address one problem — Musk's questionable threats to ditch the acquisition over bot activity, which some analysts believe is simply a pretext to abandon a deal he now feels is overpriced — while possibly creating new issues.
+
+The seemingly unprecedented nature of sharing such data with Musk — an individual who doesn't work for the company, isn't a researcher and doesn't belong to the handful of companies who pay to access the data — could create a number of unknowns, from competitive risks to privacy concerns, some industry watchers note. And that's not to mention Musk's history of inflammatory and sometimes erratic behavior online and offline.
+
+"Musk in the past, we've seen he's an iconoclast, he loves to air grievances openly, on social media," said Inga Trauthig, a senior research fellow at the Center for Media Engagement at the University of Texas at Austin. Other companies have access to this data, she notes, but "surely they have extremely detailed NDA contracts. 'Will Musk have the same?' is the first part of the question, and the second will be, 'will he stick to them?'"
+
+In the letter requesting more data from Twitter, Musk's lawyer said the billionaire would ensure that "anyone reviewing the data is bound by a non-disclosure agreement" and would not "retain or otherwise use any competitively sensitive information if the transaction is not consummated." However, Musk tweeted just last month that Twitter's legal team had contacted him to "complain that I violated their NDA" with another comment he made about bots.
+
+Musk did not immediately respond to a request for comment. A Twitter spokesperson declined to comment on the report that the company will share the firehose with Musk but pointed to a previous statement saying the company has and would continue to proactively share information with Musk in accordance with the acquisition agreement.
+
+Beyond the unknowns of how exactly Musk will use the data, there are questions about what, if anything, Musk will be able to deduce from the data that the company itself cannot. Twitter regularly releases its own estimates of the number of bots on the platform, and has said such accounts make up less than 5% of monetizable daily active users. Among its social media peers, Twitter has historically been the most transparent about bot activity on its platform by making public disclosures, among other steps, according to Trauthig.
+
+That he is now suddenly fixated on bots as an issue "either means that Musk really was completely unaware of how social media works in general, and Twitter in particular, or this is some sort of political maneuvering," she said.
+
+Musk said at a Miami tech conference last month that he believes bots and fake users make up at least 20% of Twitter's user base, and perhaps as much as 90%. While some experts do think the presence of bots could be slightly higher than the company's estimates, most believe the number isn't as high as Musk has suggested.
+
+The exact number of bots seems "largely beside the point" if Musk's claim is that "due to his business acumen and technical knowledge ... he can make this company profitable and more useful," said Ryan Calo, a law professor at the University of Washington School of Law and a founding co-director of the UW Tech Policy Lab.
+
+Moreover, there is no clear definition of what a bot or spam or fake account is, and they're not all problematic — though Musk, who is known to have many spam accounts following him, has painted them broadly as a scourge. "I think that trust is extremely important and just for the usefulness of the system, getting rid of troll farms and bots and spammers is incredibly important," he told Twitter employees at a company town hall event Thursday.
+
+Typically, bots are considered to be accounts that use automated computer systems, in whole or in part, to post and interact with other users, according to Kaicheng Yang, who researches inauthentic actors on social media with the Indiana University Observatory on Social Media. Some automated accounts are harmless, like news update accounts or a Big Ben account that tweets "BONG" on the hour, every hour. And some accounts are run by humans who appear to intentionally mimic computer behavior to throw off other users.
+
+"We don't even have a clear definition of what we are talking about," said Yang, who created a tool called Botometer that examines the bot-like activity of Twitter accounts. He added that automation itself is not bad, "it's a feature that Twitter offers and does help in many cases, and sometimes it's just for entertainment."
+
+Twitter CEO Parag Agrawal referenced those inherent challenges in counting bots during a back-and-forth with Musk on Twitter last month. "Spam isn't just 'binary' (human / not human)," Agrawal tweeted . "The most advanced spam campaigns use combinations of coordinated humans + automation ... they are sophisticated and hard to catch." (Musk responded to Agrawal's tweet thread with a poop emoji.)
+
+Simply examining data on the tweets that are posted to Twitter may also leave out some bot or fake accounts that don't actually post to the platform. "One of the main ways that inauthentic behavior is used in the political environment is to make someone look more popular than they are by generating a bunch of random accounts and following them ... by getting access to the firehose, it doesn't even give you an accurate picture of inauthentic behavior that could be problematic," said Calo.
+
+"I think it defies imagination that Musk and his collaborators would be in a better position to give a good faith estimate of what the automated activity is," Calo said. "So, this is kind of like sharing a lot of information for no good reason, and whenever you do that, it raises concerns."
+
+Even if Musk comes up with a number of bots that makes him feel comfortable with completing the takeover deal for Twitter, it's not clear exactly what he'll do about the issue.
+
+During the town hall Thursday, Musk suggested that the company should authenticate users behind accounts in order to label accounts that are not automated — potentially by requiring them to sign up with Twitter's subscription service, Twitter Blue — and to promote content from those verified accounts. However, some online safety experts and Twitter employees have raised concerns that such a system could do away with the anonymity that allows, for example, users in certain countries to speak freely.

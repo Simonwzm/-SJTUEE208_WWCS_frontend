@@ -1,0 +1,51 @@
+New York CNN —
+
+Boeing’s Starliner spacecraft, which was slated to begin flying NASA astronauts to the International Space Station this year, faces new questions about safety after a botched test flight in December.
+
+On Friday, Boeing revealed that ground controllers lost contact with Starliner 37 times during the mission, and investigators are still working to determine how to correct those issues. The company also confirmed that it had failed to run a full simulation of how the spacecraft’s software would run during the two major stretches of the mission — from liftoff to docking with the International Space Station and from undocking to landing. Such testing could have potentially detected software problems that caused Starliner to stumble off its path toward the International Space Station, forcing it to make an early landing.
+
+Boeing said it had completed “extensive” testing of the spacecraft’s software ahead of the December test mission. But those tests only focused on isolated chunks of Starliner’s code, John Mulholland, manager of Boeing’s Starliner program, said during a briefing about the results of an independent investigation into what went wrong.
+
+Mulholland said the software testing team initially believed they were taking the best approach, and he insisted Boeing did not try to take shortcuts.
+
+“But obviously we have gaps to fill,” Mulholland added.
+
+He noted Boeing plans to run more comprehensive software tests going forward and will revise its protocols.
+
+Mulholland’s comments came after the Orlando Sentinel reported on Wednesday that members of an independent safety advisory panel were critical of Boeing for its failure to conduct a more complete end-to-end vetting of Starlliner’s software.
+
+NASA announced earlier this month that it would launch a full-scale safety review of the company’s work on Starliner. The inquiry is separate from the investigation into the problems that arose during the test mission. The space agency noted that there were “numerous instances where the Boeing software quality processes either should have or could have uncovered the defects.”
+
+It’s not clear whether Boeing will have to redo its uncrewed test flight before allowing astronauts on board. The company has already set aside $410 million to pay for a second test flight in case NASA orders one.
+
+Mulholland said that, at this point, Boeing and NASA believe they have identified how to correct and prevent the two major software errors that were identified during the December test flight. But the investigation isn’t over: Officials are still working to determine what caused Starliner’s communications issues, and they may not have answers until late March, a Boeing spokesperson said.
+
+The company previously revealed that Starliner flew through a communications blackout zone that prevented ground controllers from taking control of the spacecraft during crucial moments of the flight test. On Friday, Mulholland revealed Starliner encountered those dead periods dozens of times during flight.
+
+Boeing executives previously said those problems could have been caused by interference from cell towers on the ground. It’s not yet clear if Starliner’s on-board systems could be altered to avoid such interference.
+
+Boeing has worked for the past decade to prepare Starliner for crewed missions, ever since NASA retired its space shuttle program and asked the private sector to design spacecraft capable of ferrying astronauts to the International Space Station.
+
+The space agency allocated $4.2 billion to Boeing and $2.6 billion to SpaceX in 2014 for that task.
+
+Those contracts marked a new way of doing business for NASA: Rather than handling design and testing in house, as the space agency has done with all previous human spaceflight programs, it allowed the companies to design their own testing roadmaps.
+
+The space agency is still overseeing the process, and it signed off on Boeing’s work before Starliner’s December test flight.
+
+When asked for comment about the results of Starliner’s review that were shared Friday, a NASA spokesperson said the agency would address the investigation at a joint press conference on March 6.
+
+NASA initially hoped Boeing’s and SpaceX’s new vehicles would be up and running by 2017. Meanwhile, the space agency has paid Russia to fly American astronauts to the space station aboard Soyuz spacecraft.
+
+SpaceX’s Crew Dragon completed its last major testing milestone in January. The company now appears poised to gain approval from NASA to begin flying astronauts in the coming weeks or months.
+
+Starliner’s December test flight, a mission years in the making, was designed to show that the vehicle can safely dock with the International Space Station. But it quickly took a wrong turn.
+
+The vehicle failed to fire its engines at the correct moment, causing it to burn through precious fuel as it attempted to stabilize itself on a wayward course. Officials said the problem prevented Starliner from safely linking up with the space station, and the spacecraft was forced to land in New Mexico days before it was supposed to.
+
+NASA and Boeing officials said in the immediate aftermath that Starliner missed its engine burn because of a software error that caused its internal clock to be 11 hours off.
+
+At the time, NASA did not rule out allowing Starliner to launch its first-ever crewed mission without repeating the test flight. Boeing and NASA stressed that Starliner managed to demonstrate a safe landing and proved other key elements, such as its life support systems, functioned properly.
+
+Then, members of an independent safety advisory panel revealed in early February that Boeing had identified a second, potentially more severe software issue during the mission, though ground controllers were able to correct that error before it impacted Starliner’s performance. Boeing confirmed that information during a February 7 press conference.
+
+That error could have caused another misfire during the spacecraft’s return — specifically, when Starliner’s crew cabin separated from a cylindrical service module before landing, according to Boeing and NASA officials. They said that the coding error, if left undetected, could have caused the service module to ram into the crew capsule, potentially causing serious damage.

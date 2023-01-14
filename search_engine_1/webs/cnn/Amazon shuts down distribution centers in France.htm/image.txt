@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190819111357-amazon-france.jpg?q=x_4,y_56,h_2295,w_4078,c_crop/w_800

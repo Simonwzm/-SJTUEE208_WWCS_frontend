@@ -1,0 +1,59 @@
+New York (CNN Business) When Twitter suspended Marjorie Taylor Greene for a week last month for posting misinformation about Covid-19 vaccines, it may have sparked some déjà vu. The Republican congresswoman from Georgia had been kicked off the platform for 12 hours for the same violation just three weeks earlier. And six months before that, she was briefly suspended for sharing conspiracy theories about the Senate runoff elections in Georgia.
+
+Greene wasn't the only political figure taking a forced social media hiatus recently. YouTube suspended Senator Rand Paul the same week for posting false claims about Covid-19, triggering the first strike of the video sharing platform's misinformation policy. (Paul and Greene each claimed the platforms had violated their freedom of speech; however, free speech laws don't apply to private companies.)
+
+It is widely believed by misinformation researchers that one of the most powerful — if controversial — tools that social media platforms have in combating misinformation from public figures and lesser-known individuals alike is to kick the worst offenders off entirely. But before platforms take that step, they typically follow a more nuanced (and sometimes confusing) system of strike policies that can vary from platform to platform, issue to issue and even case by case. These policies often stay out of the spotlight until a high-profile suspension occurs.
+
+Some platforms have three-strike policies for specific violations, others use five strikes.doles out strikes separately for misinformation related to Covid-19 and civic integrity, which could give misinformation spreaders up to nine chances before being booted from the platform. On YouTube and, expiration timelines for strikes — 90 days and a year, respectively — could provide loopholes for people looking to post misinformation spread out over time, especially when using multiple accounts, experts say. And in some cases, strikes don't always amount to a ban.
+
+Many misinformation experts agree that social media platforms had to start somewhere, but such policies sometimes suffer from the perception that they were created only after things went wrong. And some critics question whether the confusing nature of these policies is a feature or a bug.
+
+"The most outrageous people, the most controversial people, the most conspiratorial people, are good for business. They drive engagement," said Hany Farid, a professor at the University of California Berkeley School of Information whose research focuses include misinformation. "So that's why I think there's this tug of war — we're going to slap you on the wrist, you can't post for a week, and then they come back and of course they do it again."
+
+Social media companies say the strike policies allow them to balance managing misinformation with educating users about their guidelines, and also ensuring their platforms remain open to diverse viewpoints. They also point to the millions of pieces of problematic content they have removed, and highlight efforts to boost the reach of reliable information to counteract the bad.
+
+"We developed our three strikes policy to balance terminating bad actors who repeatedly violate our community guidelines with making sure people have an opportunity to learn our policies and appeal decisions," said YouTube spokesperson Elena Hernandez. "We work hard to make these policies as understandable and transparent as possible, and we enforce them consistently across YouTube."
+
+In a statement, a Twitter spokesperson said: "As the Covid-19 pandemic evolves in the United States and around the world, we continue to iterate and expand our work accordingly. ... We're fully committed to protecting the integrity of the conversation occurring on Twitter, which includes both combatting Covid-19 misinformation through enforcement of our policies and elevating credible, reliable health information."
+
+Still, platforms continue to face criticism for hosting misinformation and for the limitations of their strike policies to stop the spread of it.
+
+Social media strike policies are "designed, in essence, to discourage people from spreading misinformation, but the effect it probably has is negligible," said Marc Ambinder, the counter-disinformation lead for USC's Election Cybersecurity Initiative. He added that the policies appear aimed more at average users accidentally posting bad information than strategic, frequent posters of misinformation.
+
+"What we know is that the most effective way the sites can reduce the spread of harmful misinformation is to identify the serial spreaders ... and throw them off their platform," he said.
+
+The strike rules
+
+For many years, social media platforms tried to avoid regulating what's true and false. And, to an extent, some remain uncomfortable with being the arbiters of truth. YouTube chief product officer Neal Mohan noted in a blog post last week that misinformation is not always "clear-cut." He added: "In the absence of certainty, should tech companies decide when and where to set boundaries in the murky territory of misinformation? My strong conviction is no."
+
+But the fallout from the 2016 US Presidential election , as well as the chaos around the 2020 election and the urgency of the Covid-19 pandemic, forced tech companies to take more steps to combat misnformation, including applying warning labels, removing content and, in Twitter's case, introducing various strike policies.
+
+Twitter first warned last year that repeated violations of its Covid-19 and civic integrity misinformation policies would result in permanent suspension, after coming under fire for its handling of both. In March 2021, it clarified and published its official strike system. Posts with severe policy violations that must be removed — such as misleading information meant to suppress voters — receive two strikes. Lesser violations that require only a warning label accrue just one. The first strike receives no consequences; two and three strikes each result in a 12-hour suspension; and four strikes means a seven-day suspension. After five or more strikes, the user is permanently banned from the platform.
+
+To make matters more complicated, users accumulate strikes for each issue separately: they get five chances on posting Covid-19 misinformation, and five chances on civic integrity. (For other rules violations, Twitter said it has a range of other enforcement options.)
+
+Facebook FB Other platforms' strike policies vary. YouTube's strike policy, which has been in effect for years, offers users three escalating consequences after an initial warning, culminating with a permanent suspension if they violate the platform's guidelines three times within a single 90-day period. On, for most violations, the company offers up to five strikes with escalating consequences, the final step being a 30-day suspension. (If a user continues violating after the fifth strike, they could keep receiving 30-day suspensions, unless they post more severe violations, which could get them kicked off.) Both companies' strike policies apply to breaches of their other guidelines, in addition to misinformation violations.
+
+Facebook publicly outlined its strike policy in June at the recommendation of its Oversight Board after a monthslong review of the company's decision to suspend former President Donald Trump following the insurrection at the US Capitol. The board criticized Facebook's lack of concrete policies and, as part of its decision, called for the company to "explain its strikes and penalties process."
+
+"Everything is reactionary," Farid said. "None of this has been thoughtful, and that's why the rules are such a mess and why no one can understand them."
+
+Both Facebook and YouTube say they may remove accounts after just one offense for severe violations. YouTube may also remove channels that it determines are entirely dedicated to violating its guidelines. And Facebook said it will remove accounts if a certain percentage of their content violates the company's policies, or if a certain number of their posts violate policies within a specific window of time, though it doesn't provide specifics "to avoid people gaming our systems."
+
+On Facebook and Instagram, it's somewhat less clear what constitutes a strike. If the company removes content that violates its guidelines (which include prohibitions of misinformation related to Covid-19 and vaccines and voter suppression), it "may" apply a strike to the account "depending on the severity of the content, and the context in which it was shared." Multiple pieces of violative content may also be removed at the same time and count for a single strike.
+
+"Generally you may get a strike for posting anything which goes against or Community Standards - for example - posting a piece of content which gets reported and removed as hate speech or bullying content," Facebook said in a statement. Separate from its guidelines enforcement, Facebook works with a team of third-party partners to fact check, label and, in some cases, reduce the reach and monetization opportunities of other content.
+
+Rep. Marjorie Taylor Greene could get kicked off Twitter for posting Covid-19 misinformation one more time, according to the platform's policies.
+
+Whack-a-mole
+
+In the same month that Twitter began enforcing its civic integrity misinformation policy, Greene received what appears to be her first known strike, with more to follow. Based on Twitter's policy, Greene's recent week-long suspension would represent her fourth strike on Covid-19 misinformation, but the company declined to confirm.
+
+According to Twitter's policy, Greene could be permanently banned from the platform if she violates its Covid-19 misinformation policy again. But the line between spreading misleading information and violating the policy can be murky, highlighting the ongoing challenges with making these policies work in stopping the spread of misinformation to users.
+
+Greene recently re-shared a post from another user that Twitter labeled "misleading" for its claims about Covid-19 vaccines, which doesn't count as a strike on Greene's account. Twitter said that while labeled tweets can't be retweeted, they can be "quote tweeted," a policy designed to allow other users to add context to the misleading information. However, it's possible to make a quote tweet without adding any additional words, which ends up looking basically identical to a retweet — thus further spreading the misleading content.
+
+The same video that got Paul suspended from YouTube for a week was shared as a link on his Twitter account, which directs users to a third-party website where they can watch it. Twitter said it takes action against links to third-party content that would violate its policies if it were posted to Twitter by either removing the tweet or adding a warning that users must click through before proceeding to the other site. No such warning has been applied to Paul's tweet with the video link , which a Twitter spokesperson said is not in violation of the platform's rules.
+
+"I don't necessarily envy the decisions ... that the platforms have to make," USC's Ambinder said. "But it does seem pretty clear that the volume and the vigilance of misinformation reduces itself in proportion to the number of serial misinformation spreaders who are deplatformed."

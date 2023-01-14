@@ -1,0 +1,11 @@
+(CNN Business) The next time you make a restaurant reservation through OpenTable, you may also be asked to prove you're vaccinated against Covid-19 with an app from Clear.
+
+The online restaurant reservation service said this week that when a user makes a reservation through its iPhone or Android apps they'll soon see a "Clear" banner atop their reservation confirmation if the restaurant has a vaccine requirement. Clicking on the banner will shuttle users to a page with information about signing up for a free digital vaccine card provided by Clear. OpenTable plans to add the feature to its iPhone and Android apps in September, with the hope it will make it easier for users to prove they're vaccinated.
+
+The announcement comes at a time when several cities — New York, San Francisco, and New Orleans — require proof of vaccination or a recent negative Covid test to enter certain kinds of indoor venues, such as restaurants, as the pandemic surges with the highly contagious Delta variant. Meanwhile, a growing number of businesses, including many restaurants, are instituting their own vaccine mandates. OpenTable currently lists on its website 450 restaurants across the United States that require indoor diners to be vaccinated against Covid.
+
+While Clear is better known for its program to speed travelers through airport security, it's among a slew of companies offering apps aimed at proving a person has been vaccinated against Covid. The digital vaccine card is part of Clear's existing mobile app, and it can store a picture of a US-based user's CDC Covid-19 vaccination record card and link to proof of vaccination from various vaccine providers and pharmacies.
+
+In order to sign up you must scan a passport or ID card and submit a selfie, as well as allow Clear to use facial-recognition technology to verify your identity. Those who sign up for the digital vaccine card don't have to be members of Clear's paid airport security product, which uses biometric data to identify travelers who use it.
+
+Read More

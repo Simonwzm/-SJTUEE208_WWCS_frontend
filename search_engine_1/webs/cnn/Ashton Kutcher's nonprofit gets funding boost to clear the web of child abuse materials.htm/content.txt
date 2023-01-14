@@ -1,0 +1,27 @@
+CNN Business —
+
+Ashton Kutcher’s organization devoted to protecting children from exploitation is getting a funding boost to help fuel its efforts to eradicate child sexual abuse materials from the internet.
+
+Thorn, the nonprofit co-founded by actor and tech investor Kutcher and actress Demi Moore, is one of eight new recipients that will get a portion of $280 million in funding from The Audacious Project. Launched by TED in 2018, The Audacious Project aims to supercharge social entrepreneurs and nonprofits seeking to bring about global change to help achieve an ambitious goal. In the case of Thorn, its goal is to eliminate online child sexual abuse materials in the next decade.
+
+Ashton Kutcher and Julie Cordua, Thorn CEO Bret Hartman/TED
+
+“Time is of the essence and capital helps us move faster. The funding allows us to internally build faster,” Kutcher wrote in an email to CNN Business. “This is no longer a blind unintended consequence of the democratization of information … We need to make it a priority.”
+
+Thorn has been tackling the intersection of child abuse and the Internet for the past seven years. Thorn helped create a software tool, Spotlight, which is used by hundreds of law enforcement agents across the United States and Canada to find child sexual abusers. Thorn has helped fuel collaboration among tech companies on the issue. In 2012, Thorn worked with companies such as Facebook and Google to create an “industry hash sharing system” to voluntarily share datasets of identified child abuse images in order to combat the spread on other platforms. The system was adopted by the National Center for Missing and Exploited Children.
+
+Still, there’s a lot of work to be done: Leveraging information available there can be difficult for small and medium sized companies that don’t have the resources to build their own content moderation systems. To address the gap, Thorn introduced a new tool, currently in beta, called Safer, that aims to help small and mid-size companies weed out child abuse content on their own platforms.
+
+With the new funding, Thorn said it hopes to scale Safer, and eventually charge for it to help diversify its revenue stream.
+
+Additionally, Thorn aims to expand its Spotlight product, as well as build out its research and development to stay on the forefront of new technologies and platforms being used by predators.
+
+In 2015, the organization announced its own innovation lab in Silicon Valley, where it would employ engineers and data scientists to experiment with new technologies to identify and deter criminal behavior directed at children online. At the time, the organization had just eight employees. Today, it has 36 employees but hopes to double in size over the next year, Thorn CEO Julie Cordua told CNN Business.
+
+Cordua says their audacious goal is “difficult” but “totally possible if we’re able to mobilize the field, the industry and governments around the world.”
+
+For a sense of scale of the issue: Last year, the National Center for Missing and Exploited Children CyberTipline says it received more than 18.4 million reports relating to apparent child sexual abuse images, online enticement known as sextortion, child sex trafficking and more. When tech companies become aware of child pornography on the platforms, they’re required by law to submit a report to the CyberTipline.
+
+Prior to the new funding, Thorn has raised about $27 million to date. The portion of the funding that will go directly to Thorn is undisclosed.
+
+More than 1,500 applications were submitted for consideration of The Audacious Project’s funding and support.

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190819140437-hong-kong-protests.jpg?q=x_3,y_99,h_1416,w_2517,c_crop/w_800

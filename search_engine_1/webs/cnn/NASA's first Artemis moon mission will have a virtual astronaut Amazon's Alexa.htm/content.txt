@@ -1,0 +1,43 @@
+New York (CNN Business) NASA's Artemis 1 mission , slated for take off as soon as this March, aims to send an Orion spacecraft around the moon. The cabin will be largely empty, save for an a interactive tablet that has been dubbed "Callisto," which will sit propped up to face an astronaut mannequin . Callisto is essentially a touch-screen device that features reconfigured versions of Alexa, Amazon's voice assistant, and Cisco's teleconferencing platform WebEx.
+
+Among the many aspects that will be closely watched on the ground — at least by the group behind this Alexa experiment — is how the virtual assistant performs in space. And if nothing else, it'll be some well-placed advertising.
+
+It's all part of a collaboration between, and, which built the Orion capsule for NASA. Lockheed approached the other two companies with the idea of developing a virtual assistant about three years ago, the companies said, and they are paying the full cost of including the virtual assistant on the Artemis 1 mission. Lockheed is also reimbursing NASA for any help the agency has lent on this project through an arrangement called a Space Act Agreement , which allows the space agency to be compensated for expertise or resources it gives to companies working on certain space-related projects.
+
+According to a Lockheed spokesperson, the estimated costs were about $2.1 million when the Space Act Agreement for this project was signed in 2018 , though Lockheed ultimately ended up paying NASA nearly $3 million.
+
+NASA was not involved in designing the system or selecting the partners that Lockheed brought together, the space agency told CNN Business.
+
+"Lockheed is leading the effort and we're happy to enable that in terms of providing a platform, just like we would do with other technology demonstrations that we think could hold future benefits," NASA's Orion Deputy Program Manager, Howard Hu, told CNN Business.
+
+The system, named Callisto after a companion of the goddess Artemis in Greek mythology, aims to one day make astronauts' jobs easier. For instance, they could use Alexa to adjust the cabin lighting while performing other tasks, or generally find long, arduous treks through space more enjoyable by being able to connect with loved ones back on Earth via WebEx, according to the companies.
+
+"[We] envision a future in which astronauts could turn to an onboard artificial intelligence, for information and for assistance and ultimately for companionship," Aaron Rubenson, vice president of Amazon's Alexa program, said.
+
+But Callisto isn't there yet. So far, NASA has only approved the use of Callisto on Artemis 1 and not for any future, crewed Artemis missions.
+
+Hu, the Orion deputy program manager, told CNN Business that the space agency is "evaluating all kinds of technology" and "looking at various ways to enable the astronauts to operate the vehicle more efficiently."
+
+"Certainly virtual assistants or assistants and AI will be part of that evaluation [for future missions] — whatever they may be, whether it's Callisto or something else," Hu said.
+
+Open questions
+
+The companies behind Callisto said the system has been thoroughly tested on the ground, but a lot of questions about how it will function remain. And whether future astronauts might some day find it to be an asset remains unknown. No Artemis astronauts have tested the system, even on the ground, as of yet, according to the companies.
+
+It's unclear, for example, how well the WebEx conferencing system will work. It should be noted that astronauts have always had the ability to communicate with people on the ground using existing communications systems. It's currently possible to set up a video chat with astronauts on the International Space Station , for example. But making contact with a hypersonic spacecraft flying more than two hundred thousand miles away from Earth is difficult and — at some points in the journey — will be impossible.
+
+But Cisco hopes WebEx can enhance astronauts' ability to communicate and coordinate with people on the ground, perhaps being used to set up meetings and conferences with multiple participants. That is, if an adequate connection can be established.
+
+Questionable internet connectivity also presents challenges for Alexa. Amazon smart speaker devices in people's homes need an internet connection to process queries and retrieve information. But Rubenson said the version of Alexa used for the Callisto system has been reconfigured to function largely offline — theoretically capable of giving future astronauts live updates on their flight trajectory, for example — but the system would still need a connection if astronauts were to ask for up-to-date information on Earthly goings on.
+
+Alexa will be able to access real-time telemetry data and answer certain questions about the mission, like how fast the capsule is traveling. However, the AI will be able to control only one aspect of the Artemis 1 flight: the cabin lighting. Though, the Callisto team imagines a future in which the system could be configured to control other hardware, such as cameras.
+
+The Callisto demonstration payload is a partnership between Lockheed Martin, Amazon and Cisco. The Callisto technology demonstration will be integrated into NASA's Orion spacecraft for the Artemis I uncrewed mission to the Moon. Callisto uses Amazon Alexa and Webex by Cisco to test and demonstrate commercial technology for deep space voice, video and whiteboarding communications.
+
+If all else fails, the mission will give Amazon some strategic product placement. For over a decade, NASA has encouraged the commercial use of outer space as one of its primary goals. And this project does come with some of the trimmings of a corporate PR push.
+
+Amazon is rolling out a new feature for people who have an Alexa-enabled device at home, for example. By using the command "Alexa, take me to the Moon," users will be able to get live updates on the Artemis 1 mission.
+
+"We want to use Alexa's role in this mission to to raise awareness of space and...ultimately to inspire the next generation of enthusiasts and engineers," Rubenson said.
+
+But whether Callisto proves itself potentially useful for future missions or not, it will have achieved one goal. "It is a very photogenic payload," said Rob Chambers, Lockheed Martin's director of commercial civil space strategy.

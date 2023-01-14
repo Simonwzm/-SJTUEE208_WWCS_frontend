@@ -1,0 +1,65 @@
+CNN Business —
+
+The most powerful figures in tech were hit with tough questions and documents that raised concerns about their competitive tactics during a high-profile antitrust hearing on Wednesday.
+
+Of the tech titans, which included the CEOs of Amazon (AMZN), Apple (AAPL), Facebook (FB) and Google (GOOGL), some fared better than others in the first hours of the hearing.
+
+Jeff Bezos, Amazon’s CEO, acknowledged, albeit earnestly and transparently, that Amazon may have improperly used third-party seller data to inform its own product decisions – a key concern over the company’s approach to competition.
+
+Apple CEO Tim Cook, on the other hand, got off pretty lightly. Despite some early questions about whether Apple favors certain developers on its App Store, there were relatively few questions about Apple’s App Store guidelines for developers, which have been a main complaint among critics.
+
+For over a year, top lawmakers in Congress have been investigating the four tech giants to determine whether the companies have abused their power and dominance in the online marketplace. Wednesday’s event marked the culmination of that process and is the biggest hearing of its kind since Microsoft’s Bill Gates went to Washington in 1998.
+
+Here are big takeaways from the event:
+
+Jeff Bezos has a mixed first appearance in Congress
+
+Of the four CEOs at the hearing, Bezos’ testimony was arguably the most highly anticipated as the world’s richest person had never appeared before Congress.
+
+After avoiding any questioning for the first two hours of the hearing, Bezos fielded multiple sharp questions on Amazon’s approach to pricing, acquisitions and how it uses data from third-party sellers.
+
+Bezos acknowledged that there is a policy that prohibits the use of third-party seller data to support Amazon’s own private-label business. But, he admitted, “I can’t guarantee you that policy has never been violated.”
+
+At various times in the hearing, Bezos either said he couldn’t answer the question or couldn’t recall the incident he was being questioned about.
+
+Facebook’s billion-dollar acquisition of Instagram comes under scrutiny
+
+Facebook CEO Mark Zuckerberg was confronted about internal company emails he sent in 2012 about buying Instagram. The emails were acquired by the House Judiciary Committee as part of its antitrust investigation.
+
+In one email, Zuckerberg said Instagram could be “very disruptive” to Facebook. An email from Facebook’s chief financial officer referenced neutralizing a potential competitor, which Zuckerberg replied was part of the motivation.
+
+Rep. Jerry Nadler said the emails showed Facebook viewed Instagram as a threat and, rather than compete with it, his company bought it.
+
+In response, Zuckerberg did not deny he viewed Instagram as a threat, but pointed out that the deal was approved by the Federal Trade Commission at the time.
+
+Under fire, tech CEOs appeal to American patriotism
+
+All the tech executives sought to drive home the point that their companies are by America, for America.
+
+Bezos referenced the “trust” Americans have in Amazon. “We need American workers to get products to American customers,” he said in his prepared remarks.
+
+“Apple is a uniquely American company whose success is only possible in this country,” Cook said in his remarks, touting the number of US jobs it has helped create.
+
+And the US battle with China for tech supremacy informed part of Zuckerberg’s argument.
+
+“If you look at where the top technology companies come from, a decade ago the vast majority were American,” the Facebook CEO said. “Today, almost half are Chinese.”
+
+The partisan divide over tech returns
+
+While Democrats largely went after the tech CEOs for their use of data and behavior toward competitors, Republicans during the hearing consistently alleged a pattern of anti-conservative bias by the tech companies, despite little more than anecdotal evidence.
+
+GOP lawmakers’ strategy seems clear: to encourage the media to cover claims of ideological bias as equivalent in gravity and stature to antitrust issues. But researchers have consistently failed to turn up evidence of systemic bias on the part of the platforms’ technology.
+
+At one point, Rep. Gregory Steube, a Florida Republican, confronted Google CEO Sundar Pichai, portraying as an example of bias what may have been a simple technical problem. Steube said his congressional campaign emails to supporters, including his parents, have often been blocked or sent to Gmail’s spam folder.
+
+“There’s nothing in the algorithm that has anything to do with political ideology,” Pichai said. “We do get complaints across the aisle.”
+
+Few fireworks
+
+While there were some fireworks between Democrats and Republicans, the overall drama of the hearing was restrained due to the highly technical nature of some of the questions.
+
+Many consumers will not have the context to understand why some of the exchanges, which were the product of a lengthy investigation into the nuts and bolts of their businesses, mattered.
+
+But that doesn’t necessarily mean the hearing was a failure. The ultimate impact of it will depend on what steps Congress takes or recommends to address the antitrust concerns that led to the hearing in the first place.
+
+— Donie O’Sullivan, Kaya Yurieff and Rishi Iyengar contributed to this report

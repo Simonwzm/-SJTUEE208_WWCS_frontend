@@ -1,0 +1,49 @@
+(CNN Business) The biggest news this week in the criminal trial of Elizabeth Holmes is that the government expects to rest its case against the former CEO and founder of failed blood testing company Theranos in a matter of days.
+
+In a surprise disclosure after jurors were excused for a long weekend, assistant US Attorney Jeffrey Schenk said the government will likely rest its case against Holmes sometime next week, which will mark the eleventh of the trial and is slated to be a marathon, with court in session all five days.
+
+In anticipation, Schenk asked the defense to privately share the first witnesses it expects to call, something the government has been providing to the defense each week but is not disclosed publicly.
+
+Holmes, once hailed as the next Steve Jobs, faces a dozen federal fraud charges over allegations that she knowingly misled investors, doctors, and patients about her company's blood testing capabilities in order to take their money. Holmes has pleaded not guilty and faces up to 20 years in prison. Whether jurors will get to hear from Holmes herself remains an open question. She's listed as a possible defense witness.
+
+Here are some other highlights from week 10 of the trial, where court was in session for just two days.
+
+Theranos' final lab director testifies
+
+Jurors heard from Theranos' final laboratory director, Dr. Kingshuk Das -- the fourth lab director to take the stand in the trial.
+
+Like other former employees, Das, a pathologist, testified that he'd been excited to join Theranos, even though he was hired in December 2015, when there was much scrutiny surrounding the company following a damning Wall Street Journal report . He said he still believed in the mission when he was laid off in mid-2018, shortly before Theranos shuttered entirely.
+
+Das, who previously worked at UCLA, testified that soon after he was hired, his primary responsibility became addressing a 121-page deficiencies report from the Centers for Medicare and Medicaid Services following its audit of the company's lab in the fall of 2015. Das ultimately recommended the company void two years of test results, or roughly 50,000 to 60,000 tests, from its proprietary Edison blood analyzer machines.
+
+While Das testified that Holmes didn't push back on voiding the tests, he said she did provide an "alternative explanation" for why they should be voided: Quality control issues, not its machines. Das testified he disagreed with that reasoning. Das also testified that Holmes presented an "alternative explanation" for why Theranos' device had detected a prostate-specific antigen in women even though women do not have prostates. When he raised the issue to her, she said it may have shown up in some women with breast cancer. Das said he found the explanation "implausible."
+
+In cross examination of Das, Holmes' defense attorney Lance Wade tried to position him as part of Holmes' effort to overhaul its clinical lab operations, focusing on the latitude that Holmes gave him to dig into and clean up issues.
+
+Through Das, Wade pointed the finger at past lab directors, and Ramesh "Sunny" Balwani, Theranos' former COO and Holmes' ex-boyfriend who will face the same charges in a separate trial slated to begin next year. (Balwani has pleaded not guilty.) Das, Wade pointed out, reported to Holmes -- one of several structural changes meant to illustrate she was attempting to address problems.
+
+The prosecution poked holes in this framing in re-direct examination when Das testified he hadn't been made aware regulators conducted an audit when he interviewed with Holmes for the job, or in his initial weeks at Theranos.
+
+A frustrated investor takes the stand
+
+It was clear in email exchanges shown in court that Holmes grew to consider early investor Alan Eisenman a nuisance.
+
+Eisenman, a retired money manager who took the stand on Wednesday, said his family invested roughly $1.2 million in the company. About $1.1 million of that came in 2006, after he was introduced to Theranos by a friend who was a financial adviser to the Holmes family. "He told me Elizabeth was brilliant," Eisenman said.
+
+He testified that Holmes was his source of information about the company. He said there were a number of factors that led to his decision to invest, including that Oracle's Larry Ellison was a board member and investor, that he was told the company had several contracts with major pharmaceutical companies, and revenue projections Holmes provided.
+
+For several years, he had quarterly calls with Holmes, but that stopped in mid-2010. Jurors learned that after Eisenman inquired via email about setting up their next call and asked for updated projections on the number of testing cartridges Theranos expected to sell (a metric Holmes had previously provided), the tension was palpable. He didn't get a reply and followed up. Holmes replied : "June is a tough month for us and I don't know when we can do our next call. As you know, we don't do quarterly calls with our other investors, many of whom invested greater amounts than you did, and I cannot commit to an exact quarterly schedule going forward. As discussed in our call in March, we cannot provide the level of communication you keep requesting."
+
+"Given your frustration level and our frustration level with this interaction, I strongly encourage you to re-consider the opportunity to realize the return on your investment," she continued.
+
+Eisenman testified that while he was given the opportunity to exit then, he didn't. He sought information from Theranos' chairman of the board, Donald Lucas. The inquiry was forwarded to Holmes, who reprimanded Eisenman. "We have communicated about this multiple times before yet you choose to continue going down this path," she wrote. Eisenman testified that this outreach on his part "was not taken very kindly by Elizabeth."
+
+Despite no direct interaction with Holmes thereafter, he received an email to stockholders in late 2013 that the company was raising a new round of financing to help scale to consumers and decided to invest again. Eisenman testified that he'd read a glowing Wall Street Journal opinion article, which has been repeatedly shown in the courtroom, and presumed that its technology was working.
+
+Eisenman When he emailed that he wanted to have a call ahead of investing, despite years of failing to get the company to communicate, Balwani quickly replied and agreed to speak. Eisenman testified that he was shocked by the sudden change. However, the relationship took a turn for the worse again whenEisenman started asking for a business update and possibly exiting his investment. Eisenman is set to resume his testimony next week.
+
+High-profile trial hit by yet another delay
+
+This week, a technology issue arose and further delayed the criminal trial by roughly two hours. The court's computer displays used to present exhibits for jurors failed to work Tuesday morning. The court temporarily addressed the problem by setting up a lamp on the witness stand, dimming the lights, and using a projector to display exhibits on a courtroom wall.
+
+Judge Edward Davila explained the setup and inquired whether anyone had trouble viewing the exhibits in this manner. One juror excused himself to claim his glasses. "I'm very embarrassed that our courtroom has had these problems," the judge said. The displays were working as normal on Wednesday.

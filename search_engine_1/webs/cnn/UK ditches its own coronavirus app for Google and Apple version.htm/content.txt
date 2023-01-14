@@ -1,0 +1,19 @@
+London CNN Business —
+
+The British government is abandoning its attempt to develop a coronavirus tracing app from scratch and will instead build a new one based on a system created by Google and Apple.
+
+The new smartphone app will incorporate some of lessons the UK government has learned from working on its own app, such as how to better estimate the distance between users. The government did not give a roll out date.
+
+“This is an important step allowing us to develop an app that will bring together the functionality required to carry out contact tracing, but also making it easy to order tests, and access proactive advice and guidance to aid self-isolation,” the government said in a statement on Thursday.
+
+The about-face comes after the roll out of the UK app, which was being developed by the country’s National Health Service and two outside firms, was repeatedly delayed. Government ministers initially lauded the NHS app as key to helping the country out of lockdown, in addition to deploying thousands of people to track and trace the infection.
+
+In early May, the app began a trial run on the Isle of Wight, and it was supposed to be released nationally a few weeks later. That deadline was moved back several times, until government ministers stopped giving a timeline.
+
+Health Secretary Matt Hancock said in a statement on Thursday that the government has always been “willing to back innovative solutions and to be ambitious.”
+
+Most coronavirus exposure tracing apps work by using Bluetooth to record when a phone has been in proximity to another phone for an extended period of time. If a person is diagnosed with coronavirus and inputs that information into the app, it alerts those other phones.
+
+Initially, the United Kingdom chose to make its own app partly because the Google (GOOGL) and Apple (AAPL) system does not allow governments to store data centrally, which can help public health experts study outbreaks. Instead, it stores data locally on each phone, which the tech companies say is better for privacy.
+
+Germany ditched its own tracing app in late April in favor of the Google and Apple system.

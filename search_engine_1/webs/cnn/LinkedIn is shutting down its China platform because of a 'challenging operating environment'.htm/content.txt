@@ -1,0 +1,11 @@
+(CNN Business) LinkedIn will shut down the local version of its service in China, marking a significant retreat for one of the few large US tech firms still operating in the country.
+
+Microsoft MSFT The career networking platform, owned by, made the decision because of a "significantly more challenging operating environment and greater compliance requirements in China," Mohak Shroff, senior vice president of engineering at LinkedIn, said in a blog post Thursday.
+
+The company will instead roll out a new platform called InJobs later this year, a China-only portal that will "not include a social feed or the ability to share posts or articles" but simply serve as a portal to list and apply for jobs.
+
+"While we've found success in helping Chinese members find jobs and economic opportunity, we have not found that same level of success in the more social aspects of sharing and staying informed," Shroff said.
+
+Operating in China has always been challenging for private companies, but the screws have tightened further in the past year under Chinese President Xi Jinping. A sweeping regulatory crackdown in recent months has wiped an estimated $3 trillion off the market value of China's biggest firms.
+
+Read More

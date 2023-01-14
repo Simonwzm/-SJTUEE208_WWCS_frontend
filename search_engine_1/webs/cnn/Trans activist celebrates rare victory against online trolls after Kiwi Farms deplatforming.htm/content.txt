@@ -1,0 +1,63 @@
+Belfast, Northern Ireland (CNN Business) Clara Sorrenti, a trans activist who was forced to flee her home in Canada after users of a hate-filled website targeted her, has succeeded in her campaign to get the site taken offline, for now.
+
+Sorrenti, better known by her online username "Keffals," became the target of a harassment campaign organized on Kiwi Farms, a notorious online forum where users are openly transphobic, after she began speaking about trans rights on Twitch, a live video streaming platform popular with video gamers.
+
+"When you get your own thread on Kiwi Farms it means there are enough people who are interested in engaging in a long-term harassment campaign against you," Sorrenti told CNN in an interview Monday, explaining how she became a target of Kiwi Farms users.
+
+"The first thing that they did when my thread opened was find the obituary for my dead father and use it to find his memorialized Facebook page," she explained. "They were able to find a picture of my dad on the front porch of my childhood home and from that use Google Maps and figure out where that was located."
+
+What followed was months of abuse and threats, eventually leading to armed police showing up at Sorrenti's home in Ontario after trolls called in a fake emergency, a harassment tactic known as swatting that has led to people being killed.
+
+When the trolling and harassment continued, and with more information about her location available to the trolls, she decided to leave Canada and stay with a friend and fellow trans activist in Belfast, Northern Ireland. But the trolls tracked her down here, too.
+
+Online trolls tracked Sorrenti to Belfast. One took this photo full of slurs in front of the building where she's staying.
+
+"Exhausted" by running, Sorrenti eventually decided to launch a campaign to get Kiwi Farms kicked off the internet.
+
+What Sorrenti did, and the questions she raised, may well be the next frontier in the debate about what major internet companies should do about online hate and harassment campaigns that are organized with the support of their services.
+
+While much of the focus in recent years has been on social media sites like Facebook and Twitter, other internet service companies are now facing scrutiny as well.
+
+Getting a website removed from the internet is not a simple task. It's certainly not as easy, as say, reporting a hateful Twitter or Facebook account, a situation in which a single company can make a decision about what to allow on their platform. The internet as a whole is much more free and unregulated.
+
+But websites don't get or stay online by themselves -- they rely on companies that provide hosting, cybersecurity and other services. Now, campaigners like Sorrenti say, it's time that those providers also take responsibility for hateful and violent threats online.
+
+One such company, which has been prominent in the discussion about Kiwi Farms, is Cloudflare, a major American firm.
+
+Cloudflare offers a suite of services, but in the case of Kiwi Farms it was neither a platform nor a host. Instead, Kiwi Farms used Cloudflare's security services to protect it from cyber-attacks. Those kinds of services are crucial to keeping a website online; if Cloudflare blocks its services to a site it can essentially take it offline, at least until the site finds another provider.
+
+In 2019, Cloudflare pulled its support for 8chan, another hate-filled forum, after it was linked to a shooting in El Paso, Texas, that killed 23 people. Cloudflare also blocked the neo-Nazi website The Daily Stormer from using its services in 2017.
+
+But Matthew Prince, the CEO of Cloudflare, has long expressed discomfort about the potential role his company could be put in if deciding what can and cannot be online. Prince's position is frequently echoed by others in Silicon Valley who argue it shouldn't be up to them to police speech online.
+
+Cloudflare initially indicated last week that it would not act against Kiwi Farms, explaining in a blogpost what it viewed as the unintended consequences of it pulling support for 8chan and The Daily Stormer.
+
+The post did not reference Kiwi Farms directly, but Cloudflare said its decisions to stop providing support to 8chan in 2019, and to the neo-Nazi website The Daily Stormer in 2017, had unintended consequences.
+
+"In a deeply troubling response, after both terminations we saw a dramatic increase in authoritarian regimes attempting to have us terminate security services for human rights organizations," the blog post read.
+
+But by Saturday, amid a wave of media attention to Kiwi Farms following an NBC report about the site, Cloudflare changed its position, deciding to stop providing services to Kiwi Farms, citing "imminent threats to human life."
+
+After Cloudflare pulled its support, Kiwi Farms was temporarily inaccessible but was soon back online with the support of a Russian internet services company, DDos-Guard. (DDos is a type of cyber attack that can make websites inaccessible.)
+
+But on Monday, DDos-Guard blocked Kiwi Farms, too.
+
+DDos-Guard issued a statement in which it explained, "We want to emphasize that access to our services is available to any customer, even without managers' involvement. This is how Kiwi Farms activated the DDoS protection service. Then we came back after the weekend and got into the spotlight."
+
+Clara Sorrenti
+
+"We do not moderate content posted on customer sites, as we are not Facebook and do not aspire to become one," the company said, but added "there are some things that we find unacceptable under any circumstance."
+
+Alissa Starzak, Cloudflare's global head of public policy, told CNN Monday there needs to be a more "holistic" approach to tackling online hate.
+
+"We really do need long term solutions because removal of security services," she said, "does not address long term the threat of online harassment or escalating violence or certainly not death threats."
+
+"I think I understand where they're coming from," Sorrenti said of Cloudflare's initial response. "They don't want to see a future where companies can decide, 'I like this site. It should be on the internet. I don't like this site. It shouldn't,' but I don't think this is a matter of free speech."
+
+"When it gets into the point where a website is a threat to people's lives, it should absolutely be pulled from the internet," she added.
+
+The actions by Cloudflare and DDos-Guard have essentially taken Kiwi Farms offline, at least for now.
+
+Sorrenti knows that all the trolls won't go away just because the site is offline, but she hopes it will be harder for them to mobilize.
+
+"By showing them that we can organize against this type of online harassment and succeed in doing so, there's going to be a chilling effect on this," she said.

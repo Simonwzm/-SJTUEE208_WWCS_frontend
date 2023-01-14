@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200917160446-iss-file.jpg?q=x_55,y_131,h_1095,w_1945,c_crop/w_800

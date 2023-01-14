@@ -1,0 +1,67 @@
+Dublin, Ireland CNN Business —
+
+Artificially-generated faces of people who don’t exist are being used to front fake Facebook (FB) accounts in an attempt to trick users and game the company’s systems, the social media network said Friday. Experts who reviewed the accounts say it is the first time they have seen fake images like this being used at scale as part of a single social media campaign.
+
+The accounts, which were removed by Facebook on Friday, were part of a network that generally posted in support of President Trump and against the Chinese government, experts who reviewed the accounts said. Many of the accounts promoted links to a Facebook page and website called “The BL.” Facebook said the accounts were tied to the US-based Epoch Media Group, which owns The Epoch Times newspaper, a paper tied to the Falun Gong movement that is similarly pro-Trump.
+
+The publisher of the Epoch Times denied that Epoch and The BL were linked in emails to the fact-checking organization Snopes earlier this year.
+
+In a statement released after this story initially published on Friday, Epoch Times publisher Stephen Gregory said, “The Epoch Times and The BL media companies are unaffiliated. The BL was founded by a former employee, and employs some of our former employees. However, that some of our former employees work for BL is not evidence of any connection between the two organizations.
+
+“The BL is a publication of Epoch Times Vietnam. As can be seen in archived pages of The Epoch Times website, Epoch Times Vietnam was no longer listed as part of Epoch Media Group in October 2018.”
+
+In response, a Facebook spokesperson told CNN Business that executives at The BL were active administrators on Epoch Media Group Pages as recently as Friday morning.
+
+The dystopian revelation of the use of artificially-generated images in this way points to an increasingly complicated online information landscape as America enters a presidential election year. Silicon Valley and the US intelligence community are still struggling with the fallout from widespread online interference in the 2016 presidential election.
+
+The Facebook accounts used profile pictures that appeared to show real people smiling and looking directly into a camera. But the people do not and have never existed, according to Facebook and other researchers. The images were created using artificial intelligence technology. The same basic methods are used to produce deepfake videos — fake videos that the US intelligence community has warned could be used as part of a foreign disinformation campaign targeting Americans.
+
+Other fake accounts that were part of the same network used stolen pictures of real people, according to the social media investigations company Graphika and the thinktank the Atlantic Council. Facebook provided information to Graphika and the Atlantic Council for analysis in advance of Friday’s announcement.
+
+The accounts were used to run dozens of pro-Trump Facebook groups with names like “America Needs President Trump,” and “WE STAND WITH TRUMP & PENCE!,” according to Graphika and the Atlantic Council.
+
+The fact-checking organizations Snopes and Lead Stories had reported in recent weeks and months about the use of artificial images on Facebook that were part of this network of accounts. Snopes published a story last week criticizing Facebook’s apparent inaction on the issue. Facebook said Friday it had “benefited from open source reporting” in the takedown but said that its own systems that monitor for coordinated and inauthentic behavior had proactively identified many of the accounts.
+
+In a joint report on their findings, Graphika and the Atlantic Council outlined how they were able to determine which of the profile photos had been generated using artificial intelligence. “This technology is rapidly evolving toward generating more believable pictures, but a few indicators still give these profile pictures away,” they said.
+
+Images generated using artificial intelligence, specifically by a machine-learning method known as a GAN, or generative adversarial network, are “notorious for struggling with features that should be symmetrical on the human face, such as glasses or earrings, and with background details. Profile pictures from the network showed telltales of all three.”
+
+GANs consist of two neural networks — which are algorithms modeled on the neurons in a brain — facing off against each other to produce real-looking images. One of the neural networks generates images (of, say, a woman’s face), while the other tries to determine whether that image is a fake or a real face.
+
+While experts were able to spot these telltale signs on close inspection, it is likely the regular Facebook user would not.
+
+Over the past year, a number of websites have emerged online that create fake faces using artificial intelligence.
+
+Researchers from Graphika and the Atlantic Council could not conclusively determine if the people behind the fake accounts had used artificial pictures from these public sites or had generated their own.
+
+In their report released Friday, Graphika and the Atlantic Council said, “The ease with which the operation managed to generate so many synthetic pictures, in order to give its fake accounts (mostly) convincing faces, is a concern. Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.”
+
+Connection to Epoch Media Group
+
+In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or more of the pages, and the vast majority of followers were outside the United States, Facebook said. Facebook did not say if all of all these followers were real — some of them may themselves have been fake accounts.
+
+The network of pages removed on Friday had spent almost $10 million on Facebook ads, according to Facebook.
+
+Facebook’s investigation primarily focused on “The BL” (The Beauty of Life) — a set of Facebook pages and a website that says its goal is to “present to the world the most beautiful aspects of life.”The pages often shared pro-Trump and anti-China content.
+
+On its website, The BL outlined the dangers of “inaccurate and degenerate information” that it said “can be easily channeled toward vulnerable or uninformed people.”
+
+The purpose of the fake accounts, including those using fake faces, appears to have been to promote links to The BL’s website and Facebook pages, Ben Nimmo, director of investigations at Graphika told CNN Business on Friday.
+
+Facebook said the fake accounts were tied to the US-based Epoch Media Group and “individuals in Vietnam working on its behalf.” The company did not outline precisely how it made the connection, but in recent years Facebook has hired a team of investigators to find fake accounts on the platform.
+
+The Epoch Times newspaper is part of the Epoch Media Group. The newspaper has almost 6 million followers on Facebook. Nathaniel Gleicher, Facebook’s head of security policy, told CNN Business Thursday that Facebook was not suspending the newspaper’s account but investigations into Epoch’s behavior on Facebook were ongoing.
+
+Snopes reported earlier this month that the publisher of the Epoch Times denied that The BL and Epoch were linked.
+
+In August, Facebook banned ads from The Epoch Times after an NBC News investigation detailed how the newspaper was secretly running pro-Trump Facebook ads under alternate accounts. The Epoch Times’ publisher said in a statement to NBC News, “The Epoch Times advertisements are print-subscription advertisements describing our paper’s reporting — a popular practice of many publishers — and every one of these ads was approved by Facebook before publishing.”
+
+A Facebook spokesperson said the company shared its findings with Twitter (TWTR) and Google (GOOG), which owns YouTube.
+
+A Twitter spokesperson confirmed in a statement Friday, “today we identified and suspended approximately 700 accounts originating from Vietnam for violating our rules around platform manipulation — specifically fake accounts and spam.”
+
+“Investigations are still ongoing, but our initial findings have not identified links between these accounts and state-sponsored actors,” the spokesperson added.
+
+Google did not immediately respond to CNN Business’ request for comment
+
+– CNN Business’ Rachel Metz contributed reporting.

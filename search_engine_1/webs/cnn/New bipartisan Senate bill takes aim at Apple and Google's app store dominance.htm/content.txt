@@ -1,0 +1,11 @@
+(CNN Business) A new Senate bill targeting US app stores seeks to rein in the power of tech giants such as Apple and Google by banning restrictions on app developers.
+
+The proposed bipartisan legislation by Sens. Richard Blumenthal, Amy Klobuchar and Marsha Blackburn would outlaw certain contractual obligations that app developers say they are forced to accept from major app stores in order to reach consumers.
+
+If enacted, the bill could impose sweeping new requirements on major tech platforms; its provisions apply to all app distribution services with more than 50 million users.
+
+Apple AAPL Under the bill,— for example — could not require apps to use the iPhone-maker's proprietary payment channels to process the sale of digital goods and services — an issue that has ballooned into a major court battle between Apple and Epic Games, the creator of Fortnite. (A decision is expected in that case this month.) It could be required to allow third-party app stores to run on the iPhone. And Apple could not restrict app developers from communicating with their users in ways that might be detrimental to its own bottom line.
+
+App store operators would also be forbidden from placing their own, proprietary apps above those of rivals in app store searches.
+
+Read More

@@ -1,0 +1,29 @@
+CNN Business —
+
+The Zoom boom is real.
+
+Zoom (ZM) said Tuesday that its revenue skyrocketed 169% from the prior year to $328 million for the three months ending in April, as it became the go-to video-conferencing service for many stuck at home during the pandemic.
+
+The company reported an even more astronomical spike in business customers. There were roughly 265,400 companies with more than 10 employees using its platform, a 354% increase from the year prior. Zoom “deployed millions of licenses for new customers,” CEO Eric Yuan said on an earnings call.
+
+Created as a business communication tool nearly a decade ago, Zoom’s popularity exploded at the beginning of this year, as millions of people in lockdown began using it to host events ranging from birthday parties to religious events and even to cabinet meetings.
+
+“Work-from-home and social distance initiatives have meaningfully accelerated the adoption and traffic on the Zoom video communications platform,” Yuan said. He added that the pandemic had also resulted in a big spike in Zoom’s number of free users, who can host calls up to 40 minutes long before being asked to pay.
+
+Shares of Zoom rose nearly 4% in after-hours trading Tuesday following the earnings report, but later plunged to nearly 5% below Tuesday’s closing price. As of Tuesday’s close, the stock had tripled since the beginning of the year.
+
+While Zoom’s business has undoubtedly benefited from greater usage during the pandemic, it’s also received unwanted attention.
+
+A host of security issues emerged in early March, including controversies over the level of encryption it provides and the practice of “Zoombombing” — where trolls interrupt meetings to share profanity or pornography — prompting scrutiny from US authorities and temporary bans from schools in New York City and Singapore.
+
+Zoom responded by scrambling to make fixes, suspending all new features for a period of 90 days in order to focus on privacy and security measures. That 90-day period is set to conclude at the end of June.
+
+“During the crisis, with good intentions, we opened our platform to unprecedented numbers of first-time users without fully considering the challenges it would bring to those who did not have full IT support or established protocols for security and privacy,” Yuan said Tuesday. “As a result, we have experienced negative press related to meeting disruption, security and privacy issues.”
+
+Zoom is also facing growing competition from larger tech companies, including Facebook (FB) and Google (GOOG). They’re all fighting for a big prize that is likely to get even bigger: The video conferencing market is projected to grow from $14 billion in 2019 to $50 billion by 2026, according to a recent report by research firm Global Market Insights.
+
+So far, Zoom is holding its own. The company upgraded its outlook for the next three months, forecasting revenues between $495 million and $500 million. Yuan said it continues to see “elevated levels of participants” for now, even as some lockdown restrictions are eased.
+
+But it’s still unclear how much of their lives people will want to live on video once they’re allowed to move about more freely and return to the office. Nearly a third of the company’s revenue came from smaller customers that generally opt for monthly contracts rather than longer term commitments, CFO Kelly Steckelberg said, acknowledging that some of those customers could drop off as more people go back to work.
+
+“As governments start to ease shelter-in-place restrictions, we may see a moderation of demand for our services,” she added.

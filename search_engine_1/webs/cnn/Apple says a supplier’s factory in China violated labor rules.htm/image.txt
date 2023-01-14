@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190909040345-foxconn-sign.jpg?q=x_144,y_123,h_1436,w_2551,c_crop/w_800

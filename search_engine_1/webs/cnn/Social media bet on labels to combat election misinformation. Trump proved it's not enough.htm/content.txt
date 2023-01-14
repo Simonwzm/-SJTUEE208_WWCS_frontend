@@ -1,0 +1,47 @@
+Washington (CNN Business) Around the election, social media platforms including Facebook and Twitter were praised for how quickly and widely they applied warning labels to misinformation.
+
+But President Donald Trump's 46-minute video last week, which was riddled with election misinformation and conspiracy theories discredited by his own officials and the courts, has made unmistakably clear what many digital democracy experts have been warning for months: labels are not enough.
+
+Social media platforms' misinformation labels, they've said, are inadequate and ill-matched for the torrent of false claims that continue to divide Americans and jeopardize their faith in democratic processes.
+
+Within minutes of Trump's posts going up on Facebook and Twitter, the social media platforms sprang into action. Beneath the video, Facebook reminded users that Joe Biden "is the projected winner" of the election, citing Reuters and other reporting agencies. Twitter applied a warning label beneath the tweet containing the video clip, saying "This claim about election fraud is disputed." Google's YouTube informed users in a label that the Associated Press had called the race for Biden.
+
+That didn't stop the clips from racking up millions of views. Trump's video, which he said "may be the most important speech I've ever made," had been viewed 14 million times on Facebook and 5.5 million times on YouTube as of Monday afternoon. A shorter clip of the speech that Trump posted to Twitter has been viewed 3.5 million times.
+
+The three tech companies didn't immediately respond to a request for comment. Labels are just one part, but the most visible part, of the platforms' approach to election misinformation.
+
+Twitter's label on Trump's video perfectly captures how outgunned the companies still are. Trump didn't just make one claim about election fraud in the video. The speech contained a multitude of debunked allegations, baseless conspiracy-mongering and unproven complaints. Characterizing Trump's claims as merely "disputed" by unnamed actors — rather than as being overwhelmingly rejected by federal, state and local authorities — simply gives oxygen to discredited rumors, said Alex Howard, a democratic governance advocate and director of the Digital Democracy Project at the Demand Progress Educational Fund.
+
+"They're trying to create a both-sides dynamic when false equivalence misleads people," Howard said.
+
+Legacy news outlets handled the posts very differently, according to Yochai Benkler, a professor at Harvard Law School and co-director of the Berkman Klein Center for Internet and Society.
+
+"We saw much more explicit treatments of the video as false or without basis, by centrist professional media, in a way that is likely to help the millions of people who are not already committed to a partisan interpretation of the election deal with this steady flow of disinformation from Trump," Benkler said.
+
+Social media's pivot to labeling Trump posts
+
+For years, tech companies faced criticism for not doing more to combat misinformation on their platforms, particularly coming from Trump. When Twitter first began applying labels to some of Trump's tweets this spring, it provoked a massive response from the White House — including an executive order targeting social media companies — that suggested Trump perceived them as a meaningful check on his conduct. Facebook also stepped up its labeling efforts.
+
+Where a label of any sort on a Trump post was once an extraordinary, news-making event , it's now become the norm. Between when the final polls closed and the morning that major news outlets called the race for Joe Biden, Twitter had labeled more than a third of Trump's tweets.
+
+The increased labeling of Trump's posts comes amid a broader crackdown on election misinformation from the platforms. Facebook CEO Mark Zuckerberg told US senators during a hearing last month that during the election, the company displayed warnings on "more than 150 million pieces of content after review by our independent third-party fact-checkers."
+
+At the same hearing, Twitter CEO Jack Dorsey said the company labeled 300,000 tweets during a two-week period covering Election Day, and that roughly three out of four people who saw the tweets only did so after the label or warning was applied.
+
+But it remains an open question whether the labels were actually effective.
+
+The effectiveness of labels is unclear
+
+In its election postmortem, Twitter said its labels resulted in fewer attempts to share the video , but Twitter credited much of the reduction in sharing to an additional dialog box intervention that popped up when users tried to retweet labeled tweets, as opposed to just the labels underneath the tweets themselves.
+
+Last month, a BuzzFeed News report highlighted Facebook's internal assessment of its own labeling methodology. The assessment, according to BuzzFeed, estimated that the labeling reduced sharing of Trump's misleading Facebook posts by about 8% — but, the analysis found, "given that Trump has SO many shares on any given post, the decrease is not going to change shares by orders of magnitude." Facebook spokesperson Liz Bourgeois told BuzzFeed at the time that labels are merely "one piece of our larger election integrity efforts."
+
+Even though some platforms have taken small steps to change how users engage with misinformation, the way tech companies label controversial content doesn't often enough account for behavioral psychology, said Howard.
+
+"Cognitively, we're predisposed to believe the things we see first," Howard said. "If you just have a blue link at the bottom that just says something banal — 'learn the facts' — it's not going to work. A more effective label is the one that masks the media entirely and states the facts first: 'US government election officials from both parties and independent experts all say this was the most secure election in history, with no widespread fraud.'"
+
+During the election Twitter did in fact cover up some tweets with a warning message that users had to click through in order to view the underlying content, but the treatment was only applied to roughly 450 tweets.
+
+Going forward, Howard said, the companies should consider placing repeat misinformation peddlers in a kind of informational quarantine, where their posts would be previewed for policy violations before appearing on social media, not after. Tech platforms should also display trustworthiness indicators on verified users' profiles based on their track record of spreading misinformation, Howard added. And labels must be more aggressive, he said, drawing a connection to surgeon generals' warnings on cigarette labels.
+
+"When you put pictures of mouth, throat and lung cancer on cigarette packs, that creates a different kind of disincentive than just saying, 'This is known to cause cancer,'" Howard said.

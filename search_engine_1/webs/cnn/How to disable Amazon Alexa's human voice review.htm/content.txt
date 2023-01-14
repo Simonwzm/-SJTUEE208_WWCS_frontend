@@ -1,0 +1,21 @@
+San Francisco CNN Business —
+
+Digital voice assistants like Amazon’s Alexa have become household staples. But recent reports that they’re listening more often than people realize, and recording snippets of conversations that are sometimes reviewed by humans, have people once again worried about their privacy.
+
+In the wake of the recent backlash, Amazon is changing its settings so people can opt out of having their voice recordings reviewed by humans.
+
+Amazon (AMZN) and other companies including Google (GOOG) and Apple (AAPL) record each exchange between people and their digital voice assistants in order to gauge how well the systems fulfill commands. The recordings help companies improve how well their artificial intelligence understands language. The companies have said that only a small percentage of recordings are reviewed by humans.
+
+Google and Apple have temporarily suspended human reviews of their recordings. Amazon hasn’t yet suspended these reviews but provides guidance for how people can avoid them.
+
+An Amazon spokesperson said in a statement that the company already gives people “the ability to opt-out of having their voice recordings used to help develop new Alexa features.” But now, by opting out, a user’s voice recordings will no longer be included in programs that involve human review of Alexa requests, according to the spokesperson.
+
+People using Google can delete their previous recordings. While Apple doesn’t currently allow people to delete their info, it has plans to give them the option to opt out of having their recordings reviewed.
+
+For those looking to restrict access to their Alexa voice recordings, the process has several steps and the language can be a little tricky to parse.
+
+First, open the Amazon Alexa app on your iOS or Android device — make sure you have the most recent app update. Go to “Menu,” tap on “Settings” and then tap on “Alexa Privacy.” Scroll to and tap on “Manage How Your Data Improves Alexa.” Toggle off the option that says “Help Improve Amazon Services and Develop New Features.”
+
+People can also opt-out online at: amazon.com/alexaprivacysettings. You’ll need to click on “Manage How Your Data Improves Alexa” and toggle off the “Help Improve Amazon Services and Develop New Features” option.
+
+To delete any existing Alexa recordings, people can go to the Privacy screen and select “Review Voice History.” There’s also a feature that allows deletion by voice, which lets people delete recordings by saying “Alexa, delete what I just said” or “Alexa, delete everything I said today.”

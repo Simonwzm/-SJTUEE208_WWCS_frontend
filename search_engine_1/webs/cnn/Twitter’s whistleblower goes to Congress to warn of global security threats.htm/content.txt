@@ -1,0 +1,53 @@
+CNN —
+
+Twitter whistleblower Peiter “Mudge” Zatko is set to testify before Congress Tuesday in his first public appearance since his bombshell allegations against the social media company were reported last month by CNN and The Washington Post.
+
+Lawmakers on the Senate Judiciary Committee are expected to question Zatko on his claims that Twitter has undisclosed security and privacy vulnerabilities that could threaten users, investors and even US national security.
+
+What Zatko says during Tuesday’s hearing could lay the groundwork for deeper probes by Congress, federal regulators and law enforcement officials. His testimony could also further complicate the legal battle over Twitter’s agreement to be acquired by billionaire Elon Musk, and comes on the same day that Twitter shareholders are scheduled to vote on the deal.
+
+In a whistleblower disclosure sent to multiple lawmakers and government agencies in July, Zatko accused Twitter of failing to safeguard users’ personal information and of exposing the most sensitive parts of its operation to too many people, including potentially to foreign spies. Zatko — who was Twitter’s head of security from November 2020 until he was fired in January — also alleged company executives, including CEO Parag Agrawal, have deliberately misled regulators and the company’s own board about its shortcomings.
+
+Twitter has criticized Zatko and broadly defended itself against the allegations, saying the disclosure paints a “false narrative” of the company. A company spokesperson said Zatko was fired for “ineffective leadership and poor performance.” Zatko himself contended in his disclosure that he was fired in retaliation for raising concerns about security vulnerabilities and purported misrepresentations by Twitter executives to its board.
+
+News of the disclosure quickly prompted lawmakers and regulators in the United States and elsewhere to announce they’d be investigating his claims. Zatko has briefed some members of Congress behind closed doors, but his Tuesday testimony marks lawmakers’ first chance to publicly push Zatko to disclose more about what he witnessed at the company.
+
+“Mr. Zatko’s allegations of widespread security failures and foreign state actor interference at Twitter raise serious concerns,” Sens. Dick Durbin and Chuck Grassley, chair and ranking Republican of the Senate Judiciary Committee, said in a statement last month announcing the hearing.
+
+Lawmakers are likely to zero in on Twitter’s alleged missteps in protecting user data, as well as Zatko’s claims the company is vulnerable to exploitation by foreign governments and that it may even now have foreign spies on its payroll. Zatko has also alleged Twitter is in violation of its 2011 consent order with the Federal Trade Commission, a claim that, if found to be true, could result in billions of dollars in fines for the company. Twitter’s top executives could also be held accountable if it’s proven they were knowingly responsible for any violations.
+
+Musk, who is currently fighting Twitter in court to get out of a $44 billion acquisition deal, is also likely to be closely watching Zatko’s testimony. Musk’s legal team on Friday sent a third letter to Twitter seeking to terminate the deal, claiming that a purported $7.75 million payment made to Zatko in June, prior to his whistleblower disclosure, violated the company’s obligations in the acquisition contract. The letter claimed that the payment was revealed in a court filing by Twitter earlier this month. Twitter hit back Monday calling Musk’s letter “invalid and wrongful” and saying that it has not violated the deal.
+
+Any legal obligations Zatko may be under do not preclude him from making disclosures to lawmakers and law enforcement agencies, according to Whistleblower Aid, the organization providing Zatko’s legal representation.
+
+Whistleblower Aid also represented Frances Haugen, the former Facebook employee who blew the whistle on that social media giant last year. Her disclosures prompted numerous Congressional hearings, bill proposals and changes by the company.
+
+On Wednesday, the day after Zatko will testify, current and former Twitter officials are expected to appear before a different Senate panel to testify about social media’s impact on national security. Zatko’s allegations against Twitter could figure prominently in that hearing as well, further focusing Washington’s attention on the embattled company.
+
+A whistleblower with experience on Capitol Hill
+
+Zatko is no stranger to Capitol Hill. In 1998, Zatko appeared before the Senate Governmental Affairs Committee as part of a panel of ethical hackers who urgently told Congress that the technology used to access the internet was not secure. “If you’re looking for computer security, then the internet is not the place to be,” Zatko warned lawmakers at the time.
+
+Now, almost a quarter-century later, Zatko is returning to the Capitol to again warn about alleged insecurities in one of the world’s most influential social media platforms. Zatko, who worked at the US Department of Defense and Google before joining Twitter, is said to have a knack for explaining complex security topics to corporate executives and other laypeople, according to multiple former colleagues. That skill could come in handy as he makes a public case against Twitter.
+
+Among Zatko’s most explosive claims are allegations that roughly half of Twitter’s employees, including all of its engineers, have expansive access to the company’s live, active product, including actual user data. That’s unlike other major tech companies, he claims, where coding and testing occurs in special, segregated environments away from the services consumers use. Zatko also alleges that Twitter fails to reliably delete the data of users who cancel their accounts, in some cases because Twitter has lost track of the information. The alleged failures represent violations of Twitter’s 2011 FTC consent order, Zatko has claimed.
+
+Twitter has said that members of its engineering and product teams are authorized to access Twitter’s platform if they have a specific business justification for doing so, but that members of other departments — such as finance, legal, marketing, sales, human resources and support — cannot. Twitter has also said it’s created internal workflows to ensure users know that when they cancel their accounts the company will deactivate the accounts and start a deletion process. But Twitter has declined to say whether it typically completes that process.
+
+Zatko’s allegations also raise questions about Twitter’s ability to handle election-related threats ahead of the US midterm elections later this year.
+
+The disclosure — which includes a copy of a third-party consulting firm’s 2021 report on Twitter’s efforts to address misinformation — accuses the company of having misaligned priorities between product and safety teams and a reactive approach to misinformation and platform manipulation. For its part, Twitter says it has “a cross-functional team around the globe that’s focused on curbing the spread of misinformation and fostering an environment conducive to healthy, meaningful conversation.”
+
+The Musk factor
+
+Zatko’s testimony — and any resulting action taken by lawmakers and regulators — could also have implications for the legal battle over Musk’s effort to pull out of the deal he struck to buy the company.
+
+Zatko alleges that Twitter has misled Musk and the public about the number of bots on its platform — an issue that has become central to Musk’s effort to exit the deal. The other allegations in his disclosure also introduce new wild cards to the fight.
+
+Last week, a Delaware judge ruled that Musk could add to his claims in the case based on the whistleblower disclosure. Zatko was set to be deposed by Musk’s team on Friday.
+
+Musk claimed in a second letter attempting to terminate the acquisition deal last month that the whistleblower’s claims, if true, would constitute additional justification that should allow him to exit the agreement. In the letter, Musk’s team claimed that inquiries by Congress and other foreign agencies could materially harm the company. Musk first moved to terminate the deal with Twitter in July.
+
+Twitter pushed back against Musk’s letter, saying it is “based solely on statements made by a third party that, as Twitter has previously stated, are riddled with inconsistencies and inaccuracies and lack important context.” The company reiterated that it intends to close the deal at the agreed upon price and terms.
+
+Musk and Twitter are set to go to trial over the deal in October, after the judge denied Musk’s request to delay the proceedings following Zatko’s disclosure.

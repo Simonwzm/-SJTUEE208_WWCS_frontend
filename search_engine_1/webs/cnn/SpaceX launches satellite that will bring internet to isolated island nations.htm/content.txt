@@ -1,0 +1,63 @@
+New York CNN Business —
+
+Blue Origin has several other business plays in the works: A massive rocket under development called New Glenn that is competing with established companies SpaceX and United Launch Alliance for military launch contracts. And Blue Origin is working with established aerospace companies to compete for NASA contracts to build a moon lander.
+
+The assumption by many internet providers is that “there’s not many people there, they don’t need connectivity, and there’s not a lot of money,” Christian Patouraux, the founder and CEO of satellite startup Kacific, told CNN Business.
+
+Patouraux said he knows that to be false.
+
+Six years ago, he founded Singapore-based Kacific after he saw a market analysis that showed the Asia-Pacific region is starved for internet access, and people are willing to pay for it.
+
+Now, they are several steps closer to getting that access. On Monday evening, a SpaceX rocket launched Kacific’s first satellite from Cape Canaveral Air Force Station in Florida. Patouraux said it could soon bring consistent internet connections to as many as 1 million people for the first time.
+
+Internet for islanders
+
+The biggest obstacle to extending broadband across the Asia-Pacific is one of topography: Broadband is delivered primarily by copper or fiber optic cables, including some that stretch under the Atlantic Ocean. They’re expensive to install, so internet service providers mostly target urban areas, where they can get the most bang for their buck, while rural communities are often left out.
+
+In the Asia-Pacific region, where more than 80% of the population lives in rural areas, the lack of connectivity is glaring, according to Patouraux.
+
+Satellite-based internet is not typically cheap or of high quality. But Patouraux said it’s the best way to reach these remote communities, and his team worked out a way to do it at the right price points.
+
+Kacific’s satellite, dubbed Kacific-1, is high-throughput, a new breed of satellite that has much higher capacity than older models. To keep costs low, it’s built into a CondoSat, a type of two-in-one satellite that will allow Kacific-1 to share space with another payload. (In this case, it’s a TV service satellite for Japan-based Sky Perfect JCSAT.)
+
+The CondoSat will sit in geosynchronus orbit about 22,000 miles above Earth, where it’ll stay continuously positioned over the Asia-Pacific region.
+
+A few ground stations, called teleports, will bounce Kacific-1’s signal to antennas, creating internet hot spots. At about $500 to $1,000 each, Patouraux said the antennas may be too expensive for most people to install at their homes, but they’re a perfect fit for schools, hospitals and community centers.
+
+‘Connections save lives’
+
+Patouraux is out to dispel the idea that islanders are uninterested in technology.
+
+He recalled visiting the isolated Kiribati village of Bontaritari on an island about 2,000 miles northeast of Australia. Reaching the area required a two-hour plane ride on a rickety aircraft, which landed in an empty meadow. From there it was a four-hour truck ride through miles of sandy terrain and a few shallow lagoons, Patouraux said.
+
+He arrived to find an educated community of people, and “most of them had laptops or electronic notepads or smartphones,” he said.
+
+“They were using them to exchange pictures via Bluetooth, or they would go out to the city and download movies and share it with others,” Patouraux said.
+
+It was a community primed and ready for internet access, waiting for someone to bring in the bandwidth. And that was a common sight, Patouraux said, as he continued to travel across the region.
+
+“We quickly realized the market is even bigger than we anticipated,” he said.
+
+Kacific began setting up connections using excess bandwidth that it purchased from other satellite operators. The startup has connected 75 health clinics in the island nation of Timor-Leste and five schools in Samoa. And when the sole fiber-optic cable connecting the Polynesian Kingdom of Tonga was severed, Kacific helped bring the nation’s capital back online.
+
+That work transformed Patouraux’s vision for Kacific. While he initially dreamed of giving rural communities enough bandwidth to stream YouTube videos, he learned there was a more fundamental value in bringing internet access to areas that never had it.
+
+“We were connecting hospitals and saving lives,” he said. People could reach out to doctors when they were sick, and health care professionals could finally tap into networks of other professionals.
+
+“It didn’t need to be a sophisticated system,” Patouraux said. Baseline internet access has the potential to transform these communities.
+
+That is what sold him on creating a reasonably priced service using satellites in geosynchronous orbit.
+
+Companies including SpaceX and Amazon are building constellations of internet satellites that orbit much closer to Earth, solving the latency issues that typically plague geosynchronous satellites. They say their networks will blanket the entire planet in connectivity. But it’s still not clear if they’ll be able to offer consumer broadband at price points that make sense for under-served communities where most people don’t have much disposable income.
+
+For all the talk of connecting the world, Patouraux said those constellations probably won’t be cheap enough to reach the communities he is looking to bring online.
+
+The Kacific-1 satellite could dramatically boost the company’s impact. People living near Kacific hot spots will be able to stop by their grocery store or gas station and pick up vouchers for internet access. A gigabyte of data will cost about $1.50 to $2 USD, Patouraux said, about one-third the price of a wireless data plan in the United States. Some schools and hospitals may also subsidize access to their networks, making the service even cheaper. And speeds will be fast enough to watch videos and download movies.
+
+The company has already signed deals with internet service providers to deliver broadband in 24 countries.
+
+“Island nations will demand a significant portion, and a lot of demand will come from markets like Indonesia — an island nation on a much larger scale where there’s tremendous bandwidth needs,” Christopher Baugh, the founder and CEO of analytics group Northern Sky Research, told CNN Business.
+
+Patouraux said he wants to continue scaling the network using more satellites in geosynchronous orbit, extending service into new areas and improving service in existing markets. Though, he doesn’t see it as a replacement for traditional internet services and fiber optic cables. In fact, he hopes cables will continue to reach more islands across the Asia-Pacific.
+
+“But it will never be economical to connect an island where you have 200 people living, or a village of 500, that are [miles] away from the next provincial city,” he said. “We are the right technology to connect them.”

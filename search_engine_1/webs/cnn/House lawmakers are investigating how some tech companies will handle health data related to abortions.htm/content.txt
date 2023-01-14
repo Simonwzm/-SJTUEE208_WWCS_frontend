@@ -1,0 +1,25 @@
+See Google Street View's new camera and the garage where the tech is built
+
+Google's Street View is 15 years old. See the new camera it's rolling out
+
+Internet Explorer is no more. CNN reported on the 'browser wars' it started in 1996
+
+This is how data collected from fertility apps could be used to prosecute abortion
+
+New York CNN Business —
+
+Three House lawmakers are launching an investigation into the collection and sale of personal health data related to abortion by data brokers and period-tracking apps.
+
+They are seeking information from five data broker companies and five health-tracking app companies about their collection, retention and sale of personal health data, according to letters sent Thursday night by Reps. Carolyn Maloney and Raja Krishnamoorthi, chair and member of the House Oversight Committee, along with Rep. Sara Jacobs. The companies have until July 21 to respond, per the letters, which were viewed by CNN Business.
+
+The move comes amid increasing concerns that personal data, such as location history, health history, messages and searches, could be used by law enforcement in some states to criminalize people seeking or providing abortions, after the Supreme Court struck down Roe v. Wade.
+
+Many tech companies have thus far declined to say how they plan to respond to such requests from law enforcement. And online privacy experts have identified data brokers — which collect consumer data from various online sources and license it to third parties, typically advertisers — as a particularly vulnerable area because law enforcement could potentially purchase user data rather than having to issue a formal legal request.
+
+The companies contacted by lawmakers include data broker firms SafeGraph, Digital Envoy, Pacer.ai, Gravy Analytics and Babel Street, as well as health-tracker app operators Flo Health, Glow, BioWink, GP International and Digitalchemy Ventures. In recent weeks, some period and fertility tracking apps, including Flo, have announced an “anonymous” mode that they say will help protect users.
+
+In the letters, the lawmakers asked data brokers, for example, for information related to their revenues from the sale of location data and a list of purchasers of information related to family planning clinics or abortion services. They also asked the health-tracking apps for “documents and communications concerning the actual or potential production” of personal reproductive or sexual health data, either voluntarily or in response to a legal request, as well as communications about such data with state and local governments.
+
+“The collection of sensitive data could pose serious threats to those seeking reproductive care as well as to providers of such care, not only by facilitating intrusive government surveillance, but also by putting people at risk of harassment, intimidation, and even violence,” the lawmakers wrote.
+
+Congress has been considering new legislation to protect American’s personal health data in the wake of the Supreme Court ruling, and a group of senators last month introduced a bill that would ban data brokers from selling health and location data. “As Congress considers legislative reforms to ensure the privacy of personal reproductive and sexual health information, we are examining the practices of data brokers and other companies regarding the collection, dissemination, and sale of this private data,” Maloney, Krishnamoorthi and Jacobs said in their Thursday letters.

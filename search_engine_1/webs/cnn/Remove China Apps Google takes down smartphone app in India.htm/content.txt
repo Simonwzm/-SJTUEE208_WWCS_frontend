@@ -1,0 +1,51 @@
+Hong Kong CNN Business —
+
+Google has removed an app that millions of Indians had downloaded hoping that it would help them boycott Chinese software.
+
+“Remove China Apps” was not available on the Google Play Store on Wednesday, a little over two weeks after it launched with the assurance that it could help Indians identify apps made by Chinese developers.
+
+Anti-Chinese sentiment has been rising in India in recent weeks as the two countries feud over a border dispute.
+
+One Touch App Labs, the developer of the app, billed it as a tool to help support “a self-reliant India” by identifying the origin of applications installed on mobile phones. The company could not be reached for comment Wednesday.
+
+Google (GOOGL) declined to comment on Wednesday about how it became aware that the app violated the Play Store’s policies, which forbid products that “encourage or incentivize” people to delete or disable other apps.
+
+Remove China Apps was downloaded more than 4 million times before it was taken down, according to analytics company Sensor Tower. In India, nearly 160,000 users gave the app a 5-star rating on the Play Store before it was taken down.
+
+But it was not entirely successful in detecting apps from Chinese developers, according to some users.
+
+On Tuesday, user Sridhar Toopurani wrote in a review of the app that “while the concept is good … it did not detect MI Video, Helo etc.”
+
+Mi Video is a streaming app from Chinese smartphone maker Xiaomi, and Helo is social media platform developed by ByteDance, the Beijing-based startup behind TikTok. Other users said the app also failed to detect PUBG, a popular smartphone game from Tencent (TCEHY).
+
+The app did identify TikTok as a Chinese app, according to several reviews. India is one of TikTok’s biggest markets, though it has run into some issues in the country. The app was temporarily banned in India last year, after a court ruled that TikTok could expose children to sexual predators, pornographic content and cyberbullying. TikTok appealed the decision, saying it had cracked down on inappropriate content, and the court reversed its ruling. At the time, Bytedance reportedly told the country’s top court that it was losing $500,000 in revenue each day that TikTok was blocked.
+
+Remove China Apps was launched last month just days after a cross-border skirmish between Chinese and Indian forces resulted in minor injuries to troops.
+
+The incident, at a remote, mountainous crossing close to Tibet, was the latest in a long line of border flare-ups between the neighboring powers, and has fueled a fresh round of anti-China sentiment in India.
+
+Sonam Wangchuk, an education reformer who was also the inspiration for a popular movie character in India, asked fellow Indians to boycott all things Chinese in response to the border standoff.
+
+He shared a video on YouTube last week, urging Indian citizens to stop buying Chinese goods, to “use your wallet power … and stop virtually financing the current military bullying.” The video has been viewed more than 3.7 million times.
+
+Actor Arshad Warsi addressed his 2.2 million followers on Twitter, saying he is “consciously going to stop using everything that is Chinese.”
+
+I am consciously going to stop using everything that is Chinese. As they are a part of most of the things we use, it will take time but I know, one day I’ll be Chinese free. You should try it too ... — Arshad Warsi (@ArshadWarsi) May 30, 2020
+
+“As they are a part of most of the things we use, it will take time but I know, one day I’ll be Chinese free. You should try it too,” he added.
+
+The Remove China App caught the attention of Chinese state-run tabloid The Global Times.
+
+The Indian software is “likely to draw punishment from China,” the tabloid wrote, adding that it “has drawn ridicule from Chinese netizens, who suggest Indians could ‘throw away’ their Chinese-branded smartphones.”
+
+Tensions between the two countries are escalating, but they also have a longstanding business relationship.
+
+In the first three months of this year, Chinese smartphone makers Xiaomi and Vivo were the top sellers in India, accounting for more than half the market, according to research firm Canalys. Samsung was third, and two other Chinese brands — Realme and Oppo — rounded out the top five.
+
+India has said it would allow Huawei to participate in some 5G trials, while other countries have been much more hesitant to to use the Chinese tech company’s products.
+
+Chinese investors have also poured a lot of money into some of India’s buzziest tech startups.
+
+Digital payments company Paytm is backed by Alibaba (BABA), food delivery platform Swiggy counts Tencent (TCEHY) among its investors, and car hailing platform Ola is backed by DiDi Chuxing.
+
+— Vedika Sud contributed to this report.

@@ -1,0 +1,11 @@
+(CNN) A group of international law enforcement agencies have taken down DoubleVPN, a virtual private networking service allegedly used by ransomware gangs to hide their online tracks, in a coordinated operation aimed at disrupting cyber criminals.
+
+The VPN service was shut down on Tuesday as officials from the US, Canada, and several European countries seized servers and websites around the world belonging to DoubleVPN, according to Europol , the European law enforcement coordinating agency. Visitors to the company's website are now greeted by a government takedown notice.
+
+"Law enforcement gained access to the servers of DoubleVPN and seized personal information, logs and statistics kept by DoubleVPN about all of its customers," the notice reads, adding that officials intend to use the data to continue their investigation.
+
+"Today's announcement sends a strong message to the criminals using such services: the golden age of criminal VPNs is over," said Edvardas Šileris, head of the European Cybercrime Center.
+
+The coordinated action follows public commitments by the Biden administration to build an international coalition against ransomware and cybercrime, amid a flurry of ransomware attacks on companies considered critical to US supply chains including Colonial Pipeline and JBS Foods. Ransomware attacks have also had devastating impacts globally, disrupting hospitals in Ireland and a news organization in Germany
+
+Read More

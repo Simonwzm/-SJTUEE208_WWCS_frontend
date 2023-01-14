@@ -1,0 +1,41 @@
+New York (CNN Business) As the Taliban entered Kabul last month , the team behind the crowdsourced news alert app Ehtesab deserted their office in the city. But they continued their work of providing Afghans with critical information, such as which roads were congested and where outbreaks of violence had been reported.
+
+Days later, when two suicide bombing explosions killed more than 70 people near Kabul's Hamid Karzai Airport as people frantically tried to evacuate, the startupused its contacts on the ground to confirm the twin attacks within minutes.
+
+Ehtesab was created three years ago to provide real-time alerts and information about incidents in Kabul. The goal at the time was to keep residents engaged, bridge communication gaps between citizens and public officials, and hold government officials accountable.Like Citizen , an app in the United States known for real-time crime alerts, Ehtesab prompts locals to reportincidents from around the city, including everything from faulty telecommunications to planned demonstrations. These reportsare then verified by Ehtesab's team of security experts.
+
+Now this servicehas taken on new urgencyamid the rapid political and social change following the Taliban's takeover. While the app has been downloaded only 5,000 times by people in Kabul and elsewhere — a tiny portion of the city's millions of residents — the company says usage has surged in recent weeks.
+
+"The main focus has been, obviously, providing reports that affect Afghans' access to food, access to banks, access to movement," Sara Wahedi, Ehtesab's 26-year-old founder who is leading the team of Kabul staffers from New York while she completes degrees in human rights and data science at Columbia University, told CNN Business.
+
+"We try to mitigate as much anxiety in day-to-day life as best as we can in the current situation," she said. "The main problem I have is: How can I keep my team safe?"
+
+An app for Kabul residents and beyond
+
+Wahedi was born in Afghanistan but left with her family at the age of six, around the time the Taliban's previous rule of Afghanistan was coming to an end. She moved to Europe and then settled in Canada under an asylum visa. In 2016, she took a break from her political science studies to return to Kabul, eventually spending more than a year working on social development policy in the office of former Afghan President Ashraf Ghani.
+
+In May 2018, Wahedi was walking home from her job in downtown Kabul when she got stuck in the midst of several suicide bombings. She managed to make it home safely, but, she says, the next day there were sanitation problems, electricity outages and closed streets.
+
+"I was really confused by the fact that there was no platform ... where you could find verified, real-time information about what was going on in the city, especially a city which is consistently reeling with instability," Wahedi siad. "It just seemed so odd to me that there was no structure. It wouldn't cost much to implement something like that."
+
+Sara Wahedi, 26, is the founder of Ehtesab. She was motivated to start the app after surviving a suicide bombing in Kabul in 2018.
+
+The potential audience for such a service had grown, too. As of 2019, Afghanistan had nearly 10 million internet users and around 23 million cellphone users, with 89% of Afghans able to access telecommunication services, according to the latest available figures from the country's Ministry of Communications and Information Technology.
+
+By the end of 2018, she and three friends had begun work on Ehtesab. Three years later, the app now has a staff of around 20 people in Kabul, including developers, user experience designers and employees who work on vetting reports.
+
+Users submit reports through the app in one of five categories: security, traffic, electricity, corruption and other. The app instructs users to provide information, including location, a written description and a photo or video. Once verified by at least two sources, the app displays reports on a map of Kabul and adds updates as more information is available.
+
+The future of Ehtesab
+
+Since the Taliban took over Afghanistan, Ehtesab's work has become not only more dangerous but also more challenging. The app previously was able to use local police records and information from government officials to help verify reports. It's now become more reliant on news reports, foreign embassies and the United Nations, many of which have reduced their presence in Kabul in recent weeks. The team is also currently working to ensure that no reports sent in by users could be tracked by the Taliban.
+
+Despite those difficulties, as well as concerns that the Taliban could crack down on the internet broadly as it did in the early 2000s, Wahedi said the team isn't giving up.
+
+"This is the one thing that keeps us going on a day-to-day basis is us knowing that we're able to do something very directly to help," she said. "[The team] said, 'Until we can't, until they shut down the internet, we're going to keep doing this.' And that's what we've been doing."
+
+Ehtesab had planned to be operating in at least five more Afghan cities by December, but Wahedi said the Taliban's return will likely set them back until next year. The company is also working to figure out how to help Ehtesab reach not just Afghan citizens with smartphones, but also those in rural areas with more basic devices and only 3G service.
+
+In the meantime, Wahedi said the app could use the help of the international tech community, adding that the team is looking for expertise in areas like geofencing, location tracking and satellite services.
+
+"We really need the best minds in tech to work with us and collaborate with us on how we can maximize the potential of this," she said. "We do have a lot of Afghan talent, and there are a lot of Afghan companies who are doing great work. But unfortunately once the Taliban came in, everyone packed their bags and left."

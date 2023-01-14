@@ -1,0 +1,27 @@
+New York CNN Business —
+
+As the United States government gears up for its 2020 census, it’s working closely with large tech companies to get ahead of potential malicious campaigns looking to exploit their platforms to deter people, including minorities, from taking part in the once-a-decade event. The Census Bureau is going so far as to consider how voice assistants, such as Apple’s Siri and Amazon’s Alexa, could be used to spread misinformation.
+
+An accurate census count is crucial, as it determines how congressional seats are apportioned and how government funds are distributed. After Russia used platforms such as Facebook (FB) and Twitter (TWTR) to discourage communities, including African Americans, from voting in the 2016 US election, the Census Bureau is working with all the major social media companies on ways to prevent the spread of false information that could be used to dissuade people from filling out their census forms.
+
+“2016 was a wake-up call for everybody in terms of misinformation and disinformation,” Stephen Buckner, the Census Bureau’s assistant associate director for communication, told CNN Business.
+
+The pace at which information was shared online at the time of the last census in 2010 “pales in comparison” to today, he added.
+
+Complicating matters further is the fact this will be the first census people can participate in online.
+
+While misinformation spread over social media is an obvious threat, Census Bureau staff members say they are looking at other ways technology could be used to cause confusion about the count. That confusion could include the manipulation of virtual assistants such as Siri and Alexa.
+
+Zack Schwartz, deputy division chief, Center for New Media and Promotions at the US Census Bureau, told CNN Business that the bureau is working with Apple, Amazon, and Google to “hard code” responses that come directly from the Census Bureau when users ask their voice assistants about the count.
+
+Some voice assistants often partially rely on public online information, such as that from Wikidata — a part of the Wikimedia foundation — and have occasionally been known to source inaccurate information. That’s been known to happen when that false information is trending online. By hard-coding the responses, the Census Bureau would eliminate this possibility.
+
+“We’ve provided about a dozen questions and answers to address frequently asked questions,” Schwartz explained. One such question, he said, is, “Are my Census responses confidential?”
+
+Schwartz said the initiative had already been implemented with Amazon’s Alexa and that the bureau is working on the project with Apple and Amazon.
+
+Apple (AAPL), Amazon (AMZN), and Google did not provide comment about their work with the Census Bureau related to virtual assistants.
+
+In 2016, false information that told voters they could cast their ballot via text message was spread on social media, and in the years since the platforms have been roundly criticized for their inaction in the lead-up to the last presidential election. Facebook, Twitter and Google all confirmed to CNN Business that they have had multiple meetings with the Census Bureau about how they plan to combat misinformation and said they are using lessons learned from elections to inform their census work.
+
+Facebook spokesperson Brandi Hoffine Barr said the company has set up a team that will work only on the census and that Facebook plans to roll out new policies to specifically address issues about the census.

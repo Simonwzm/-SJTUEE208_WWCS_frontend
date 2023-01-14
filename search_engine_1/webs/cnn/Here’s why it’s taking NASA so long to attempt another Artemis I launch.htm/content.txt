@@ -1,0 +1,55 @@
+Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.
+
+New York CNN Business —
+
+NASA’s massive new moon rocket hit another snag during its latest attempt to launch an uncrewed test mission, and it will be at least a few weeks — rather than days — before the rocket can make its next attempt.
+
+The longer delay can be attributed to several factors, including quirks of scheduling, possible traffic at the launch site, and NASA’s desire to make sure it’s solved the latest issues with leaky fuel.
+
+To recap what went down on Saturday, September 3: Launch officials went confidently into this weekend’s attempt to launch the rocket, called the Space Launch System or SLS. But then, as the rocket was once again being loaded with super-cold liquid hydrogen propellant, it sprung a big leak. And NASA said Tuesday that it will begin to attempt to correct those issues while the rocket is still on the launch pad.
+
+But, eventually, the space agency will still need to roll the rocket back to the nearby Vehicle Assembly Building, a 4.2-mile trip that takes roughly 10 hours, in order to “reset the system’s batteries,” according to a Tuesday blog post from NASA.
+
+And when it comes to setting a new launch date, timing will be complicated.
+
+Timing can be everything
+
+On a given day, there are specific spans of time — or “launch windows” — set aside when the rocket is permitted to launch, and they can range from about a half hour to a few hours per day. But even those windows aren’t available every day. There are also “launch periods,” which are spans of days when the moon lines up with the Earth in a way that’s favorable for this mission.
+
+The latest launch period ended on Tuesday, September 6, and NASA had said there was no way the SLS would be ready to fly during that time.
+
+The next launch period runs from September 19 to October 4. But there’s another potential issue: NASA is planning to launch its Crew-5 mission, which will carry a fresh crew of astronauts to the International Space Station aboard a SpaceX rocket, on October 3. And NASA will have to work to make sure that one launch won’t conflict with another.
+
+Later in October, yet another launch period will begin, running from October 17 to October 31. That period will offer up 11 possible launch windows for the SLS. (Note: there are no available launch times on October 24, 25, 26 and 28.)
+
+Exactly which period and window NASA targets will depend on a variety of factors, including how well it can coordinate with SpaceX regarding the Crew-5 launch and how long the SLS rocket remains on the launch pad as engineers work through the leak issue, according to Jim Free, NASA’s associate administrator for exploration systems development.
+
+Super-cool fuel
+
+When the SLS rocket is fueled up, it requires massive amounts of super-chilled liquid oxygen and liquid hydrogen to be pumped into the rocket’s tanks. When loading the hydrogen, the fuel begins pumping in slowly but then ramps up its speed in what’s called a “fast fill.” And it was during that fast fill that a “large leak” occurred — bigger even than the leaks that NASA identified during the August 29 launch attempt.
+
+That’s why launch officials want to make sure they pin down a fix and the root of the issue before making the next attempt. As of Saturday, one guess was that an issue with a valve may have caused the hydrogen to be overpressurized, putting it under 60 pounds per square inch of pressure rather than the 20 pounds per square inch they’d hoped, Michael Sarafin, Artemis Mission Manager, said Saturday.
+
+Leading up to Saturday, NASA had also tried to troubleshoot several issues it encountered during the first attempt to launch the SLS rocket on August 29. It addressed some leaks that occurred during fueling, and assessed the risks on an issue with an engine cooling system and a crack in some foam coating one of the rocket’s tanks.
+
+NASA may choose to take another peek at those issues as it works toward the next launch attempt as well.
+
+Further complicating the selection of the next target launch date is the precarious Florida weather. For any rocket launch, rough winds, lightning or other unfavorable conditions can force more delays. Late summer and early autumn can also bring hurricanes to the Florida coastline where the SLS sits.
+
+NASA is working through the possibilities, and the public can expect more answers in the coming days and weeks.
+
+This is rocket science
+
+As NASA officials have said before, they’re hoping to convey that these delays and technical issues don’t necessarily point to a significant issue with the rocket.
+
+Before the SLS, NASA’s Space Shuttle program, which flew for 20 years, endured frequent scrubbed launches. SpaceX’s Falcon rockets also have a history of scrubs for mechanical or technical issues.
+
+This is, after all, rocket science.
+
+“I can tell you that these teams know exactly what they’re doing, and I’m very proud of them,” NASA Administrator Bill Nelson said Saturday. “We tried to stress that this is a test and a test has certain risk, and we pounded that in every public comment that we had in order to get expectations in alignment with reality.”
+
+Free, the NASA associate administrator, added that his team will always go into a launch attempt optimistic that liftoff will occur.
+
+“I’m sure there’s going to be a question of, ‘Are we confident?’” he said. “I actually love that question because it’s like (asking), ‘Are you confident you were going to get out of bed this morning?”
+
+This mission, called Artemis I, is expected to pave the way for numerous other missions to the moon. The Artemis II mission, slated for as early as next year, is expected to follow a similar flight path around the moon but will have crew on board. And later this decade, Artemis III is expected to land astronauts on the lunar surface for the first time since NASA’s mid-20th century Apollo program.

@@ -1,0 +1,63 @@
+It's a boat? It's a plane? No, it's a 'seaglider.' And it goes fast...really fast
+
+Avengers Campus at Disney California Adventure Park in Anaheim, California, invites guests of all ages into a new land where they can sling webs on the first Disney ride-through attraction to feature Spider-Man. The immersive land also presents multiple heroic encounters with Avengers and their allies, like Iron Man, Black Panther, Black Widow and more. At Pym Test Kitchen, food scientists will utilize Ant-Man and The WaspÕs shrinking and growing technology to serve up perfectly sized snacks. (Christian Thompson/Disneyland Resort)
+
+Staff enter the headquarters of information technology firm Kaseya in Miami, Florida, U.S., in an undated still image from video. Kaseya/Handout via REUTERS NO RESALES. NO ARCHIVES. THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY.
+
+This is what the future of mobility looks like
+
+This illustration photo shows the Coinbase logo in the background as a person checks cryptocurrencies prizes on a smartphone in Los Angeles on April 13, 2021. - The arrival April 13, 2021, of cryptocurrency exchange Coinbase on Nasdaq is one of the most anticipated events of the year on Wall Street, where enthusiasm for record-breaking bitcoin is in full swing, despite questions about the sustainability of the market. (Photo by Chris DELMAS / AFP) (Photo by CHRIS DELMAS/AFP via Getty Images)
+
+CNN Business —
+
+In early August, Apple (AAPL) announced a major new program designed to help combat child exploitation and promote safety, issues the tech community has increasingly embraced. It was a presentation big on intent but light on the details.
+
+What followed — outraged tweets, critical headlines and an outcry for more information — put the tech giant on defense just weeks ahead of the next iPhone launch, its biggest event of the year. It was a rare PR miscalculation for a company known for its meticulous PR efforts.
+
+The technology at the center of the criticism is a tool that will start checking iOS devices and iCloud photos for child abuse imagery, along with a new opt-in feature that will warn minors and their parents if incoming or sent image attachments in iMessage are sexually explicit and, if so, blur them.
+
+The concerns primarily focused on privacy and the possibility the technology could be used beyond its stated purpose, complaints that surely stung Apple, which has focused much of its marketing efforts in recent years on how it protects users.
+
+In the week that followed the announcement, Apple went on to host a series of follow-up press conferences to clear the air and released a lengthy FAQ page on its website to address some of the confusion and misconceptions. In an interview published Friday, Craig Federighi — Apple’s senior vice president of software engineering — told The Wall Street Journal: “It’s really clear a lot of messages got jumbled pretty badly in terms of how things were understood.”
+
+Many child safety and security experts praised the intent, recognizing the ethical responsibilities and obligations a company has over the products and services it creates. But they also called the efforts “deeply concerning,” stemming largely from how part of Apple’s checking process for child abuse images is done directly on user devices.
+
+“When people hear that Apple is ‘searching’ for child sexual abuse materials (CSAM) on end user phones they immediately jump to thoughts of Big Brother and ‘1984,’” said Ryan O’Leary, research manager of privacy and legal technology at market research firm IDC. “This is a very nuanced issue and one that on its face can seem quite scary or intrusive. It is very easy for this to be sensationalized from a layperson’s perspective.”
+
+Apple declined to comment for this story.
+
+How Apple’s tool works
+
+During the press calls, the company emphasized how the new tool will turn photos on iPhones and iPads into unreadable hashes — or complex numbers — stored on user devices. Those numbers will be matched against a database of hashes provided by the National Center for Missing and Exploited Children (NCMEC) once the pictures are uploaded to Apple’s iCloud storage service. (Apple later said it would also use other organizations in multiple countries for the hash program and was waiting for those deals to finalize before announcing their involvement, Reuters reported.)
+
+iPhones and iPads will create a doubly-encrypted “safety voucher” -— a packet of information sent to iCloud servers — that’ll be encoded on photos. Once a certain number of safety vouchers are flagged as a match from NCMEC’s photos, Apple’s review team will be alerted so that it can decrypt the voucher, disable the user’s account and alert NCMEC, which can inform law enforcement about the existence of potentially abusive images. Federighi later clarified about 30 matches would be needed before the human review team is notified.
+
+“There is rightful concern from privacy advocates that this is a very slippery slope and basically the only thing stopping Apple [from expanding beyond searching for CSAM images] is their word,” O’Leary said. “Apple realizes this and is trying to put some extra transparency around this new feature set to try and control the narrative.”
+
+In the PDF published to its website outlining the technology, which it calls NeuralHash, Apple attempted to address fears that governments could force Apple to add non-child abuse images to the hash list. “Apple will refuse any such demands,” it stated. “We have faced demands to build and deploy government-mandated changes that degrade the privacy of users before, and have steadfastly refused those demands. We will continue to refuse them in the future.”
+
+The messaging, however, comes at a time of increased distrust and scrutiny of tech firms, coupled with hyper sensitivity around surveillance or perceived surveillance. “The messaging needs to be airtight,” O’Leary said.
+
+The lack of details on how the full operation would work contributed to the muddled messaging, too. When asked about the human review team on one press call, for example, Apple said it wasn’t sure what that would entail because it will need to learn what resources are required based on a testing phase.
+
+Apple is far from alone in building child abuse detection tools but other major tech companies do not do so on the device itself. For example, Google and Microsoft have systems that help detect known images of child exploitation and Facebook has tested tools such as a pop-up that appears if a user searches for words associated with child sexual abuse or if they try to share harmful images.
+
+Mary Pulido, executive director of the New York Society for the Prevention of Cruelty to Children (NYSPCC), called these technologies important, noting they can “help the police bring traffickers to justice, accelerate victim identification, and reduce investigation time.” She’s also in the camp that believes “protecting children from any potential harm trumps privacy concerns, hands down.”
+
+Where Apple went wrong
+
+While no one is disputing Apple’s motivation, Elizabeth Renieris, professor at Notre Dame University’s IBM Technology Ethics Lab, said the timing was “a bit odd” given all of its privacy-focused announcements at its Worldwide Developer Conference in June. Apple declined to share why the new tool was not presented at WWDC.
+
+Renieris also said Apple erred by announcing other seemingly related though fundamentally different updates together.
+
+The new iMessage communication feature, which has to be turned on in Family Sharing and uses on-device processing, will warn users under age 18 when they’re about to send or receive a message with an explicit image. Parents with children under the age of 13 can additionally turn on a notification feature in the event that a child is about to send or receive a nude image. Apple said it will not get access to the messages, though people still expressed concerns Apple someday might do so.
+
+“By mixing it in with the parental controls it made the announcements seem related. These are different functionalities with different technology,” O’Leary said. Federighi agreed, saying “in hindsight, introducing these two features at the same time was a recipe for this kind of confusion.”
+
+Big names in tech added fuel to the fire. Everyone from Edward Snowden to Will Cathcart, head of WhatsApp, which is owned by Facebook, publicly criticized Apple on Twitter. Cathcart said it was “troubling to see them act without engaging experts that have long documented their technical and broader concerns with this.” (Facebook has clashed with Apple over privacy before, including over recent iOS data privacy changes that would make it harder for advertisers to track users.)
+
+Some security experts like former Facebook chief security officer Alex Stamos — who also co-bylined an op-ed in the New York Times on Wednesday detailing the tools’ security concerns — said Apple could have done more, such as engaging with the larger security community during the development stages.
+
+Threading the needle of protecting user privacy and ensuring the safety of children is difficult, to say the least. In trying to bolster protections for minors, Apple may have also reminded the public about the potential control it can wield over its own products long after they’re sold.
+
+“Announcements like this dilute the company’s reputation for privacy but also raise a host of broader concerns,” Renieris said.

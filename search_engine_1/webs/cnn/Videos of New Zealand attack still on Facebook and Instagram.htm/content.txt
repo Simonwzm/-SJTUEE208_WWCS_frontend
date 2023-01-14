@@ -1,0 +1,45 @@
+New York CNN Business —
+
+Almost seven weeks after a terrorist attack on a New Zealand mosque was streamed live on Facebook, copies of the video are still circulating on Facebook and Instagram.
+
+The existence of the videos, some of which have been on the platforms since the day of the attack, are indicative of the challenge tech companies face in combating the spread of white supremacist and other terror-related content on their platforms and raises questions about the effectiveness of Facebook’s efforts to do so in particular.
+
+Nine videos on Facebook (FB) and Instagram showing parts of the terrorist’s original livestream were identified by Eric Feinberg of the Global Intellectual Property Enforcement Center, who tracks terror-related content online, and who provided them to CNN Business.
+
+All nine videos were posted the week of the attack and have remained on the platforms since. Facebook owns Instagram.
+
+Facebook said in the days after the attack, which occurred at two mosques and killed dozens, that it was working to remove all copies of the video from its platforms.
+
+In one case on Instagram a copy of the video showing the gunman shooting in one of the mosques triggered Instagram’s “Sensitive content” feature, a warning the company places on some videos that says, “This video contains sensitive content which some people may find offensive or disturbing.” Despite triggering that warning, the video itself, which was viewed more than 8,000 times, remained on the platform until CNN Business showed it to Facebook on Wednesday.
+
+“If they’re not able to get this video, what makes you think they will be able to go after ‘fake news’ and deepfakes?” Eric Feinberg, Global Intellectual Property Enforcement Center
+
+CNN Business also showed Facebook a version of the video that had been posted on Facebook within 24 hours of the attack and was still on the platform. That clip had been viewed 3,400 times.
+
+In both cases, Facebook said it did not catch these versions of the video because of the way the clips had been edited from the original version of the shooter’s video.
+
+Facebook has been using a process known as “hashing” to identify copies of the video that have been edited or manipulated. Video hashing is a method that can be used to identify different versions of the same video that have been posted online. Video hashing works by breaking down videos into key frames that are then given a unique alphanumerical signature, known as a hash. Hashes are stored in a database and are then compared against other videos on a platform to check if they also include the same frame, or matching hash.
+
+A Facebook spokesperson told CNN Business that the edited versions of the video Feinberg found did not match any of the other edited versions of the video it had seen before. The spokesperson said the company had hashed 900 different videos and that it would be adding the two videos CNN Business provided it to that database.
+
+“The problem is that their hashing technology doesn’t work the way it is supposed to,” Hany Farid, a professor at Dartmouth and expert in digital forensics and image analysis, told CNN Business, saying it should be able to catch videos that are manipulated.
+
+“When Facebook tells you that artificial intelligence is going to save them and us, you should ask how that is if they can’t even deal with the issue of removing previously identified content,” he said.
+
+Feinberg expressed a similar sentiment, saying he found Facebook’s apparent inability to identify the videos that he was able to spot concerning. “The video here is consistent content,” he said. “If they’re not able to get this video, what makes you think they will be able to go after ‘fake news’ and deepfakes which are inconsistent in their content?”
+
+Just last week, Facebook removed five copies of the video from Facebook and six from Instagram after Feinberg provided them to the New Zealand Herald. YouTube also removed four videos Feinberg identified on its platform after he provided them to the Herald.
+
+In total, Feinberg has identified 20 copies of the video live on Facebook and Instagram in recent weeks. He told CNN Business he was able to do so by using a system that relies primarily on keyword searches. When he searched Facebook for text written in Arabic relating to the attack he found the videos. Feinberg said he had tried this approach with dozens of other languages and had not found other videos.
+
+All the videos that Feinberg identified were accompanied by Arabic text that denounces the attack.
+
+In the days after the attack, Facebook said it had not only banned people sharing the video praising the attack but would ban any form of distribution of the video. “Given the severe nature of the video, we prohibited its distribution even if shared to raise awareness, or only a segment shared as part of a news report,” Guy Rosen, Facebook vice president, product management, wrote in a blog post on March 20th.
+
+Facebook failed to stop the original livestream of the attack and only removed the video after being contacted by New Zealand police.
+
+Facebook said that its artificial intelligence systems failed to detect the livestream while it was being broadcast and then “a core community of bad actors working together” began uploading edited versions of the video “in ways designed to defeat our detection.” The company came under intense criticism from the New Zealand government over the videos that were on its platforms.
+
+Details later shared by the company gave a sense of the scale of the problem. In the 24 hours after the attack, Facebook said it had stopped the reupload of 1.2 million copies of the original livestream and that it had removed a further 300,000 copies that were not stopped at upload and had been posted onto the platform.
+
+Although the livestream of the massacre was viewed about 200 times while it was being broadcast, no users reported the video to Facebook, the company said.

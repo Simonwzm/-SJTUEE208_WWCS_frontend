@@ -1,0 +1,41 @@
+Washington, DC CNN —
+
+Tired of standing in line? Wait a bit longer, and you may never have to again.
+
+Everyone from Amazon (AMZN) to Silicon Valley startups are trying to eliminate lines in retail stores.
+
+Amazon has opened 24 of its Amazon Go stores, which use cameras and artificial intelligence to see what you’ve taken off shelves and charge you as you walk out.
+
+Some startups such as San Francisco-based Grabango are closely mimicking Amazon’s approach of using AI-powered cameras mounted in ceilings to identify what you’ve removed from a shelf and then charge you for those items.
+
+But others are trying an entirely different route to skipping the checkout: smart shopping carts. These companies have added cameras and sensors to the carts, and are using AI to tell what you’ve placed in them. A built-in scale weighs items, in case you have to pay by the pound for an item. Customers pay by entering a credit card, or by using Apple Pay or Google Pay.
+
+When a customer exits the store, a green light on the shopping cart indicates that their order is complete, and they’re charged. If something goes wrong, the light turns red, and a store employee is summoned.
+
+One of Caper's smart shopping carts. John General/CNN
+
+The startups behind the smart carts, including Caper and Veeve, say it’s much easier to add technology to the shopping cart than to an entire store. Amazon’s Go stores rely on hundreds of cameras in the ceiling. The shelves also include sensors to tell when an item is removed. So far, Amazon has focused on small format stores of about 2,000 square feet or less.
+
+Ahmed Beshry, co-founder of Caper, believes the technology to run Go is too expensive to use in a large-format grocery store.
+
+Amazon reportedly considered expanding to thousands of the Go stores. But it’s only opened a couple dozen so far, possibly adding credence to the point that they’re expensive to operate. Two of the stores are currently closed for renovations.
+
+Amazon declined to comment for this story. Neither Caper AI nor Veeve have said how much their smart shopping carts will cost, making it difficult to compare the different formats.
+
+Shariq Siddiqui, CEO of Veeve, said he’s finding increased interest from retailers given Amazon’s steady expansion of Go since opening the first store in Seattle in 2018.
+
+“We’re always happy when Amazon is doing something,” Siddiqui said. “They force retailers to get out of their old school thinking.”
+
+Veeve is testing several of its shopping carts in an unnamed Seattle retailer. It’s announcing a larger deployment in early 2019, and Siddiqui says the company is in talks with two of the country’s 10 largest retailers.
+
+Siddiqui said the shopping carts will eventually offer customers real-time coupons. When a customer puts, say, peanut butter in their cart, they may be offered a 10% discount on jelly.
+
+But there are still kinks to work out in the technology.
+
+Caper, which has small pilots in Canada and New York City, is currently having customers scan items on a barcode scanner built into the cart, before placing them in it. The process helps to teach the AI system to identify the store’s items.
+
+Anytime a business uses artificial intelligence and cameras, it raises questions about customer privacy and the impact on jobs.
+
+Beshry notes that the cameras in his shopping cart point down into the cart, so only a customer’s hand and part of their arm will be captured on camera.
+
+Siddiqui said he envisioned grocery store cashiers shifting to roles where they freely float around stores and answer customers’ questions, a format similar to the Apple Store.

@@ -1,0 +1,11 @@
+Alphabet Inc's Google on Tuesday announced its second try at enabling advertisers to buy ads based on users' browsing interests without having to rely on what it has described as privacy-invasive tracking cookies.
+
+Google wants to block tracking cookies in its Chrome web browser by the end of next year, which would prevent advertising companies from logging the websites someone is visiting. Advertisers, website owners and privacy groups have all raised alarms over the planned transition, and complaints have led antitrust authorities in the United States, United Kingdom and elsewhere to watch Google's plans closely.
+
+Online ad buyers and sellers are weighing successors to the cookies. Options include tracking users by asking for their email addresses to access websites or adopting new technologies that Google, Mozilla and other browser makers could build into their software.
+
+Google's initial solution, known as Federated Learning of Cohorts, or FLoC, aimed to constantly group people into big baskets designed by algorithms based on websites users visited in the last week. Advertisers could show ads to a preferred basket, but they would not know the individuals in it or what interest they shared in common.
+
+But in tests last year, some advertisers found FLoC less effective than cookies for choosing users to target and the system carried the risk of exposing an individual's browsing history, Google product director Vinay Goel told Reuters.
+
+Read More

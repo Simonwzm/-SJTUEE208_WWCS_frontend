@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190107220552-samsung-logo.jpg?q=x_5,y_236,h_2560,w_4550,c_crop/w_800

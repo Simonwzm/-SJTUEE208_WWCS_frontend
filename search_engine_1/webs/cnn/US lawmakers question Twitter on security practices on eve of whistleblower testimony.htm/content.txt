@@ -1,0 +1,11 @@
+(CNN Business) US lawmakers sent Twitter more than a dozen questions about its security practices Monday, on the eve of a company whistleblower's testimony before Congress in which he is expected to outline damning allegations of security and privacy vulnerabilities at the embattled social media company.
+
+In a letter addressed to CEO Parag Agrawal, leading members of the Senate Judiciary Committee questioned Twitter about the steps the company takes to secure personal data on its platform; how it protects against insider threats and foreign intelligence operatives; and allegations it's intentionally misled regulators about Twitter's privacy protections for users, claims that could lead to billions of dollars in fines for Twitter if they are proven.
+
+The committee also invited Agrawal to testify alongside the whistleblower, Peiter "Mudge" Zatko , according to a copy of the letter obtained by CNN. But a committee aide told CNN on Monday evening that the official witness list for Tuesday's hearing remains unchanged and that Zatko continues to be the sole witness, an indication that Twitter has declined the invitation.
+
+Twitter TWTR declined to comment.
+
+The letter requests responses from Twitter by Sept. 26.
+
+Read More

@@ -1,0 +1,11 @@
+(CNN) The hackers who took over a number of high profile Twitter accounts, including those belonging to Barack Obama and Elon Musk, for several hours this summer gained entry into Twitter's internal systems simply by posing as company IT officials making a support call, according to an investigative report Wednesday by New York regulators.
+
+At the time of the July 15 attack, Twitter had no chief information security officer and suffered from poor internal security controls, the report concluded.
+
+Officials behind the report called for additional cybersecurity regulation of major tech platforms.
+
+"In other industries that are deemed critical infrastructure, such as telecommunications, utilities, and finance, we have established regulators and regulations to ensure that the public interest is protected," said the report from New York's Department of Financial Services. "With respect to cybersecurity, that is what is needed for large, systemically important social media companies."
+
+In a statement, Twitter said it has taken steps to enhance the security of its platform, cooperated with the Department's investigation, and that multiple arrests have been carried out in the wake of the attack.
+
+Read More

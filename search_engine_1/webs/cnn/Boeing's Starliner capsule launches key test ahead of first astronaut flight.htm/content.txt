@@ -1,0 +1,27 @@
+New York CNN —
+
+A Boeing spacecraft designed to carry astronauts to the International Space Station shot off a launch pad in New Mexico Monday to test out its emergency abort system.
+
+It was expected to be one of the last milestones that Boeing needs to reach before the spacecraft, Starliner, could be cleared to start flying humans — and Boeing deemed the test a success.
+
+But it did not go exactly as planned: Only two of the vehicle’s three parachutes deployed.
+
+Boeing said in a statement that it’s “too early to determine” what went wrong — “however, having two of three [parachutes] deploy successfully is acceptable for the test parameters and crew safety.” The company added that it does not expect any delays to the next major test on the horizon: a demonstration trip into orbit without crew on board. That trip is scheduled for December 17.
+
+“Going forward we will do everything needed to ensure safe orbital flights with crew,” Boeing said.
+
+Starliner will launch into space atop a rocket built by United Launch Alliance, a joint venture between Boeing and Lockheed Martin. The pad abort test is designed to demonstrate how the Starliner capsule will eject itself, and any crew members on board, away from a rocket if it malfunctions.
+
+During Monday’s test, Starliner fired into the air for about 20 seconds using specialized abort engines, and it followed an arc-shaped path to a nearby landing. The spacecraft jettisoned its heat shield and service module mid-air, leaving the saucer-shaped crew compartment to deploy a halo of airbags before drifting to a landing about one mile away from the launch site — using two parachutes instead of three.
+
+It was not immediately clear if further parachute testing will be required or if it could result in further delays in the overall Starliner program.
+
+Kathy Lueders, NASA’s Commercial Crew program manager, said in a statement that the space agency is “thrilled with the preliminary results” and the next step is “digging into the data and analyzing whether everything worked as we expected.”
+
+NASA asked the private sector to develop crew-worthy spacecraft to replace the Space Shuttle program after it was retired in 2011. SpaceX was allotted $2.6 billion and Boeing was awarded $4.2 billion in 2014. NASA originally predicted both companies’ spacecraft would be up and running by 2017, but both vehicles are behind schedule.
+
+During its demonstration flight next month, the Starliner vehicle will fly into orbit without humans on board, dock with the International Space Station, and then return to earth. The capsule will use its parachutes on that mission to soften the landing, just as it will on operational missions. NASA said last month that Boeing could launch that mission on December 17.
+
+SpaceX’s Crew Dragon capsule has already completed an uncrewed demonstration mission. But it still has a key test ahead: The company plans to conduct an in-flight test of its emergency abort system, which will involve putting Crew Dragon on top of a SpaceX Falcon 9 rocket, launching it, then testing the escape mechanism.
+
+Musk said on Twitter that the test could happen in late November or early December.

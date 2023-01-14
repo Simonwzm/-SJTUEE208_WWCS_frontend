@@ -1,0 +1,49 @@
+Hong Kong (CNN Business) China is planning to tighten restrictions for Chinese companies that want to list overseas . And while Beijing won't ban them from trading abroad altogether, life might be getting a lot tougher for firms hoping to score more foreign investment.
+
+China's securities regulator proposed late Friday that any firm that wants to go public in another country has to register with the agency first, and then meet a set of requirements set forth by government officials.
+
+"Domestic enterprises issuing and listing overseas shall strictly abide by laws, regulations and relevant provisions on national security such as foreign investment, cybersecurity and data security, and earnestly fulfill the obligations of national security protection," the China Securities Regulatory Commission said in its proposal.
+
+It made clear that companies may be blocked from holding foreign initial public offerings if authorities deem them threats to national security, and added that companies may be required to divest some assets "to eliminate or avoid the impact of overseas issuance and listing on national security."
+
+The draft rules are open for public feedback until late January.
+
+On Monday, the Chinese government took additional steps to explain its authority over foreign listings.
+
+Two major authorities clarified rules related to the country's "negative list," which includes sectors usually banned from foreign investment, such as publishing and telecommunication.
+
+According to the statement from the National Development and Reform Commission and the Ministry of Commerce, companies that are doing business within the scope of the negative list should get permission from the Chinese regulatory authorities if they want to go for an IPO overseas.
+
+Foreign investors will not be allowed to participate in the management of such companies. The authorities also stressed that a single foreign investor should not hold more than 10% of a company's total shares, and foreign investment overall in one company should not exceed 30%.
+
+The announcements come after weeks of speculation about when and how Beijing might tighten its scrutiny over IPOs. Washington has also enacted audit rules that could affect Chinese firms, a sign of continuing tensions between the United States and China.
+
+Earlier this month, the Financial Times reported that the country was expected to "tightly restrict" the ability for companies that use a structure called a variable interest entity, or VIE , to raise money from foreign investors.
+
+Alibaba BABA Pinduoduo PDD JD.com JD A VIE involves creating an overseas holding company that allows investors to own a stake in a Chinese company that would otherwise be difficult because of restrictions in the mainland. Companies like Chinese ride-hailing giant Didi and e-commerce and tech firmsandhave all benefited from the system.
+
+Friday's draft rules and the Monday statement do not mention VIEs.
+
+But a spokesperson for the securities regulator said in published remarks on Friday that firms using that kind of structure would still be allowed to list overseas, so long as they comply with the government rules and register with the regulator.
+
+"VIEs were always intended to evade Chinese regulatory control, and while Beijing long turned a blind eye, its former laissez-faire attitude has now clearly changed," said Brock Silvers, managing director at Kaiyuan Capital.
+
+"Data security does play a role, but the real issue seems to be control," he told CNN Business.
+
+Even if Beijing is not closing the door on overseas listings entirely, the government has taken several steps this year that seem intended to discourage Chinese companies from trading in foreign markets, which the country fears could pose risks to national security.
+
+Didi became a poster child of Beijing's tech crackdown earlier this year, when the government banned it from app stores just days after its June IPO on the New York Stock Exchange.
+
+Authorities at the time accused Didi of breaking privacy laws and posing cybersecurity risks. Their actions were also widely seen as punishment for the company's decision to go public overseas instead of in China. In the weeks after the IPO, Beijing proposed that companies with data on more than 1 million users seek approval before listing overseas.
+
+The pressure isn't just coming from Beijing. Earlier this month, the US Securities and Exchange Commission finalized rules that would allow it to delist foreign firms that refuse to open their books to US regulators. China has for years rejected US audits of its firms, citing national security concerns.
+
+"While some Chinese companies may still push forward despite the added costs and complexities, the appeal of VIE shares has been markedly reduced," Silvers said.
+
+The uncertainty appears to be weighing on some firms. Earlier this month, Didi announced that it would "immediately" start the process of delisting from the New York Stock Exchange and pivot to Hong Kong.
+
+Baidu BIDU NetEase NTES Several other US-listed firms, includingand JD.com, also now trade in Hong Kong, but none of those big names have yet to mirror Didi's decision to pull out of New York entirely.
+
+"While Beijing's new laws restricting foreign IPOs by Chinese firms don't ban foreign listings outright, they will accelerate fragmentation of global financial markets in a profound way," said Alex Capri, a research fellow at the Hinrich Foundation. "China's cascade of new regulatory requirements, screenings, waivers, permissions and increased scrutiny around things like data security and foreign ownership are the equivalent of financial non-tariff barriers. The new red tape, much of which is opaque, simply isn't worth the hassle or the risk."
+
+-- CNN's Beijing bureau and Cheryl Ho contributed to this report.

@@ -1,0 +1,23 @@
+New York CNN Business —
+
+The world’s biggest election has tech companies scrambling to try and put a lid on misinformation in India. Twitter is now trying to make it easier for users to flag fake news aimed at voters.
+
+The social network has made changes to its reporting tools to specifically target content that misleads voters, it announced Wednesday. The changes will take effect on April 25.
+
+“Voting is a fundamental human right and the public conversation occurring on Twitter is never more important than during elections,” the company’s safety team said in a statement.
+
+Protecting the health of the public conversation is our singular mission. This is especially important during #LokSabhaElections2019. This is why we are launching a new reporting feature to tackle deliberate attempts to mislead people during voting. https://t.co/T0MpSEqyyS pic.twitter.com/wfVXTpyeLI — Twitter India (@TwitterIndia) April 24, 2019
+
+Starting Thursday, users who report tweets in India will see a new option to flag them as being “misleading about voting.”
+
+Twitter (TWTR) said the category includes content that misinforms people about how to vote — wrongly saying they can vote via social media, text or phone call, for example — or false information about requirements for voting and election dates.
+
+It’s the latest attempt by social media platforms to crack down on misinformation during India’s national election, in which 900 million people are eligible to vote and which concludes on May 23.
+
+Other platforms like Facebook (FB) and its mobile messaging service WhatsApp have also added several measures to prevent hoaxes from going viral in India, partnering with fact-checking organizations and using artificial intelligence to detect problematic behavior.
+
+But experts say India’s nearly 600 million internet users present an enormous challenge, and a lot of misinformation is likely to slip through the cracks.
+
+That hasn’t stopped companies from trying. Facebook and Twitter have also cracked down on political advertising, recently making it easier for users to view who created and paid for political ads.
+
+Twitter will extend its new reporting feature to users in the European Union on April 29, ahead of the bloc’s parliamentary elections in May. The feature will later “roll out to other elections globally throughout the rest of the year,” it said.

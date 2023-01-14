@@ -1,0 +1,49 @@
+(CNN Business) Chinese technology company Huawei is backtracking on a patent application it filed for a facial recognition system intended to identify Uyghurs from other Chinese ethnicities.
+
+Filed in July 2018 by Huawei and the government-affiliated Chinese Academy of Sciences, the patent application said the "identification of pedestrian attributes is very important" in facial recognition technology.
+
+"The attributes of the target object can be gender (male, female), age (such as teenagers, middle-aged, old) [or] race (Han, Uyghur)," the application said. It was revealed in a new report from the BBC and IPVM , an independent group which monitors video surveillance technology.
+
+A Huawei spokesperson said in a statement to CNN Business that the company would "amend" its patent, adding that the ethnicity identification feature should "never have become part of the application."
+
+"Huawei opposes discrimination of all types, including the use of technology to carry out ethnic discrimination," the spokesperson said. "We are continuously working to ensure new and evolving technology is developed and applied with the utmost care and integrity."
+
+Beijing maintains that the camps are vocational training centers that help to deradicalize citizens. But Uyghur exiles have described the crackdown as "cultural genocide," with former detainees saying they were indoctrinated and abused
+
+IPVM political director Conor Healy said that Huawei needed to explain why the feature had been part of the patent application in the first place.
+
+"What possible reason could there be that they would go file patents and develop a facial recognition system that literally involves hours and hours of training a computer to detect what race somebody is?" he told CNN Business.
+
+"There are very few uses for that kind of technology that benefit humanity."
+
+Huawei wasn't the only company that IPVM said had filed this kind of patent.
+
+According to IPVM, Chinese tech startup Megvii submitted a patent application in June 2019 for a system which mentioned an "ethnicity classification" that would include "Han, Uyghur, non-Han, non-Uyghur and unknown."
+
+In a statement to CNN Business, Megvii said that it would "withdraw" the 2019 patent application, which it said was "open to misunderstanding." "Megvii has not developed and will not develop or sell racial or ethnic labelling solutions," the statement said.
+
+IPVM also found another Chinese tech startup, Sensetime, mentioned in a patent application in July 2019 that it could identify people by ethnicity, specifically singling out "Uyghur" as a possibility.
+
+Sensetime told CNN Business that the reference to Uyghurs was "regrettable," adding that it was "one of the examples within the application intended to illustrate the attributes the algorithm recognizes."
+
+"It was neither designed nor intended in any way to discriminate, which is against our values," a spokesperson said in a statement. "We will update the patent at the next available opportunity."
+
+IPVM's report is the latest in a series of revelations about the questionable facial recognition practices of Chinese technology giants.
+
+Alibaba BABA In December,said that it would no longer try to identify faces by ethnicity after IPVM reported that a division of the company had shown clients how their facial recognition system could detect Uyghurs.
+
+In the same month, the Washington Post alleged that Huawei had tested facial recognition software capable of sending automatic "Uyghur alarms" to government authorities if a member of the ethnic minority was detected by its camera systems.
+
+At the time, Huawei had denied that it would "develop or sell systems that identify people by their ethnic group."
+
+"We do not condone the use of our technologies to discriminate against or oppress members of any community," the company said in a statement posted to its website.
+
+The latest report comes as governments around the world are increasingly pressuring companies whose products may be linked to alleged forced labor camps in Xinjiang.
+
+On Wednesday, the US government announced that it would ban all cotton and tomato products from Xinjiang. One day earlier the UK government declared that it would fine companies that hid economic connections to Xinjiang, as the government attempted to crack down on products of forced labor entering the country.
+
+In analysis written for its latest report, IPVM said that the inclusion of Uyghur tracking in the patent applications for top China tech companies showed "how prevalent this racist technology is" in the country.
+
+"This is a clear example of People's Republic of China's human rights abuse against Uyghur people, and also represents a long-term risk for the broader video surveillance industry's reputation," IPVM said.
+
+-- Michelle Toh contributed to this report.

@@ -1,0 +1,11 @@
+Washington, DC (CNN Business) The Federal Trade Commission says it's considering drafting new rules for US businesses that would more strongly regulate how they can use data and algorithms, in the latest move to clamp down on technology companies run amok.
+
+The effort could lead to "market-wide requirements" targeting "harms that can result from commercial surveillance and other data practices," agency chair Lina Khan announced in a letter to Sen. Richard Blumenthal dated Dec. 14, and shared by the senator's office Friday.
+
+For years, regulators presumed that consumers could protect themselves from predatory practices by revoking their consent to being tracked. But it has become increasingly obvious that that so-called "notice-and-consent" approach has "serious shortcomings," wrote Khan, a vocal tech industry critic who has led the charge on reining in giants like Amazon, Apple, Google and Facebook (now Meta). In particular, she said, many Americans feel they have no choice but to have their data harvested and used in ways they disagree with, simply to participate in modern life.
+
+Sundar Pichai, Mark Zuckerberg, Jeff Bezos, Tim Cook
+
+The announcement of a potential rule making is a shot across the bow not just of Silicon Valley, which pioneered the use of data to drive business decisions, but of the growing number of companies and industries that have turned data mining into lucrative revenue streams — ranging from entertainment to insurance to retail.
+
+Khan's letter follows a September request by nine Senate Democrats for an agency rule making that would set guardrails on the use of consumer data.

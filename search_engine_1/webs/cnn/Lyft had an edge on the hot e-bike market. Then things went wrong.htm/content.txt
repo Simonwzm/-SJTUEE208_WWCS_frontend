@@ -1,0 +1,57 @@
+Washington, DC CNN —
+
+In its mission to end car ownership by offering a range of alternatives, Lyft has become one of the leading ridesharing and bikesharing companies in the world. But it can’t seem to find its footing when it comes to the wildly popular electric bikesharing market.
+
+Lyft entered into the e-bike market in 2018 when it bought New York City-based Motivate, which operates the country’s largest bikeshare fleets. Earlier that year, Motivate had begun testing ebikes in New York, Washington DC and San Francisco and they were quickly becoming more popular than regular bikes.
+
+But last year, a series of accidents forced Lyft to twice pull its e-bikes off the streets.
+
+While the company has been busy repairing its bikes and slowly returning them to market, competitors like Uber have stepped in. Today, 48 North American markets offer e-bikesharing, according to the North American Bikeshare Association.
+
+Uber told CNN Business that its electric bike service, Jump, gave six times as many rides in 2019 as the year before. Other bikeshare companies, such as PBSC Urban Solutions, have reported their e-bikes are now more popular than their traditional bikes. Sales of e-bikes for private use has grown, too. Deloitte recently forecasted that 130 million e-bikes will be sold in the next four years.
+
+“Lyft had a lot of hiccups and is missing an opportunity,” said Gabe Klein, a consultant at Cityfi who previously launched bikeshare systems in Chicago and Washington, DC. “It’s been surprising. You’d think a tech company with the war chest that Lyft has would have an easier time of this.”
+
+A series of stumbles
+
+Lyft’s cofounders, John Zimmer and Logan Green, have described both traditional and electric bikesharing as a critical part of the company’s mission.
+
+“We see the introduction of bikes and scooters to our cities’ shared transit ecosystems as one more step in Lyft’s civic responsibility,” Zimmer wrote in 2018, shortly after announcing Lyft would acquire Motivate. “We have a once-in-a-generation opportunity for the private and public sectors to work together to make our cities designed for people, not cars.”
+
+When Lyft first entered the market, it had an edge over Uber. Motivate already had e-bikes on the ground in three major cities and it held the exclusive rights to operate several other markets, including Chicago and Boston. The existing contracts, infrastructure and relationships with local governments that Motivate had put in place would make it easier for Lyft to launch in new markets.
+
+But when it came to electric bike technology, Lyft had to play catch up. Uber’s purchase of Brooklyn, New York-based Jump in 2018 put Lyft at a distinct disadvantage. Jump had already designed custom built electric bikes and began putting them on the streets in 2017. Lyft, meanwhile, was using a traditional pedal bike that was modified to be electric.
+
+And that’s where the problems started.
+
+Last April, Lyft was forced to pull more than 3,000 of its electric bikes from Washington, DC, New York and San Francisco, following a spree of crashes in which riders were thrown over the handlebars when the front brake applied too much pressure, freezing the wheel in place. Experts told CNN Business that the design of the bicycles made them more vulnerable to riders flipping over the handlebars.
+
+Shimano, the maker of the troubled brakes, said that Lyft did not appear to include a power modulator to prevent excessive braking. Lyft has declined to comment on the brakes.
+
+Lyft’s new e-bikes have a different style brake, a disc brake, which takes up more space and requires more room in the dock, forcing the company to retrofit its docking stations in several markets.
+
+In markets such as Washington, DC, Lyft is currently retrofitting the lining of its docking stations to include more room to fit e-bikes. Matt Mcfarland/CNN
+
+Lyft returned its e-bikes to the San Francisco market in June. But just seven weeks later, it had to remove them again after at least one battery caught fire. It has since switched to a new battery supplier and has been slowly returning e-bikes to the area in recent weeks.
+
+Still, the company continues to hit snags.
+
+Lyft missed its goal of returning e-bikes to New York by last fall. The company said it was taking longer than anticipated to get the components for the bikes and complete safety tests. It has said it will return e-bikes to New York within the next couple of months.
+
+Lyft said it expects to bring its e-bikes back to Washington, DC, by the spring, around the same time it plans to enter into the Chicago and Columbus, Ohio, markets. It’s also expected to bring its e-bikes to the Minneapolis market sometime this year.
+
+Without a dependable e-bike, Lyft’s inside track on the e-bikesharing market failed to translate into an early success. In DC, for example, total ridership – for both e-bikes and regular bikes – on Lyft’s system dropped by 13.9% last year from its peak in 2017.
+
+Lyft did see gains in markets like Boston, New York and Chicago, which benefited from either expansions into new neighborhoods or regulations that restricted competing e-bikes and scooter companies from entering the market.
+
+Will investors force it to pull out of e-bikes?
+
+Lyft has been struggling to turn a profit. On Wednesday, it announced that it’s laying off 90 staffers as part of a restructuring aimed at making the company profitable by the end of 2021. A spokeswoman said the cuts did not impact its bikes division, and that Lyft plans to hire 1,000 new employees this year.
+
+The company won’t reveal how much it has invested in electric bikes or how much it has spent on the repairs.
+
+But ultimately, e-bikes remain a small part of Lyft’s business compared to ridesharing, according to Karan Girotra, a Cornell Tech professor who has studied the bikesharing industry. Nevertheless, investors may pressure Lyft to limit its investments in e-bikes, he said, because it’s not a particularly profitable business.
+
+Girotra pointed to European cities, such as Paris, Barcelona and London, that view bikeshare as a public utility and provide more support than US markets, which helps make the businesses more viable.
+
+“For a city, the investment makes a lot of sense. For a company trying to make money, it might make less sense,” he said. “Bikeshare has the promise of reducing congestion, improving public health and making public transportation more effective. The gains go to society as a whole, not an operator like Lyft.”

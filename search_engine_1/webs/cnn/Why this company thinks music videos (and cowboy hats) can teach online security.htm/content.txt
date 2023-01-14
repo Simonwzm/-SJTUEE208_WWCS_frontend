@@ -1,0 +1,13 @@
+(CNN Business) In January 2021, Rachel Tobac came up with a silly take on a serious topic: A sea shanty-like video in which she sang a tale about the importance of password security and multi-factor authentication. It came complete with a hauntingly harmonized chorus that includes the words, "Soon may a criminal come to steal your pictures and data and run."
+
+Tobac, the CEO and cofounder of SocialProof Security, spends a lot of time thinking about how to educate people about the importance of protecting their digital data. At the time, she said, sea shanties were trending on TikTok, so the genre felt appropriate; she tweeted her video thinking it would be fun (and possibly helpful) to others.
+
+SocialProof Security is making music videos companies can use to teach employees about information security, such as this one, which covers tips to avoid becoming a victim of phishing.
+
+She soon realized she had tapped into something bigger: Corporate training sessions — whether done in person or via video — are often boring and hard to remember. And dozens of companies reached out to her in the wake of her tweet, asking if they could use it as part of their security awareness training. She said sure, offering it for free, and about half of those who used it later told her the song made it easier to get employees to sign up for password managers and enforce the use of multi-factor authentication. They asked her to make more music.
+
+Now, what started as a fun side project is a real product that SocialProof Security, which trains companies' employees on information-security topics via workshops, trainings, and hacking demonstrations, is selling to its customers. The company is making slickly packaged music videos, such as a country western tune about how to spot a phishing scam.
+
+Tobac posted a trailer introducing the music videos on Twitter in early August, including a ditty called "Don't Get Hacked," which has an '80s pop vibe. Within two days, 140 companies reached out asking for demos of her company's music-video approach to information security, and a number have already signed up as customers. (Tobac wouldn't name specific companies that signed up for the music video product, but in general SocialProof Security's customers include a wide range of large companies such as Google, Meta, Lululemon, and Prudential, as well as the US Air Force and some universities.)
+
+Read More

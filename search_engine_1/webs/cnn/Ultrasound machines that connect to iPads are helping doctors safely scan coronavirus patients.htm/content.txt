@@ -1,0 +1,39 @@
+San Francisco CNN Business —
+
+When Butterfly Network first began rolling out its handheld ultrasound scanners in 2018, much of the focus was on providing tools to parts of Africa and Latin America, where access to large and more traditional ultrasound machines was far more restricted. But two years later, a technology that was positioned to help the developing world may find a new use in the United States as hospitals adapt to the new challenges of the coronavirus pandemic.
+
+Getting an ultrasound examination can be a long process that usually entails a visit to the hospital and the use of equipment worth tens of thousands of dollars. And while ultrasounds can help in the treatment of the coronavirus by scanning a patient’s lungs, getting patients to an exam room risks exposing others to the virus and further straining an already overstressed healthcare system.
+
+That’s where Butterfly Network’s device and others like it could help. The Butterfly iQ consists of a handheld probe similar to the one attached to traditional ultrasound machines, but instead is attached to a cable that connects to a smartphone or tablet through its charging port. Doctors can then view the images on the screen through Butterfly’s app.
+
+“I don’t need to transport that patient to another area of the hospital for additional imaging and exposure to additional staff and potentially patients along the way,” said Mike Stone, a Portland-based emergency physician and Butterfly Network’s director of education.
+
+“The fact that I can bring a handheld ultrasound system that plugs into a phone into a room, do the exam I need, get the information I need, walk out and disinfect a phone and a probe — compared to wheeling in a cart with three different probes on it, doing that same exam, getting that same information … it’s really night and day,” he added.
+
+The Butterfly iQ is one of several products trying to streamline the process. Companies such as GE and Philips, as well as some smaller firms, are also building tools that allow doctors to carry ultrasound devices in their pockets. While there may be limitations and some tradeoffs in quality, some doctors believe the benefits are clear.
+
+“The image quality may not be great, but the image quality is there, it can communicate the message that I’m trying to see,” said Jagat Narula, director of the cardiovascular imaging program at New York’s Mount Sinai hospital system. “And if I’m going to do a point of care ultrasound on the bedside of a patient, it would give me almost everything that I require.”
+
+Narula is not affiliated with Butterfly Network and has only done a brief demo of the Buttefly iQ, though he said he regularly uses similar products from Philips and GE.
+
+The coronavirus has opened up a new front in the technology’s use, allowing doctors to conduct lung scans much faster and with minimal exposure to the virus. Butterfly Network has previously attracted high-profile investors including financial services firm Fidelity and the Bill and Melinda Gates Foundation, which took part in a $250 million fundraising round in 2018 that valued the company at $1.25 billion. Butterfly says its handheld devices are used by thousands of hospitals around the world, and earlier this year it signed a deal with North Carolina-based hospital network Atrium Health to deploy them at dozens of hospitals in the US.
+
+It’s another example of hospitals turning to newer technologies as they deal with the coronavirus, from virtual reality training for doctors to two-way video calling devices for providers to check in with patients and even drones to deliver personal protective equipment.
+
+Portable ultrasound treatment, despite some limitations on the kinds of tests it can do, is “relatively inexpensive, lightweight, and portable [and] compares favorably to the physical exam,” according to an analysis last year published by the American College of Cardiology.
+
+Handheld devices also cost much less than traditional ultrasound machines. The ones sold by Butterfly, GE and Philips range in price from around $2,000 to $5,000, whereas traditional devices can cost tens or even hundreds of thousands of dollars, according to Narula.
+
+There are some limitations to the kind of functions the smaller devices can perform. The Butterfly iQ is currently equipped for 19 different types of scans and tests, which don’t include some of the more complex tests a traditional ultrasound machine can do. A “major” limitation, according to Narula and the ACC analysis, is the inability to perform the spectral Doppler test used to identify some more acute heart conditions.
+
+Stone says Butterfly Network does not aim to replace traditional ultrasound machines altogether. “We’re not trying to make the Butterfly iQ compare with a $200,000 ultrasound system,” Stone said.
+
+He also stressed that the device is not capable of diagnosing the coronavirus on its own — patients would still need a nasal swab test for that. What ultrasound can do is identify signs of stress in the lungs that can ensure more targeted and faster treatment.
+
+Despite their limitations, handheld ultrasound machines can be an effective substitute for many common scans, ensuring that larger machines can be used to treat only the most critical cases, Narula says. He estimates that handheld machines can help rule out the need for 70% of patients to get a test done in the lab.
+
+“So I’ll be able to optimize my testing,” he said.
+
+While the pandemic may help with wider adoption of the devices, Stone says the technology’s applications both precede coronavirus and will continue after the pandemic is over.
+
+“You can scan close to the entire body,” he said. “We were using lung sonography to look at patients with shortness of breath and chest pain far before Covid and we’ll be using it to look at them long after Covid has hopefully been handled.”

@@ -1,0 +1,13 @@
+(CNN Business) Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer.
+
+Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects. The supercomputer, which has been in the works for two years, may eventually help Meta develop far more powerful AI software — potentially useful for tricky tasks such as spotting hate speech in posts.
+
+models that use multi-modal signals — for example, to understand the context of a post, including language, images, and tone," Shubho Sengupta, a software engineer at Meta FB "With RSC, we can more quickly train [AI]models that use multi-modal signals — for example, to understand the context of a post, including language, images, and tone," Shubho Sengupta, a software engineer at, told CNN Business.
+
+Meta is building a massive supercomputer called "AI Research SuperCluster" to train artificial intelligence models. The company said it is one of the fastest AI supercomputers out there, and it thinks it will be the fastest in the world once it's fully built later this year.
+
+Supercomputers, which feature many interconnected processors clumped into what are known as nodes, have become increasingly popular and powerful in recent years for AI research. The US Department of Energy's Summit , which is the fastest supercomputer in the United States and the second fastest in the world, has been used to aid investigations into things like unfamiliar proteins. A few large tech companies, such as Microsoft and Nvidia, also have supercomputers for their own use.
+
+At its current size, Sengupta said, it's on par with the In a blog post Monday, coauthored by Sengupta, Meta said that, as of January, its supercomputer includes 6,080 GPUs divided among 760 nodes, potentially making it one of the most powerful in the world.At its current size, Sengupta said, it's on par with the Perlmutter supercomputer at the National Energy Research Scientific Computing Center, which ranks fifth in the world. When completed later this year, however, Meta said it will have 16,000 GPUs, and the company expects it will be capable of nearly five exaflops of computing performance — that's 5 quintillion operations per second.
+
+Read More

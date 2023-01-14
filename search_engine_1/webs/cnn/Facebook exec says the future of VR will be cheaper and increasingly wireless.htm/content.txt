@@ -1,0 +1,27 @@
+San Francisco CNN —
+
+A lot has changed in the nearly three-and-a-half years since the launch of Oculus Rift, the first high-end virtual reality headset for consumers. One thing that hasn’t changed? You probably still don’t own one.
+
+That headset, which at the time cost $599, had to be plugged into a pricy, powerful PC and used with special sensors placed around the room. Now, headsets that are wireless, self-contained, and cheaper are becoming more common.
+
+For example, Oculus Quest, which Facebook-owned Oculus released in the spring starting at $399, is much like Rift in an untethered, no-external-sensors-required package.
+
+Mike Schroepfer Facebook
+
+Even with those improvements, sales of VR headsets are still tiny compared to, say, video game consoles. But Facebook (FB) remains optimistic about the medium. And its chief technology officer, Mike Schroepfer, is especially positive about the future of VR, which he sees as becoming less expensive (and less tethered) over time.
+
+“We know if we can make it cheaper more will use it,” Schroepfer told CNN Business in an interview this week.
+
+Schroepfer said a key to making these headsets less costly and more compact is the tracking system behind the Quest headset. It relies on cameras, which are fairly inexpensive, to determine your movements and the location of handheld controllers.
+
+The team at Facebook is also considering whether it could cut costs by using lower-resolution cameras and make algorithm improvements for the same kind of tracking technology it’s currently using in headsets, Schreopfer said.
+
+Still, Facebook – along with other VR headset makers – faces a formidable challenge in getting more people interested in VR. While the hardware behind these devices has become much more portable and the overall costs of owning a system have shrunk, the technology hasn’t become a mass-market success.
+
+This year, tech market research firm IDC predicts that VR and AR headset makers will ship out 7.6 million headsets, the vast majority of which are expected to be VR. That’s up from 5.9 million headsets, also mostly VR devices, in 2018. But it’s still a small market. By comparison, IDC expects that 138.5 million smart speakers will ship out this year.
+
+An attendee uses the Oculus VR Inc. Quest virtual reality (VR) headset and controllers during the F8 Developers Conference in San Jose, California, U.S., on Tuesday, April 30, 2019. Facebook Inc.s Oculus virtual-reality division will start shipping its new Quest and Rift S headsets on May 21. Photographer: David Paul Morris/Bloomberg via Getty Images David Paul Morris/Bloomberg/Getty Images
+
+While a third of headsets are not being sold for consumer use, at least according to IDC figures, Schroepfer believes people do actually want VR at home. A big issue, Schroepfer believes, is that there still isn’t enough stuff for people to do with these headsets. This problem that has persisted for several years now. Developers are making games and other experiences for these headsets, but the amount of content is still tiny compared to what’s available for smartphones and gaming consoles.
+
+“Do people enjoy it? Absolutely,” Schroepfer said of VR today. “Do we have the breadth of content yet to entice them to buy it for home? For a certain audience, absolutely; for the broadest audience, not yet. But we’re working on it.”

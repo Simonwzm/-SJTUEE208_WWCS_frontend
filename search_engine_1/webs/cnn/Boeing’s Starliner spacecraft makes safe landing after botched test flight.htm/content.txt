@@ -1,0 +1,51 @@
+New York CNN —
+
+Boeing’s Starliner spacecraft made a soft touch down in the desert of New Mexico early Sunday. It marked the end of a tense two-day effort to return the vehicle to Earth after unexpected issues plagued its inaugural flight to orbit, forcing it to make an early return.
+
+The spacecraft launched an uncrewed test flight on Friday but had to abort its mission to dock with the International Space Station when it failed to put itself on the right trajectory.
+
+Starliner’s return on Sunday was a win for Boeing because experts will be able to retrieve valuable data about whether the spacecraft, which is designed to fly NASA astronauts to the space station, can execute a safe landing after returning from orbit.
+
+Boeing has worked for the past decade to prepare Starliner for crewed missions.
+
+NASA asked the private sector the design spacecraft capable of ferrying astronauts to the ISS after retiring the space shuttle program. NASA allotted Boeing $4.2 billion in 2014 for Starliner development and anticipated it would to be ready by 2017. But it’s suffered numerous delays and development setbacks. SpaceX, which was allocated $2.6 billion, is also building a crew-worthy spacecraft and is years behind schedule.
+
+The mission Starliner undertook this week was to be a massive milestone: It was expected to be the last major test before the craft was finally ready to fly NASA astronauts.
+
+Starliner successfully launched into space aboard a rocket Friday morning, but after detaching from the launch vehicle, it failed to put itself on the correct path to the space station.
+
+Officials attributed the problem to an unsynchronized clock: A misread by Starliner’s on-board systems put its timing system 11 hours off, Boeing executive Jim Chilton said Sunday.
+
+That triggered a ripple effect of other issues. It prevented the spacecraft from firing its engines at the right moment, which put it off course. And that caused the vehicle to lose connection with flight controllers on the ground for a crucial 8-minute period. Meanwhile, it burned through fuel it would have needed to comfortably correct course back toward the International Space Station.
+
+Ultimately, flight controllers determined that Starliner should not attempt to dock with the ISS, a feat that would require the spacecraft to maintain precise control as it approaches the massive orbiting laboratory while traveling more than 17,000 miles per hour.
+
+With that option off the table, Boeing officials decided to put Starliner on a path back home so it could focus on proving the spacecraft can safely return to its landing site in New Mexico.
+
+The spacecraft on Sunday guided itself back through the Earth’s atmosphere, deployed parachutes and a halo of air bags, and made a gentle touchdown.
+
+Boeing officials said Sunday the spacecraft appeared to be in good health.
+
+What’s next
+
+“Make no mistake this did not go according to plan in every way that we would have hoped, but it’s also true that we got a lot of really good information so we can keep making meaningful progress,” NASA Administrator Jim Bridenstine, who described the landing as an “absolute bullseye,” said Sunday.
+
+Boeing and NASA will need to spend “weeks or months” reviewing data, Bridenstine said.
+
+That data will include information collected by an anthropomorphic test dummy, nicknamed Rosie after the World War II icon Rosie the Riveter, which was strapped into Starliner and was equipped with dozens of sensors to measure the G-forces future astronauts may experience.
+
+Officials will also need to determine exactly what caused Starliner’s issues after liftoff on Friday.
+
+It’s not clear yet if NASA will require Boeing to repeat this test launch before clearing the spacecraft for crewed missions.
+
+Bridenstine said he would consider allowing the company to move forward. He noted that if astronauts had been on board this test flight they may have been able to override the faulty autonomous system and taken manual control of spacecraft.
+
+Mike Fincke and Nicole Mann, two of the astronauts slated to fly on Starliner’s first crewed mission, confirmed that suggestion during a press conference Friday.
+
+“We train extensively for this type of contingency,” Mann said. “This vehicle has a new level of automation that we’ve never seen before. And what we’re doing is testing that automation, and that’s why you have test pilots on board” early missions.
+
+But NASA wants Starliner to be able to function without human input. Mann and Fincke are specially trained test pilots, but Starliner is intended to provide rides for all types of astronauts — including scientists and research specialists.
+
+One unfortunate outcome of Starliner’s failure to complete its full mission: There were holiday gifts on board that were supposed to be delivered to astronauts currently on board the space station.
+
+After thanking NASA for its support, Boeing’s Chilton said he’d “like to express Boeing’s regrets to the ISS crew to whom we did not bring the Christmas presents. Not cool.”

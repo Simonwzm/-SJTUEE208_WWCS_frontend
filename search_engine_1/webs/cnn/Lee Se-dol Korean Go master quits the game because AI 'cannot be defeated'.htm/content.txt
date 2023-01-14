@@ -1,0 +1,27 @@
+Hong Kong CNN Business —
+
+A South Korean master of the ancient strategy game Go has announced his retirement from professional competition due to the rise of what he says is unbeatable artificial intelligence.
+
+The news that Lee Se-dol is bowing out comes three years after he lost in a closely watched series against Google’s AlphaGo in 2016.
+
+Lee managed to win one game out of five against Google’s computer program — the only time it has been beaten in competition — but was ultimately defeated. Since then, AlphaGo has become even more advanced, beating other top players around the world.
+
+“With the debut of AI in Go games, I’ve realized that I’m not at the top, even if I become the number one through frantic efforts,” Lee told South Korea’s Yonhap news agency this week. “Even if I become the number one, there is an entity that cannot be defeated.”
+
+Lee told the news agency that his victory in 2016 was likely down to a bug in Google’s code, after he used a move that could not be “countered straightforwardly” and the program responded in an unusual way that gave him an opening and eventually forced AlphaGo to surrender.
+
+South Korean professional Go player Lee Se-dol attends a press conference after a match against Google's artificial intelligence program, AlphaGo on March 10, 2016 in Seoul, South Korea. Pool/Getty Images AsiaPac/Getty Images
+
+Software programs long ago became adept at classic board games like backgammon. Their rapid progress culminated in the historic victory of IBM’s Deep Blue computer over world chess champion Gary Kasparov in 1997.
+
+In Go — which dates back to ancient China — two players alternate placing white and black stones on a grid. The goal is to claim the most territory. To do so, players surround their opponent’s pieces so that they are removed from the board.
+
+The board’s 19-by-19 grid is so vast that it allows a near infinite combination of moves, making it tough for machines to comprehend, and something of a holy grail for artificial intelligence scientists.
+
+Using deep-learning artificial intelligence however, programs such as AlphaGo have been able to build up their mastery over the years and draw on data from thousands of games.
+
+The 36-year-old Lee, who won 18 international competitions and 32 domestic tournaments, according to Yonhap, resigned from the Korea Baduk Association (KBA) this month, ending a 24-year career. Baduk is the Korean name for Go.
+
+While Lee is no longer playing professionally, he is helping to develop just the type of AI that pushed him out of competition. Next month, he has a match against HanDol, a South Korean AI program which has already defeated the country’s top five Go players. Lee will also start with the edge in the first match.
+
+“Even with a two-stone advantage, I feel like I will lose the first game to HanDol,” he said. “These days, I don’t follow Go news. I wanted to play comfortably against HanDol as I have already retired, though I will do my best.”

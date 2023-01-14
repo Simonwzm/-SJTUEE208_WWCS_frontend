@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191023061222-google-quantum-computer.jpg?q=x_2,y_70,h_898,w_1596,c_crop/w_800

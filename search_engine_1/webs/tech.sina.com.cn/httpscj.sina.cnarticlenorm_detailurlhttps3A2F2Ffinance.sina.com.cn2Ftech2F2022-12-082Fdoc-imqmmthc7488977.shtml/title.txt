@@ -1,0 +1,1 @@
+索尼Camera Remote SDK正式上线，将相机集成到应用程序中

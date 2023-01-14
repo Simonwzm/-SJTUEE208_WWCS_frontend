@@ -1,0 +1,53 @@
+San Francisco CNN Business —
+
+Since the start of 2020, the biggest names in US tech have invested around $17 billion in India.
+
+Amazon (AMZN) pledged $1 billion in January, Facebook (FB) invested nearly $6 billion in late April and Google (GOOGL) topped them all last week with a $10 billion commitment. They’re part of a wave of investment into India’s tech industry this year that’s now well over $20 billion, with most of it coming from the United States.
+
+The magnitude and sources of those investments would have seemed highly unlikely, if not outright unthinkable, just months ago when all those technology companies were on a collision course with Indian regulators and tech CEOs were getting the cold shoulder on visits to New Delhi.
+
+A lot has changed since then. The coronavirus has ripped through the global economy, hitting India particularly hard. India’s diplomatic spat with China has spilled over into tech, aligning it with the Trump administration’s own distrust of Chinese companies. And while India has always been a big draw for US tech firms, the diminishing scope for tech cooperation with China and new threats to their foothold in places such as Hong Kong are giving new importance to the Indian market.
+
+But the flood of investment also highlights something that has now been true for years: India’s digital economy, with more than 700 million internet users and roughly half a billion yet to come online, is simply too big a prize for Big Tech to ignore for long.
+
+“People have confidence that, long term, India is going to be a good market, that long term, its regulations are going to be fair and transparent enough,” said Jay Gullish, who heads tech policy at the advocacy group US-India Business Council. “I think these are just … deepening roots that already exist.”
+
+The China factor
+
+Silicon Valley has been largely shut out of China for years, thanks in part to the country’s massive censorship mechanism dubbed the Great Firewall. And a controversial new national security law imposed in Hong Kong, where Google and Facebook’s services are still accessible due to its relatively unfettered internet, could push them further away.
+
+The law gives Hong Kong authorities sweeping power to regulate tech platforms, including ordering them to take down posts that threaten China’s national security or restricting access to their services. Facebook, Google and Twitter have said they will stop sharing data with the Hong Kong government, while TikTok has exited the city completely.
+
+“It is harder and harder to do business with China,” said Mark Lemley, director of Stanford University’s program in law, science and technology. “There is also a growing sense that doing business with China involves troubling moral compromises.”
+
+US distrust of Chinese tech continues to grow. President Donald Trump last week claimed credit for thwarting the expansion plans of Chinese tech company Huawei, and his administration has said it is “looking at” banning hugely popular short-form video app TikTok, owned by China’s ByteDance.
+
+It’s a step that would only further align the US with India. The Indian government banned TikTok and dozens of Chinese apps last month, after a border clash between the two countries that left 20 Indian soldiers dead led to calls for a boycott of Chinese products. And though India’s tech relationship with China still runs deep — Chinese smartphones dominate the Indian market, and most of India’s biggest startups have sizable Chinese investment — the recent tensions could strengthen India’s longstanding tech ties with the US.
+
+“India and its Southeast Asian neighbors have tried to balance the two powers by forging greater economic ties with China while holding on to the security umbrella provided by the United States,” said Ravi Shankar Chaturvedi, research director at the Institute for Business in the Global Context at Tufts University’s Fletcher School. “China, through recent actions, has effectively delivered the US to India for a generation.”
+
+Chaturvedi and other experts point out that India and the US have had a longstanding tech relationship, with thousands of Indian engineers working across Silicon Valley and Indians currently at the helm of Google, Microsoft and several other US companies.
+
+“There’s natural synergy between India and the United States in the digital realm,” said Gullish, adding that the boost to internet usage from Indian households socializing and working more from their homes during the coronavirus pandemic may further enhance India’s appeal as a market. “It’s easy for American companies to look to India for opportunities,” he said.
+
+The richest gets richer
+
+At the same time that US tech companies were eying India’s market, Asia’s wealthiest man appeared to position himself as a willing gatekeeper.
+
+Most of the tech investment into India this year — including all of Facebook’s and nearly half of Google’s — has gone into the coffers of companies controlled by Indian billionaire Mukesh Ambani. Jio Platforms, the digital subsidiary of Ambani’s conglomerate Reliance, has raised more than $20 billion since late April from companies, venture capitalists and sovereign wealth funds looking to use it as a quick conduit to India’s massive digital economy.
+
+Jio launched as a mobile network in 2016 and has quickly amassed nearly 400 million subscribers. With recent forays into e-commerce, digital payments, streaming services and even a Zoom-like video conference platform called JioMeet, Ambani appears to be looking to turn the company into an all-encompassing Indian ecosystem.
+
+And Silicon Valley clearly wants in.
+
+“US tech hasn’t been able to penetrate the ‘Great Firewall of China’ but it has been easier for it to enter the ‘Great Paywall of India’ created by Jio; all it had to do was pay Reliance the toll fees to enter,” said Chaturvedi.
+
+Microsoft CEO Satya Nadella with Mukesh Ambani during the Microsoft Future Decoded Summit on February 24, 2020 in Mumbai, India. Anshuman Poyrekar/Hindustan Times/Getty Images
+
+As one of India’s biggest companies run by the country’s richest man, Reliance has an enormous amount of local influence and is unencumbered by many of the regulations on data storage and e-commerce that have been roadblocks for Facebook, Google and Amazon.
+
+“No global entrant could have managed this as successfully and as quickly on their own as Reliance has,” Chaturvedi said. “Much of the ecommerce regulation and data localization laws have been influenced by Reliance.”
+
+As the Trump administration increasingly closes the US economy off from the rest of the world, Silicon Valley will look afield to expand its reach, according to Lemley. And India is ripe for the picking.
+
+“Much as it pains me to say it, the US isn’t nearly as attractive a place for innovation as it was five years ago,” Lemley said. “As the Trump administration makes it harder and harder to bring the best and brightest people from around the world to Silicon Valley, I think tech companies may be looking towards a world where we are no longer the center of innovation.”

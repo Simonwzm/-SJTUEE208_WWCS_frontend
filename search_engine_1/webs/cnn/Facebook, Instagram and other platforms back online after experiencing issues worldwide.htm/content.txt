@@ -1,0 +1,23 @@
+New York CNN Business —
+
+Social media platforms were back online Wednesday evening after experiencing a bit of a meltdown earlier in the day.
+
+Facebook (FB), Instagram, WhatsApp and Twitter had all experienced various issues. But a Facebook (FB) spokesperson said Wednesday evening that its problems were fixed.
+
+“Earlier today, some people and businesses experienced trouble uploading or sending images, videos and other files on our apps,” the spokesperson said in a statement to CNN Business. “The issue has since been resolved and we should be back at 100% for everyone.”
+
+Facebook-owned Instagram said its issues were also fixed.
+
+“We’re back!” Instagram said in a tweet. “The issue has been resolved and we should be back at 100% for everyone. We’re sorry for any inconvenience.”
+
+Twitter, meanwhile, tweeted via its support account that it was “almost at 100% resolved. There may be some residual effects for a small group of people, but overall your DMs should be working properly now. We appreciate your patience!”
+
+Users reported bugs, such as images not loading on Instagram and problems with Twitter direct messages, including the app showing notifications for unread DMs that weren’t there when users checked their inbox.
+
+“During one of our routine maintenance operations, we triggered an issue that is making it difficult for some people to upload or send photos and videos,” a Facebook spokesperson told CNN Business, on behalf of its other apps Instagram and WhatsApp.
+
+It’s unclear what caused issues on Twitter. The company declined to elaborate.
+
+Issues on Facebook and Twitter were happening in pockets worldwide, according to Down Detector, which tracks issues and outages on a variety of sites.
+
+In March, Facebook was hit with a partial outage affecting users globally that stretched for almost 24 hours. The company blamed a change it had made to its system for the outage. The interruption also extended to its other services, including Instagram, Messenger and WhatsApp.

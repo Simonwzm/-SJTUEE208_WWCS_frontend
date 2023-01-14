@@ -1,0 +1,49 @@
+It's a boat? It's a plane? No, it's a 'seaglider.' And it goes fast...really fast
+
+Florida Gov. Ron DeSantis, center, gives his opening remarks flanked by local state delegation members prior to signing legislation that seeks to punish social media platforms that remove conservative ideas from their sites, inside Florida International University's MARC building in Miami on Monday, May 24, 2021. (Carl Juste/Miami Herald via AP)
+
+Avengers Campus at Disney California Adventure Park in Anaheim, California, invites guests of all ages into a new land where they can sling webs on the first Disney ride-through attraction to feature Spider-Man. The immersive land also presents multiple heroic encounters with Avengers and their allies, like Iron Man, Black Panther, Black Widow and more. At Pym Test Kitchen, food scientists will utilize Ant-Man and The WaspÕs shrinking and growing technology to serve up perfectly sized snacks. (Christian Thompson/Disneyland Resort)
+
+Staff enter the headquarters of information technology firm Kaseya in Miami, Florida, U.S., in an undated still image from video. Kaseya/Handout via REUTERS NO RESALES. NO ARCHIVES. THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY.
+
+This is what the future of mobility looks like
+
+CNN —
+
+Smartphone season is underway, and the headlines will almost certainly be the same as always: thinner, sleeker, faster models are coming to consumer pockets.
+
+But if a new push from the US government succeeds, future smartphones may also have to be designed for something extra – the ability to be repaired, however a device owner chooses. It could also push the companies to be innovative in other ways to encourage upgrade devices.
+
+President Joe Biden last month urged the Federal Trade Commission to set rules preventing manufacturers from imposing restrictions on independent device repair shops and DIY repairs, a principle known as “right to repair.” A week later, the FTC vowed to “root out” illegal repair restrictions on various products, including phones. (This push has also gained traction among regulators in Europe.)
+
+Companies such as Apple have been criticized for using tactics that make it harder for independent repair businesses to access devices, such as using non-removable memory or batteries, or sealing devices with special glue. (The companies argue that this is done to ensure the products are properly repaired.) New regulation would likely prohibit this practice and require smartphone manufacturers to make parts, tools, repair manuals, and diagnostics for out-of-warranty repairs more readily available to third-party businesses.
+
+“In many cases, the price to fix a smartphone or computer is close to, if not more than, replacing it all together – a strategy that encourages people to buy new devices rather than fixing them. This needs to change,” Pedro Pacheco, a senior director at market research firm Gartner, told CNN Business. “Manufacturers will need to make design choices to keep the cost down to repair devices.”
+
+Phones that are easier to take apart
+
+While smartphone makers aren’t the only ones facing criticism for obstructing repairs, the order specifically calls them out for practices that make repairs “more costly and time consuming.” Regulatory pressure could change not only how consumers choose to fix their devices but how manufacturers build them in subtle ways.
+
+“Current right to repair laws proposed in the US don’t impact device design in any way, but a focus on repair opportunities could incentivize the manufacturers to swap screws for more standard ones or make the battery easier to remove,” said Kyle Wiens, CEO and founder of iFixit, an online repair website for consumer electronics.
+
+David McQueen, research director at market research firm ABI Research, agrees, noting even the smallest of changes could impact the construction of smartphones on some level. For example, adding new screws or more holes may impact a device’s IP ratings – the degree of protection a device’s components provide against dust and water.
+
+“Smartphone vendors have worked hard to get this to high levels, but if devices do have more screw holes and have to be easier to take apart, then would these ratings be compromised or have to be lowered?” said McQueen.
+
+McQueen also pointed to a possible dilemma that some smartphone manufacturers might face in a right-to-repair world: “Would some companies still use high-end components across all their models if they know it will be easy to have them repaired or replaced?”
+
+On the one hand, companies may find more of their customers could replace these parts with cheaper components. On the other hand, he argues, “It could damage a vendor’s brand value if they’re selling products with noticeably inferior components to combat this possibility.”
+
+More options for smartphone owners
+
+Regulation would ultimately give consumers more control over how they modify or repair their smartphones and other devices. “If a $12 chip stops working when your computer battery dies, I could charge a couple hundred dollars to repair it; not the $1,500 Apple charges to fix it,” said Louis Rossmann, owner of Rossmann Repair Group and a right-to-repair activist with 1.6 million followers on YouTube.
+
+Rossmann said manufacturers have current agreements in place where suppliers are not contractually allowed to sell that chip to independent repair shops like the one he owns. “[New rules would] mean if companies are going to use a certain chip phone, I could buy it so that if a customer’s device dies, I can fix it,” he said.
+
+Apple said during a Congressional judiciary committee in 2019 that it controlled the repair process over safety and reliability concerns, and loses money on repairs, which critics called an “absurd” and “misleading” statement that it isn’t profiting on repairs on some level.
+
+Apple declined to elaborate on how much it makes from its repairs businesses or if it has plans to rethink product design in light of the repair push in the US and broad. However, the company pointed CNN Business to its 2020 environmental progress report, which said it’s dedicated to “providing convenient access to safe and reliable repair services for whenever they might be needed.” Samsung declined a request for comment.
+
+It’s also unclear how the right-to-repair movement may impact Apple’s in-store Genius bar, which is central to its retail experience, if people start to look elsewhere for their repair needs. But the bigger question may be how companies like Apple convince customers to come in and buy new phones as often when repairs are easier to come by and significantly cheaper than a new model.
+
+“Depending on how the regulation is put forward, it will probably extend or prolong the lifespan of the device,” Pacheco of Gartner said. “This means companies will need to entice consumers to switch or upgrade smartphones with better specs and other approaches. They will need to refocus their efforts.”

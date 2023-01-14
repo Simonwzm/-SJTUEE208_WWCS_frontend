@@ -1,0 +1,27 @@
+Washington CNN Business —
+
+The country’s largest wireless carriers not only know where you are every time you make a phone call or use your data connection, but they routinely hold onto that location information for months and in some cases years, providing it to law enforcement whether you like it or not, according to carrier letters made public last week by the Federal Communications Commission.
+
+From data about which cell towers your smartphone has been communicating with to your specific GPS coordinates, your smartphone constantly gives off a tremendous amount of information on your whereabouts, the letters from AT&T;, Verizon and other carriers show.
+
+For example, T-Mobile retains granular latitude and longitude coordinates of devices on its network for up to 90 days, and less-granular cell-site location data for up to two years, the company told the FCC in a letter dated Aug. 3. Verizon said it holds cell-site data for up to one year, while AT&T; said it may retain cell-site data for up to five years.
+
+The company letters highlight how telecom companies, and not just tech platforms, cooperate with government requests for personal information — an issue that’s received intense scrutiny in recent months as new state laws restricting abortion have prompted critics to worry about cellular location data being used to prosecute abortion-seekers. In addition to sending official data requests to companies, government agencies have also resorted to simply buying personal data from the open market themselves, a practice US lawmakers have questioned authorities about this year.
+
+That sensitive data, privacy advocates have said, can reveal whether a person may have visited an abortion clinic or sought other reproductive care, even if the location data was merely collected for the purposes of facilitating an unrelated call or mobile web search at the time.
+
+“Governments collect information for many reasons. But, all too often, data collected by the state is misused and weaponized for other purposes,” the Electronic Frontier Foundation, a digital rights group, wrote in a blog post this spring.
+
+FCC Chairwoman Jessica Rosenworcel didn’t explicitly mention potential risks related to reproductive care or abortion in her letters to more than a dozen top US wireless carriers in July. But the inquiries came less than a month after the Supreme Court’s decision to overturn federal abortion rights in June, and amid heightened scrutiny of the many companies that handle location information and how they might respond to law enforcement requests for that data in connection with abortion prosecutions.
+
+“Given the highly sensitive nature of this data — especially when location data is combined with other types of data, the ways in which this data is stored and shared with third parties is of utmost importance to consumer safety and privacy,” Rosenworcel wrote at the time.
+
+Last week, Rosenworcel added she has called on the FCC’s enforcement bureau to investigate whether wireless carriers are doing enough to tell customers how their information is handled.
+
+There are many reasons a wireless carrier collects location information from subscribers, the companies told the FCC. One main reason is simply to operate the network as consumers would expect. But there are other reasons, too. For example, FCC rules require that carriers provide detailed information to 911 dispatchers in an emergency, down to a device’s likely elevation so that first responders can more easily locate someone in need if they are on the fifth floor of a building.
+
+Carriers also collect location data for purposes that don’t directly relate to the provision of wireless services. Verizon, for example, told the FCC it may use location data as part of an offering to third-parties that can “develop insights to help estimate traffic patterns during the morning rush hour or how many customers go to a retail store.” AT&T; told the FCC it may collect location information in order to serve subscribers targeted ads.
+
+While in some cases consumers may be able to opt out of this data collection — such as with AT&T;’s advertising program — they generally cannot opt out of having their location data shared with law enforcement, the carrier letters said.
+
+“Like all companies, we are required by law to provide information to law enforcement and other government entities by complying with court orders, subpoenas, and lawful discovery requests,” AT&T; wrote to the FCC. “In all cases, we review requests to determine whether they are valid.”

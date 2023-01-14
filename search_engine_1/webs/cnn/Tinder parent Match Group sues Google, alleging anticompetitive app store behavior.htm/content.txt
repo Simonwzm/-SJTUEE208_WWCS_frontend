@@ -1,0 +1,11 @@
+Washington (CNN Business) The dating-app company behind Tinder, OkCupid and Match.com sued Google on Monday, alleging that the technology giant runs an illegal monopoly in the Google Play Store and that its in-app payment policies, including its 30% cut of some in-app purchases, are anticompetitive.
+
+Match Group MTCH Google GOOG The suit byis the latest antitrust complaint to hitafter years of scrutiny over its business practices. The suit, which was filed in the US District Court for the Northern District of California, alleges that Google not only has a monopoly on the distribution of Android apps, but also forces app makers to accept contract language that locks them into using Google's in-app payment technology and requires them to pay fees to Google.
+
+"These exorbitant 'fees' force developers to charge users more for their services and utilize resources they would otherwise invest in our employees, technologies, and user-requested features," Match Group said in its announcement . "In addition, monopolizing the market for in-app payments will further cement Google's near-total control of the Android ecosystem."
+
+In a release, Match Group CEO Shar Dubey described the complaint as a "measure of last resort," adding that Google has informed Match its apps will be removed from the Google Play Store at the beginning of June unless Match complies with a rule introduced in 2020 requiring apps to exclusively use Google's in-app payment processing.
+
+"By insisting on exclusive use of Google Play Billing, Google seeks to insert itself as a middleman between users and developers, preventing Match Group from directly servicing its customers on many important issues," the company said, arguing that Google "has left us no choice but to take legal action."
+
+Read More

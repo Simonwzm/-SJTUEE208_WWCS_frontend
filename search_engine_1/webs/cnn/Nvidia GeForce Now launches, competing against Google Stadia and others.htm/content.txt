@@ -1,0 +1,27 @@
+New York CNN —
+
+American chipmaker Nvidia is entering the cloud gaming fray by launching its service GeForce Now on Tuesday.
+
+Nvidia began testing the service in January 2018 before Google and Microsoft announced they were testing their own cloud gaming products. But Nvidia took its time before an official launch.
+
+Cloud gaming lets people around the world play high-end video games on a tablet or phone without the need to lug around a console or PC. Companies are hoping cloud gaming will make video games more accessible and attract new gamers.
+
+Nvidia’s cloud gaming service is finally available for all users to try out. The subscription service has a free tier that allows a player to game for one hour at a time, while a $4.99 monthly subscription with a promotional 90-day free trial will let you game for six hours at a time.
+
+Those prices are far lower than other cloud gaming competition. While Google is planning to launch a free tier for Google Stadia, its subscription service costs $9.99 per month, with supporting hardware costing extra. Sony’s PlayStation Now also costs $9.99 monthly.
+
+Still, Nvidia’s cloud service doesn’t actually come with any games. It allows you to launch any free to play games, like “Fortnite,” “League of Legends” and “Destiny 2.” But for other paid games you will have to use existing PC game stores, like the Steam store and Epic Games Store, to expand your library.
+
+Nvidia believes there’s room in the cloud gaming market for GeForce Now to co-exist with offerings from major tech giants like Microsoft’s Project xCloud and Google Stadia.
+
+“We view cloud gaming as a journey. We’ve been at it for about five years. It’s not an easy technology to get to scale and working with publishers is not easy to scale either. And we view this as a ten year project, honestly, so we’re not too concerned about the timing,” said Phil Eisler, vice president and general manager of GeForce Now, about launching months after Google Stadia. “We think we’re the best choice for PC games.”
+
+GeForce Now supports cloud gaming on Mac, PC, TV, mobile and Chromebook. Several tests by CNN Business showed that the service works well and eliminates the need to download a game from scratch, but like other cloud gaming services, its effectiveness relies on how strong your Wi-Fi is.
+
+Perhaps what’s most unique about GeForce Now, compared to the other cloud gaming offerings, is that it makes it easier to game on MacOS, which is usually an unpopular platform for gaming partly because of the limited support for external graphics cards — which is what powers immersive gaming.
+
+“This isn’t to replace that big honking gaming computer that you might have already. But it’s for people who either can’t run the games, let’s say if you have a Mac or if you’re kind of in between and you don’t feel like buying a new [computer],” said Patrick Moorhead, president and principal analyst at Moor Insights & Strategy.
+
+Phil Eisler, from GeForce Now, said that of the 300,000 users who tested the service, 80% of the time, they were playing on a machine that couldn’t otherwise play that game.
+
+“We do see a trend… where we are enabling new people to play and we’re excited about that,” said Eisler. “[Building a PC] is challenging and expensive and they just want to play games.”

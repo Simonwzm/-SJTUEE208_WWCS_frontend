@@ -1,0 +1,7 @@
+(CNN Business) Dozens of states have filed an antitrust lawsuit against Google that zeroes in on its app store practices.
+
+Google GOOGL The suit alleges that Google abused its dominance in the mobile ecosystem to favor its own Google Play Store, reducing competition in the process. The suit also takes aim at the fees thatcharges developers for in-app purchases.
+
+Court records reviewed by CNN Business on Wednesday showed that the case against Google has been opened in the US District Court for the Northern District of California. The District of Columbia and 36 states are named as participants, including New York, California, Colorado, Utah, Massachusetts and others.
+
+According to Wednesday's complaint, Google holds a monopoly on Android app distribution in the United States, and has used restrictive contracts to force Android device makers to promote the Google Play Store at the expense of competition. (Similar allegations in Europe prompted Google to announce in 2018 that it would stop bundling must-have apps such as Google Maps and Gmail with the Play Store.)

@@ -1,0 +1,37 @@
+(CNN Business) At the start of 2020, it looked like the food delivery sector was about to face a reckoning after years of raising and losing billions of dollars.
+
+One of the original food delivery businesses, Grubhub, was considering putting itself up for sale after losing its foothold on the market. Its competitors, DoorDash, Postmates, and Uber Eats, had also reportedly been in talks about mergers . Meanwhile, Uber's CEO signaled a fundamental shift for its meal delivery service: focusing on profitable growth.
+
+Then the pandemic changed everything.
+
+The health crisis paired with the economic crisis created a perfect storm for the delivery companies -- a large pipeline of the newly unemployed looking for work, countless people staying home and having food delivered, and restaurants increasingly depending on takeout and delivery.
+
+Delivery services saw skyrocketing demand. Uber leaned on its Eats business as its core rides business plummeted. The valuations of Instacart and DoorDash soared as the companies secured hundreds of millions of dollars in capital , and expanded to offer deliveries from electronics retailers and convenience stores . A lead investor in the recent DoorDash funding round commented that the service had "become ingrained in the lives of local communities as an essential service."
+
+Now as the year comes to a close, DoorDash is about to ride that wave of pandemic-fueled demand to an initial public offering, expected this week.
+
+"The stars have aligned. This is basically the perfect time for last-mile delivery companies to go public," said Asad Hussain, lead mobility analyst at data research firm PitchBook, ticking off a number of reasons, including the unprecedented shift in demand from the pandemic as well as recent consolidation in the sector. (European company Just Eat Takeaway.com acquired Grubhub and Uber acquired Postmates , which means fewer companies are competing on pricing.)
+
+"They've been an enormous beneficiary of the shift," said Semil Shah, who was an early investor in both DoorDash and Instacart, which is reportedly eying an IPO next year. "I think both companies would've gone public at some point -- I think it is unclear whether they would've gone public now without the pandemic, maybe it would've been a bit later, but who knows."
+
+Airbnb, another on-demand company, which struggled to right its business amid a steep drop in travel during the pandemic, is also expected to go public this week. Both companies are moving forward with their Wall Street debuts just as the first coronavirus vaccines are expected to be made available to some in the United States and abroad.
+
+The vaccine rollout signals what could be the beginning of the end of the pandemic, and with it, yet another shift in demand. For Airbnb, the question is how much the end of the pandemic could boost business; for food delivery companies like DoorDash, the question is how much the end of the pandemic will hurt it.
+
+"People have gotten much more used to ordering food and other products through delivery services. Some of that will decline once it's safe to do things in person, of course," said Scott Duke Kominers, an associate professor at Harvard Business School. "But new habit formation is powerful."
+
+DoorDash, which raised $2.5 billion from investors including SoftBank and Sequoia Capital, warned in its IPO paperwork that its pandemic boom may not last forever. "The circumstances that have accelerated the growth of our business stemming from the effects of the Covid-19 pandemic may not continue in the future," the company said.
+
+The company, which also owns Caviar, became the US leader in terms of sales in May 2019, according to data from Second Measure. But it took a pandemic for DoorDash to turn its first profit in the second quarter of this year, before reporting losses again in the most recent quarter.
+
+Delivery services like DoorDash have arguably had greater leverage during the pandemic as many restaurants are more reliant on reaching customers at home, but the pendulum may swing the other direction post-pandemic. Kominers, who recently co-authored an article on the importance of a delivery app's relationship with restaurants and other suppliers, said delivery companies need to focus on better sharing revenue and tools with merchants to build sustainable businesses.
+
+The high fees that delivery services charge restaurants on orders have come into the spotlight during the pandemic. Some states and cities have capped third-party food delivery fees to aid local businesses. Companies have explored new ways to work with businesses. DoorDash introduced Storefront, a product that lets restaurants set up their own online stores where they are not charged commission on items sold, and Self-Delivery , a way for partners to list on its platform while taking care of their own delivery.
+
+Looking ahead, the end of the pandemic combined with an improving economy and legal challenges to their business model could make it harder for companies like DoorDash to continue their existing model of using independent contractors, who don't have the same costly benefits and labor protections as employees would.
+
+The companies notched a win in the passage of a California ballot measure last month, allowing the companies to avoid reclassifying their gig workers as employees in the state and skirt the costs associated with a full suite of benefit protections, such as a minimum wage, overtime, paid sick leave and unemployment insurance under California labor law. But the issue is far from settled.
+
+This business model "survives by essentially forcing workers to compete with each other in a race to the bottom," said Rebecca Givan, an associate labor studies professor at Rutgers University.
+
+"While the economy is bad and unemployment is high, there's always going to be desperate workers who will probably be willing to work on these apps even for very low pay," added Givan.

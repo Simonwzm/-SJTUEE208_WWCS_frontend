@@ -1,0 +1,25 @@
+CNN —
+
+The Federal Trade Commission on Wednesday sued online dating giant Match Group, the owner of OKCupid, Tinder and PlentyOfFish, for allegedly enticing people to pay for its Match.com service using fake love interest ads, along with other allegedly deceptive business practices.
+
+According to the complaint, “hundreds of thousands of consumers subscribed to Match.com shortly after receiving a fraudulent communication.” Match Group’s stock fell as much as 8% following the news of the FTC complaint.
+
+The FTC claims that Match.com applied a looser standard for preventing non-subscribers from seeing messages from potentially fraudulent accounts than it did for its paying customers. As a result, these non-subscribers could be encouraged to sign up for paid accounts on the service due to this extra inbound interest.
+
+But upon signup, customers would either see a “fraudulent communication” or a notice that the profile that expressed interest is “unavailable” depending on where the company was at in its fraud review process, the complaint said.
+
+In so doing, the FTC claims, Match risked customers “falling victim to a romance scam or other form of fraud.”
+
+“We believe that Match.com conned people into paying for subscriptions via messages the company knew were from scammers,” Andrew Smith, Director of the FTC’s Bureau of Consumer Protection, said in a statement. “Online dating services obviously shouldn’t be using romance scammers as a way to fatten their bottom line.”
+
+Match CEO Hesam Hosseini warned about the expected legal action in a strongly worded email sent to Match’s leadership team Wednesday morning.
+
+“The government has demanded tens of millions of dollars to resolve this case, which is completely unreasonable based on the allegation and facts. So we will fight this,” he wrote in the email, which was obtained by CNN Business. “Most of what the FTC investigated has been permanently discontinued and is totally irrelevant today.”
+
+Hosseini added: “While this litigation may bring bad headlines, I’m confident in our practices and the great work we do every day.”
+
+In a statement on its website about the FTC allegations, Match writes that “fraud is never good for business, which is why we spend so much time, money and emotional capital to fight it.” The company claims that the FTC is “mischaracterizing what is encompassed in ‘fraudulent,’” adding that the vast majority of the users in question are “not romance scams or similar types of fraudsters, but spam, bots, and other users attempting to use the service for their own commercial purposes.”
+
+Match is facing other allegations in the FTC complaint, including that it misled customers with a “confusing and cumbersome cancellation process.” In his email to the leadership team, Hosseini said the cancellation process “generally takes less than a minute.” He added that during the period that the FTC is focusing on, 84% of subscribers who began the cancellation process were able to complete it within a day.
+
+The FTC notes in its complaint that the alleged deceptive business practices in question ceased by mid-2019, or earlier.

@@ -1,0 +1,43 @@
+London CNN Business —
+
+The European Union says it has developed a strategy to keep its 5G networks secure. It does not include a blanket ban on Huawei equipment.
+
+The United States has been heaping pressure on European countries not to use Huawei equipment in next-generation 5G networks, saying products from the Chinese company present a security risk.
+
+Huawei has repeatedly denied the accusations, and called on the Trump administration to provide evidence to back up its claims.
+
+The European Commission made clear Tuesday that EU member states are responsible for making their own security decisions, but it asked them to complete 5G risk assessments by the end of June.
+
+Countries will also conduct a wider security review by the end of December that will include steps to safeguard 5G networks at the EU level.
+
+Huawei is the world’s largest supplier of telecoms equipment, and its market share in Europe is estimated at between 35% and 40%. The EU announcement is a setback for US officials who have pressed European allies to take a much tougher line on Huawei.
+
+US Secretary of State Mike Pompeo made the costs explicit during a trip to Europe last month, when he warned allies that using Huawei equipment makes it “more difficult” for the United States to partner with them.
+
+Vice President Mike Pence has issued similar warnings, and the US Ambassador to Germany has threatened to curtail Berlin’s access to US intelligence if Huawei products are used in its 5G networks.
+
+Yet Europe appears to be going its own way on the sensitive issue.
+
+“We need to do [the review] for ourselves,” European Commissioner Julian King told reporters. “Not because anybody else has suggested that we need to do this or because we are reacting to steps taken anywhere else.”
+
+BT (BT) said in December that it would not buy Huawei equipment for the core of its next generation 5G network. And Vodafone (VOD) has paused the installation of Huawei equipment in its core networks in Europe while it speaks with regulators, governments, security agencies and the Chinese company.
+
+Huawei founder Ren Zhengfei said earlier in March that the US government’s campaign against his company risks damaging America’s international reputation.
+
+“If this US administration always treats other countries, companies or individuals in a ferocious way, then no one would dare invest in the United States,” he told CNN.
+
+The company recently made its most aggressive move yet to counter American pressure, filing a lawsuit against the US government for barring federal agencies from using Huawei products.
+
+Ren claims that the US attempts to get other Western countries to block Huawei aren’t a big concern.
+
+“If they don’t buy from us, then we sell to others,” he told CNN. “We can downscale a little. We are not a public company, so we don’t have to worry about lower profits leading to collapsing stock prices.”
+
+Europe’s approach to the 5G issue does not mean security officials aren’t paying attention. The European Union will set equipment standards and identify products or suppliers that are “potentially non-secure.”
+
+“We have some kind of specific concerns connected with some producers, so everybody knows I’m talking about China and Huawei,” European Commission vice president Andrus Ansip told reporters.
+
+“Do we have to worry about this, or not? I think we have to be worried about this.”
+
+Huawei said it welcomed the “objective and proportionate” approach taken by the European Commission, adding it understood the cybersecurity concerns European regulators have.
+
+“We are firmly committed to continue working with all regulators and partners to make the 5G rollout in Europe a success,” said Abraham Liu, Huawei’s vice president for Europe.

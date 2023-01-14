@@ -1,0 +1,25 @@
+New York (CNN Business) The long-awaited test flight of Boeing's Starliner, which is designed to carry astronauts and compete with SpaceX's Crew Dragon spacecraft, is once again delayed. It's just one more setback in a series of them for a trial that NASA and Boeing desperately want to go off without any major issues like the ones they had during their first launch attempt, back in December 2019.
+
+A Starliner capsule had been slated to take off earlier this week on an uncrewed test flight to the International Space Station, a follow-up to the company's botched first attempt. This mission will be a decisive moment for Boeing and NASA, as the traditional aerospace giant seeks to join the relative upstart SpaceX in ferrying people to the station.
+
+But after a lightning storm rolled through the launch site in Florida where the spacecraft was sitting atop its rocket on Monday, Boeing ran some checks to ensure the vehicle wasn't affected. That's when they discovered an issue with the Starliner's propulsion system: A valve was out of place, and it wasn't clear why.
+
+So far, officials have only been able to rule out software issues, according to a statement from Boeing. That indicates the current issue is unrelated to the hangups that plagued Boeing's first oribtal Starliner launch attempt in 2019, when software issues caused the capsule to misfire and stumble off course and forced it to make an early return to Earth.
+
+As of late Tuesday evening, Boeing and NASA teams were still troubleshooting the issue, taking potential takeoff times on Wednesday off the table. The spacecraft is now expected to be powered down and rolled back into the indoor Vertical Integration Facility, where the capsule is attached to the top of its rocket ahead of flight, "for further inspection and testing to inform the next steps," according to Boeing
+
+It was not clear as of Wednesday morning when the issue will be resolved or when Boeing will once again attempt to the launch. A NASA spokesman said a new target date will be determined after the additional checks are carried out.
+
+"The thing with spaceflight is there are thousands or millions of moving parts," Dan Huot, a NASA public affairs officer, told CNN Business. "You run through everything you can possibly think of" to rule out issues.
+
+The ongoing delays come after the International Space Station, where the spacecraft is slated to dock for a few days, was knocked off kilter by a misfiring Russian module , quashing Boeing's hopes to get Starliner off the ground last week. The ISS has since stabilized and is no longer holding up the Starliner flight in any way, Huot said.
+
+A United Launch Alliance Atlas V rocket with Boeings CST-100 Starliner spacecraft onboard is seen on the launch pad at Space Launch Complex 41 ahead of the Orbital Flight Test-2 (OFT-2) mission, Thursday, July 29, 2021 at Cape Canaveral Space Force Station in Florida.
+
+This mission's success is crucial for Boeing, which has been working since the early 2010s to develop a spacecraft capable of taking astronauts to and from the ISS but has encountered numerous delays and technical hangups.
+
+Boeing revealed that ground controllers lost contact with Starliner dozens of times during its first orbital test mission, and the company later admitted that it had failed to run a full simulation of how the spacecraft's software would run during the two major stretches of the mission — from liftoff to docking with the International Space Station and from undocking to landing. Such testing could have potentially detected Starliner's software problems before liftoff.
+
+Launch delays are common across the spaceflight industry. But if issues arise after Starliner gets off the ground, it would be yet another embarrassing black eye for Boeing and possibly throw into question how heavily the US government, which holds many billions of dollars worth of contracts with the company, should be relying on the company.
+
+Boeing's Starliner spacecraft is expected to be Boeing's answer to SpaceX's Crew Dragon, which has already begun flying astronauts and ushered in the return of human spaceflight to US soil after a decade-long haitus. Both Boeing's Starliner and SpaceX's Crew Dragon were developed under contract with NASA, though they'll be owned and operated by their respective companies, and are designed to take astronauts and possibly tourists to and from the ISS.

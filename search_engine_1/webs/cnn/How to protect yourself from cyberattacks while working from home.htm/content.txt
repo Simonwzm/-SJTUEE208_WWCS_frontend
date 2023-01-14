@@ -1,0 +1,59 @@
+San Francisco CNN Business —
+
+The age of remote work is upon us.
+
+More companies around the world are letting employees work from home, with many making the shift in a matter of days and some announcing plans to keep the policy going for the rest of the year – or even indefinitely.
+
+But while working remotely can provide more flexibility and spare people a long commute, it could also come with a notable risk: leaving workers – and by extension their companies – more vulnerable to cyberattacks without the added security of an office network.
+
+Experts say they have seen a surge in “phishing” attacks targeted at people working from home, where clicking on a link in an email or message could lead to installing malware on your device.
+
+“The employee gets phished, that becomes the access point to have the network compromised,” said Kiersten Todt, a former cybersecurity official in the Obama administration and currently managing director of the Cyber Readiness Institute, which advises businesses on how to secure their networks.
+
+“We are absolutely seeing an increase in phishing attempts and phishing breaches,” she added.
+
+Here’s what employees and employers can do to make WFH environments more secure.
+
+Upgrade and update your devices
+
+Many firms provide employees with separate devices for work, but not all of them. Anyone now using personal laptops or cellphones for work may be more vulnerable to cybercriminals, particularly if those devices are being used by multiple people in the house or for a mix of personal and professional tasks, according to Tom Patterson, chief trust officer of cybersecurity firm Unisys.
+
+“A company takes great care to make sure the computer on your desk is patched and current and has the right operating systems, the right keys and everything,” he said. “No one’s doing that to the old laptop you found in your closet that you’re now setting up to do your Zoom calls on.”
+
+The first step is to make sure — even if you are using an older device or have separate work devices — that you have installed the latest available software updates, so your devices are equipped with the most recent security patches.
+
+Change your WiFi password
+
+While many may know to periodically change passwords for social media accounts, email and other online services, it’s less common for people to do the same with their home WiFi networks.
+
+Changing your WiFi password may cause some momentary inconvenience – prepare to hear some gripes as everyone in the house has to re-enter it into all their devices – but it can be effective in making sure you don’t get hacked. WiFi network passwords, like online account passwords, can often end up for sale on the dark web.
+
+And when in doubt, there’s always the go-to tech support suggestion — turn it off and back on again. Resetting your WiFi router is an even easier way to can get rid of some basic types of malware, according to Patterson.
+
+“Just unplug it, leave it unplugged for a few minutes and let it restart,” he said. “That actually gets rid of a lot of stuff that had been built up.”
+
+If you have the means, buying a new router and even a new laptop specifically for work purposes may be worthwhile if you’re going to be telecommuting for the foreseeable future.
+
+Turn off your work laptop
+
+Most people (this writer included) aren’t in the habit of shutting down their devices at the end of the workday. But it’s a simple way to make yourself more secure.
+
+Shutting down and powering back up your work laptop can prevent viruses or malware from properly embedding themselves in your devices. That thwarts some types of malware that reside on a device’s memory and gets erased when it’s shut down, Patterson said. It’s also as simple as temporarily closing an “open line” for new attacks — think of it like locking your door when you leave the house.
+
+“Most people leave it on for days, weeks, or whatever, and they only turn it off when something slows way down,” said Patterson. “They just need to reset, to get in the habit of turning it off so it doesn’t become a gateway of malware directly into your company.”
+
+Todt recommends doing the same with your smartphone at the end of each workday.
+
+“They’re the greatest risk because we put so much information into our phone,” she said. “So one social or entertainment app that doesn’t have high security because it doesn’t need to can become an access to other things on your phone that need more security.”
+
+Facial recognition, fingerprint logins and more
+
+It’s not just on employees to implement safe practices, however. It’s also on businesses to recognize the new risks posed by a remote workforce and implement appropriate protections. With everyone working away from the office, unauthorized access to one employee’s laptop could mean access to the whole company.
+
+“What companies can’t do is just assume that the employees will be as judicious about their security at home as their chief security officer has been in the office,” Patterson said. “The old way of just saying, ‘Once you’re inside the building, you’re safe’ … that’s out the window, that’s not coming back.”
+
+Many firms provide access to virtual private networks, or VPNs, which mask your internet connection to ensure greater encryption and privacy. But Patterson cautions against leaning too heavily on VPN services if they aren’t specifically provided by your company. A lot of free VPN services may have access to your data on their servers before encrypting it, opening up another potential vulnerability.
+
+Companies need to adopt more “zero trust” cybersecurity methods, he said, which means assuming that no device on the network is secure. Firms can equip their employees with additional security controls such as multi-factor authentication — a code from an external device in addition to usernames and passwords — or even biometric logins such as facial recognition or fingerprint scans, which people already use to secure their smartphones.
+
+“I do think that the average home worker is already used to it. They already do it to get into some of their other apps,” said Patterson. “They just haven’t done it to get into their work apps, and that’s going to change this year.”

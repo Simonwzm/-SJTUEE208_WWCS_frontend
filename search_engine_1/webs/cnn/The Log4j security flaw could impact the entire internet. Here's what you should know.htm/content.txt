@@ -1,0 +1,57 @@
+New York (CNN Business) A critical flaw in widely used software has cybersecurity experts raising alarms and big companies racing to fix the issue.
+
+The vulnerability, which was reported late last week, is in Java-based software known as "Log4j" that large organizations use to configure their applications -- and it poses potential risks for much of the internet.
+
+Apple's cloud computing service, security firm Cloudflare, and one of the world's most popular video games, Minecraft, are among the many services that run Log4j, according to security researchers.
+
+Jen Easterly, head of the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency (CISA), called it "one of the most serious flaws" seen in her career. In a statement on Saturday, Easterly said "a growing set" of hackers are activelyattempting to exploit the vulnerability.
+
+As of Tuesday, more than 100 hacking attempts were occurring per minute, according to data this week from cybersecurity firm Check Point.
+
+"It will take years to address this while attackers will be looking... on a daily basis [to exploit it]," said David Kennedy, CEO of cybersecurity firm TrustedSec. "This is a ticking time bomb for companies."
+
+Here's what you should know:
+
+What is Log4j and why does it matter?
+
+Log4j is one of the most popular logging libraries used online, according to cybersecurity experts. Log4j gives software developers a way to build a record of activity to be used for a variety of purposes, such as troubleshooting, auditing and data tracking. Because it is both open-source and free, the library essentially touches every part of the internet.
+
+"It's ubiquitous. Even if you're a developer who doesn't use Log4j directly, you might still be running the vulnerable code because one of the open source libraries you use depends on Log4j," Chris Eng, chief research officer at cybersecurity firm Veracode, told CNN Business. "This is the nature of software: It's turtles all the way down."
+
+Companies such as Apple, IBM, Oracle, Cisco, Google and Amazon, all run the software. It could present in popular apps and websites, and hundreds of millions of devices around the world that access these services could be exposed to the vulnerability.
+
+Are hackers exploiting it?
+
+with such a high number of hacking attempts happening each day, some worry the worst is to yet come. Attackers appear to have had more than a week's head start on exploiting the software flaw before it was publicly disclosed, according to cybersecurity firm Cloudflare. Now,with such a high number ofhacking attempts happening each day, some worry the worst is to yet come.
+
+"Sophisticated, more senior threat actors will figure out a way to really weaponize the vulnerability to get the biggest gain," Mark Ostrowski, Check Point's head of engineering, said Tuesday.
+
+Late Tuesday, Microsoft said in an update to a blog post that state-backed hackers from China, Iran, North Korea and Turkey have tried to exploit the Log4j flaw.
+
+Why is this security flaw so bad?
+
+Experts are especially concerned about the vulnerability because hackers can gain easy access to a company's computer server, giving them entry into other parts of a network. It's also very hard to find the vulnerability or see if a system has already been compromised, according to Kennedy.
+
+In addition, a second vulnerability in Log4j's system was found late Tuesday. Apache Software Foundation, a nonprofit that developed Log4j and other open source software, has released a security fix for organizations to apply.
+
+How are companies are trying to address the issue?
+
+Last week, Minecraft published a blog post announcing a vulnerability was discovered in a version of its game -- and quickly issued a fix. Other companies have taken similar steps.
+
+IBM, Oracle, AWS and Cloudflare have all issued advisories to customers, with some pushing security updates or outlining their plans for possible patches.
+
+"This is such a severe bug, but it's not like you can hit a button to patch it like a traditional major vulnerability. It's going to require a lot of time and effort," said Kennedy.
+
+For transparency and to help cut down on misinformation, CISA said it would set up a public website with updates on what software products were affected by the vulnerability and how hackers exploited them.
+
+What can you do to protect yourself?
+
+The pressure is largely on companies to act. For now, people should make sure to update devices, software and apps when companies give prompts in the coming days and weeks.
+
+What's next?
+
+The US government has issued a warning to impacted companies to be on high alert over the holidays for ransomware and cyberattacks.
+
+There is concern that an increasing number of malicious actors will make use of the vulnerability in new ways, and while large technology companies may have the security teams in place to deal with these potential threats, many other organizations do not.
+
+"What I'm most concerned about is the school districts, the hospitals, the places where there's a single IT person who does security who doesn't have time or the security budget or tooling," said Katie Nickels, Director of Intelligence at cybersecurity firm Red Canary. "Those are the organizations I'm most worried about -- small organizations with small security budgets."

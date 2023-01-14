@@ -1,0 +1,35 @@
+(CNN Business) Parler tried to seek a hosting alternative to Amazon Web Services from at least six different potential providers once it became clear Amazon would no longer work with the social media platform — but was turned away, according to a court filing.
+
+CEO John Matze said in Monday's filing that Parler does not have the resources to host itself on its own servers.'s ban forced it to seek alternative providers, he said in the filing — which is part of an ongoing lawsuit between the two companies.
+
+Parler is an alternative social network favored by the far right that was removed from Google and Apple's app stores, along with Amazon's cloud hosting service, in the wake of the deadly riot at the Capitol.
+
+Parler's website suddenly reappeared online Sunday afternoon with a message from Matze: "Hello world, is this thing on?"
+
+The message, dated January 16, marked Parler's first signs of life since being removed from Amazon's platform a week earlier. And it touched off widespread speculation over who may now be providing services to Parler, and when the app may fully regain functionality.
+
+In particular, Internet sleuths have increasingly zeroed in on what company Parler may be using to defend itself from distributed denial of service attacks. DDoS attacks occur when a malicious actor seeks to overwhelm a website with bogus traffic.
+
+When Amazon cut off Parler's service, Amazon's DDoS protections over Parler also ceased, Matze said.
+
+Public records suggest Parler is now using a company headquartered in Russia, DDoS-guard, to shield itself from new DDoS attacks. Parler didn't immediately respond to a request for comment.
+
+Reached for comment, DDoS-guard confirmed to CNN Business it is based in Russia, but declined to describe what specific services it is providing to Parler. DDoS-guard denied it is hosting Parler's website.
+
+"We do not provide hosting services to Parler.com," the company said in a statement to CNN. "Any customer can access and use our services as long as his/her activities are not prohibited in the country and do not violate any laws. ... We do not want to be involved in the political scene in any countries around the world."
+
+Though mentions of Russia tend to inspire fears of foreign meddling by spies and trolls, there is no evidence to suggest that visitors to Parler's website currently face any risks — particularly since the company's social network still remains unavailable. Still, the fact that Parler appears to be routing visitor traffic through a company headquartered in Russia is grounds for unease due to the potential for visitor information to be passed along to a foreign government, according to some cybersecurity experts.
+
+"The funneling of internet traffic, which is aimed at Parler, through a service headquartered in the Russian Federation is the entire problem," said Chris Vickery, an expert at the cybersecurity firm Upguard. He said the debate over who is "hosting" the service is a distraction.
+
+As Matze's filing shows, it remains unclear who may actually wind up providing the servers on which Parler's social network will run.
+
+Several cybersecurity experts interviewed by CNN said there currently is no Parler product of which to speak. Although Parler's website shows a static page with status messages, the overall social network, which had boasted millions of active users before Amazon's decision, remains non-functional.
+
+Public records reviewed by CNN showed that visitors to Parler's website are being directed to an IP address controlled by DDoS-guard.
+
+The public records imply DDoS-guard is at least helping to defend Parler from DDoS attacks, the cybersecurity experts said, but there is not enough evidence to determine whether DDoS-guard is providing server space and other infrastructure for the app, or if it is simply re-routing visitors to a third-party host.
+
+Ron Guilmette, a technologist and internet infrastructure expert, said that DDoS-guard's protections would make it very difficult to determine where the rest of Parler may be hosted.
+
+"It is not possible for someone who is viewing the thing from the outside to find the 'real IP hosting address' unless the guy running the website, or the guy running the reverse proxy, wants to tell you where it really is," he said.

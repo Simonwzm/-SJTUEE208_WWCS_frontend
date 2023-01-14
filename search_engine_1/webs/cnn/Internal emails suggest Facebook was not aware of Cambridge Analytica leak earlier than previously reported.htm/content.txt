@@ -1,0 +1,29 @@
+Washington DC CNN —
+
+Internal emails released by Facebook on Friday show employees of the company expressed concerns about Cambridge Analytica’s use of Facebook user data as early as September 2015.
+
+In the emails, Facebook employees discussed for months how they would look into Cambridge Analytica’s practices. A document published by the company containing the emails appears to show the company only learned that Aleksandr Kogan, a developer working for the political data firm, had improperly gathered information on tens of millions of Americans in December of 2015, after the Guardian published a report.
+
+But in a US Senate hearing in 2018, Kogan testified that he became aware of a potential conflict between his activities with Cambridge Analytica and Facebook’s policies as early as the spring of 2015. Kogan and his business partner, Joseph Chancellor, discussed their activities with Facebook on separate occasions, he said in the hearing, but the company gave him “no indication that anything was worrisome.”
+
+Kogan’s practices later came under public scrutiny in March 2018, prompting multiple investigations and forcing Facebook CEO Mark Zuckerberg to go before Congress.
+
+Facebook hired Kogan’s business partner Chancellor in November 2015, the company confirmed to CNN Business. Chancellor has since left the company.
+
+The internal communications were released by Facebook after it reached a court agreement to unseal the document with the attorney general of the District of Columbia, Karl Racine, who is suing the company over the Cambridge Analytica scandal. The document had previously been cited in a complaint filed separately against Facebook by the Securities and Exchange Commission earlier this summer. That case has since been settled.
+
+“The District of Columbia fought to make this document public because we believe the American people have a right to know what and when Facebook knew about its data security weaknesses,” said a spokesman for Racine in a statement Friday. “According to the conversations this document contains, Facebook employees were raising alarms about political partners and doubts about their compliance with Facebook’s data policies as far back as September 2015.”
+
+The communications show that in the fall of 2015, Facebook employees began raising questions about potential unauthorized mass collection of public Facebook data — an activity known as “scraping” — by various companies, including Cambridge Analytica.
+
+On September 22 of that year, a Facebook employee described Cambridge Analytica in email as a “sketchy (to say the least) data modeling company that has penetrated our market deeply.”
+
+The emails show that Facebook ramped up its focus on Cambridge Analytica once it became a public relations crisis after The Guardian report published in December 2015.
+
+“Can you expedite the review of Cambridge Analytica or let us know what the next steps are?” wrote one employee, according to the document. “Unfortunately, this firm is now a PR issue as this story is on the front page of the Guardian website.”
+
+In a statement, Facebook said releasing the document risked confusing the public into thinking that Facebook’s September concerns about Cambridge Analytica related to Kogan’s practices. In a statement, the company says they were not. Facebook was initially concerned about Cambridge Analytica’s potential use of “scraping,” a method of pulling online data.
+
+“These are two distinct issues,” wrote Paul Grewal, Facebook’s deputy general counsel. “One involved unconfirmed reports of scraping — accessing or collecting public data from our products using automated means — and the other involved policy violations by Aleksandr Kogan, an app developer who sold user data to Cambridge Analytica. This document proves the issues are separate; conflating them has the potential to mislead people.”
+
+After Facebook became aware of Kogan’s practices, they asked Cambridge Analytica and Kogan to delete the data (both claim they’ve complied). Cambridge Analytica went on to work for Donald Trump’s 2016 presidential campaign.

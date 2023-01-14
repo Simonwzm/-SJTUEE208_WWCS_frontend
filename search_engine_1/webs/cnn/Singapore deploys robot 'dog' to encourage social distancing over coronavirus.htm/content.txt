@@ -1,0 +1,37 @@
+Hong Kong CNN Business —
+
+Singapore is trying a new way to get its residents to stay away from each other.
+
+On Friday, the government announced it would start deploying Spot, Boston Dynamics’ famous yellow and black canine robot, at one local park.
+
+The four-legged robot “dog” will patrol the area starting this weekend and broadcast a pre-recorded message to visitors to remind them of the importance of social distancing, authorities said.
+
+The device will also be equipped with cameras that will scan the surroundings and help officials estimate the number of people gathering in parks, they said.
+
+“These cameras will not be able to track and/or recognize specific individuals, and no personal data will be collected,” the government said in a statement.
+
+The new measure is an experiment to improve enforcement of social distancing throughout Singapore as it contends with an alarming recent spike in cases.
+
+The pilot project is currently set to run in a limited trial for two weeks at one park during off-peak hours. But if all goes well, authorities will consider expanding the program.
+
+Not long ago, Singapore was being hailed as one of the countries that had gotten its coronavirus response right.
+
+Then the second wave hit. Clusters that government testing appeared to have missed quickly grew and the number of daily cases shot up. Since March 17, Singapore’s number of confirmed coronavirus cases grew from 266 to 21,707 cases, according to data from Johns Hopkins University.
+
+As the situation worsens, the government has increasingly adopted technology in its response.
+
+In March, it launched a nationwide contact-tracing app that uses Bluetooth to help users find out if they had close contact with someone confirmed to have been infected.
+
+The government says it’s also using Spot in another capacity — at a local isolation facility where the robot helps bring medicine to patients.
+
+Spot, the four-legged robot "dog." GovTech
+
+Spot, which went viral in a series of online videos several years ago showing that it could run uphill, mount stairs and even get you a drink, is generally used for inspections on construction sites or similar situations, according to Boston Dynamics.
+
+It also has been deployed for public safety reasons, such as helping “inspect hazardous packages from afar,” the company states on its website.
+
+Singapore’s government said Friday that it had picked the model for its agility. “Unlike wheeled robots, Spot works well across different terrains and can navigate obstacles effectively, making it ideal for operation in public parks and gardens,” it noted.
+
+For now, at least one park ranger will be patrolling the area along with the robot, according to authorities.
+
+— CNN’s James Griffiths contributed to this report.

@@ -1,0 +1,59 @@
+(CNN Business) As Russia's war in Ukraine and its diplomatic conflict with the United States both continue to escalate, the warnings that Russian hackers could go after US businesses have gained new urgency .
+
+US President Joe Biden on Monday urged business leaders to strengthen their online defenses, warning that his Russian counterpart Vladimir Putin could use cyberattacks as a means of escalating the crisis.
+
+"The point is that he has the capability," Biden told the Business Roundtable Quarterly Meeting in Washington. "He hasn't used it yet, but it's part of his playbook."
+
+In a March 18 advisory to US businesses obtained by CNN, the FBI warned that hackers linked to Russian internet addresses have been scanning the networks of five US energy companies.
+
+And experts have warned of 'significant' vulnerabilities in US systems that Russian hackers can exploit, as evidenced by attacks last year that breached Florida's water supply, hit one of the world's largest meat producers and shut down one of America's largest fuel pipelines for several days.
+
+"The threat will probably continue long after this conflict is over," David Murphy, cybersecurity manager at accounting firm Schneider Downs and a former National Security Agency analyst, told CNN Business. "I think it'll just increase with time."
+
+Here's what businesses can do to better protect themselves.
+
+Updates, patches and backups
+
+It may sound like an obvious and straightforward fix, but experts say keeping your system's software up to date is an important way to prevent many attacks. Those software updates will often include security patches to fix loopholes that hackers can and do exploit.
+
+"It's like raising the cost for the adversary... if I make it a little harder, they go on to the next victim," said Karen Evans, managing director of the Cyber Readiness Institute, which provides resources for businesses to shore up their cyber defenses.
+
+Multi-factor authentication, which supplements passwords with an additional login method such as a numbered code from a separate device or a fingerprint scan, is also becoming something of a must-have for companies to secure potential entry points into their networks.
+
+However, one such service, Okta, acknowledged late Tuesday that a cybersecurity incident in January may have affected hundreds of its clients. The new details came after a mysterious hacking group known as Lapsus$ published screenshots claiming access to an Okta internal administrative account and the firm's Slack channel. The incident may only add to jitters in the corporate community.
+
+Evans says it's important for businesses to also have a contingency plan in case they do get attacked, and one of the best ways to do that is having backups of critical or sensitive data stored outside the system.
+
+"Can I restore operations from my data backups if I go down? Do I have an alternate way to do business?" she said. "Those are the business resiliency, the continuity plans that small businesses have to have, and in the middle of the crisis is not the time to find out I have a gap."
+
+And in the current situation, where concerns about cyberattacks are centered on one particular country, Murphy suggests companies can specifically target internet addresses originating from that country — in this case, Russia — in a move known as geo-blocking.
+
+"It's not going to protect you 100%, but it's definitely at least knocking off some of the low-hanging fruit," he said.
+
+Cyber insurance
+
+As the risk of cyberattacks increases — particularly ransomware attacks that can extract millions of dollars to restore systems — companies are increasingly opting for additional insurance plans that can help pay for damages and losses from cyberattacks.
+
+Demand for cyber insurance has gone up in recent years , according to providers and industry experts, driving up premiums for those plans by as much as 22% between 2019 and 2020. But for companies that can afford it, it's a good way to not only protect against damages but also to keep them more vigilant against threats in the first place.
+
+"Cyber insurance is becoming extremely expensive, but also kind of levying requirements on businesses to make sure that they're covered and protecting themselves as well," said Murphy, highlighting that insurance firms will often have a list of questions companies have to answer and protections they must have in place to even qualify for a plan.
+
+But companies should be wary of treating cyber insurance as the be-all and end-all of protection against attacks, Evans warns. Companies need to evaluate their risk and make systemic changes regardless of whether they're protected after the fact.
+
+"It's not necessarily: 'Oh, I bought cyber insurance and I'm done,'" she said.
+
+To complicate matters further when it comes to Russian cyberattacks, insurance companies often have clauses making exceptions for acts of war and attacks by nation states, in which case the policy does not apply.
+
+Employee awareness
+
+Although companies must protect themselves at the network and system level, past precedent shows that attacks can originate from even a single compromised device, account or email address.
+
+Three of the four pillars of cyber protection that the Cyber Readiness Institute urges companies to address — weak passwords, external USB drive usage and phishing attacks (where hackers use deceptive links to obtain personal data) — tend to exploit individual users.
+
+"When you look across the board, it's a culture change that has to happen," Evans said. "No matter what the size of an organization is — it's the leadership, it's the CEO, it then cascades down to all the employees."
+
+Ultimately, many cyber vulnerabilities come down to human error and lapses in judgment, and that's why companies need to raise awareness among employees about cyberattacks and steps to mitigate them. The rise of remote work during the pandemic has further complicated that task, with distributed workforces providing hackers with many more potential entry points into the network.
+
+"Humans are in the equation, and so that's why this ends up having to be an organizational change," Evans said.
+
+— CNN's Sean Lyngaas contributed to this report.

@@ -1,0 +1,37 @@
+New York CNN Business —
+
+OneWeb — which for years chased a multibillion-dollar dream of beaming cheap, high-speed Internet from space — filed for bankruptcy on Friday.
+
+The company said it plans to “pursue a sale of its business in order to maximize the value of the company.”
+
+OneWeb’s assets include 74 internet satellites that launched into orbit over the past few months as it began building a constellation of more than 600 devices that the company hoped would blanket the entire planet in internet connectivity.
+
+The startup’s Chapter 11 filing amounts to another black eye for its largest backer, Japanese investing giant Softbank (SFTBF). The company, which poured about $2 billion into OneWeb since 2016, is under growing pressure from its investors to tighten its belt after a series of bad bets on tech firms.
+
+Reports of OneWeb’s financial woes have been circulating for weeks, even as the company made its first significant strides in building its satellite internet constellation.
+
+The startup was reportedly in talks with Softbank to secure new funding, but the negotiations fell apart just hours before OneWeb launched its second large batch of 34 satellites into orbit on Saturday, according to a Financial Times report that was confirmed by CNN Business.
+
+OneWeb did not comment on specific fundraising efforts, but the company said in a statement that it has been “engaged in advanced negotiations regarding investment that would fully fund the company through its deployment and commercial launch.” But those plans “did not progress because of the financial impact and market turbulence related to the spread of COVID-19,” the statement reads.
+
+Softbank did not respond to inquiries from CNN Business.
+
+OneWeb, which employs about 500 people and recently opened a sprawling satellite factory in Florida, also confirmed this week that it was forced to lay off about 10% of its workforce, which it also attributed to the “global health and economic crisis,” according to a separate statement.
+
+OneWeb raised more than $3 billion, mostly from high-profile investors including Softbank, Airbus (EADSF), Richard Branson’s Virgin Group, Coca-Cola (KO) and Qualcomm (QCOM).
+
+And the company was once seen as a forerunner in the race to blanket the world in Internet connectivity using hundreds of satellites that orbit just a few hundred miles above ground.
+
+But it faced stiff competition. Elon Musk’s SpaceX, which brings in revenue from its rocket launch business and raised more than a billion dollars last year, is the clear leader. The company’s Internet constellation, dubbed Starlink, already consists of more than 300 satellites. Musk has said the venture could start delivering service to customers as soon as this summer.
+
+Other satellite ventures pursing high-speed internet constellations include Amazon (AMZN), Canada’s Telesat and, reportedly, Apple.
+
+It’s not clear, however, if any of these plans will be successful.
+
+Several ventures, including one backed by Microsoft (MSFT) multibillionaire Bill Gates, attempted to build similar satellite-internet constellations in decades past. All of them either folded, filed for bankrupt, or drastically restructured their business plans.
+
+SpaceX, Amazon and others are attempting to succeed where others have failed. But they still face financial and technical hurdles. They must take on the steep costs of mass producing satellites and firing them into space without running out of money — and then they must be able to deliver their services at a price that makes sense for their customers.
+
+OneWeb’s story is similar to its predecessors: The company began by touting bold plans to deliver low-cost service to billions of people around the globe that still lack reliable Internet access. But as it faced mounting costs and delays while developing its technology, OneWeb shifted its focus to corporate customers, with plans to beam Internet to ships and airplanes.
+
+SpaceX is still pledging it will bring Starlink service directly to consumers. However, it has yet to demonstrate it can produce affordable user terminals, which would use complex antennas to set up usable internet connections on the ground.

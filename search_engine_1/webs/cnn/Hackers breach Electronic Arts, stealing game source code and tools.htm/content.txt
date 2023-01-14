@@ -1,0 +1,11 @@
+(CNN Business) Hackers have broken into the systems of Electronic Arts, one of the world's biggest video game publishers, and stolen source code used in company games, a spokesperson confirmed to CNN Business on Thursday.
+
+EA EA Online forum posts reviewed by CNN Business and vetted by an independent cybersecurity expert show that on June 6, hackers claimed to have obtained 780 gigabytes of data from, including the Frostbite source code, which is the game engine that powers the FIFA, Madden, and Battlefield series of video games, among others.
+
+The hackers claimed to offer "full capability of exploiting on all EA services." They also claimed to have stolen software development tools for FIFA 21 and server code for player matchmaking in FIFA 22.
+
+Brett Callow, the cybersecurity expert and a threat analyst at Emsisoft, said losing control over source code could be problematic for EA's business. "Source code could, theoretically, be copied by other developers or used to create hacks for games," he said.
+
+"Anytime source code gets leaked it's not good," said Ekram Ahmed, a spokesperson for the cybersecurity firm Check Point. "Hackers can comb through the code, identify deeper flaws for exploit, and sell that previous code on the dark web to malicious threat actors."
+
+Read More

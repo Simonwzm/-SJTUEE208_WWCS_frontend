@@ -1,0 +1,59 @@
+New York (CNN Business) In his 2014 annual letter to shareholders , Amazon CEO Jeff Bezos wrote that a "dreamy business offering" comprises at least four elements: "Customers love it, it can grow to very large size, it has strong returns on capital, and it's durable in time — with the potential to endure for decades."
+
+"When you find one of these, don't just swipe right, get married," he wrote. Multiple Amazon businesses fit that bill, he added. Seven years later, that's proven to be true, but perhaps for none more than Amazon Web Services
+
+AWS started in 2003 as an effort to use technology built to run Amazon's online store as an alternate revenue stream. It has since become the company's biggest moneymaker (although consumers may be more familiar with Amazon's marketplace and its massive distribution network ). The service has also become the backbone of much of the internet, providing online infrastructure for everything fromto the CIA
+
+In the seven years since Bezos wrote that letter, operating income from AWS has skyrocketed 1,950%, compared with around 715% income growth in Amazon's other business units combined.
+
+The growth at AWS occurred under the leadership of Andy Jassy, the 24-year Amazon veteran who helped the company pioneer cloud computing and who has overseen AWS's ascension to the top of the increasingly competitive cloud market.
+
+And as Bezos prepares to hand over Amazon's CEO job to Jassy , the company is signaling that the cloud will play a key role in its future.
+
+While it has been obvious that AWS is Amazon's future since at least 2015, "this just seals the deal," said James McQuivey, principal analyst at Forrester.
+
+"This business grows faster, it scales faster," McQuivey said. "If you just add it up — yes, a lot of people need to buy things, they need to watch stuff online, they need to ask Alexa what temperature it is outside — but infinitely more people are touched each day by cloud services."
+
+The future of AWS
+
+Jassy was there when Amazon decided to launch AWS as a separate company that served Amazon.com just as it would any external customer.
+
+"In the beginning, a lot of those same companies would pooh-pooh the cloud and say that nobody was going to use it for anything interesting," Jassy said in a 2019 CNN documentary on Amazon's history. Analysts now say AWS is on its way to raking in $50 billion in sales each year.
+
+And Jassy's experience growing AWS makes him a good fit to handle the scale of the broader company, experts say.
+
+"Few people on the planet have the ability to manage the hyper-growth machine that Amazon has been [better] than Andy Jassy," said Nicholas McQuire, vice president of enterprise research at CCS Insight. "And then of course you layer in the most important thing: the ingrained culture and leadership aspects from inside Amazon, which obviously he displays and has proven himself around."
+
+And as the former cloud boss, Jassy is well positioned to understand how to most effectively integrate AWS with Amazon's other offerings for continued growth, analysts say.
+
+"He will understand the importance of all the assets, as opposed to, historically, AWS is just this thing on the side that was boring and was a cash cow," McQuire said.
+
+Microsoft MSFT Not only is growth in the cloud market accelerating, Amazon now has to defend its outsized market share against increasingly fierce competitors, especiallyAzure. While Amazon Web Services' year-over-year revenue growth during the three months ended in December accelerated from earlier in the year to 28%, Azure's revenue grew 50% year-over-year during the fourth quarter.
+
+Amazon is expected to increase capital expenditures on cloud infrastructure by 11% in 2021, "to reduce the risk that AWS runs out of capacity in light of the strong Cloud demand they're seeing," according to Morgan Stanley analyst Katy Huberty.
+
+"We view this as a major step up in the cloud arms race with crosstown rival Microsoft," Wedbush analyst Dan Ives said in a note to investors Tuesday. "Jassy is an undisputed cloud titan and has been a key force in getting AWS to the top of the cloud mountaintop over the past decade. That said, we believe the tide is shifting in the cloud arms race as Microsoft ... is taking market share vs. AWS."
+
+A major question now is who will take over running AWS through its next phase of growth. One possibility is Matt Garman, who was promoted last year to the top sales and marketing role at AWS after working as vice president of the division's compute services for seven years.
+
+"He's very well regarded in the business, understands the technology, particularly the infrastructure side of the business which is core to AWS's strengths in the market," McQuire said of Garman.
+
+Amazon's future challenges
+
+As he transitions from leading AWS to running the larger company, Jassy will step into some big shoes — and some big challenges.
+
+Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition.
+
+Jassy said in a 2019 Frontline interview that the company "never had any reported misuse of law enforcement using the facial recognition technology" and that "simply because the technology could be abused in some way doesn't mean that you should ban it or condemn it or not use it." He also said the company would sell the controversial AI application to foreign governments (but added that Amazon would not sell the software to governments that it cannot legally sell to.)
+
+"It just seems very likely Amazon is now going to double down on their surveillance-based business model," said Evan Greer, deputy director of digital rights nonprofit Fight for the Future. "He's sort of saying, 'Let's wait and see if something bad happens,' but if he had been listening he would know that bad things have already happened."
+
+Greer added Amazon's business model is largely is based on surveillance — from its knowledge of what you buy and what you ask Alexa to the data gleaned via Rekognition and its Ring doorbells. "That data is where their power comes from," she said.
+
+And last month, alternative social media platform The e-commerce giant also faces growing regulatory scrutiny related to the massive size of its business. Bezos appeared before Congress alongside other Big Tech CEOs last summer to testify at an antitrust hearing , where he was grilled on Amazon's approach to pricing, acquisitions and how it uses data from third-party sellers.And last month, alternative social media platform Parler sued Amazon after being de-platformed alleging, among other things, an antitrust violation.
+
+Jassy could be just the person to address such concerns because of his experience convincing some of the world's biggest companies and government agencies to entrust their crucial digital infrastructure to Amazon, CCS Insight's McQuire said.
+
+"He understands the importance of trust in the brand," McQuire said. "He's willing to kind of pull the veil up a little bit on how Amazon operates that the wider public doesn't know, for example, how they treat Amazon.com as a customer ... That importance of trust, he understands that from the big deals he's done."
+
+--CNN Business' Rachel Metz contributed to this report

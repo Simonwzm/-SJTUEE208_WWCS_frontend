@@ -1,0 +1,65 @@
+(CNN Business) Since the start of this year, a series of advertisements have appeared on television screens and billboards across the United States, with ominous warnings to texters.
+
+"I think I left the car unlocked, can you check?" reads a text message displayed on one of the billboards. The consequence, outlined next to the text bubble: "If your personal texts aren't end-to-end encrypted, it's not private."
+
+In a TV commercial , a mailman hands already-opened letters and packages to outraged recipients, before telling them that "every text you send is just as open as your letters."
+
+Those warnings are courtesy of WhatsApp, the mobile messaging service acquired by Facebook in 2014. While WhatsApp has grown into a formidable force since then, used by more than a quarter of the world's population , the platform'sreach in its home market remains comparatively small.
+
+Data shared with CNN Business by research firm eMarketer indicates WhatsApp had less than 63 million users in the United States as of last year, or around 19% of the country's population. That's far behind its audience in countries such as India, Brazil and Indonesia where it is among the most popular modes of communication. India alone has nearly 500 million WhatsApp users according to eMarketer, which is more than a third of its population and over half its internet user base.
+
+This is the first time WhatsApp, which declined to share stats on how many users it currently has in the United States, has run an ad campaign in the country.
+
+"Over time, we've seen more people in the US turn to WhatsApp," Eshan Ponnadurai, the platform's head of marketing who spearheaded the ad campaign, said in an emailed statement to CNN Business, though he acknowledged the gap with the rest of the world. "We're just introducing ourselves in the US in a way."
+
+WhatsApp. Even as it makes a The stakes could be high for Facebook, now known as Meta, to grow the reach ofWhatsApp. Even as it makes a large-scale pivot to virtual reality , Meta's social media platforms still form the core of its business. And that business has been flagging — Facebook's user growth has slowed as it saturates the world and faces increased competition from other platforms such as TikTok, particularly for younger users. Meta's advertising business has also been hit by Apple's privacy changes around tracking user activity.
+
+While apps such as Facebook and Instagram are already widely used in the United States and don't have much room to grow, the potential for WhatsApp is much larger. The messaging app cost Facebook $19 billion almost a decade ago but generates little revenue. Meta is now trying to change that
+
+Boosting WhatsApp in the United States could have positive ripple effects on its other platforms and create new monetization opportunities in a lucrative market. But to get there, WhatsApp must fight an uphill battle to change how Americans text and, perhaps, how they view WhatsApp's parent company.
+
+The fight to change how Americans text
+
+With more than 2 billion users globally, WhatsApp has become the dominant messaging service in many parts of the world, including much of Asia, Europe and Latin America.
+
+That's not the case in the United States, where more than half the country uses iPhones and their default iMessage app. For non-iPhone users, traditional text messaging, also known as SMS (or MMS for sharing pictures) is still the go-to. More than 2.2 trillion text messages were sent in the United States in 2020, according to CTIA, a trade group for the US telecommunications industry.
+
+"The only common denominator is SMS, a 30-year-old technology," said Inderpal Singh Mumick, CEO of New Jersey-based communications company Dotgo, which helps businesses communicate with customers through various messaging apps.
+
+Google, whose Android operating system is Apple's biggest smartphone rival, is in the process of replacing SMS with a system known as Rich Communication Services (RCS) for its default messages app. Google describes RCS as a "a modern, more secure industry standard" that gives users a safer, more interactive way to message each other.
+
+But the rollout has been slow, and SMS remains popular. Mumick estimates that there are around 40 million RCS users in the United States, out of 500 million globally.
+
+WhatsApp, which works the same regardless of the device it is being used on, has seemingly settled on a strategy to convince Americans to make the switch — by appealing to their desire for data privacy.
+
+The privacy playbook
+
+WhatsApp has long touted its use of end-to-end encryption, which means only the sender and recipient of a message can see its contents. While several other competitors including iMessage and Signal also offer end-to-end encryption, WhatsApp is by far the biggest in terms of user base.
+
+Ponnadurai said WhatsApp saw the growing conversation around data privacy as "an opportunity to educate Americans that are missing out on having secure conversations because they're still using SMS."
+
+There is merit to the argument that SMS is unsafe, according to some privacy experts.
+
+"SMS is definitely insecure," said Riana Pfefferkorn, a research scholar at the Stanford Internet Observatory who focuses on encryption and privacy issues. The telecom architecture that enables text messages to be transmitted, known as the SS7 protocol, has vulnerabilities that "leave Americans' calls and text messages unprotected against malicious snoops," she added.
+
+WhatsApp's new ad campaign warns against using unencrytped text messages.
+
+WhatsApp's privacy push comes as lawmakers in the US and around the world are also floating legislation that would dilute encryption, citing the technology's potential use by malicious actors. But critics of the legislation say doing so would have dangerous implications for online privacy.
+
+"From an encryption policy standpoint, now is an important time to mount a public relations campaign touting the benefits of an encrypted chat app," Pfefferkorn said. "Americans recognize that they need and deserve privacy and security for their communications, but they may not know that end-to-end encryption is a great way to achieve those needs, or realize that WhatsApp is [encrypted] by default."
+
+But the biggest challenge WhatsApp faces in convincing Americans to switch may come from its own parent company.
+
+Trust issues
+
+In recent years, Facebook has faced scandal after scandal when it comes to protecting its users' privacy and security. A series of damning leaks from a Facebook whistleblower late last year may have only tarnished trust in the company further. Even guaranteed encryption may be a difficult sell.
+
+"The company's many privacy screw-ups have bred a general atmosphere of distrust," said Pfefferkorn. "People just don't believe that Facebook actually respects their privacy, and many people don't even believe that Facebook [and] WhatsApp truly can't read their WhatsApp messages."
+
+WhatsApp has faced its own backlash over privacy. The company was forced to delay an update to its privacy policy last year, after confusion over how much user data it shares with Facebook prompted a mass exodus to rival messaging platforms such as Signal.
+
+Should its US push succeed, the opportunities for WhatsApp are significant. The company has rolled out business communications and digital payments in some of its biggest markets, attempting to monetize what has traditionally been a free service. And the United States is considered among the most lucrative markets in the world terms of revenue per user of online services.
+
+But entrenched texting habits and its own parent company's missteps will likely make that an uphill battle.
+
+"Facebook has totally blown it on public trust, and so if the PR strategy in the US doesn't work, Facebook will have themselves to blame," Pfefferkorn said.

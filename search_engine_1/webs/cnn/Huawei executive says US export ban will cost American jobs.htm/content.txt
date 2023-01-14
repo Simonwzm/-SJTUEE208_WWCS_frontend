@@ -1,0 +1,35 @@
+New York CNN Business —
+
+Huawei will survive the US pressure campaign against it, but American jobs may not, says Andy Purdy, Huawei’s chief security officer and former head of the US Department of Homeland Security’s national cybersecurity division.
+
+Purdy told CNN’s Julia Chatterley on Friday that he thinks the Trump Administration is taking the wrong steps to protect the country, to the detriment of American companies.
+
+“Given the United States’ vulnerability in cyberspace, I think the government is bending over backwards to make America safe, but they’re going too far,” Purdy said. “If we are forced to go our way, we’ll be okay. But in the long term, I don’t know that Huawei will come back (to America) and I think America will be hurt.”
+
+The US government says the Chinese company poses a national security risk because Beijing government officials could use its technology to spy on Americans. Huawei fiercely denies this. The White House imposed restrictions on using government funds to buy Huawei telecom equipment and banning American companies from selling to Huawei.
+
+US President Donald Trump, after meeting last month with Chinese counterpart Xi Jinping, said he would relax the ban, though it remains unclear what and when American suppliers can restart sales to the Chinese company.
+
+As trade talks drag on, American companies have spoken up about the harm to their business caused by the ban, and have looked for ways around it.
+
+Huawei purchased $11 billion in American goods in 2018, according to its annual report. Purdy said if the company is no longer able to do that, it could hurt workers at its American suppliers like Google, Intel and Qualcomm.
+
+“The impact on American jobs is going to be very significant,” Purdy said.
+
+Asked for comment, the Commerce Department pointed CNN Business to an address by Secretary Wilbur Ross on July 9 referencing the easing of the ban. He said Commerce would issue licenses to American companies to sell to Huawei “where there is no threat to US national security.”
+
+“The private sector must act responsibly, and protect technologies with national security ramifications,” Ross said in the address. “It is wrong to trade secret or sensitive IP and source codes for access to a foreign market, however lucrative that market might be.”
+
+Although Purdy’s comments referred to jobs at the American companies Huawei buys from, there have also been reports that Huawei is scaling down its US operations. The Wall Street Journal reported last week that Huawei is planning to lay off hundreds of workers from its US-based research and development operations, citing people familiar with the matter.
+
+A Huawei spokesperson said the company does not comment on rumors or speculation.
+
+Purdy stressed that he thinks blocking Huawei, especially from buying American technologies, is not going to make America safer.
+
+“They are our suppliers, so they certainly have no question that what they want to sell us is not going to put America at risk,” Purdy said, adding that there are mechanisms used in other countries to test the security of telecom network equipment.
+
+“The bad guys can also hack into Nokia’s networks, Ericsson’s networks, and so forth,” he said. “We need to make sure there are mechanisms, so that whatever products are used in the United States have gone through independent, government-moderated evaluation to make sure we’re safe.”
+
+Though Huawei downgraded its projected revenue growth for 2019 by $30 billion, Purdy said the company will ultimately survive even if it is cut off from the United States altogether.
+
+“We’re going to be fine,” Purdy said. “But is America going to be fine?”

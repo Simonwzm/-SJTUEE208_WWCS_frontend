@@ -1,0 +1,21 @@
+San Francisco CNN Business —
+
+Apple has been touting its commitment to privacy for years, and its latest iPhone ad focuses on driving that point home.
+
+The ad, titled “Over Sharing” and released on Apple’s official YouTube channel Thursday, begins with a man shouting to a bus full of people that he “browsed eight sites for divorce attorneys today.” It also features a woman giving out her login information to strangers in a movie theater, two coworkers yelling their private chats across the room, a man yelling out his heart rate while power walking and, finally, a woman shouting her credit card details through a megaphone in the park.
+
+Each of the examples is meant to highlight a different Apple service and the privacy protections they offer, the company said, including Safari, Apple Maps, Apple Pay and iMessage.
+
+The ad ends with text that says “Some things shouldn’t be shared. iPhone helps keep it that way.”
+
+Apple has hammered on its dedication to privacy as a marketing pitch in recent years, with CEO Tim Cook repeatedly calling privacy a fundamental human right. Cook also told CNN that he wants governments around the world to restrict how much data companies can collect from their customers.
+
+The company famously refused requests from the FBI and the US Department of Justice to help unlock the iPhones believed to have been used by mass shooters by installing a “backdoor.” Earlier this year, it made an official appearance at the world’s biggest tech conference, CES, for the first time in nearly three decades to preach about privacy, and more recently rolled out privacy-focused software updates that curbed Facebook’s iPhone advertising capabilities.
+
+But that doesn’t mean Apple hasn’t had privacy issues of its own.
+
+Last year, the company apologized for allowing contractors to listen to commands that users gave to its voice assistant Siri without informing users that it was doing so. The company pledged changes, including requiring users to opt-in to having their recordings listened to by human reviewers, rather than having this be the default.
+
+It’s also faced its share of security flaws with the iPhone. For example, with the release of the iOS 13 operating system last September, contact details stored in iPhones were exposed without requiring a passcode or biometric identification.
+
+CNN Business’ Kaya Yurieff contributed to this report.

@@ -1,0 +1,71 @@
+New York (CNN Business) Journalism is often considered the first draft of history, but what happens when that draft is written on a software program that becomes obsolete?
+
+Adobe ending support for Flash — its once ubiquitous multimedia content player — last year meant that some of the news coverage of the September 11th attacks and other major events from the early days of online journalism are no longer accessible. For example, The Washington Post and ABC News both have broken experiences within their September 11th coverage, viewable in the Internet Archive. CNN's online coverage of September 11th also has been impacted by the end of Flash.
+
+That means what was once an interactive explainer of how the planes hit the World Trade Center or a visually-rich story on where some survivors of the attacks are now, at best, a non-functioning still image, or at worst, a gray box informing readers that "Adobe Flash player is no longer supported."
+
+An interactive piece from ABC News detailing the flight paths of the planes that hit the World Trade Center is no longer viewable because it was built on Adobe Flash.
+
+Dan Pacheco, professor of practice and chair of journalism innovation at Syracuse University's Newhouse School, has experienced the issue firsthand. As an online producer for the Post's website in the late 1990s and later for America Online, some of the work he helped build has disappeared.
+
+"This is really about the problem of what I call the boneyard of the internet. Everything that's not a piece of text or a flat picture is basically destined to rot and die when new methods of delivering the content replace it," Pacheco told CNN Business. "I just feel like the internet is rotting at an even faster pace, ironically, because of innovation. It shouldn't."
+
+Rise and fall of Flash
+
+Adobe Flash played a critical role in the internet's development by being the first tool that made it easy to create and view animations, games and videos online across nearly any browser and device. Animated stars of the early internet such as Charlie the Unicorn, Salad Fingers and the game Club Penguin were all brought to life thanks to Flash.
+
+The software also helped journalism to evolve beyond print newspapers, TV and radio, ushering in an era of digital news coverage that used interactive maps, data visualizations and other novel ways of presenting information to audiences.
+
+"Flash's ease of use for creating interactive visualizations and explorable content shaped early experiments with web coverage, and particularly served as a preview for what adding dynamic elements to a story could provide," Anastasia Salter, associate professor at the University of Central Florida and author of the book "Flash: Building the Interactive Web," told CNN Business in an email.
+
+But despite enabling those innovations, Flash was also controversial. In 2010, Apple founder Steve Jobs wrote a scathing letter bemoaning Flash's security issues and the fact that it was a proprietary system underlying so much of the internet. Jobs' refusal to support Flash on iOS devices was widely seen as the start of its decline. A year later, Adobe said it would no longer develop Flash on mobile devices.
+
+In the following years, the more open web standard HTML5 — which allowed developers to embed content directly onto webpages — gained traction, and made the add-on Flash extension less useful. Flash was increasingly mocked and despised for being buggy, laden with security vulnerabilities, a battery drain and requiring a plug-in to use.
+
+In 2017, Adobe announced it would pull the plug on Flash at the end of 2020. Some operating systems and browsers started discontinuing Flash early, and the software's official "end-of-life" day came on December 31, 2020, when Adobe ended support for Flash and encouraged users to uninstall it because it would no longer get security updates.
+
+Since then, a host of Flash-based content across the web has become inaccessible.
+
+"Web preservationists have been sounding the alarm on Flash for a long time," Salter said.
+
+In some corners of the internet, there are efforts to preserve or restore some of that content. The Internet Archive has made a push to re-create, save and display Flash-based animations, games and other media using an emulator tool called Ruffle. However, that process can be difficult and won't necessarily work to save all content built in Flash.
+
+"Unfortunately it's a lot more difficult than we'd like [to restore Flash content], particularly because 'Flash' encompasses generations of work and the platform's code complexity grew with every iteration of Adobe's scripting language," Salter said. "I can't say I've seen any news organization make the type of concerted effort that animations, games, and electronic literature communities are to save this history."
+
+For its part, an Adobe spokesperson said in a statement: "Adobe stopped supporting Flash Player beginning December 31, 2020. Unfortunately, these older web pages can no longer be played due to the Flash plugin being blocked from loading in the browser. Like all Americans, we watched the horrific events of 9/11 and understand the important role Flash played in helping media organizations depict and tell the stories of that tragic day."
+
+A Samsung-owned software called Harman has also partnered with Adobe and can help companies to keep Flash-based content running.
+
+Finding solutions
+
+Some newsrooms have taken it upon themselves to rebuild Flash content. For its coverage of the 20th anniversary of September 11th, USA Today republished some 2002 articles timed with the first anniversary and that included recreating some Flash-based interactives. Whereas some of these graphics were originally bigger interactives, USA Today's graphics teams remade some to be smaller.
+
+"We played with the limitation a little bit... because this is more a more relaxed and a more solemn and calm way to look at the stories," said Javier Zarracina, graphics director at USA Today. "We're not doing a facsimile. We're taking a curated look at what we published 20 years ago."
+
+One of the stories USA Today published in 2002 was an investigation into the elevator system in the World Trade Center that included a Flash graphic explaining how people got trapped inside them on September 11, 2001. The USA Today team chose to remake that graphic and republished it earlier this week.
+
+USA Today has archived many of its old interactives by storing the original files on its servers. Since some of the online interactives were converted for the print newspaper, they also saved associated static graphics. Zarracina said he was able to open some of the files originally made in Adobe's FreeHand software in a newer creative software suite called Affinity.
+
+An interactive CNN feature on the fallout from 9/11 is broken following the end of Flash.
+
+The New York Times has brought back some its old Flash-based interactives by using Ruffle, an Adobe Flash Player emulator that is part of an open-source project, said Jordan Cohen, The Times' executive director of communications.
+
+"The Times cares about preserving the digital history of the early days of web journalism, and through several site migrations we have made sure to preserve pages as they were originally published on archive.nytimes.com," Cohen wrote in an email. "[W]e hope in the future will enable our readers to experience all of our Flash interactives."
+
+But not every media organization is as dedicated to archiving.
+
+"News companies are in the business of this very minute and tomorrow," said Pacheco, the Syracuse professor. "We're not libraries."
+
+Jason Tuohey, managing editor for digital at The Boston Globe, said in a statement that his team planned to "revive some of our archive coverage [for the September 11th anniversary], but in many ways, the best material we can provide our readers is journalism that puts the anniversary in context and perspective, rather than simply repeating what we ran in the past."
+
+Kat Downs Mulder, managing editor of digital at The Post, said in a statement that her news organization has "made a concerted effort to make most of our text-based articles, images, graphics and maps accessible" in their online archives but added that not every project is rebuilt.
+
+CNN and ABC News declined to detail any plans to rebuild Flash-based interactives.
+
+A never-ending problem
+
+The limitations of news organization's archives does not start or end with Flash. Pacheco noted how his former employer, The Post, has invested significant effort in TikTok. He questioned whether they were preserving each video and if that was also the case for other social apps, including disappearing content on Instagram and Snapchat.
+
+about the US-Mexico border and former President Donald Trump's campaign to build a wall. USA Today is not rebuilding every old experience for today's news consumer. But individuals inside the news organization are giving special attention to certain projects. Jim Sergent, senior manager of graphics at USA Today, said his colleague Mitchell Thorson keeps eyes on the functionality of the interactive map within the Pulitzer-winning feature, "The Wall," about the US-Mexico border and former President Donald Trump's campaign to build a wall.
+
+"'The Wall' is a great example where we did just unbelievable work and we realized, 'Okay, yeah. We want this to be out there for as long as it can be,'" Sergent said.

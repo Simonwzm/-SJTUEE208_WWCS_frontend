@@ -1,0 +1,67 @@
+(CNN) The biggest tech companies spent much of the last four years in Washington playing defense: Answering to threats of regulation and repeatedly being called before congressional committees; serving as former President Donald Trump's foil on social media moderation; and protesting his approach to immigration and tariffs.
+
+Now, with President Joe Biden in the White House, Big Tech may be hoping to turn a page. The industry's trade groups are already lining up proposals to the new administration in hopes of shaping a more favorable agenda.
+
+But despite Biden's early moves like overturning Trump's travel ban targeting majority-Muslim countries and tapping tech industry staffers to serve in his government, Silicon Valley's future remains as uncertain as ever. Even with Congress under Democratic control -- with a razor-thin margin -- many of the tech-related challenges for policymakers remain the same.
+
+Among them are what to do with an enormously powerful social media industry that largely continues to spread misinformation and hate, despite the platforms' efforts to crack down on it; how to ensure that all Americans have affordable high-speed internet access amid a global pandemic; and responding to a suspected Russian intrusion into US computer networks that's been described as the worst government data breach in years. It's also unclear if the government's approach to Chinese-linked companies, including TikTok, whose business deal with Oracle and Walmart still hasn't been approved , may change.
+
+Here are the big tech issues that policy experts say America's new government will likely confront.
+
+Section 230
+
+Policy experts say tech companies are still in for a reckoning in Washington, even with the departure of Trump — the industry's chief antagonist for the last four years. Perhaps nowhere is that more apparent than with Section 230, the liability shield that largely protects tech companies from lawsuits over their content moderation decisions.
+
+GOP lawmakers have lobbed baseless claims of unconstitutional censorship at the hands of tech platforms (the Constitution does not require private companies to carry user speech). At the same time, Democrats including Biden say tech companies haven't done enough to combat misinformation and must be held accountable. One of Biden's top tech advisors, Bruce Reed, said in December that it's "long past time to hold the social media companies accountable for what's published on their platforms."
+
+For their part, companies including Google and Facebook have said they've hired thousands of human content moderators and ramped up artificial intelligence-based content filters.
+
+With Democrats enjoying a slim margin in Congress, policy experts anticipate the conversation on Section 230 to drift away from Republican-driven legislation targeting perceived censorship. That's particularly the case now following the Capitol riots earlier this month, which were facilitated by online misinformation about the 2020 election outcome, said Carl Szabo, general counsel at NetChoice, a tech trade group.
+
+"I believe Democrats are going to be much, much more aggressive in pushing for reforms of Section 230 to force stricter moderation of content," he said.
+
+Antitrust
+
+The threats to big tech companies don't end there. Major platforms such as Amazon, Apple, Facebook and Google received a great deal of scrutiny last year over their dominance, with a House Democratic-led report finding that the companies enjoy "monopoly power." Facebook and Google are battling multiple lawsuits by federal and state officials, and Apple and Amazon have been hit by private antitrust lawsuits. All of those suits are expected to continue.
+
+With Democrats in control of the House and nominally in the Senate, that provides an opening for the party to push for some of the more aggressive changes to competition law contemplated in the House antitrust report. While Republicans had expressed support for some proposals, such as giving the Federal Trade Commission more resources, they had balked at others, such as a bill that might prevent tech companies from both owning a digital platform and competing on it, as Amazon does with its e-commerce site.
+
+"If Congress does flip, you could end up with some kind of new [regulatory] scheme for the big digital marketplaces," Columbia University law professor Tim Wu predicted in October.
+
+Net neutrality
+
+One of the Trump Federal Communications Commission's first actions in 2017 was to repeal the US government's net neutrality regulations, which had prohibited internet service providers from blocking, slowing or selectively speeding up websites and apps. The move was widely opposed by tech companies, internet activists and consumer groups, while telecom providers welcomed the de-regulation.
+
+Now, with control of Congress and the White House, Democrats have an opportunity to restore those rules — either by re-introducing them at the FCC, or by passing legislation to enshrine the regulations into law.
+
+That could put an end to what had become a ping-pong match in Washington, with different FCCs enacting different rules each time the Oval Office changed hands.
+
+"We might find a permanent solution for net neutrality," said Chip Pickering, a former US congressman from Mississippi who now leads INCOMPAS, a telecom trade group. Pickering said a likely path would be for Congress to impose net neutrality obligations on providers including Comcast, Verizon and others without explicitly regulating them like the FCC does with legacy telephone service, a key fault line in past debates.
+
+Broadband access
+
+As the pandemic has driven many Americans to remote work and schooling, it's highlighted how rural and low-income Americans don't enjoy the same access to high-speed internet as those with more resources. Closing that digital divide has historically been a rallying cry for both Republicans and Democrats — making investments in broadband a potentially easy, bipartisan accomplishment, policy experts say.
+
+Expect broadband funding to become a part of infrastructure talks on Capitol Hill, following Biden's campaign promise to extend high-speed connectivity to "every American." The FCC is likely to expand existing federal subsidy programs for connectivity, according to the Brookings Institute . And industry leaders have called for streamlining the rollout of 5G wireless service.
+
+Cybersecurity
+
+The devastating breach of US government and corporate networks by suspected Russian hackers will be an enormous challenge for the Biden administration, as investigators continue to assess the damage.
+
+It will be up to Biden to determine how the US will respond and there are numerous tools at his disposal for doing so, said Keith Alexander, retired general and former director of the National Security Agency. But any response would need to be carefully calibrated to avoid an escalation, he said.
+
+"You can respond by indicting individuals and by diplomatic and economic measures, which they should do," Alexander told CNN. "But any response in cyber in the physical space would probably develop into a bigger attack on us, and we're not prepared to defend against that."
+
+Speaking to reporters Wednesday, White House Press Secretary Jen Psaki declined to say what the administration will do.
+
+"We reserve the right to respond at a time and manner of our choosing to any cyberattack," she said.
+
+Immigration
+
+With the Biden administration's executive actions last week, Silicon Valley appears hopeful for a more welcoming US immigration policy — one that supports the industry's use of immigrant talent.
+
+Companies including Apple, Airbnb and IBM quickly applauded Biden's reversal of Trump's travel ban and his efforts to preserve the program known as DACA, or Deferred Action for Childhood Arrivals. That program, which Trump had sought to limit, protects undocumented immigrants from deportation who had arrived in the United States as children.
+
+Apple CEO Tim Cook said last week he was "inspired" by Biden's moves. In a blog post , Airbnb said it celebrated the executive actions to undo restrictions that it said went "against Airbnb's mission and values." And IBM said those who benefit from the DACA program "make vital contributions to our communities and economy."
+
+"We look forward to a permanent, bipartisan solution in the future," the tech giant said.

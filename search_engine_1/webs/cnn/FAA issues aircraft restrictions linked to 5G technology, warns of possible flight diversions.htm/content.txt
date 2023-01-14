@@ -1,0 +1,11 @@
+(CNN Business) The Federal Aviation Administration announced a new rule on Tuesday that forbids pilots from using auto-landing and other certain flight systems at low altitudes where 5G wireless signals could interfere with onboard instruments that measure a plane's distance to the ground.
+
+The rule, which affects more than 6,800 US airplanes and dozens of aircraft manufacturers, could lead to disruptions in some flight routes involving low-visibility conditions where pilots typically must rely on equipment known as radio altimeters to land safely, the FAA said.
+
+There is a potential risk, the FAA said, that the 5G signals could lead to faulty readings that may make flying unsafe in these conditions. On Tuesday, the agency issued a nearly identical rule that covers more than 1,800 US helicopters.
+
+Characterizing the orders as urgent, the FAA bypassed the typical public feedback process in issuing the restrictions.
+
+"An unsafe condition exists that requires the immediate adoption of this [order] without providing an opportunity for public comments prior to adoption," the agency said. "The FAA has found that the risk to the flying public justifies forgoing notice and comment prior to adoption of this rule because radio altimeter anomalies that are undetected by the aircraft automation or pilot, particularly close to the ground (e.g. landing flare), could lead to loss of continued safe flight and landing."
+
+Read More

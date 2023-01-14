@@ -1,0 +1,11 @@
+London (CNN Business) UK companies and organizations have been urged to bolster their defenses against potential Russian cyberattacks as Moscow masses military forces on the Ukrainian border.
+
+Britain's National Cyber Security Centre has directed organizations to take action "in response to the malicious cyber incidents in and around Ukraine," saying recent attacks are "similar to a pattern of Russian behaviour seen before in previous situations."
+
+"While we are unaware of any specific cyber threats to UK organisations in relation to events in Ukraine, we are monitoring the situation closely and it is vital that organisations follow the guidance to ensure they are resilient," said director of operations Paul Chichester.
+
+The National Cyber Security Centre is part of UK signals intelligence agency GCHQ.
+
+UK organizations should protect against potential attacks by patching their computer systems and enabling multi-factor authentication, the National Cyber Security Centre said. They should also ensure that online defenses are working as expected and keep up to date with the latest threat and mitigation information.
+
+Read More

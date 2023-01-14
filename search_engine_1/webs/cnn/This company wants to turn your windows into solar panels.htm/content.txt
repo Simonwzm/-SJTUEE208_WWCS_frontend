@@ -1,0 +1,35 @@
+San Francisco CNN Business —
+
+What if every window in your house could generate electricity? One Redwood City, California-based startup thinks its technology can achieve that by transforming the way solar power is collected and harnessed.
+
+Ubiquitous Energy has developed transparent solar cells to create its ClearView Power windows, a kind of “solar glass” that can turn sunlight into energy without needing the bluish-grey opaque panels those cells are generally associated with. The company, spun out of the Massachusetts Institute of Technology in 2012, hopes to use that tech to turn practically any everyday glass surface into a solar cell.
+
+“It can be applied to windows of skyscrapers; it can be applied to glass in automobiles; it can be applied to the glass on your iPhone,” Miles Barr, Ubiquitous Energy’s founder and chief technology officer, told CNN Business.
+
+The company is looking to capitalize on the United States’ renewable energy boom, with solar and wind energy projected to surpass coal by 2021, according to the Institute for Energy Economics and Financial Analysis.
+
+While several companies are working on similar products, the technology is still in the relatively early stages. It’s one of several emerging products that harness solar energy, with others including irrigation pumps and a “solar oven” that can be used to make cement and steel. Ubiquitous Energy’s home state of California is one of the first to require that every new home incorporate some form of solar technology.
+
+“This is great for ClearView Power because homeowners can install windows just like they would anyways, but they actually produce power to meet this requirement,” Barr said.
+
+The core of the product is an organic dye that can be used to coat glass surfaces. The dye allows visible sunlight to pass through – just like normal windows do – but captures the invisible infrared rays from that sunlight.
+
+“Light absorbing dyes are found all around us. They’re in paints, they’re in pigments for clothing, and they’re even in electronic devices,” Barr said. “What we’ve done is we’ve engineered those dyes to selectively absorb infrared light and also convert that light into electricity.”
+
+That does mean some of the energy is lost.
+
+“Their basic drawback is their relatively low efficiency,” said Anne Grete Hestnes, a professor of architecture at the Norwegian University of Science and Technology who specializes in solar energy. “However, it is all a question of price. If the transparent cells are cheaper, and if the cells are to cover a relatively large area … it may be the better solution,” she added.
+
+Barr said Ubiquitous Energy’s transparent panels can produce up to two-thirds of the energy that traditional panels do. And he said they cost about 20% more to install than a regular window, a cost he claims is offset by the electricity they generate.
+
+The company wants its solar windows to complement traditional rooftop panels rather than replace them. The combination of both methods, according to Barr, could bring the net energy consumption of large buildings to zero — meaning they produce as much electricity as they consume.
+
+Ubiquitous Energy has started installing its solar windows on buildings, including at its headquarters in Redwood City where it manufactures the glass panels.
+
+“We are already installing and selling ClearView Power windows in limited sizes, and we’re in the planning phase for a facility that we’ll be able to produce windows at any size,” Barr said.
+
+However, the coronavirus outbreak has forced much of the company’s production planning to be done remotely. But Barr said it is still making “significant progress.”
+
+“It’s still a bit early to tell what the full effects of the global pandemic will be, including for our business,” said Barr, adding that he is “still optimistic we’ll be able to begin manufacturing activities in the next two years.”
+
+By that point, he anticipates Ubiquitous Energy will be closer to justifying its name: “We really see the future of this technology as being applied everywhere, all around us, ubiquitous.”

@@ -1,0 +1,87 @@
+New York (CNN Business) The attempt to roll out amped up mobile service across the United States has been a bit of a mess. The aviation industry and transportation regulators are worried about new 5G antennas interfering with a key type of aircraft altimeter that's essential for landing planes in bad weather. But wireless carriers and telecom regulators have said there's nothing to fear.
+
+The authorities have been in a weeks-long stalemate. And the whole thing culminated this week with some major international airlines canceling some US flights, as regulators, telecom giants, and airlines blew past a deadline to come to an agreement. AT&T and Verizon are now, yet again, delaying their plans to switch on their new 5G antennas near certain airports. Regulators are still hashing out solutions. And a lot remains unclear.
+
+The President of Emirates, Sir Tim Clark, told CNN on Wednesday that the airline was not aware of some of the potential 5G rollout issues until yesterday morning , calling the situation "one of the most delinquent, utterly irresponsible" he has seen in his aviation career.
+
+Here's everything we do — and don't — know about the snafu.
+
+What exactly is the issue?
+
+5G networks to various locations across the United States over the last few years, delivering the next generation of cellular phone data speeds. But on Wednesday, Verizon and AT&T Telecom companies have rolled out5G networks to various locations across the United States over the last few years, delivering the next generation of cellular phone data speeds. But on Wednesday, Verizon and AT&T turned on their C-band 5G networks — an important set of radio frequencies that will supercharge the internet as we know it.
+
+Unfortunately, the C-Band sits near the band of frequencies used by aircraft radar altimeters, an instrument that tells pilots how high their plane is off the ground and is crucial for landing airplanes in low visibility conditions.
+
+The Federal Communications Commission auctioned off the C-band spectrum to US wireless carriers last year — an $81 billion sale
+
+But airlines warned of dire consequences for transportation and the overall economy over concerns that the C-band technology could interfere with the radar altimeters that pilots use to land in low visibility conditions. (Airlines estimated 1,000 flight disruptions would occur each day following the rollout).
+
+On Tuesday, Emirates, Air India, All Nippon Airways, Japan Airlines, Lufthansa and British Airways all announced changes to some flights, citing the issue. Some have added back flights or switched aircraft. International carriers seemed to be caught off guard and had to act quickly because of the length of these long-haul flights.
+
+Domestic carriers have also said they're monitoring the situation.
+
+Airlines for America, a trade association, said in a statement Wednesday that "because of the agreements the White House reached with AT&T and Verizon yesterday [to delay 5G deployment at major airports], thousands of flights are taking off and landing safety at airports across the country."
+
+The FAA said in its own statement that it had also cleared more airplanes to fly safely near 5G towers, but "flights at some airports may still be affected."
+
+"Even with these approvals, flights at some airports may still be affected," the FAA said. "The FAA also continues to work with manufacturers to understand how radar altimeter data is used in other flight control systems. Passengers should check with their airlines for latest flight schedules."
+
+United Airlines said it anticipated "minor disruptions" on Wednesday but it's "pleased the Biden Administration reached a compromise with AT&T and Verizon to avoid mass cancellations."
+
+What's being done about it?
+
+Transportation regulators had already been concerned that the version of 5G that was scheduled to be switched on could interfere with some airplane instruments, and many aviation industry groups shared those fears — despite reassurances from federal telecom regulators and wireless carriers
+
+Aircraft manufacturers Boeing and Airbus also weighed in , warning Transportation Secretary Pete Buttigieg in a December letter that the 5G rollout will cause interference that could "adversely affect the ability of aircraft to safely operate."
+
+In December, the FAA issued an urgent order forbidding pilots from using potentially affected altimeters around airports where low-visibility conditions would otherwise require them. That new rule could keep planes from getting to some airports in certain circumstances, because pilots would be unable to land using instruments alone, and it affects more than 6,800 US airplanes and dozens of aircraft manufacturers.
+
+But the issue was never fully resolved. That's how we got to this week's snafu, with airlines scrambling to rebook or cancel flights. Then, AT&T — which owns CNN parent company WarnerMedia — and Verizon made an 11th-hour pledge to delay the 5G deployment around some airports.
+
+A White House official told CNN on Tuesday that the administration is talking with the FAA, FCC, wireless carriers, airlines and aircraft equipment manufacturers to find a solution that still allows the 5G rollout without sacrificing the safety of flights.
+
+But Faye Malarkey Black — the head of the Regional Airline Association, which represents airlines that largely service rural America — has taken to Twitter to air complaints that the RAA hasn't been involved in any of the discussions . She also posted that "0% of the regional airline fleet has been cleared to perform low visibility landings at #5G impacted airports if/when weather drops below minimums. Today's fair weather is saving rural America from severe air service disruption."
+
+The FAA responded only that it is "reviewing testing data for altimeters used in regional jets."
+
+During a press conference Wednesday afternoon, President Joe Biden had this to say to reporters: "The issue of whether or not we're dealing with 5G or not, we don't deal with 5G. The fact is that you had two enterprises — two private enterprises...They have government regulation visibly. And so what I've done is pushed as hard as I can to have 5G folks hold up and abide by what was being requested by the airlines until they could more modernize them over the years," he said, apparently referring to the altimeters.
+
+Faye Malarkey Black, however, struck a different tone in an interview with CNN. She said that what she has found "perplexing was all these sort of victory dances about this deal — that this was a great deal and crisis averted. Crisis has not been averted. Crisis has been averted for urban centers."
+
+Why is this happening in the US and not abroad?
+
+Europe rolled out 5G without any impact on aviation, standing in stark contrast to the furor going on in the United States. The distinction lies in some key technical details
+
+Wireless carriers companies in Europe rolled out new 5G service in the 3.4 to 3.8 GHz range of spectrum. The United States is rolling out 5G service in a spectrum of radio waves with frequencies between in the 3.7 and to 3.98 GHz, which is a faster range and one that's a bit closer to the spectrum used by radar altimeters, which is between 4.2 and 4.4 GHz.
+
+And, according to the FAA, that's too close for comfort.
+
+Other countries are also using other mitigating tactics to prevent interference, such as restricting the placement of 5G antennas near airfields and requiring them to be tilted downward to limit potential interference with aircraft.
+
+As for how to remedy the United States' woes, Nicholas Calio, president and CEO of Airlines for America, weighed in on CNN: "The fix basically is working out where the bandwidth is, the amount of power used, the tilt of the antennas, the placement of the antennas," he said. "There are mitigations that can be put in place, it's just going to take time to do it. The fix can be almost immediate — tower by tower."
+
+Who's to blame?
+
+That's not entirely clear.
+
+AT&T and Verizon pinned much of the blame on the Federal Aviation Administration in statements on Tuesday.
+
+"We are frustrated by the FAA's inability to do what nearly 40 countries have done, which is to safely deploy 5G technology without disrupting aviation services, and we urge it do so in a timely manner," AT&T spokesperson Megan Ketterer said in a statement.
+
+Verizon said in a separate statement that "the FAA and our nation's airlines have not been able to fully resolve navigating 5G around airports, despite it being safe and fully operational in more than 40 other countries."
+
+Emirates president Sir Tim Clark did not mince words about what he sees as the issue, placing blame on the structure of the US system, saying "this is one of the most delinquent, utterly irresponsible" situations that he's seen in his aviation career.
+
+He added that the "risks and dangers" should have already been evaluated.
+
+Which airports are affected?
+
+We don't know. When the FAA issued its order in December, it included a list of airports that would need to have buffer zones for 5G. But it's not clear if AT&T and Verizon delayed the 5G deployment at all or some of those locations.
+
+Nor is it clear how long they plan to delay deployment or if changes will ultimately need to be made to those antennas before than can be switched on.
+
+What else don't we know?
+
+We still don't know exactly what is hanging up all these negotiations. Among the many voices at the table are the FCC, FAA, airlines, aircraft manufacturers, wireless carriers and industry groups — and the nature of their current impasse isn't entirely clear. We don't know who is asking for what. We don't know whether more testing will have to be done.
+
+And, perhaps most troubling, we don't know when all this will be resolved.

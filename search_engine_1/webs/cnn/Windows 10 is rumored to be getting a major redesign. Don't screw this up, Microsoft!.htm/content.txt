@@ -1,0 +1,33 @@
+New York (CNN Business) Microsoft is rumored to be working on a major redesign of Windows 10 that could bring big changes to the way the PC operating system looks and functions.
+
+Windows 10 could use a refresh. Aside from twice-annual tweaks, Windows 10 been mostly unchanged since its release in 2015 . Six years is long in the tooth for any PC operating system, and a revolution is coming to personal computers that threatens Windows' standing as the dominant productivity operating system.
+
+Still, doesn't exactly have the best reputation for fixing operating systems that ain't broke. So a lot is riding on Microsoft's ability to turn the next iteration of Windows 10 into something hundreds of millions of computer owners will want to keep using
+
+What's in the refresh?
+
+Microsoft updates Windows twice a year, usually adding a few welcome new features (a new screenshot tool, a cleaner Start Menu, etc.). This year's spring update will be another one of those minor updates that adds polish and squashes bugs.
+
+But in the fall, Microsoft is expected to unleash a full-scale Windows 10 redesign. We know this for a few reasons.
+
+Microsoft recently posted a job listing on its website that said the company is working on a "sweeping visual rejuvenation of Windows experiences to signal to our customers that Windows is BACK and ensure that Windows is considered the best user OS experience for customers," according to Windows Latest . The listing remains but the language has since been dialed back quite a bit.
+
+Microsoft did not respond to a request for comment.
+
+That job post confirmed widespread reports that Microsoft was working on a major Windows 10 user-inferface refresh codenamed "Sun Valley," in which Microsoft would release an all-new Start Menu, File Explorer, Action Center and taskbar. Tablet users will also reportedly get a redesigned virtual keyboard with better access to emojis. And Microsoft is expected to give all Windows 10 elements a makeover to align all of the recently tweaked elements of the operating system in a consistent design.
+
+Why Windows needs a refresh
+
+Most of Windows' recent tweaks have been aimed at specific audiences, particularly gamers and corporate customers. But the PC is back as a consumer staple -- the work-from-home era brought on by the coronavirus pandemic has made productivity cool again. Microsoft wants to ensure its new everyday users are enjoying the experience of using their PCs.
+
+Microsoft is also looking ahead to a future it's attempting to prepare for: Apple's new M1 chip , which is essentially a custom-built smartphone microprocessor on steroids for Macs, represents a sea change for the PC industry.
+
+Apple's new Mac OS Big Sur takes advantage of the new chip by integrating features people have grown accustomed to on their iPhones and iPads. The convergence of smartphones, tablets and PCs is underway.
+
+Apple's AAPL Microsoft has its own hybrid device, the Surface Pro X, that runs on a chip with a similar architecture toM1. And it's coming out with Windows 10X this year, an operating system designed from the ground up for nontraditional devices (think foldables, tablets and other computers that don't look like normal laptops or desktops).
+
+Still, this new kind of chip could disrupt the staid PC world, lighting a fire under Microsoft to redesign Windows for new kinds of PCs that it hasn't conceived of yet. So it's about time Windows 10 gets a major refresh.
+
+Sad history of Windows updates
+
+It doesn't appear as though the "Sun Valley" version of Windows 10 will be the kind of completely new experience of previous new iterations of Windows. That's probably a good thing, as Microsoft has a reputation for delivering a good operating system every other attempt:

@@ -1,0 +1,11 @@
+Okta, an identity authentication service with more than 15,000 customers, said Tuesday that an attacker had access to a support engineer's laptop for five days in January. But the service itself was not breached, according to the company.
+
+The Okta service that customers use to authenticate logins "has not been breached and remains fully operational," Okta Chief Security Officer David Bradbury said in a blog post Tuesday.
+
+"The potential impact to Okta customers is limited to the access that support engineers have," Bradbury said, adding that these engineers are unable to download customer databases or create or delete users. "Support engineers are also able to facilitate the resetting of passwords and MFA factors for users, but are unable to obtain those passwords."
+
+The new details came hours after Okta said it was investigating reports of a possible digital breach. Reuters first reported that Okta was looking into reports of a possible digital breach after a hacking group known as Lapsus$ claimed responsibility for the incident and published screenshots claiming access to an Okta internal administrative account and the firm's Slack channel.
+
+Lapsus$, a mysterious hacking group that emerged in December, claimed on the messaging app Telegram that it did not steal any databases from Okta itself, but that "our focus was ONLY on Okta customers."
+
+Read More

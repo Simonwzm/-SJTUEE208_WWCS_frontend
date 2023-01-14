@@ -1,0 +1,25 @@
+New York CNN Business —
+
+The United Kingdom this week dealt a major blow to Huawei by banning equipment made by the Chinese tech giant from its telecom networks, shutting Huawei out of a role in building the country’s superfast 5G wireless infrastructure.
+
+But Huawei Chief Security Officer Andy Purdy said he believes the United Kingdom’s decision was not related to claims by US officials that Huawei is linked to the Chinese government.
+
+The UK decision, which reverses an earlier ruling to allow Huawei a limited role in building the country’s 5G infrastructure, comes after months of pressure by the US government. The United States has long considered Huawei a national security risk and feared its equipment could be used by the Chinese government for spying. Huawei firmly denies those allegations.
+
+However, the ban also follows new US sanctions implemented in May that bar global firms using American equipment to make semiconductors from selling to Huawei. The new rule restricts companies like TSMC from exporting computer chipsets and other key components to Huawei, causing worries about Huawei’s supply chain and potentially harming its ability to build 5G base stations and other equipment.
+
+Purdy told CNN’s Richard Quest in an interview Wednesday that he thinks the new US sanctions “forced” the United Kingdom into its decision.
+
+“The additional restrictions that the US government has put on Huawei, to hurt China by hurting Huawei, has forced the UK government,” Purdy said. “It’s a fairly complex issue because of the US sanctions that have been put in place … But it’s not because of what President Trump and Secretary of State (Mike) Pompeo have said. They’ve said that this is evidence that the UK government is coming to believe that Huawei is an arm of the Chinese government, the Chinese Communist Party. The UK government said no such thing.”
+
+UK Digital and Culture Minister Oliver Dowden said Tuesday that new US sanctions imposed on the company in May had “significantly changed” the landscape.
+
+“Given the uncertainty this creates around Huawei’s supply chain, the UK can no longer be confident it will be able to guarantee the security of future Huawei 5G equipment,” Dowden said.
+
+Still, the UK decision is a huge loss for Huawei, especially because other countries could now follow suit.
+
+Purdy said China should not retaliate against the United Kingdom over the ban. Instead, he urged the US and Chinese governments to come together to discuss the larger tensions that he said are behind the US crackdown on Huawei.
+
+Pompeo on Wednesday escalated the pressure by announcing visa restrictions on employees of Chinese technology companies, including Huawei.
+
+“This kind of action, to try to retaliate, to try to hurt China by hurting Huawei, is really unjustified, and the US and China need to start having talks because, despite the vast differences, there are some major issues in the world that need to be addressed by those two governments,” Purdy said.

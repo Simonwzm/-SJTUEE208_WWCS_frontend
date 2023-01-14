@@ -1,0 +1,29 @@
+Hong Kong (CNN Business) Apple will allow companies such as Spotify ( SPOT ) and Netflix ( NFLX ) to direct customers to their own websites to make payments, allowing them to more easily avoid fees levied by the App Store.
+
+The iPhone maker's latest concession in a long-standing fight with app developers was announced Wednesday in response to an investigation initiated by Japan's Fair Trade Commission.
+
+The update — which will take effect in early 2022, and applies worldwide — will allow developers of whatcalls "reader" apps to insert a link out to external websites and let people set up or manage their accounts there.
+
+Such apps provide previously purchased content or subscriptions for magazines, newspapers, books, audio, music and video, according to Apple. Amazon Video and Kindle are also frequently cited as examples of reader apps.
+
+Spotify and Netflix once allowed users to pay for services in-app, but have since stopped that form of billing for new members amid a dispute with Apple over the hefty commission it charges. Downloading the Netflix app, for example, will allow you to sign in — but only if you have an existing account. The app otherwise tells you to "join and come back" once you have an account.
+
+"Apple's selective tweaks to its App Store rules are welcome, but they don't go far enough," tweeted Horacio Gutierrez , head of global affairs and chief legal officer at Spotify.
+
+Netflix declined to comment.
+
+"To ensure a safe and seamless user experience, the App Store's guidelines require developers to sell digital services and subscriptions using Apple's in-app payment system," Apple said, adding that it is allowing for the change "because developers of reader apps do not offer in-app digital goods and services for purchase."
+
+The update will make it easier for some developers to bypass hefty charges imposed by Apple. The company's commissions go as high as 30% on some purchases made through its platform. Developers have said they have little choice but to comply, since Apple does not allow customers to download apps from any source other than the company's official store.
+
+'Divide and conquer'?
+
+"Apple should open up iOS on the basis of hardware, stores, payments and services each competing individually and on their merits," he wrote.
+
+Apple's announcement comes about a week after the company said it would relax some restrictions on how iPhone app makers could communicate with customers outside its App Store.
+
+The company said last week that "developers can use communications, such as email, to share information about payment methods outside of their iOS app," as long as users consent to receiving those emails and have the right to opt out.
+
+Google GOOGL The announcement also comes after South Korea passed a law that will allow developers to select which payment systems to use to process in-app purchases. That means they may be able to bypass hefty charges imposed by Apple and
+
+— Michelle Toh and Rishi Iyengar contributed to this report.

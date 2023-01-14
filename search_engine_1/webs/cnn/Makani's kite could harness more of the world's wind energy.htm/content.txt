@@ -1,0 +1,33 @@
+San Francisco CNN Business —
+
+One company’s self-flying energy kite may be the answer to increasing wind power around the world.
+
+California-based Makani – which is owned by Google’s parent company, Alphabet – is using power from the strongest winds found out in the middle of the ocean, typically in spots where it’s a challenge to install traditional wind turbines. Makani hopes to create electricity to power communities across the world.
+
+Despite a growing number of wind farms in the United States and the potential of this energy source, only 6% of the world’s electricity comes from wind due to the the difficulty of setting up and maintaining turbines, according to the World Wind Energy Association.
+
+Makani's energy kite launches from a floating platform in the North Sea off the coast of Norway. Makani
+
+When the company’s co-founders, who were fond of kiteboarding, realized deep-sea winds were largely untapped, they sought to make that energy more accessible. So they built an autonomous kite, which looks like an airplane tethered to a base, to install on a floating platform in water. Tests are currently underway off the coast of Norway.
+
+“There are many areas around the world that really don’t have a good resource for renewable power but do have offshore wind resources,” Makani CEO Fort Felker told Rachel Crane, CNN’s innovation correspondent. “Our lightweight kites create the possibility that we could tap that resource very economically and bring renewable power to hundreds of millions of people.”
+
+This technology is more cost-efficient than a traditional wind turbine, which is a lot more labor intensive and would require lots of machinery and installation.
+
+The lightweight kite, which is made of carbon fiber, has an 85-foot wingspan. The kite launches from a base station and is constrained by a 1,400-foot tether as it flies autonomously in circles with guidance from computers. Crosswinds spin the kite’s eight rotors to move a generator that produces electricity that’s sent back to the grid through the tether.
+
+The kites are still in the prototype phase and aren’t flown constantly right now as researchers continue to develop the technology. But Makani hopes the kites will one day fly 24/7 all year round. When the wind is down, the kite will return to the platform and automatically pick back up when it resumes.
+
+Chief engineer Paula Echeverri pings the kite over the sea surface cable for the first time. Makani
+
+Chief engineer Dr. Paula Echeverri said the computer system is key for understanding the state of the kite in real time, from collecting data about how fast it’s moving to charting its trajectory.
+
+Echeverri said tests have been helpful in establishing what some of the challenges of the system are, and the team has made adjustments to get it ready for commercial use. Earlier this year, the team successfully completed a first round of autonomous flights.
+
+Working in deeper water provides an additional benefit over traditional wind turbines, according to Felker. By being farther offshore, the technology is less visible from land. Wind turbines can be obtrusive and impact natural life in the surrounding area. These kites may be more attractive to areas that wish to preserve their scenic coastlines and views.
+
+It’s also desirable for regions that face constraints related to installing conventional turbines – such as island nations, which have extremely high prices for electricity because they have to import expensive fossil fuels that they then burn to generate electricity.
+
+Makani isn’t alone in trying to bring novelty to wind energy. Several others companies such as Altaeros Energies and Vortex Bladeless are experimenting with kites of their own or other types of wind-capture methods, such as a huge oscillating pole that generates energy and a blimp tethered to the ground that gathers winds at higher altitudes.
+
+Correction: An earlier version of this article incorrectly reported the maximum length a Makani kite could reach.

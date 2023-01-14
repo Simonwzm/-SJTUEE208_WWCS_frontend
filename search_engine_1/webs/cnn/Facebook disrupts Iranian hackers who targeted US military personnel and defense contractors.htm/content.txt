@@ -1,0 +1,11 @@
+(CNN Business) Facebook said Thursday it has disrupted a group of Iranian hackers who created fake social media profiles and sent targeted, malicious links to victims in an attempt to spy on Western defense contractors and military personnel. The campaign has apparent links to the Iranian government.
+
+The hackers ran a sophisticated operation to gain their victims' trust, Facebook said, often posing as representatives of aerospace and defense firms to build deep relationships with their targets before directing them to fraudulent websites. Though the sites looked and acted like their legitimate counterparts — including a US Labor Department job site — they were designed to steal data and scan computer systems.
+
+The group zeroed in on individuals who work in the US military and defense industry, and also targeted similar victims in the UK and Europe, Facebook said.
+
+Mike Dvilyanski, Facebook's head of cyber espionage investigations, told CNN the company has disabled "fewer than 200 operational accounts" on its platform associated with the Iranian campaign, and notified a similar number of Facebook users that they may have been targeted by the group. The Iranian campaign extended beyond Facebook and also used other platforms and messaging technologies including email, Facebook said. However, it's difficult to know how successful the espionage campaign may have been.
+
+Until now, the hacking group had been focused on regional targets in the Middle East, Facebook said. But the expansion to include Western targets reflects an evolution in the group's behavior that began last year.
+
+Read More

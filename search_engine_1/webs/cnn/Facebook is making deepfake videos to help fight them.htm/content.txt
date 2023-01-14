@@ -1,0 +1,35 @@
+San Francisco CNN Business —
+
+There are widespread concerns about whether social media companies are ready to fight a new wave of videos doctored with artificial intelligence, often called deepfakes. Facebook’s current solution: make even more deepfakes itself.
+
+Facebook (FB) said Thursday that it is paying for the creation of its own deepfake videos, which will be used to make a data set. The company hopes people in the artificial-intelligence community will use the data set, which will also include source videos and imagery of actors, to come up with new ways to spot technologically manipulated videos online — and stop them from spreading.
+
+Deepfakes — a combination of the terms “deep learning” and “fake” — use AI to realistically show people doing and saying things they didn’t actually do or say. As the 2020 US presidential election approaches, politicians and government officials are worried about these kinds of videos being used to mislead voters.
+
+A AFP journalist views a video on January 25, 2019, manipulated with artificial intelligence to potentially deceive viewers, or "deepfake" at his newsdesk in Washington, DC. - "Deepfake" videos that manipulate reality are becoming more sophisticated and realistic as a result of advances in artificial intelligence, creating a potential for new kinds of misinformation with devastating consequences. (Photo by Alexandra ROBINSON / AFP) / TO GO WITH AFP STORY by Rob LEVER "Misinformation woes may multiply with deepfake videos" (Photo credit should read ALEXANDRA ROBINSON/AFP/Getty Images) Alexandra Robinson/AFP/Getty Images
+
+Facebook is commissioning its own deepfake videos as part of a competition it’s sponsoring, called the Deepfake Detection Challenge, which will offer grants and awards in an effort to spur participation from AI researchers. Facebook is putting up more than $10 million and working with a number of organizations on the competition, including Microsoft (MSFT), schools such as MIT and the University of California, Berkeley, and the Partnership on AI, a nonprofit research and policy organization.
+
+The videos will be made with paid actors who understand that they’ll be part of a manipulated-video data set, Facebook chief technology officer Mike Schroepfer told reporters on Wednesday. Facebook plans to release the data set in December.
+
+The goal of the competition, Schroepfer said, is to spur the construction of an AI system that can look at a video and determine whether it has been altered. Researchers and a couple of startups are working on this problem. There are a number of methods for finding deepfakes, including looking at the video for things like out-of-place shadows and strange visual artifacts. But it becomes increasingly difficult as the technology behind deepfakes is quickly evolving.
+
+“To set expectations, this is a really, really hard problem,” Schroepfer said.
+
+Paradoxically, given that the earliest known deepfakes were fabricated pornography featuring female actresses, Facebook did not include any women among the seven academic supporters it listed on a blog post introducing the competition – something that didn’t go unnoticed online.
+
+In a statement, a Facebook spokesperson pointed out that there are at least two female leaders involved with the project, including the Partnership on AI’s executive director, Terah Lyons. He also said the company agrees that expanding diversity of those involved in the competition “will be important to its success.”
+
+Facebook has been criticized many times in the past for its failure to stop the spread of misinformation and hate speech. Deep fakes represent a new challenge for the company, though one that is still largely hypothetical.
+
+In May, a doctored video of House Speaker Nancy Pelosi went viral. The video, which was not a deepfake, appeared to show Pelosi slurring her words after a meeting with President Donald Trump. Facebook said it downranked the false video, so fewer people would see it, but the company was criticized for being slow in taking this step.
+
+A deepfake of Facebook CEO Mark Zuckerberg has even been shared on Facebook-owned Instagram. Like the Pelosi video, this one was not taken down. Instagram said at the time that the site’s algorithms wouldn’t recommend people watch it if a third-party fact checker marked it false. There have also been deepfakes in which celebrities’ faces are swapped with those of porn stars.
+
+Deepfakes are becoming cheaper, faster, and easier to make, which concerns Schroepfer, among others.
+
+Hany Farid, a professor at UC Berkeley and image-forensics expert whose lab received a grant from Facebook related to its deepfake detection research, said the competition is a big step toward solving an important problem. He said Facebook will also need to keep in mind that any technological solution must change over time, similar to the ways technology advances for stopping spam and computer viruses.
+
+“It’s always evolving because our adversaries are always evolving,” he said.
+
+Beyond that, Farid thinks Facebook needs to make some decisions about its policies regarding false videos. For now, that policy is unclear to the general public. Schroepfer said Facebook is “figuring out in parallel” what its rules regarding misinformation in general — and deepfakes in particular — should be.

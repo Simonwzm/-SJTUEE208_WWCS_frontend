@@ -1,0 +1,59 @@
+Hong Kong CNN Business —
+
+TikTok is making the corporate technology company Oracle its business partner in the United States.
+
+It’s a deal that would tick a lot of boxes for the beleaguered short-form video app, including what is potentially its biggest hurdle of all: getting President Donald Trump on its side.
+
+“We can confirm that we’ve submitted a proposal to the Treasury Department which we believe would resolve the Administration’s security concerns,” TikTok said in a statement. Oracle (ORCL) confirmed it was part of the proposal as a “trusted technology provider.”
+
+There are still a lot of unknowns about the agreement.
+
+A source familiar with the matter told CNN Business that the partnership was meant to satisfy the Trump administration’s national security concerns about TikTok — Trump has demanded the app be sold, or else shut down in the United States — and it was not described as an outright sale.
+
+But California-based Oracle is a notable partner, given cofounder Larry Ellison’s ties to the Trump administration. He’s one of the few Silicon Valley tech moguls to back Trump. The billionaire hosted a campaign fundraiser for Trump in February and in April joined a White House advisory group working to revive America’s economy.
+
+The US president has already indicated he would support a deal between Oracle and TikTok.
+
+“I think Oracle is a great company and I think its owner is a tremendous guy, a tremendous person,” Trump said late last month after the Financial Times reported that Ellison was “seriously considering” a deal with TikTok. “I think that Oracle would be certainly somebody that could handle it.”
+
+‘Political considerations’
+
+TikTok resorted to Oracle “mainly out of political considerations,” said Shirley Yu, visiting fellow at the London School of Economics and founder of an eponymous company that assesses strategy, business, and political risk for companies working in China.
+
+“Oracle’s Ellison is a much closer ally to President Trump than Microsoft [cofounder] Bill Gates. In order for a no-sale option to be considered by the White House, Oracle stands the best chance,” she said.
+
+James Lewis, a senior vice president at the Center for Strategic and International Studies, a Washington think tank, pushed back against the notion that Oracle’s apparent victory was driven by Ellison’s cozy ties to Trump. (The frontrunner, Microsoft (MSFT), said Sunday that it lost its bid for the app.)
+
+“Oracle has done a good job lobbying the White House on cloud and their record in security. That probably helped them. I don’t think it’s Trump rewarding his friends,” said Lewis.
+
+Instead, Oracle might win by default.
+
+The deal on the table does not appear to involve TikTok’s coveted artificial intelligence algorithm, according to Chinese state-run media CGTN, who cited anonymous sources saying that ByteDance will not give the app’s “source code” to any US buyers. The broadcaster also pointedly mentioned that ByteDance was not selling TikTok’s US operations.
+
+ByteDance’s ability to retain the app’s technology could make the tie-up more palatable to Beijing regulators, according to Cameron Johnson, adjunct faculty instructor at New York University in Shanghai and partner at consulting firm Tidal Wave Solutions.
+
+But that may have killed the Microsoft deal, according to Dan Ives, analyst at Wedbush Securities.
+
+“We believe Microsoft would only buy TikTok with its core algorithm which the Chinese government and ByteDance was not willing to budge,” he said in a note to investors Monday morning.
+
+Last month, Beijing introduced new rules governing the sale of certain kinds of technology to foreign buyers. Government officials updated an export control list to include data processing, speech and text recognition — the kind of tech that is used by TikTok.
+
+China might see the Oracle partnership “as a win-win,” said Johnson. “They won’t give up the key ingredients [of TikTok], they’re not forced to give everything away and they get an infusion of cash for a big Chinese tech company.”
+
+Hosting TikTok’s US data
+
+Like Microsoft, TikTok could be a big get for Oracle, depending on how the terms of the partnership shake out.
+
+“Microsoft, they have games and LinkedIn, but Oracle has nothing in the social space,” Johnson said.
+
+Oracle’s chops when it comes data and cloud security could also help allay fears in Washington. The 43-year-old company is a major player in cloud infrastructure and data storage solutions. Cloud services accounted for 74% of the company’s $9.4 billion in revenue for the three months that ended in August.
+
+The Trump administration alleges that TikTok poses a national security concern because it gathers vast swaths of data from American users, which could be accessed by the Chinese Communist Party. TikTok has denied those allegations. The company has said its data centers are located outside of China and that none of that data is subject to Chinese law.
+
+Reporting suggests that Oracle won’t be able to buy TikTok outright, but given its expertise in data and cloud security, it could become the US host of TikTok data.
+
+“Oracle has incredible data and cloud security,” said Johnson, so the US national security establishment may determine that “as long as [US data] is here, it’s fine.”
+
+“Based on early reports and how they are characterizing this as not an ‘outright sale’ and calling Oracle a ‘trusted tech partner,’ this has likely turned into a deal about Oracle’s cloud, and storing US-based TikTok users’ data in Oracle’s data center,” said Brad Haller, a director in the mergers and acquisitions practice at national consulting firm West Monroe.
+
+The deal still needs to gain approval from the Trump administration.

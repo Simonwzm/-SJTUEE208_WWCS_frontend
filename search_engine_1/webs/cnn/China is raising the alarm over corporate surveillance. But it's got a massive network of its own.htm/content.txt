@@ -1,0 +1,51 @@
+Hong Kong (CNN Business) A popular annual consumer rights show in China has sparked a national debate about privacy and surveillance and sent companies scrambling to stay on Beijing's good side.
+
+The firestorm first erupted Monday during a two-hour primetime program called "315" that coincides with World Consumer Rights Day. The program is frequently used by China's state media to lambast brands over perceived shortcomings —andhave all been targeted by the show in prior years.
+
+This year, concerns about surveillance and privacy were front-and-center. Chinese state broadcaster China Central Television, or CCTV, used the program to accuse several companies of secretly collecting data about their customers using facial recognition — notably, without mentioning the massive network of facial recognition cameras that the Chinese government has built, capable of tracking people in real time.
+
+CCTV accused the Chinese unit of American manufacturer Kohler, for example, of installing cameras in hundreds of its stores in China and capturing the faces of customers to analyze their gender and age, among other details.
+
+"No matter which store the customers visit, or how many times they go, Kohler would know," the Chinese state broadcaster reported during the program. It also singled out adealership and a Max Mara retail store in the Shanghai area for using similar technology.
+
+Nationwide uproar
+
+Ford F Nissan's NSANF While those brands weren't the only ones criticized by the program — big foreign companies likeandInfiniti brand were also accused of poor behavior, such as defects with car parts or other disputes — it's the surveillance issue that appears to have gained the most traction.
+
+CCTV posts about the claims have generated tens of thousands of comments on the social media platform Weibo, where people worried about whether their personal information was being abused.
+
+"It's not just Kohler," wrote one Weibo user. "Did you forget even our residential buildings require facial recognition?"
+
+Kohler wrote on its official Weibo account on Tuesday that it had "already arranged" for its stores to remove the cameras "overnight," and would power off any devices that it could not physically dismantle. The company denied, however, that it had stored or analyzed any data it collected with the cameras, adding that it only used them to count customer arrivals.
+
+BMW BMWYY Zhengtong Auto, a luxury car dealer that operates thestore, said it had removed its cameras, too. And Chinese state media reported that Max Mara suspended the use of store cameras, though the company added that it was only using data to count customer traffic.
+
+Chinese authorities, meanwhile, have started investigating some of the companies featured on the program. Prosecutors announced Wednesday that they would open a probe into Ovopark, a Chinese company that supplied cameras to Kohler. Regulators in Guangzhou, Shenzhen, and Shanghai all said they would investigate companies accused of misusing facial recognition data, too.
+
+A 'far cry' from Beijing's surveillance network
+
+The "315" show has broadcast in China for decades, often focusing on hot-button consumer rights issues of the moment.
+
+It's well known for eliciting a quick response from the companies accused of bad behavior. Apple CEO Tim Cook even apologized in 2013 after the company's warranty services were criticized on the show.
+
+This year's focus on privacy and surveillance highlights rising worries in China about the use of such technology in the digital age, according to Willy Lam, a professor at the Chinese University of Hong Kong who studies Chinese politics and societal issues.
+
+It's not just Weibo users who have gotten wrapped up in the fallout, either.
+
+"The '315' program is a reminder of how easily people's facial IDs can be obtained" and "how rampant the use of the technology is," wrote the editorial board of the Guangming Daily, a major state-owned national newspaper, on Wednesday. "Our regulation is lacking behind in the facial recognition industry."
+
+But state-driven concerns about privacy and surveillance might ring a bit hollow to some.
+
+"Impinging on people's privacy isn't a good look for Kohler and BMW, but it's a far cry [from] China's massive [closed-circuit television] surveillance network," said Paul Bischoff, a consumer privacy expert and the editor of Comparitech, a UK-based technology research firm.
+
+CCTV reported in 2017 that more than 20 million cameras had been installed across China at that time for the purpose of "maintaining public security." And the total number through now may be much higher: China had 349 million surveillance cameras installed as of 2018, nearly five times the number of cameras in the United States, according to a report from IHS Markit Technology
+
+Lam said that Beijing may think that stopping companies — and especially foreign ones — from obtaining large amounts of biometric information is a responsible decision.
+
+But the government still has a much farther reach than businesses to when it comes to surveillance. And Lam added that since discussions about such projects are restricted in mainland China, the public may not be aware of how far Beijing's reach extends.
+
+"Yes, some tech companies do collect and store people's photos to use in face recognition applications. And I support regulations restricting such data collection without consent," said Bischoff. "US and European laws still lag behind in that regard. But unlike China, these applications are not being used to restrict freedom of movement or assembly."
+
+Lam also suggested that the program — along with the fallout that has stemmed from it — points to another longstanding government priority: making sure that businesses know they aren't above the government.
+
+"It's a reminder that companies need to listen and play by the rules," he added.

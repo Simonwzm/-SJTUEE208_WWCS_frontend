@@ -1,0 +1,11 @@
+Washington (CNN Business) Dozens of Democratic lawmakers urged Google on Tuesday to limit the amount of location data it collects and keeps on its users amid fears the information could be used against abortion seekers.
+
+Google GOOG In a letter to Google CEO Sundar Pichai led by Oregon Democratic Sen. Ron Wyden, more than 40 US senators and members of Congress saidrisks allowing "right-wing prosecutors to identify people who have obtained abortions" because of its practice of gathering location information from people using its services and products.
+
+"We are concerned that, in a world in which abortion could be made illegal, Google's current practice of collecting and retaining extensive records of cell phone location data will allow it to become a tool for far-right extremists looking to crack down on people seeking reproductive health care," the lawmakers wrote.
+
+Google didn't immediately respond to a request for comment.
+
+Tuesday's letter follows the leaking of a draft Supreme Court opinion that would overturn Roe v. Wade and affirm state lawmakers' ability to pass laws criminalizing abortion. Civil liberties and reproductive rights advocates have warned that data requests by law enforcement, submitted to tech platforms, could facilitate a crackdown on abortion-seekers and potentially those who aid them.
+
+Read More

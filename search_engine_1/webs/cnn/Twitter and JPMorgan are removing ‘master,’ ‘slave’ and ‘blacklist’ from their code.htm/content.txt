@@ -1,0 +1,23 @@
+London CNN Business —
+
+The language of computing is changing in the wake of the death of George Floyd.
+
+Twitter is dropping the terms “master,” “slave” and “blacklist” from its code after two engineers lobbied for the use of more inclusive programming language. America’s biggest bank, JPMorgan Chase (JPM), is taking similar steps.
+
+“Words matter,” Michael Montano, the head of Twitter’s engineering team, said in a tweet on Thursday. “We are committed to adopting inclusive language in our code, configuration, documentation and beyond.”
+
+“Master” and “slave” refer to one process in the code that controls another, while “blacklist” describes a list of items that are automatically blocked, such as forbidden IP addresses.
+
+At Twitter (TWTR), “master” and “slave” will become “leader” and “follower” or “primary” and “replica,” while “blacklist” will become “denylist.”
+
+Debate over the language used by engineering teams has been amplified in recent weeks by the Black Lives Matter movement, which is forcing companies to reckon with discrimination and the treatment of Black employees following Floyd’s death.
+
+JPMorgan Chase will also remove “master,” “slave,” and “blacklist” from its internal materials and code. The news was first reported by Reuters and the BBC.
+
+The effort at Twitter was spearheaded by engineers Regynald Augustin and Kevin Oliver.
+
+Augustin, who is Black, tweeted that he was inspired to push for changes after an email went to the engineering team with the line “automatic slave rekick.”
+
+“Seeing it was infuriating,” he said. “I’ve been used to seeing the word ‘slave’ throughout my [computer science] education but this was different.”
+
+The list of words that will start to be swapped out — which Twitter said is not exhaustive — also includes “grandfathered,” which will become “legacy status,” and “dummy value,” which will become “placeholder value” or “sample value.”

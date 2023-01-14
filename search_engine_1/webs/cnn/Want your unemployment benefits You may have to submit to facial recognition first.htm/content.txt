@@ -1,0 +1,125 @@
+(CNN) After being let go from his job as a software quality-assurance engineer in April, Eric Watkins said he filed for unemployment benefits in Colorado. But he hasn't received a penny of the $6,490 he said he was eligible to receive and he's not sure when he will.
+
+Watkins, a self-described privacy advocate whose mother and grandmother shredded personal information when he was growing up, said he is unwilling to complete the identity verification process his state now requires, which includes having his face analyzed by a little-known company called ID.me.
+
+He sent a sharply worded letter to his state's unemployment agency criticizing ID.me's service, saying he would not take part in it given his privacy concerns. In response, he received an automated note from the agency: "If you do not verify your identity soon, your claim will be disqualified and no further benefit payments will be issued." (A spokesperson for the Colorado Department of Labor and Employment said the agency only allows manual identity verification "as a last resort" for unemployment claimants who are under 18 — because ID.me doesn't work with minors — and those who have "technological barriers.")
+
+For Watkins, he said it felt like he was forced to choose between the privacy he believed he was entitled to and the money he was owed. Still, when it comes to ID.me, the answer for him is clear: "I want nothing to do with them."
+
+Watkins is one of millions across the United States who are being instructed to use ID.me, along with its facial recognition software, to get their unemployment benefits. A rapidly growing number of US states, including Colorado, California and New York, turned to ID.me in hopes of cutting down on a surge of fraudulent claims for state and federal benefits that cropped up during the pandemic alongside a tidal wave of authentic unemployment claims.
+
+As of this month, 27 states' unemployment agencies had entered contracts with ID.me, according to the company, with 25 of them already using its technology. ID.me said it is in talks with seven more. ID.me also verifies user identities for numerous federal agencies, such as the Department of Veterans Affairs, Social Security Administration and IRS.
+
+The company's rapid advance at state unemployment agencies marks the latest chapter in the story of facial recognition software's spread across the United States. It also highlights how this controversial technology gained a foothold during the pandemic and now appears destined to remain part of our lives for the foreseeable future.
+
+ID.me uses a form of facial recognition known as facial verification, which compares a photo ID with a video selfie that a person takes on their phone when prompted by ID.me's software. It's similar to the process of unlocking your smartphone with your face; the facial recognition a police department might use, by contrast, may attempt to match a photo of a person to ones in a database of faces. The face-matching technology ID.me employs comes from a San Francisco-based startup called Paravision. (Paravision told CNN Business it doesn't typically comment on its partners' systems, but that rollouts of its technology are guided by its AI principles, "which require that our products are ethically developed and conscientiously sold.")
+
+If I wanted unemployment, I had no choice but to do this. Erin Murphy, a Colorado worker who filed for unemployment benefits in April
+
+Several ID.me users told CNN Business about problems they had verifying their identities with the company, which ranged from the facial recognition technology failing to recognize their face to waiting for hours to reach a human for a video chat after encountering problems with the technology. A number of people who claim to have had issues with ID.me have taken to social media to beg the company for help with verification, express their own concerns about its face-data collection or simply rant , often in response to ID.me's own posts on Twitter. And some like Watkins are simply frustrated not to have a say in the matter.
+
+"If I wanted unemployment, I had no choice but to do this," said Erin Murphy, who practices acupuncture and massage therapy in Rifle, Colorado, and filed for unemployment benefits in April. "I don't think I even have an opportunity to consider if I accept it or not, because I have no choice."
+
+From ID.me's perspective, its service is making it easier for a wide range of people to access essential government services, as it avoids the common practice of using information gleaned from data brokers and credit bureaus as a means of checking identities. The company said this lets it give a green light to those who don't have a credit history, or may have changed their name, for instance — people who might otherwise have more trouble getting verified.
+
+However, it doesn't sit well with employee and privacy advocates and civil rights groups interviewed by CNN Business. They have concerns about the facial recognition technology itself and for the ID.me verification process's reliance on access to a smartphone or computer and the internet, which may be out of reach for the people to whom unemployment dollars are most critical.
+
+"There's a real question as to whether there are in fact other, more accessible processes that states could be adopting that could address concerns about fraud without adopting a technology that is known to be biased and have other serious civil rights implications," said Olga Akselrod, a senior staff attorney at the American Civil Liberties Union.
+
+Erin Murphy, who filed for unemployment benefits in Colorado in April, said she had issues verifying her identity with ID.me but had "no choice but to do this" in order to receive payments.
+
+Laying the groundwork
+
+While ID.me has grown massively in the past year, the company has been laying the groundwork for offering widespread identity verification for years — even though it started out doing something very different.
+
+First, there was TroopSwap , which began as a sort of Craigslist for military servicemembers, founded by army veteran Blake Hall and Tanel Suurhans, in 2010 (a third cofounder, Matthew Thompson, also a veteran, joined in 2011). TroopSwap soon pivoted to offering daily deals to the military community, Hall said, but he said the company quickly realized it was spending most of its time working on verifying the identities of users to make it easier for them to enroll.
+
+He said this led to a desire to pivot again and build a digital identity-verification tool that many people could use. The company called it Troop ID , as it began verifying people's military service records so that businesses could offer them discounts. In 2013, under the name ID.me, it started offering the same service to more groups , including students and first responders, and it has moved more deeply into identity authentication services at government agencies since then.
+
+Hall told CNN Business in an interview that the company's vision is to create a way for people to verify their identity once — particularly for entry to various US government websites — that isn't based on factors like information pulled in from data brokers or credit bureaus, and then use it in many different places, kind of like a credit card. ID.me also continues to verify identities for members of special groups — military, teachers, students — so they can get discounts from participating brands and businesses
+
+"I come from a community where 'no man left behind' is an American value and core to the military," Hall said. "And so, at ID.me, we call it 'no identity left behind', where we're striving for a more equitable and just society."
+
+The company uses numerous methods with different clients to verify users' identities, such as confirming your email address, proving that your phone number is tied to your identity by sending you a numerical code to enter, and with certain customers who are at higher risk of fraud — including all state unemployment agencies it works with — facial recognition. If a person filing for unemployment benefits fails the facial recognition step a few times, they'll be directed to a video chat where they must show identification documents to what ID.me calls a "trusted referee," the majority of whom are employees (the rest are contractors).
+
+ID.me said it does not sell user data — which includes biometric and related information such as selfies people upload, data related to facial analyses, and recordings of video chats users participate in with ID.me — but it does keep it. Biometric data, like the facial geometry produced from a user's selfie, may be kept for years after a user closes their account.
+
+Hall said ID.me keeps this information only for auditing purposes, particularly for government agencies in cases of fraud or identity theft. Users, according to its privacy policy , can ask ID.me to delete personally identifiable information it has gathered from them, but the company "may keep track of certain information if required by law" and may not be able to "completely delete" all user information since it "periodically" backs up such data. (As Ryan Calo, codirector of the University of Washington's Tech Policy Lab, put it, this data retention policy is "pretty standard," but, he added, that "doesn't make it great!")
+
+To help the company's mission, the National Institute of Standards and Technology, or NIST, which is a division of the US Department of Commerce that supports the advancement of measurement science and technology, awarded ID.me about $5 million in grants between 2013 and 2016
+
+In March, ID.me announced raising $100 million in funding from investors including hedge fund Viking Global Investors and CapitalG, which is Google parent company Alphabet's independent growth fund. With that funding round, ID.me said it was valued at $1.5 billion.
+
+ID.me CEO Blake Hall, an army veteran, cofounded the company in 2010.
+
+Gangbusters growth
+
+Before the pandemic, ID.me had a smaller presence on government websites, and wasn't verifying identities for any state unemployment agencies. Veterans might have used it on VA.gov, as ID.me began working with the Department of Veterans Affairs in 2016, authenticating veterans' identities so they could access healthcare and benefits through that website.
+
+Then the pandemic hit. In March 2020, businesses suddenly began to shut down as stay-at-home orders were enacted across the US, and more than 700,000 jobs were lost in a matter of weeks. State unemployment systems struggled to keep up with millions of first-time benefit seekers
+
+States became increasingly concerned about unemployment fraud as benefits were expanded and stimulus payments were rolled out (such as through the Coronavirus Aid, Relief, and Economic Security Act) in hopes of staving off widespread economic devastation. Criminals saw the state unemployment systems as an increasingly attractive target — particularly because many states relaxed their usual identity-verification procedures in the early days of the pandemic in order to quickly hand over benefits to a high number of jobless Americans.
+
+It's impossible to know precisely how big a problem pandemic-related unemployment fraud is. The US Department of Labor Inspector General Office estimates that about $87 billion of the estimated $873 billion in federal unemployment funds could have been paid improperly, with a "significant portion" due to fraud, by the time the CARES Act program ends. It calculates this figure based on a pre-pandemic improper payment estimate of more than 10% per year over numerous years. ID.me claims this figure is much higher : as much as half of all unemployment claims, which would be astonishingly large if true.
+
+In press release after press release over the past year, state governors and unemployment agencies announced their partnerships with the company, citing considerations such as preventing fraud, speeding up the unemployment benefit process, and protecting those seeking benefits.
+
+Initially, Hall said, ID.me wanted to usher as many people through the process of authenticating their identities as quickly as possible so they could get their unemployment benefits. But in a move Hall said was meant to cut down on unemployment fraud, ID.me began using facial verification at state unemployment agencies in November 2020 — starting with California, where fraud was such a big problem that the state stopped processing new benefit applications for two weeks in September and October 2020.
+
+Hall said ID.me saw lots of people applying for unemployment benefits with the same ID in multiple states. But he said the company saw immediate declines in fraud rates in states when it added the technology. CNN Business could not independently confirm this claim.
+
+If you want to board an airplane, you have to let a TSA agent look at your face and compare it to a government ID... This is the exact same process. Blake Hall, cofounder of ID.me
+
+"As soon as they have to put their face in front of a camera, they go away," he said of would-be unemployment fraudsters in California in particular. "Because now the stakes, for the criminal, are much higher."
+
+Steve Gray, senior counsel for the National Employment Law Project, or NELP, isn't convinced this is always the case. Gray said the NELP has heard stories of people who just threw their hands up and gave up due to problems with the ID.me verification process ranging from long waits for video chats to issues accessing the technology needed to sign up, and he's concerned that it's making it harder for people to get their unemployment benefits.
+
+ID.me "has a serious chilling effect on the application process," he said. "Which means people just leave and walk away. And we don't have a good way of telling right now why they're not completing the application."
+
+In Florida, ID.me is used by the Department of Economic Opportunity. State Rep. Anna Eskamani said the company's use of facial recognition should concern policymakers "because we're normalizing new technologies that nobody knows how they're used long term."
+
+Hall said he understood some have questions about ID.me but likened it to more familiar verification processes.
+
+"If you want to board an airplane, you have to let a TSA agent look at your face and compare it to a government ID. If you're opening a bank account, you will show a bank branch representative your face and your government ID," he said. "This is the exact same process."
+
+Opting out may be arduous
+
+Beyond state unemployment agencies, ID.me is also becoming more widespread among federal agencies such as the IRS, which in June began using ID.me to verify identities of people who want to use its Child Tax Credit Update Portal.
+
+"We're verifying more than 1% of the American adult population each quarter, and that's starting to compress more to like 45 or 50 days," Hall said. The company has more than 50 million users, he said, and signs up more than 230,000 new ones each day. And, as Hall pointed out, if someone verifies their identity with ID.me for one government agency, that person can avoid going through the process again for another agency.
+
+Don Lyon said he abandoned the ID.me verification process after problems including the facial recognition software failing to match his driver's license with his selfie.
+
+Yet not everyone who starts the ID.me process finishes. Don Lyon, who works in manufacturing for General Motors and lives in Richmond, Michigan, said he abandoned ID.me after a number of problems, including ID.me's failure to match his driver's license photo with the selfie he took on his phone.
+
+Lyon, who was trying to verify his identity with ID.me in order to opt out from receiving child tax credit payments from the IRS, noted some visual differences between the pictures: he's about 30 pounds heavier now and has a full beard, he said, rather than a mustache and goatee. Lyon said he was asked to provide more personally identifiable information and he eventually found a way to avoid ID.me and verify his identity directly with the IRS.
+
+Privacy experts, meanwhile, are concerned about the technology's potential for racial bias, as studies (including from NIST ) have demonstrated bias in facial recognition algorithms generally. That's why Elizabeth Daniel Vasquez, director of the science and surveillance project at public defender organization Brooklyn Defender Services, finds it "deeply troubling" that New York State's Department of Labor is among the state agencies working with a company that uses the technology.
+
+Vasquez said that, when a state chooses to use a tool it knows has a tendency to not work as well on some people, she thinks that "starts to invade something more than privacy and get at questions of what society values and how it values different members' work and what our society believes about dignity."
+
+Hall claims ID.me's facial recognition software is over 99% accurate and said an internal test conducted on hundreds of faces of people who had failed to pass the facial recognition check for logging in to the social security website did not show statistically significant evidence of racial bias.
+
+In cases where users are able to opt out of the ID.me process, it can still be arduous and time-consuming: California's Employment Development Department website, for instance, instructs people who can't verify their identity via ID.me when applying online to file their claim over the phone or by mail or fax.
+
+Most people aren't doing this, however; it's time consuming to deal with snail mail or wade through EDD's phone system, and many people don't have access to a fax machine. An EDD spokesperson said that such manual identity verification, which used to be a "significant" part of EDD's backlog, now accounts for "virtually none" of it.
+
+Long wait times for some
+
+Eighty-five percent of people are able to verify their identity with ID.me immediately for state workforce agencies without needing to go through a video chat, Hall said.
+
+What happens to the remaining 15% worries Akselrod, of the ACLU, since users must have access to a device with a camera — like a smartphone or computer — as well as decent internet access. According to recent Pew research , 15% of American adults surveyed don't have a smartphone and 23% don't have home broadband.
+
+"These technologies may be inaccessible for precisely the people for whom access to unemployment insurance is the most critical," Akselrod said.
+
+Hall pointed out that, if a user needs to go through a video chat for their identity verification, the process is a one-time event, and family, friends, or community centers may be able to help with, say, a smartphone or laptop and internet access. In the coming weeks, he said ID.me will also allow people to verify their identities in person at over 500 locations in the US.
+
+For those who do have the technological tools and internet, it can still be a time-consuming, confounding process.
+
+Even with an iPhone and an Apple laptop, Murphy, the Colorado-based acupuncturist and massage therapist, said she had issues uploading her documents during the verification process and then was informed that to complete the process she had to conduct a video chat with an ID.me agent. It took her days of waiting in front of her laptop at all hours to get through to a real person, she said.
+
+Such waits, at least, appear to be lessening: Hall repeatedly told CNN Business that its wait times for video calls were currently low (he quoted a wait of two minutes in an email sent on a Thursday evening, then nine minutes on the following Monday afternoon). And he said the company now has more than 1,400 workers devoted to conducting video chats for public-sector customers, which include government websites.
+
+But ID.me also acknowledges in its own online support documents that wait times may rise at certain times of day as more people are using its service.
+
+"If you have less than 30 minutes left on your current estimated wait-time, please do not step away from your device — the wait time may go down rapidly at this point and you don't want to miss your appointment!" ID.me warns.

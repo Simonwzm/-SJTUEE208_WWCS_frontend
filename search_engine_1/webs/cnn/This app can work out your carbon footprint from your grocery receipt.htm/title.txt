@@ -1,0 +1,1 @@
+This app can work out your carbon footprint from your grocery receipt

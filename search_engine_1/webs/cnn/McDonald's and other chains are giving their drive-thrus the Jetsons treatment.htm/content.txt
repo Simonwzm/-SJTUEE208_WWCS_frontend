@@ -1,0 +1,99 @@
+At a McDonald's drive-thru in a Chicago suburb, customers may notice something different about the voice that takes their orders for Big Macs and fries.
+
+"Welcome to McDonald's, what can I get for you?" it asks in a welcoming, unmistakably feminine tone.
+
+While the voice sounds helpful, it's also stilted and monotonous enough for the average customer to figure out they're being served by a computer, not a human. It's a lot like Alexa or Siri, but for a drive-thru: a system driven by artificial intelligence that McDonald's is testing out to speed up its service.
+
+In 2019 the average McDonald's drive-thru took six minutes and 18 seconds, but recently the company trimmed that to five minutes and 49 seconds in 2020, according to an annual report from market researcher SeeLevel HX. And with drive-thrus accounting for a larger share of fast-food sales than ever before (in top markets, it's 70% of sales at McDonald's), the race is on for major chains to get those speeds even faster.
+
+During the pandemic, chains have relied more heavily on sales through their drive-thrus while dining rooms remain closed in many places. Even restaurants like Chipotle, with its rollout of " Chipotlanes ," and Shake Shack, which is opening its first drive-thru this summer, are recognizing their importance.
+
+For chains that already had drive-thus, slow service, long lines and inaccurate orders are seen as threats after a year in which sales took a hit at nearly every major chain. McDonald's, Burger King and White Castle had already been quietly investing in technology like artificial intelligence before 2020, but Covid-19 made those upgrades even more critical.
+
+Companies are now experimenting with smart menu boards, Alexa-style assistants, automated ordering and payment processes, and even payments driven by facial recognition. If the 1950s were the golden age of fast food — a decade during which the drive-thru rose to popularity — then the 2020s could be the golden age of drive-thru tech.
+
+"Technology is changing the experience, and I think it got thrust into hyper-overdrive by the pandemic," said Lisa van Kesteren, CEO and founder of SeeLevel HX, which has been analyzing how fast-food restaurants respond to Covid-19.
+
+Drive-thrus are a large generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech.
+
+Need for speed
+
+McDonald's, of course, had no idea what was coming in 2020. But as restaurants across the US began shutting down last March due to Covid-19, the company was uniquely positioned to keep feeding customers while barely coming in contact with them: Of the roughly 14,000 McDonald's locations across the US, nearly 95% include a drive-thru lane, which gives it more fast-food roadways than any of its competitors.
+
+Technology is changing the experience, and I think it got thrust into hyper-overdrive by the pandemic." Lisa van Kesteren, CEO and founder of SeeLevel HX
+
+Before the pandemic, the company focused on improving its overall drive-thru experience — over the past couple years McDonald's has cut its service time by about 30 seconds per customer, helped in part by a simpler menu . But in March, when Covid forced closures across multiple industries, it made even more aggressive cuts — a change that franchise owners said could ensure "blazing fast service" . All-day breakfast was out. So too were grilled-chicken sandwiches. Mainstays like the Big Mac, Filet-O-Fish and Egg McMuffin remained.
+
+Over the last few years, McDonald's also deployed new technology in an aim to modernize its operations and entice customers to order more food. In some locations, it tested artificial intelligence devices that scan license plates (with customers' permission) to predict orders, and it enabled mobile orders that customers can pick up at the drive-thru window. The company tapped into the technology from two AI startups it bought in 2019: Apprente, which built voice technology for fast-food order taking, and Dynamic Yield, which can customize the ordering experience on digital menu boards.
+
+Customers order food at a digital menu board at a McDonald's in Brooklyn, New York.
+
+"Humans sometimes forget to greet people, they forget, they make mistakes, they don't hear as well," Lucy Brady, McDonald's chief digital customer engagement officer, explained to CNN Business. "A machine can actually have a consistent greeting and remain calm under pressure."
+
+A machine can actually have a consistent greeting and remain calm under pressure." Lucy Brady, McDonald's chief digital customer engagement officer
+
+Now, mobile ordering can help ease long drive-thru lines, Brady said, as customers tend to order more than they did before the pandemic. At the same time, Dynamic Yield's order-suggestion capabilities have been rolled out at McDonald's drive-thrus and indoor ordering kiosks across the US, and are now being added in other countries as well. A menu board may suggest you order a breakfast sandwich served on a biscuit in the American South, where those are popular, but on an English muffin elsewhere. McDonald's is also trying out automated ordering in a few restaurants in the Chicago area, Brady said.
+
+"We're really looking systematically at that customer experience and thinking, 'Where can technology make this better and easier and faster?'" she said.
+
+'They remember me'
+
+Of course, implementing new technology at McDonald's scale takes time, and although the company has named drive-thru improvements as a key part of its "Accelerating the Arches" growth plan, it's unknown how quickly automated voice ordering might roll out across its thousands of locations.
+
+Meanwhile, smaller chains are also trying out AI tools.
+
+White Castle, which has drive-thrus at 95% of its 362 restaurants, is one example. The preponderance of drive-thrus has "allowed the business to stabilize" during the pandemic, said Jamie Richardson, the family-owned burger chain's vice president of marketing and public relations. And in November, the company started testing out its own automated ordering system at the drive-thru of a White Castle in Merrillville, Indiana (the same restaurant that already hosts a burger-grilling robot from Miso Robotics ).
+
+Richardson said the AI voice system (which also has a computerized, feminine voice) is connected to a digital menu board and can take orders and make food suggestions. Over time, it will also consider the weather and time of day. The company will also use a camera for license-plate recognition to personalize orders at the drive-thru — customers must opt in to share their plate number through White Castle's app-based loyalty program, Craver Nation, so software can pull their order history. The point of all this tech, Richardson said, is to personalize the experience and keep customers coming back.
+
+"The thought is to make sure that it's friendly. 'They remember me, they know who I am'," he said.
+
+This is literally true at the drive-thru at Fair Oaks Burger, a family-owned restaurant in Altadena, California, which is using a facial-recognition system that lets customers pay without using cash or a credit card. It may also speed up service, allowing the company to sell more meals.
+
+Users have to sign up in advance via smartphone with a selfie and a credit card. Then, after they order, they can say they want to use PopPay; a camera will take a photo so their identity can be confirmed and money deducted from their account.
+
+A customer uses PopID's facial-recognition system to pay for food at a drive-thru.
+
+PopPay grew out of PopID, a facial recognition system initially created to speed up the ordering process at self-service kiosks at a burger chain called CaliBurger. (The technology and CaliBurger are owned by Cali Group, along with the aforementioned burger-grilling bot maker, Miso Robotics). These days, PopPay is in use at a range of restaurants and stores in the Pasadena and West Los Angeles areas, including the California-based Lemonade restaurant chain. Fair Oaks Burger, which added PopPay last spring, is the first drive-thru location.
+
+Facial-recognition technology is controversial, due to well-known issues regarding privacy, accuracy and bias, so it's unclear how quickly it will take off. But Cali Group CEO John Miller said younger customers are interested in using it. "Young people that have grown taking pictures of themselves all the time and posting them on the internet have no problem with facial recognition," he said. Because PopPay preloads a customer's account it is cheaper for restaurants than paying a credit-card processing fee for each drive-thru order, Miller added.
+
+Yet this particular technology may be more polarizing than others. Van Kesteren doesn't expect facial recognition to appeal to older drive-thru customers, for instance.
+
+"If you do that to a 60-year-old, they're going to be creeped out," she said.
+
+Gimme some castles with cheese
+
+As fast-food restaurants quickly discover, there's quite a learning curve — both for AI-based technology and those who use it, whether they're customers or employees and no matter their age. This was always the case, even with more primitive tech.
+
+Vintage Jack-in-the-Box sign courtesy of the Smithsonian's National Museum of American History.
+
+Rewind to the 1950s, when customers were alarmed when drive-thrus rolled out two-way speakers for the first time. "The concept was so new that customers had to be warned that a disembodied voice would speak to them," the National Museum of American History notes online , pointing to a "Jack will speak to you" sign used by early Jack-in-the-Box restaurants.
+
+In 2021, the voices are automated but not yet perfect. The AI order-taker at White Castle, for example, is good at greeting people in a friendly way, White Castle's Richardson said, but is still learning how people order. To avoid frustration the drive-thru menu board includes a prompt telling customers they can ask to talk to a human employee.
+
+"It's very like when you hire somebody new," he said diplomatically when asked how well it currently works.
+
+And like a new employee, it will take time for these technologies to grow into their roles (not to mention customers to get used to interacting with them).
+
+Several online reviews of a McDonald's that's testing AI order-taking make clear how tricky this latter part can be: "Robot drive thru. Avoid," one person wrote. Another customer posted a TikTok video that appeared to show the McDonald's system flawlessly executing an order for two Oreo McFlurries, with a caption that read, in part, "😳😱This is the most dystopian thing I have ever seen in the 27 years of my life."
+
+For automated ordering systems there are particular challenges related to hearing and understanding what customers need. For instance, noise — from kids in the car or wind howling outside — can make it harder for an AI system to decipher what customers are saying.
+
+Perhaps an even trickier issue is figuring out what they want. People order food in many different ways; this may not be a big challenge for a human but, as McDonald's and White Castle are learning, can befuddle a machine.
+
+"Where we think you'll order a cheeseburger or cheese slider, what if they say, 'Gimme some Castles with cheese on them?'" Richardson asked. He quickly answered his own question: you adjust the AI system as you go.
+
+A Jetsons-like future?
+
+Many of these changes at the drive-thru are automating tasks normally handled by humans, which could make employees worry about losing their jobs to computers — a concern heightened given high unemployment due to the pandemic.
+
+Daron Acemoglu, an economist and professor at MIT, pointed out that as automation proceeds over time it reduces the need for low-skilled and moderately-skilled workers, who typically do not have college degrees. Ideally, he said, companies will use these workers for other tasks.
+
+This is Richardson's hope at White Castle.
+
+"What we've seen over the years is when we bring technology in it doesn't replace jobs; it really helps you raise the bar on your hospitality and customer focus," Richardson said. "Our expectation is jobs would remain at the same level, but it would change some of the work and make it easier to some degree."
+
+In some ways, these technological changes may become vital: Though the pandemic led to busier-than-ever drive-thrus, Brady, of McDonald's, doesn't expect traffic to abate even after it ends. She foresees a day when you can order food in advance and a conveyor belt brings it right to your car window.
+
+"Like in a very Jetsons-like way, but maybe that makes it even faster, easier, or eliminates bottlenecks," she said. "We're going to continue to innovate on that front."

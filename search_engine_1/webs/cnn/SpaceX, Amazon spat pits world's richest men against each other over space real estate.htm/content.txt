@@ -1,0 +1,11 @@
+Austin, Texas (CNN Business) SpaceX and Amazon (AMZN) — companies run by the two richest men in the world — are sparring over their competing satellite-based internet businesses, with SpaceX accusing Amazon of "stifling competition" and Amazon accusing SpaceX of looking to "smother competition in the cradle."
+
+Elon Musk, the CEO of SpaceX, has an estimated net worth of $209 billion. Jeff Bezos, the CEO of Amazon, has an estimated net worth of $192 billion. (By comparison, even the lower figure was higher than the annual gross domestic product of more than half the countries in the world in 2020, according to the International Monetary Fund.)
+
+At the center of the back-and-forth is a recent attempt by SpaceX to modify its license for Starlink, a massive constellation of internet satellites, of which SpaceX has already launched more than 900. SpaceX already has permission from the US federal government to launch thousands of satellites to bulk up the Starlink constellation, and in recent filings with the Federal Communications Commission, SpaceX said it wants to put a few thousand of those satellites in a lower altitude than previously planned or authorized.
+
+That proposed change could put Starlink satellites in the way of another constellation, called Project Kuiper, that's been proposed by Amazon. The company has not yet launched any satellites, but it has secured an FCC license for the project.
+
+Amazon's current plans include putting some of its satellites into orbit roughly 590 km (or about 366 miles) above the Earth's surface. The changes to its license that SpaceX is advocating for would allow the company to orbit nearly 3,000 of its satellites at an altitude of between 540 and 570 km (336 to 354 miles), which Amazon argues is too close for comfort. The company argued in its objection that Starlink satellites at that altitude could cause more signal interferences with Project Kuiper satellites and other nearby satellite networks.
+
+Read More

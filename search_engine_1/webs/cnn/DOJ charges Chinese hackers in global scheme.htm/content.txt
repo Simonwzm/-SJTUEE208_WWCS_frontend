@@ -1,0 +1,71 @@
+CNN Business —
+
+The Justice Department charged two Chinese nationals Thursday in a global hacking scheme to steal business secrets as part of a campaign allegedly directed by the Chinese government.
+
+Deputy Attorney General Rod Rosenstein said the hackers, part of a group known as Advanced Persistent Threat 10 or APT 10, stole information from more than 45 companies in the US in coordination with China’s state security service.
+
+According to the indictment, they also targeted US military service members, stealing “sensitive data belonging to the Navy, including the names, Social Security numbers, dates of birth, salary information, personal phone numbers, and email addresses of more than 100,000 Navy personnel.”
+
+Rosenstein said the US action was coordinated with 11 other nations: Brazil, Canada, Finland, France, Germany, India, Japan, Sweden, Switzerland, the United Arab Emirates and the United Kingdom.
+
+“This is outright cheating and theft, and it gives China an unfair advantage at the expense of law-abiding businesses and countries that follow the international rules in return for the privilege of participating in the global economic system,” Rosenstein said at a press conference.
+
+He added that the Chinese government can no longer pretend it isn’t aware of the campaign to steal the business secrets, and referred to the actions as “economic aggression.”
+
+“We know what China is doing it, we know why they are doing it, and in some instances we know who is sitting at the keyboard,” he said.
+
+The Chinese government retorted that the United States had “fabricated facts out of thin air,” describing the accusations and indictments as “vile in nature.”
+
+“China firmly preserves cybersecurity, always opposing and cracking down on any forms of cyber theft, ” Chinese Foreign Ministry spokeswoman Hua Chunying said in a statement Friday. “The Chinese government has never participated in or supported any theft of trade secrets.”
+
+The Department of Homeland Security also said Thursday it would create a new website to help support US companies that might have been affected.
+
+The charges come at a time of rising trade tensions between the US and China, the world’s two largest economies.
+
+The US has already imposed tariffs on many Chinese exports to the US and had threatened to impose additional tariffs over the issue of the protection of intellectual property. China has retaliated with tariffs on US goods and services being sold by US companies in China.
+
+President Donald Trump has repeatedly suggested that his trade negotiations with Beijing, which got a boost following Trump’s dinner with his Chinese counterpart Xi Jinping in Argentina on December 1, are going well.
+
+But administration officials have in recent weeks repeatedly drawn attention to the risks posed by China’s espionage activities.
+
+Secretary of State Mike Pompeo told a Kansas radio station Thursday that the relationship with China is “a challenge… we are working across multiple vectors, multiple ways to think about how we convince the Chinese to be – accept our products, allow us to sell products there, and stop stealing our stuff. It’s really pretty straightforward.”
+
+“We all need to watch the threat that China poses to the United States over the long term,” Pompeo told KNSS. “The Chinese misappropriate our property, steal our intellectual property. This is a real risk to the aviation industry that’s so important. It’s a challenge for our farmers to sell their products into China. Those are big, important issues.”
+
+Pompeo also recently attributed the massive hack on Marriott to China.
+
+Senior law enforcement officials testifying before Congress earlier this month named China as the most serious national security threat facing the US, pointing to state-backed hacking efforts like the APT10 Group’s attacks and industrial espionage that costs the US some $225 billion a year by some estimates.
+
+“I believe this is the most severe counter-intelligence threat facing our country today,” Bill Priestap, an assistant director in the FBI’s counterintelligence division, told a Senate committee December 12. US “prosperity and place in the world are at risk because the Chinese government and its proxies are aggressively exploiting our nation’s economy, technology and information,” Priestap said.
+
+Priestap, along with officials from the departments of Homeland Security and Justice told the Senate Judiciary Committee that Chinese hacking and espionage efforts are state-directed, clearly focused on certain sectors, and also make use of non-traditional spies, including Chinese expatriates at universities and businesses.
+
+Cybersecurity firms including CrowdStrike have assessed the group is tied to China’s Ministry of State Security and have tracked their activity back to 2009, when they are accused of targeting Western defense companies involved in building large weapons systems.
+
+The DOJ indictment against the APT10 Group is meant to send three messages, said Priscilla Moriuchi, director of strategic threat development at Recorded Future, a threat intelligence firm.
+
+“They continue to draw a clear line for China regarding what type of behavior is and is not acceptable for states to conduct in cyberspace,” Moriuchi said. “In particular, that leveraging government and military resources to conduct cyber operations in order to steal intellectual property from private companies is unacceptable.”
+
+According to the indictment, the hackers – one of whom is referred to in court documents by his nickname “Godkiller” – worked for a company associated with the Chinese government.
+
+They are accused of hacks from 2006 through 2018. The charges include aggravated identity theft, conspiracy to commit computer intrusions, conspiracy to commit wire fraud.
+
+Business registration records show their company, Huaying Haitai, is a small software firm based in the northern Chinese city of Tianjin. It was opened in 2010 with an initial capital of one million yuan, or about $140,000.
+
+Hua, the Chinese Foreign Ministry spokeswoman, on Friday urged the US government to “stop smearing China on cybersecurity and withdraw the so-called charges against Chinese nationals to avoid causing serious damage to China-US relations.”
+
+The new charges come as the US is also pursuing a separate, unrelated case against a top Chinese tech executive, Huawei’s Meng Wanzhou, on claims that she helped skirt US sanctions on Iran. Meng was arrested in Canada and is facing possible extradition to the US.
+
+Huawei has said that it is unaware of any wrongdoing by Meng and that it complies with all applicable laws and regulations where it operates.
+
+There is no extradition agreement between the US and China, making it unlikely the hackers charged in the indictment unsealed Thursday will see a US courtroom.
+
+Rosenstein and other top law enforcement officials said that even if the Chinese hackers never appear in a US courtroom, the charges are significant in that they hold Beijing accountable.
+
+FBI Director Christopher Wray said that China, through its actions, poses the greatest threat to the US economy.
+
+“Healthy competition is good for the global economy, but criminal conduct is not,” said Wray. “This is conduct that hurts American businesses, American jobs, and American consumers. No country should be able to flout the rule of law – so we’re going to keep calling out this behavior for what it is: illegal, unethical, and unfair.”
+
+China sees the situation differently.
+
+“It’s an open secret that relevant US government agencies have long engaged in large-scale and organized cyber theft and surveillance against foreign governments, companies and individuals,” Hua said. “The ‘cyber theft’ accusations against China by the United States are purely groundless counter-charges and can deceive no one but itself.”

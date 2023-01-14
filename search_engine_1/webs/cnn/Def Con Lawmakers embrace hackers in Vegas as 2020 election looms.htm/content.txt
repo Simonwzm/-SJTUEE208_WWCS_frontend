@@ -1,0 +1,29 @@
+Las Vegas, Nevada CNN Business —
+
+Multiple members of congress, dozens of congressional staffers and members of the intelligence community are gathering in Las Vegas this weekend to rub shoulders with hackers at Def Con, one of the world’s largest hacking conferences.
+
+Washington’s embrace of the hacking community comes amid heightened awareness of the threat of cyber attacks in the wake of the 2016 US presidential election and lawmakers realizing they need to get to grips with technology, Phil Stupak, one of the organizers of Def Con’s A.I. Village told CNN Business before the conference began.
+
+On Friday, the chair of the Democratic National Committee appeared in a deepfake video that was shown here. Deepfakes are videos made using artificial intelligence that can make people appear to do or say things they never did. The deepfake was made with the cooperation of the DNC as a demonstration to warn about what could possibly happen to a candidate in 2020 election.
+
+Hackers here are also demonstrating potential vulnerabilities in voting machines used by Americans. The convention’s election village includes a room full of voting equipment where hackers can let loose.
+
+Speaking to CNN Business after visiting the village on Friday, Sen. Ron Wyden of Oregon said no voting equipment should be connected to the internet. “This is basically like putting American ballot boxes on the streets of Moscow,” Wyden said.
+
+Chris Krebs, the top cybersecurity official at the Department of Homeland Security said Friday that backup paper ballots would be a necessary part of 2020 election security.
+
+Paper ballots have become a new area of interest for many election experts in light of concerns over the security of elections following Russia’s interference effort in the 2016 presidential election.
+
+Historically, Def Con has been a place where hackers poke and prod at flaws in systems — a practice that could cross the line into technically breaking the law. And while the conference has been welcoming to visitors from Washington, many Def Con attendees are at least a little skeptical of government.
+
+A longstanding joke at the conference is a game of “spot the Fed,” where attendees see someone who moves a little too stiffly, or stares a little too intently, and might be either a government recruiter — or law enforcement. It’s not entirely a joke; the FBI has made arrests around Def Con, including British national Marcus Hutchins.
+
+Hutchins, a cybersecurity researcher who gained notoriety for stopping the destructive worldwide virus WannaCry before being arrested after Def Con in Vegas in 2017, won’t face additional prison time, a judge ruled last month.
+
+Despite the natural tension, Def Con organizers want to bridge the void and they say there will be more members of Congress as well as federal and state officials attending this year than ever before.
+
+It will likely be the largest presence the government has had since before 2013, when, in the wake of NSA analyst Edward Snowden’s leaks, Def Con founder Jeff Moss formally requested “the feds call a ‘time-out’ and not attend Def Con this year.”
+
+But that has since smoothed over. “I think the record presence of both representative and administration reflect the reality that technology and security are built into our society,” Moss told CNN Business.
+
+“We are trying to breakdown the barriers between the people in tech who know what they’re doing and the people in Congress who know how to take that knowledge to make laws,” said Stupak, who is also a fellow at Cyber Policy Initiative at the University of Chicago.

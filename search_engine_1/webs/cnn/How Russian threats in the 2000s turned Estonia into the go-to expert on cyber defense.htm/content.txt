@@ -1,0 +1,83 @@
+(CNN) When people like the German Chancellor Angela Merkel or the King of Belgium want to learn more about cybersecurity, they go to Estonia.
+
+The Baltic country runs on the internet. From filing taxes and voting , to registering the birth of a new baby, nearly everything a person might want or need from the government can be done online. It's an approach that's incredibly convenient for Estonia's 1.3 million people -- but it also requires high level of cybersecurity.
+
+Luckily for its residents, Estonia is punching way above its weight when it comes to online safety. It regularly places on top of security rankings. Its capital city of Tallinn is home to NATO's cyber defense hub , the Cooperative Cyber Defence Centre of Excellence. When it took up the rotating presidency of the United Nations Security Council last year, it made cybersecurity one of the policy priorities.
+
+"Estonia digitized a lot sooner than other countries, it was focusing on things like online schooling and online government services and it took a more proactive approach to technology," said Esther Naylor, a international security research analyst at Chatham House.
+
+"And it recognized that it needs to be a secure country in order for citizens to want to use online systems and for businesses to want to do business in Estonia ... and I think that this is why Estonia's approach is often heralded as the model approach," she added.
+
+A new European Union report obtained by CNN last week showed serious cyberattacks against critical targets in Europe have doubled in the past year. There have also been a series of high-profile attacks on US targets in recent weeks. The issue came up during a high-stakes summit between the US President Joe Biden and his Russian counterpart Vladimir Putin on Wednesday.
+
+Biden said he told Putin that certain areas of "critical infrastructure" should be off-limits for cyberattacks, and warned the Russian leader that the US had "significant cyber capability" and would respond to any further incursions. Putin told reporters the two leaders had agreed to start consultations on the issue.
+
+German Chancellor Angela Merkel became Estonian e-resident during her visit to Tallinn in 2016.
+
+Estonia is no stranger to the cyber threat posed by Russia. Back in 2007, a decision to relocate a Soviet-era war memorial from central Tallinn to a military cemetery sparked a diplomatic spat with its neighbor and former overlord. There were protests and angry statements from Russian diplomats. And just as the removal works started, Estonia became the target of what was at the time the biggest cyberattack against a single country.
+
+The Estonian government called the incident an act of cyberwarfare and blamed Russia for it. Moscow has denied any involvement.
+
+The attack made Estonia realize that it needed to start treating cyber threats in the same way as physical attacks.
+
+At that time, the country was already a leader in e-government, having introduced services like online voting and digital signatures. While no data was stolen during the incident, the websites of banks, the media and some government services were targeted with distributed denial of service attacks that lasted for 22 days. Some services were disrupted, while others were taken down completely.
+
+"We saw what would happen if our precious systems that we really loved were down," said Birgy Lorenz, a cybersecurity scientist at Tallinn University of Technology. "We started to understand that fake news is really important and that people can be manipulated, and that we have to protect our systems better -- and that this is not only about the systems, but also about understanding the role people play in the systems."
+
+People matter
+
+After the attack, the government quickly adopted -- and is constantly updating -- a wide-ranging national cybersecurity strategy. It has teamed up with private companies to build secure systems. It set up a "data embassy" in Luxembourg, a super secure data center that contains backups in case of an attack on Estonian territory.
+
+The country also became an early adopter of blockchain technology and established a new cyber unit within its voluntary Estonia Defense League. It started pushing for more international cooperation, via NATO and other organizations.
+
+But perhaps most importantly, it invested into its people.
+
+"Technology gives us a lot of tools to secure the system, but at the end of the day, the level of security depends on the users," said Sotiris Tzifas, a cybersecurity expert and chief executive of Trust-IT VIP Cyber Intelligence. "Even if you build the most secure system you can, if the user does something bad or something misguided or something they are not allowed to do, then the system is downgraded very quickly." He pointed to the fact that some of the most damaging cyberattacks in recent history were caused by a confused insider clicking on a phishing link, rather than by a sophisticated hacker using the most advanced technology.
+
+Tzifas said the Colonial Pipeline attack attack that forced the US company to shut down a key US East Coast pipeline in April was a good example of this. "It created a lot of buzz and cost a lot of money, but there was no real complexity, it wasn't different to other ransomware attacks," he said.
+
+The Estonian government has been investing heavily into education and training programs in recent years. From awareness campaigns and workshops specifically targeting elderly citizens to "coding" lessons for kindergarteners, the government is making sure every Estonian has access to the training they need to keep the country's IT systems secure.
+
+People look at the visualisation during the Locked Shields, cyber defence exercise organized by the NATO Cooperative Cyber Defence Centre of Exellence in Tallinn.
+
+It also wants its teenagers to know how to hack. "We are teaching defense, but you can't learn defense if you don't know how to hack," Lorenz said. She is running educational camps where teenagers learn hacking within a secure environment. She doesn't encourage her students to go on and try to hack companies or government bodies, but if they do, she is on hand to make sure they behave in an ethical way. "I help them to put it in a package and then we send it to the company and say, look, the students have found this vulnerability in your system," she said.
+
+Lorenz is the mastermind behind many of Estonia's educational programs that are designed to teach children about technology, but also to spot and nurture future technology leaders. "To get the talent you need the mass to choose the talents from, so we have training and competitions already for primary school children," she said.
+
+She says young kids are eager to learn about cybersecurity, if they feel like they are part of the solution. "They don't really want to listen to the adults telling them what they should do, so we tell them that we need their help and ask them to help their parents or younger sister with security by doing an audit of all their gadgets and password, and show them how to do that so they learn the skills and feel empowered to take responsibility," she said.
+
+State-sponsored hacks on the rise
+
+To understand what a country can do to secure its critical infrastructure, the government needs to understand the motivations of its potential attackers, Tzifas said. "There are government-sponsored hackers that are attacking, then you have the fraudsters trying to get an economic gain and then you have the 'script kiddies' or low level hackers who are trying to see whether they can do it," he explained.
+
+Some governments and companies encourage the last group to take a swing at their systems, offering prizes to those who are successful in hopes they will help them discover weaknesses they may not be aware of, he added.
+
+There has been a large spike in state-sponsored attacks in the last few years, with governments using hacks to disrupt their adversaries.The US and the United Kingdom warned last year about a rise in state-backed cyberattacks against organizations involved in the coronavirus response
+
+That's where international cooperation becomes crucial -- and Estonia, a small country on the edge of the EU, is well aware of that.
+
+"Estonia has been very active in cyber diplomacy, it is using its voice to talk about what should and should not happen in the cyberspace," Naylor said. "Something Estonia did last year when it joined the UN Security Council, and this was the first time this happened at the UN Security Council, it aligned with the UK and the US to call out Russia on a cyberattack on Georgia ," she said, adding that while the step "won't necessarily solve all of our problems in cyberspace, it does send a message."
+
+The e-Estonia Briefing Centre, a publicly funded cyber security and digital services information hub in Tallinn, is another way the country is building partnerships. It was set up specifically to offer training programs and workshops to foreign delegations. Visitors include Merkel, the Belgian King and numerous foreign ministers and local governments. "We share our success stories and our mistakes so that other countries don't have to reinvent the wheel," said Florian Marcus, a digital transformation adviser at the center.
+
+The government's infrastructure relies on several layers of security, Marcus continued. "One aspect is that we've always made sure that we store as little data as possible, and that when we store data that we store it as separately as possible," he said, explaining the government's "once only" principle.
+
+"There is no duplicated data within the government service, so for example, only the population register is allowed to store my address, and if any other register, like the tax authority or the voting committee, needs my address, they have to ask the population register through an encrypted data exchange that uses blockchain to verify the data integrity."
+
+Tzifas said this approach is much more secure compared to having large super databases that contain all kinds of data -- from addresses and ID numbers to dates of birth and heath care and insurance data -- all on one platform.
+
+"We are talking the banking system, insurance companies, government databases where all this data is gathered, this is real gold for hackers, because this data can be very easily used for impersonation attacks. When you want to create [a] fake identity, you need all this data," he said.
+
+The NATO Cooperative Cyber Defence Centre of Excellence in Tallinn conducts research and training on cyber security.
+
+Estonia has built secure IT systems, fostered international cooperation and spent a lot of money and time training its citizens. But in a world where hackers are, most of the time, one step ahead of governments, the country is constantly trying to find ways to improve its system.
+
+"Being purely defensive is not going to protect you from all of the wide range of cyber incidents that can occur. Because of the changing nature of the techniques that are used by criminal groups, you need to think about resilience and take proactive mitigation measures," Naylor said.
+
+One example she gives is Estonia's focus on cyber incident response. "They are simulating cyberattacks on either critical infrastructure or in an industry, so that [they] are better prepared to respond to a potential attack."
+
+The combination of citizen awareness, the monitoring of potential attacks and flexible countermeasures are all key pieces of successful cyber defense, Tzifas said, "because whatever technology you install, it will be bypassed in the future."
+
+For Lorenz, the success of Estonia's cyber program boils down to one simple principle: everybody, from the top levels of the government to school children, is doing their bit.
+
+"In a way, it's very Estonian," she said. "We don't have a leader who tells us what to do. We go to [the] sauna and one person says 'my neighbor is thinking about doing this' and another says 'my neighbor is thinking about doing that' ... and nobody is talking about what they will do and nothing gets decided, but then everybody goes home and does that thing and somehow it's all working."

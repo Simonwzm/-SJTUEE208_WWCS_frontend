@@ -1,0 +1,11 @@
+New York (CNN Business) News Corp suffered a "persistent cyberattack," the company said Friday, and investigators believe Chinese spies may be responsible.
+
+Dozens of journalists at the News Corp-owned Wall Street Journal were targeted in the hack, which appeared to focus on reporters and editors covering China-related issues, two people familiar with the matter told CNN.
+
+Cybersecurity firm Mandiant ( MNDT ), which News Corp ( NWS ) hired to investigate the breach, believes the hackers are "likely involved in espionage activities to collect intelligence to benefit China's interests," said David Wong, vice president of consulting at Mandiant.
+
+The intrusion, which appeared to date to at least February 2020, compromised email accounts and Google Drive documents used by certain Wall Street Journal journalists, one of the people familiar with the investigation said. The Wall Street Journal first reported on the timeline of the hack.
+
+Journalists are frequent targets of various state-backed hackers in search of intelligence on governments and corporations. For this reason, many journalists do not mention sensitive information over email.
+
+Read More

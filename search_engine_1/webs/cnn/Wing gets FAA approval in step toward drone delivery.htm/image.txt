@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190409133858-wing-drone-google.jpg?q=x_85,y_68,h_2190,w_3891,c_crop/w_800

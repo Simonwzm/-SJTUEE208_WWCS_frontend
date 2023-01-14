@@ -1,0 +1,27 @@
+Washington, DC CNN —
+
+Cars increasingly resemble a smartphone on wheels, storing personal information such as our location, how we drive, who we talk to and how to reach them. Some even hold a way to join our home WiFi network. If you’ve ever sold an old smartphone or laptop, you probably thought to wipe the hard drive first, to protect your privacy. When we sell a car, or return a rental car, a similar thought may not cross our minds, but cybersecurity experts say it should.
+
+This month a security researcher described buying old Tesla infotainment systems online and finding personal information such as the home addresses and WiFi passwords of the previous owners. The news was first reported by InsideEvs. Searches of eBay reveal that infotainment systems from brands such as BMW, Ford, Cadillac and Mercedes-Benz are currently available for sale.
+
+“This isn’t just a Tesla thing, it’s every single infotainment system,” said Justin Schorr, president of DJS Associates, a vehicle forensics firm that reconstructs crashes using on-board data. “Think of all the vehicles with screens, this is ubiquitous almost.”
+
+Prior research has also shown how personal information is stored on cars and can be accessed by hackers. Tesla (TSLA) did not respond to a request for a comment.
+
+Infotainment systems have become common on vehicles in the last decade. They collect data, which can include our smartphone’s contacts, emails, call history logs, photos and text messages. There aren’t well-known examples of concerning uses of this data when taken from cars, but personal data has been misused when gathered from other sources. Our vehicles may be the next vulnerability that’s exploited.
+
+“Everything that can be used for a nefarious purpose, will eventually be found by a nefarious person and used for a nefarious purpose,” Schorr said. “If you pair your phone with a rental car, and that car gets in a crash two years later, personal information about you could be pulled off it.”
+
+Generally, specialized skills and training are required to access a car’s infotainment system and all of the data stored on it. A car’s dashboard may need to be removed to access the system.
+
+But that hasn’t stopped infotainment systems from being available on websites such as eBay (EBAY). They’re often sold by companies that buy old vehicles and sell their parts.
+
+Given the risks, cybersecurity experts recommend doing a factory reset of a vehicle when selling it, or when returning a rental car that you paired your phone with.
+
+Some suggest going even further.
+
+Phil Neray, vice president of Internet of Things and industrial cybersecurity at the start-up CyberX, said that before selling a car, do a factory reset and then take the vehicle to a dealer and ask them to wipe it clean of data. The factory reset may not sufficiently remove all data present.
+
+To completely sidestep the issue, a consumer could buy a cigarette lighter charger, and use that rather than plugging their smartphone in the USB port. However, then they won’t be able to enjoy the benefits of pairing their phone with the infotainment system.
+
+In the long run, consumer awareness of the issue may be needed most to be impactful and better protect personal data.

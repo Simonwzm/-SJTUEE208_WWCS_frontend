@@ -1,0 +1,45 @@
+(CNN Business) The testimony of a former Theranos lab director is set to continue Wednesday in the criminal trial of the failed blood-testing startup's founder and former CEO, Elizabeth Holmes. It will mark the third day that jurors will hear from the man who is now known to be the first source who spoke with the journalist who broke the Theranos story in 2015.
+
+Adam Rosendorff, who joined Theranos in April 2013 after applying for a lab director job on LinkedIn, testified that he joined the company thinking it "was going to be the next Apple." But he departed in November 2014, even as the company's profile was rising, after growing uncomfortable with its apparent priorities.
+
+"I felt pressured to vouch for tests that I did not have confidence in. I came to believe that the company believed more about PR and fundraising than about patient care," he testified Friday, speaking to preparations ahead of the launch with Walgreens , which has been central to the prosecution's case so far. "The platform was not allowing me to function effectively as a lab director."
+
+After leaving the company, Rosendorff testified Tuesday, he spoke to a lawyer and then spoke off the record with Wall Street Journal reporter John Carreyrou. When asked by assistant US Attorney John Bostic why he decided to speak to Carreyrou, Rosendorff said, "even months after I left the company, I felt obligated from a moral and ethical perspective to alert the public. I didn't quite know how I should do that, but when this opportunity presented itself, I took advantage of it."
+
+Carreyrou's investigative reporting uncovered significant flaws in the company's technology and capabilities that contradicted claims made by Holmes and Theranos. His work prompted broader scrutiny into the company, which led to its eventual demise.
+
+After the court room revelation, Carreyrou tweeted : "Adam was my first and most important source. Without him, I wouldn't have been able to break the Theranos story. Hats off to his courage and integrity. He's one of the real heroes of this story."
+
+Rosendorff's significance as a witness is evidenced by how long he's been on the stand. He was questioned for roughly five hours by Bostic on Friday and again for nearly two hours Tuesday before Lance Wade, an attorney for Holmes, began his cross examination, which is set to continue Wednesday in the San Jose federal courtroom where the trial is underway.
+
+Attorneys for Holmes have previously argued that the accuracy and reliability of the company's tests were not her responsibility, but rather the legal responsibility fell to those running the lab -- a fact that appeared to have worried Rosendorff while at Theranos. He testified to Bostic that prior to leaving, he asked to have his name taken off the clinical lab as its director so that "in the eyes of the state and the federal government, I would not be the person responsible for the laboratory."
+
+Wade pulled on this thread of responsibility throughout his questioning, asking Rosendorff whether Holmes was qualified for various lab positions (she was not) in an effort to distance her from the lab's inner workings to jurors. Wade also asked Rosendorff to confirm his obligations as lab director and to confirm that he knew he could lose his ability to serve as a lab director if he did not follow those obligations.
+
+"Yes, I endeavored earnestly to fulfill the laboratory director obligations. I faced constraints and pushback from management," Rosendorff said.
+
+Unreliable results before a Walgreens launch
+
+Rosendorff, who left his lab director job at the University of Pittsburgh Children's Hospital to work at Theranos, said he became lab director in the middle of 2013 after applying for his California medical license, and that a co-lab director, Mark Pandori, was hired in early 2014. (Pandori is also listed among the government's possible witnesses.) Rosendorff said he reported into Ramesh "Sunny" Balwani — Theranos' then-chief operating officer who was also Holmes' boyfriend. Rosendorff testified that Holmes was above Balwani in the executive ranks.
+
+Balwani and Holmes are both facing a dozen counts of federal fraud and conspiracy charges over allegations they knowingly misled investors, patients, and doctors about the capabilities of Theranos' proprietary blood testing technology. Balwani and Holmes have both pleaded not guilty and face up to 20 years in prison. They're being tried separately, with Balwani's trial set to begin early next year.
+
+Rosendorff was questioned by Wade about whether Holmes or Balwani ever told him to report an inaccurate test result, to which he indicated they had not. But, Rosendorff said at times his direction that certain tests to be run on FDA-approved devices rather than Theranos' technology were ignored.
+
+Rosendorff, during Friday's testimony, called the events leading up to the commercial launch of Theranos' testing with Walgreens "extremely rushed and hurried."
+
+He said Holmes and Balwani set the schedule for validating tests ahead of the commercial rollout — not him. Just days before the launch, Rosendorff sent an email to Holmes and Theranos vice president Daniel Young, which Rosendorff testified was an attempt at "raising the alarm bells" about tests he didn't feel were ready for launch, as well as said he was raising "concerns about staffing and training." According to the email, he had asked for "a few more weeks" to sort through some of the concerns, which would mean delaying the launch.
+
+Rosendorff said he addressed the email to Holmes and had a conversation with her in her office, where she had "papers stuck on to the window with a number on it, which indicated the number of days until launch."
+
+"I told her that the potassium was unreliable, the sodium was unreliable, the glucose was unreliable, [and] explained why," Rosendorff testified. (Theranos promised patients the ability to test for conditions like cancer and diabetes with just a few drops of blood.)
+
+"She was very nervous. She was not her usual composed self. She was trembling a bit, her knee was tapping, her voice was breaking up. She was clearly upset," he continued. He said she responded that they could use conventional FDA-approved devices rather than Theranos' devices as needed.
+
+Nine days before the launch, none of Theranos' tests that it had intended to launch had been validated for patient care, according to an email from a research and development scientist that was presented during Rosendorff's testimony Friday. (When pressed by Wade on this launch, Rosendorff clarified that it was a soft launch open to friends and family, not the general public.)
+
+"I wanted to protect myself"
+
+as well as the high rates of failure when it came to quality control of tests. Rosendorff, despite being lab director, was also notably left off some emails that discussed concerning Theranos test results. He testified that he felt he "absolutely" should have been included on them; Holmes and Balwani, however, were looped in on the emails. Echoing testimonies from earlier former Theranos employees, Rosendorff also said he was troubled by the lack of protocol for deleting certain data points to pass quality controlas well as the high rates of failure when it came to quality control of tests.
+
+Rosendorff said that he directed the company to cease testing for hCG, the hormone commonly used to detect whether a woman is pregnant, on its proprietary blood testing machine due to inconsistent results and instead use a third-party device. (The first patient witness to take the stand was a woman who took this test; it indicated she may be miscarrying when her pregnancy was fine.) Rosendorff testified that the company didn't follow his directive.

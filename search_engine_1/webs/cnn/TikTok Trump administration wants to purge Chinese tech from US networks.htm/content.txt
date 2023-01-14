@@ -1,0 +1,49 @@
+Hong Kong CNN Business —
+
+US Secretary of State Mike Pompeo is urging American companies to remove “untrusted” Chinese-owned technology from their digital networks. The plan is one of the most ambitious and wide ranging efforts the Trump administration has put forward to restrict the reach of Chinese tech in the United States.
+
+Speaking on Wednesday, Pompeo detailed plans to expand the administration’s push for a so-called “clean network,” listing five areas of critical importance that the government will seek to prohibit Chinese companies from accessing: app stores, apps, cloud services, mobile carrier networks and undersea internet cables.
+
+The United States has long viewed many Chinese tech companies as threats to national security, and has singled out individual firms such Huawei and TikTok for punishment. Beijing, meanwhile, already places hefty restrictions on the ability of foreign tech companies to operate in China — and its so-called Great Firewall has for years shut out content widely available elsewhere on the internet.
+
+“We want to see untrusted Chinese apps removed from US app stores,” Pompeo told reporters. “With parent companies based in China, apps like TikTok, WeChat and others are significant threats to personal data of American citizens, not to mention tools for [Chinese Communist Party] content censorship.”
+
+The administration also wants to restrict smartphone companies such as “Huawei and other untrusted vendors” from pre-installing or making available for download popular US apps.
+
+But the plans go way beyond smartphones and apps. Under the broad proposals, Chinese cloud service providers could also be restricted.
+
+“We’re protecting Americans’ most sensitive personal information and our businesses’ most valuable intellectual property — including Covid vaccine research — from being accessed on cloud-based systems” run by Chinese companies such as Alibaba, Tencent and others, said Pompeo.
+
+Alibaba (BABA) and Tencent (TCEHY) both have cloud data centers in in Virginia and Silicon Valley.
+
+The Trump administration will also work to bar Huawei and other Chinese tech companies from building carrier networks or undersea data cables that connect the United States to the rest of the world.
+
+“The United States calls on our allies and partners in government and industry around the world to join the growing tide to secure our data from the [Chinese Communist Party’s] surveillance state and other malign entities,” Pompeo said in a statement Wednesday.
+
+“Building a [clean] fortress around our citizens’ data will ensure all of our nations’ security,” he added, noting that more than 30 countries and territories support the US strategy.
+
+He did not provide further detail as to how the sweeping restrictions would be implemented, or whether they would require the support of private companies.
+
+Beijing, meanwhile, on Thursday reiterated that it is “firmly opposed” to Pompeo’s use of national security as an excuse to “oppress” Chinese technology companies.
+
+“Pompeo and other American politicians use state security as an excuse and use state power to oppress Chinese high tech companies, we are firmly opposed to this,” said Foreign Ministry spokesperson Wang Wenbin. “Their actions have no factual basis, it’s just smearing and political manipulation aimed to maintain the US monopoly in high-tech.”
+
+The announcement comes as tensions between the United States and China are at an all time high, with the two countries battling over technology. Trump last week threatened to ban TikTok in the United States, forcing parent company ByteDance to mull selling it to Microsoft.
+
+Washington has been pressuring allies to restrict or ban Huawei products from their 5G networks for years, and has cut the smartphone and telecommunications equipment maker off from key US tech and supplies.
+
+A TikTok spokesperson said in a statement that “TikTok US user data is stored in the [United States], with strict controls on employee access.”
+
+“Our content and moderation policies are led by our US-based team and are not influenced by any foreign government,” the spokesperson added.
+
+Huawei did not respond to a request for comment before publication. The company has previously said that its products do not pose a national security risk.
+
+Alibaba and Tencent did not immediately respond to request for comment.
+
+When it comes to TikTok and WeChat, which is owned by Tencent, the apps have fewer features than their domestic Chinese versions, known as Douyin and Weixin. But they still have ties to China, according to Eurasia Group, a political risk consultancy.
+
+WeChat users, for example, “can communicate with users on Weixin, which uses servers based in China,” Eurasia Group analysts wrote in a report last week.
+
+And “while a WeChat user can send data to a Weixin user, the Chinese user will not see the content if it contains terms banned under Chinese law. WeChat users can send content among themselves that would be banned in China,” the analysts wrote.
+
+– Isaac Yee contributed to this report.

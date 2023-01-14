@@ -1,0 +1,29 @@
+New York CNN Business —
+
+Since mid-May, Uber has required drivers to take selfies to verify they are wearing a mask or face covering before they are able to pick up riders. Soon, certain riders will also be required to take a selfie prior to ordering a ride.
+
+The company said Tuesday that passengers who have previously been reported by a driver for not wearing a mask will be required to take a selfie for mask verification purposes when requesting their next ride.
+
+The passenger mask verification feature is slated to roll out in the US and Canada by the end of the month, and will expand to Latin America and other countries thereafter, the company said in a blog post Tuesday.
+
+Enforcement of mask use, as recommended by the Centers for Disease Control and Prevention to help slow the spread of the coronavirus, has proven to be difficult, in both public and private spaces. In Ubers and Lyfts, riders have had to confirm they are wearing a mask or face covering before hailing a ride for several months now, but enforcement has come down to being reported by a driver.
+
+Now, there will be an added layer once a rider violates the policy.
+
+“We firmly believe that accountability is a two-way street,” wrote Sachin Kansal, Uber’s global head of safety product, in the blog post.
+
+If a passenger’s next ride goes off without a hitch, they will not have to take a selfie again the next time they go to request a ride.
+
+The mask verification selfie, for both drivers and riders, uses object detection technology to determine whether a person is wearing a mask.
+
+Kansal told CNN Business that the company has done “a lot of optimizations” to detect things like if someone is trying to cover their mouth with their hand, for instance, instead of a mask. “It has to be a real-time picture of a face wearing a mask.” In the instances where a person orders an Uber for a friend or family member with their account, “the person who is actually requesting the ride is the person who will have to go through the face verification process.”
+
+Kansal said in May that it was easier to initially implement the selfie mechanism for drivers because of its Real-Time ID Check, an in-app feature that has been available for years and prompts drivers to take selfies to compare biometric information to verify their identity. For drivers, the mask selfie doesn’t replace an ID check. In some cases, drivers will be asked to take a selfie without a mask, followed by a mask selfie.
+
+For both riders and drivers, repeated violations of Uber’s policies could lead to deactivation, but the company declined to go into detail regarding how many violations contribute to a removal.
+
+“We have definitely taken action, including taking people off the platform, both from the rider and driver side,” Kansal said, referring to mask-related violations.
+
+The company also said it has allocated $50 million to purchasing supplies like masks, gloves, hand sanitizer, and disinfectant sprays and wipes for drivers. It said that it has given out 10 million masks, wipes, and sanitizers to more than 750,000 drivers and delivery people in the US and Canada to date.
+
+The company said on July 1 that its mask requirement in the US and Canada would be in effect indefinitely.

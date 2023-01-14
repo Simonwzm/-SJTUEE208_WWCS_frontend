@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200520135710-apple-iphone-face-mask.jpg?q=x_2,y_200,h_1188,w_2111,c_crop/w_800

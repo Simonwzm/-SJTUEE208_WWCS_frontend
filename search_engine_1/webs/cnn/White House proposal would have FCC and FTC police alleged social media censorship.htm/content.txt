@@ -1,0 +1,45 @@
+Washington CNN Business —
+
+A draft executive order from the White House could put the Federal Communications Commission in charge of shaping how Facebook (FB), Twitter (TWTR) and other large tech companies curate what appears on their websites, according to multiple people familiar with the matter.
+
+The draft order, a summary of which was obtained by CNN, calls for the FCC to develop new regulations clarifying how and when the law protects social media websites when they decide to remove or suppress content on their platforms. Although still in its early stages and subject to change, the Trump administration’s draft order also calls for the Federal Trade Commission to take those new policies into account when it investigates or files lawsuits against misbehaving companies. Politico first reported the existence of the draft.
+
+If put into effect, the order would reflect a significant escalation by President Trump in his frequent attacks against social media companies over an alleged but unproven systemic bias against conservatives by technology platforms. And it could lead to a significant reinterpretation of a law that, its authors have insisted, was meant to give tech companies broad freedom to handle content as they see fit.
+
+A White House spokesperson declined to comment on the draft order, but referred CNN to Trump’s remarks at a recent meeting with right-wing social media activists. During the meeting, Trump vowed to “explore all regulatory and legislative solutions to protect free speech.”
+
+According to the summary seen by CNN, the draft executive order currently carries the title “Protecting Americans from Online Censorship.” It claims that the White House has received more than 15,000 anecdotal complaints of social media platforms censoring American political discourse, the summary indicates. The Trump administration, in the draft order, will offer to share the complaints it’s received with the FTC.
+
+In May, the White House launched a website inviting consumers to report complaints of alleged partisan bias by social media companies.
+
+The FTC will also be asked to open a public complaint docket, according to the summary, and to work with the FCC to develop a report investigating how tech companies curate their platforms and whether they do so in neutral ways. Companies whose monthly user base accounts for one-eighth of the U.S. population or more could find themselves facing scrutiny, the summary said, including but not limited to Facebook, Google, Instagram, Twitter, Pinterest and Snapchat.
+
+The Trump administration’s proposal seeks to significantly narrow the protections afforded to companies under Section 230 of the Communications Decency Act, a part of the Telecommunications Act of 1996. Under the current law, internet companies are not liable for most of the content that their users or other third parties post on their platforms. Tech platforms also qualify for broad legal immunity when they take down objectionable content, at least when they are acting “in good faith.”
+
+From the start, the legislation has been interpreted to give tech companies the benefit of the doubt.
+
+“The law that I wrote, Section 230, allows platforms to get this kind of slime and hate off the platform,” Sen. Ron Wyden (D-Ore.) said in an interview with CNN on Friday, referring to hate speech that has appeared on forums such as 8chan. 8chan made headlines recently when a racist manifesto believed to have been written by the El Paso, Texas shooting suspect was published on the site.
+
+By comparison, according to the summary, the White House draft order asks the FCC to restrict the government’s view of the good-faith provision. Under the draft proposal, the FCC will be asked to find that social media sites do not qualify for the good-faith immunity if they remove or suppress content without notifying the user who posted the material, or if the decision is proven to be evidence of anticompetitive, unfair or deceptive practices.
+
+Wyden, in the interview, called the proposal “horrible” and said neither the FTC nor the FCC are “exactly tripping over themselves… to carry it out.”
+
+“I bet you scores of conservatives are turning over in their grave right now listening to all of these big government approaches,” Wyden said. “Their proposal today amounts to nothing short of a speech police.”
+
+In its current form, the draft order could lead to significant questions about the role the FCC and FTC can play when it comes to interpreting and enforcing Section 230, an area they have previously left largely unaddressed. The effort to draft the order has been ongoing for some time, the people said, and the proposal remains subject to change.
+
+“It makes no sense to involve the FCC here,” said Berin Szoka, president of the libertarian-leaning think tank TechFreedom. “They have rule-making authority, but no jurisdiction — they can’t possibly want to be involved. It would be an impossible position.”
+
+The FTC and FCC both declined to comment.
+
+The attempt to write the order comes as the White House on Friday prepared to meet with a number of tech companies to discuss their approaches to detecting and responding to violent extremism.
+
+The midday meeting is expected to involve five-minute presentations from the companies on their respective policies and projects, according to copies of an invitation obtained by CNN. The presentations will be followed by a group discussion on technology and the companies’ roles in fighting “signals of violence … while respecting free speech.”
+
+Some people close to the tech industry expressed frustration that the White House seemed to be trying to have it both ways — excoriating tech companies for allegedly censoring conservative speech, a claim the platforms vigorously dispute, while castigating them for failing to block enough violent or hateful content.
+
+“The internal inconsistency of this is outrageous,” one of them said.
+
+– CNN Business’ Donie O’Sullivan contributed reporting.
+
+Correction: An earlier version of this story incorrectly described what content internet companies may be liable for under Section 230 of the Communications Decency Act.

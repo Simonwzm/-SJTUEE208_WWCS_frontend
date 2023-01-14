@@ -1,0 +1,45 @@
+Hong Kong/San Francisco CNN Business —
+
+A US-based group supporting human rights in China says it is “outraged” that the video conferencing company Zoom (ZM) temporarily shut down its account after it held an event on the platform in remembrance of the Tiananmen Square massacre.
+
+Humanitarian China, an organization based in California that provides “relief for political prisoners and activists” in China, said in a statement that it was not able to access its account on Sunday, a week after it held the virtual meeting. The group said more than 250 people worldwide joined the Zoom conference, while others streamed it on social media.
+
+“The Zoom account used for this conference displayed a message that it had been shut down,” the organization said. “Zoom has not responded to our requests for an explanation.”
+
+The Tiananmen Square crackdown is a matter of extreme sensitivity for China’s ruling Communist Party. On June 4, 1989, Chinese troops entered Tiananmen Square in Beijing and fired on civilians protesting for democracy after several weeks of demonstrations. Estimates of the death toll range from several hundred to thousands.
+
+Zhou Fengsuo, a former protest leader in Beijing who leads Humanitarian China, said his May 31 event included the Tiananmen Mothers, a group set up by those who lost children in the massacre. The group also said the event featured writers, scholars and former student leaders.
+
+“A significant proportion of attendees were from China,” the group said in its statement. “Our conference provided many the opportunity to connect with activists abroad for the first time.”
+
+News of the account closure was first reported by the news website Axios.
+
+Zoom said in a blog post later on Thursday that it was informed by the Chinese government about four separate Zoom gatherings to commemorate the June 4 anniversary that were being publicized on social media.
+
+“The Chinese government informed us that this activity is illegal in China and demanded that Zoom terminate the meetings and host accounts,” the company said.
+
+Zoom allowed one of the meetings to proceed after determining it had no participants from mainland China, but ended the other three and suspended the host accounts — two in the United States and one in Hong Kong. All three accounts have since been reinstated, it said.
+
+“We regret that a few recent meetings with participants both inside and outside of China were negatively impacted and important conversations were disrupted. It is not in Zoom’s power to change the laws of governments opposed to free speech,” the spokesperson added.
+
+Humanitarian China said that it was “outraged” that Zoom, a US company, appeared to have acted according to Chinese law in shutting down the organization’s account. In its statement, the group accused Zoom of being “complicit in erasing the memories of the Tiananmen Massacre in collaboration with an authoritarian government.”
+
+Zhou confirmed that his account had been reactivated, but said his team wanted answers on why its service was suspended.
+
+“We haven’t heard from Zoom. We want to know why,” Zhou told CNN Business.
+
+In the blog post, Zoom said it currently does not have the ability to block individual meeting participants by country and chose to shut down the meetings instead, which it described as a “mistake.” The company said it will develop technology to block individual participants in the coming days.
+
+“Going forward Zoom will not allow requests from the Chinese government to impact anyone outside of mainland China,” the company said.
+
+A spokesperson for China’s Foreign Ministry said earlier on Thursday that she had not “heard about that and [had] no information to offer.” “This is not a diplomatic issue,” the spokesperson told reporters at a media briefing.
+
+Zoom is based in California, but it has ties to China that are increasingly becoming a liability. Earlier this year, its encryption was discovered to be inadequate and some of its data was found to be routed through Chinese servers. It later said that paid customers would be able to prevent their data from being routed through servers in specific regions.
+
+The company has utilized Chinese developers from its onset — its research and development department in China has over 700 employees — a practice that Zoom warned in its annual report “could expose us to market scrutiny regarding the integrity of our solution or data security features.”
+
+CEO Eric Yuan acknowledged to CNN Business earlier this year that as tensions between Washington and Beijing rise, Zoom might have to adjust its ties to China. Zoom has already announced plans to open new research and development centers in Arizona and Pennsylvania.
+
+Yuan suggested Denver, Ohio or Virginia as other possible sites for a relocated Zoom research and development center. “If things get worse, we do have a plan,” he said.
+
+— CNN’s Isaac Yee, Ben Westcott and Jon Sarlin contributed to this report.

@@ -1,0 +1,57 @@
+Cambridge, England CNN Business —
+
+IBM’s fast-talking AI machine was the major attraction of a sell-out debate at Cambridge University on Thursday. But while it might have been responsible for drawing the crowds, it didn’t quite match up to its human counterparts on the debate stage.
+
+Project Debater, as the IBM (IBM) machine is known, took part in the debate at the Cambridge Union featuring both computers and humans. At issue was whether AI will bring more harm than good to the world.
+
+The Cambridge Union counts Theodore Roosevelt, Boris Johnson, Bill Gates and Robert Downey Jr among famous figures it has hosted.
+
+It has been holding debates for more than two centuries, but this is the first contest to feature AI, said society president Rachel Tustin.
+
+“As the oldest debating society in the world, the Union has always aimed to discuss the most topical and significant issues of the time,” Tustin said.
+
+AI has the potential to power driverless cars and smart cities. But critics say the technology could perpetuate bias, put people out of work and even threaten human existence.
+
+About 500 university students attended Thursday’s debate, hinting at just how controversial the technology is.
+
+How Project Debater fared
+
+The IBM machine, which was defeated by a human in a one-on-one debate nine months ago, delivered each team’s 4-minute opening speech using submissions sourced ahead of time from over 1,000 people.
+
+The rebuttals by each side were done by the human debaters, who also delivered the closing arguments.
+
+The debate showed that Project Debater could work out whether submissions were for or against the motion. It also demonstrated that the technology is able to detect redundancies, given that people will have made the same arguments using different words.
+
+To the delight of the audience, Project Debater even managed to crack a few jokes. These were derived mostly from its “bank of jokes,” but it makes the call on when and how to use them, said IBM engineer Noam Slonim.
+
+The machine’s arguments were in both cases understandable and neatly arranged into themes, but they also demonstrated the shortcomings of AI.
+
+The debate reflected that there is a “very significant gap between what AI can do and what humans can do,” said Slonim.
+
+For example, sentences weren’t always structured correctly and at times assertions were made without being argued convincingly.
+
+At other times erroneous or overly simplistic conclusions were drawn from what had been argued — perhaps not unlike how human beings themselves are wont to argue.
+
+Harish Natarajan, the European debate champion who previously beat Project Debater and also took part in Thursday’s debate, said the machine’s arguments lacked the same “empirical depth” as before but demonstrated that the technology was able to synthesize a broad range of views.
+
+At the previous debate, Project Debater was given 15 minutes to process 400 million documents, including academic journals and news articles.
+
+The particular application that was used on Thursday is known as Speech by Crowd, as it crowd sources opinions to formulate points of view about both sides of a debate.
+
+Companies could use the technology to process customer feedback on their products or understand how thousands of employees view changes to corporate policy, according to Slonim.
+
+It was recently used by officials in Lugano, Switzerland, to crowd source opinions from the public on whether the city should invest in autonomous vehicles.
+
+IBM plans to roll out Speech by Crowd to its clients in the coming year, said Slonim.
+
+Project Debater in San Francisco
+
+In the previous debate held in San Francisco in February, Project Debater failed to deliver convincing rebuttals in a debate about whether preschool should be subsidized.
+
+Its arguments appeared out of order. For example, it saved its best counter punches for its closing statement.
+
+On Thursday, votes were split almost equally for and against the motion, with the team who argued in favor of AI garnering 51% of votes.
+
+Natarajan was joined on Thursday, by Professor Sylvie Delacroix of the University of Birmingham, Professor Neil Lawrence of Cambridge, and Sharmila Parmanand, a chief debate judge and PhD candidate at Cambridge.
+
+— Rachel Metz contributed to this report.

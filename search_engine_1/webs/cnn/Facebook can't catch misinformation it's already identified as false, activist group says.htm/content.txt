@@ -1,0 +1,49 @@
+(CNN Business) With less than four weeks to go before a pivotal US election, Facebook has sought to reassure the public it has learned from its 2016 mistakes. On Wednesday, the company rolled out a new policy against voter intimidation and announced it will temporarily suspend political ads after polls close on Election Day.
+
+But a new report from activist researchers shows that in the past year alone, Facebook has failed to act on hundreds of posts that racked up millions of impressions and contain claims that the social media giant has previously identified as false or misleading — raising fresh questions about the company's readiness for a potential wave of misinformation following Nov. 3.
+
+The report outlines how purveyors of misinformation have successfully evaded Facebook's content review systems — both human and automated — by taking simple steps such as reposting claims against different-colored backgrounds, changing fonts and re-cropping images. The resulting posts appear to be just different enough to have escaped enforcement.
+
+The posts include false claims about President Donald Trump and Vice President Joe Biden as well as false information about mail-in voting and the coronavirus.
+
+The tactics mean that even asdemotes and applies warning labels to certain posts that have been rated as false by third-party fact-checkers, variations on those same posts continue to replicate virally across the platform unhindered, said Avaaz, the activist group that produced the research.
+
+"This one's a new, big loophole that I don't think has been identified before, at least at this level," said Christoph Schott, one of the Avaaz study's authors. "It's another way misinformation is able to get around the complex policy system Facebook is trying to build."
+
+In a statement, Facebook said it has already enforced its policies against a majority of the groups and pages that Avaaz brought to its attention when the group presented its findings to the company last week.
+
+"We remain the only company to partner with more than 70 fact-checking organizations, using AI to scale their fact-checks to millions of duplicate posts, and we are working to improve our ability to action on similar posts," the statement said. "There is no playbook for a program like ours and we're constantly working to improve it."
+
+Guy Rosen, Facebook's vice president of integrity, touted the company's progress in fighting misinformation on a conference call with reporters Wednesday.
+
+Rosen said Facebook has labeled more than 150 million pieces of content in the United States featuring claims that have been debunked by the company's fact-checking partners.
+
+"We believe that we have done more than any other company over the past four years to help secure the integrity of elections," Rosen said.
+
+But Schott said Avaaz's findings highlight the limits of Facebook's advances since 2016, despite the company's hiring of thousands of human content reviewers and its artificial intelligence upgrades meant to preemptively catch malicious or misleading material. The company has had to lean more heavily on its AI filters as the pandemic made it more difficult for Facebook's human platform moderators to do the same work from home.
+
+Because their evasive efforts allow them to keep spreading misinformation without being demoted by the system, some pages and groups enjoy outsized power to distort the truth for millions of users, Schott said.
+
+Many of the false claims appear to come from supporters of Trump or Biden, though pages critical of Biden dominate Avaaz's top-10 list of most prolific sharers of misinformation. To find the problematic posts, Avaaz used CrowdTangle, a Facebook-owned analysis tool employed by many researchers and news outlets, including CNN, to survey Facebook's vast landscape.
+
+Schott said Avaaz compiled a list of debunked claims and then searched for those claims in CrowdTangle between October 2019 and August 2020. The group found 738 instances of false posts that it said Facebook should have caught based on its earlier labeling of similar content. Those hundreds of posts collectively attracted some 5.6 million likes, reactions and comments, Schott said, and more than 140 million views.
+
+The group also found 119 Facebook pages that demonstrated a track record of spreading misinformation — at least three or more false posts during the research period. In an indication of their reach and audience size, the pages collectively garnered 5.2 billion views over the past year, Avaaz estimated.
+
+One July 17 Facebook post identified by Avaaz and reviewed by CNN falsely linked Biden to pedophilia using a photo collage and has been shared 3,700 times. Politifact, a Facebook fact-checking partner, has rated the pedophilia claim "pants on fire," which represents the organization's most severe "false rating." Facebook applied a warning label to the post.
+
+Yet Avaaz found at least seven other instances of that claim and photo collage across Facebook that had not been labeled, even though the posts were virtually identical to the one Facebook did take action against. CNN has verified one of the seven instances, as well as several of the other examples.
+
+Another post that Facebook has previously enforced against is an altered image showing members of the Ku Klux Klan appearing to hold a Trump campaign sign; the image has been identified by Reuters, a Facebook fact-checking partner, as a misleadingly edited photo that was taken five years before Trump announced his White House bid. Though Facebook applied a warning label to at least one instance of the image and linked to an outside fact-check, other posts of the same image remain unlabeled on Facebook.
+
+Other false claims that received similar treatment included debunked assertions about mail-in ballots and speculation that liberals were responsible for Trump's Covid-19 infection. Some of the false posts were shared hundreds — or thousands — of times and received as many likes, comments or reactions.
+
+In each case, the new claims had been slightly tweaked. While Facebook applied a contextual label to one false claim on a purple background about extra postage being required for mail-in ballots, another identical claim ran against a blue background with no intervention from Facebook. The former received 14,000 shares; the latter received 20,000.
+
+In what Avaaz said was a particularly troubling example, dozens of claims have survived on Facebook that spread the incorrect belief that gargling saltwater is a treatment for coronavirus, an assertion Factcheck.org determined was false as early as March.
+
+The variants appeared to have avoided detection using various means. On some of the posts, the accompanying image had been cropped. On others, the text embedded in the graphic had been typed out in the post itself.
+
+Schott said the spread of misinformation on Facebook through this loophole reflects misinformation experts' vocal warnings that domestic, organic content — not ads or foreign influence — have become the primary information risk to the 2020 elections.
+
+"We had to make [Facebook] aware of it, which is interesting," he said. "It should be their job to find all those copies."

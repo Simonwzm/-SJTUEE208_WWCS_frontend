@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190709092707-marriott-fine-restricted.jpg?q=x_101,y_266,h_2136,w_3796,c_crop/w_800

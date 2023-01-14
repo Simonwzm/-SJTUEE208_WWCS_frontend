@@ -1,0 +1,57 @@
+hasn't commented publicly on its plans for the project, nicknamed Titan, so it's not clear exactly what will come of the effort. Some who follow the company think it could release a whole Apple-branded, electric, self-driving car . Others think it's more likely Apple will partner with existing automakers to sell an operating system (iDrive, maybe?), self-driving tools or other technology.
+
+There are some clues available, though. Apple holds a host of patents for car-related inventions that offer a peek at what an Apple car could look like. Patent documents filed with the US Patent and Trademark Office paint a picture — albeit a relatively vague one — of a luxury vehicle designed to be highly automated and user friendly.
+
+Here are a few of Apple's most interesting car-related patents.
+
+'Augmented virtual display'
+
+This invention could be a big one for Apple, making it easier for people to use their iPads, Macs or other devices while riding in a car, especially a self-driving one, without getting car sick.
+
+The patent describes a virtual reality system that would help prevent passenger motion sickness by providing "augmented or virtual" displays correspondent with physical motions the passenger is experiencing.
+
+In one example, the system could project content a passenger wants to view, such as a book, as virtual content outside and at a distance from the car. In this way, a passenger could read the page as a fixed object in the external environment while still seeing visual cues about the car's movements, allowing them to "work, view, or read in comfort without experiencing motion sickness as may occur if the passenger was trying to work or view the content on a physical screen on a portable computing device sitting on their lap," the patent states.
+
+"Thus ... the VR system may aid in productivity, as passengers in vehicles may more comfortably perform work while riding in the vehicle," it says.
+
+What's more, it notes that VR experiences in a moving vehicle could provide "enhanced immersive virtual experiences" to passengers that aren't possible from, say, a VR entertainment system in one room of your home.
+
+'Climate control'
+
+This invention reads basically like a mostly automated climate control system for your car.
+
+It uses sensors inside and outside a vehicle, in addition to other potential inputs, to measure such data as the temperature of car seats or certain passenger body parts, or the amount of sunlight radiating onto a window or sunroof. That information can be used by the climate control system to create a comfortable environment inside the car for passengers.
+
+The system is also designed to communicate with wireless user devices to access information such as "user health data, user activity, user preferences" to further inform the ideal climate inside the car.
+
+Based on the description, a car with this technology might be able to sense, based on the temperature of the leather seats and other data, that it's a hot day outside. And it might know, by communicating with your iPhone, that you just went on a run. Thus, it could automatically adjust the climate settings in the car to help cool you off.
+
+'System and method for dynamic privacy and window tinting'
+
+Conventional car windows can't adapt the amount of light they let through to factors like who is riding in the vehicle, what they're doing or what the weather is like outside, this patent notes, and therefore would "benefit from many improvements."
+
+The invention described in this patent is a tinted film covering on the exterior of a vehicle that adjusts based on data from various sensors, as well as "explicit" and "implicit requests or commands for tinting."
+
+For example, at nighttime, the system could automatically lessen the tinting level so a vehicle passenger could see light through the window, such as from streetlights and other cars. But if the passenger closed their eyes, it could darken the tint to make sleeping more comfortable, according to the patent.
+
+"As an additional example," the patent states, "an occupant of the vehicle may place packages in a rear zone of the vehicle. The tinting system of the vehicle may automatically adjust the tint of the adjustable exterior facing surface to prevent others from viewing the packages."
+
+While the invention is discussed in the context of a vehicle, the patent adds that it could also be used for privacy and tinting in other environments, such as residential or commercial buildings.
+
+"Method for locating a vehicle"
+
+This invention could help prevent the minutes (hours?) of wandering the parking garage when you forget where you left your car.
+
+It's a method whereby your "portable computing device" — say, your iPhone — could communicate with either your car or the parking structure using a wireless connection like Bluetooth to help locate your vehicle. The location is determined using sensors on the car and in a parking garage.
+
+One of Apple's car-related patents describes an invention wherein a wireless connection between your car and phone could help you locate your car in a parking structure.
+
+In some cases, other information could be provided in addition to or instead of location data, including payment information such as "rates to be charged for parking, where and how to pay, and/or how much is owed depending on the particular parking location and duration of parking," the patent states.
+
+'Charging station with passive alignment mechanism'
+
+Most of us are familiar with the annoyance of having to get out of the car to get gas when it's raining, cold or dark outside. What if, with an electric vehicle, you didn't have to exit the car to plug it in? That's what Apple's aiming to enable with this invention.
+
+"Exiting a vehicle to connect (it) to a charging station may be inconvenient for the operator," the patent states. It adds that cars that need to be manually plugged in wouldn't be able to be charged without a human operator present, an issue the company apparently also wants to address.
+
+With this tool, an electric car could auto-connect to a charging station without human help after being parked next to the charger (either by a driver or with its self-driving capabilities). The charger also has an optional mechanism for adjusting its height, to ensure the plug can reach the car's charging port.

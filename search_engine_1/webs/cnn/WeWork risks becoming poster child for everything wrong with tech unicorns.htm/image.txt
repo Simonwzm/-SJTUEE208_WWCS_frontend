@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190913160937-01-wework-file.jpg?q=x_63,y_221,h_1622,w_2882,c_crop/w_800

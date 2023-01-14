@@ -1,0 +1,61 @@
+(CNN) The groundbreaking lawsuits filed against Facebook on Wednesday by state and federal officials represent the gravest regulatory threat the social media giant has ever faced.
+
+The suits threaten to remake Facebook's social media empire by carving out two of its most popular applications, Instagram and WhatsApp, each with well over a billion users. Facebook has responded by vowing a lengthy court fight — and accusing regulators of flip-flopping on the acquisitions years after they approved them.
+
+The coming showdown is the culmination of years of criticism by lawmakers, publishers and other groups that have blasted Facebook for the ways it's disrupted society. What's potentially on trial may not only be the future of Facebook, but the power of government enforcers to hold businesses of all kinds accountable in a digital age.
+
+"If the case is successful, it would dramatically alter how competition in the social network space works," said Michael Kades, an antitrust expert at the Washington Center for Equitable Growth, an economic think tank.
+
+But despite the historic legal battle now getting underway, the outcome is far from clear. Government prosecutors must first prove their case in an uphill battle that may well take years to resolve. And even if Facebook is found guilty of violating the law, and even if the courts decide a breakup is warranted, that may still not be enough to address all of Facebook's problems, such as its role in facilitating misinformation and conspiracy theories, according to legal experts and consumer advocates.
+
+In short, don't expect much to change anytime soon.
+
+A tough case
+
+State officials and the Federal Trade Commission face a difficult task in court. They must show not only that Facebook enjoys monopoly power, but also that the company has abused that dominance in ways that have demonstrably hurt competition or consumers.
+
+The lawsuits' key claim is that Facebook harmed competition by identifying potential rivals, then buying them out before they had a chance to threaten its monopoly. The suits argue that Facebook's alleged market power has resulted in reduced choice for consumers and less innovation in the marketplace.
+
+The complaints offer detailed evidence of Facebook's alleged misconduct, including communications involving and about company executives. But that's not the only thing the governments will need to show.
+
+Any judge hearing the case will likely want to know what would have happened if Facebook never acquired Instagram or WhatsApp, legal experts say. And selling judges on the plausibility of a future that never occurred is the hard part.
+
+"You have to create an alternative world in which Instagram was not acquired by Facebook and that Instagram grew and prospered," said William Kovacic, a former chairman of the Federal Trade Commission. "Facebook is going to say, one, 'How do we know that's what would've happened?' and two, 'Let's focus on what has happened because we bought them.'"
+
+Facebook is already gearing up for that argument. In a statement Wednesday responding to the suits, the company said it has invested "billions of dollars and millions of hours" to make WhatsApp and Instagram into even more valuable services than they were when Facebook acquired them.
+
+"We believed these companies would be a great benefit to our Facebook users and that we could help transform them into something even better. And we did," Facebook said. "People around the world choose to use our products not because they have to, but because we make their lives better."
+
+A skeptical court may also ask the FTC why it's reversing itself on allowing Facebook to acquire WhatsApp and Instagram. Facebook has complained that the suits represent a kind of regulatory buyers' remorse, and that the government unfairly seeks a "do-over." The burden will be on the government to explain why it changed its mind.
+
+FTC Chairman Joe Simons has argued that reviewing completed mergers is not just something regulators are legally entitled to do, but something they must do. In September, he expanded the agency's efforts to look back at past mergers as a way to gauge law enforcement's performance.
+
+"Merger retrospectives are a powerful way of engaging in critical self-examination to see if our antitrust enforcement is working correctly," Simons said then.
+
+Don't bet on a breakup
+
+Even if a court agrees that Facebook violated antitrust law, that doesn't necessarily mean that a breakup is inevitable. It's simply one of many possible outcomes, and the final decision rests with the courts.
+
+Assuming a judge finds that Facebook acted illegally, they could decide to impose restrictions on Facebook's behavior, such as requiring it to notify the government of every single future merger. They could order some sort of regulatory regime that forces Facebook to handle user data differently. And yes, Facebook could be ordered to divest some of its assets, including WhatsApp or Instagram but also any number of the other acquisitions it's made over the years.
+
+For consumers, a newly independent WhatsApp or Instagram may be the biggest change. The companies would no longer be controlled by Facebook CEO Mark Zuckerberg, meaning that everything from the user interface to the underlying technology could be altered by a different owner.
+
+But forced divestitures may not provide the kind of clean break many advocates are imagining, said Geoffrey Manne, president of the International Center for Law and Economics, a think tank.
+
+The FTC's complaint asks courts to mandate that Facebook provide, if necessary, "support or services from Facebook" to ensure that independent apps can survive. It's not obvious what mechanisms this could include, but the request itself recognizes the enormous amount of power Facebook may continue to have even after the proposed remedy is applied.
+
+"It sort of defeats the purpose," Manne said, "and it doesn't do what most critics would like, because it virtually ensures that every social media company looks like every other."
+
+The company could also theoretically end the litigation through a settlement, which is ultimately how the US government's landmark case against Microsoft in the 2000s came to a close.
+
+Facebook's biggest problems may be here to stay
+
+There is much that these lawsuits may not solve. The misinformation and hate speech that social media platforms have played a role in normalizing do not fall under the purview of antitrust law, for example. And critics of the suits say that breaking off Instagram and WhatsApp from Facebook won't change the underlying market dynamics that drive the social media industry, and that pose the ultimate problem.
+
+In order to be relevant, social media platforms need to have scale; to achieve scale, they need more users than any other platform. And they need to keep their users engaged — or risk losing them to rivals. This winner-take-all mentality, some critics say, is what encourages companies to favor revenue and growth over user experience and the public interest, at least when the two come into tension.
+
+"Facebook's surveillance capitalist business model is fundamentally incompatible with democracy and human rights," said Evan Greer, deputy director of Fight for the Future, a consumer advocacy group. " Antitrust enforcement is an important first step in mitigating that harm, but it can't be the last step."
+
+The state suit does try something new, however: In a rare move for antitrust cases, prosecutors allege that Facebook's conduct led to a loss of consumers' privacy. Through Facebook's collection and use of personal data, the states argue, consumers were harmed.
+
+Historically, antitrust law has not been used to go after privacy misconduct. If the argument proves persuasive, it could set a whole new precedent for antitrust enforcement.

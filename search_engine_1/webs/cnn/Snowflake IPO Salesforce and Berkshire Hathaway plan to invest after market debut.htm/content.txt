@@ -1,0 +1,21 @@
+Hong Kong CNN Business —
+
+Cloud computing firm Snowflake has just won itself two big-name backers on its road to go public: Berkshire Hathaway (BRKA) and Salesforce (CRM).
+
+The San Mateo, California-based firm said in a regulatory filing Tuesday that it had secured commitments from the two US companies to invest once it goes public on the New York Stock Exchange.
+
+Snowflake filed for its initial public offering in August. This week it disclosed to the Securities and Exchange Commission that Warren Buffett and Marc Benioff’s firms would each buy $250 million worth of stock in a private placement immediately after its market debut. The company noted that the investments were “contingent upon the completion of this offering.”
+
+The news could drum up more excitement for the planned IPO, for which the company already has lofty ambitions. Snowflake said in its prospectus Tuesday that it plans to sell 28 million shares, with the option to release 4.2 million additional shares, at somewhere between $75 and $85 apiece.
+
+The top end of that range would value the eight-year-old company at almost $23.7 billion — almost double its previous valuation in February of more than $12.4 billion.
+
+The company plans to raise up to $2.7 billion altogether, including the proceeds from its private investors, assuming a midway point of $80 per share, it said. That could rise to $3 billion if the underwriters exercise their option on the additional shares.
+
+That would make it one of the world’s biggest tech IPOs of the year, according to Dealogic. That doesn’t include secondary listings, such as those of NetEase or JD.com, which have raised more, the research firm noted.
+
+Snowflake was founded in 2012 as a “data warehouse built for the cloud,” and counts major enterprise software providers such as Google Cloud, Amazon Web Services and Microsoft Azure as partners.
+
+The firm now has more 2,000 employees in more than a dozen locations around the world, including the United States, Europe and Asia.
+
+The company plans to start trading in New York under ticker symbol “SNOW.”

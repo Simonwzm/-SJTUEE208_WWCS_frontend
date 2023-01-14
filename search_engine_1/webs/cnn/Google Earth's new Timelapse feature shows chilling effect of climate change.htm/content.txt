@@ -1,0 +1,9 @@
+(CNN Business) Google Earth users can now see the striking effect of climate change over the past four decades.
+
+Google's latest feature, Timelapse, is an eye opening, technical feat that provides visual evidence of how the Earth has changed due to climate change and human behavior. The tool takes the platform's static imagery and turns it into a dynamic 4D experience, allowing users to click through timelapses that highlight melting ice caps, receding glaciers, massive urban growth and wildfires' impact on agriculture.
+
+To explore Timelapse in Google Earth, users can type any location into the search bar to see it in motion, whether it's a landmark or the neighborhood in which they grew up. Google said it removed elements such as clouds and shadows from the images, and computed a single pixel for every location on Earth for every year since 1984; ultimatel stitching them together into a timelapse video.
+
+For example, it's possible to see the Cape Cod coast slowly shifting south, agriculture growth in the middle of a desert in Al Jowf, Saudi Arabia, and the development of Songdo beach, a man-made beach in Busan, South Korea.
+
+Read More

@@ -1,0 +1,33 @@
+(CNN Business) When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new site hopes to raise awareness of this issue by offering a rare window into how a fraction of our pictures are used.
+
+Training a facial-recognition system to identify people requires a slew of photos of faces — photos that are often gathered from the internet. It's usually impossible to figure out if images you've uploaded are among them.
+
+"It's easiest to understand when it becomes more personal," said Adam Harvey, an artist and researcher, who created the site with fellow artist and programmer Jules LaPlace, and in collaboration with the non-profit Surveillance Technology Oversight Project (STOP). "Sometimes it helps to have visual proof."
+
+The tip of the iceberg
+
+To use the site, you must type in your Flickr username, the URL of a specific Flickr photo, or a hashtag (such as "#wedding") to find out whether your photos are included. If photos are found, Exposing.ai will show you a thumbnail of each, along with the month and year that they were posted to your Flickr account and the number of images that are in each dataset.
+
+A search of this author's Flickr username turned up nothing. However, a search for some common hashtags yielded tons of results, but for unknown people: "#wedding" returned more than 103,000 photos used in facial-recognition datasets, while searches for "#birthday" and "#party" yielded tens of thousands of included images, with children's faces in many of the first results.
+
+As Harvey is quick to point out, Exposing.ai examines just a smidgen of the facial data that's in use, as many companies don't publicly reveal how they obtained the data used to train their facial-recognition systems. "It's the tip of the iceberg," he said.
+
+For years researchers and companies have turned to the internet to collect and annotate photos of all kinds of objects — including many, many faces — in hopes of making computers better able to make sense of the world around them. This frequently includes using images from Flickr that carry Creative Commons licenses -- these are special kinds of copyright licenses that clearly state the terms under which such images and videos can be used and shared by others -- as well as pulling images from Google Image search, snagging them from public Instagram accounts or other methods (some legitimate, some perhaps not).
+
+Many of the resulting datasets are destined for academic work, such as training or testing a facial-recognition algorithm. But facial recognition is increasingly moving out of the labs and into the domain of big business, as companies such as Microsoft, Amazon, Facebook, and Google stake their futures on AI. Facial recognition software is becoming pervasive in its usage — by police, at airports, and even on smartphones and doorbells
+
+Amid a broader reckoning over the use of individuals' online data, datasets for training facial-recognition software have become a flash point for privacy concerns and a future where surveillance may be more commonplace. Facial-recognition systems themselves are also increasingly scrutinized for concerns about their accuracy and underlying racial bias due, in part, to the data on which they were trained.
+
+More datasets coming soon
+
+Harvey initially planned to use facial-recognition technology to let you search for your own photos, but then realized it could surface photos of other folks that simply look similar to you. A text-based search of things like Flickr usernames and hashtags may be "less impressive" to people, he said, but it's a more surefire way of showing whether or not your photos are included in datasets.
+
+Harvey now plans to add two dozen datasets of faces gathered from the internet to Exposing.ai this year, including the Flickr-Faces-HQ dataset compiled by Nvidia and used to train AI to create extremely realistic-looking fake faces . (Nvidia offers an online tool to check whether your photos are in that dataset, but it doesn't search any additional datasets.) This will take some time, notes Liz O'Sullivan, technology director at STOP, because there are so many of these datasets out there.
+
+It's unclear how people will react to learning more about how their photos are used. Casey Fiesler, an assistant professor at the University of Colorado Boulder who studies the ethics of using public data, has found that people have mixed responses to, say, learning their Twitter posts were used for research. They might be baffled, find it creepy, or not care at all. In the case of photos used for training facial-recognition systems, however, she suspects people won't know what to do with the revelation that their images have been included.
+
+"You see that your face is in there," she said. "Then what?"
+
+In many cases, there isn't much of an answer to this question. Harvey said he will add a form to Exposing.ai with information that can be used to request that a dataset author remove you from their list of images. But even if that can be done, he said anyone who has downloaded the dataset in the past is not going to take your photos out of their copy. Some datasets — such as MegaFace , which was released by University of Washington researchers in 2016 — are no longer being shared, but copies are already widely distributed. Harvey recommends that people who don't want their images used for facial-recognition training either take them offline or make them private.
+
+"There's no real best-case scenario," Harvey said. "There are only less-worse-case scenarios."

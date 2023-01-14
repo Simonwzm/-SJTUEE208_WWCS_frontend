@@ -1,0 +1,29 @@
+(CNN Business) The US government was rattled this week by a cyberattack that compromised a third-party software vendor's systems and led to data breaches at several federal agencies , including the Department of Commerce, the Department of Energy and the Department of Homeland Security's cyber arm.
+
+But the attack on SolarWinds, a firm that was far from a household name before, has also put many of the biggest companies in the country on alert.
+
+SolarWinds said in an investor filing this week that as many as 18,000 of its customers — out of a total of 300,000 — may have been running software containing the vulnerability that allowed the hackers to penetrate the Commerce Department. US officials suspect Russian-linked hackers are behind the breach.
+
+SolarWinds provides services to more than 425 companies in the US Fortune 500, it boasted on a page on its website that has since been taken down but remains accessible on the Wayback Machine internet archive.
+
+The firms listed on the page included big names such asand, as well as financial giantsand. A number of these firms told CNN Business that they are currently conducting investigations. At least two say they have been affected to some degree.
+
+A Cisco spokesperson told CNN Business on Friday that it had "identified and mitigated affected software in a small number of lab environments and a limited number of employee endpoints."
+
+"At this time, there is no known impact to Cisco offers or products," the spokesperson said. "We continue to investigate all aspects of this evolving situation with the highest priority."
+
+Microsoft also acknowledged that it was impacted by the hack.
+
+"Like other SolarWinds customers, we have been actively looking for indicators of this actor and can confirm that we detected malicious SolarWinds binaries in our environment, which we isolated and removed," a Microsoft spokesperson said in a statement, adding that the company had not found evidence that its services or customer data were accessed. "Our investigations, which are ongoing, have found absolutely no indications that our systems were used to attack others."
+
+Microsoft disclosed in a blog post Thursday that more than 40 of its customers across eight countries were running the software impacted by the hack, with 80% of them in the United States. Microsoft is working to notify the organizations affected, its president, Brad Smith, said in the post.
+
+"Every organization [and] company should be concerned because they must assume their networks are breached and the adversary is monitoring and observing their actions," Kiersten Todt, a former cybersecurity official in the Obama administration and managing director of the Cyber Readiness Institute, told CNN Business.
+
+"Companies will need to do clean-up similar to a hurricane," she added. "It is going to be expensive and extensive — companies are going to have to identify what has been breached and what, if anything, remained stable."
+
+Comcast said in a statement it is "conducting a thorough internal review" to investigate its systems for any sign of compromise, but doesn't have reason to believe its data has been compromised.
+
+Likewise, Visa conducted an internal review and said it was in the clear for now. "Security is paramount at Visa and we will continue to monitor the situation closely," the company said in a statement.
+
+AT&T, which owns CNN's parent company WarnerMedia, declined to comment. McDonald's and Mastercard did not immediately respond to requests for comment.

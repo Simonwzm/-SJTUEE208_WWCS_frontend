@@ -1,0 +1,83 @@
+New York CNN Business —
+
+In the last two years, Twitter has dealt with an activist investor, an egocentric figure with tens of millions of followers pushing the limits on its platform and an eccentric billionaire leader attempting to improve the product while juggling multiple companies.
+
+Now, Twitter appears to have all three at once, more or less, in one person: Elon Musk. The Tesla and SpaceX CEO sparked a deluge of headlines last week after disclosing that he’d become Twitter’s largest shareholder. A day later, the company said it would add him to its board of directors for a two-year term — a move Musk welcomed on Twitter. But the saga took another turn Sunday night, when Twitter CEO Parag Agrawal said in a tweet that Musk would not be joining the board after all.
+
+“We were excited to collaborate and clear about the risks,” Agrawal said, adding that Musk shared on Saturday morning, when his appointment to the board was set to be effective, that he would no longer be joining. “I believe this is for the best.”
+
+These stunning developments put Twitter, a company that is certainly no stranger to corporate chaos, in uncharted waters. The world’s richest man — who is known both for his ambitious and innovative spirit and for his erratic and trollish behavior — appears interested in shaking things up at the company, although his plans aren’t exactly clear. And the disclosure of his large stake in the company comes just as Twitter’s previously little-known (at least externally) new chief executive, Agrawal, attempts to come out from the shadow of Jack Dorsey, the platform’s founder and longtime public face. Dorsey, who handed over the CEO role in November and plans to exit Twitter’s board in May, said last week when the board announcement was made that Agrawal and Musk would “be an incredible team.”
+
+Almost immediately, the company was the subject of tremendous external speculation. This ranged from whether Musk — who’d previously suggested Twitter does not allow free enough speech and asked if a new, rival platform was necessary — would upend the social network’s content moderation policies, to whether he’d help restore former President Donald Trump’s account. Inside the company, the reaction appeared to be mixed; some employees on Twitter appeared to question what his presence would mean for Twitter’s health and safety work and raised concerns about insulting comments Musk has previously made on the platform, including about the trans community.
+
+It’s not clear exactly what Musk hopes to accomplish with his investment in Twitter. Musk has a massive Twitter following and a deep understanding of how to leverage the platform. Investors cheered his investment last week by sending Twitter’s shares surging. Shares edged higher in morning trading on Monday, suggesting the board seat was not crucial to his impact in the eyes of other investors.
+
+But corporate governance experts and tech industry watchers told CNN Business last week that Musk’s unorthodox approach to joining the company could create complications for the company and its new chief executive.
+
+“It almost seems the CEO was sort of demoted from handling strategic issues and now needs to consult not the chairman of the board, but a regular sitting director for advice on company strategy,” said Jason Schloetzer, an associate professor at Georgetown University’s McDonough School of Business.
+
+After Musk’s U-turn on joining Twitter’s board, the conversation shifted to whether he would try to buy up even more of the company’s shares. As part of his agreement to join the board, Musk said he would not acquire more than 14.9% of Twitter’s shares during his term, a move some experts said may have been a play by the company to rein in his influence. Now, that agreement is off the table, potentially opening the door for Musk to buy up more shares and take a more hostile stance toward the company — something that could also become a problem for Agrawal.
+
+Agrawal said in his tweet Sunday night that the Twitter board had “believed that having Elon as a fiduciary of the company where he, like all board members, has to act in the best interests of the company and all our shareholders, was the best path forward.”
+
+In an investor note Monday, Wedbush analyst Dan Ives said Musk not joining the board “could lead to a host of scenarios including 1) joining up with a private equity partner and forcing major strategic changes at Twitter and/or a sale, 2) creating more noise and angst for Twitter Board/execs with various proposed platform changes, or 3) does Musk say ‘game over’ reduce his stake and go home. In our opinion its likely paths 1 or 2.”
+
+Twitter confirmed that Musk would no longer be joining the board and pointed to Agrawal’s Sunday statement, and otherwise declined to comment for this story.
+
+Chaos for a new CEO
+
+When Dorsey made the surprise decision to step down as CEO in late November, it left Agrawal, a decade-long veteran of the company, holding the reins at a pivotal moment for Twitter. The company was looking to improve its digital advertising business amid broader privacy changes in the market. It was seeking to hit a lofty goal for user growth under pressure from an activist shareholder, after periods of stagnant or even declining user numbers. Like other tech companies, it was also confronting scrutiny from lawmakers and the public about its content moderation practices.
+
+Twitter, while a fraction of the size of rival platforms like Facebook and Instagram, has long had an outsized importance given its influence in media, politics and finance, among other areas. Agrawal himself appeared to allude to that impact when he was named CEO. In a memo to employees at the time, he wrote: “The world is watching us right now.”
+
+Musk may have been watching, too.
+
+“It makes sense — the founder is stepping away and the CEO is pretty new, that’s a good time for somebody to step in and try to effect some change,” Schloetzer said. But, he said, “the way that that is evolving is different than the way it would normally evolve if there was an activist [investor] who was getting involved.”
+
+Twitter's Parag Agrawal took over as CEO after Jack Dorsey's surprise exit from the role in November. Agrawal tweeted out this photo of him and Dorsey when the leadership change was announced. From Twitter
+
+Even if all had gone well with Musk on the board, and Agrawal and Musk were generally aligned on priorities, the latter’s involvement and public statements could have complicated Agrawal’s role as CEO. In the public eye, and perhaps even internally, Musk could have had the perception of being a shadow CEO of sorts. And he could also potentially have gotten credit for initiatives that were already underway under Agrawal’s leadership.
+
+Musk has in recent weeks, for example, hinted at his support for open source standards for Twitter, something Agrawal has already been working on at the company. Agrawal has been involved in the development of Bluesky — an effort born at Twitter to create open source, decentralized standards for social media — since its early days. In December 2019, when the project was announced, Agrawal said on Twitter that he would be responsible for finding the project’s lead.
+
+Musk also tweeted a poll on Monday, after his stake in the company was revealed, asking whether his followers wanted an edit button, a long-requested, if controversial, feature for the platform. And on Thursday, he tweeted a meme suggesting that ensuring Twitter gets an edit button would be part of the domino effect of his career. In fact, Twitter said on Tuesday it has been developing for the past year a feature that will allow users to edit their tweets and will be rolling it out to its paid subscription product Twitter Blue “in the coming months.”
+
+There were also big questions last week around what kind of working relationship Musk, who once tweeted a meme that equated Agrawal to former Soviet leader Joseph Stalin, would have had with the CEO. With his tweet about forming an “incredible team,” Dorsey on Tuesday raised questions about whether Musk would be directly involved in strategic operational decisions — an unusual role for a board member. Board members also typically act as a collective, rather than unilaterally, as advisers to executives, according to William Klepper, a management professor at Columbia Business School.
+
+Twitter in a statement this week tried to clarify that its board members do not make decisions about the platform’s rules or policies. “As always, our Board plays an important advisory and feedback role across the entirety of our service,” Twitter spokesperson Adrian Zamora said. “Our day to day operations and decisions are made by Twitter management and employees.”
+
+Now, it appears Musk will be weighing in simply as Twitter’s largest (potentially increasingly so, if some analysts’ predictions come to pass) shareholder, rather than as a board member. Agrawal said in his Sunday statement that “we have and will always value input from our shareholders whether they are on the Board or not.”
+
+“Elon is our biggest shareholder and we will remain open to his input,” he said.
+
+An activist investor?
+
+If Musk is attempting to play the role of an activist investor, he’s going about it in an unusual way.
+
+The Monday disclosure of his more than 9% ownership stake in Twitter came in the form of a Schedule 13G filing with the Securities and Exchange Commission, a form used for passive investors who don’t plan to push for changes at a company. That seemed to contradict his previous calls for changes at Twitter.
+
+Then on Tuesday, Twitter announced that Musk would be joining the board, Agrawal said the company had been in talks with Musk for “weeks,” and Musk said he looked forward to making “significant improvements” to the platform. Later that day, Musk filed the more detailed 13D form required of active investors.
+
+Musk’s approach has also differed from that of a typical activist investor, who would normally announce their intention to make changes at a company publicly, and lay out a clear argument for why a company is undervalued and a strategy for how to improve its financial trajectory.
+
+If Musk’s desire was, for example, to decentralize the platform (essentially, make it possible for other developers to build on top of it), as he has suggested, he might have laid out an estimate of what that change would be worth to the company. “You know, maybe all that has already occurred, but it hasn’t been laid out that way in the discussion so far,” Schlotzer said.
+
+Still, analysts have pointed to the potential for Musk’s influence at the company to be valuable. Musk is “clearly gifted when it comes to being able to come up with solutions for very big challenges,” D.A. Davidson analyst Tom Forte said.
+
+To be or not to be a board member?
+
+Musk has mostly served on the boards of his own companies, although he is also a director on the board of media conglomerate Endeavor and served on the board of solar installation company SolarCity Corporation before it was acquired by Tesla.
+
+If Musk had joined the Twitter board, the normal expectation would be that he bring his advice and suggestions for the platform to the management team privately, rather than sharing them on Twitter as he has done in the past, especially as he learned proprietary information about the company, Klepper said.
+
+Musk has a history of ending up in hot water with regulators over his activities on Twitter. In 2018, his tweets about potentially taking Tesla private resulted in a lawsuit from the SEC and a settlement requiring him to have certain tweets about the company pre-reviewed. (He’s now fighting that requirement.)
+
+The announcement that Musk would no longer join the board came after he posted a series of tweets about the company over the weekend, including one in which he suggested removing the “w” from “Twitter” — an apparent crude joke that has since been deleted — and another in which he asked if Twitter is “dying” because some of its most-followed accounts don’t often tweet.
+
+“In our opinion, the Twitter Board and Musk could not come to an agreement around Musk’s communications with the public (various polls) over Twitter as he likely needed to take a more back seat/quiet stance as part of joining the Board,” Ives said.
+
+A regulatory filing Monday about Musk’s plan not to join the Twitter board noted that he may now “express his views” to Twitter’s board management team and the public “through social media or other channels with respect to the [Twitter’s] business, products and service offerings.”
+
+Musk’s decision not to join the board means more uncertainty — and potentially chaos — for Agrawal that could put a stain on his leadership early in this tenure or upend his strategic goals for the company. In his message Sunday, the CEO appeared to acknowledge as much, but tried to rally employees.
+
+“There will be distractions ahead, but our goals and priorities remain unchanged,” Agrawal said. “The decisions we make and how we execute is in our hands, and no one else’s. Let’s tune out the noise and stay focused on the work and what we are building.”

@@ -1,0 +1,91 @@
+Hong Kong CNN Business —
+
+TikTok’s hiring of Disney veteran Kevin Mayer was widely seen as a move — at least in part — to win over the growing number of US lawmakers who claim the popular short video platform is a threat to America’s national security.
+
+But analysts say that poaching an executive from an iconic American company likely won’t be enough to reassure Washington, especially as the coronavirus pandemic revives long-simmering US-China tensions.
+
+Rather than quell concerns that the app could aid Chinese spies, the news this week that Mayer will become the CEO of TikTok — owned by Beijing-based startup Bytedance — instead sparked a fresh round of calls for even tougher scrutiny.
+
+TikTok “previously told me they couldn’t attend hearings and testify because executives were located in #China,” Republican Sen. Josh Hawley of Missouri tweeted. “But this new executive lives in the USA. I look forward to hearing from him. Under oath.”
+
+National security concerns
+
+ByteDance was founded by Zhang Yiming, a 37-year-old tech entrepreneur and former Microsoft (MSFT) employee. People who have worked with Zhang describe him as someone who thinks deeply about technology and spends much of his free time writing code. The company’s name refers to 0s and 1s dancing together to form a byte, the binary code used by computers.
+
+Hawley and other lawmakers have called TikTok a threat to national security because of its ties to China, and have claimed that the company could be compelled to “support and cooperate with intelligence work controlled by the Chinese Communist Party.”
+
+TikTok has said that it operates separately from ByteDance. It says its data centers are located entirely outside of China, and that none of that data is subject to Chinese law. US user data is stored in the United States, with a backup in Singapore, according to TikTok.
+
+“While we think the [national security] concerns are unfounded, we understand them and are continuing to further strengthen our safeguards while increasing our dialogue with lawmakers,” a TikTok spokesperson told CNN Business.
+
+The company also says it has formed a “Transparency Center” in Los Angeles, which will allow third party experts to look into TikTok’s source code, along with the company’s work on data privacy, security and content moderation.
+
+In addition to his role at TikTok, Mayer will also serve as chief operating officer of ByteDance. He “will be charged with driving the global development of ByteDance, as well as overseeing corporate functions including corporate development, sales, marketing, public affairs, security, moderation, and legal,” the company said in a press release on Tuesday.
+
+But if ByteDance was hoping Mayer could smooth things over with Hawley and his colleagues, experts say the company will be disappointed.
+
+“TikTok will always be considered a threat, no matter who is at the helm, because of what it represents: the emergence of Chinese tech-ecosystems,” said Abishur Prakash, co-founder of Center for Innovating the Future, a consulting firm that works on technology and geopolitics.
+
+Until now, American companies have dominated when it comes to cloud computing, social media and artificial intelligence, said Prakash.
+
+“Now, Chinese firms, like TikTok, are creating their own alternatives, building a new kind of geopolitical footprint for China,” he said.
+
+An explosion of popularity, followed by controversy
+
+TikTok has exploded in popularity in the United States and other western countries, becoming the first Chinese social media platform to gain traction with users outside of its home country. It was downloaded 315 million times in the first three months of this year, more quarterly downloads than any other app in history, according to analytics company Sensor Tower.
+
+TikTok is an endless scroll of short videos. Many of them feature users showing off their best dance moves — or most cringe-worthy ones — to 15-second snippets of music. Big US brands such as the NBA, Ralph Lauren (RL), and Chipotle (CMG) have sponsored dance challenges or cartoon filters on the app. And it’s beginning to grow beyond its teenage base and attract Instagram influencers.
+
+It hardly seems like the kind of content that would alarm US lawmakers.
+
+But social media platforms such as TikTok, Facebook (FB) and Twitter (TWTR) are always under scrutiny, said Jeffrey Towson, a private equity investor and former professor of investment at Peking University.
+
+“The business they’re in has become politically and culturally sensitive. Forever,” he said.
+
+In the United States, TikTok has been accused by users and lawmakers of censoring content related to mass protests that caused havoc in Hong Kong for most of last year. It also ran into controversy after a US teenager claimed TikTok suspended her account — an accusation the company denied — when she posted a video criticizing the Chinese government and its detention centers, which hold mostly Muslim Uyghurs in the region of Xinjiang.
+
+The US military last year banned the use of TikTok by its soldiers, calling it a security threat. Military employees were ordered to uninstall TikTok “to circumvent any exposure of personal information.”
+
+TikTok has repeatedly said that it does not moderate content due to political sensitivities. In addition to storing data outside of China, the company has also said that it has a “dedicated technical team focused on adhering to robust cybersecurity policies, and data privacy and security practices.”
+
+The suspicion from US lawmakers, though, could be damaging for TikTok.
+
+Florida Republican Sen. Marco Rubio, for example, has called on the Committee on Foreign Investment in the United States, or CFIUS, to review TikTok’s acquisition of rival app Musical.ly — a deal that helped add millions of users to its platform.
+
+Such an investigation could be a blow to TikTok, because CFIUS has the authority to retroactively review foreign acquisitions of US businesses and force a company to divest its interests.
+
+That has happened before. Last year, Chinese company Beijing Kunlun Tech was forced to sell its majority stake in dating app Grindr after a CFIUS review. A US company acquired the app in March.
+
+Distancing itself from China
+
+TikTok has been trying to separate itself from China and its Beijing-based parent company.
+
+Its main office is in Los Angeles County, and it has offices in London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo. TikTok is also not available in China, although another Bytedance app — Douyin — is similar and they share the same logo and branding.
+
+A TikTok spokesperson told CNN in an interview earlier this year that it is managed separately from other ByteDance apps, and owned by an entity outside of China.
+
+The homepage of ByteDance’s website includes a graph illustrating the company’s corporate structure. It shows several businesses falling under larger entities listed in the Cayman Islands, the United States and Hong Kong.
+
+Towson called TikTok’s use of legal structures to distance itself from mainland China and its parent company “nonsense.”
+
+Tech founders and CEOs are responsible for their companies, much like when Facebook or any of its apps are criticized by officials, Mark Zuckerberg often comes under scrutiny, said Towson.
+
+Likewise with Zhang, the founder and CEO of ByteDance.
+
+“He owns it, full stop. Legalese is not going to change that,” said Towson.
+
+A tense political climate
+
+The other problem for TikTok is the current political climate: US-China relations are reaching new lows.
+
+Washington last week pushed for a new crackdown on telecom equipment and smartphone maker Huawei by moving to further restrict its ability to work with US companies. The Global Times, a combative state-run media tabloid in China, hinted that Beijing could soon retaliate with a long-rumored blacklist of foreign companies.
+
+And President Donald Trump -— who has claimed, without providing evidence, that the coronavirus originated in a laboratory in Wuhan, China — could hit the country with more tariffs as punishment for the pandemic.
+
+Against that backdrop, hiring Mayer or any other American wouldn’t be enough, according to Prakash.
+
+“Hiring a local is part of an age old playbook. And, while it might have worked in the past, it won’t for TikTok,” he said.
+
+Because technology is driving geopolitics, Prakash added, the United States will be eyeing Chinese technology firms with increasing scrutiny.
+
+“Who is in the leadership position won’t change the fact that TikTok is going to be in the crosshairs of the US government,” he said.

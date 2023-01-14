@@ -1,0 +1,63 @@
+Washington CNN Business —
+
+The short-form video app TikTok has quickly become a key part of popular culture in the US, serving as a platform for viral memes as well as political satire and activism. Facebook, the dominant force in social media, has tried to copy the app, but so far that has not slowed down its rapid rise.
+
+But now TikTok faces the most direct threat to its expansion in the US – not from a competitor, but from the US government. President Donald Trump said Tuesday his administration is “looking at” banning the app, which is owned by the Chinese company ByteDance, affirming remarks on Monday by Secretary of State Mike Pompeo.
+
+It’s just the latest, and most high-profile, example of Washington raising alarms about the app that’s popular among younger users in the US, where TikTok has been downloaded 165 million times. Other prominent critics have previously highlighted TikTok as a potential spying threat. Last year, Senate Minority Leader Chuck Schumer and Arkansas Republican Sen. Tom Cotton called for the intelligence community to assess the risk TikTok may pose to national security.
+
+TikTok has pushed back on those claims, calling them “unfounded.” To underscore its independence from China, TikTok has cited its recently hired American CEO, and said it has “never provided user data to the Chinese government, nor would we do so if asked.”
+
+The US is not alone in seeking to clamp down on TikTok. India said this week it would ban TikTok and other Chinese apps after a bloody border clash between Indian and Chinese soldiers.
+
+Although leaders like Pompeo have described TikTok as a clear and present danger, many in the cybersecurity community say the reality is more complex. While TikTok could become a clear threat to US security under certain scenarios, they say, the danger is currently largely hypothetical or indirect. Some analysts also say the matter is complicated by Trump’s aggressive approach to China overall — arguing the situation is a reflection of the administration’s political priorities. Experts have raised similar concerns about Trump’s approach to Huawei, the Chinese tech giant, saying Trump has inappropriately conflated national security with trade negotiations.
+
+“The Trump administration has taken almost like a whack-a-mole approach to dealing with these issues, because it seems that as soon as a Chinese company is in the news, all of a sudden that becomes the new target,” said Justin Sherman, a fellow with the Cyber Statecraft Initiative at the Atlantic Council. “It seems very unlikely that there is thinking going on about the longer term strategy, and much more likely that the focus instead is on this politically motivated attack on an application because it’s a Chinese-owned app, even if there are real security questions.”
+
+The China question
+
+To understand why policymakers view TikTok as a risk, it helps to know how the company works. TikTok is owned by the world’s most valuable startup, a Chinese company named ByteDance. But TikTok does not operate in China and functions as an independent subsidiary.
+
+Policymakers’ chief worry is that ByteDance could be forced to hand over TikTok’s data on US users to the Chinese government, under the country’s national security laws. TikTok has said it stores American user data on US-based servers that aren’t subject to Chinese law; skeptics argue TikTok’s parent, ByteDance, is ultimately a Chinese business that’s still beholden to Beijing.
+
+But several security experts told CNN Business that, although TikTok’s links to a private Chinese company are worthy of concern, the app simply wouldn’t be that useful for espionage.
+
+“It’s right to be suspicious of the Chinese,” said James Lewis, senior vice president at the Center for Strategic and International Studies, a security think tank. “But I’m not sure TikTok is a good intelligence tool for them.”
+
+Like some other social media apps and technology companies, TikTok automatically gathers users’ geolocation information, IP addresses, unique device identifiers and the content of in-app messages, according to its privacy policy. That is a lot of data, but far more sensitive information – and potentially more damaging to national security – was exposed by data breaches affecting the Office of Personnel Management, announced in 2015, and Equifax, disclosed in 2017, according to Lewis.
+
+Even if TikTok collected enough of the right kind of data from the right people to pose a unique threat, it is not guaranteed the Chinese government would be able to access it easily. China’s national security laws contain more gray areas than many realize, according to Samm Sacks, a senior fellow at Yale Law School who has studied the Chinese laws. Chinese companies have successfully resisted or thrown up roadblocks to Beijing’s demands for data in the past, Sacks told lawmakers at a Senate hearing in March.
+
+“The Chinese government does not necessarily have unfettered real-time access to all companies’ data,” Sacks said in her testimony. “Chinese corporate actors are not synonymous with the Chinese government or the Chinese Communist Party, and have their own commercial interests to protect.”
+
+Concerning security flaws
+
+An alarming technical report about TikTok this year has only added to the concerns about its security, though experts say there is an important distinction between identifying individual security gaps and labeling something a threat to national security.
+
+In January, a team of security researchers announced they had found several vulnerabilities in TikTok. The flaws, if left unpatched, could have let attackers gain control of TikTok accounts, change the privacy settings on TikTok videos, upload videos without permission, and obtain user data such as email addresses.
+
+The discovery raised important questions about TikTok’s ability to safeguard user privacy. But company engineers appeared to operate in good faith, according to Oded Vanunu, a security specialist at Check Point Research, who led the group of researchers that announced the findings. TikTok, he said, seemed motivated to fix the flaws.
+
+“They were concerned about the optics of it, and their PR people, there was some friction there,” said Vanunu. “But from our perspective they were very happy to get this kind of information and were happy to cooperate.”
+
+Asked whether the vulnerabilities he found might lend credence to claims TikTok cannot be trusted, Vanunu said security flaws are something that all software companies grapple with, even large ones. The difference, he said, is that TikTok is a relatively young and inexperienced company.
+
+“TikTok is committed to protecting user data,” TikTok said in a statement at the time of the disclosure. “Like many organizations, we encourage responsible security researchers to privately disclose zero day vulnerabilities to us.”
+
+The bigger concern with TikTok
+
+Even as technical experts describe TikTok’s espionage risk in mostly theoretical terms, policymakers argue TikTok could still threaten US interests in softer ways — by influencing the global conversation on its platform. And in this respect, some experts warn, the danger is already being felt.
+
+TikTok has faced mounting criticism, for example, over its handling of content that’s critical of the Chinese government. Last year The Guardian reported on leaked documents that it said instructed moderators to clamp down on critiques of socialism and Tiananmen Square. ByteDance told The Guardian at the time that those guidelines were outdated.
+
+In November, allegations of politically motivated censorship increased when several former US employees of TikTok told The Washington Post they often felt pressured to clamp down on videos that their colleagues in Beijing found subversive, prompting Schumer and Cotton to express concerns in their letter to intelligence officials.
+
+TikTok has said that its content and moderation policies are developed by a team of American employees and that the policies are not influenced by any foreign government. TikTok’s investors include large international names such as Sequoia Capital and Softbank, and in May, the company hired Kevin Mayer, a former Disney executive, as its CEO.
+
+In addition to restricting some speech, TikTok could become a major platform for misleading speech, policymakers and security experts fear. Reports have already found Pizzagate conspiracy theorists on the platform and users spreading false claims about the coronavirus. And if TikTok were to suffer a data breach, said Vanunu, it might be that much easier to target users with bogus information that could undercut American democracy.
+
+So TikTok’s handling of content and user data could plausibly weaken US power and influence, experts say, but more abstractly than directly spying on government officials or monitoring troop movements.
+
+That says more about the US’s lack of policies regulating data, privacy and platforms than it does about TikTok, many of them said.
+
+“I think people are blending a lot of different values here related to human rights, privacy, censorship — and it’s at risk of getting bundled into a security argument,” said Karl Grindal, a cybersecurity expert at Georgia Tech.

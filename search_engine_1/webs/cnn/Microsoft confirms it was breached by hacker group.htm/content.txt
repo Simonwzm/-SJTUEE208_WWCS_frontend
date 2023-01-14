@@ -1,0 +1,19 @@
+Washington (CNN Business) Microsoft ( MSFT ) has confirmed it was breached by the hacker group Lapsus$, adding to the cyber gang's growing list of victims.
+
+In a blog post late Tuesday, Microsoft said Lapsus$ had compromised one of its accounts, resulting in "limited access" to company systems but not the data of any Microsoft customers.
+
+"Our cybersecurity response teams quickly engaged to remediate the compromised account and prevent further activity," Microsoft said in the post.
+
+The disclosure comes after Lapsus$ claimed credit for compromising Okta, the widely used digital identity management firm. On Tuesday evening, following an investigation into those claims, Okta acknowledged that hundreds of its customers may have been affected by a breach in January linked to one of Okta's outside contractors.
+
+Addressing claims by Lapsus$ that the group had stolen Microsoft source code, the technology giant said Tuesday that Microsoft's approach to risk management means the possession of the code would not benefit the hackers even if they had managed to access it.
+
+"Microsoft does not rely on the secrecy of code as a security measure and viewing source code does not lead to elevation of risk," Microsoft said.
+
+Microsoft added that the techniques Lapsus$ used in the attack on company systems were consistent with those Microsoft has observed the group using against other targets.
+
+In the past, Microsoft said, Lapsus$ has sought to steal individual user credentials to gain access to an organization or corporate network. Then, the group would comb through office collaboration tools such as SharePoint, Teams and Slack to discover other users on the network whose accounts could be targeted to deepen the compromise.
+
+Lapsus$ has even been known to listen in on victims' conference calls to discuss the breach response, according to Microsoft.
+
+Microsoft described Lapsus$ as having a sophisticated grasp of technology supply chains, understanding how to use one organization's relationships or reliance on another to its advantage. In addition to tech, telecom and IT support firms, Lapsus$ has "also been observed targeting government entities, manufacturing, higher education, energy, retailers, and healthcare," Microsoft said.

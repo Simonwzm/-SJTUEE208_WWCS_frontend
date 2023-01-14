@@ -1,0 +1,47 @@
+New York (CNN Business) Facebook rattled investors on Wednesday by posting a rare profit decline, driven by the company's heavy spending on its vision for a so-called metaverse while simultaneously confronting advertising challenges on its existing services.
+
+The company, formerly known as Facebook, posted net income of nearly $10.3 billion in the final three months of last year, a decline 8% from the same period in the prior year and below Wall Street analysts' projections.
+
+The profit decline comes asinvests heavily into the VR and AR technologies it believes will help build the metaverse , a so-far-just-conceptual immersive form of the internet that CEO Mark Zuckerberg has identified as the company's future. At the same time, Meta is combating a change to Apple's iOS that has weighed heavily its core advertising business.
+
+Meta's shares plunged as much as 23% in after-hours trading following the report.
+
+Meta posted a more than $10 billion loss for the year in its AR and VR unit, Reality Labs, the first time it has reported financials for the unit. CFO Dave Wehner had previously warned that investments in Reality Labs would reduce the company's overall operating profit in 2021 by about $10 billion. The unit brought in only $2.3 billion in revenue during the year.
+
+"Investors will look at these numbers closely as a first indicator of how far off the Metaverse is from being a profitable reality," Tom Johnson, global chief digital officer at media agency Mindshare Worldwide, said in emailed commentary.
+
+Meta reported slowing growth in its core advertising business, which still makes up around 99.5% of its total revenue. Advertising revenue grew 20% year-over-year — its slowest growth rate for the year — to $32.6 billion, as the iOS changes made targeted advertising more difficult. The company also failed to grow its daily or monthly active user bases on Facebook from the third quarter, an unusual miss for the company.
+
+The company's total revenue for the year hit nearly $118 billion, the first time its annual revenue has surpassed $100 billion.
+
+Meta also shared a rough forecast for the upcoming quarter, saying it expects revenue to grow only between 3% and 11% due to "headwinds to both impression and price growth" in its advertising business. It added that its platforms face increased competition for people's time.
+
+The disappointing results also come after months of critical news coverage and hearings with lawmakers related to the Facebook Papers , a string of recent high-profile executive exits , and amid conversations by regulators about how to crack down on the tech giant.
+
+In the full-year 2022, "Meta may only generate single-digit revenue growth," Third Bridge global sector lead Scott Kessler said in an email. "And that's before any further legal and regulatory developments and actions. It seems that many [investors] are re-evaluating in real-time."
+
+Meta's advertising problems
+
+Meta executives primarily blamed Apple's changes to iOS, which have made it harder to both target ad campaigns and measure their performance, for its ad business challenges. Facebook COO Sheryl Sandberg said in a call with analysts Wednesday that Meta has improved its ability to measure ad performance since the changes, but mostly for large clients. Meta relies heavily on ads from countless smaller and medium-sized businesses.
+
+Meta CFO Dave Wehner said inflation and supply chain disruptions are also negatively affecting advertisers' budgets.
+
+Facebook is struggling with user growth, too, which has ripple effects for its advertising business because it means fewer people to show ads to. Among the reasons executives gave for stagnating user growth were competing services, especially among younger users.
+
+Meta's users are also shifting to engaging more with video products like Instagram Reels, which are harder to monetize than other products. Zuckerberg added that competition from rival TikTok, whose short form video product is more popular than Meta's, is weighing on the company's ability to monetize Reels.
+
+Meta breaks out Reality Labs
+
+After teasing that it would break out segment results for Reality Labs last year, investors got a first look at the unit's performance Wednesday.
+
+The significant operating loss was not unexpected. The company had previously said it planned to invest billions of dollars into building out its AR and VR capabilities. In October, Meta said it would hire 10,000 people in Europe to help bring its vision for the metaverse to life.
+
+The Reality Labs results also give a better sense of the overall size of the VR market than before, as Meta's Quest headsets make up the vast majority of the devices consumers are buying. Reality Labs' quarterly revenue hit $877 million during the December quarter.
+
+Until now, analysts' estimates based on tracking headset shipments gave the best indication of headset sales. Tech market researcher IDC had forecast shipments of 9.4 million VR headsets in 2021, 3.6 million of which were expected to ship during the holiday season, research manager Jitesh Ubrani told CNN Business in January. IDC believes the Quest 2 makes up more than three-quarters of those headsets.
+
+Wehner said growing Meta's workforce is expected to be the biggest contributor to expense growth in 2022. He added that the new workers will largely be in tech and product roles for the metaverse, as well as other key business areas such as Reels, privacy and commerce.
+
+Zuckerberg also said the company plans to make Horizon Worlds — its new VR social app that gives a very early glimpse of what the future metaverse might look like — available on 2-D screens in addition to its Quest Headsets, a move that could help spur greater adoption.
+
+--CNN's Rachel Metz contributed to this report.

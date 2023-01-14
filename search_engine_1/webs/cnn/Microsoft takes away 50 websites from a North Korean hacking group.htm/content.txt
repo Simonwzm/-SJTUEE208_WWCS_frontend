@@ -1,0 +1,33 @@
+New York CNN Business —
+
+Microsoft has been granted a court order to take over 50 websites it alleges were used by a North Korean hacking group to steal “highly sensitive information” from computers in the United States.
+
+Microsoft (MSFT) filed a lawsuit in federal court on December 18 against two unnamed people involved in the group, known as Thallium, which is alleged to have used the websites to send phishing emails to break into users’ accounts and gain access to their information. The suit was unsealed on December 27.
+
+In some cases, court documents state Thallium impersonated Microsoft or made use of its brands, such as Office 365, to gain access to the accounts.
+
+Shortly after the suit was filed federal district court Judge Liam O’Grady granted a temporary restraining order restricting Thallium from carrying out any further hacking of Microsoft or Microsoft customers. He also ordered the companies that host the 50 website domains Microsoft said were being used for hacking to hand control of those domains over to Microsoft.
+
+The court will give representatives of Thallium the chance to appear on January 3 to argue against the decision becoming permanent, according to the order, though it is not clear whether any such representatives exist.
+
+“There is good cause to believe that if such conduct continues, irreparable harm will occur to Microsoft, Microsoft’s customers, and the public,” O’Grady wrote in the order.
+
+The order is a win in an ongoing effort by Microsoft to combat cybercrime from groups it believes are backed by nation-states. As the maker of the world’s most-popular operating system, Microsoft is widely regarded as having particularly strong insight into how hackers around the world operate.
+
+Microsoft has taken similar legal action against hacking groups operating from China, Russia and Iran, according to a Monday blog post by Tom Burt, the company’s vice president of consumer security and trust.
+
+“We believe it’s important to share significant threat activity like that we’re announcing today,” Burt said in the post. “We think it’s critical that governments and the private sector are increasingly transparent about nation-state activity so we can all continue the global dialogue about protecting the internet.”
+
+Burt also said he hopes Microsoft’s actions raise awareness of similar attacks at other companies.
+
+The complaint alleges Thallium hackers used a technique called “spearphishing,” which seeks to gain passwords and other sensitive information from individual users through emails crafted specifically to look as if they’re coming from a reputable email account.
+
+The emails attempt to lure users to websites where they are asked to provide login information by claiming that suspicious activity was identified on their accounts. The hackers may have used information gathered on victims’ social media pages and elsewhere online to make the emails particularly convincing, according to the lawsuit. After obtaining login credentials, Thallium may have used them to gain access to contact lists, calendar appointments and other information stored on Microsoft users’ accounts.
+
+Hackers also used the deceptive websites to distribute malware used to “compromise systems and steal data from victim systems,” according to the complaint.
+
+The “precise identities and locations” of those behind Thallium are unknown, but “have been linked by many in the security community to North Korean hacking group or groups,” the complaint states.
+
+Thallium targeted government employees, think tanks, university staff and members of groups that work on issues including nuclear proliferation and human rights, according to court documents.
+
+In his blog post, Burt said users can protect themselves from such attacks by enabling two-factor authentication for email accounts, enabling security alerts about links from suspicious sources and learning the signs of a potential phishing scheme.

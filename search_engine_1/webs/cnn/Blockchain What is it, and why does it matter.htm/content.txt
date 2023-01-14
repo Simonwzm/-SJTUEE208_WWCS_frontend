@@ -1,0 +1,45 @@
+New York (CNN Business) You've almost certainly heard the term blockchain . But you probably have no idea what it is or how it works, let alone why it generates so much hype. That's OK. Most people don't.
+
+That hasn't kept it from becoming a buzzword thrown around in almost every industry, from finance to shipping to fantasy football. A-list companies like, andbelieve blockchain technology can track shipments, store data more efficiently, among other things. They aren't alone in embracing the technology, which many people believe could revolutionize logistics, food safety, banking, and even voting
+
+Of course, none of that answers your question: What is blockchain?
+
+A public digital ledger
+
+A blockchain is essentially an immutable public digital ledger. Once someone enters a transaction, it cannot easily be changed. An analogy might help explain how it works.
+
+Think back to when people used a checkbook register to keep track of purchases and payments. Now extrapolate that to include countless transactions by millions of people and imagine that copies of the register are held by thousands of computers. Each computer must verify a transaction before it can be noted in the register. Once verified, a transaction is written in permanent ink.
+
+The register records transactions for a set period of time, which can be as little as 10 minutes. Once the register is filled, it is stapled shut, and labeled with a unique alphanumeric sequence that identifies it. A new register is then started and glued to the first. Eventually you wind up with a chain of registers.
+
+That's essentially what a blockchain is. The fact that these registers are stored on many, many computers makes them essentially unchangeable and unhackable. To continue with the analogy, you'd have to work backward, ungluing every checkbook until you got to the one containing the transaction you want to change before making the revision. And you'd have to repeat this process for every copy of the register. You couldn't do it without it being noticed.
+
+The biggest advantage to public blockchains is that the information can't really be changed once it's been logged. There's a permanent record, and because the ledger is held by many entities, it's nearly impossible to hack.
+
+The entries are also made using pseudonyms, so there's a certain degree of privacy, and no one person wields full authority over the ledger. That makes blockchain ideal for bitcoin and other cryptocurrencies.
+
+And a great many other things — although people disagree about how effective it will be for certain applications.
+
+A little history
+
+The person or people behind the technology, which was created alongside bitcoin, goes by the presumed pseudonym Satoshi Nakamoto. Nakamoto, an enigmatic figure who has proved all but impossible to definitively identify, wanted a decentralized, permanent and public means of recording the creation and distribution of every bitcoin. Today, blockchains underpin a dizzying number of cryptocurrencies.
+
+So far, people have mined more than 18 million of the 21 million bitcoins that will ever exist. Every one of them, and any transaction using them, has been recorded on a blockchain. That gives you a sense of the volume of data the technology can handle.
+
+Although Nakamoto designed blockchain as a public ledger, it wasn't long before permissions-backed blockchains controlled by a given company or group appeared. They don't offer the same level of immutability because they're held on a far smaller number of computers. And, despite the hype, the thinking behind them isn't new.
+
+Permission-based blockchains are 20-year-old ideas, said Nicholas Weaver, a senior researcher at The International Computer Science Institute. "Whenever someone says 'private blockchain,' just mentally replace that with a Google Doc that can only be updated."
+
+Practical applications
+
+Companies are using blockchains to do a variety of things such as manage pharmaceutical information, track freight shipments and trace the origin of food. Each application touts the ability of blockchains to keep a complete record of data in a system that can't be easily changed.
+
+Still, some people question the utility of the underlying technology. Sure, it's great for cryptocurrency. But critics scoff at the idea that it's going to revolutionize anything. "Someone who says blockchain can be used to solve Problem X doesn't understand Problem X," Weaver said.
+
+He cites the popular example of using a blockchain to track the production and distribution of food. Advocates say it would improve safety and make it easier to, say, identify the origin of a salmonella outbreak. It would be far easier to use RFID chips or QR codes, he said. Such technology provides a more reliable record because it does not require a person to manually record the data on the ledger, a process that invariably introduces human error.
+
+But Catherine Tucker, a professor at the MIT Sloan School of Management, sees tremendous potential in blockchain technology. She sees blockchains being most useful for managing digital currencies and tracking health and insurance data.
+
+"I think we can all agree that the way we store and record data has not transformed in the same way that other aspects of our use of digital data has," she said. "It makes a lot of sense to identify better technologies for recording data and ensuring its integrity."
+
+Tucker said the important thing for early adopters of blockchain technology to remember is that the technology is "evolving" and companies shouldn't embrace it just for the sake of embracing it. Instead, they ought to make sure they genuinely need the tech and, once they've adopted it, make sure they adapt to changes as it evolves, she said.

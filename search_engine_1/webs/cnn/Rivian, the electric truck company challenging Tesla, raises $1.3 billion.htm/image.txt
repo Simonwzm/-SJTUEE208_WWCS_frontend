@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191223135203-02-rivian-truck.jpg?q=x_3,y_257,h_1347,w_2394,c_crop/w_800

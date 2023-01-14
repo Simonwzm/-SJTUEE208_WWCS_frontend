@@ -1,0 +1,49 @@
+New York (CNN Business) Ahead of its 2012 initial public offering, Facebook was in trouble . Its revenue growth was slowing, expenses were surging and it was falling behind competitors in the transition to smartphones and other mobile devices.
+
+But within two years, the company had managed to turn things around. In the first three months of 2014 , its sales grew 72% from the prior year and profits tripled after it re-organized to be "mobile first." That successful transition has since become part of Facebook's lore and a major reason for its dominance.
+
+A decade later, the company, now called, finds itself at a similar crossroads. It shocked Wall Street on Wednesday when it announced declining quarterly profits, stagnating user growth and a gloomy revenue outlook for the start of this year, prompting the worst trading day in its history as a public company.
+
+CEO Mark Zuckerberg has positioned a combination of virtual and augmented reality technologies — which he calls the metaverse — as the innovation that will help turn things around like the pivot to mobile did. He's even called the metaverse "the successor to the mobile internet."
+
+But there's one critical difference for Zuckerberg's company between now and a decade ago: While mobile technology was already a flourishing platform when Facebook was making that shift, the company's vision of the "metaverse" — essentially an immersive virtual world where everyone can interact with friends and strangers through digital avatars — is still years away, if it ever arrives at all.
+
+Hundreds of millions of smartphones were sold by 2012, the year Facebook transitioned to mobile. By contrast, only an estimated 9.4 million VR headsets — which aren't "the metaverse" but a stepping stone to get there — were shipped in 2021, according to tech market researcher IDC. (Meta's Oculus headset is thought to be the most popular in this market, accounting for the majority of those shipments.) VR and AR technologies are also in their early stages of development (just look at all those legless avatars).
+
+In the meantime, Meta's business is under threat on a variety of fronts. Its user base is stagnating (and aging). Its core advertising business is being challenged by operating system changes made by fellow tech giant Apple. And a series of scandals have placed the company under the microscope of regulators, limiting its ability to buy its way to continued growth through acquisitions (though it has been gobbling up a number of small companies for its push into the metaverse).
+
+An undefined path to the metaverse
+
+As those problems pile up in the real world, Zuckerberg is betting he can pull off another big transition in the virtual world. But even he admits to some uncertainty ahead.
+
+Regarding the company's shift to the metaverse, Zuckerberg said on this week's earnings call that "although the direction is clear, our path ahead is not perfectly defined."
+
+That may be putting it charitably. Not only is the path not perfectly defined, it's littered with hurdles — and wildly expensive. Meta's AR and VR unit lost more than $10 billion last year, according to the company's earnings report this week.
+
+"Meta is sacrificing its core business model for its fascination with the metaverse," said Rachel Jones, analyst at data analytics company GlobalData. "Betting big on the metaverse isn't a bad thing — the technology is set to be huge and provide a multitude of opportunities — but it will take at least another decade to really get going."
+
+And that's in addition to the many years it's already been trying to popularize VR. Facebook acquired Oculus in 2014 , saying the headset had the potential to be a "new communication platform" — but it has made relatively little progress, compared to the rapid adoption of mobile.
+
+In fact, despite its splashy rebrand drawing attention to the space last year, some of Meta's competitors seem better positioned to lead the transition to the metaverse, according to Angelo Zino, senior equity analyst at CFRA Research.
+
+He points to rivals with more popular existing hardware products (Apple) or software products (Roblox) or just younger user bases that may be more likely to embrace the metaverse (TikTok and Snap). Facebook, by contrast, is often thought of these days as the place to stay in touch with older relatives, who seem less likely to be early adopters of VR and AR technologies.
+
+"You look at [Meta] today and, yes, they've got almost all the money in the world to throw at this," Zino said. "But at the same time, there are many, many other players that are trying to do the same thing that Meta's trying to do ... and I would argue that there are many players out there that are well ahead."
+
+Mounting problems in the real world
+
+Changes in Apple's iOS 14.5 update have taken the wind out of Meta's mighty advertising business, making it harder to track users across the internet for ad-targeting purposes and to track the success of ad campaigns. The company is expecting to take a $10 billion hit from the changes in 2022, CFO Dave Wehner said this week.
+
+Perhaps a more damaging trend in the long term, if it continues, is that Facebook failed to gain new users last quarter. The company pointed to steep competition for users' time, including from rival apps like TikTok that are more popular with younger users. And with nearly 3 billion people already on the platform, Facebook faces the challenge of simply running out of humans who it can convert to users.
+
+The stagnating user base is "definitely a threat," Zino said. "Once you get monthly active users like this coming to a screeching halt, it becomes noticeable to advertisers out there."
+
+Meta's rough guidance for the current period — it expects to grow revenue between 3% and 11% in the first three months of 2022, compared to 48% growth in the first quarter of 2021 — could be a sign that it's "losing wallet share within the ad space," Zino said. (Meta's advertising business still makes up more than 99.5% of its total revenue.)
+
+The company this week told investors that it's betting big on Instagram Reels, its version of TikTok's short-form video product, as a revenue driver. But Meta executives said the format has proven harder to monetize than other products. That may continue to be the case as Meta tries to sell it to its user base, which experts believe skew older than the users watching and engaging with similar short videos on TikTok and Snapchat.
+
+At another time, Meta might have tried to buy its way to growth through an acquisition, as it did back in 2012 with Instagram. (Notably, it reportedly tried to buy Snapchat in 2013.) After all, the company still made nearly $40 billion in net income last year and ended the year with $48 billion in cash, cash equivalents and marketable securities. But, unlike in 2012, there are many more critical eyeballs watching the company, and regulators would almost certainly challenge any blockbuster acquisition. (In fact, Meta is currently battling an antitrust lawsuit over its acquisitions of Instagram and WhatsApp, both of which closed many years ago.)
+
+It all adds up to a lot of challenges on the company's plate at once."We were struck by the magnitude of priorities the company is juggling concurrently (seven?)," UBS analysts Lloyd Walmsley, Chris Kuntarich and Mary McKennon wrote in a note to clients Thursday. And the analysts noted most of those are unlikely to "drive a near term improvement" in the company's revenue.
+
+In other words: Facebook has hit a wall and there's no easy way over it.

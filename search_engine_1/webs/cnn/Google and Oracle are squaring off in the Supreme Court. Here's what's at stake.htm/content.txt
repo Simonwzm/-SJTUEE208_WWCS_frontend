@@ -1,0 +1,41 @@
+(CNN Business) Oracle and Google are set to clash before the US Supreme Court on Wednesday in what some experts have described as a landmark battle over the future of software development — one that could transform how the internet works and reshape the way businesses design new products and technologies. It's a pivotal case with billions of dollars at stake.
+
+Here's what you need to know.
+
+Why is this case so important?
+
+At the heart of this legal battle is a bit of software code thatclaimsstole when it was designing its Android mobile platform for app developers.
+
+"These are a collection of prewritten programs, modules that developers can incorporate into their own applications that will help with a discrete function — for example, drawing a shape, or encrypting text. Things like that," said Dorian Daley, Oracle's general counsel, in an interview. "Little prewritten programs that are shortcuts for developers."
+
+Collectively, these types of helper programs are known as software interfaces, application programming interfaces, or APIs for short. They're ubiquitous in today's highly networked information economy, in which apps of different types and from different providers need to be able to work together and share data in order to serve consumers.
+
+Oracle argues that Google's use of its Java interfaces in Android amounted to copyright infringement; Google has argued that the code in question isn't eligible for copyright protections and, even if it were, Google's unlicensed use of the code is protected under a legal doctrine known as fair use.
+
+Whether Google's arguments are enough to deflect Oracle's infringement claim is what the Supreme Court must now decide. The case is viewed as potentially pivotal because it could establish a major legal precedent shaping how all software may be developed in the United States going forward. In a sign of the stakes, companies including Microsoft and IBM have also weighed in with the Court on Google's behalf.
+
+What has Google said?
+
+Google has called this the "copyright case of the decade." The company has argued that, for years, software developers have operated under the principle that software interfaces could be freely reused. A ruling that knocks down that assumption could be devastating to the software industry, Google claims.
+
+"Companies would create fewer platforms like Android. Developers would create fewer applications for those platforms," Google said in a Supreme Court brief in April.
+
+In a statement, Google's chief legal officer, Kent Walker, said the company's position is backed by developers, computer scientists, businesses and consumers.
+
+"Developers want to create applications that work across platforms, without fearing that companies will misuse copyright law to block interoperability," Walker said. "We look forward to the Court's decision."
+
+Several outside groups including the Electronic Frontier Foundation and the Computer & Communications Industry Association have filed briefs in support of Google, while trade groups representing Hollywood, the telecom industry and news publishers have filed in support of Oracle.
+
+How might the Court rule?
+
+That's far from clear, particularly after the passing of Justice Ruth Bader Ginsburg, whom experts say was well-versed in copyright.
+
+"She has written a lot of influential copyright decisions," said John Bergmayer, an attorney at the consumer advocacy group Public Knowledge who studies intellectual property issues.
+
+Should the Court deadlock at a 4-4 tie on the case, the outcome would revert to the ruling by the Federal Circuit, which found in Oracle's favor.
+
+That could allow Oracle to seek enormous monetary damages from Google in the roughly 10-year-old case. Oracle has previously said Google should pay $9 billion to reflect the alleged copyright violation.
+
+But Daley told CNN that if Oracle were to win, the company would be in a position to ask for significantly more.
+
+"We would have the opportunity again to put together a new damages analysis based on revenues that Google has enjoyed as a result of Android to date and that number would increase," Daley said.

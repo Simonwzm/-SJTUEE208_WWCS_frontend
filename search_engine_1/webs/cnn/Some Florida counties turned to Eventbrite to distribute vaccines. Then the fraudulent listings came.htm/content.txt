@@ -1,0 +1,43 @@
+(CNN Business) Before the pandemic, Meg Bourbonniere used Eventbrite to purchase concert tickets. But this week, the 65-year-old resident of Pinellas County, Florida, logged on to the online ticketing platform for a very different purpose: to try to secure an appointment to get the Covid-19 vaccine.
+
+Several counties in Florida have turned to Eventbrite, a service better known for reserving spots for conferences, sporting events and a range of personal gatherings, to help distribute vaccines to residents. After hearing about such an effort in Sarasota County, Bourbonniere searched for and found similar vaccine signups in her own county on Eventbrite. But there was a problem: her county wasn't actually among those using the platform for registrations.
+
+"I found the Sarasota site and I used the location button to get to events near me," said Bourbonniere, who told CNN Business that she came across numerous listings in Clearwater, Florida, a city in Pinellas County. She then tweeted at the Florida Department of Health in Pinellas County to ask why there were "74 Eventbrite listings for Covid vaccine" in Clearwater, many of which were sold out, despite conflicting information on the county website.
+
+The Pinellas Department of Health replied that it had not used Eventbrite's platform for vaccine distribution. "Someone created a FAKE Eventbrite account to register for the COVID-19 vaccination," the Department tweeted hours later. "You should NOT be charged to register. Registration is FREE," it said, including information about how to register through its website and by phone.
+
+The Pinellas County Sheriff's Office told CNN Business it is currently looking at the fraudulent use of Eventbrite for COVID vaccinations in Pinellas County, adding that the pages appear to have been taken down.
+
+In a statement to CNN Business, a spokesperson for Eventbrite said: "We are actively exploring how our platform can best support the effort to increase access to vaccines. We are aware of unofficial vaccine event listings on Eventbrite. We believe these events were created in error and have removed them from our site. We are continuously monitoring and taking appropriate action."
+
+When asked why Eventbrite believed the events were created in error and how many it removed from its site, the spokesperson declined to comment beyond the statement.
+
+Pasco, Eventbrite EB In the absence of a national or statewide distribution plan, several counties in Florida, including Sarasota Collier, and Manatee , have leveragedto distribute their limited number of vaccine doses on a first come, first serve basis to eligible groups of people. This includes residents who are 65 years or older.
+
+But the patchwork approach to vaccine distribution in Florida appears to have created an opportunity for bad actors to scam residents with fraudulent health department listings, both in locations that are using Eventbrite for vaccine distribution and in areas that are not. It is unclear who is behind the listings and what the motives are. But at the very least it only adds potential for greater misinformation and confusion about the vaccines and their distribution.
+
+The Florida Governor's Office and the Florida Department of Health did not respond to CNN Business' requests for comment.
+
+Like other online platforms, Eventbrite has long had to contend with bad actors attempting to mislead users. When Eventbrite prepared to go public in 2018, the company warned in its IPO paperwork that "we have experienced fraudulent activity on our platform in the past, including fake events in which a person sells tickets to an event but does not intend to hold an event or fulfill the ticket."
+
+At least three of the counties that are using Eventbrite for vaccine distribution -- Pasco, Collier, and Sarasota -- have recently acknowledged scams on the platform.
+
+According to Chase Daniels, executive director at Pasco Sheriff's Office, it is "working approximately one dozen complaints sent to us by the Department of Health- Pasco County regarding fake pages that are providing fake vouchers to individuals," while stressing that there was no exchange of money. "The investigation into those fake vouchers are still ongoing," said Daniels.
+
+On Tuesday, Collier County's Department of Health put out a press release stating it is aware of Eventbrite scams throughout the state. It reminded people that it is not asking for Social Security numbers, credit card information, or bank information, nor is it charging for the vaccine.
+
+While the Sarasota County government warned of vaccine scams Tuesday, a spokesperson for the county's Department of Health said he had not heard about Eventbrite scams happening in Sarasota itself. CNN Business reached out to several other counties that are legitimately using the platform for vaccine distribution to inquire about any reports of scams, but did not immediately hear back.
+
+Apart from concerns about fraudulent listings, some Florida residents, including older residents who may be less tech literate, are now left to navigate the digital ticketing platform in the hopes of landing one of the limited number of vaccination spots available.
+
+After Khalid El Khatib's 77-year-old father was unable to secure a vaccine appointment through Eventbrite in Sarasota, it became a family affair. El Khatib told CNN Business that he and his two sisters signed up for notifications on Eventbrite in the hopes that between the four of them, one would be able to score an appointment when the next distribution wave opened.
+
+El Khatib compared it to how you might try to land tickets for "a popular concert," except with much more at stake.
+
+Not everyone is fortunate enough to have tech-savvy relatives to help. Nancy Morrow-Howell, director of the Harvey A. Friedman Center for Aging at Washington University in St. Louis, points out that platforms like Eventbrite are inaccessible to "the most disadvantaged people." When combined with the first come, first serve approach being taken in Florida, it only further complicates who gets early access to the vaccine, and accurate information about it.
+
+"The only way I am able to get information is by being an educated, young, and relatively connected New Yorker," El Khatib said, speaking broadly about coronavirus safety measures. "I think it speaks to the inequity that is surfacing through every stage of this pandemic."
+
+Bourbonniere, a retired doctoral-level nurse, who specialized in geriatrics, described herself and her 68-year-old husband, a retired engineer with a chronic health condition, as pretty tech savvy. But within the 65+ community where she lives, Bourbonniere said there have been mixed messages about how to register for the vaccine, potentially confusing residents who are both more vulnerable to Covid and more vulnerable to misinformation about it.
+
+"That's what worries me," she said.

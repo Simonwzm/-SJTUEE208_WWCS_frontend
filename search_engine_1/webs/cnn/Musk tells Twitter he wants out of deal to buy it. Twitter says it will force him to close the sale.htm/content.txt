@@ -1,0 +1,39 @@
+New York (CNN Business) Elon Musk moved Friday afternoon to terminate his $44 billion deal to buy Twitter — the latest twist in a whirlwind process in which the billionaire Tesla CEO became the company's biggest shareholder, turned down a board seat, agreed to buy the social media platform and then started raising doubts about going through with the deal. The next chapter in the saga is almost certain to be a court battle.
+
+A lawyer representing Musk claimed in a letter to Twitter's top lawyer that he is ending the deal becauseis "in material breach of multiple provisions" of the original agreement, which was signed in April , according to a regulatory filing Friday evening.
+
+Musk has for weeks expressed concerns, without any apparent evidence, that there are a greater number of bots and spam accounts on the platform than Twitter has said publicly. Analysts have speculated that the concerns may be an attempt to create a pretext to get out of a deal he may now see as overpriced, after Twitter shares and the broader tech market have declined in recent weeks.stock, which Musk was planning to rely on in part to finance the deal, has also declined sharply since he agreed to the deal.
+
+"The Twitter Board is committed to closing the transaction on the price and terms agreed upon with Mr. Musk and plans to pursue legal action to enforce the merger agreement," Twitter board chair Bret Taylor said in a tweet Friday, echoing earlier statements by the company that it planned to follow through with the deal. "We are confident we will prevail in the Delaware Court of Chancery."
+
+Twitter shares fell nearly 6% in after-hours trading Friday immediately following the news, after ending the day down 5%. Tesla stock gained more than 1% in after-hours trading.
+
+Musk in May said the deal was "on hold" as he evaluated the number of spam and fake accounts on the platform — a reversal from his previous statements that he wanted to acquire Twitter to eradicate bots on the platform. Last month, he directly threatened to walk away from the deal, accusing Twitter of breaching the merger agreement by not providing the data he says he needs to evaluate the number of spam and fake accounts on the platform. In response, Twitter agreed to hand over its "firehose" stream of tweets
+
+Still, Musk's lawyer alleged in the Friday letter that Twitter has "not complied with its contractual obligations" to provide Musk with sufficient data, and said Twitter "appears to have made false and misleading representations upon which Mr. Musk relied" when agreeing to the deal.
+
+"For nearly two months, Mr. Musk has sought the data and information necessary to 'make an independent assessment of the prevalence of fake or spam accounts on Twitter's platform,'" the Friday letter reads. "This information is fundamental to Twitter's business and financial performance and is necessary to consummate the transactions contemplated by the Merger Agreement."
+
+It continues: "Twitter has failed or refused to provide this information. Sometimes Twitter has ignored Mr. Musk's requests, sometimes it has rejected them for reasons that appear to be unjustified, and sometimes it has claimed to comply while giving Mr. Musk incomplete or unusable information."
+
+Twitter has repeatedly said it has cooperatively shared information with Musk in order to close the deal at the originally agreed upon terms.
+
+Twitter's stock is trading around $36, down nearly 30% since its price the day Musk and Twitter announced the acquisition and well below the $54.20 per share Musk offered, suggesting deep skepticism among investors about the deal going through at the agreed upon price. The declining value may also be among the reasons Musk is no longer interested in the deal, analysts have said.
+
+What could happen next
+
+In accusing Twitter of materially breaching the merger agreement, Musk appears to be setting up the argument that he should not be on the hook for the $1 billion set out in the deal terms as a breakup fee in the event the acquisition fell through, according to Carl Tobias, a law professor at the University of Richmond.
+
+"The way these things usually work is that if there's a billion-dollar breakup fee and you're the one trying to acquire, then that is enforced against you," Tobias said, "unless there's some kind of material breach or some kind of reason that can be offered up that persuades a court that Twitter, for example, is not making good on the deal."
+
+Musk's lawyer claimed in Friday's letter that Musk has requested, but not received, information such as the daily number of monetizable daily active users for the previous eight quarters, as well as access to "the sample set used and calculations performed" by Twitter to determine that spam and fake accounts represent fewer than 5% of its monetizable daily user base. Twitter has said that it relies on public and private information, such as ISP numbers and geographic data, on its users to count bots on the platform.
+
+Despite having signed a binding acquisition agreement, Friday's letter also claims that Musk "negotiated access and information rights within the Merger Agreement precisely so that he could review data and information that is important to Twitter's business before financing and completing the transaction."
+
+Twitter is likely to ask the court for two things in its litigation against Musk, said Brian Quinn, a law professor at Boston College. Twitter is expected to seek a ruling that it has not violated its contract with Musk, and it will likely seek a judicial order requiring Musk to complete the acquisition, he said.
+
+In assessing Musk's claims, Quinn added, the court will likely consider the information Twitter has provided so far and whether Musk's requests for further disclosures are reasonable and necessary for completing the deal — for example, whether the information Musk wants is needed to obtain government regulatory approvals or financing commitments.
+
+Even as any litigation continues, however, the two sides will likely keep talking, Quinn said, and the situation could resolve itself through a renegotiated sale price. That type of resolution is common in merger disputes, he said, citing the recent deal involving luxury brands Luis Vuitton and Tiffany, which went to court but was ultimately completed at a lower price.
+
+Musk's claim to need more information "is a hard argument to make," Quinn added. "A judge in Delaware is going to be pretty familiar with how these transactions operate and what's normal and what's not."

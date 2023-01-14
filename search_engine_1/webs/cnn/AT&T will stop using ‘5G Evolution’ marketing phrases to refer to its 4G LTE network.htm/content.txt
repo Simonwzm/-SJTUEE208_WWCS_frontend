@@ -1,0 +1,23 @@
+New York CNN Business —
+
+AT&T says it will discontinue use of the marketing terms “5G Evolution” and “5G Evolution, The First Step to 5G,” after an independent review board determined the phrases could be misleading to consumers.
+
+The phrases do not actually refer to AT&T (T)’s 5G network, which is being rolled out in select cities throughout the United States. The terms have been used to market AT&T (T)’s upgraded 4G LTE network, which provides faster speeds but is not the same as 5G. (CNN’s parent company, WarnerMedia, is owned by AT&T (T).)
+
+AT&T’s use of the terms in its marketing was heavily criticized by its competitors. Last year, AT&T settled a lawsuit from Sprint (S) that claimed AT&T was falsely and deceptively branding 4G as 5G. AT&T said it had clearly distinguished the term from normal 5G, and that it was a way for consumers to know they were getting faster speeds. The terms of the settlement were not made known and AT&T continued using the marketing line following the agreement.
+
+In one of multiple tweets critical of the wording, former T-Mobile CEO John Legere called the marketing scheme “nonsense” and said “we both know the correct term is ‘5G-BS.’”
+
+T-Mobile (TMUS) challenged the use of the phrases before the National Advertising Division (NAD), the advertising industry’s self-regulatory dispute resolution organization. AT&T appealed after the National Advertising Division concluded that the terms should be discontinued.
+
+On Wednesday, the National Advertising Review Board (NARB), the NAD’s appellate unit, said it agrees with the findings and recommended that AT&T stop using the terms.
+
+“The NARB panel determined that both claims will mislead reasonable consumers into believing that AT&T is offering a 5G network and recommended that the claims be discontinued,” the Board said in a press release. “The NARB Panel agreed with NAD’s analysis and concluded that the term ‘Evolution’ is not likely to alert consumers to the fact that the service is not 5G.”
+
+AT&T said in a statement to CNN Business that it “respectfully disagrees” with the Board’s findings but will comply with the recommendation to discontinue use of the phrases because it is “a supporter of the self-regulatory process.”
+
+“AT&T’s customers nationwide continue to benefit from dramatically superior speeds and performance that its current network provides,” the company said.
+
+Some AT&T customers may also be familiar with the “5GE” icon that appears in the upper righthand corner of their cell phones, indicating their type of network connection. This does not mean the phone is actually connected to the 5G network — cell phones need specific hardware to connect to 5G networks, a technology that most current devices do not have.
+
+Because the National Advertising Review Board’s decision applies only to advertising, AT&T may continue using the 5GE icon on phones to indicate that they have a high speed 4G LTE connection.

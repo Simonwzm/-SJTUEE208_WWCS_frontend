@@ -1,0 +1,69 @@
+New York (CNN Business) After several delays, Boeing is now slated to launch its long-anticipated Starliner spacecraft — which is built to carry NASA astronauts — on an uncrewed test flight to the International Space Station, a follow-up to the company's botched first attempt 18 months ago , on Wednesday. It will be a decisive moment for Boeing and NASA, as the traditional aerospace giant seeks to join SpaceX in ferrying people to the station.
+
+The Starliner was scheduled to launch from Florida Friday afternoon and dock with the ISS on Saturday. But when a new laboratory module from Russia, called Nauka, docked at the space station Thursday morning, the module's thrusters began unexpectedly firing
+
+Though NASA confirmed no one was in danger and ground teams regained control of the space station after about an hour, Starliner's take off was delayed in order to allow mission control to "continue working checkouts of the newly arrived Nauka module and to ensure the station will be ready for Starliner's arrival" and liftoff was rescheduled for Tuesday.
+
+But Tuesday morning, Boeing revealed it detected issues with the valves in the Starliner's propulsion system, delaying the flight another 24 hours.
+
+The launch is now slated for no earlier than Wednesday.
+
+A United Launch Alliance Atlas V rocket with Boeings CST-100 Starliner spacecraft onboard is seen on the launch pad at Space Launch Complex 41 ahead of the Orbital Flight Test-2 (OFT-2) mission, Thursday, July 29, 2021 at Cape Canaveral Space Force Station in Florida.
+
+Boeing's Starliner test launch is among the most important missions of the year for the company and NASA. The spacecraft is expected to be Boeing's answer to SpaceX's Crew Dragon, which has already begun flying astronauts and ushered in the return of human spaceflight to US soil after a decade-long haitus. Both Boeing's Starliner and SpaceX's Crew Dragon were developed under contract with NASA, though they'll be owned and operated by their respective companies, and are designed to take astronauts and possibly tourists to and from the ISS.
+
+If all goes according to plan during Starliner's upcoming uncrewed test mission, the fully autonomous Starliner spacecraft will spend a few days in orbit — without humans on board — and dock with the International Space Station to demonstrate that the capsule is capable of getting the job does safely. It'll then return to Earth for a parachute landing in the New Mexico desert.
+
+This mission's success is crucial for Boeing, which has been working since the early 2010s to develop a spacecraft capable of taking astronauts to and from the ISS but has encountered numerous delays and technical hangups.
+
+The flight also comes as investors and customers are keeping a close eye on Boeing as it continues to grapple with a series of controversies and scandals, most notably with its 737 Max aircraft , and questions about its internal safety culture
+
+NASA and Boeing are anxious to see Starliner complete this test run safely so that it can move on to regular operations.
+
+Together with SpaceX's Crew Dragon spacecraft — which has already flown three trips to the ISS with astronauts on board — Boeing's Starliner is expected to help usher in a new era of human spaceflight in the United States in which private companies, rather than NASA, take the reins.
+
+What will happen
+
+The Starliner, which will fly with an empty cabin except for a test flight dummy named Rosie and about 475 pounds of cargo and supplies, will vault into orbit atop an Atlas V rocket, which is built by joint-Boeing-and-Lockheed Martin-venture United Launch Alliance and has a spotless 15-year track record of launching satellites and other cargo.
+
+A United Launch Alliance Atlas V rocket with Boeings CST-100 Starliner spacecraft aboard is seen as it is rolled out of the Vertical Integration Facility to the launch pad at Space Launch Complex 41 ahead of the Orbital Flight Test-2 (OFT-2) mission, Monday, Aug. 2, 2021 at Cape Canaveral Space Force Station in Florida.
+
+The real test will come after the Starliner spacecraft separates from the Atlas V rocket and begins freeflying in space. The spacecraft will need to use its on-board computers and thrusters to slowly maneuver itself toward the ISS, which orbits about 250 miles above Earth.
+
+It's expected to dock with the ISS on Wednesday afternoon.
+
+If all goes well, the seven astronauts on board the ISS will be able to retrieve the cargo Starliner is hauling. Then they'll load the vehicle back up with nearly 600 pounds of cargo, completed science experiments and garbage to be sent back down to Earth. A safe landing could pave the way for Boeing to launch the first Starliner mission with astronauts on board later this year.
+
+While NASA typically pays companies to take cargo to and from the space station, this flight will come at no cost. Boeing agreed to complete this mission on its own dime after its first attempt failed in December 2019 . The company said in 2020 that it set aside $410 million for this mission.
+
+What happened last time
+
+During that first uncrewed flight test of Starliner, problems arose almost immediately A software issue caused the spacecraft to misfire, sending it hurtling off course and forcing it to make an early return to Earth without having docked with the ISS.
+
+Boeing later revealed that ground controllers lost contact with Starliner dozens of times during the mission, and the company later admitted that it had failed to run a full simulation of how the spacecraft's software would run during the two major stretches of the mission — from liftoff to docking with the International Space Station and from undocking to landing. Such testing could have potentially detected Starliner's software problems before liftoff.
+
+The mishap prompted NASA to launch an investigation into Boeing's safety culture and set off a months-long effort to pinpoint exactly where and how the Starliner development program went wrong
+
+During press briefings this week, Boeing officials said the spacecraft's software is now bolstered with new algorithms designed to help it quickly solve communications blackout issues. The company also addressed more than 80 issues identified in an independent investigation as well as hired Jinnah Hosein, a former SpaceX engineer, in November 2020 as its vice president of software engineering and is working to ensure "we were looking at hardware-software integration and not just software as a discipline alone," Boeing's Starliner program manager John Vollmer said.
+
+Former NASA astronaut Chris Ferguson — who now works for Boeing and was slated to fly on Starliner's inaugural crewed mission but unexpectedly bowed out citing " personal reasons " — said Thursday that tests of Boeing's upgraded software have been "as clean as they can possibly be."
+
+Why this matters
+
+Boeing's Starliner spacecraft is the result of a decade-long effort by NASA and its corporate partners to replace the Space Shuttle program, which for 30 years was the primary means of transportation to space for US astronauts. The Shuttle program retired in 2011, and that left the United States to rely on Russia's Soyuz spacecraft to get its astronauts to space and keep the US segment of the ISS fully staffed, a challenging and less-than-ideal arrangement, though the countries still work closely together in space, according to NASA.
+
+(The International Space Station has been a joint project led by NASA and Roscosmos, from even before the first segment was launched in 1998, and since that time has been used mostly for science and the occasional tourist visit.)
+
+But rather than taking the lead on design, development and testing of a new spacecraft, NASA decided on a novel approach. It called on private-sector companies to submit their own designs and compete for fixed-price contracts, which were ultimately awarded to SpaceX and Boeing in 2014
+
+A United Launch Alliance Atlas V rocket with Boeings CST-100 Starliner spacecraft aboard is seen as it is rolled out of the Vertical Integration Facility to the launch pad at Space Launch Complex 41 ahead of the Orbital Flight Test-2 (OFT-2) mission, Monday, Aug. 2, 2021 at Cape Canaveral Space Force Station in Florida.
+
+NASA's contracts with Boeing for this program total $4.82 billion, while SpaceX's are worth $3.14 billion. (The price difference is attributed to how much the companies bid as well as how far along SpaceX was in the development of its Dragon spacecraft prior to landing those NASA contracts.)
+
+NASA took a back seat during SpaceX's and Boeing's development programs, though it's still been heavily involved, providing oversight of tests and sending in verification teams to help ensure the vehicles are fit to fly.
+
+This way of doing business is brand new for NASA's human spaceflight program, and it's been an experimental — and occasionally tumultuous — journey.
+
+But the payoff, as NASA advertises it, is not one but two privately operated spacecraft that can handle getting astronauts to and from the ISS while the space agency focuses on its more ambitious goals of putting astronauts back on the moon and exploring deep space.
+
+There's also, according to the exploration advocacy nonprofit Planetary Society, a huge cost benefit.

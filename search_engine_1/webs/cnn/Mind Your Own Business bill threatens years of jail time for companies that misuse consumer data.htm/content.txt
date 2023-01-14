@@ -1,0 +1,21 @@
+CNN —
+
+A privacy-focused US senator is introducing sweeping legislation on Thursday that imposes sharp penalties on companies and executives who fail to protect consumer data, bringing additional pressure to bear on the tech industry.
+
+The bill, known as the Mind Your Own Business Act, threatens to put top executives behind bars for up to 20 years if their companies are caught lying to authorities about having misused Americans’ personal information. It also proposes that those companies face special tax penalties tied to executive salary.
+
+The legislation by Oregon Democratic Sen. Ron Wyden also gives the Federal Trade Commission — the nation’s top privacy watchdog — broad new powers to fine companies for violating the proposed law — up to 4% of annual revenues. (The bill does not yet have any cosponsors.)
+
+The legislation is a shot across Big Tech’s bow as Facebook CEO Mark Zuckerberg prepares to deliver a speech on freedom of expression at Georgetown University on Thursday.
+
+Wyden is a vocal Facebook critic who has slammed the company’s $5 billion Cambridge Analytica settlement with the FTC as being too weak. In a statement Thursday, he told CNN that Zuckerberg needs to feel “personal consequences” in order to take privacy seriously.
+
+“A slap on the wrist from the FTC won’t do the job, so under my bill he’d face jail time for lying to the government,” Wyden said.
+
+Wyden’s bill expands on draft legislation that the senator had circulated last fall. It requires companies to provide a “one-click” solution to consumers to opt out of the tracking, sharing or selling of their personal information, particularly for targeted ads. It also calls for free, “privacy-friendly” versions of major tech products to be provided to low-income Americans who qualify for federal phone and broadband subsidies.
+
+The bill also weighs in on a key debate taking place among lawmakers seeking to craft a bipartisan privacy compromise. Wyden’s proposal would give consumer advocacy groups the right to sue companies for privacy violations, in a bid to ramp up the pressure on the tech industry. It also would not override tough state laws such as California’s Consumer Privacy Act, allowing states to write stronger rules for companies than what Wyden’s federal legislation would require.
+
+Republicans have strongly opposed including a private right of action in federal legislation and have pushed for federal law to preempt state laws such as California’s.
+
+The gap between Democrats and Republicans on those issues has led to gridlock, with a group of senators missing a number of self-imposed deadlines to produce a bill earlier this year.

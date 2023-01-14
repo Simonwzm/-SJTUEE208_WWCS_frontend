@@ -1,0 +1,75 @@
+(CNN Business) After nearly four months of court proceedings in one of the most high-profile tech trials in recent memory, Elizabeth Holmes has been found guilty on four out of 11 federal fraud and conspiracy charges .
+
+Holmes, the former CEO and founder of failed blood testing startup Theranos, was found guilty on three counts of wire fraud and one count of conspiracy to commit wire fraud. She was found not guilty on three additional charges of wire fraud and one charge of conspiracy to commit wire fraud. The jury returned no verdict on three counts of wire fraud.
+
+A total of 32 witnesses were called to testify over 15 weeks, culminating with a lengthy testimony from Holmes herself. Federal prosecutors sought to show Holmes intentionally misled investors, doctors and patients about the capabilities of her company's blood testing technology for financial gain. Holmes' defense, on the other hand, sought to undercut that through testimony that she was a true believer in its technology, acted in good faith, relied upon the expertise of others and lacked intent to deceive.
+
+Holmes faces up to 20 years in prison as well as a fine of $250,000 plus restitution for each count of wire fraud and each conspiracy count.
+
+Here are some key moments from the trial you may have missed:
+
+Holmes testifies in her own defense
+
+One of the biggest unknowns heading into the trial was whether Holmes would take the stand in her own defense. In November, the Theranos founder did just that , testifying for nearly 24 hours over seven court days.
+
+She faced questions from her own lawyers and government prosecutors about the company's journey from boom to bust, her statements to its investors and board of directors, and her role in the alleged fraud, presenting herself throughout as having acted in good faith to protect her company.
+
+While Holmes was largely calm and direct on the stand, even smiling while answering some questions, she became emotional at several points while talking about her ex-boyfriend and Theranos' former president and COO, Ramesh "Sunny" Balwani.
+
+Holmes and Balwani face the same fraud charges, with the latter's trial set to take place next year.
+
+(Balwani has denied the allegations in court filings. He faces the same charges as Holmes and is set to be tried early next year. He has pleaded not guilty.) In a tearful testimony , Holmes alleged she was the victim of a decade-long abusive relationship with Balwani, 20 years her senior, who she met before starting Theranos. She testified that he tried to control nearly every aspect of her life, disciplining her eating, her voice and her appearance.(Balwani has denied the allegations in court filings. He faces the same charges as Holmes and is set to be tried early next year. He has pleaded not guilty.)
+
+She pointed the finger at Balwani as responsible for parts of Theranos pertinent to the charges, including overseeing the clinical lab and the company's financial projections. Holmes also said she considered him the most important adviser to her at Theranos.
+
+"He impacted everything about who I was, and I don't fully understand that," she said.
+
+Holmes admits to adding pharmaceutical logos to Theranos reports
+
+Among the many internal documents that prosecutors used to build their case against Holmes, two in particular received a great deal of attention: a pair of reports sent to Theranos' investors with the logos of pharmaceutical companies Pfizer and Schering-Plough prominently displayed at the top. While their placement gave some witnesses the impression that those companies had prepared or at least sanctioned the reports, prosecutors established the reports had in fact been created by Theranos.
+
+In this courtroom sketch, Holmes is seen answering questions from defense lawyer Kevin Downey.
+
+In a striking moment, Holmes testified she herself added the pharmaceutical company logos to reports shared with investors "because this work was done in partnership with those companies and I was trying to convey that." But Holmes also noted she heard testimony from the witnesses who said they believed the reports indicated an endorsement of Theranos' technology by the companies. She said she wished she had "done it differently."
+
+A former Secretary of Defense testifies
+
+Other than Holmes, the most high-profile witness to take the stand was James Mattis , a retired four-star general who served as Secretary of Defense in the Trump administration. Mattis was a member of Theranos' illustrious board from 2013 to 2016 — which the prosecution said in its closing statements was one of the ways in which Holmes relied on "borrowed credibility" to perpetuate its alleged fraud.
+
+Mattis said he was interested in the device's possible military applications because he thought it could perform the range of blood tests the company claimed it could. "I would not have been interested in it were it not," he said.
+
+James Mattis, former U.S. secretary of defense, leaves federal court in San Jose, California, U.S., on Wednesday, Sept. 22, 2021.
+
+But Theranos never deployed its blood testing devices in the battlefield, despite numerous government witnesses testifying they'd been told by Holmes its devices were being used in Afghanistan or on military medevacs. Holmes acknowledged that its devices were never deployed in such a manner, despite its work to get to that point one day, but she denied the claims that she'd told people otherwise
+
+Mattis testified that at a certain point, following growing scrutiny of the company's testing capabilities, "I didn't know what to believe about Theranos anymore."
+
+Former Theranos lab directors take the stand
+
+The witness who spent the most time on the stand, apart from Holmes, was Theranos' former lab director Adam Rosendorff.
+
+Wall Street Journal reporter John Carreyrou's 2015 investigation that led to Theranos' unraveling, spent around six days on the stand in early October. Rosendorff, revealed as the first and most important source for formerWall Street Journal reporter John Carreyrou's 2015 investigation that led to Theranos' unraveling, spent around six days on the stand in early October.
+
+Having led Theranos' lab from April 2013 to November 2014, Rosendorff said he departed the company feeling "very skeptical" about the accuracy and reliability of its tests. He testified he felt it "was a question of my integrity as a physician" to not stay at the company and continue to endorse test results he "didn't have faith in." He said he "came to believe that the company believed more about PR and fundraising than about patient care."
+
+In one of the stranger testimonies of the trial, jurors also heard from Rosendorff's brief successor as lab director, Sunil Dhawan.
+
+Dhawan, a dermatologist, testified that Balwani — who had been a patient of his for roughly 15 years — asked him if he'd like to take on the role at Theranos. Per an email exchange, Balwani told Dhawan "the time commitment is very minimal," and noted that it would "be mostly an on call consulting role."
+
+Dhawan said he worked just "five or 10" hours at Theranos between November 2014 and early summer of 2015. He didn't interact with any patients, doctors or Theranos employees during that time, he testified and only visited Theranos a couple of times. "I believe I went, and then I went again. And that was about it," he said.
+
+(During cross-examination by Holmes' attorney, Sawyer admitted her job did not require her to go into Theranos, nor did she ask to.) Like Dhawan, she worked at Theranos for less than a year. Lynette Sawyer, another lab director who served after Rosendorff left, testified that she never set foot in Theranos' lab, visited the company, saw any of its devices or tests from devices, and was only required to sign reports she received via email, which she could not edit and which appeared to be from standard FDA-approved devices rather than Theranos' proprietary devices.(During cross-examination by Holmes' attorney, Sawyer admitted her job did not require her to go into Theranos, nor did she ask to.) Like Dhawan, she worked at Theranos for less than a year.
+
+In his closing arguments, prosecutor Jeffrey Schenk returned to the lab directors' testimonies. "Dr. Rosendorff is complaining about accuracy, asking them to do more proficiency testing. Who they replace him with is Sunny Balwani's dermatologist who works five hours over six or seven months, and Lynette Sawyer, who works less."
+
+Billionaire families and conspicuous absences
+
+the family behind the Cox Enterprises conglomerate and the Walton family of Walmart fame. Each were said to have invested $100 million or more in the startup. Theranos' list of major investors was a who's who of corporate America — the billionaire family of former Education Secretary Betsy DeVos,the family behind the Cox Enterprises conglomerate and the Walton family of Walmart fame. Each were said to have invested $100 million or more in the startup.
+
+While members of those families did not testify directly, jurors heard from Lisa Peterson, a managing director of the DeVos family's investment fund, and Daniel Mosley, an estate lawyer who introduced several of what he called "high quality families" to Theranos and whose clients included former Secretary of State Henry Kissinger.
+
+Kissinger, who was one of Holmes' most vocal backers and served on Theranos' board, was on the government's list of possible witnesses but ultimately did not take the stand. Another big Holmes backer whose name was on the witness list, billionaire media mogul Rupert Murdoch, did not testify either.
+
+But Murdoch's name did come up in the trial, when Holmes admitted on the stand that she wrote to him to try and kill Carreyrou's Wall Street Journal exposé. (Murdoch is the executive chairman of News Corp, which owns The Wall Street Journal.)
+
+Holmes expressed regret for the way she handled the situation. "I couldn't say more strongly, the way we handled the Wall Street Journal process was a disaster," she testified. "We totally messed it up."

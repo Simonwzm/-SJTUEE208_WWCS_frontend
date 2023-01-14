@@ -1,0 +1,51 @@
+New York CNN Business —
+
+As with so many areas of life, the pandemic has changed how people are managing their money — they’re using technology more than ever.
+
+It’s not just online banking applications. These days, people are relying on tech for everything from investing to financial planning.
+
+In many cases, the changes were prompted by coronavirus-related lockdowns and social distancing measures. But many expect them to stick even after the pandemic ends, which could mean huge growth opportunities for banks investing in new technology capabilities and “fintech” firms that make digital financial services.
+
+“What we’ve seen is that consumers during this period have increased their reliance on digital financial services built by banks but also, importantly, built by non-banks,” Zach Perret, CEO of fintech firm Plaid, told CNN Business.
+
+Plaid, which is set to be acquired by Visa (V) for $5.3 billion, provides the digital infrastructure linking people’s bank accounts and financial data to the apps they use to manage their money (like Venmo or Expensify). From March to May, the fintech firms Plaid works with logged a 44% jump in new users compared to the same period in the prior year. Plaid itself has hired 20% of its total workforce since the start of the pandemic.
+
+“I think the pandemic has made it incredibly clear that digital financial services are here to stay,” Perret said.
+
+Breaking the ‘zero-to-one gap’
+
+Some of the fintech firms getting a boost from the pandemic are more obvious than others.
+
+Trading app Robinhood recently became more valuable than traditional gambling companies MGM and Wynn following a jump in millennial users betting on stocks while stuck at home. As of early May, the company reported adding more than 3 million users in 2020. Last month, Robinhood’s valuation grew to $11.2 billion after a $200 million funding round.
+
+Some experts believe Robinhood users may have even contributed to the stock market’s dramatic rebound over the summer, despite the ongoing economic downturn.
+
+But Perret said he’s also seen a growth in “embedded fintech” applications — money management tools built into non-finance companies’ platforms, such as a new Microsoft tool that lets users connect budgeting spreadsheets directly to their bank and credit card accounts.
+
+Fintech appears to be reaching new types of users during the pandemic, too.
+
+PayPal (PYPL) experienced a surge in new accounts owned by what CFO John Rainey has referred to as the “silver tech demographic.” The company expects to add 70 million net new accounts in 2020, which would be nearly double the rate from the previous year.
+
+“The fastest growing demographic in terms of growth of our net new (active users) were those over 50,” Rainey said during the Bank of America Global Technology Conference in June. “That demographic tends to be a wealthier demographic, so we’re seeing higher transaction sizes as it relates to them.”
+
+Bank of Americ (BAC)a CEO Brian Moynihan said during the company’s second quarter earnings call that the bank added more than a million new mobile check deposit users in the quarter. A “surprising” 22% of them, he said, were baby boomers or seniors “who have been traditionally harder to engage digitally.” Digital log-ins by Merrill Lynch investment clients also grew more than 100% year-over-year.
+
+The pandemic has been a major opportunity because it gave people a reason to try fintech tools that they may not otherwise have used, and they’re likely to keep using them, Perret said.
+
+“People are trying digital finance for the first time,” Perret said. “It’s going from an attitude where people think, ‘I do my banking in person,’ or, ‘I do financial services in person,’ to an attitude of thinking, ‘I could use these digital services.’ Breaking that zero-to-one gap, that’s the biggest gap.”
+
+What’s next for fintech?
+
+While the growing demand for fintech is promising for the industry, concerns about data privacy and cybersecurity could be a hurdle for further growth.
+
+In a recent survey by international law firm Goodwin of more than 700 global business leaders about fintech trends, nearly half ranked cybersecurity as the largest threat to the adoption of digital financial services. There are also issues like possible tech glitches as users are trying to make crucial transactions, as happened to several online brokerages on the day that Apple and Tesla stock started trading at newly split prices last month.
+
+“As digital transformation of financial markets accelerates at breakneck speeds, fintech presents — in equal measure — significant opportunities and challenges for both investors and innovators around the world,” said Scott Joachim, co-chair of Goodwin’s fintech practice and co-author of the report.
+
+It could help that big banks will probably drive much of the innovation in fintech going forward, according to Perret. While consumers may not ditch their physical bank branches entirely, they increasingly want the option to use digital services.
+
+“It’s hard to say that any bank that doesn’t have a digital experience in the next three to five years is going to be a bank that people are particularly excited to work with,” Perret said, adding that many banks are trying to condense what had been three- to five-year technology roadmaps into the next twelve months.
+
+“Startups have built really interesting financial experiences,” he said. “But now we’re seeing a lot of those experiences go mainstream.”
+
+Correction: An earlier version of this story misstated the timeline of Visa's Plaid acquisition.

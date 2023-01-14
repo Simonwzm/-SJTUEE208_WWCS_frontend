@@ -1,0 +1,53 @@
+(CNN Business) Last year, Facebook-parent Meta effectively pushed back its timetable for rolling out end-to-end encryption by default across its various social platforms, with an executive saying the privacy-enhancing change would not happen until sometime in 2023.
+
+The delay came under a new spotlight this week after news broke that Facebook messages sent through Messenger and obtained by law enforcement had been used to charge a Nebraska teen and her mother with having an illegal abortion.
+
+The case began before the Supreme Court overturned Roe v. Wade in June, and Meta said the search warrant it received did not mention abortion. But to some digital privacy experts, it highlighted the risks women now face with their online data in a post-Roe America — and the urgency for tech companies like Facebook to enable end-to-end encryption by default.
+
+End-to-end encryption refers to the practice of coding messages so that only the sender and recipient can see their contents without the messaging platform having any access to them. While a large subset of users may not actively consider the level and type of encryption their messages have, it is becoming increasingly important that they do — or, some experts say, that tech companies make a choice for them.
+
+"The end of Roe throws into sharp relief the paramount importance of turning on [end-to-end encryption] by default instead of making users navigate security and privacy settings for themselves," said Rianna Pfefferkorn, a research scholar at the Stanford Internet Observatory whose work focuses on encryption.
+
+Facebook's long road to accomplishing that, however, highlights the broader challenges facing the industry and the tradeoffs between privacy and convenience that companies and users increasingly have to make.
+
+Facebook's evolving approach to encryption
+
+Meta's mobile messaging platform WhatsApp already offers default end-to-end encryption, as well as encrypted backups of users' messages. In recent years, Meta has worked to expand and improve its encryption options for its other services.
+
+In April 2021, a Facebook executive said the company wouldn't be able to implement end-to-end encryption by default across all its products until "sometime in 2022 at the earliest." Seven months later, another Facebook executive, Antigone Davis, penned an op-ed piece in a British publication revealing the option wouldn't be available "until sometime in 2023."
+
+Facebook, along with other tech companies, has long had to contend with pressure from government officials around the world over making messages accessible to law enforcement agencies in order to prevent bad actors from using their platforms for illegal activities.
+
+In her piece, Davis noted the "ongoing debate about how tech companies can continue to combat abuse and support the vital work of law enforcement if we can't access your messages." She said the company was "engaging with privacy and safety experts, civil society and governments to make sure we get this right."
+
+Days after the Nebraska news this week, Meta announced it would start testing default end-to-end encryption for Facebook Messenger as well as a "secure storage" option for encrypted messages on Facebook. A Meta spokesperson said the timing of updates was unrelated.
+
+As part of its updates, Meta appeared to offer an example of how it's trying to walk the line between bolstering privacy and combating abuse. The company said it would only be able to see encrypted messages in live conversations if users report them, for example, over harassment concerns.
+
+Meta also reiterated it plans to extend the default option to all its messaging services "sometime in 2023."
+
+Despite the delay, Meta's encryption goals appear closer to being realized than many of its messaging peers.
+
+"Facebook recognizes how important encryption is for protecting our personal privacy," Pfefferkorn said. "To that end, it has been working for years on making Messenger more like WhatsApp."
+
+What you need to know to protect your messages
+
+Beyond Meta's suite of apps, it can be hard to keep straight the level of encryption provided by popular messaging services.
+
+Twitter does not encrypt direct messages on its platform, something the platform's possible future owner Elon Musk has said he wants to change. Other messaging apps such as Signal do offer end-to-end encryption by default, while Telegram allows users to opt in. SMS text messages aren't encrypted at all.
+
+Some platforms, such as Apple's iMessage, have a more nuanced encryption profile across devices and services. While iMessage is end-to-end encrypted by default, message backups to iCloud may not be , and the key to decrypt those messages is also stored on iCloud. That means if law enforcement gain access to your iCloud account, they could theoretically have both pieces of the puzzle to access your messages — even from an encrypted service.
+
+"If you use iMessage, turn off iCloud backups [and] turn off iCloud backups of your WhatsApp," said Laura Edelson, a postdoctoral researcher with the Cybersecurity for Democracy initiative at New York University's Tandon School of Engineering. "The first thing to do if you are an iPhone user is going to your iPhone settings and see what's being backed up."
+
+In general, she said, the ideal would be using a messaging platform that is end-to-end encrypted by default. But if you do use a platform such as Facebook Messenger that isn't, Edelson recommends going into your settings and enabling it. She also suggests nudging the people you text to use more secure platforms such as Signal.
+
+But as more Americans weigh encryption options in the wake of the Roe ruling, it's important to be mindful of potential drawbacks, too. For example, losing your phone or forgetting your password could mean those messages are lost forever.
+
+While WhatsApp currently offers encrypted backups, most other messaging apps do not, and backing up your messages could make them potentially vulnerable in a way that defeats the purpose of encrypting them in the first place.
+
+"We have trained users that they can access their messages anywhere, from any computer, just by logging in, and that if they need to there is some third party who can recover them," Edelson said. "But what inherently comes with that if there is some third party who can recover your messages for you, they can recover your messages for anyone else."
+
+Still, for those concerned about the shifting legal landscape, the tradeoffs may be worth it.
+
+"No one needs absolute privacy until the moment they need absolute privacy," she said, "and then they really need it."

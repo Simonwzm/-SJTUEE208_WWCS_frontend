@@ -1,0 +1,9 @@
+(CNN Business) Israeli engineer Moshe Ravid came home one day to find his house flooded by a burst water pipe. Once he'd finished mopping up, he immediately went to work on a solution to prevent it from happening again.
+
+Ravid created an artificial intelligence-powered water meter called WINT. The unit integrates into existing pipe systems, where it can learn the normal water flow, detect when things go wrong, and shut off malfunctioning parts before any damage is done, according to Yaron Dycian, chief product and strategy officer at WINT Water Intelligence, a startup based in Tel Aviv.
+
+WINT communicates with the cloud over a cellular network to deliver real-time analytics and alerts through its app.
+
+Launched in 2012, the company's technology was originally designed for homes but has since started targeting companies that are looking not only to prevent damage but also to waste less water.
+
+Nine years and many algorithms later, WINT is gaining recognition for its water saving tech . In 2019, the company expanded into the United States and Europe -- where the technology has already been adopted by companies such as Microsoft, HP and Mastercard.

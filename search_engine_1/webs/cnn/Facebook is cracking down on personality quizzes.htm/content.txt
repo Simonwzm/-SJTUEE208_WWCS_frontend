@@ -1,0 +1,23 @@
+New York CNN Business —
+
+More than a year after the Cambridge Analytica scandal, Facebook is cracking down on personality quizzes. Sort of.
+
+On Thursday, the company updated its platform policies and said apps with minimal utility, such as personality quizzes, “may not be permitted on the platform.”
+
+A Facebook (FB) spokesperson said that quiz apps aren’t banned completely, but will be subject to heightened scrutiny. Facebook (FB) didn’t elaborate on how it will enforce this new policy or the criteria it will use for determining how much utility different quizzes have.
+
+The company’s policies also now say apps cannot ask for data that doesn’t improve the user experience.
+
+Many types of personality quizzes are currently available on Facebook, ranging from “Which ‘Game of Thrones’ house do you belong to?” to “What is my spirit animal?”
+
+A quiz was at the center of the Cambridge Analyitica scandal. The format has sometimes been a way for groups to gather personal data from unsuspecting Facebook users.
+
+In March 2018, Facebook revealed that political research firm Cambridge Analytica accessed information from as many as 87 million Facebook users without their knowledge.
+
+The data was first collected by University of Cambridge professor Aleksandr Kogan who used a Facebook app called “thisisyourdigitallife,” which offered a personality quiz. Facebook users who downloaded the app gave it permission to collect data on their location, friends and things they “liked” from the social media behemoth.
+
+In the wake of the scandal, Facebook pledged to limit developers’ access to user data.
+
+Last year, the company announced it suspended several hundred apps after investigations into how developers handled user data.
+
+On Wednesday, Facebook said it expects an ongoing investigation from the Federal Trade Commission to result in fines of up to $5 billion following a year of data privacy scandals.

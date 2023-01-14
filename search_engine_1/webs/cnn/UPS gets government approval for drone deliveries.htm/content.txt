@@ -1,0 +1,25 @@
+Washington, DC CNN Business —
+
+UPS is one step closer to making drone deliveries nationwide.
+
+On Tuesday, the Federal Aviation Administration announced it had granted UPS a certificate to operate limited drone delivery services across the United States.
+
+Over the past six months, UPS has already made 1,100 medical sample deliveries at a Raleigh, North Carolina, hospital under a government pilot program. The deliveries travel 150 meters from one hospital location to another. Now UPS plans to expand to more than 20 hospitals over the next two years.
+
+Even so, significant barriers remain before UPS can deliver packages to your home — or make drone deliveries a meaningful business. The FAA is still developing critical rules for drone delivery, including a way for authorities to remotely identify drones.
+
+The Trump administration has taken steps to try to speed the rollout of the technology. In October 2017, the US Department of Transportation announced a limited program to loosen rules and allow more advanced drone tests, including flying over people and at night. The UPS flights in North Carolina are part of those tests, and the FAA must approve all routes.
+
+UPS first announced in March that it would work with Matternet, a drone company, to make deliveries daily between two locations at the WakeMed hospital in Raleigh, North Carolina. UPS said it generates revenue from the flights, but declined to provide further details.
+
+The UPS drones fly fully autonomously on pre-programmed routes that a remote human pilot monitors. Companies such as UPS will eventually have to receive government approval to operate flights without human supervision to make drones a viable business.
+
+Wing, the drone delivery arm of Google’s parent company Alphabet, was the first company to receive a similar certificate from the government. It’s launching a limited pilot in Christiansburg, Virginia, with Walgreen’s this month. Like UPS, it faces meaningful restrictions to scaling its business.
+
+UPS is already making medical deliveries with drones at a North Carolina hospital. UPS
+
+UPS’s certificate has fewer limitations, as it has no cap on how many pilots it may use at once, allowing for unlimited flights. Wing is limited to a single pilot, so it can only complete one flight at a time.
+
+More companies are likely to receive certificates as the FAA is processing six applications.
+
+The largest drone delivery operations are happening overseas. Wing is already making deliveries in Australian suburbs. Zipline, a Silicon Valley drone startup, says it’s made more than 20,000 deliveries of medical supplies in Rwanda and Ghana, and is expanding into India.

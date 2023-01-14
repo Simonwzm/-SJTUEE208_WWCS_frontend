@@ -1,0 +1,39 @@
+Beginning this week, Tinder users will see a background check tool integrated into the popular dating app's Safety Center. The new option is part of a partnership between Tinder's parent company, Match Group, and Garbo, a nonprofit background check provider focused on gender-based violence awareness and prevention.
+
+The update, announced Wednesday, comes a year after Match Group shared news of an investment in Garbo, putting seven-figures into the organization with the intention of helping build out its service and making it accessible to its users. Alongside the Tinder rollout, Garbo is also removing its waitlist and will allow anyone — Tinder user or not — to conduct searches on its website for a small fee.
+
+Garbo, which calls itself a new kind of background check for the digital age, was founded by Kathryn Kosmides, who is a survivor of gender-based violence. Garbo currently searches public records of arrests, convictions, and sex offender registries across counties in the United States where accessible. Match Group is Garbo's first consumer partner.
+
+To conduct a search, Garbo asks for information that one might readily have about a possible online dating connection as one nears an IRL date, such as a first and last name and a phone number. More information, such as age, date of birth, zodiac sign (which users can opt to share on Tinder and would help narrow down one's birth month) and zip code, will help surface more accurate results.
+
+The goal is to arm online daters with information that can make them feel safer about their dating choices, but the service could also raise new concerns about how people will use it and what they may take away from it.
+
+Kosmides said individuals who seek out Garbo will likely come from one of two buckets: "They're either a cautious person and searching everyone, or they have a gut feeling about someone," she said, adding she hopes to eventually make the platform more robust over time to incorporate other relevant types of records.
+
+Some safety experts see Tinder's incorporation of Garbo's tool as an example of paying lip service to the issue while shifting the burden to its most vulnerable users.
+
+"We know that sexual violence is so rarely reported and we know that convictions are so incredibly rare even when it is reported," said Nicole Bedera, a sociologist who has researched sexual violence and who previously worked as a victim advocate. "You're going to be missing a lot of really dangerous people through using criminal records and background checks as a proxy for safety. It can create this false sense of safety when it shouldn't be there."
+
+Bedera said that instead of focusing on tech features and products, Tinder and Match Group could, for example, put lobbying money into offline efforts to educate and prevent sexual violence. "I don't think tech is a solution to all components of sexual violence." (Last fall, Match Group's CEO threw support behind the Violence Against Women Act, including a $500,000 corporate donation to the nonprofit National Network to End Domestic Violence.)
+
+Kosmides acknowledges Garbo is far from a silver bullet. The database currently has more than 1 billion records of violent and harmful behavior, the nonprofit said, but there's also a significant caveat, which Kosmides and Garbo make clear. "Most violent individuals never interact with the criminal justice system," Garbo's website states.
+
+Kosmides said she doesn't want to provide a false sense of security. The intention, she said, is not for people to "overindex" on whether a search turns up a criminal record for someone. Rather, she said it is part of Garbo's overall mission to educate and support people on gender-based violence. (Garbo's website contains articles and a podcast intended for people to navigate relationships with support. It has also partnered with the National Domestic Violence Hotline so people can access a 24/7 chat through Garbo.)
+
+Tracey Breeden, head of safety and social advocacy at Match Group, echoed this point. Breeden said a product like Garbo can create safety for people, but "we just have to make sure we're prioritizing education, as well ... to make sure safety doesn't begin and end with a background check."
+
+A former law enforcement officer, Breeden joined Match Group in late 2020, after working as Uber's head of its global women's safety and gender-based violence programs. In a conversation with CNN Business last year, ahead of the Garbo investment, Breeden said that in joining the dating industry, she "saw a need for people to be able to access information."
+
+Tinder, like Uber , has drawn significant attention over the platform's safety issues. Months before Breeden joined, ProPublica and Columbia Journalism Investigations exposed shortcomings of Tinder and other dating services, including how they fail to crack down on sex offenders . (In response to that article, a Match Group spokesperson said the company doesn't collect enough information about users to conduct screenings.)
+
+Asked by CNN Business why Tinder doesn't directly leverage the information from Garbo to first clean up its platform rather than putting the onus on individuals to do the work, Breeden said the company may not have the relevant information about users to conduct the searches. Breeden also said users could choose to report someone based on a Garbo search and Match Group would then take action.
+
+Garbo said a search typically takes up to three minutes to populate results. To access results, users must acknowledge that Garbo should not be used for other purposes like employment or tenant screening, credit or insurance, or hiring household workers. Garbo also notes the level of accuracy of the information it produces, rated by how much the results match the personal details provided.
+
+Tinder said it will give users two free background checks on Garbo to start. For non-Tinder users, or for any subsequent searches, people can purchase one, three, or five credits from Garbo for $2.50 a piece plus a processing fee. The site also gives the option to pay more to donate free searches to people in need.
+
+Unlike other background check providers, Garbo doesn't provide identifying information like someone's address history in search results.
+
+Bedera noted that the criminal background checks, given their limitations, at best have "limited effectiveness and at worse could reproduce inequality," citing the systemic biases in the criminal justice system.
+
+Garbo says it removes certain non-violent offenses and retrieves records going back up to 14 years on offenses with victims and up to seven years on financial crimes. It has no lookback periods on domestic or sexual assaults. When it turns up results, Garbo also provides the relevant penal code associated for users to learn more.

@@ -1,0 +1,85 @@
+Las Vegas CNN Business —
+
+A visit to CES, the annual consumer electronics show, is like wandering through 2.7 million square feet of a SkyMall catalog.
+
+The gadget convention in Las Vegas is packed with thousands of companies showing off their futuristic devices. Some products are innovative; others will never make it to stores.
+
+Although there were fewer standout launches and announcements compared to past years, these things caught our attention amid an endless sea of headphones and speakers.
+
+Samsung's Bot Air roams around to purify the air Justin Sullivan/Getty Images
+
+Useful robots
+
+Robots are a mainstay of CES, but they’re usually just something fun to check out before moving onto what will actually be useful in the next 10 years. The robots on display this week were built with some practical applications in mind, such as helping out around the house.
+
+Samsung’s Bot Air wanders around and purifies the air in different rooms, flashing a green light when the air is considered clean. Meanwhile, the Ubtech Walker is just over four-and-a-half feet tall, and can fetch objects like your slippers. Another robot, the Temi, can’t grab things, but it can use image detection to follow you around and make video calls or Google recipes.
+
+More companies introduced companion robots, too. Samsung’s Bot Care prototype could help take care of sick or elderly family members by tracking blood pressure and heart rates. The Elli-Q robot by Intuition Robotics is designed to help keep seniors sharp with medication reminders, quizzes and the ability to talk to family members.
+
+Stores like Amazon Go are already being automated, but robots could join the team to handle customer service or stock shelves. Softbank’s Pepper is the classic example. This year it was joined by Samsung’s Bot Retail prototype, which has a touchscreen “face” and can be programmed to offer information in a mall, take an order at a restaurant, deliver food to your table and even process your payment.
+
+Kohler's Numi toilet comes with built-in Alexa control. Patrick T Fallon/Bloomberg/Getty Images
+
+Everything is voice controlled now, including a toilet
+
+Voice commands are coming to everything in your life, from the refrigerator to the toilet. Countless companies announced they were adding Google Assistant and Alexa powers to their gadgets at CES. Kohler is including Alexa in its new Numi toilet, so you can control things like the heated seat, lights and ambient noises it’s programmed to play. You’ll also find the dueling voice assistants in smart thermometers, door locks, showers, speakers, robot vacuums, ovens and washing machines.
+
+The Google ride at CES Patrick T. Fallon/Bloomberg/Getty Images
+
+Google’s Googley takeover
+
+For the second year in a row, Google’s marketing department went a bit overboard at CES. Las Vegas monorails and billboards were wrapped in ads for its Google Assistant again — an attempt to build more hype than its rival, Amazon’s Alexa.
+
+It also tripled its presence on the show floor and even installed a roller coaster of sorts, which took riders through indoor and outdoor displays that showed off the Assistant’s abilities — not unlike Disney’s “It’s a Small World” ride, but for Google.
+
+Google had its fair share of news at the event, too. The company unveiled a new interpreter mode for Google Home devices to help people communicate. It’s testing it out on smart displays in hotels, so people can see translations instantly via Google Assistant when they check in and don’t speak the language.
+
+Google also announced partnerships with Sonos, Dish Hopper and Samsung, and said its voice assistant will be available on 1 billion devices by the end of January.
+
+FightCamp brings a complete boxing workout to the home. Courtesy Fightcamp
+
+Internet-connected workouts are everywhere
+
+One of the buzziest products at CES last year was Peloton’s $4,000 treadmill and its on-demand classes. Now other fitness brands aim to cash in on the high-tech home-workout trend.
+
+There were more connected treadmills, weights and workout equipment than we could count. A new BowFlex service offers on-demand classes on its elliptical machines. JaxJox’s smart $349 kettlebell tracks your reps and sets and FightCamp’s equipment setup is complete with punch-tracking sensors, a pair of boxing gloves and wraps, a free-standing punching bag and a mat. But at $995, it’s not for the casual fighter and requires a monthly membership of $39 to access unlimited online workouts.
+
+Intel is a partner on a new AI camera that detects poachers in wildlife reserves. Courtesy Intel
+
+AI is everywhere, even the wilderness
+
+Artificial intelligence was the buzzword of CES 2019. Television makers said they’re adding it to products to improve video quality, and self-driving companies continue to build AI into vehicles to help with navigation and safety. Meanwhile, Intel and Facebook announced they’re teaming up on an AI chip.
+
+But one of our favorite examples is solving a very old, low-tech problem: animal poaching. Intel is partnering with Resolve and the National Geographic Society on a new “TrailGuard AI” camera that uses artificial intelligence to detect poachers in wildlife reserves in Africa.
+
+The cameras, which have already been deployed, use AI to identify faces and differentiate between movement caused by wind, animals or humans. The system alerts officials when it thinks a threat is likely, so they can take action faster and hopefully save more endangered animals.
+
+LG makes a splash with its curved screens David Becker/Getty Images
+
+Big, beautiful, chatty TVs
+
+CES is a chance for TV manufacturers to show off what they can do — even though many of their creations never make it to customers.
+
+LG’s booth was the star of the convention floor. It assembled a soothing hallway of curved screens and a commercial version of its roll-up display, coming later this year.
+
+The company also showed off a massive 88-inch 8K OLED television with more pixels than anyone currently needs. Instead of relying on attached speakers, the TV’s sound system is embedded in the screen, making it so that noises seem to come directly from the objects making them.
+
+Samsung also made a splash when it announced it was adding an iTunes app to its smart TVs and support for HomeKit and AirPlay 2, which lets you play content such as music and movies from Apple devices to a bigger screen. Vizio and LG announced added support for AirPlay and HomeKit, too. Apple doesn’t traditionally give outside hardware companies access to its ecosystem, but the move shows it may recognize this as a growth opportunity.
+
+Samsung showed off a 219-inch version of the “The Wall,” the massive MicroLED display it announced at CES last year. The screen creates a brighter image that uses less energy, and could be an alternative to current screen technology in the future.
+
+The company also announced a new 75-inch modular MicroLED screen that can be cobbled together to build a 270-inch display. Modular displays take smaller screens of various shapes and sizes, and click them together into larger custom designs, like blocks.
+
+Opté scans the skin and places mineral pigments directly on dark spots. Courtesy Opte skincare
+
+The quest for perfect skin
+
+Beauty companies, Procter & Gamble, L’Oreal and Neutrogena are getting more serious about tech. The brands showed off beauty gadgets, apps and the future of their stores this week.
+
+Procter & Gamble announced a new feature in its existing online Olay Skin Advisor tool that tells users how old their skin looks. Called Olay Future You Simulation, it uses an algorithm to show users what their skin and face will look like in the future under different scenarios, such as not wearing sunscreen regularly.
+
+In addition, Olay’s new Smart Wand provides targeted electromagnetic treatment and works with an accompanying app. It promises to “personalize and optimize” skin care products to a user’s specific issues. The app syncs with the wand to push a product into the skin and target certain problems.
+
+Opté, from P&G’s startup incubator, also debuted a wand. It scans the skin and place mineral pigments directly on dark spots. It has a tiny built-in scanner, camera and micro printer.
+
+Meanwhile, Neutrogena’s new MaskiD app measures the size of a user’s face and then creates a custom mask to fit. Each mask has a unique shape and color patterns for different skin needs.

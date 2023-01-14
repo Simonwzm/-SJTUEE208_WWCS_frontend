@@ -1,0 +1,11 @@
+(CNN Business) A federal judge has denied Parler's request for a court order blocking Amazon from kicking the social media app off its platform, marking yet another setback in Parler's efforts to get back online.
+
+Judge Barbara Rothstein issued a ruling on Thursday saying that Parler had not met the legal requirements for a temporary restraining order or preliminary injunction.
+
+That decision does not end the litigation, but it does mean that the court will not force Amazon Web Services to allow Parler back onto its cloud hosting platform. Amazon's move effectively kicked Parler off the public internet.
+
+Parler, the alternative social media platform favored by the far-right, had sued AWS earlier this month after AWS claimed Parler did not do enough to remove instances of incitement from its website.
+
+Amazon previously said Parler's lawsuit has "no merit" and argued in a legal brief that Parler had "demonstrated unwillingness and inability to remove from the servers of Amazon Web Services ('AWS') content that threatens the public safety."
+
+Read More

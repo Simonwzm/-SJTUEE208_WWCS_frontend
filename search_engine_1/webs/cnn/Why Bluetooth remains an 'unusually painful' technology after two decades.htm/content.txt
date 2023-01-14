@@ -1,0 +1,11 @@
+(CNN Business) In the two decades since it was first included in products available to the general public, Bluetooth has become so widespread that an entire generation of consumers may not be able to remember a time without it.
+
+ABI Research estimates that 5 billion Bluetooth-enabled devices will ship to consumers this year, with that figure expected to rise to 7 billion by 2026. Bluetooth is now in everything from smartphones to refrigerators to lightbulbs, allowing a growing number of products to connect to each other seamlessly — sometimes.
+
+Despite its pervasiveness, the technology is still prone to headache-inducing issues, whether it's the struggle to set up a new device to connect with, switching headphones between devices or simply being too far out of range to connect.
+
+"I have a very love-hate relationship with Bluetooth," said Chris Harrison, a professor of Human-Computer Interaction at Carnegie Melon University. "Because when it works, it's amazing, and when it doesn't, you want to rip your hair out."
+
+"The promise was to make it as seamless and easy as possible," he said. "Bluetooth never quite got there, unfortunately."
+
+Read More

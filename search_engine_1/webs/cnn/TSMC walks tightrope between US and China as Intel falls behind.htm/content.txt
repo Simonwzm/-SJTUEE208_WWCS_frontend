@@ -1,0 +1,59 @@
+Hong Kong CNN Business —
+
+The world is becoming increasingly dependent on a Taiwanese company for the most advanced semiconductors, after a stumble by rival Intel. But TSMC is trying to pull off a high-wire act by keeping both China and the United States happy at a time of rapidly escalating geopolitical tensions.
+
+There are only three companies that can manufacture super-advanced chips in the world: Taiwan Semiconductor Manufacturing Company (TSMC), California-based Intel and South Korea’s Samsung. State-of-the-art chipmaking is rare and specialized because it’s incredibly expensive to keep competing at the highest level.
+
+This week, TSMC shares soared to new heights in Taiwan after Intel (INTC) warned it was behind schedule on manufacturing 7 nanometer chips, and may outsource production of them. Advanced chips can store and process more information. A smaller nanometer size means a more advanced chip.
+
+TSMC is the most likely candidate the US firm could turn to for help. Samsung (SSNLF) is producing 7 nanometer chips, but its manufacturing business is small relative to TSMC. It also mostly makes memory chips, while Intel needs help manufacturing advanced processing chips.
+
+Intel’s setback probably won’t spell its doom. The company has led the semiconductor industry for years and will likely get to manufacturing 7 nanometer at commercial levels “within fairly short order,” according to Bret Swanson, visiting fellow at the American Enterprise Institute, a Washington-based think tank.
+
+But TSMC’s successes right now -— and its position as the leading global supplier of chips — make it an enormously important company at a critical time. The United States and China are locked in a battle over who can more rapidly develop the technologies of the future, and both countries have partnerships with TSMC to supply them with the chips they need to power advanced technology such as artificial intelligence, 5G and cloud computing.
+
+TSMC hedges against tensions with the United States, but risks angering China
+
+The company is also spending big money to keep up those relationships. TSMC announced earlier this year that it is building a $12 billion manufacturing facility in Arizona that will be able to produce 5 nanometer chips by 2024. The announcement was a win for the Trump administration, which wants to have more advanced chip making capabilities in the United States, to secure supply chains for chips used in military or sensitive civilian applications.
+
+But the fact that TSMC is helping the US shore up its chipmaking capabilities could upset China. TSMC has invested billions of dollars in manufacturing plants in mainland China. Should Beijing retaliate against TSMC and Taiwan, that would at the very least throw markets into turmoil.
+
+“There has been concern in Taiwan about the potential for Beijing to nationalize TSMC fabs [plants that fabricate chips] in Nanjing and Shanghai,” said Paul Triolo, head of global tech policy at Eurasia Group.
+
+While China has never controlled Taiwan, the Communist government regards the self-governing island as an integral part of its territory. China bristles whenever the United States has diplomatic engagements with Taiwan. Officially, Washington only has diplomatic relations with Beijing.
+
+Taking over TSMC’s mainland China plants, which are wholly owned, is highly unlikely, Triolo said. It “would be a major escalation and a huge blow to the business community. It is not clear what this would buy for Beijing other than major negative downsides,” he added.
+
+What China could do, is try to persuade TSMC to build a high-end plant on the mainland. The current TSMC plants in Nanjing and Shanghai operate less advanced technology. The company’s most advanced fabs are in Taiwan, and Arizona would be the first large-scale overseas plant, according to Counterpoint Research.
+
+“Beijing could argue that if TSMC is willing to [build] advanced fab in Arizona, it should be willing to do the same in China,” Triolo said.
+
+Washington’s long-standing pressure campaign against Huawei underscores just how badly China needs to reduce its independence on foreign chipmakers.
+
+The latest US sanctions announced in May cut the Chinese telecommunications maker off from TSMC. Even though TSMC is a Taiwanese company, it relies on American tech to manufacture chips. The US Commerce Department said TSMC and other chip makers that use US technology would now have to apply for a license to export products to Huawei and its chip subsidiary HiSilicon. Those applications would very likely be denied, given Washington wants to keep Huawei gear out of global 5G networks.
+
+Aside from geopolitics, there’s also geography. Taiwan is the world’s top exporter of semiconductors, and the global supply chain needs more chip making capabilities spread out around the world.
+
+TSMC is the world’s largest contract manufacturer of chips. Companies like Apple (AAPL), Amazon (AMZN AMAZON), Qualcomm (QCOM) and Nvidia (NVDA)can design advanced chips, but they don’t have TSMC’s costly fabrication manufacturing capabilities to build them. They are “fabless” chip makers.
+
+Although Intel can design and fabricate its own semiconductors, it can only turn to TSMC when it falls behind on cutting-edge chips.
+
+The concentration of so much advanced semiconductor manufacturing capacity on a tiny island just off the coast of mainland China has always been a supply chain worry, according to Swanson, of the American Enterprise Institute. “What if there’s a tsunami in Taiwan?” he said.
+
+That again puts TSMC in a very strong position. “The West probably would like to help protect Taiwan not just geopolitically, but because of this technical prowess and technical capacity there,” Swanson said.
+
+China is far behind when it comes to chipmaking
+
+Taiwan has shared its technical know-how with China. Over the years, hundreds of thousands of Taiwanese engineers have gone to the mainland to help develop China’s domestic semiconductor industry, which Swanson notes has “made huge strides in the last two decades.”
+
+Despite huge domestic support, semiconductors remain a key technology bottleneck for China.
+
+Semiconductor Manufacturing International Corporation (SMIC), the country’s largest chipmaker, remains stuck anywhere from three to five years behind industry leaders Intel, Samsung and TSMC, according to Triolo, of Eurasia Group.
+
+SMIC is currently manufacturing 10 nanometer chips, while top players are already producing 7 nanometer chips, and racing to transition to 5 nanometer and eventually 3 nanometer chips.
+
+To make 7 nanometer chips, however, companies need access to an extreme ultraviolet (EUV) lithography machine. Such machines are capable of producing the complex patterns on cutting edge chips. They are also very difficult to operate, which is why Intel is having problems making 7 nanometer chips for commercial production, according to Triolo.
+
+The problem for SMIC is the United States is pressuring the Netherlands to block the sale of EUV equipment to SMIC by Dutch company ASML, Triolo said. The technology is designed by ASML, but includes substantial amounts of US intellectual property.
+
+The geopolitical situation could change. But given the time it takes to master EUV, any major delay would push SMIC’s commercial entry into today’s most advanced chips past 2023, Triolo said, and by then, industry leaders will be far ahead.

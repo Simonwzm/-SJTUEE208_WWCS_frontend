@@ -1,0 +1,49 @@
+Hong Kong CNN Business —
+
+An international advocacy group has accused Apple, Google, Microsoft, Dell and Tesla of “knowingly benefiting from” the use of young children to mine cobalt in the Democratic Republic of Congo.
+
+International Rights Advocates filed a federal class action against the five companies in Washington, D.C. on Sunday, where the group is based. The complaint claims that the firms “are knowingly benefiting from and aiding and abetting the cruel and brutal use of young children” to mine cobalt in extremely dangerous conditions.
+
+The defendants have known for a “significant period of time” that Congo’s mining sector “is dependent upon children,” the complaint said, adding that cobalt mined in the region is listed as a good produced by child labor or forced labor by the US Department of Labor.
+
+“Further, the horrors of the plight of these children has been widely reported in the media,” the complaint said, citing reports about the cobalt pipeline published by the Washington Post, the Guardian and others.
+
+Cobalt is a major component of lithium-ion batteries found in virtually every rechargeable electronic gadget. Two-thirds of the world’s cobalt comes from Congo.
+
+In 2018, a CNN investigation found that child labor and corruption was still rife there. Many companies including Tesla told CNN at the time that they were unable to fully trace out their supply chains due to what they described as the complex nature of sourcing the precious metal. But the electric carmaker also said it sourced most of its cobalt from suppliers outside Congo and was “committed to only sourcing responsibly-produced materials.” Apple was one of only a few companies to reveal their suppliers to CNN.
+
+Click here to read CNN’s investigation into cobalt mining
+
+The new suit was filed on behalf of more than a dozen anonymous plaintiffs, who are described as “guardians of children killed in tunnel or wall collapses” while mining, or “children who were maimed in such accidents.”
+
+The complaint details several cases involving children it claims were injured, including one boy who slipped and fell while working in a mine and is “now completely paralyzed from his chest down.”
+
+Apple (AAPL) declined to comment about the specific allegations in the lawsuit. In a statement to CNN Business, the company said that it remains “deeply committed to the responsible sourcing of materials that go into our products.”
+
+“Since 2016, we have published a full list of our identified cobalt refiners every year, 100% of which are participating in independent third party audits,” a spokesperson said. “If a refiner is unable or unwilling to meet our standards, they will be removed from our supply chain. We’ve removed six cobalt refiners in 2019.”
+
+The iPhone maker said in 2017 that it would stop sourcing cobalt from artisanal miners, a term that refers to individuals who lack professional equipment. In May 2018, the company declined to comment on reports that it was in talks to buy cobalt directly from regulated mines in Congo.
+
+Dell (DELL) said in a statement that it is “committed to the responsible sourcing of minerals” and “upholding the human rights of workers at any tier of our supply chain and treating them with dignity and respect.”
+
+“We have never knowingly sourced operations using any form of involuntary labor, fraudulent recruiting practices or child labor. We work with suppliers to manage their sourcing programs responsibly. Any supplier with reports of misconduct is investigated and, if misconduct is found, removed from our supply chain,” the company added.
+
+Google, whose parent company Alphabet is listed as a defendant, said it works with suppliers and industry groups to tackle the problem both inside and outside the country.
+
+“Child labor and endangerment is unacceptable,” a company spokesperson told CNN Business. “Our Supplier Code of Conduct strictly prohibits this activity. We are committed to sourcing all materials ethically and eliminating child mining in global supply chains. As an active member of the Responsible Minerals Initiative, we work alongside our suppliers, other companies, and industry groups to drive efforts in and beyond” the Congo.
+
+Microsoft (MSFT) and Tesla (TSLA) did not respond to requests for comment. But all of those companies have codes of conducts for their suppliers that prohibit the use of child labor.
+
+International Rights Advocates claims in the lawsuit that the children were exploited and hurt in mining operations linked to the mining companies Glencore (GLCNF), Umicore and Huayou Cobalt, which the group said supply to either some or all of the defendants. None of those companies were listed as defendants.
+
+Glencore told CNN Business that it was aware of the allegations in the lawsuit and that the company “does not tolerate any form of child, forced, or compulsory labor.”
+
+“Glencore’s production of cobalt in [Congo] is a by-product of our industrial copper production,” the company said. “Glencore does not purchase, process or trade any artisanally mined ore.” The Swiss firm added in another statement Tuesday that it works with organizations on the ground to “help children stay out of artisanal mining.”
+
+Umicore on Tuesday pushed back against the allegations, adding that its internal guidelines mandate screening for cobalt suppliers and look for “red flags.” The firm said it was “one of the first companies to proactively address issues such as human rights, child labor, occupational health and safety conditions and environmental impact related to the extraction of cobalt.”
+
+Huayou Cobalt did not respond to a request for comment.
+
+International Rights Advocates is seeking damages for the alleged victims. The group said in its complaint that it is requesting that the court order Apple, Alphabet, Dell, Microsoft and Tesla to start a fund to help the plaintiffs receive medical care.
+
+– CNN’s Isaac Yee contributed to this report.

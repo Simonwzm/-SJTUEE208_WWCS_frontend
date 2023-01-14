@@ -1,0 +1,23 @@
+CNN Business —
+
+The short-form video app TikTok could soon see a shakeup of its corporate structure as it confronts mounting criticism from politicians in the US over ties to its Chinese parent company.
+
+TikTok’s parent company, ByteDance, is considering establishing a headquarters for the video app outside of China or a new management board to distance the service from the country, according to the Wall Street Journal, citing a source familiar with the matter.
+
+A TikTok spokesperson confirmed Thursday that its parent company is weighing changes to its corporate structure.
+
+“As we consider the best path forward, ByteDance is evaluating changes to the corporate structure of its TikTok business,” the spokesperson said in a statement provided to CNN Business. “We remain fully committed to protecting our users’ privacy and security as we build a platform that inspires creativity and brings joy for hundreds of millions of people around the world. We will move forward in the best interest of our users, employees, artists, creators, partners, and policymakers.”
+
+US politicians have raised concerns about TikTok as a potential national security risk, claiming that Chinese national security laws could give Beijing access to data on TikTok’s American users. President Donald Trump said Tuesday his administration is “looking at” banning the app, affirming remarks on Monday by Secretary of State Mike Pompeo.
+
+Last year, Reuters reported that the US government is conducting a national security review of ByteDance’s acquisition of the US social media app Musical.ly. Lawmakers including Missouri Republican Sen. Josh Hawley have introduced legislation that would ban TikTok from US government devices.
+
+TikTok has previously said it stores US user data on US-based servers that are not subject to Chinese law. It also recently hired an executive from Disney to become its CEO, a move that could burnish its US credentials.
+
+Skeptics say ByteDance, which is based in China, is nevertheless beholden to the Chinese government, but the case for TikTok as a threat to US security is not clear-cut.
+
+Like some other social media apps and technology companies, TikTok automatically gathers users’ geolocation information, IP addresses, unique device identifiers and the content of in-app messages, according to its privacy policy. That is a lot of data, but far more sensitive information – and potentially more damaging to national security – was exposed by data breaches affecting the Office of Personnel Management, announced in 2015, and Equifax, disclosed in 2017, according to James Lewis, a senior vice president at the Center for Strategic and International Studies.
+
+Although TikTok’s links to a private Chinese company are worthy of concern, said Lewis, the app simply wouldn’t be that useful for espionage.
+
+“It’s right to be suspicious of the Chinese,” he said. “But I’m not sure TikTok is a good intelligence tool for them.”

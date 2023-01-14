@@ -1,0 +1,53 @@
+San Francisco (CNN Business) Russia has spent months either driving out American tech firms or watching them leave of their own accord over its war in Ukraine. But the country now finds itself stuck in a stalemate with one big tech company: Google.
+
+Many of Google's services, including search, maps, Gmail and, perhaps most importantly, YouTube, continue to be available in Russia at a time when Facebook, Instagram and Twitter are not. The situation illustrates the difficult position both sides now find themselves in and the tenuous current state of Russia's internet ecosystem. Russia has attempted to wall off its internet from the world but appears to recognize the potential backlash from citizens for banning the most popular services. For its part, Google has spoken out against Russia's actions but also has strategic and moral incentives to remain.
+
+The Russian government continues to try to squeeze the Silicon Valley company, opening a new case against Google last Friday for its alleged failure to store data of Russian users inside the country. (Google did not respond to a request for comment on Russia's move.) Weeks earlier, Google's Russia subsidiary filed for bankruptcy and paused most of its commercial operations after the government seized control of its bank accounts in the country.
+
+"The Russian authorities' seizure of Google Russia's bank account has made it untenable for our Russia office to function, including employing and paying Russia-based employees, paying suppliers and vendors, and meeting other financial obligations," a Google spokesperson said in a statement to CNN Business.
+
+However, Google has stopped short of pulling out of Russia altogether and Russia has stopped short of forcing it to do so.
+
+"People in Russia rely on our services to access quality information and we'll continue to keep free services such as Search, YouTube, Gmail, Maps, Android and Play available," the spokesperson added. (Google has taken some steps to pull back its services in Russia, banning Russian state media channels and preventing them from selling ads while also cracking down on misinformation around the war in Ukraine.)
+
+Meanwhile, Russia's minister of digital development, Maksut Shadayev, ruled out a total ban on YouTube — one of Russia's most popular online services. "We are not planning to block YouTube," Shadayev was quoted as saying by Russian news agency Interfax. "Whenever we block anything, we should clearly understand that no harm will be done to our users," he added.
+
+'Last man standing'
+
+For Google, there is a clear strategic value to keeping its services active in a country with more than 100 million internet users — and a market in which it already has a strong position.
+
+"Various Google services have obtained a significant market share in Russia, which the company may wish to maintain in the hope of an end to the war and lifting of sanctions," said Mariëlle Wijermars, an assistant professor of cybersecurity and politics at Maastricht University in the Netherlands, whose work focuses on Russian internet policy. "Given Russia's push towards establishing digital sovereignty, it may be difficult to re-enter the market."
+
+But some internet governance experts argue Google's choice to keep services running in the country may have more of a moral imperative than a business one.
+
+"I think the moral side is a bigger deal," said Daphne Keller, director of the program on platform regulation at Stanford University's Cyber Policy Center. "Keeping information flowing to dissidents in Russia, or people who want information from a source other than state media, is incredibly important."
+
+Google did not respond to questions about its motives for keeping its services active in Russia, but YouTube CEO Susan Wojcicki last week laid out the role the video platform sees itself playing in the country.
+
+"The reason we are still serving in Russia and we believe that that is important is that we're able to deliver independent news into Russia," Wojcicki told an audience at the World Economic Forum in Davos, Switzerland. "And so the average citizen in Russia can access for free the same information that you can access here from Davos, which we believe is really important to be able to help citizens know what's going on and have perspectives from the outside world."
+
+YouTube is used by roughly three quarters of Russia's online population, or more than 77 million people, according to estimates from Insider Intelligence. Despite continued warnings from the Russian government to take down content, YouTube remains one of the few digital links between Russia and the outside world, especially since other global platforms were blocked.
+
+"‪YouTube‬ ‪in‬ ‪particular ‪is‬ ‪kind of the‬ ‪last‬ ‪man‬ ‪standing‬, ‪if‬ ‪you‬ ‪will," Alina Polyakova, president and CEO of the Washington DC-based Center for European Policy Analysis, told CNN Business. "Google finds itself the last company standing ‪in‬ ‪this‬ ‪broader battle between‬ ‪an‬ ‪authoritarian‬ ‪government‬ ‪and‬ ‪a‬ ‪Western‬ ‪technology‬ ‪company‬ ‪that‬ ‪provides‬ one of the last ‪remaining‬ ‪spaces‬ ‪for‬ free ‪expression in Russia.‬" (Google is one of several companies that CEPA receives "a small part" of its funding from in the form of donations, according to Polyakova.)
+
+Why Russia blinked with Google
+
+Russia has used the war in Ukraine to step up its effort to wall off its internet from the rest of the world, building what some have described as a digital Iron Curtain. But its decision not to ban Google's various services shows the limitations of Russia's more restricted, homegrown internet.
+
+Not only is YouTube popular in the country, but Russian authorities have long used the platform to spread their own messaging, with state media channels such as RT and Sputnik reaching millions of subscribers before they were taken down.
+
+"Russia actively uses YouTube to disseminate propaganda," Wijermars said. "For reaching younger generations who watch less traditional television, online dissemination of both TV shows and more tailored online formats has been important in order to expand the reach of its narratives."
+
+Unlike the homegrown social network VK and search engine Yandex, no comparable local alternatives to YouTube exist in Russia (government-backed RuTube has failed to achieve the same level of popularity).
+
+"They don't have a real domestic alternative, and I do think they fear a backlash because so many Russians use it," Polyakova said. "And frankly that gives YouTube a lot of leverage."
+
+YouTube is not the only popular western tech platform Russia has left alone. WhatsApp, the mobile messenger owned by Facebook's parent company Meta, is still operational, with the Russian government saying it is exempt because it is a private messaging service rather than a public social network. But while Russia's leniency towards YouTube has thus far extended to Google as a whole, Meta's other platforms Facebook and Instagram were among the first to be blocked.
+
+YouTube is also just one of a number of Google services that Russians rely on.
+
+"It is unclear what would happen, for example, to its Android operating system, which is widely used in Russia, if Russia forces YouTube out," said Wijermars. "The long list of technology firms that have announced they will leave the Russian market, together with the impact of sanctions, makes Russia's digital economy very vulnerable to such disruptions."
+
+For the moment, it appears that Russia and Google are both willing to drag their feet and dare the other side to cut the cord.
+
+"I think certainly the Russian government is playing a very delicate game here," said Polyakova. "There's obviously a line that they don't want to cross and force this company out completely."

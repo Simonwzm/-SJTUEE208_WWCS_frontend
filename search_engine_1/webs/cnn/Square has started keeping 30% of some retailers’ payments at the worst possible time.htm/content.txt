@@ -1,0 +1,19 @@
+New York CNN Business —
+
+Square has begun withholding as much as 30% of the money it collects from customers, sparking complaints from small businesses that desperately need money as the economy hits turbulent times.
+
+Square (SQ) confirmed the practice Tuesday in a blog post, describing it as a “rolling reserve,” in which the Jack Dorsey-led payments company takes a cut of the seller’s processing volume and releases it on a “rolling basis” over as many as 120 days.
+
+It’s used for what Square labels “risky sellers,” which are companies that take a pre-payment on goods or services that are provided on a future date. Risky sellers also include companies that sell goods or services that are “prone to disputes.” Square said it notifies sellers that are placed in the program.
+
+“The vast majority of our sellers don’t fit this profile,” Square said the statement. “For the small number who do, we put in place reserves that allow them to continue processing with Square (as opposed to being deactivated, as many financial institutions will do), particularly during uncertain times.”
+
+However, according to a New York Times investigation, some small businesses are disproportionally affected by the practice, leading to financial distress and layoffs.
+
+In one instance, Legal Knock, a company that builds websites for law firms, told the Times that it never had a customer demand a refund for their work and yet Square kept $4,000 in reserve in May. Sean Weber, the owner, said he had trouble contacting the company and wasn’t satisfied with its explanation. He even said Square blocked him on Twitter.
+
+Square did not immediately respond to a request for comment.
+
+A petition from Square merchants has racked up 1,300 signatures. “Small businesses can barely survive as it is, and now that Square, Inc. is withholding funds, many more small businesses are going to be closing because of Square,” the petition says.
+
+Square ended its blog post saying it aims to “be transparent, offer sellers choice, protect buyers, and provide a better experience with Square,” -— an explanation that many obviously disagree with.

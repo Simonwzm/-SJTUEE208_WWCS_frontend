@@ -1,0 +1,11 @@
+(CNN Business) Apple is relaxing some restrictions on how iPhone app developers can communicate with customers outside its App Store, as part of a proposed settlement in a class action lawsuit.
+
+"Developers can use communications, such as email, to share information about payment methods outside of their iOS app" as long as users consent to receiving those emails and have the right to opt out, the company said Thursday . The move gives developers more leeway to collect payments from their customers without having to pay Apple's commission on in-app purchases.
+
+Apple AAPL will pay $100 million toward a fund for smaller developers to settle the lawsuit, which was initially brought in 2019. Payments for eligible developers who submit valid claims will range from $250 to $30,000, according to court filings.
+
+The lawsuit, filed by app developer Donald Cameron and basketball training company Pure Sweat Basketball, accused Apple of anticompetitive behavior for forcing developers to only offer apps within the App Store and taking a cut of all in-app payments.
+
+The iPhone maker's commissions, which go as high as 30%, are at the center of several legal disputes , including a separate lawsuit by one of Apple's biggest developers — Epic Games.
+
+Read More

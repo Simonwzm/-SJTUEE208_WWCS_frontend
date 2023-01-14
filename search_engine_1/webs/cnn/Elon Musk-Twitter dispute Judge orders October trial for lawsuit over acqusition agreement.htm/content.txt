@@ -1,0 +1,49 @@
+New York CNN Business —
+
+In an early victory for Twitter, a judge on Tuesday ruled that the company’s lawsuit against Elon Musk over their $44 billion acquisition agreement should go to a five-day trial in October.
+
+The decision came at the end of the first hearing in the case over whether to expedite the proceedings. When it filed the suit last week, days after Musk moved to terminate the deal, Twitter (TWTR) filed a motion to expedite the proceedings and requested a four-day trial in September. Musk’s legal team opposed the motion.
+
+Tuesday’s hearing featured sharply worded arguments from both sides — including Twitter’s lawyer at one point referring to Musk as a “committed enemy” — setting the stage for what is almost certain to be a contentious legal battle.
+
+Twitter’s lead counsel William Savitt came out swinging against Musk at the start of the hearing as he argued in favor of a speedy trial. Savitt said the continued uncertainty hanging over the company from the outstanding deal and litigation “inflicts harm on Twitter everyday, every hour and every day.” He also pointed to what he described as Musk’s continued disparagement of Twitter, including on its own platform.
+
+“Musk has been and remains contractually obligated to use his best efforts to close this deal,” Savitt said. “What he’s doing is the exact opposite; it’s sabotage.”
+
+Musk lawyer Andrew Rossman pushed back saying that Musk “doesn’t have an incentive to keep this hanging for a long time,” noting that the billionaire remains one of Twitter’s largest shareholders. He also noted that Twitter did not sue Musk over his alleged breaches of the deal until after he moved to terminate the deal, suggesting that the company’s wait invalidated its desire for expedition. (The judge in her comments said Twitter’s timing was not “unreasonable.”)
+
+Musk’s team proposed that the dispute should go to trial early next year. “We’re not opposing expedition full stop, we’re not asking for years here,” Rossman said. “What we’re offering instead, Your Honor, is an incredibly rapid and sensible schedule.”
+
+Following each side’s argument, the judge overseeing the case, Delaware Court of Chancery chancellor Kathaleen St. Jude McCormick, said Musk’s side “underestimate the ability of this court … to quickly process complex litigation.”
+
+“The reality is that delay threatens irreparable harm [to Twitter] … the longer the delay, the greater the risk,” McCormick said in announcing the scheduling plan. She added that while few cases warrant a trial longer than five days, she would entertain a request from either side to extend the trial if necessary.
+
+Even with this early scheduling dispute, the stakes were high for Twitter. The company was already struggling to grow its user base and advertising business before Musk’s involvement, and now it and many other tech companies are pulling back on costs amid rampant inflation and fears of a recession. Twitter needs a swift resolution to the battle with Musk in order to limit the uncertainty for its shareholders, employees and customers, and any fallout for its business that could be exacerbated by costly, prolonged litigation.
+
+Although Tuesday’s hearing was largely a procedural one, it offered a look at how each side may approach what is likely to be a messy litigation process. It may also provide a glimpse as to how the judge overseeing the case is approaching the dispute.
+
+“There may be hints from what she asks and what she says, and what they say, during the hearing that may tell us something,” said Carl Tobias, a professor at the University of Richmond School of Law.
+
+The case has already hit a small snag: While the hearing was originally scheduled to take place in-person, McCormick sent a letter to the two parties on Monday alerting them that she tested positive for Covid-19 and would be moving the hearing to Zoom.
+
+Less than three months after the blockbuster acquisition deal was inked, Musk moved to terminate the agreement. He accused Twitter of breaching the deal by making misleading statements about the number of bot and spam accounts on the platform, and by allegedly withholding data Musk says he needs to evaluate the scale of the issue.
+
+Twitter hit back last week in a 60-plus-page lawsuit alleging that it is Musk who has violated the agreement. In the suit, Twitter suggested Musk is using bots as a pretext to try to exit a deal over which he now has buyer’s remorse, following the market downturn that has tanked Twitter shares, as well as those of Tesla (TSLA), which the billionaire is relying on in part to finance the deal.
+
+Rossman on Tuesday called the idea that Musk’s concerns about bots are a pretext to exit the deal “nonsense.”
+
+“We have reason to believe, based on what we’ve seen so far, that the real numbers [of bots and fake accounts on Twitter] are significantly higher [than Twitter has publicly reported], with enormous implications for the long-term value of the company,” Rossman said. He added that Twitter’s claims that Musk is in breach of the deal are “manufactured in order to try to strip Mr. Musk of his rights claim that he can terminate the agreement.”
+
+Twitter has asked the court to compel Musk to complete the deal to buy the company. While many legal experts say Twitter likely has the stronger argument in the dispute, some also expect the company may end up settling with the billionaire if the case starts to drag on, in an effort to reduce the disruption to its business.
+
+As with the dispute generally, Twitter and Musk were far apart on whether to have a speedy trial. In its motion, Twitter said the expedition is necessary to ensure the deal can be completed prior to the “drop dead” date of October 24 that the two sides previously agreed to close the deal by, and to “protect Twitter and its stockholders from the continuing market risk and operational harm resulting from Musk’s attempt to bully his way out of an airtight merger agreement.”
+
+In a Friday court filing, Musk’s lawyers called Twitter’s request an “extreme expedition” and claimed that the dispute is “extremely fact and expert intensive, requiring substantial time for discovery.” They also claimed that the original agreement stipulated that drop-dead date would no longer apply if one party filed litigation over the deal, calling Twitter’s request “moot,” and asked that a 10-day trial be scheduled for on or after February 13, 2023.
+
+Twitter’s lawyer on Tuesday pushed back on Musk’s team’s claim that the discovery process would take months because it would require digging into the details related to the number of bot and fake accounts on the platform. The bot question is “emphatically and plainly not before the court in this case,” Savitt said.
+
+“Nothing in the merger agreement turns on that question, there is no representation or warranty in the merger that is related to how many false accounts there may be on Twitter,” Savitt said. He added that “Musk could have conducted diligence about this issue” prior to signing the deal but did not.
+
+Meanwhile, Twitter continues to take the steps necessary to proceed with the acquisition. The company on Friday sent a letter to shareholders inviting them to vote on the deal to sell Twitter to Musk for $54.20 per outstanding share at a special meeting on an undisclosed date and time later this year, according to a regulatory filing. Twitter’s board previously unanimously recommended that shareholders vote in favor of the deal, a position it reiterated in the letter.
+
+Despite Musk’s move to terminate the deal, “we are committed to closing the merger on the price and terms agreed upon with Mr. Musk,” the Friday letter states. “Your vote at the special meeting is critical to our ability to complete the merger.”

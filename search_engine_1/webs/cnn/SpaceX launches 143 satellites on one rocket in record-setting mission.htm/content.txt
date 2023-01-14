@@ -1,0 +1,11 @@
+Austin, Texas (CNN Business) A SpaceX Falcon 9 rocket carried 143 satellites into orbit on a jam-packed rideshare mission Sunday, setting a new world record for the most satellites launched by a single rocket.
+
+The mission, dubbed Transporter-1, carried 10 satellites for SpaceX's Starlink internet network, and more than 130 satellites for a variety of customers including Planet, which operates a constellation of Earth-imaging satellites, and ICEYE, which develops small radar satellites for monitoring ice and tracking floods
+
+The previous record for the most satellites sent to space in one trip was held by PSLV, an Indian rocket, that carried 104 satellites in a 2017 launch
+
+SpaceX's Transporter-1 mission was the first in new rideshare program that SpaceX announced in 2019. The company said at the time it will dedicate "regularly scheduled" launches of its workhorse Falcon 9 rocket to carrying large batches of small satellites, or "smallsats," rather than focusing on one large, primary payload.
+
+Smallsats have seen a meteoric rise in popularity over the past few years. They range in size from as small as a smartphone to as large as a kitchen refrigerator. And as they've grown more advanced, hoards of businesses have entered the market promising to deliver services using new smallsat technologies.
+
+Read More

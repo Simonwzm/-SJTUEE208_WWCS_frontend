@@ -1,0 +1,79 @@
+(CNN Business) Google on Wednesday unveiled an expanded lineup of hardware products in the latest sign it remains committed to moving beyond its core advertising business and competing with the likes of Apple.
+
+At its first in-person developer conference in three years, Google announced three new smartphones and its first in-house smartwatch as well as plans to release a new tablet next year. Google also announced updates to several of its most popular tools including Maps, Google Translate and its core search product.
+
+Here are the key takeaways:
+
+Three new Pixel smartphones
+
+Google surprised fans of its smartphone lineup on Wednesday by teasing two new flagship devices — the Pixel 7 and Pixel 7 Pro. While the company didn't share many details, the two smartphones are expected to be released this fall.
+
+Google teased its Pixel 7 smartphones at the I/O developer conference.
+
+Google also announced the Pixel 6a smartphone, a more affordable version of its Pixel 6 lineup released earlier this year. The Pixel 6a is powered by Google's in-house Tensor chip and will come in three colors — green, white and black.
+
+It will cost $449 and be available July 21.
+
+Pixel Watch
+
+There are no shortage of Android smartwatches on the market, but now Google is planning to manufacture a new smartwatch of its own for the first time.
+
+The company teased the much-hyped Pixel Watch, which will use Google's WearOS operating system and be compatible with services such as its voice-enabled Google Assistant, Google Maps and Google Wallet.
+
+An integration with Fitbit, which Google acquired in 2019, will add several activity tracking and fitness features.
+
+Google unveiled its new Pixel Watch on Wednesday.
+
+The Pixel Watch will be available in the fall, along with the Pixel 7 lineup. Google also teased a new Pixel Tablet, which the company says will be released in 2023.
+
+Pixel Buds Pro
+
+Google also announced a new iteration of its bluetooth earbuds called the Pixel Buds Pro.
+
+Available in four colors — orange, green, white and black — the new earbuds offer features such as active noise cancellation and spatial audio. The Pixel Buds Pro will cost $199 and release on July 21.
+
+Immersive maps
+
+Beyond the hardware, there were also a number of new software updates. Google Maps users will soon be able to get a real-world view of certain cities via a 3D view of popular sights, restaurants and businesses in order to better visualize the space. While Maps already offers satellite view and street view options, Google says its new immersive view feature combines those two to "create a rich, digital model" that makes users feel like they're on the ground.
+
+A sliding scale will let users see what the area looks like at different times of day, how busy it is, and local traffic conditions.
+
+Immersive view will be available in Los Angeles, London, New York, San Francisco and Tokyo later this year, on all mobile devices using Google's Android operating system. The company said it plans to add more cities as it develops the feature.
+
+Google Translate
+
+Google is adding 24 languages to its translation tool, Google Translate — a move the company said focuses on languages of Africa and India broadly, and languages generally underserved by technology.
+
+They include Quechua, which is spoken in the Andes, particularly in Peru; Lingala, a language spoken in the Democratic Republic of the Congo; Assamese, which is spoken in northeast India; and Tigrinya, which is spoken in Ethiopia and Eritrea.
+
+The additional languages bring the total number that the tool can translate to 133, and will be available to all Google Translate users in the coming days, the company said.
+
+A new skin-tone scale
+
+Google is launching a new skin-tone scale it hopes will make its products more inclusive.
+
+Many beauty and tech companies classify skin shades based on what's known as the Fitzpatrick scale. Developed in the 1970s by a Harvard dermatologist, it is used to classify how different skin colors respond to UV light (and, through that, predict a person's risk of sunburn and skin cancer). Despite including only six skin shades, it's been used by tech companies for years to inform everything from the colors of emoji and how wearable heart-rate monitors work on different skin tones to efforts to make AI fairer at Facebook.
+
+Google will use the Monk skin tone scale to train its AI products to recognize a wider range of complexions.
+
+The company said it will start using the Monk skin tone scale, which was developed by Harvard professor Ellis Monk and includes 10 different shades. Google is using it to do things such as test how well AI models (such as those that can spot faces in pictures) work on people of different skin tones. The company is also using the scale in Google Images searches, such as by letting people narrow down beauty-related image queries by skin shade.
+
+Google will also open-source the scale so others can use it.
+
+Virtual cards
+
+Google is rolling out virtual credit cards to help protect users' financial information while they're shopping online.
+
+The feature generates a virtual card number that users can autofill instead of their actual card information on Android mobile devices or in Google's Chrome browser, masking their real credit card number from the companies they're shopping from.
+
+Virtual cards will roll out this summer — initially only for US users with Visa, American Express and Capital One credit cards. Google says it plans to add support for Mastercard later this year.
+
+Google's virtual cards will mask users' credit card information while online shopping.
+
+Search privacy controls
+
+Another feature announced on Wednesday aims to give users more control over what results show up when someone searches their name in Google.
+
+The feature, which rolls out in the coming months, will make it easier for users to request that their personal information such as phone numbers, email and home addresses be scrubbed from search results.
+
+Google plans to let users to tailor what ads they see as they surf the internet, with the ability to choose the brands and types of ads they do and do not want to see.

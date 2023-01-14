@@ -1,0 +1,17 @@
+(CNN) Google on Monday kicked off smartphone season by previewing its new Pixel 6 and Pixel 6 Pro smartphones. But it also signaled a new era for the Pixel, shifting it away from a mid-tier line with a niche user base to premium status, in a move that could position it to better take on Apple and Samsung.
+
+In a series of tweets and a video posted to its website, the company teased a colorful assortment of feature-packed smartphones with the first-ever Google-made processor specifically designed for the Pixel. The company said a Tensor chip, whichhas used before in existing AI hardware, will allow the Pixel to be faster, more customizable and have "the most layers of hardware security in any phone."
+
+Google, which previously worked with chip maker Qualcomm for its Pixel phones, is the latest smartphone maker to build its own chip instead of relying on third-party suppliers. Last year,moved away from an Intel processor for its Mac computers in favor of its own M1 chipset, a move that has won rave reviews from users for the added speed and extended battery life.
+
+It'll also drive speech recognition, its advanced camera features and the massive Android redesign announced in May at Google's annual developer conference.
+
+At the event, the company announced an interface concept called "Material You" that's more personalized and "fluid" based on a user's style. It features bigger buttons, a large clock on the homescreen that changes in size depending on how many notifications appear and color themes created from wallpaper. It also promises more responsiveness with better battery life and less strain on processors.
+
+Moving beyond mediocre screens, design and cameras, the Pixel 6 features a 6.4-inch flat display with wide and ultra-wide cameras on the back and a 90 Hz refresh rate display, according to the company. The Pixel 6 Pro, with a 6.7-inch, slightly curved display and a 120 Hz refresh rate, comes with similar specs but also a telephoto lens.
+
+There's no word on pricing at this time, but if the intention is to compete at the high end of the market, the price is likely to hover around $1,000. For comparison, the Pixel 5 starts at $699 and the Pixel 4a 5G starts at $499.
+
+The design is eye-catching, too. The Pixel phones have more space above the camera bar, allowing three color combinations for each device.
+
+Google said it'll give more details about the devices in the fall, but the unusual move to drop so many specs ahead of a formal launch may be a way to encourage consumers who may be looking to upgrade their device to sit tight. Samsung will host its annual Unpacked event for its flagship Galaxy smartphones next week. Apple typically launches new iPhones in September.

@@ -1,0 +1,35 @@
+New York CNN Business —
+
+Shares of Unity Software, one of the leading platforms for video game developers, jumped 44% on their Wall Street debut Friday, becoming the latest in a flurry of tech IPOs that investors can’t seem to get enough of.
+
+Unity debuted on the New York Stock Exchange at $75 a share. On Thursday, ahead of the initial public offering, the shares were priced at $52. And just last week, the company said it expected to price shares between $34 and $42.
+
+Unity, which is trading under the ticker symbol “U,” is famous in the gaming world for its development software that studios use to create hits like “Fall Guys,” “Pokémon Go” and “Call of Duty: Mobile.” It sells that software to companies through a subscription plan and charges a starting price of $399 to $2,400 a year depending on the size of the studio. (It offers a limited version for free.)
+
+The company’s debut caps a busy week for IPOs. On Wednesday, cloud data storage company Snowflake became the biggest software IPO ever, with shares more than doubling on their first day of trading. Another small software tools developer, JFrog, also went public Wednesday with shares rising nearly 50%.
+
+Unity’s stock ended Friday up about 31%, at $68 a share.
+
+Unity’s software is a rival to Fortnite maker Epic Games’ Unreal Engine, although Unity’s CEO John Riccitiello told CNN Business in February that he doesn’t think of Epic as a competitor.
+
+Riccitiello, who joined Unity in 2014 after leaving Electronic Arts (EA) a year prior, said Unity’s advantage is in the mobile games market, where developers tend to gravitate toward its software to make puzzle games and 2D adventures.
+
+“[Epic is] a very good and noble company, and they do some really cool things that we benchmark against,” he said. “But… I don’t think of them as competitors.”
+
+Like many buzzy technology companies debuting on Wall Street recently, Unity is not a profitable company.
+
+In 2019, it made a net loss of $163.2 million and continued to lose $54 million in the first half of this year, it reported in a regulatory filing to go public. “We have shown improvement in our profitability over the last few years,” said Unity’s chief financial officer Kim Jabal. “We see longer term that this can be a very high gross margin and profitable business.”
+
+In the risk factors section of that filing, Unity admits it has a history of losses and scaled up recently.
+
+The company also addressed three lawsuits against it. Two class-action lawsuits accuse Unity of violating privacy laws. Jabal told CNN Business that the company has admitted no liability in the two class-action suits and has filed settlement agreements.
+
+Another lawsuit was brought last year by a former senior-level employee who alleged discrimination and sexual harassment from Riccitiello, the CEO. Unity said it denied all allegations of unlawful conduct in the sexual harassment lawsuit, which has been sent to arbitration.
+
+Unity has been in the spotlight a lot less than its more fiery rival, Epic Games, which is currently in a legal battle against Apple and Google over the commissions app stores require from developers.
+
+“Apple’s been a great partner to us. We scratch our heads a little bit at that whole scenario going on there,” said Jabal.
+
+Analysts say that could make Unity more attractive to investors.
+
+“At his former post as CEO of EA, Riccitiello managed to create a credible company narrative that made sense to anyone interested in investing in games,” said Joost van Dreunen, founder of video game investment firm New Breukelen. “Compared to Epic, Unity will seem like the tamer option, led by someone with less of an ax to grind.”

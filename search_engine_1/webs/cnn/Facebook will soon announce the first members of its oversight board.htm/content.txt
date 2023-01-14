@@ -1,0 +1,23 @@
+Washington, DC CNN Business —
+
+Facebook will soon name the first members of a new oversight board designed to hold the platform more accountable in its content moderation decisions, the company said Tuesday as it released a charter governing the fledgling institution.
+
+At least 11 individuals, and as many as 40, will ultimately serve on the body to review the company’s handling of content takedowns or appeals on Facebook (FB) and Instagram, the company said.
+
+The charter gives the board power to override Facebook’s decisions in specific content cases, and to develop policies to guide Facebook in the future. By the end of the year, Facebook said, it will appoint a handful of outside experts to lead the board and help select the remaining members.
+
+The reveal marks Facebook’s latest step to address critics who have called for more transparency and consistency in its tackling of hate speech, violent extremism and graphic material. And it is part of a much broader effort by Facebook to develop a global infrastructure that can police — or validate — content moderation efforts by other social media platforms, not just Facebook.
+
+But the company is likely to face hard questions about the board’s level of independence from Facebook, and from other tech companies that choose to submit to the oversight board’s authority.
+
+In a blog post, Facebook CEO Mark Zuckerberg promised the board will operate freely and objectively.
+
+“If someone disagrees with a decision we’ve made, they can appeal to us first, and soon they will be able to further appeal to this independent board,” said Zuckerberg. “The board’s decision will be binding, even if I or anyone at Facebook disagrees with it.”
+
+Dozens of experts in governance and digital rights worldwide weighed in on Facebook’s plan, the company said, helping to design a structure for the oversight board that will limit Facebook’s influence.
+
+For example, although Facebook will play a role in selecting the initial board members, it will step back and play no role when the board looks to appoint future replacements. And Facebook will have no ability to fire board members, said Heather Moore, a member of the Facebook team developing the charter.
+
+“We have completely removed that from the equation,” she said. “Facebook will not have any removal power over board members, regardless of the decisions they make.”
+
+Facebook will not be funding the board’s operations directly. But it will pay board members indirectly by contributing in the double-digit millions to an irrevocable trust, one that will “ensure the board is funded for multiple years and has an operating budget,” according to Carolyn Glanville, a Facebook spokesperson. Other companies will be able to contribute to the trust in the future, she added.

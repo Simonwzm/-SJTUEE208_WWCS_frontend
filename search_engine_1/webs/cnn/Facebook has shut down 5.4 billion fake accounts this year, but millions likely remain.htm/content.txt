@@ -1,0 +1,27 @@
+Washington, DC CNN Business —
+
+So far this year, Facebook has shut down 5.4 billion fake accounts on its main platform, but millions likely remain, the social networking giant said Wednesday. That’s compared to roughly 3.3 billion fake accounts removed in all of 2018.
+
+As much as 5% of its monthly user base of nearly 2.5 billion consists of fake accounts, the company said, despite advances in technology that have allowed Facebook to catch more fake accounts the moment they are created.
+
+The disclosure highlights the scale of the challenge before Facebook as it prepares for a high-stakes election season in the United States, as well as the 2020 US census. Analysts and watchdogs are bracing for a wave of fake and misleading content on social media following revelations about election meddling in 2016.
+
+On a call with reporters, CEO Mark Zuckerberg framed the large number of fake accounts that have been removed as a sign of how seriously the company is taking this issue and called on other platforms to make similar disclosures.
+
+“Because our numbers are high doesn’t mean there’s that much more harmful content. It just means we’re working harder to identify this content and that’s why it’s higher,” he said on Wednesday.
+
+The number of fake accounts disabled by the company peaked earlier in the year, when Facebook said it shut down more than 2 billion in the period from January to March. It removed relatively fewer fake accounts over the next three months — 1.5 billion — which Facebook attributed to improvements in its blocking of new fakes. But the number is on the rise again: Facebook’s latest report shows it eliminated 1.7 billion fake accounts from July to September.
+
+The announcement came as part of Facebook’s newest transparency report, which for the first time includes information about Instagram.
+
+Between April and September, the Instagram data show, Facebook took down roughly 3 million pieces of content that violated its policies against selling drugs. The company acted against another 95,000 pieces of Instagram content related to gun sales.
+
+The Instagram-focused data also cover the company’s enforcement efforts against child exploitation; suicide and self-injury; and terrorist propaganda. But the reporting on Instagram does not cover topics Facebook includes for its main platform, such as bullying and hate speech.
+
+During the call with reporters, an executive noted that Facebook’s systems are being used extensively by Instagram to detect harmful content. As the company has faced calls from politicians and observers to be broken up, Facebook executives have repeatedly argued that its size and resources make it better equipped to fight misinformation and provide a safe environment for users.
+
+Earlier this year, Facebook began allowing its hate speech algorithms to begin automatically removing content that it believes violates the company’s policies, the report said. One result of that decision has been a sharp spike in the amount of hate speech taken off Facebook.
+
+As many as 7 million pieces of hate speech content were removed from Facebook between July and September, according to the report, a nearly 60% increase from the period between April and June. Of the 7 million, more than 80% was detected by Facebook before a user saw the content, the company said.
+
+Facebook has come under increasing criticism from minority activists and civil rights groups over the spread of hate speech on its platform. The report comes days after civil rights leaders met with Zuckerberg to press him on the ways that divisive, hurtful language can disproportionately harm vulnerable populations on social media.

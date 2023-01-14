@@ -1,0 +1,49 @@
+San Francisco CNN Business —
+
+Robert Ross was sitting in his San Francisco home office in October 2018 when he noticed the bars on his phone had disappeared and he had no cell coverage. A few hours later, he had lost $1 million.
+
+Ross was the victim of a SIM hack, an attack that occurs when hackers take over a victim’s phone number by transferring it to a SIM card they control. By taking over his cellphone number, a hacker was able to gain access to his email address and ultimately his life-savings, Ross said in an interview with CNN Business.
+
+“I was at home at my desk and I noticed a notification on my iPhone for a withdrawal request from one of my financial institutions, and I thought, ‘That’s weird. I didn’t make a withdrawal request,’” Ross recalled. “Then I looked back at my phone and I saw that I had no service.”
+
+In recent years, cybersecurity breaches have become so common that some consumers may almost take for granted their information has been compromised at some point. The list of massive data breaches includes a major hotel chain, a credit reporting firm, a bank and a social network. But SIM hacks are both less talked about and yet potentially more devastating.
+
+There is limited data on the prevalence of SIM hijacking nationally, but during the last year, the US Department of Justice has indicted numerous people for crimes associated with SIM swapping.
+
+Some of the most high-profile SIM hijacks have targeted people with money stored in cryptocurrency exchanges. Ross had approximately $1 million stored in two exchanges when he was attacked, according to a report by investigators.
+
+An arrest was made in Ross’ case, and the suspect has pleaded not guilty.
+
+The attack on Ross followed a standard SIM hack playbook: The alleged hacker called up Ross’ cellphone service provider, in this case AT&T. (WarnerMedia, the parent company of CNN, is owned by AT&T.) Pretending to be Ross, the alleged hacker successfully convinced AT&T that he was Ross and took control of Ross’ phone number, an investigation by authorities in California later found. That’s when Ross’ own phone went dark.
+
+Ross may have been using AT&T, but SIM hijacks have been reported on all major US cell phone networks.
+
+Robert Ross lost his life savings as a result of a SIM hack. CNN
+
+How to try to protect yourself against SIM swaps
+
+Think of everything you do on your phone and everything that is associated with your phone number. When you forget your email passwords or have trouble accessing your online bank accounts, many services send you a text message with a code to help verify your identity — a form of multi or two-factor authentication.
+
+When a hacker gets access to your phone number, they get the keys to the castle. They potentially have the ability to take over a victim’s social media and other accounts by using text message password recovery features.
+
+CNN asked the four major networks what steps their customers could take to protect themselves from SIM hacks. While all offered some options, few seem to have a solution that would provide complete peace of mind.
+
+Sprint (S) appears to have the most comprehensive solution, requiring customers to complete two-factor authentication in order to SIM swap. The customer must first give a PIN number or answer a security question and then provide a one-time passcode that is sent to their device via text message.
+
+“We strongly encourage our customers to protect and regularly update their passwords, and never share account details, names, or other personal information with a third party without verifying the request came from a trusted source,” a Sprint spokesperson told CNN Business.
+
+An AT&T (T) spokesperson said the company advises against using mobile phone numbers as the single source of security and authentication.” AT&T (T) encourages customers to add “extra security” measures to their accounts, such as creating a password.
+
+A Verizon (VZ) spokesperson said it offers customers a “Port Freeze” that will prevent their number from being moved to another network.
+
+T-Mobile (TMUS) pointed CNN Business to a post on the company’s website that outlines what its customers can do. In the event of an “account takeover fraud,” the company said it would “work with customers individually to apply additional security measures.”
+
+Dealing with the fallout of a SIM hack
+
+More than a year after suffering the SIM hack, Ross is still seeking justice.
+
+He is suing AT&T for what he alleges was a failure by the company to protect his “sensitive and confidential account data” that resulted in “massive violations” of his privacy and “the theft of more than $1 million,” according to the lawsuit.
+
+“Fraudulent SIM swaps are a form of theft committed by sophisticated criminals. We are working closely with our industry, law enforcement and consumers to stop and prevent this type of crime,” an AT&T spokesperson told CNN Business.
+
+“It is unfortunate that Mr. Ross experiences this, but we dispute his allegations and plan to disprove them in court,” the spokesperson added.

@@ -1,0 +1,29 @@
+CNN Business —
+
+Facebook announced Wednesday it is imposing stricter disclosure and transparency standards on political ads in the United States after, the social networking platform said, it caught some advertisers trying to game the system by misleading users about who was funding the ads.
+
+But the tighter rules still leave some holes that could be easily exploited.
+
+Under the new system there are two ways for groups or individuals to verify their identity: A stricter method under which advertisers Facebook (FB) has verified will receive a special “Confirmed Organization” label on their ads, and a second method indicating less confidence in the advertiser’s identity.
+
+To obtain a “Confirmed Organization” label, advertisers will need to provide a US address, phone number, business email, business website and one of the following: a tax-registered organization identification number, a government website domain that matches an email ending in .gov or .mil, or a Federal Election Commission identification number.
+
+Advertisers who don’t have or don’t want to submit such credentials will be able to alternatively submit some basic information about their organization like addresses, emails and website, or rely solely on the page administrator’s legal name, though the organization will be ineligible to use a registered organization name in their disclaimers or to receive a “Confirmed Organization” label.
+
+The new policies are aimed at curbing political advertisers’ attempts to mask their identities or impersonate others. In some cases, Facebook told CNN Business, it saw advertisers identifying themselves merely as “concerned citizen” instead of using their organization’s name or registered ID.
+
+Last year, Vice News reported that it was able to take out ads in the name of Vice President Mike Pence, all 100 US senators and the Islamic State. In another high-profile instance from 2018, an attack ad targeting Virginia Democratic candidate for Congress Jennifer Wexton was shown by Facebook to have been paid for by a “freedom loving American Citizen exercising my natural law right, protected by the 1st Amendment and protected by the 2nd Amendment.”
+
+Facebook said in a blog post that the policy change is aimed at giving users more information about who may be trying to influence them online.
+
+Facebook
+
+“While the authorization process won’t be perfect, it will help us confirm the legitimacy of an organization and provide people with more details about who’s behind the ads they are seeing,” Facebook public policy director Katie Harbath and product manager Sarah Schiff wrote. “There are a number of cases where advertisers have attempted to put misleading ‘Paid for by’ disclaimers on their ads.”
+
+But it’s not clear whether the new rules would prevent a group or person from simply registering as a company, getting a tax identification number and going forward with their advertisements without ever having to really tell Facebook users who they truly are and what their motivation is. In response to questions about the potential loopholes, Facebook told CNN Business the additional information will be vetted by a mix of automated and human reviewers and that it is working with governments and watchdogs to bolster election security.
+
+Facebook
+
+Facebook has long battled critics who say the platform has created an environment where nefarious foreign actors can attempt to influence US elections. After the 2016 election, Facebook CEO Mark Zuckerberg pledged to fix how the company handles political and issue ads. Those efforts have hit some bumps along the way. The company also formed a civil rights task force to address the threat of meddling in the 2020 US elections and the US Census.
+
+The new rules will be put into effect in mid-September, and if an advertiser doesn’t provide the new information by mid-October, Facebook said, it will pause an organization’s ads.

@@ -1,0 +1,11 @@
+Austin, Texas (CNN Business) Rocket Lab, a startup that builds small rockets to shuttle satellites to orbit, announced Monday that it's going public via SPAC, joining a wave of companies opting to list themselves on the stock market by reverse merger rather than more traditional IPO routes.
+
+Vector Acquisition Corporation VACQU The deal will value the company at $4.1 billion, according to a press release. Rocket Lab's SPAC, a fund called, has traded on the Nasdaq for around $10 per share since it was listed in September 2020, and its stock shot up to more than $14 per share — a 30% increase — on the acquisition news.
+
+Rocket Lab builds a line of lightweight rockets called Electron, which made the company the first commercial firm since SpaceX to deliver satellites into orbit with its first successful launch in January 2018. It has since conducted 18 launches, putting a total of 97 small satellites, or smallsats, in orbit. The company also has a satellite platform, called Photon , which can be retrofitted to serve various purposes in orbit.
+
+The cash Rocket Lab banks from its SPAC merger will be used to build the company's next-generation rocket, called Neutron, which will be larger than the Electron and capable of hauling roughly 30 times as many pounds into orbit with each launch, the company said in a press release Monday. The company is billing Neutron rockets as the "mega constellation launcher," suggesting the company is likely to try marketing its services to companies such as Planet, Amazon, or TeleSat, which are all building satellite networks to provide telecom or earth imaging services.
+
+Rocket Lab's SPAC deal comes amid a SPAC -— "special purpose acquisition company" — obsession on Wall Street. SPACs serve as investment placeholders on the stock market as the fund's backers hunt for an acquisition target. The target company then takes over the SPAC's trading symbol, allowing it to go public with little of the financial disclosure or scrutiny that comes with traditional IPOs.
+
+Read More

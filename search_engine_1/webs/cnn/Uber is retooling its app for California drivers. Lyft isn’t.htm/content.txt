@@ -1,0 +1,43 @@
+New York CNN Business —
+
+In response to a new California law that took effect at the start of this year and has the potential to upend numerous on-demand companies, Uber has pushed out changes for drivers in the state that would once have been unthinkable: capping service fees that go to Uber, boosting fare transparency and even testing the ability to set their own fare.
+
+But other companies — including Uber’s biggest ride-hailing rival, Lyft — have been curiously silent, apparently opting for business as usual.
+
+The diverging approaches shed light on how the on-demand industry is far from unified in the way it confronts what could be an existential threat. Over the past decade, prominent startups like Uber, Lyft, Postmates, Instacart and DoorDash built up their businesses in large part by treating their workers as independent contractors rather than employees. This meant they have mostly not been obligated to provide minimum wage, overtime pay, workers’ compensation, unemployment insurance and paid sick leave. Workers also pay their own expenses, including gas and vehicle maintenance.
+
+Under the new California law, called AB-5, it becomes much more difficult for businesses to continue with that approach. In order to classify workers as independent contractors, the companies must prove workers are free from company control and perform work outside the usual course of business. If forced to reclassify their fleets of drivers and delivery workers as employees, it could massively ratchet up the costs these companies incur at a time when private and public companies in this market are facing pressure from investors to prove they can be profitable.
+
+At first, the group of companies took a united stance on this threat. Uber, Lyft and DoorDash have each put $30 million behind a ballot initiative, with additional support from Postmates and Instacart. The campaign is in the process of gathering signatures to qualify for the ballot. If passed, it would exempt them from the new AB-5 law, but offer drivers some benefits – including a guarantee that drivers would make 20% more than the minimum wage and 30 cents per mile for expenses such as gas. (Uber and Postmates are also suing the state of California over the law.)
+
+However, that’s where the similarities in their approaches end – at least on the surface.
+
+Starting in early December, weeks before the law took effect, Uber kicked off a slew of changes to its app in California with the stated promise of letting drivers “reap the full independence” of the platform. The changes include giving more information upfront about rides so drivers can have a better understanding of how much they’ll make from a trip and the destination before agreeing to accept or decline. Additionally, the company announced a new fare structure and it is testing a system in select locations that will let drivers control fares – either based on a multiple of Uber’s base, time and distance rates or by setting a floor price themselves.
+
+Louis Hyman, a professor at Cornell University’s Industrial and Labor Relations School, said Uber’s “experiments” show it is “trying to think creatively about how to comply with the law.”
+
+Uber pointed CNN Business to a statement issued in early January: “As a result of AB5, we’ve made a number of product changes to preserve flexible work for tens of thousands of drivers in California.”
+
+Lyft, on the other hand, has announced no changes for drivers in the state as a result of the law – but the company is said to be more frequently appealing to labor behind the scenes.
+
+A labor leader told CNN Business that Lyft has met with labor representatives for a possible carve out as recently as mid-December. One of the things Lyft has discussed, according to the labor leader, is an exemption for ride-hail drivers to the employment protections and obligations laid out in AB-5 if Lyft instead offered only some benefits, which could include the ability to unionize. The carve out Lyft has pushed for is not necessarily something that would also satisfy Uber, given its various business lines, including meal deliveries.
+
+“Lyft is singularly focused on passing a ballot measure that protects driver independence and flexibility, while providing them historic new benefits and protections,” a Lyft spokesperson said in a statement to CNN Business. “This is the balance our drivers and riders want, and we believe we will be successful when we take the issue directly to California voters.”
+
+Lyft declined to comment on what Uber has rolled out. Instead, the company pointed CNN Business to Stacey Wells, a spokesperson for the coalition pushing the ballot measure. Wells said she “can’t speak to the business decisions made by the network companies.”
+
+Lyft isn’t alone in staying the course in California. Postmates, Instacart and DoorDash have also seemingly made no changes to their app in California. DoorDash and Instacart declined to comment to CNN Business. Postmates did not respond to request for comment.
+
+The daylight between Uber and Lyft here is particularly noticeable because, historically, the two companies have tended to be in lockstep when it comes to adding new features given the ongoing competition for market share and workers. In 2014, for example, Uber and Lyft each announced the launch of carpool services within hours of one another.
+
+The different approaches to AB-5 also carry their own risks.
+
+While drivers in California that CNN Business spoke with praised some of the new Uber updates – such as the ability to glean more information about a trip upfront to decide if it’s worthwhile – they’re also skeptical about other announcements. For instance, Uber has said drivers will take home 75% of the fare, with 25% going to Uber – but receipts for drivers are no longer including the per mile and per minute rates, making it more difficult for drivers to calculate if they’re making more or less than before. (According to an Uber spokesperson, this breakdown will be visible again to drivers in the coming weeks.)
+
+Steve Gregg, an organizer with Gig Workers Rising who drives for Uber and Lyft in the Bay Area, said Uber’s app updates show “a little bit of deference to the government pressure.” But, Gregg said, drivers should be reminded that every change the company is making is part of the broader attempt to not classify workers as employees. “Uber is really trying to jump through as many hoops as they can to continue to fail to pay drivers what they’re worth,” Gregg added.
+
+Meanwhile, drivers are questioning why Lyft has stood still since the law went into effect. “I really don’t feel like they have any interest in supporting drivers,” Gregg said. “Lyft seems to be kind of behind the eight ball in comparison to Uber.”
+
+Multiple drivers told CNN Business that they had all but stopped driving for Lyft for now, adding that they feel the new features on Uber are making things incrementally better – at least for now.
+
+Correction: An earlier version of this story twice incorrectly referred to full-time workers or full-time employees instead of simply employees, regardless of their full-time or part-time status. As the rest of the story made clear, the key distinction for AB-5 is between independent contractors and employees.

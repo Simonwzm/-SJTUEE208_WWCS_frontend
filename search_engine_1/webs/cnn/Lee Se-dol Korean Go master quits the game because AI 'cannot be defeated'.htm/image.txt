@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191128100837-alphago-lee-se-dol-01.jpg?q=x_5,y_241,h_2659,w_4725,c_crop/w_800

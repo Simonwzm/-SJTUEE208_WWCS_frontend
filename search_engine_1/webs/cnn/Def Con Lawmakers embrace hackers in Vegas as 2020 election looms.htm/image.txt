@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190808161536-las-vegas-strip-restricted.jpg?q=x_5,y_483,h_2643,w_4697,c_crop/w_800

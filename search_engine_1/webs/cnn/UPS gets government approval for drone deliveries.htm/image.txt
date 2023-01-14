@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191001144819-01-ups-medical-drone.jpg?q=x_3,y_42,h_1622,w_2883,c_crop/w_800

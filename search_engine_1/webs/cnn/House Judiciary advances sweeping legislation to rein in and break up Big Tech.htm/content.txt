@@ -1,0 +1,41 @@
+(CNN Business) A powerful House panel on Thursday approved a sweeping set of proposals aimed at weakening Big Tech. It passed a series of measures imposing new obligations on top digital platforms, prohibiting them from abusing any gatekeeper power, and in some cases opening the door to new fines and breakups.
+
+In a marathon two-day session stretching across nearly 29 hours, lawmakers on the Judiciary Committee sent six bills to the House floor that would represent the most significant change to US antitrust law in decades.
+
+The toughest bills outlaw what committee members have alleged are the most blatantly anti-competitive tactics practiced by Big Tech.
+
+Under those proposals,would be barred from owning the same e-commerce platform on which it competes with independent sellers.could not acquire startups that it may perceive to be a future competitive threat. Google would be prohibited from promoting YouTube in search results over other video rivals. Andmay be required to allow third-party app stores on iOS. The proposed policies drive straight at the heart of some of Big Tech's key business models.
+
+The bills would make it illegal for large tech companies to unfairly elevate their own products and services on platforms they own, as with Google pushing YouTube videos, or to use their control of multiple platforms to hurt other businesses that depend on those same platforms, as some allege against Amazon in its treatment of sellers.
+
+"These measures would be the most significant reforms in the US competition law system since Hart-Scott-Rodino, which was 45 years ago in 1976," said William Kovacic, former chairman of the Federal Trade Commission, referring to the Ford-era law establishing public transparency requirements for mergers and acquisitions.
+
+The bills do not name the individual companies — though some lawmakers Thursday expressed openness to doing so as a way of narrowing the legislation's intended scope. Instead, the bills outline a general definition for tech giants that antitrust regulators would be expected to use in identifying companies subject to the laws. This includes market cap and monthly user thresholds.
+
+Under the bills, if the Federal Trade Commission or the Justice Department find that a covered company has abused its gatekeeper power, the agencies could potentially sue for fines or a breakup.
+
+The results could create massive changes for the internet as we know it.
+
+The House markup comes as the tech industry confronts growing pressure from policymakers and regulators worldwide. Google has been hit by multiple antitrust lawsuits by federal and state officials alleging abuses in online search and advertising. State and federal officials have sued Facebook over what its critics have called a "killer acquisition" strategy. Apple this spring went to trial to defend against allegations by Epic Games , the maker of "Fortnite," that Apple's app store monopolizes app developers' access to the iPhone. Amazon faces renewed antitrust scrutiny amid its acquisition of media heavyweight MGM.
+
+In recent months, European officials have launched a steady stream of investigations into a range of business practices by Apple, Google and Amazon. Europe's top court affirmed this month that data privacy regulators across the continent — not just those in the same jurisdiction as corporate headquarters — can hold digital platforms such as Facebook accountable.
+
+The House bills mark the most comprehensive effort this side of the Atlantic to craft a national set of rules governing digital platforms.
+
+"Today, we have sent a clear message," said Rep. David Cicilline, who led the charge on a 16-month investigation of the tech industry last year that culminated in the legislation. "The United States will no longer let other countries lead the fight against unregulated monopoly power. America is ready to hold Big Tech accountable so we can build a stronger online economy."
+
+The tech industry launched an all-out assault to thwart the US bills ahead of Wednesday's markup. Its trade groups and lobbyists said Congress was moving too fast and that the bills could lead to unintended consequences for consumers.
+
+The companies themselves issued dire warnings: Amazon said that if it's forced to choose between selling retail goods on its own and operating an e-commerce marketplace for everyone, it would choose the former, resulting in lost business for half a million sellers who use its platform. Apple said that allowing iOS users to download apps from anywhere could lead to security and privacy breaches.
+
+Some lawmakers echoed those concerns during the legislative session, saying that many of the bills were overly broad in scope or risked giving the federal government too much power.
+
+Conservative lawmakers repeatedly sought to amend the bills so that they would address claims of anti-conservative bias; one early amendment attempted to bar the FTC and DOJ from using congressional funding to promote critical race theory. The amendment was dismissed as not relevant to the antitrust issues at hand.
+
+A bipartisan coalition of California lawmakers, some of whom represent Silicon Valley, worked throughout the session to challenge the bills, citing "basic questions" they said the authors failed to answer. For example, they said, it is not obvious how the bills would affect specific products used by millions of consumers.
+
+But proponents of tough new restrictions called for swift action to shore up the nation's competition laws, arguing they were necessary to save small businesses threatened by Big Tech.
+
+"Each bill is an essential part of a bipartisan plan to level the playing field for innovators, entrepreneurs and startups, and to bring the benefits of increased innovation and choice to American consumers," said House Judiciary Chairman Jerry Nadler at the outset of Wednesday's proceedings.
+
+As the bills left the committee, Rep. Ken Buck, a leading Republican co-sponsor of the legislation, claimed victory over what he said was pressure from the tech industry to sink the effort.

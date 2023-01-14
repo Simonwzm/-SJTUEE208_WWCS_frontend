@@ -1,0 +1,11 @@
+Washington (CNN) Truth Social, the Twitter-like social network backed by former President Donald Trump, remains unavailable on Google's Android app store because of deficiencies in the app's content moderation systems, according to a Google spokesperson.
+
+The app favored by many of Trump's supporters still has not met the Google Play Store's standards, including policies against incitement and physical threats of violence, the company told CNN on Tuesday.
+
+"On August 19 we notified Truth Social of several violations of standard policies in their current app submission and reiterated that having effective systems for moderating user-generated content is a condition of our terms of service for any app to go live on Google Play," the Google spokesperson told CNN. "Last week, Truth Social wrote back acknowledging our feedback and saying that they are working on addressing these issues."
+
+Google's statement was first reported by Axios
+
+Although Truth Social has been listed as available for pre-order on the Google Play Store since August 3, the app still has not been officially released, despite Truth Social going live for Apple devices months earlier, in February.
+
+Read More

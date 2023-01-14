@@ -1,0 +1,51 @@
+(CNN) For many, 2021 was a mix of hopeful and challenging, as covid vaccines became more widely available but the pandemic dragged on for another year. And while technology continued to keep us entertained and connected during the pandemic, it also made our lives harder.
+
+There were times this year when technology misfired or failed to work entirely — from giant internet outages and crippling ransomware attacks to a series of issues for Meta, the company formerly known as Facebook. (So many, in fact, it's the one company we list twice here.)
+
+Here is CNN Business' list of some of the most noteworthy tech-tastrophes of 2021:
+
+Facebook and LinkedIn experience massive data leaks
+
+In April, cybersecurity experts said the personal information of half a billion Facebook users, including phone numbers, birthdays and email addresses, had been posted to a website used by hackers. Facebook said at the time that the same data had previously been reported as scraped from peoples' profiles by "malicious actors" in 2019 — and the issue that made it possible was fixed the same year. The incident showed yet again how vulnerable companies collecting massive amounts of personal data can be to bad actors.
+
+Also in April, LinkedIn confirmed that publicly-available details scraped from about 500 million of its users' profiles had been offered for sale on a hacker website. Linkedin said at the time that the database for sale was "actually an aggregation of data from a number of websites and companies." The company also said it was "not a LinkedIn data breach."
+
+Citizen app misidentifies an alleged arsonist
+
+In May, Citizen , a startup whose app sends real-time crime alerts, offered a $30,000 reward for help determining who started a Los Angeles wildfire. Tips, including a photo of a man posted to Signal, led police to detain a suspect. There was just one (very big) problem: it turned out he had been identified by mistake
+
+The company had used a new product in its app called OnAir to broadcast the information about the suspect, but said it failed to follow its own verification protocols before circulating the information.
+
+Ransomware attacks become big trouble
+
+hostage for money — This year, ransomware attacks — in which hackers get access to a computer system and, essentially, hold a companyhostage for money — rose sharply , particularly those targeting businesses and critical infrastructure . One major attack in May highlighted the vulnerability of US infrastructure to such crimes: Colonial Pipeline.
+
+Two outages (briefly) take down much of the internet
+
+It happened twice in less than two weeks: Large swaths of the internet went down , felled by outages at tech companies that most people have never even heard of. The outages were quickly detected and short-lived, but they underscored how reliant we are on the internet, and how precarious it can be.
+
+First, on June 8, countless websites including Reddit, CNN, Amazon, and many others went dark due to an outage at content delivery network Fastly. Then, on June 17, an issue at a similar company, Akamai Technologies, broke websites including those belonging to Southwest Airlines, United Airlines, Commonwealth Bank of Australia, and the Hong Kong Stock Exchange.
+
+The Fastly outage was spotted within a minute and lasted less than an hour for most affected websites, while Akamai let customers know of the problem within seconds and was able to fix it within four hours (and the company said most affected customers were offline for just minutes).
+
+Facebook's terrible, horrible, no good, very bad day
+
+Monday, October 4, was awful on many fronts for the company that would soon be re-named Meta.
+
+The night before, Facebook whistleblower Frances Haugen revealed her identity on a "60 Minutes" segment, claiming the company knew how its social networks were used to spread misinformation, hate speech, and violence. (Haugen was previously the unnamed source whose leak of thousands of pages of internal documents to The Wall Street Journal resulted in a series of damning stories , known as The Facebook Files, starting in September.)
+
+Oh, and that day the company also asked for the dismissal of an antitrust complaint that had been filed against it by the Federal Trade Commission. Then, on Monday, a major outage shut down Facebook, WhatsApp, and Instagram for hours, which it blamed on "configuration changes." Its stock plunged in trading as the company contended with the dueling issues of an outage and blowback from Haugen's television appearance. And it braced for more regulatory scrutiny as Haugen was set to testify the following day before members of Congress.Oh, and that day the company also asked for the dismissal of an antitrust complaint that had been filed against it by the Federal Trade Commission.
+
+The day foreshadowed more to come that month. In late October, a consortium of 17 US news organizations started publishing their own stories based on documents included in disclosures made to the Securities and Exchange Commission and provided to Congress in redacted form by Haugen's legal counsel. The consortium, which included CNN, reviewed the redacted versions received by Congress. These stories included details about how coordinated groups use Facebook to foment violence (such as the January 6 insurrection ), and how human traffickers use the social network for exploitation of people. (Facebook has repeatedly tried to discredit Haugen, and said her testimony and reports on the documents mischaracterize its actions and efforts.)
+
+Zillow learns a hard lesson about estimating home prices with AI
+
+In November, Zillow announced it would shut down its home-flipping business, Zillow Offers, citing "unpredictability in forecasting home prices" that "far exceeds" what the company had expected.
+
+The news was a stunning admission of defeat for the real estate listing company, which took a $304 million inventory write-down in the third quarter, saw its stock plunge, and said it planned to cut 2,000 jobs — a quarter of its staff.
+
+But it also marked a stark turnaround from earlier in the year, when the company appeared so confident in its ability to use AI to estimate home values that it had said its so-called "Zestimate" would, for certain homes, act as an initial cash offer to buy a property . It's not just hard to buy and sell homes for profit, apparently; it's really tricky to use AI to make such real-world decisions, too.
+
+Tesla "full self-driving" freaks out drivers (including CNN)
+
+Tesla CEO Elon Musk has long touted the electric-vehicle company's "full self-driving" software. By late 2021, however, it's still not not fully autonomous — rather, it offers driver-assist features that require users to agree that they must remain alert at the steering wheel in case they need to take over. Additionally, only a small number of Tesla drivers have been able to try it out thus far, including a group of customers who've paid $10,000 apiece for access to the "beta" version of the feature.

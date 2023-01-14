@@ -1,0 +1,43 @@
+(CNN Business) The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are.
+
+The verification process includes taking a picture of a photo ID, like a driver's license or passport, and then taking a video selfie with a smartphone or computer so software can compare the two. It's part of a partnership the IRS has with ID.me, a fast-growing company that uses facial recognition software as part of its identity-verification process.
+
+For now, this process is optional if you already have an IRS username and password. But if you don't, and you want to use online tools to request an online tax transcript or see information regarding your tax payments or economic impact payments, you'll need to sign up with ID.me. And starting this summer, those old IRS usernames and passwords will no longer work.
+
+As CNN reported last year , ID.me already verifies identities for more than half of all states' unemployment agencies as well as a growing number of US federal agencies. In addition to the IRS, ID.me works the Department of Veterans Affairs, Social Security Administration and the US Patent and Trademark Office . The company says it has 70 million users and adds 145,000 new users each day.
+
+The IRS used ID.me in a more limited capacity last year,verifying people who wanted to opt out of receiving advance child tax credit payments. In November,the IRS announced it was expanding this verification process for all logins,but it is gaining attention and some scrutiny as tax season begins and millions of people visit the agency's site.
+
+"I think any plan that inserts a private intermediary into the system for accessing critical information or obtaining benefits from a government agency warrants a lot of scrutiny," said John Davisson, director of litigation and senior counsel at the Electronic Privacy Information Center, or EPIC.
+
+After this story published, a Treasury Department official said Friday that the department and the IRS are "constantly in search of ways to improve taxpayers experience, and are looking into alternatives to ID.me." The official declined to answer additional questions on the timing and specifics for weighing alternatives.
+
+In an earlier statement to CNN Business, the IRS pointed out that it's not necessary to have an online account with the IRS at all. The agency said it "emphasizes taxpayers can pay or file their taxes without submitting a selfie or other information to a third-party identity verification company." (Taxpayers can also, for instance, request a transcript that will come by mail.)
+
+"To help protect the security of taxpayers, the IRS uses an identity verification process for accessing IRS' self-help tools such as checking your account online and getting a transcript online," the IRS said in a statement to CNN Business.
+
+The rise of ID.me
+
+ID.me, which has been around for roughly a decade, grew swiftly during the pandemic, largely due to states turning to the company for identity verification for unemployment seekers. The hope was that ID.me, along with its facial-recognition software, would cut down on a surge of fraudulent claims for state and federal benefits that cropped up during the pandemic alongside a tidal wave of authentic unemployment claims.
+
+As ID.me has spread to more government services, it has also raised concerns from privacy advocates about how facial recognition technology is seeping into everyday life. Those concerns were renewed this week amid mixed messaging from the company about how its service works.
+
+To verify users' identities, ID.me uses a form of facial-recognition technology known as facial verification, or one-to-one facial recognition — similar to the process of unlocking your smartphone with your face.
+
+the company has said it does not use what's known as one-to-many facial recognition. This is the software a police department might use. It attempts to match a photo of a person to ones in a database of faces, and the technology, as used in other services, has been linked to at least several As recently as this week,the company has said it does not use what's known as one-to-many facial recognition. This is the software a police department might use. It attempts to match a photo of a person to ones in a database of faces, and the technology, as used in other services, has been linked to at least several wrongful arrests of Black men
+
+"ID.me does not use 1:many facial recognition, which is more complex and problematic," Blake Hall, the founder and CEO of ID.me, said in a statement posted to the company's website this week.
+
+use one-to-many facial recognition software "on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime from stealing the identities of innocent victims en masse." Yet in a LinkedIn post on Wednesday, first noted by cybersecurity news site CyberScoop , Hall wrote that the company doesuse one-to-many facial recognition software "on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime from stealing the identities of innocent victims en masse."
+
+A spokesperson for ID.me said the company first uses one-to-one facial recognition for verifying identities of users, and then checks users against an internal database of selfies to look for "prolific attackers and members of organized crime who are stealing multiple identities." People who are matched with a photo in ID.me's database — which the spokesperson said totals 0.1% of users — are sent to a video chat for verification.
+
+In response to Hall's LinkedIn post, digital rights group Fight for the Future called for the IRS to stop the use of facial verification on its website, and for government agencies to end contracts with ID.me.
+
+ID.me has also long faced complaints from users who say they have spent hours waiting to have their identities verified via video chat after failing to pass the company's facial recognition step. Some of them, like English teacher Ari Herzog, Beyond the privacy concerns,ID.me has also long faced complaints from users who say they have spent hours waiting to have their identities verified via video chat after failing to pass the company's facial recognition step. Some of them, like English teacher Ari Herzog, take to social media in hopes of getting help from the company.
+
+Herzog, who's based in the Boston area, already had an IRS online account and said he experienced a nine-day wait to get verified with ID.me in early January, including failed attempts to upload documents, and a long wait for a video call.
+
+"I saw a message that current logins are going to be required to use this new ID.me system beginning this summer," he said. "So I thought, 'Okay, I might as well get a head start on this; how long could it take?'"
+
+The ID.me spokesperson said that in the first three weeks of January, a combination of the Omicron variant and snowstorms in Virginia, where the company's support team is based, cut down its ability to support users. The spokesperson also said that nine out of 10 ID.me users are automatically verified in under five minutes.

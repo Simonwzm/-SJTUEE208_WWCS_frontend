@@ -1,0 +1,29 @@
+CNN Business —
+
+TikTok repeatedly declined to commit to US lawmakers on Wednesday that the short-form video app will cut off flows of US user data to China, instead promising that the outcome of its negotiations with the US government “will satisfy all national security concerns.”
+
+Testifying before the Senate Homeland Security Committee, TikTok Chief Operating Officer Vanessa Pappas first sparred with Sen. Rob Portman over details of TikTok’s corporate structure before being confronted — twice — with a specific request.
+
+“Will TikTok commit to cutting off all data and data flows to China, China-based TikTok employees, ByteDance employees, or any other party in China that might have the capability to access information on US users?” Portman asked.
+
+The question reflects bipartisan concerns in Washington about the possibility that US user data could find its way to the Chinese government and be used to undermine US interests, thanks to a national security law in that country that compels companies located there to cooperate with data requests. US officials have expressed fears that China could use Americans’ personal information to identify useful potential agents or intelligence targets, or to inform future mis- or disinformation campaigns.
+
+TikTok does not operate in China, Pappas said, though it does have an office in China. TikTok is owned by ByteDance, whose founder is Chinese and has offices in China.
+
+US concerns about TikTok were renewed after a BuzzFeed News report in June, based on leaked meeting audio, said ByteDance employees had accessed US user data on multiple occasions. In a subsequent letter to lawmakers, TikTok acknowledged the ability for China-based individuals to access US user data but highlighted cybersecurity controls that were “overseen by our US-based security team.”
+
+Pappas affirmed in Wednesday’s hearing that the company has said, on record, that its Chinese employees do have access to US user data. She also reiterated that TikTok has said it would “under no circumstances … give that data to China” and denied that TikTok is in any way influenced by China. However, she avoided saying whether ByteDance would keep US user data from the Chinese government or whether ByteDance may be influenced by China.
+
+Asked by Portman on Wednesday to respond to the BuzzFeed article again, Pappas said, “those allegations were not found,” without identifying a specific allegation. She then added: “There was talk [in the article] of a master account, which does not exist at our company.”
+
+The BuzzFeed article mentions a “Beijing-based engineer as a ‘Master Admin’ who has ‘access to everything,’” but is ambiguous about whether that engineer is a ByteDance or TikTok employee.
+
+“Again, we take this incredibly seriously in terms of upholding trust with US citizens and ensuring the safety of US user data,” Pappas said. “As it relates to access and controls, we are going to be going above and beyond in leading initiative efforts with our partner, Oracle, and also to the satisfaction of the US government through our work with [the Committee on Foreign Investment in the United States], which we do hope to share more information on.”
+
+Portman then pressed Pappas again to commit to “cutting off all data and metadata flows to China,” but Pappas simply vowed that “our final agreement with the US government will satisfy all national security concerns.”
+
+Later, Pappas testified to Missouri Republican Sen. Josh Hawley that the entire contents of the BuzzFeed article were false.
+
+“We disagree with the categorization in that article wholeheartedly,” she said.
+
+TikTok previously said it has moved its US user data to cloud servers managed by Oracle, from servers that TikTok controlled in Virginia and Singapore, and that it would eventually delete backups of US user data from those proprietary servers. It is also in ongoing talks with CFIUS, a US government body composed of multiple agencies with national security jurisdiction, about its future handling of US data.

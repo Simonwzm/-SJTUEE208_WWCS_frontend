@@ -1,0 +1,47 @@
+New York CNN Business —
+
+When former IBM cloud leader Arvind Krishna took over the company’s top job earlier this year, the move sent a clear signal about where the company sees its future.
+
+Big Blue is making a big bet on cloud computing as it seeks to reverse its fortunes following several years of sluggish growth. And now, IBM (IBM) is making a new $1 billion investment aimed at accelerating that strategy.
+
+The 109-year old company is one of America’s most iconic tech firms, but in recent years it has been eclipsed by younger tech giants as its legacy server and enterprise IT businesses age. IBM’s shares last peaked in 2013 around $211 (they closed Wednesday just shy of $127).
+
+In an effort to spur new momentum, IBM has been working to reorient itself around the cloud business — a strategy boosted by its 2018 acquisition of open source software provider Red Hat, which Krishna helped to broker, and solidified by his ascension to CEO in April. In 2019, cloud represented 27% of IBM’s revenue.
+
+The company is making a big play in “hybrid cloud” — a technical setup wherein companies may use multiple clouds in addition to their own on-premises servers. IBM’s platform gives companies tools to more easily navigate between those various environments.
+
+Focusing in this area could help set IBM apart from bigger cloud players like Amazon Web Services and Microsoft Azure. It could also better position IBM to help its longtime corporate clients, many of whom still rely heavily on hardware, as they continue their digital transformations.
+
+To that end, IBM told CNN Business it has set aside $1 billion to invest in other companies in the cloud space — third party software providers and digital IT vendors — to grow the ecosystem of firms working on its hybrid cloud platform.
+
+“When you have a platform — either an architectural platform or a technology platform — it’s a lot easier to scale that platform when you leverage an ecosystem,” Bob Lord, IBM’s senior vice president of cognitive applications, blockchain and ecosystems, told CNN Business.
+
+Investors have been waiting for just such a move. In January, MoffettNathanson analyst Lisa Ellis told CNN Business: “IBM has had a long six-year journey of doing easy stuff — cost cutting and benefiting from lower taxes. It now has to demonstrate momentum in cloud. Period.”
+
+Building a hybrid cloud ecosystem
+
+IBM’s investment fund will help provide incentives for those third party software companies to build on top of its own architecture, such as covering the costs of migration services.
+
+“These are businesses that consume IBM software, so that when they sell their software, they pull IBM software,” Lord said.
+
+A hybrid cloud model makes sense, especially for the large, legacy companies IBM has long worked with. In many cases, they are firms that have spent heavily on hardware data systems and could be running crucial processes that can’t afford to fail, such as airline software that communicates with planes.
+
+Using a hybrid cloud platform means companies can keep using their hardware systems for data that requires it. And they can move other processes onto the cloud, providing greater flexibility for large amounts of data, as well as other benefits such as artificial intelligence to understand trends in a company’s data.
+
+“Many corporations are facing a problem of, ‘how do I shift to the cloud?’” Nucleus Research CEO Ian Campbell said. “Like manufacturing, where everything is essentially fine and running, they may not see a reason to do it. That’s where hybrid cloud comes in and says, ‘we have an easy path for you to make the transition to the cloud without having to upend your investment in existing infrastructure.’”
+
+The ultimate aim is to make IBM technology the foundational layer that sits under other companies’ software. Such a model could help IBM secure longtime customers by ensuring its technology is a crucial component in their technical infrastructure in the future.
+
+“Quickly building out a partner ecosystem is going to put them on par with their competitors,” Campbell said. “It shows a strong commitment to the cloud and provides an incentive for any of the partners that may have been looking at (other cloud providers) to invest in IBM instead.”
+
+A bold bet on a big opportunity
+
+The investment comes as many corporations have been hit hard by the coronavirus pandemic and the ensuing economic downturn, and some have pulled back on their tech spending. IBM’s earnings fell 31% year-over-year in the June quarter.
+
+While the pandemic has been disruptive in the short term, most experts expect it will accelerate many companies’ move to the cloud, making it perhaps the ideal time for such an investment.
+
+IBM is up against tough competitors in the space, including Amazon (AMZN) Web Services and Microsoft (MSFT) Azure.
+
+If it works, though, the payoff could be huge — IBM estimates that hybrid cloud represents a $1.2 trillion market opportunity over the next two years.
+
+“I think you’ve got to give them credit, given that the last few months have been a tough time, they’re weathering that storm and they’re likely to come out of it stronger,” said Nucleus Research’s Campbell. “It’s probably the best investment IBM could make right now … So many traditional IBM customers have to make the transition to the cloud but haven’t had a path forward until now.”

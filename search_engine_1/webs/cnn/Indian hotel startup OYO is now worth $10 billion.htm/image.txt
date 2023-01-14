@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/191007070436-oyo-hotel-england.jpg?q=x_83,y_103,h_1592,w_2830,c_crop/w_800

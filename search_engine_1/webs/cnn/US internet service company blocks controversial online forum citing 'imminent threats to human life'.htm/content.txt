@@ -1,0 +1,31 @@
+New York (CNN) Cloudflare, a major American internet services company, pulled its support for Kiwi Farms, a controversial online message board, Saturday evening citing "imminent threats to human life." The move temporarily forced Kiwi Farms offline.
+
+Cloudflare's decision came as Kiwi Farms was linked to a campaign of harassment and violent threats targeting Clara Sorrenti, a Canadian trans woman who is a streamer on Twitch, a platform popular among video gamers.
+
+Sorrenti, better known by her online name " Keffals ," launched a campaign calling on Cloudflare to stop providing services to the site.
+
+Fearing for her safety after her personal details were posted online, Sorrenti said she left her home in Canada in recent weeks and traveled to Belfast, Northern Ireland, to stay with a friend. However, she says, the online harassers were able to track her down there.
+
+Police in Northern Ireland are investigating threats made against her there, The Sunday Times reported
+
+Cloudflare's decision comes amid an ongoing debate about what major internet companies and platforms should do about online hate and harassment campaigns that are organized with the support of their services.
+
+Matthew Prince, the CEO of Cloudflare, has long expressed discomfort about his company's potential role of deciding what can and cannot be online. It is a position echoed by others in Silicon Valley who argue it shouldn't be up to them to police speech online.
+
+"This is an extraordinary decision for us to make and, given Cloudflare's role as an Internet infrastructure provider, a dangerous one that we are not comfortable with," Prince wrote in a blog post Saturday after blocking Kiwi Farms.
+
+But, he said the rhetoric on Kiwi Farms "and specific, targeted threats have escalated over the last 48 hours to the point that we believe there is an unprecedented emergency and immediate threat to human life unlike we have previously seen from Kiwifarms or any other customer before."
+
+"Cloudflare provides security services to Kiwifarms, protecting them from DDoS and other cyberattacks. We have never been their hosting provider," Prince added.
+
+In 2019, Cloudflare pulled its support for the hate-filled forum 8chan after that site was linked to a shooting in El Paso, Texas, that killed 23 people.
+
+Last Wednesday amid increasing public pressure to stop providing support to Kiwi Farms, Cloudflare released a blog post attempting to clarify its position.
+
+The post did not reference Kiwi Farms directly, but Cloudflare said its decisions to stop providing support to 8chan in 2019, and to the neo-Nazi website The Daily Stormer in 2017, had unintended consequences.
+
+"In a deeply troubling response, after both terminations we saw a dramatic increase in authoritarian regimes attempting to have us terminate security services for human rights organizations," the blog post read.
+
+By Sunday morning, Kiwi Farms was mostly back up online, finding another service provider to keep it on the web.
+
+Sorrenti told CNN Sunday she is going to continue to campaign to have all internet service providers refuse Kiwi Farms business.

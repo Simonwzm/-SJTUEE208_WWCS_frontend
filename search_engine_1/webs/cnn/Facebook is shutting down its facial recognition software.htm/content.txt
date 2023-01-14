@@ -1,0 +1,35 @@
+(CNN Business) Facebook said Tuesday it plans to stop using facial-recognition software that could automatically recognize people in photos and videos posted on the social network, marking a massive shift both for the tech industry and for a company known for collecting vast amounts of data about its billions of users.
+
+Facebook, which changed its company name to Meta in late October, also said it plans to delete the data it had gathered through its use of this software, which is associated with over a billion people's faces.
+
+The move, announced in a blog post authored by artificial intelligence vice president Jerome Pesenti, comes as the company is widely scrutinized for the potential real-world harms of its social platforms in the wake of a whistleblower's leak of hundreds of internal documents
+
+Pesenti wrote that the world's largest social network will shutter its facial-recognition system in the coming weeks "as part of a company-wide move to limit the use of facial recognition in our products."
+
+Facebook will still be working on facial recognition technology, however, and may use it in its products — range from social networks to a futuristic pair of picture-taking glasses — in the future.
+
+"Looking ahead, we still see facial recognition technology as a powerful tool, for example, for people needing to verify their identity, or to prevent fraud and impersonation," Pesenti wrote.
+
+In his post, Pesenti pointed to concerns about the appropriateness of the technology, which has come under scrutiny as it's increasingly used but, in the US, at least, barely regulated.
+
+"We need to weigh the positive use cases for facial recognition against growing societal concerns, especially as regulators have yet to provide clear rules," Pesenti wrote.
+
+Woodrow Hartzog, a law and computer science professor at Northeastern University, called the decision a "win" that shows the need for ongoing privacy advocacy and critiques of tech companies.
+
+"It also shows that these technologies are neither inevitable, nor are they indispensable," he said.
+
+The move to both stop using the software and to wipe the data that is related to existing users of the feature marks an about-face for Facebook, which has been a major user and proponent of the technology. For years, the social network has allowed people to opt in to a facial-recognition setting that would automatically tag them in pictures and videos — a move that massively benefited Facebook as it made it easier for users to egage with each other, leading them to spend yet more time on Facebook. Pesenti wrote that more than a third of the company's daily active users had opted in to the setting — or more than 643 million people, as Facebook had 1.93 billion daily active users in the third quarter of 2021.
+
+Facial recognition software has been fraught with controversy, as concerns mount about its accuracy and underlying racial bias. For example, the technology has been shown to be less accurate when identifying people of color, and several Black men, at least, have been wrongfully arrested due to the use of facial recognition. While there's no national legislation regulating the technology's use, a growing number of states and cities are passing their own rules to limit or ban its use.
+
+Pesenti wrote that halting use of facial-recognition software will also mean that Facebook's automatically generated descriptions of images for the visually impaired will no longer add names from those who were recognized in pictures.
+
+Despite the timing of Facebook's decision, Caitlin Seeley George, campaign director for digital rights group Fight for the Future, cautioned against dismissing it as a public-relations stunt. She says the move demonstrates that Facebook is questioning the technology's value and it will impact millions of people's lives.
+
+The decision, she noted, comes shortly after other companies' announcements trumpeting the technology — such as Delta Air Lines expanding the use of facial-recognition software for checking in customers for flights.
+
+"The fact that a company as big and influential as Facebook is coming out and acknowledging the harms of facial recognition is definitely a sign of the times," she said.
+
+Yet since the company is not going to stop working on facial-recognition technology more generally, Hartzog cautioned that it could come back at a later date, "perhaps in a way that is less noticeable but still dangerous to people."
+
+"Just because it's not being used in this particular area doesn't give me complete confidence that it's not going to be used in, say, their virtual-reality tools or other settings in other ways," Hartzog said.

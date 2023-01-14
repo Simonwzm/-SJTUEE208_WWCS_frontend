@@ -1,0 +1,71 @@
+CNN Business —
+
+Regulators have spent years trying to make big tech companies pay for the ways they harvest and, at times, abuse users’ data. One state, meanwhile, is literally making them pay up — and pay out directly to consumers.
+
+Illinois is one of just a few states in the United States that has a law requiring companies to get consumers’ consent before snagging their biometric data, and its rule, passed in 2008, is seen as the toughest in the nation. The law, called the Biometric Information Privacy Act (BIPA), doesn’t just force companies to get permission from people before collecting biometric data like fingerprints or scans of facial geometry. It also sets rules regarding how companies must safeguard such information, prohibits companies from selling Illinois residents’ biometric data, and allows Illinois residents to sue companies for alleged violations of the law.
+
+In the nearly 15 years since its passage, services using biometric data — from palm print recognition for buying groceries to facial-recognition software for unlocking your smartphone — have become increasingly common. But legislation in the United States has not kept up. There is no federal legislation on the matter, and among the select few states to have taken action, the Illinois law is seen as uniquely effective.
+
+“It’s the gold standard law,” said Chad Marlow, a senior policy counsel for the American Civil Liberties Union.
+
+As a result, Illinois has become the benchmark for regulating biometric technologies such as facial-recognition software. Groups like the ACLU and individual consumers have used the law to sue a growing list of prominent companies from Facebook to Snapchat, and in some cases curbing the behavior of tech companies offering products and services in the state. In the process, it has sent a message about the importance of personal data privacy that reverberates far beyond Illinois.
+
+How it started
+
+In Illinois, BIPA came about at least partly due to concerns over data gathered by a bankrupt fingerprint-scanning payment company, which then went belly-up. Lawmakers worried the data gathered by Pay By Touch, which had been available in Jewel-Osco grocery stores in the Chicago area, could be sold in the wake of its failure (the company was auctioned off in pieces).
+
+The text of the law, which was introduced in early 2008, mentions Pay By Touch by name and points out that, unlike a Social Security number, biometric identifiers are “biologically unique” and can’t simply be changed if they’re compromised.
+
+“The full ramifications of biometric technology are not fully known,” the law says.
+
+The Illinois State Capitol in Springfield on March 7, 2022. (Antonio Perez/Chicago Tribune/Tribune News Service via Getty Images) Antonio Perez/Chicago Tribune/Tribune News Service/Getty Images
+
+Indeed, at the time, companies across the United States were pursuing biometric technologies, but consumers weren’t nearly as familiar with them as we are today — and the impact of such technologies was impossible to calculate. It wasn’t until 2010 that Facebook began using facial-recognition software to automatically tag users in pictures uploaded to the social network, for example, and it was in 2013 that Apple first added a fingerprint sensor to the iPhone for unlocking the device. BIPA was passed 12 years before America’s first known wrongful arrest due to facial recognition.
+
+Experts say one of the most powerful provisions of the law is that it allows individuals to sue, rather than leaving it up to the state. (Texas and Washington, which have their own similar rules, leave the decision to take legal action to their states’ attorneys general). Companies found to have “intentionally or recklessly” violated BIPA may owe up to $5,000 for each violation; those found to have violated the law due to negligence may owe up to $1,000 per violation.
+
+That right to sue “has been one of the only ways you get companies to take compliance seriously,” said Hayley Tsukayama, a senior legislative activist for the Electronic Frontier Foundation, a digital rights group. “And it is of course one reason the people who hate it hate it with a burning passion.”
+
+Despite BIPA’s legal teeth, the law didn’t show its full force until 2015. That year, Chicago-based attorney Jay Edelson’s firm, Edelson PC, led a class-action suit against Facebook alleging that the social network violated BIPA with its use of facial-recognition software to identify people in users’ photos and suggest users tag those people by name. The suit argued, essentially, that Facebook was gathering and keeping users’ facial biometric data — measures of their facial geometry gleaned from pictures — without asking in advance or asking for permission, which is against Illinois law.
+
+“Our client was literally worried he would lose his biometrics, and it would be out in the world,” Edelson said of the initial plaintiff’s decision to sue the social network.
+
+Facebook agreed to settle the suit in early 2020 for $550 million, and a judge increased that amount to $650 million in March of 2021. (This amounts to $397 per person who is eligible for payment, Edelson said — an amount that may sound small but is far more than what people receive in many class-action suit settlements.)
+
+Far-reaching impacts
+
+Edelson has since worked on dozens of BIPA lawsuits and estimates that more than 500 suits have been filed alleging violations under the law. Many of the lawsuits relate to companies using systems that make employees clock in or out with a fingerprint or face, but in addition to Facebook numerous big tech companies have also agreed to class-action settlements worth hundreds of millions of dollars.
+
+Last year, TikTok agreed to pay $92 million to settle a class-action suit alleging it unlawfully gathered biometric data from users and then shared it with other companies; the suit was divided into a national class and an Ilinois class, with those in the Illinois class able to receive as much as six times more money due to BIPA. Google agreed in April to pay $100 million to settle a suit related to a photo grouping feature in Google Photos, and Snapchat parent company Snap agreed in August to pay $35 million to settle a suit related to filters and lenses in Snap’s app. (None of these companies has admitted any wrongdoing.)
+
+“In the big picture, it’s all of these suits acting in combination with each other, which is what makes BIPA so powerful,” Marlow said.
+
+The results aren’t always limited to money being paid out to consumers, and the impacts of the suits can reach beyond Illinois state lines. For instance, a settlement with controversial facial-recognition company Clearview AI (which Edelson took on pro bono on behalf of the ACLU and other nonprofit groups) had a far-reaching impact when it was settled earlier this year: It led to an agreement that the company will not sell its software to most companies in the United States — a decision that largely restricts its use to law-enforcement agencies in the country.
+
+The outcome of the suit “is a total game changer, in our minds,” Edelson said.
+
+The Facebook suit, too, may have had an impact beyond Illinois. In November 2021, less than a year after a judge increased the amount of its BIPA case settlement, the company said it would stop using facial-recognition software for automatically recognizing people in photos and videos. It also announced it would delete related data, which is associated with over a billion people’s faces (it will still be working on facial recognition technology, however, and may use it in its future products).
+
+Adobe Stock
+
+“I’m not sure that that’s a decision they would have made were it not for BIPA, but certainly making that decision removes the possibility of BIPA non-compliance with facial images, and facial geometry,” said Lior Strahilevitz, a law professor at the University of Chicago.
+
+Facebook did not respond to a request for comment. The company did not mention BIPA when it announced its decision to halt the use of the technology.
+
+To avoid even the potential for violating the law, some companies have gone as far as deciding not to sell a product in the state — such as with Sony’s Aibo robot dog, which the company says mimics a real pet’s behavior by using facial-recognition software to “behave differently around familiar people.”
+
+Some other companies are limiting features that include biometrics to people who live outside Illinois. This was the case in 2018, when Google added a feature to its Google Arts & Culture app that lets people take a selfie that is then compared to historic paintings in order to find one that most closely resembles your mug.
+
+“That was definitely not available in Illinois, and there was kind of some local, ‘Huh, that’s interesting. Why can’t we use that?’” Strahilevitz said.
+
+Others try (and fail) to pass similar rules
+
+In the wake of BIPA’s passage, Texas and Washington passed their biometric laws in 2009 and 2017, respectively. But the laws have hardly been tested (in 2022, Texas also sued Facebook over allegations that it illegally snagged Texans’ facial-recognition data), likely because it’s up to the states, rather than individual citizens, to decide whether to sue.
+
+The basic ideas behind BIPA “seems to be consistent with popular sentiment,” said Strahilevitz, yet legislators in states such as California and Maine have tried and failed to pass their own versions of the rule.
+
+Experts say part of the reason for these failures is that momentum has built up against such biometrics laws, particularly from companies large and small that can be their targets.
+
+Yet Tsukayama of the EFF, whose group worked with California State Senator Bob Wieckowski on the bill he introduced in February that would have created a BIPA-like law in California, thinks it could be revived in the future, even though it stalled in committee this spring.
+
+After all, Tsukayama pointed out, “I can change a password, but I can’t change my face.”

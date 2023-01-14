@@ -1,0 +1,11 @@
+(Brooks Kraft/Apple)
+
+Apple unveiled a new desktop computer that will use its M1 Max and M1 Ultra, the Mac Studio and Studio Display.
+
+Thanks to Apple's in-house chips, the Mac Studio has a strikingly small form factor — just 7.7 inches by 3.7 inches. It will also be quieter, faster and more energy efficient than other high-end Macs. The Mac Studio with the M1 Ultra is expected to be 90% faster than the company's powerful 16-core Mac Pro. The Mac Studio with M1 Max will have up to 64 GB of unified memory, and, with the M1 Ultra, it will have up to 128 GB of memory.
+
+The Mac Studio comes with four thunderbolt ports, two USB-A ports, ethernet and HDMI ports and a pro audio jack on the back. The front of the device will feature an SD card reader and either USB-C or thunderbolt ports on the front, depending on the model.
+
+The Studio Display comes with a 27-inch screen and a 5K retina display. It also boasts a 12 megapixel camera that supports Apple's Center Stage feature for improved video calls, as well as spatial audio capabilities.
+
+The Mac Studio with M1 Max will start at $1,999; with M1 Ultra, the device will start at $3,999. The Mac Studio Display will start at $1,599. All can be pre-ordered today, and will be available March 18.

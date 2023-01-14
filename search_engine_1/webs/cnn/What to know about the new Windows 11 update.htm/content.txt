@@ -1,0 +1,11 @@
+(CNN) Nearly one year after Microsoft launched its flagship Windows 11, the tech giant has officially rolled out its first major update to the operating system.
+
+The update, which is available for free for current Windows 11 users, was released in more than 190 countries on Tuesday. Many of the new features hone in on Microsoft's vision for the future of hybrid work.
+
+"We have formed new habits; and they stuck," Panos Panay, the EVP and chief product officer of Windows and Devices at Microsoft, wrote in a blog post announcing the update. "Our work is never done to ensure Windows evolves and adapts to you."
+
+Panay, who said Windows 11 is the most used version of Windows in its history, detailed how the latest update aims to make remote work on the PC even easier and more secure. For example, a new tool called Smart App control uses AI to block malicious or untrusted apps from running on devices. Microsoft calls Windows 11 the most secure version of the operating system yet.
+
+Other changes include enhancements to the Snap layouts program which helps people optimize their view when they need to have multiple apps or documents in front of them at the same time. It is also introducing a "Focus sessions" and "Do Not Disturb" feature to help minimize distractions that pull you away from the task at hand. When you start a new focus session, it will activate the Do Not Disturb feature which silences all notifications and turns off taskbar badges.
+
+Read More

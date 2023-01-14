@@ -1,0 +1,51 @@
+CNN Business —
+
+Online payment services like Venmo and Cash App have exploded in popularity over the past few years, but they haven’t quite hit the legitimacy threshold, at least in the eyes of the federal government, of checks or direct deposit.
+
+They’re hoping to change that with the government’s new stimulus package, and are going on a public campaign to be considered as a way for the Treasury Department to deliver payments directly to Americans.
+
+Amid that effort, the parent companies of the two apps have had talks with Treasury about that possibility, two sources from the electronic payment industry told CNN Business, though it’s not clear how seriously Treasury is taking the idea. The Treasury Department did not respond to CNN’s request for comment.
+
+Advocates for the electronic payment services argue they offer a quicker way of getting stimulus dollars to Americans than sending checks by mail.
+
+Many of the people who directly receive money from the $2 trillion stimulus package signed into law on Friday will get their payments through direct deposit; Treasury Secretary Steven Mnuchin has indicated the first payments will go to people whose bank information is already on file with the Internal Revenue Service for tax purposes.
+
+But not everyone can get their money via direct deposit. Fourteen percent of Americans whose income is under $40,000 do not have a bank account, according to figures published last year by the Federal Reserve.
+
+Apps like Venmo and Cash App can be used by Americans even if they do not have bank accounts.
+
+Jack Dorsey, the founder and CEO of Square, which owns Cash App, publicly appealed to the US government on Thursday, tweeting, “People need help immediately. The technology exists to get money to most people today (even to those without bank accounts). Square and many of our peers can get it done. US government: let us help.”
+
+Dorsey is also the co-founder and current CEO of Twitter.
+
+Even if the Treasury Department did decide it wanted to use payment apps, though, it would still face a major hurdle to doing so — one major goal of the government’s stimulus efforts is to get payments to Americans as quickly as possible, something that might be at odds with any attempt to introduce a new payment mechanism.
+
+“I think this presents an interesting way to think about reaching people who may not have traditional bank accounts,” Erica York, an economist at the Tax Foundation, told CNN Business on Friday. “However, while I don’t know everything necessary to make such a partnership happen, it may not be feasible for the government to enter into those agreements, match data, and all the other steps that would be necessary to harness an app for the recovery rebates any quicker than it would take to process and send them directly.”
+
+“I think one of the timing challenges at play here is figuring out who gets a rebate and what size they get — that’s not really an issue that an app-based service would have the data on,” she added.
+
+The government also faces the challenge of getting money to people who did not earn enough money to file tax returns.
+
+Currently the IRS says there is no sign-up needed to get stimulus money. It’s going to rely on 2019 and 2018 tax returns, and then use Social Security benefit statements as a backstop, and will use whatever bank account or address is on file.
+
+Staff from Square and PayPal, which owns Venmo, have had private talks with Treasury over the past few weeks, two sources from the electronic payment industry who are familiar with the discussions, tell CNN Business.
+
+“They [the US government] know they need to get this money out the door quickly so I think they are open to quicker methods,” one of the sources told CNN Business on Friday. “Last time they were doing this was 2008 and 2009 and the technology didn’t exist as it does today,” they added, referring to government payouts after the 2008 recession.
+
+The source said the talks were still in their exploratory stages. “We are at the point now of looking into the technical challenges and what data the government could share with a third party. I think Treasury is very open to it,” they added.
+
+Jodie Kelley, the CEO of the Electronic Transactions Association, a trade body that represents companies including Square and PayPal, told CNN Business Friday that “the payments industry stands ready to help distribute these stimulus dollars.”
+
+“Everyone agrees that it is most important to get money in people’s hands as soon as possible,” Kelley said, adding that prepaid cards could also be used.
+
+In a letter to President Trump and Mnuchin last week, Kelley wrote, “many Americans do not have a bank account at a traditional financial institution. Upon receipt of a stimulus check, they would need to rely on expensive cash checking services to access their money. By utilizing electronic payments products those consumers wouldn’t need to depend on the high fee structure of a cash checking business.”
+
+Both Venmo and Cash App offer debit cards to users, meaning that users with one of those cards could use money transferred to their accounts to pay for products and services.
+
+When asked for comment, a spokesperson for Cash App pointed CNN Business to Dorsey’s tweet.
+
+PayPal declined to comment.
+
+A spokesperson for Zelle, a payment service owned by several American banks, said it had “offered to the U.S. Treasury Department the use of Zelle and other account solutions as services for the Federal Government to get stimulus funds quickly and safely to the American public.”
+
+— CNN’s Katie Lobosco and Kevin Liptak contributed to this report.

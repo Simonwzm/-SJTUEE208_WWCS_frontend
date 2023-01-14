@@ -1,0 +1,47 @@
+London CNN Business —
+
+Europe has approved new copyright laws that will change the internet. The problem is that nobody knows exactly how.
+
+The European Parliament on Tuesday approved an overhaul of the bloc’s copyright laws that makes platforms like Google’s (GOOGL) YouTube responsible for infringements committed by their users.
+
+EU lawmakers said their goal was to make the internet less of a “wild west,” where musicians, publishers and other content creators were not fairly compensated for work that was shared online.
+
+Yet many of the big tech companies targeted by the law say it is vague and badly written. They warn that they will be forced to over-police the internet to make sure they don’t break the new rules.
+
+Internet activists, academics and some copyright lawyers have joined tech companies in warning the rules are too broad and could restrict online information.
+
+The trouble with ‘Article 13’
+
+One section of the new copyright law — commonly known as Article 13 — is particularly controversial. In the final version, it became Article 17.
+
+It seeks to shift the responsibility for protecting the rights of artists and writers to platforms such as YouTube. Tech companies would have to prevent copyrighted materials from being uploaded, or seek licenses from the people who created them.
+
+“[This] places burdens on the platforms that are basically unachievable,” said Hayleigh Bosher, who teaches intellectual property law at Brunel University in London.
+
+The new rules make an exception for some types of content such as parodies, reviews and memes, but critics say the wording is not specific enough to set effective boundaries.
+
+“The final version of the directive leaves a lot of question marks … national courts and ultimately [the European Court of Justice] will have to answer a number of questions,” said Morten Petersenn, a copyright expert and partner at the law firm Hogan Lovells.
+
+Dark day for internet freedom: The @Europarl_EN has rubber-stamped copyright reform including #Article13 and #Article11. MEPs refused to even consider amendments. The results of the final vote: 348 in favor, 274 against #SaveYourInternet pic.twitter.com/8bHaPEEUk3 — Felix Reda (@Senficon) March 26, 2019
+
+Social media companies also say they lack the technology to properly filter the huge volume of content that gets uploaded each day to their sites. Instead, they will build filters that block anything suspicious.
+
+“We have seen time and time again that the technology is not there yet to be able to decide when it is and isn’t a copyright infringement,” said Bosher.
+
+“The algorithms are not able to say, ‘ah, this is a parody, this is not a parody,’ ” she added. “That needs a human intervention.”
+
+In addition to blocking some legal content, critics of the law say it could also harm smaller tech companies that don’t have the resources or expertise needed to build the filters.
+
+Who pays for content?
+
+Another controversial part of the new rules, dubbed a “link tax,” requires search engines, social media platforms and aggregation websites to share revenue with publishers if their content is displayed.
+
+Google said the rule will instead encourage websites to reduce their use of published content and make it harder for users to find news stories.
+
+The authors of the new rules pushed back against that claim, saying the Google and others will still be able to share “very short” snippets of text. However, the law doesn’t specify what “very short” means.
+
+The two-year debate leading up to the vote on Tuesday was emotionally charged.
+
+Over 5 million people signed a petition against the law and thousands protested in the streets. Beatles star Paul McCartney backed the law, but Tim Berners Lee, inventor of the world wide web, cautioned against it.
+
+It will be at least two years before the law takes effect.

@@ -1,0 +1,107 @@
+(CNN Business) Over the course of his career Tim Sweeney has been unafraid to take on tech industry giants.
+
+The CEO and founder of Epic Games has had a knack for picking the right battles while also shoring up his company's independence. Fortnite, the company's blockbuster battle royale game, recently topped more than 15 million concurrent players and has spawned a universe of fandom. Epic challenged established platforms by launching its own digital video game storefront. And the multi-billion dollar company developed the Unreal Engine, a proprietary software for making its own video games that it licenses out to other developers and animators.
+
+Now Sweeney, 50, is embarking on the biggest battle in his company's 30-year history: Epic is suing Apple and Google in a legal challenge that could remake the future of the digital economy.
+
+"Epic's frustration with Apple especially, and Google to some extent, had been building up for at least three years. Ever since Fortnite grew to have a large audience, we felt stifled by several things," Sweeney told CNN Business during a December interview.
+
+Launched in 2017, Fortnite quickly became a phenomenon. When it first debuted, Epic charged $40 to download the game — a typical price. But the company quickly pivoted to a riskier business model, betting that offering Fortnite as a free-to-play game with in-app purchases of digital items like outfits would generate more overall revenue.
+
+The bet paid off. Though Epic has raked in billions off Fortnite's in-game purchases — about $1.3 billion in 2020 and $1.8 billion in 2019, according to Nielsen's gaming division SuperData — the company balked at paying a chunk of that revenue to app store owners like Apple and Google. If a player downloaded Fortnite from Apple's App Store, for example, Apple would receive a 30% cut of all in-app purchases.
+
+Sweeney believed that requirement violated antitrust laws because it forced developers to use Apple and Google's payment systems.
+
+So Epic spent months developing its battle plan to fight Apple, which it codenamed "Project Liberty," he said.
+
+The company prepped a 60-page lawsuit and created a video that parodied Apple's classic "1984" commercial , for good measure.
+
+On August 13, Project Liberty was sprung into action — a plan that sought to force the tech giants into response.
+
+In a blog post, Epic encouraged Fortnite users to pay the company directly for in-app purchases. Both Google and Apple promptly removed Fortnite from their stores, alleging the company violated their terms of service. Epic then filed lawsuits against each of the companies, in which Epic argued the courts should intervene and order Apple and Google to allow developers to sell in-app purchases without the 30% revenue cut.
+
+"Epic's problem is entirely self-inflicted and is in their power to resolve," Apple said in a statement. "Epic has been one of the most successful developers on the App Store, growing into a multibillion dollar business that reaches millions of iOS customers around the world. We very much want to keep the company as part of the Apple Developer Program and their apps on the Store."
+
+Google responded that it had "consistent policies that are fair to developers" and that Fortnite had violated those rules. "However, we welcome the opportunity to continue our discussions with Epic and bring Fortnite back to Google Play," it added.
+
+For Sweeney, who spoke to CNN Business via video call from his home, the battle against Apple and Google is about more than just a 30% cut of its revenue.
+
+"I grew up in a time in which anybody could make software. This is my first computer, an Apple II," said Sweeney, gesturing towards the iconic blocky, grey machine on the desk behind him. "You turn it on and it comes up with a programming language prompt," he continued. "So I felt all along that open platforms are the key to free markets and the future of computing."
+
+Early dreams
+
+In 1991, a young, 20-something Sweeney founded Epic, then known as Potomac Computer Systems, as a way to sell copies of a video game he made himself. He ran the company out of his parents' house in Maryland.
+
+While Epic produced its own shooter games like Fire Fight and Unreal, it also began licensing its game development technology to other game makers in the late 1990s. This became the Unreal Engine, a ubiquitous game software which is now an essential part of Epic's business. Between 2012 and 2017, Epic survived mostly on revenue generated from the Unreal Engine's licensing fees, said Sweeney. Today, the Unreal Engine is also used in animation, such as creating scenes for Disney's "The Mandalorian."
+
+Sweeney said he always envisioned Epic as a multi-faceted business. He wanted Epic to both make and sell games — and create and license the tools used to make them.
+
+One part of that equation was, of course, Fortnite.
+
+Marvel's Avengers to Star Wars. It hosts massive virtual concerts and gives gamers endless shiny features, with the aim that there's something new each time a player logs on. But the breakneck speed of development allegedly had a real cost for its workers, some of whom told From the outset, Epic has always has always had outsized ambitions for Fortnite. The game has dozens of crossovers each year, fromMarvel's Avengers to Star Wars. Ithostsmassive virtual concerts and gives gamers endless shiny features, with the aim that there's something new each time a player logs on. But the breakneck speed of development allegedlyhad a real cost for its workers, some of whom told gaming publication Polygon in 2019 that they regularly worked 70-hour weeks. Since then, Epic has made changes including hiring more people, soliciting more employee feedback, offering unlimited paid time off and mandating company-wide vacations, according to the company.
+
+Gaming fans play Fortnite at the 2019 Electronic Entertainment Expo opening in Los Angeles, California on June 11, 2019.
+
+Epic's decision in 2018 to expand into selling third-party games created yet another business opportunity, and yet another fight against the establishment. By launching its own games store, and cutting out the middleman, Epic was attempting to break into an already thriving market for PC games that was, at the time, dominated by Steam, a popular games store.
+
+"We had to move mountains in order to have any chance of gaining traction at all," said Sweeney. Epic's store attracted attention for splashy stunts like giving away Grand Theft Auto V, which is the best-selling game in the US in the last decade, according to NPD Group.
+
+over $700 million in purchases last year While the Epic Games Store has gained momentum, attracting over 160 million PC users and generatingover $700 million in purchases last year according to the company , critics object to its exclusive deals that keep certain games out of other stores. Sweeney has defended his position saying the store exclusives are a reasonable strategy that helps Epic compete against Steam.
+
+In 2019, Epic acquired social media app Houseparty and later announced it would add voice chat to Fortnite through the app.
+
+The company was valued at $17.3 billion as of 2020, making Sweeney a billionaire.
+
+Uniquely positioned
+
+While investors of Epic include Tencent, which has a 39% stake, and Sony, which purchased a 1.4% stake in 2020 for $250 million, Sweeney remains the CEO and controlling shareholder.
+
+and Competitor Roblox has announced its plans for a direct listingand Unity — a rival to Unreal — went public in 2020. But Epic Games has little interest in an IPO.
+
+"We're still a highly independent company who's not beholden to public markets in which we have to show ever-increasing profits," said Sweeney. "And anything like a fight like this [with Apple and Google], which loses us money for a year or more, would never be tolerated. So we have the financial independence to do that."
+
+Epic's business model gives it a flexibility that other tech companies don't necessarily have.
+
+"Unlike Facebook, iOS doesn't drive the majority of Epic's revenues. Unlike Spotify or Netflix, Epic is highly profitable," said Matthew Ball, a former Amazon Studios executive and strategist who has penned over 20,000 words on Fortnite and Epic. "And unlike almost all other large companies, Epic is private and majority controlled by one person."
+
+Ball added that the fight with Apple and Google didn't come without sacrifices for Epic, which might see avid iPhone users find other games to replace Fortnite as the app spends months if not years in legal purgatory. "But Epic is uniquely able to push back," he said.
+
+What's at stake
+
+Sweeney declined to say how much the company is spending on legal fees, but he said that the fight to take on Apple and Google is costing "lots and lots" of senior leadership time.
+
+And the ban on Fortnite in app stores is costing the company plenty in lost revenue. Fortnite users have spent about $1.2 billion globally on the game on iOS since its launch, according to mobile app tracker Sensor Tower.
+
+The Epic Games Inc. Fortnite: Battle Royale video game is displayed for a photograph on an Apple Inc. iPhone in Washington, D.C., U.S., on Thursday, May 10, 2018. Fortnite, the hit game that's denting the stock prices of video-game makers after signing up 45 million players, didn't really take off until it became free and a free-for-all.
+
+Epic's case against Apple is expected to go to trial in May. Google is seeking to have Epic's suit dismissed in a hearing scheduled on February 18.
+
+Such a public fray has unnerved some developers, who fear that Apple might go a step further and remove apps from its store simply for being built using the Unreal Engine, which it briefly threatened to do last August.
+
+"We were legitimately planning to switch to Unreal for our next VR project but after Tim decided to poke the bear we decided it wasn't [worth] the risk," game developer Ryan Engle tweeted in December. "I love Epic and Unreal, but business is business and the real-world consequences of Apple banning Epic is too much risk for us."
+
+Sweeney responded saying that Engle's "fear of retaliation by Apple" was shared by many developers, but Epic would "fight on just the same!"
+
+Epic is also risking Fortnite's market share on iOS and Android platforms, as fans may turn to other games during the legal battle. On Android devices, Fortnite can be downloaded from Epic's website and app stores other than Google's Play Store, so while access is hindered, it's not eliminated. However on Apple devices, the game can no longer be downloaded at all.
+
+Fortnite's legal battle to the civil rights movement. Sweeney also faced backlash in November for controversially comparingFortnite's legal battle to the civil rights movement.
+
+"The point is if you really want to make a difference, you have to buck the system," Sweeney said in response to the criticism. "I think there's a lot we can learn from any of the past struggles in humanity and I think it's perfectly healthy to apply struggles from vital causes in the history of the world to struggles over smaller issues like software platforms."
+
+Returning to court
+
+For Epic Games and Sweeney, the risks are worthwhile. Sweeney fears a dystopian future where tech platforms are dominated by a few companies and the most successful apps are cloned by those companies to maximize profits.
+
+"[The companies] will just do that industry by industry and app category by app category until they've gobbled up everything that matters. And who will be left?" said Sweeney. "A million indie developers who collectively together make a small percentage of revenues on the app store because these businesses are too small to be attractive to steal."
+
+In what Epic's best case scenario, the court could rule that Apple and Google are prohibited from bundling payment services with their app stores, allowing developers to be paid directly, according to legal experts.
+
+Tim Sweeney speaks during BAFTA Presents Special Award to Epic Games at The London on June 12, 2019 in West Hollywood, California.
+
+But if Epic loses, it will at least make clear what the limits of antitrust law are, so people with similar grievances can look to appeal Congress for antitrust reform, according to John Bergmayer, legal director of consumer rights group Public Knowledge.
+
+"I think [Epic winning the lawsuits] would be pretty good for the markets overall," said Mitch Stoltz, senior staff attorney of the nonprofit digital rights group Electronic Frontier Foundation, in an August interview . "You'd see more experimentation. You'd see more business models. You'd see more innovation."
+
+As for Sweeney, he's optimistic Epic can change the industry.
+
+"It's Epic fighting or pressing for change and succeeding, and it's not that unusual," he said. "We've done it many times and everybody in the industry has benefited often."

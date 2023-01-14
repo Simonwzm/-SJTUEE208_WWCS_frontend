@@ -1,0 +1,41 @@
+(CNN Business) Parag Agrawal isn't a household name, but he could soon become one as he takes the lead at one of the world's most influential social media companies.
+
+On Monday,CEO Jack Dorsey announced he was stepping down and named Agrawal, the company's chief technology officer, as his replacement.
+
+Agrawal will have his work cut out for him. Dorsey is handing over the reins at a critical time for Twitter: the company continues to experiment with ways to grow its paid business and user base after setting new growth targets last year while confronting an activist investor . The shakeup also comes as more tech platforms involved in digital marketing — Twitter's key existing business — move to grant users more control over their personal data.
+
+"Twitter is in the midst of shaking up its business model," said Jasmine Engberg, a senior analyst at the industry research firm eMarketer. "The ad world is facing real challenges with the new targeting and privacy initiatives, and Twitter is experimenting with new revenue streams to augment its ads business and meet the aggressive revenue goals it set last February. ... The next CEO will have to face the challenge of making good on those goals."
+
+Twitter also continues to face questions — and possible new regulations — over how tech platforms handle problems like hate speech and misinformation. As CEO, Dorsey was grilled on these and other issues on multiple occasions by members of Congress.
+
+Facebook FB Though Twitter may be a fraction of the size of rivalin terms of its user base, it's often mentioned in the same breath and receives a similar level of scrutiny. And with good reason: A single tweet from a high-profile individual can roil markets around the world and an entire movement can spring up around a hashtag seemingly overnight.
+
+Twitter's potential impact on world events is not lost on Agrawal, who may now face a higher level of attention and scrutiny himself. In a memo to employees Monday, Agrawal acknowledged that "the world is watching us right now."
+
+From software engineer to CEO
+
+Though not a cofounder of Twitter like Dorsey, Agrawal is a decade-long veteran of the company. He joined Twitter in 2011 as a software engineer and became the company's CTO in 2017 — after prior stints at Microsoft and Yahoo during the 2000s. He holds computer science degrees from the Indian Institute of Technology, Bombay and Stanford University.
+
+As an engineer, Agrawal played a key role driving the "re-acceleration" of Twitter's growth in 2016 and 2017, according to his company bio, a possible nod to why Agrawal may have been a top choice for the CEO position. As CTO, Agrawal also helped oversee Twitter's fledgling cryptocurrency initiatives and its machine learning efforts.
+
+"He's been my choice for some time given how deeply he understands the company and its needs," Dorsey wrote in an internal memo shared on Twitter. "Parag has been behind every critical decision that helped turn this company around. He's curious, probing, rational, creative, demanding, self-aware, and humble. He leads with heart and soul."
+
+The board's decision to appoint him to the role was unanimous, Dorsey said in the memo.
+
+With Twitter's growing focus on its revenue model, the company could have turned to someone with a background in business. Instead, the company showed it remains committed to leader-engineers — builders who are intimately familiar with their product. In that respect, Agrawal's ascent echoes a familiar Silicon Valley theme.
+
+As if to underscore the point, Agrawal made an appeal to his colleagues, telling them in his first memo as CEO: I'm one of you. "I've walked in your shoes," he wrote. "I've seen the ups and downs, the challenges and obstacles, the wins and the mistakes."
+
+The appeal to unity comes as many workers in the technology industry have grown more comfortable confronting their employers over a range of issues, including workplace culture, climate advocacy and corporate policies. Agrawal hinted in his memo at a commitment to making Twitter a place where its employees want to stay.
+
+"I want you to #LoveWhereYouWork," Agrawal wrote, "and also love how we work together for the greatest possible impact."
+
+Dorsey's strong endorsement of Agrawal also may hint that they see eye-to-eye on many of the company's issues. If so, Agrawal could continue to develop some of the ideas begun under Dorsey's watch — whether that's a push to promote users' ability to choose among different content-ranking algorithms; contributions to an open social media standard ; or decentralizing content moderation and placing more of that power in the hands of users.
+
+Those initiatives largely grew out of the company's response to widespread criticism of its handling of misinformation, hate speech and violent rhetoric — issues that Agrawal will now be responsible for in the eyes of policymakers and the public.
+
+In one interview last year, Agrawal offered a peek into how he thinks about one of the thorniest problems confronting Twitter: How to stop the rise of echo chambers that drive polarization and reinforce divisions.
+
+His answer was an engineer's answer, and shed some light on how he envisions the future of Twitter. Agrawal said the company was looking to shift more toward helping users follow topics, "instead of just following people."
+
+"By following topics, you're choosing and able to get a diverse set of perspectives related to that topic, instead of just your set of voices that you chose to hear," he said. "And we believe a future, more topical way of using Twitter is likely to expose people to a broader range of perspectives, a broader set of viewpoints, and help people sort of not be in a filter bubble."

@@ -1,0 +1,23 @@
+San Francisco CNN Business —
+
+Facebook has a long history of expanding its features to emulate major competitors. Now it’s taking on platform-of-the-moment Zoom (ZM).
+
+The tech giant is creating a new video conference version of its Messenger app called Messenger Rooms, CEO Mark Zuckerberg announced Friday.
+
+The new service will allow users to host a meeting with up to 50 people at once with no time limit, Zuckerberg said in a video announcement. (Zoom’s free version allows up to 100 people together, but for a maximum of 40 minutes.) Facebook (FB) users can invite people to Messenger Rooms even if they don’t have Facebook (FB) accounts.
+
+Messenger Rooms will hold up to 50 people with no time limit. Facebook
+
+The use of video calling services has exploded in recent months, as the coronavirus outbreak forces people around the world to work and socialize from home. And few have been more popular than Zoom, which has added tens of millions of users thanks to its ability to host large virtual gatherings and fun additions, such as customizable photo backgrounds.
+
+That’s another feature Facebook is rolling out — the company said Messenger Rooms will feature AI-enabled virtual backgrounds. But Facebook’s backgrounds will span 360 degrees, which Zuckerberg boasted will take the experience to “the next level.”
+
+Rooms can currently be accessed through the Messenger app or the main Facebook platform, but will soon be added to the company’s other applications, including Instagram and WhatsApp. The service will be rolled out to some countries this week and expanded worldwide in the coming weeks.
+
+Facebook is also expanding its existing video services, which have seen a huge spike in usage during the pandemic. More than 700 million people participate in video calls on its apps each day, and usage has more than doubled in many countries in recent months, Zuckerberg said.
+
+The company will start by doubling the maximum number of people that can simultaneously join a video call on WhatsApp, its mobile messaging service, from four to eight. That update will be launched next week, Zuckerberg said.
+
+“WhatsApp is the only end-to-end encrypted video calling service,” he added, in what may have been a veiled swipe at recent controversies over Zoom’s privacy and security protections.
+
+Zuckerberg announced a number of other updates on Friday in response to the pandemic, including a “virtual date” video feature on Facebook’s dating service and expanded services for Facebook’s video-chat hardware tool, Portal.

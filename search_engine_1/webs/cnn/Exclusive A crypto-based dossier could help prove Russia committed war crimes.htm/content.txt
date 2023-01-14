@@ -1,0 +1,77 @@
+London CNN Business —
+
+In early March, a Telegram user posted a photo of wreckage at a school in a suburb of Kharkiv, Ukraine. The photo showed the side of a classroom with a large blast hole and a pile of debris including desks and chairs.
+
+International law prohibits intentional attacks on educational facilities. That means the picture could serve as evidence of a potential war crime, according to Starling Lab, a research center affiliated with Stanford University and the USC Shoah Foundation.
+
+Together with a team of human rights experts and specialist lawyers, Starling submitted evidence of this attack and four others on Friday to the International Criminal Court, which has opened an investigation into allegations of war crimes in Ukraine in the months following Russia’s invasion in late February.
+
+Starling’s dossier isn’t a typical exhibit. Instead, the group’s submission will feature publicly available online information that’s been preserved and verified using the blockchain technology behind cryptocurrencies, in what it says is the first submission of evidence of its kind to any court of law.
+
+“We believe that the use of this technology is uniquely appropriate and powerful in this scenario,” Jonathan Dotan, founding director of Starling, told CNN Business.
+
+The goal, Dotan said, is to build additional “layers of trust.” Blockchain is a ledger of data distributed across a network of computers, making it harder to hack or manipulate. By leveraging that, and other crypto technology, Starling is able to prove information hasn’t been manipulated and ensure that it won’t disappear if, say, a tweet was deleted or if a cloud database went out of business.
+
+A Telegram post from March shows a school classroom in Kharkiv strewn with debris. It was submitted to the ICC as evidence of a potential war crime by Starling Lab and its partners. From Telegram
+
+The invasion of Ukraine has produced mountains of valuable online information that could be of interest to prosecutors, thanks to the ubiquity of cell phones. That presents an opportunity and a challenge, given the lack of protocols for preserving digital evidence.
+
+Moscow has denied targeting civilians, but a CNN investigation found that 13 of 16 locations in Kharkiv confirmed to have been hit by Russian missiles in the first week of March were schools, residential buildings and shops.
+
+“This is the first conflict where so much of this social media evidence looks as though it’s about to play a role,” said Andrew Clapham, a professor of international law at Geneva Graduate Institute and a human rights law expert.
+
+Misinformation and disinformation also make it harder to sort through what’s real online and what’s not, as bad actors attempt to obscure the historical record. That’s where the crypto world can help, according to Dotan.
+
+“As events continue to shift on the ground, as the webs of knowledge expand, it’s very important to use these tools to guarantee this information,” he said.
+
+Documenting war crimes
+
+Dotan’s team previously used its blockchain expertise to preserve testimonials about the Holocaust and to document evidence of war crimes in northwest Syria. But they quickly pivoted as the war in Ukraine broke out.
+
+Teaming up with the Atlantic Council’s Digital Forensic Research Lab and Hala Systems, which develops technology to protect civilians, they decided to focus on two weeks of attacks on Kharkiv in March, and to look specifically at what appear to have been deliberate attacks on schools.
+
+The submission details five attacks on educational facilities that took place between March 2 and March 16.
+
+“There’s a very clear strategy behind attacking education and using that as a weapon of war,” said Ashley Jordana, associate director of accountability at Hala Systems. She worked with Starling to prepare the ICC submission.
+
+“The thinking behind that is if you attack a building dedicated to an institution, you’re not only attacking the child in and of itself — and their wellbeing and development and mental health — but by proxy, you’re creating a type of insecurity that has a really destructive impact on a country’s overall social and economic growth.”
+
+To start, the team began looking for open source information that could help prosecutors build a case that Russia’s military had committed war crimes. When they came across a relevant Telegram message or tweet, Starling researchers used crypto technology to capture, store and verify each piece of evidence.
+
+The goal: to prove exactly when they had custody of the information, and to create a means of demonstrating, over time, that it hadn’t been altered in any way.
+
+How does it work?
+
+First, they archived the post and its metadata — such as the author, the date it was created and how many times it was viewed. They also captured the surrounding site context and the profile of the user. Then they used cryptography to create unique fingerprints, or “hashes,” which would change if the underlying information was altered.
+
+The fingerprint and metadata was subsequently registered on multiple blockchains. This serves a function that’s similar to when a notary confirms someone was in possession of a legal document.
+
+Then the team focused on storage. Files were uploaded to two decentralized storage networks, Filecoin and Storj. The information was then cached through various nodes around the world, instead of being housed in a single system, like Amazon’s cloud.
+
+After that, Starling and its partners independently verified the information — vetting the source, diving into the post’s metadata, using geolocation tools to confirm the authenticity of photos and looking for corroborating evidence from organizations like the United Nations and Human Rights Watch.
+
+These research methods are similar to those used by journalists when trawling through online materials. CNN’s investigation in March included details of one of the attacks included in Starling’s submission.
+
+That corroborating material was then linked to the other files that had been uploaded on multiple blockchains, creating a chain of evidence that’s verified and protected from tampering.
+
+“We’re not just providing a series of links to investigators,” Dotan said.
+
+Starling’s method could also be useful as disinformation swirls. In the group’s submission, it noted that a “pro-Russian online source” was trying to reframe the narrative around one of the school attacks.
+
+What happens next?
+
+It will be up to the ICC whether the evidence presented by Starling Lab is included in any case it brings.
+
+One consideration for the court will be that it can’t try people in absentia, Geneva Graduate Institute’s Clapham said. That means the prosecutor is only likely to bring cases against people who have surrendered to the court in The Hague, and will prioritize evidence that is relevant in those cases.
+
+But Dotan and Jordana are hopeful that the ICC will be receptive to their methodology.
+
+In the ICC’s strategic plan for 2016 to 2018, it said it was looking to develop strategic partnerships with non-governmental organizations and academic institutions that could “support the identification, collection and presentation of evidence through technology.”
+
+“Ten years from now, when everyone’s forgotten about this and you need to come back to that day in March when a bomb dropped on a school, you have now a web of knowledge that can prove cryptographically that every step — as you capture, store and verify — has been guaranteed by some form of technology,” Dotan said.
+
+The ICC has also telegraphed its intent to ramp up work on cases that involve children.
+
+More work will need to be done by prosecutors to prove other elements of the alleged crimes detailed by Starling Lab, including building up additional evidence about the perpetrators of the attacks and their intent, said Kelly Matheson, a human rights attorney and the former director of the Video as Evidence program at Witness.
+
+Even so, she said the methods used by Starling are “an extremely useful tool to make sure that information coming in is verified up to the legal standard and usable by the court.”

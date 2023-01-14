@@ -1,0 +1,11 @@
+London (CNN Business) In India, the country with the world's second-highest number of Covid-19 cases, a handful of hospitals has started to use robots to connect patients with their loved ones, and assist healthcare workers on the frontlines of the pandemic.
+
+Bangalore-based Invento Robotics has designed three robots to carry out tasks ranging from disinfecting surfaces to answering patient questions and enabling video consultations with doctors.
+
+Of the eight the company has so far deployed, the most popular model is Mitra, which means friend in Hindi and costs around $10,000. Using facial-recognition technology, the robot can recall the names and faces of patients it has interacted with. Mitra can roam around a hospital independently, helping patients connect with family and doctors via its cameras and a video screen attached to its chest.
+
+"Mitra can be the nurse's or doctor's assistant, take readings and vitals, remind them of medications," says Balaji Viswanathan, CEO of Invento Robotics.
+
+He says the human-like robot engages with patients and gains their trust. "It may sound ironic but we are using robots to bring humanity to hospitals," he tells CNN Business.
+
+Read More

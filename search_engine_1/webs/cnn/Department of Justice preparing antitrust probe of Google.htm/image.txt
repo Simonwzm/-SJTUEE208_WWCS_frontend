@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/181101120212-google-hq-mountain-view-wide.jpg?q=x_0,y_186,h_1688,w_3000,c_crop/w_800

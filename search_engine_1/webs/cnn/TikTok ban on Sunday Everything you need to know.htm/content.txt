@@ -1,0 +1,27 @@
+CNN Business —
+
+The Trump administration said it will restrict access to TikTok on Sunday, Sept. 20. What does that mean for users of the short-form video app?
+
+The short answer is, you’ll still be able to use TikTok — if it’s already on your phone. But at midnight between Sunday and Monday, TikTok will vanish from US app stores, including those operated by Apple and Google.
+
+That means US users looking to install the app anew, or who are looking for security patches or other updates, won’t be able to receive them, under Commerce Department restrictions announced on Friday that limit how the app can be distributed.
+
+Apple and Google did not immediately respond to requests for comment.
+
+TikTok said in a statement that it disagreed with and was disappointed by the administration’s announcement.
+
+“Our community of 100 million US users love TikTok because it’s a home for entertainment, self-expression, and connection,” the company said, “and we’re committed to protecting their privacy and safety as we continue working to bring joy to families and meaningful careers to those who create on our platform.”
+
+For months, the Trump administration has alleged that TikTok is a risk to national security because the app is owned by a Chinese parent company, ByteDance. The administration has claimed ByteDance could be required to hand over TikTok’s user data to the Chinese government, compromising the safety and privacy of US users. In August, President Trump signed two executive orders aimed at banning the app and forcing ByteDance to sell TikTok.
+
+TikTok has insisted that US users’ information is stored outside of China, beyond the reach of Beijing, and that the company would reject any effort by China to compel the information. Cybersecurity experts have said there is no evidence that TikTok has been compromised by the Chinese government and that the danger, while plausible, is largely hypothetical.
+
+Some security experts have criticized the Commerce Department limitations because they would prevent security updates from being pushed to WeChat and TikTok users.
+
+One senior Commerce official dismissed it as “simplistic criticism.”
+
+“The argument that we’re eroding security because we’re not allowing an untrusted entity to push security updates to apps that are already untrusted, on its face falls flat,” the official said.
+
+The new restrictions come as the administration weighs a partnership between TikTok and Oracle meant to address the national security concerns raised by the administration. On a call about the restrictions this morning, the Commerce Department declined to say what would happen if such a deal were finalized before Sunday evening.
+
+If the companies aren’t able to complete a deal by Nov. 12, then further restrictions will be applied to TikTok that could degrade its functionality, Department officials said. The restrictions would apply to internet infrastructure companies in ways that could hinder the transfer of TikTok content, potentially slowing it down or creating outages on the service.

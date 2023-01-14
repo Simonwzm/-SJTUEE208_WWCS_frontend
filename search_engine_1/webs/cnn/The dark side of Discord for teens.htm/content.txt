@@ -1,0 +1,109 @@
+(CNN Business) When a mother in Washington state learned her teenage daughter was on Discord, a popular social media platform, she felt reasonably comfortable with the idea of her using it to communicate with members of her high school marching band.
+
+But in September, the mother discovered the 16-year-old was also using the audio and chat service to message with someone who appeared from his profile picture to be an older man. The stranger, who said he lived in England, entered a group chat that included her daughter and members of the band, according to the mother. They struck up a friendship in a private thread. He asked for nude pictures; her daughter obliged.
+
+"I went through every chat they ever had but the most disturbing thing, beyond the nudes, was that he asked her to send a picture of our house," said the mother, who, like other parents of young Discord users, asked to remain anonymous, citing concerns about their family's privacy. "My daughter went on Zillow, found our home and sent it, so he knew where she lives. He then asked what American school buses looked like, so she took a photo of her bus and sent it." He then requested pictures of her friends, and she sent those, too.
+
+The mother worried the Discord user was manipulating, tracking and planning to exploit her daughter. After shutting down her daughter's Discord account, an effort she said took six weeks for the company to complete, she installed outdoor security cameras around the home. The mother never reported the incident to Discord, and the conversations are no longer available to flag because the account was deleted. "There's lots of things we should have done in hindsight," she said.
+
+In recent months, large social media companies have faced renewed scrutiny from lawmakers over the negative impacts their platforms can have on teens. Executives from, Instagram, TikTok and Snapchat's parent company were called to testify before the Senate after leaks from a Facebook whistleblower pointed to Instagram's potential to harm one's mental health and body image, especially among teenage girls.
+
+Lawmakers are now weighing legislation to protect kids online -- a bipartisan bill was introduced in the Senate last month which proposes new and explicit responsibilities for tech platforms to protect children from digital harms. President Joe Biden also used part of his State of the Union address to urge lawmakers to "hold social media platforms accountable for the national experiment they're conducting on our children for profit."
+
+Discord, however, has not been part of that conversation. Launched in 2015, Discord is less well-known among parents than big names like Instagram, even as it surged to 150 million monthly active users globally during the pandemic. The service, which is known for its video game communities, is also less intuitive for some parents, blending the feel of early AOL chat rooms or work chat app Slack with the chaotic, personalized world of MySpace. While much of the focus from lawmakers with other platforms has been on scrutinizing more sophisticated technologies like algorithms, which can surface potentially harmful content to younger users, parents' concerns about Discord recall an earlier era of the internet: anonymous chat rooms.
+
+Discord is less well-known among parents than big names like Instagram, even as it surged to 150 million monthly active users globally during the pandemic.
+
+Discord's users, about 79% of which are located outside of North America, engage in public and private chats or channels, called servers, on varying topics, including music interests, Harry Potter and Minecraft, and homework help. Some, like a room for memes, can have hundreds of thousands of members. But the vast majority are private, invite-only spaces with fewer than 10 people, according to Discord. All servers are private by default, and only channels with more than 200 members are discoverable in its search tool if the administrator wants it to be public, the company added.
+
+Still, it's possible for minors to connect with people they don't know on public servers or in private chats if the stranger was invited by someone else in the room or if the channel link is dropped into a public group that the user accessed. By default, all users -- including users ages 13 to 17 -- can receive friend invitations from anyone in the same server, which then opens up the ability for them to send private messages.
+
+CNN Business spoke to nearly a dozen parents who shared stories about their teenagers being exposed to self-harm chats, sexually explicit content and sexual predators on the platform, including users they believed were older men seeking inappropriate pictures and videos.
+
+One mother from Charlotte, North Carolina said her 13-year-old daughter's mental health was impacted after a Discord chat room involving her interests took a turn. "The group eventually started talking about cutting themselves, shared tips on how to hide it from parents, and suggested advice on how to run away from home," the mother told CNN. "I later found out she was actively engaging in self-harm and had planned to run away to Alabama to visit a friend she made on Discord."
+
+A father outside Boston, who initially didn't think much of his 13-year-old daughter downloading Discord last summer "because she's a gamer," later discovered she had been talking with a man in his 30s who was looking for photos of her and wanted to engage in "naughty cam" activities, in messages reviewed by CNN Business.
+
+The father said he also later learned some of his daughter's classmates actively use Discord throughout the day unbeknownst to the school.
+
+"The school actively blocks apps such as Snapchat and Instagram when they log onto the school network on school devices, but teens are using other platforms like Discord that aren't on their radar," the father said. "It is the wild west of social media."
+
+CNN Business reported several of these cases to Discord -- with the parents' permission -- ahead of this article's publication. After launching a series of investigations, the company said it took action against some accounts but said it does not publicly comment on specific cases or user accounts.
+
+Many of the parents CNN Business spoke with said they did not enable any of the offered parental controls at the time, mostly because they were in the dark about how the platform works. If enabled, those parental control tools, including one that prohibits a minor from receiving a friend request or a direct message from someone they don't know, likely could have prevented many of these incidents. Some parents also expressed frustration with how Discord responded to their incidents once they were reported and struggled with the fact that audio chats on Discord don't leave a written record and can prove to be more difficult to moderate.
+
+Data on the frequency of such incidents is hard to come by. One recent report from Bark, a paid monitoring service that screens more than 30 apps and platforms, including emails and personal messages, for terms and phrases that could indicate concerns for the nearly 6 million children it protects, said Discord ranked among the top five apps or platforms for content flagged by its algorithms for severe violence, bullying, sexual content and suicidal ideation.
+
+In its most recent transparency report , Discord said it removed more than 470,000 non-spam accounts between January and June 2021, a significant rise from 266,075 account deletions during the second half of 2020. "Exploitative content made a particularly large contribution to this overall rise," said the report, which describes it as an umbrella category which encompasses sexually explicit material. The category went from around 130,000 removals in the second half of 2020 to 238,000 in the first half of 2021, and the removal of exploitative content servers -- which Discord defines as non-consensual pornography and sexual content related to minors -- nearly doubled to more than 11,000.
+
+However, Discord told CNN Business that child sexual abuse material and grooming — a term that refers to an adult forging an emotional connection with a minor so they can manipulate, abuse or exploit them — makes up a small percentage of activity on the service.
+
+In response to questions about the incidents parents shared with CNN Business, John Redgrave, the company's VP of trust and safety, said "this behavior is appalling, unacceptable, and has no place on Discord."
+
+"It's our highest priority for our communities to have a safe experience on the service, which is why we continuously invest in new tools to protect teens and remove harmful content from the service, and have built a team dedicated to this work," Redgrave said in a statement. "We also invest in education, so that parents know how our service works and understand the account controls that can contribute to a positive, safe experience for their teens."
+
+Redgrave added: "We built Discord to foster a sense of belonging and community, and it's deeply concerning to our whole company when it is misused. We must and will do better."
+
+But some experts argue the concerns that parents raised with Discord are innate to its design model.
+
+"With Discord, you subscribe to channels and engage in private chat, which is a veil of privacy and secrecy in the way it is constructed," said Danielle Citron, a law professor at University of Virginia who focuses on digital privacy issues. While some larger social networks have faced scrutiny around harassment and other issues, much of that activity is "public facing," she said. "Discord is newer to the party and so much of it is happening behind closed doors."
+
+A gaming tool goes mainstream
+
+Discord started with aspirations to become a game developer studio called Hammer & Chisel but shifted to focus on its communication tool after a multiplayer game it created never caught on. Its use of voice-over-video and screen sharing was a draw for gamers, allowing them to interact with friends or others while playing video games. In June 2020, the company announced a rebranding effort to grow beyond gaming; now about 80% of active Discord users report they either use the service mainly for non-gaming purposes, or use it equally for gaming and other purposes, according to the company.
+
+The company, which employs 600 people globally, said it makes its money through a subscription service called Nitro , which provides an enhanced Discord experience, such as customizing profiles with unique tags, accessing animated emojis, uploading large files and "boosting" users' favorite servers. In September 2021, Discord announced it raised $500 million in a funding round , placing its valuation at around $15 billion. Earlier in the year, the Wall Street Journal reported it walked away from a deal to be acquired by Microsoft for at least $10 billion. The company is widely expected to be moving toward a potential initial public offering.
+
+Like other social platforms, Discord said it saw a jump in usage as people were stuck at home during the pandemic, going from 56 million monthly active users in 2019 to 150 million in September 2021. Like other platforms, it has also had to confront extreme content, including from far right and conspiracy groups . And while users must be 13 years of age or older to join, problems exist with age verification, just as on other platforms.
+
+Amanda Schneider said an older man pursued an inappropriate relationship with her 13-year-old son on Discord. "It was just awful; there was no help at all."
+
+Similar to Reddit, there are moderators for channels who are responsible for enforcing the company's community guidelines and their own chat room rules. They are directly able to investigate a situation and then warn, quarantine, or ban users from channels. Discord also has an in-house Trust & Safety team of full-time employees who investigate and respond to user reports. According to Discord, they can rely on a mix of proactive and reactive ways to keep the platform safe, including automated search tools that scan photos and videos for exploitative content.
+
+The company said it's made an increased effort around boosting its safety protocols across its platform in the last year, working to scale reactive operations and improve methods to proactively detect and remove abuse. It continues to roll out more account controls through its Safety Center, which includes the ability to block offensive users, restrict explicit content, control who messages you and set up server rules and permissions within communities. It has also partnered with ConnectSafely, a nonprofit dedicated to internet safety, to create a parent's guide to Discord of recommended safety settings for teens, and is hosting "listening sessions" with National Parent Teacher Association chapters to increase awareness and usage of Discord's safety features and practices.
+
+Discord said parents can request that their child's account be deleted by sending an email associated with the account to confirm they are the child's guardian. This process may require some back and forth with the Trust & Safety team to help the parent through the process, according to the company.
+
+Discord also said it plans to turn off the default option for minors to receive friend invitations or private messages from anyone in the same server as part of a future safety update.
+
+The company recently updated its terms of service and privacy policy to take into account the off-platform behaviors committed by its users to assess violations of its community guidelines, including for sexualizing children. (Other large platforms, including Twitter and Twitch, began taking into account a user's activity off their platforms several years ago, such as being affiliated with a violent organization, as part of their efforts to crack down on abusive behavior.)
+
+But problems persist. Many of the parents CNN spoke with said they believe Discord is not doing enough to protect its young users.
+
+'There was no help at all'
+
+One mother from Los Angeles who submitted a report to Discord said the company was unable to help her after a man struck up a conversation with her 10-year-old daughter who started sending her links to BDSM pornography. (Discord requires users to be at least 13 years old to create accounts, but as with other social platforms, some kids younger than that still sign up.) The mother received an automated email from its Trust and Security team.
+
+"We're sorry to hear that you came across this type of content, and we understand that this can be extremely concerning," said the Discord response, reviewed by CNN Business. "Unfortunately, we're unable to locate the content with the information you've provided. We understand this may be uncomfortable but, if possible, please send us the message links to the reported content for the team to review and take appropriate action."
+
+After the mother sent Discord the requested links more than a year ago, the company never responded. Although the company told CNN Business it does not comment on specific reported cases, it said it reviews all reports of inappropriate content with a minor, investigates the behavior and takes appropriate action.
+
+Rich Wistocki teaching people about social media safety practices. As with other social platforms, parents with kids on Discord should abide by age restrictions and enable parental controls, he said.
+
+Amanda Schneider, who lives outside Phoenix, said she was also disappointed with how the platform handled her concerns when she said a man in his late 20s pursued an inappropriate relationship with her 13-year-old son, asking the teenager to masturbate and tell him about it afterward.
+
+"Discord told me I couldn't do anything unless I had specific links to the text thread that showed my son verifying his age — such as typing 'I am 13,' which was shared through a voice [chat] — and the other person verifying his age before an incident happened," said Schneider.
+
+"It was just awful; there was no help at all," she said. After she reported the incident to law enforcement, she learned he was a registered sex offender and had been arrested, according to Schneider.
+
+The company told CNN Business the reason it requires links to the chat and cannot use screenshots or attachments to verify content is to prevent users from potentially falsifying information to get others in trouble. It added that parents have the ability to use its report form to flag specific users to the Trust & Safety team.
+
+According to Citron, the law professor at the University of Virginia, voice-to-voice chats on Discord make reporting even harder for parents. "Unlike text conversations, predators thrive in the voice space because there isn't a record," she said. "When a parent goes to report that a kid has been engaging with someone [inappropriately] or that they're being groomed by a sexual predator, there's often no proof [because audio isn't saved]."
+
+Discord said its rules and standards around audio are the same as its text and image policies. But it told CNN Business that like other platforms, audio presents a different set of challenges for moderation than text-based communication. Discord said it does not store or record voice chats, but its team investigates reports of misuse and looks at information from text-based channels as part of that process.
+
+What parents can do
+
+Some parents like Stephane Cotichini, a professional video game developer, believe Discord can be a positive platform for young users if the right parental controls are in place. His teenage sons who use the site for gaming have a handful of Discord's features enabled, such as restricting direct messages to only friends.
+
+"I know Discord can be problematic, but it's important for me as a parent to not simply prohibit these things because of the dangers but teach my kids about how to navigate them and balance limiting it," he said. "To my knowledge, I've never had an issue with any of my boys."
+
+Cotichini, who uses Discord to chat with his own team at work, said the platform is a valuable place for other gamers to drop into his servers and weigh in on what they're developing in real time. He also attributes the platform to encouraging his sons' love of gaming; two have already made their own programs, including one who won an award at the XPrize Connect Code Games Challenge in 2021.
+
+The Discord app as seen on an iPhone
+
+"If at a young age I can get them to spend a percentage of their time creating content as opposed to consuming, I feel like I'm somehow succeeding," he said.
+
+As with other social platforms, parents with kids on Discord should abide by age restrictions and enable parental controls, said Rich Wistocki, a former detective in Illinois who now runs Be Sure Cyber training to help parents, school administrators and law enforcement learn more about the dangers of social media. In the event of an incident, he said parents should take screenshots of the chat, pictures, video, user ID and save links to the text in the channel when reporting it.
+
+"Parents often don't think these things will happen to their kids," he said. "More can be done to prevent these incidents from continuing."

@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200424164446-rev-1-robot.jpg?q=x_2,y_244,h_898,w_1596,c_crop/w_800

@@ -1,0 +1,21 @@
+Washington CNN Business —
+
+European Union officials on Thursday announced new, voluntary commitments by companies including Google, Facebook-parent Meta, Twitter and TikTok to limit the spread of fake and misleading content.
+
+Under the newest version of a code of conduct originally established in 2018, nearly three dozen entities vowed to step up efforts to detect false claims, to label political advertising more transparently and to restrict advertising around disinformation, among other moves.
+
+Demonetizing disinformation is the “cornerstone” of the new initiative, said Thierry Breton, a European commissioner and one of the EU’s top digital regulators.
+
+“No one should receive a single € from spreading fake news & propaganda,” Breton tweeted.
+
+Many of the biggest platforms signing onto Thursday’s agreement had already been operating under the older set of 21 commitments, which ranged from supporting fact-checking to scrutinizing ad placement.
+
+This week’s expansion grows the list of commitments to 44 and adds new signatories including the video platforms Twitch and Vimeo, as well as the audio app Clubhouse and the software giant Adobe, according to a European Commission factsheet.
+
+In addition to the focus on cutting off ad revenue to disinformation-spreaders, the expanded voluntary agreement adds other new commitments designed to limit fake online accounts and bots, as well as artificial intelligence-based “deep fakes.”
+
+The code will also be tied to enforcement of the EU’s Digital Services Act, the forthcoming law that establishes new obligations for Big Tech platforms’ content moderation in Europe. Companies that abide by the voluntary agreement may be less likely to be accused of violating the law, or potentially given more benefit of the doubt, according to the European Commission.
+
+In a statement, European Commission Vice President Věra Jourová cited Russian disinformation as a major driver for the new code.
+
+“This new anti-disinformation Code comes at a time when Russia is weaponising disinformation as part of its military aggression against Ukraine, but also when we see attacks on democracy more broadly,” she said. “We now have very significant commitments to reduce the impact of disinformation online and much more robust tools to measure how these are implemented across the EU in all countries and in all its languages.”

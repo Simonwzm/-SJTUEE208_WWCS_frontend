@@ -1,0 +1,29 @@
+New York CNN Business —
+
+SpaceX and T-Mobile want to beam cell service to “most places in the US,” including some of the most remote areas of the country that traditionally have not been touched by wireless connectivity.
+
+The idea, which the companies plan to roll out in beta testing by the end next year, is to use SpaceX’s satellite-based internet business, Starlink, to provide an “extra layer” of connectivity to T-Mobile phones. T-Mobile is also offering reciprocal roaming to cellular carriers in other countries as well, in the hopes that Starlink’s global reach will enable people to use their phones for messaging around the planet.
+
+“This is an open invitation to carriers around the world, please get in touch with us,” SpaceX CEO Elon Musk said during an event announcing the plan.
+
+The new service will rely primarily on “version 2,” or V2, Starlink satellites, according to Musk. Those are not expected to begin launching before next year.
+
+“To provide this service, the companies will create a new network, broadcast from Starlink’s satellites using T-Mobile’s midband spectrum nationwide. This true satellite-to-cellular service will provide nearly complete coverage almost anywhere a customer can see the sky,” according to a T-Mobile press release.
+
+Satellite-based cellular service through Starlink will also work with phones on the market today, Musk said.
+
+Essentially, the goal is to bring about the “end of mobile dead zones,” T-Mobile CEO Mike Sievert said during an event announcing the partnership at SpaceX’s facilities in South Texas. But it will only be available to people on T-Mobile plans, though Sievert said the “most popular plans at T-Mobile” will get the service at no additional charge. The companies said that at first, service will likely be limited to text-based messages, with video and voice calls occasionally getting through. The companies plan to upgrade the service later.
+
+“You might just have to wait half an hour, maybe, for the thing to go through, but it should still work from early on,” Musk added. “It’s not a substitute for ground cell stations, because ground cell stations especially in urban and suburban areas will definitely be superior to what we’re talking about here. This is really meant to provide basic coverage to areas that are currently completely dead.”
+
+T-Mobile says it estimates that “well over half a million square miles” of the US are “untouched by cell signals,” according to a press release.
+
+Musk billed it as a mission to “save lives,” as it could provide people with connectivity in emergency situations, such as when hiking in remote areas.
+
+It’s well known that large swaths of the United States don’t have internet access or cell service. While cell service relies on towers that beam connectivity across certain areas, and traditional broadband connections require webs of underground cables, SpaceX’s Starlink has taken a different approach to connectivity. Its services relies on hives of satellites just a few hundred miles above Earth that work in tandem to beam connectivity.
+
+It remains to be seen how effective the partnership will be and how many wireless customers will benefit. Starlink is also still a new service with only about half a million users so far.
+
+The news comes just two weeks after federal regulators announced that SpaceX would not receive the nearly $900 million in subsidies that the company was awarded in December, citing the fact that its satellite-based service is “still developing technology” and the company “failed to demonstrate that [it] could deliver the promised service.”
+
+The Federal Communications Commission, which oversaw the subsidy program, said there were several reasons it decided to deny SpaceX’s subsidies, including that recent data that “indicate that Starlink’s speeds have been declining from the last quarter of 2021 to the second quarter of 2022.”

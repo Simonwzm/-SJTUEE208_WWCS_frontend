@@ -1,0 +1,11 @@
+New York (CNN Business) SpaceX, Dish Network and other 5G providers are locked in a heated battle over radio frequencies, which SpaceX says it needs for its orbital internet service, Starlink, and which Dish says it needs for its own customers.
+
+SpaceX is claiming that, if federal regulators allow 5G wireless networks to use a certain band of spectrum, it can cause widespread outages for its Starlink internet customers. Spectrum refers to a range of radio frequencies, and federal regulators closely guard what companies are allowed to use which frequencies so that signals don't interfere with one another.
+
+In a statement, SpaceX targeted Dish Network, which, though primarily known as a satellite TV company, also has a cellular network. SpaceX claims that Dish has attempted to "mislead" the Federal Communications Commission, which allocates spectrum use across telecom companies, and put forward a "faulty analysis" in an attempt to prove that allowing Dish to expand its 5G network would not impact Starlink users.
+
+When reached for comment, Dish said only that its "expert engineers are evaluating SpaceX's claims in the filing."
+
+At the root of the standoff is the 12 GHz band, a slice of radio frequencies that are primarily used for services like Starlink and its satellite internet competitor OneWeb.
+
+Read More

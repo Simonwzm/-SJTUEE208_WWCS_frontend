@@ -1,0 +1,31 @@
+(CNN Business) When one of my editors recently shared a celebratory picture of his vaccine card on Instagram, I sent him a direct message: "Didn't you read our story about not posting your record? Scammers are watching!"
+
+He argued they'd be hard pressed to dupe him based on anything listed on the card: "What scam are you gonna run on me just by knowing my name and my birthday? Unless it's that you sign up for free ice cream scoops on my birthday and don't give them to me in which case, yes, that is very serious."
+
+But it's not just his birthday that was listed. The card showed medically sensitive information, including his vaccine lot number, clinic location and the brand of vaccination received. And for some people, the card contains even more.
+
+As the Covid vaccine rolls out to more people around the country, I've lost track of how many vaccine information cards I've seen across social networks and chat apps. While selfies are encouraged as a way to express joy at being vaccinated and broadcast that people are doing their part to help stop the spread of Covid-19, multiple government agencies have warned about the risks of posting vaccine card images online.
+
+"Think of it this way — identity theft works like a puzzle, made up of pieces of personal information. You don't want to give identity thieves the pieces they need to finish the picture," the Federal Trade Commission said in a blog post last month. "Once identity thieves have the pieces they need, they can use the information to open new accounts in your name, claim your tax refund for themselves, and engage in other identity theft."
+
+Cybersecurity experts said they're not aware of any widespread hacks or scams specific to vaccine cards -- though the roots of identity theft are hard to uncover. But some also said these security threats would be easy to execute.
+
+For now, it's mostly "speculation but plausible," according to Mark Ostrowski, head of engineering at cybersecurity company Check Point Software. "We will have hundreds of millions of people getting vaccinated. If cyberattack history repeats itself, these threat actors or scammers will try to find a way to take advantage of this situation."
+
+Many of us (perhaps my editor included) may be desensitized to the risks given how much information we assume is already available online about us -- either because we posted it ourselves, it's been harvested from public data or because it was dumped as part of a previous security breach. But Rachel Tobac, an ethical hacker who specializes in social engineering, said one of the biggest concerns around the vaccine card trend is that the information is visible all in one place and easy to access.
+
+"Posting an unedited vaccination card, unfortunately, makes it much easier for a criminal to target a specific person," she said. In some cases, a person's medical record number is listed on the card. "To gain access to sensitive medical records over the phone, having the medical record number, last name, and date of birth -- all of which are listed on the vaccination card -- are all I need to authenticate as that individual and gain access to sensitive details."
+
+A cybercriminal could attempt to impersonate you and call your healthcare company to learn about your medical history or diagnoses, cancel upcoming procedures, change prescription doses and more.
+
+With or without the medical record number, she said, vaccine cards could also allow a hacker to conduct a phishing scheme to steal data and passwords. With the lot number of the vaccine you received or the location of the place where you got the shot, they'd be able to spoof the email address of that facility with a message about, for example, a recall urging you to click a link, supposedly to reschedule an updated dose but really intended to take information from you.
+
+This doesn't mean you should ignore any email you get about your vaccine, but it is a good reminder to be thoughtful about links you click with any email about any subject and to make sure the sender is who they say they are.
+
+People who are in the public eye more, whether they're influencers, celebrities or journalists like my editor, have a higher threat of this because criminals are more likely to target them. Stealing their free ice cream scoops on their birthday would be just the start of it.
+
+"There are all kinds of issues related to potential identity theft," said Michela Menting, a research director who specializes in cybersecurity at tech market advisory firm ABI Research. "Individuals should be as wary of posting vaccine records information as they would be about posting their credit card numbers online."
+
+My editor maintains he only posted his vaccine card online because it was shared privately to his followers, but security experts have long said the people most likely to commit identity theft are friends and family.
+
+That's not to say people should curb celebrating the vaccine on social media all together. More secure options include cropping out details on a card or opting for a selfie instead. Some vaccine sites are handing out stickers, much like the ones voters receive at Election Day polls. Snapping a photo while wearing the sticker gets the same message across without the security risk.

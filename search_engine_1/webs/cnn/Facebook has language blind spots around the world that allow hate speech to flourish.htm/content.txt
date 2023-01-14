@@ -1,0 +1,75 @@
+San Francisco (CNN Business) For years, Facebook CEO Mark Zuckerberg touted his mission to connect the entire world — and his company has come closer than perhaps any other to fulfilling that lofty goal, with more than 3 billion monthly users across its various platforms. But that staggering global expansion has come at a cost .
+
+Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English, potentially making users in some of the most politically unstable countries more vulnerable to real-world violence, according to internal documents viewed by CNN
+
+The documents are part of disclosures made to the Securities and Exchange Commission and provided to Congress in redacted form by Facebook whistleblower Frances Haugen's legal counsel. A consortium of 17 US news organizations, including CNN, has reviewed the redacted versions received by Congress.
+
+Many of the countries that Facebook refers to as "At Risk" — an internal designation indicating a country's current volatility — speak multiple languages and dialects, including India, Pakistan, Ethiopia and Iraq. But Facebook's moderation teams are often equipped to handle only some of those languages and a large amount of hate speech and misinformation still slips through, according to the documents, some of which were written as recently as this year.
+
+While Facebook's platforms support more than 100 different languages globally, its global content moderation teams do not. A company spokesperson told CNN Business that its teams are comprised of "15,000 people who review content in more than 70 languages working in more than 20 locations" around the world. Even in the languages it does support, the documents show several deficiencies in detecting and mitigating harmful content on the platform.
+
+There are also translation problems for users who may want to report issues. One research note, for example, showed that only a few "abuse categories" for reporting hate speech in Afghanistan had been translated into the local language Pashto. The document was dated January 13, 2021, months before the Taliban militant group's takeover of the country.
+
+"Furthermore, the Pashto translation of Hate Speech does not seem to be accurate," the author wrote, pointing out that most of the sub-categories of hate speech for a user to report were still in English. Instructions in another Afghan language, Dari, were said to be equally problematic.
+
+The documents, many of which detail the company's own research, lay bare the gaps in Facebook's ability to prevent hate speech and misinformation in a number of countries outside the United States, where it's headquartered, and may only add to mounting concerns about whether the company can properly police its massive platform and prevent real-world harms.
+
+"The most fragile places in the world are linguistically diverse places, and they speak languages that are not spoken by tons of people," Haugen, who worked on Facebook's civic integrity team dealing with issues such as misinformation and hate speech, told the consortium. "They add a new language usually under crisis conditions," she said, which means Facebook is often training new language models almost in real time in countries that may be at risk of ethnic violence or even genocide.
+
+One document earlier this year, for example, detailed more than a dozen languages across Facebook and Instagram that the company "prioritized" for expanding its automated systems during the first half of 2021, based in part on "risk of offline violence." Those included Amharic and Oromo, two of the most widely spoken languages in Ethiopia, which has been undergoing a violent civil war for nearly a year. (Facebook said it has a cross-functional team dedicated to addressing Ethiopia's security situation and has improved its reporting tools in the country).
+
+In the document, researchers also sought inputs on what languages to prioritize for the second half of this year, based on questions such as: "Is this language spoken in any At-Risk-Country?" and "Are the risks temporal (e.g. only around election) or on-going?"
+
+Facebook has invested a total of $13 billion since 2016 to improve the safety of its platforms, according to the company spokesperson. (By comparison, the company's annual revenue topped $85 billion last year and its profit hit $29 billion.) The spokesperson also highlighted the company's global network of third party fact-checkers, with the majority of them based outside the United States.
+
+"We have also taken down over 150 networks seeking to manipulate public debate since 2017, and they have originated in over 50 countries, with the majority coming from or focused outside of the US," the spokesperson added. "Our track record shows that we crack down on abuse outside the US with the same intensity that we apply in the US."
+
+Language blind spots around the world
+
+Now, India is Facebook's single biggest market by audience size, with more than 400 million users across its various platforms. But, according to the documents, researchers flagged that the company's systems were falling short in their effort to crack down on hate speech in the country.
+
+Facebook relies on a combination of artificial intelligence and human reviewers (both full-time employees and independent contractors) to take down harmful content. But AI models need to be trained to detect and remove content such as hate speech using sample words or phrases known as "classifiers." This requires an understanding of the local languages.
+
+"Our lack of Hindi and Bengali classifiers means much of this content is never flagged or actioned," Facebook researchers wrote in an internal presentation on anti-Muslim hate speech in the country. Those two languages are among India's most popular, spoken collectively by more than 600 million people, according to the country's most recent census in 2011.
+
+The Facebook spokesperson said the company added hate speech classifiers for Hindi in 2018 and for Bengali in 2020.
+
+India's 800 million-plus internet users have made it the centerpiece of Facebook's push for future growth.
+
+"It does take time to develop the AI. It does take time to translate the community standards and things like that," said Evelyn Douek, a senior research fellow at Columbia University's Knight First Amendment Institute who focuses on global regulation of online speech and content moderation issues. "But instead of doing that before they enter a market, they tend to do it afterwards once the problems crop up."
+
+Facebook's struggles with harmful content in certain regions outside the United States have incredibly high stakes because of its sheer size and reach. But it's also symptomatic of the broader shortcomings of how American tech firms operate overseas in markets that may be less lucrative and less scrutinized than the United States, according to Douek.
+
+While it's generally hard to identify what resources tech platforms devote to overseas markets because they tend not to make most of that data public, "we do know they're all pretty similarly bad," Douek said. "They all significantly underinvest in overseas markets."
+
+Facebook's issues with foreign languages, some of which were previously reported by the Wall Street Journal , extend to some incredibly volatile countries such as Ethiopia and Afghanistan.
+
+In Afghanistan, the researchers who looked into hate speech detection in the country found Facebook's enforcement systems are still heavily skewed towards English, even in regions where most of the population doesn't speak it.
+
+"In a country like Afghanistan where the segment of the population that understands English language is extremely small, making this system flawless in terms of the translation aspect, at minimum, is of paramount importance," they said.
+
+In a blog post published Saturday, Miranda Sissons, Facebook's Director of Human Rights Policy, and Nicole Isaac, its Strategic Response Director, International, said the company has "hired more people with language, country and topic expertise" in countries like Myanmar and Ethiopia over the last two years, adding content moderators in 12 new languages this year.
+
+"Adding more language expertise has been a key focus area for us," they wrote.
+
+A key flaw in a troubled region
+
+Indeed, Facebook's language deficit may be most stark in one of the world's most unstable regions: the Middle East.
+
+An internal study of Facebook's Arabic language content moderation systems highlighted shortcomings in the company's ability to handle different dialects spoken in the Middle East and Northern Africa.
+
+"Arabic is not one language... it is better to consider it a family of languages -- many of which are mutually incomprehensible," the document's author wrote, adding that social and political contexts in each country make it even more difficult to identify and take down hate speech and misinformation.
+
+For example, a Moroccan Arabic speaker would not necessarily be able to take appropriate action against content from other countries such as Algeria, Tunisia, or Libya, the document said. It identified Yemeni and Libyan dialects as well as those from "really all Gulf nations" as "either missing or [with] very low representation" among Facebook reviewers.
+
+According to the document, the offices focused on Arabic language community support are primarily in the Moroccan city of Casablanca and Germany's Essen, where the contractors Facebook uses to manage the offices hire locally because of visa issues. The document's author took issue with an internal survey of employees in the Casablanca office that indicated these contractors were capable of handling content in every Arabic dialect.
+
+"This cannot be the case, though we understand the pressure to make that claim," the document's author wrote.
+
+Arabic is a particular point of vulnerability for Facebook, the document highlighted, because of critical issues in the countries and regions that speak it.
+
+"I do understand that several of these (maybe all of them) are big lifts," the document's author wrote, referring to their recommended changes to address the gaps. The author noted that "every Arabic nation" other than the Western Sahara region is designated as "At Risk" by Facebook and "deals with such severe issues as terrorism and sex trafficking."
+
+"It is surely of the highest importance to put more resources to the task of improving Arabic systems," the author wrote. The document's author also appeared to agree with Facebook's critics on at least one point: the need for the company to take steps to curb potential crises before they happen.
+
+The recommendations in the document, the author wrote, "should improve our ability to get ahead of dangerous events, PR fires and Integrity issues in high-priority At-Risk Countries, rather than playing catch up."

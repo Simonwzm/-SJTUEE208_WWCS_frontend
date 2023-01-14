@@ -1,0 +1,53 @@
+London CNN Business —
+
+The United Kingdom has banned Huawei from its 5G telecom network, reversing a January decision to allow the embattled Chinese tech company a limited role in building the country’s super-fast wireless infrastructure.
+
+Operators such as BT (BTGOF) and Vodafone (VOD) have been given until 2027 to remove existing Huawei equipment from their 5G networks, the UK government announced on Tuesday. Digital and Culture Minister Oliver Dowden said new US sanctions imposed on the company in May had “significantly changed” the landscape.
+
+“Given the uncertainty this creates around Huawei’s supply chain, the UK can no longer be confident it will be able to guarantee the security of future Huawei 5G equipment,” Dowden said.
+
+The decision is a big win for the Trump administration, which has been pushing allies to exclude Huawei from their 5G networks, arguing that the Chinese company is a threat to national security. US Secretary of State Mike Pompeo declared last month that “the tide is turning against Huawei as citizens around the world are waking up to the danger of the Chinese Communist Party’s surveillance state.”
+
+But it risks a backlash from China as Britain looks for new trading opportunities around the world after Brexit, and will delay the rollout of 5G across the country by at least a year, Dowden said.
+
+The US campaign against Huawei was having mixed success until the new sanctions in May further reduced the company’s ability to manufacture and obtain semiconductor chips using American-made technology.
+
+That triggered another UK security review of the company’s involvement in the British network, leading to Tuesday’s decision by the National Security Council to order the phased removal of its technology.
+
+The decision is a huge blow for Huawei, which has operated in Britain for 20 years. Europe is a key market for the company, accounting for 24% of sales last year. Huawei on Monday announced half year results earlier than usual, reporting slower revenue growth. The company is already experiencing a decline in smartphone sales, after Washington blocked it from accessing popular Google apps. The phones became a lot less attractive in markets outside of China as a result.
+
+Huawei said it was confident that the recent US sanctions would not have affected “the resilience or security” of its products and described the UK announcement as disappointing.
+
+“It threatens to move Britain into the digital slow lane, push up bills and deepen the digital divide,” said Ed Brewster, a spokesperson for Huawei UK. “Regrettably our future in the UK has become politicized, this is about US trade policy and not security.”
+
+The US sanctions restrict companies like TSMC (TSM), a Taiwan-based firm, from exporting computer chipsets and other key components to Huawei. Without them, Huawei can’t build 5G base stations and other equipment.
+
+“Based on the current direct export rule that the US put on, I really think that Huawei’s 5G equipment business is in grave danger,” Jefferies analyst Edison Lee said last month.
+
+UK Prime Minister Boris Johnson had faced mounting pressure from lawmakers within his own party, along with the Trump administration, which argues that the Chinese government could use Huawei for spying and even sabotage.
+
+Washington had warned that US-UK intelligence sharing and military collaboration could be put at risk if Britain went ahead with its plan. Under Chinese law, Chinese companies can be ordered to act under the direction of Beijing. Huawei has consistently denied that it would help the Chinese government to spy, and says it is “100% owned by employees.”
+
+Speaking early Tuesday before the UK announcement, China’s Foreign Ministry repeated a previous warning by its ambassador that the decision would have consequences for the wider relationship between the two countries.
+
+“Whether the UK can provide an open, fair and non-discriminatory business environment for Chinese companies … is a litmus test for British markets after Brexit, and it is also an indicator for China’s investment in the UK,” foreign ministry spokesperson Zhao Lijian said.
+
+Ban will cause delays and cost billions
+
+Huawei had lobbied hard to persuade the UK government it was a trustworthy partner, launching an advertising campaign last month emphasizing its history of investment and job creation in the country. This month, it announced that it had received approval to build a sprawling $1.25 billion research facility in Cambridge.
+
+Huawei is already an integral part of Britain’s existing 4G infrastructure, and telecom operators will not be required to swap out the company’s equipment in those networks.
+
+The Chinese company’s European rivals said they were ready to fill the 5G void left by Huawei.
+
+Nokia (NOK) said in a statement that it has the “capacity and expertise to replace all of the Huawei equipment in the UK’s networks at scale and speed.” Arun Bansal, Europe and Latin America president for Ericsson (ERIC), said in a statement that the Swedish company “has the technology, experience and supply chain capacity,” to help the United Kingdom reach its 5G goals.
+
+Nonetheless, the UK will pay a hefty price for kicking out Huawei. The government said Tuesday that the cumulative delay to 5G networks from the ban on new Huawei equipment and replacing its existing technology would be two or three years, at a total cost of as much as £2.5 billion ($3.1 billion).
+
+That means British consumers and businesses will have to wait longer, and possibly pay more, for the services that the extra bandwidth can support, such as self-driving cars and advanced manufacturing and healthcare applications.
+
+“Obviously we are disappointed because this decision — as the government has highlighted today — will add delay to the roll out of 5G in the UK and will result in additional costs for the industry,” a Vodafone spokesperson said.
+
+BT CEO Philip Jansen said his company would be able to make the required changes without a significant impact on its timetable for 5G rollout. The implementation costs would be no higher than the £500 million ($627 million) BT estimated in January it would cost to comply with the previous UK decision to limit Huawei’s role.
+
+— Sherisse Pham and Chris Liakos contributed to this article.

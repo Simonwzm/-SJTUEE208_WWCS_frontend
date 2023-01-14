@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190801152251-amazon-app.jpg?q=x_4,y_155,h_2229,w_3962,c_crop/w_800

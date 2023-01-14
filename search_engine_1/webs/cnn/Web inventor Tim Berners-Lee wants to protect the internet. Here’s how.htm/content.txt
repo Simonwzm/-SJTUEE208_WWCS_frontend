@@ -1,0 +1,23 @@
+New York CNN Business —
+
+Tim Berners-Lee invented the World Wide Web nearly 30 years ago. Now he wants to fix it.
+
+Berners-Lee on Monday revealed a new campaign called “Contract for the Web” at the Web Summit tech conference in Lisbon, Portugal. The campaign promotes principles for governments, companies and citizens to improve the internet and fight back against hate speech, privacy concerns and political manipulation.
+
+“Those of us who are online are seeing our rights and freedoms threatened,” he said in a statement announcing the project, which was organized by his nonprofit the World Wide Web Foundation. Berners-Lee added that the contract outlines “clear and tough responsibilities” for those with the power to make the internet a better place.
+
+More than 50 companies and organizations, including Facebook (FB), Google (GOOGL) and the French government have signed the contract, which will be published in full in May 2019.
+
+So far, the contract includes nine principles. It asks that governments ensure all citizens can connect to the internet, that companies respect consumers’ privacy and personal data and that citizens create “rich and relevant content for everyone.”
+
+Giving people control over their own data will benefit everyone, Berners-Lee told CNN Business’ Senior Tech Correspondent Laurie Segall in Lisbon.
+
+“A lot of companies are finding it so exciting to be able to switch from trying to exploit you, trying to make you buy something you didn’t want to buy, to actually switch back to the core business model of helping the user [and] generating value for the user,” he said.
+
+Personal data isn’t as valuable to companies as one might expect, he added. “Maybe it’s a myth,” Berners-Lee said, pushing back on the idea that tech companies need to collect data to be profitable.
+
+And people won’t just “hoard” their data once they have dominion over it, Berners-Lee said. People could still choose to share information with their employers or companies they shop with.
+
+“The idea of control over your own data is not just about me being my own silo, locking everything away,” he said. “It’s actually having the joy of being able to share it with whoever.”
+
+Correction: This article has been updated to reflect that Tim Berners-Lee invented the World Wide Web, not the internet.

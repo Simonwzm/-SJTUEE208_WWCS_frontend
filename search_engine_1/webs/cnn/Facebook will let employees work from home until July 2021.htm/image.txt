@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200806175309-facebook-file.jpg?q=x_2,y_83,h_898,w_1596,c_crop/w_800

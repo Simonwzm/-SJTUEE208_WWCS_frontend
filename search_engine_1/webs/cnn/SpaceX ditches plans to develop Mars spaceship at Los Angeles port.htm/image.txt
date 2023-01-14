@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/190116220636-spacex-port-la.jpg?q=x_0,y_208,h_2250,w_3999,c_crop/w_800

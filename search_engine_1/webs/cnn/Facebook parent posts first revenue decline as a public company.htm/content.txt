@@ -1,0 +1,37 @@
+, Facebook's parent company, reported revenue of $28.8 billion for the three months ending in June, a 1% drop from the prior-year quarter and its first year-over-year revenue decline since going public in 2012.
+
+The company's profit fell far more sharply. Net income during the quarter declined 36% year-over-year to nearly $6.7 billion, a huge reversal from the year prior when its profit doubled. Meta reported a 14% year-over-year decline in the average price per ad, a troubling sign as online ad demand weakens because of the recent economic downturn.
+
+The number of monthly active users on the Facebook app also declined slightly from the first quarter of 2022, from 2.936 billion to 2.934 billion. On a conference call with analysts on Wednesday, Meta CEO Mark Zuckerberg said the decline was expected and attributed it "to internet blocks related to the war in Ukraine."
+
+"The number of people using Facebook daily continues to grow," he said.
+
+Meta's results follows weeks of ominous reports that the company would return to a stricter performance review process and look to increase worker productivity as it seeks to weather a period of slowing growth and tough competition from newer rivals such as TikTok. Those challenges are coinciding with larger macroeconomic pressures, including rising inflation and recession fears.
+
+Zuckerberg said earlier this month that the company would cut plans to hire engineers by at least 30% this year, telling employees in a Q&A that "this might be one of the worst downturns that we've seen in recent history," according to a Reuters report . In its earnings report Wednesday, the company said it has "reduced our hiring and overall expense growth plans this year to account for the more challenging operating environment while continuing to direct resources toward our company priorities."
+
+"Many teams are going to shrink so that we can shift energy to other areas within the company," Zuckerberg said on the conference call.
+
+Still, the company's sales decline is expected to continue into next quarter. Meta said it expects revenue for the current quarter to be between $26 billion and $28.5 billion. Even at the high end, that would mark a 1.76% decline from the prior year.
+
+Meta pointed to lower revenue from its VR unit, Reality Labs, and ongoing weakness in online advertising demand caused by economic uncertainty as factors behind the guidance. Other tech companies, including Twitter and Snap, are also confronting tightened advertiser budgets amid the economic downturn. Meta was already struggling after Apple's app tracking changes made it harder to target ads.
+
+Meta shares fell as much as 5% in after-hours trading Wednesday following the earnings report before rebounding somewhat.
+
+Hours before the earnings report dropped, the FTC moved to block Meta's acquisition of VR company Within, alleging that the tech giant is illegally attempting to grow its "virtual reality empire." While Meta called the injunction "wrong on the facts and the law," it highlights the potential regulatory hurdles the company faces in growing its virtual reality business.
+
+The stakes are high for the company with that particular division. Meta has bet its future on a still largely hypothetical version of the internet called the "metaverse" that relies on virtual and augmented reality technologies. And that shift is expensive: Meta said it lost $2.8 billion during the quarter from its Reality Labs unit.
+
+Meta CFO Dave Wehner said during the Wednesday call that mergers and acquisitions are "definitely a component" of its strategy to build the metaverse and "we'll continue to look at acquisitions going forward" despite the challenge by the FTC.
+
+"The social media company faces several challenges in the months ahead, mainly a slowdown in revenue growth due to reduced ad spending, as well as a lack of innovation and introduction of new user-friendly features," Investing.com senior analyst Jesse Cohen said in an investor note following the earnings report. On top of that, Cohen said, investors also "need to worry about the negative impact of potential regulatory actions by the U.S. government."
+
+On the call, Zuckerberg also commented on its move to grow the number of recommended posts Facebook and Instagram users see in their feeds compared to content from accounts they follow — something Zuckerberg has referred to as becoming a "discovery engine." Earlier this week, user backlash against such changes on Instagram hit fever pitch when a post calling to "Make Instagram Instagram again" went viral and was reposted by Kim Kardashian and Kylie Jenner.
+
+"As we are building out our discovery engine ... I want to be clear that we are still a social company," Zuckerberg said. He added that currently around 15% of content on users' Facebook feeds (and slightly more on Instagram) is recommended by artificial intelligence from accounts they don't follow. It expects those number to more than double by the end of next year.
+
+Meta chief operating officer Sheryl Sandberg attempted to reassure investors during Wednesday's call — which will be her last, after she announced she would step down last month — by saying, "Meta is a company that has shown extraordinary resilience."
+
+"We've made big transitions, like the shift from desktop to mobile or Feed to Stories," she said. "The investments we're making in Reels, in our discovery engine, business messaging, controlling our ad system and especially in helping to build the metaverse represent enormous opportunities for our business."
+
+Meta announced another change to its C-Suite on Wednesday. Wehner will become Meta's first chief strategy officer on November 1, responsible for "the company's strategy and corporate development." Meta's current VP of finance Susan Li will take over the CFO job.

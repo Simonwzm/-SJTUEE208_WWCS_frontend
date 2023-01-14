@@ -1,0 +1,71 @@
+"The team obsessed over every pixel,"Chief Product Officer Panos Panay said during the event. "All of these details coming together, the transitions, the user interface, how it all flows together, is meant to bring you an incredible sense of calm."
+
+Some of the updates unveiled Thursday were released in a leak earlier this month.
+
+Here are some of the big takeaways from the Windows 11 event.
+
+New "snap layouts" will make it easier for Windows users to navigate between multiple open apps at once.
+
+User interface updates
+
+Perhaps one of the most major changes Windows 11 will bring is a Start menu and new Start button that's centered on the taskbar. The menu opens a window with pinned apps, "recommended" recently opened documents and a search bar. Pour one out for live tiles.
+
+The company announced new "snap layouts," giving a user various window layout options from the "maximize" button so that they can choose from multiple layout templates to display two, three or four open applications on their screen. It's an improvement over dragging multiple windows to the sides of your screen, then manually resizing everything.
+
+"Snap Groups" will save the collection of apps that person was using and their layout, letting them easily return to that set-up if they have to pause to work on something else. And if someone is using a monitor that they have to unplug from, when they re-dock, the snap layout they were using before will also return.
+
+Another improvement that will make it easier to switch between tasks: saved desktops with personalized wallpapers for home, school, work and gaming.
+
+The system will also feature "softer visuals," including rounded corners on apps and icons to improve the way Windows looks, and a return to Vista-era translucent layers for certain windows that give a layered look.
+
+And Windows widgets will bring a personalized, AI-powered feed of information — including weather, calendar, traffic reports and news — to users' screens. It's an improvement, but not substantially different from Windows 10's Cortana and the new Interests taskbar app.
+
+Windows users will be able to access Teams right from their task bar.
+
+Teams Integration
+
+Microsoft Teams will be directly integrated into Windows 11 and will have its own icon on the taskbar.
+
+"You can chat, call, video call, with anyone anywhere in the world" on any platform or device, including Windows, iOS, Android or others, Panay said.
+
+"This innovation is well timed for the covid world, which has (re)established the centrality of the PC to the future of work and to digital life," Forrester VP and principal analyst JP Gownder said.
+
+Several Windows 11 updates will make it easier to use devices without a keyboard.
+
+Windows without a keyboard
+
+For people using their Windows device like a tablet, Windows 11 will keep largely the same visual appearance when the device's keyboard is detached.
+
+Users can still use snap to navigate between various open apps — and if they rotate the screen, those snapped apps will become vertically stacked to allow for easier viewing.
+
+Windows 11 also features a new, floating keyboard and voice typing that can automatically punctuate and follow voice commands, such as "delete that word."
+
+Xbox Game Pass will now be built into Windows 11.
+
+Gaming
+
+Windows 11 will bring an "Auto HDR" feature for gamers, that will automatically improve the color and lighting of game displays, technology first introduced in Microsoft's Xbox consoles.
+
+Xbox Game Pass will now be built into Windows 11 to give subscribers access to a library of hundreds of games of their PCs.
+
+The Microsoft Store got a major revamp.
+
+New Microsoft Store
+
+The company rebuilt the Microsoft Store "from the ground up" with speed in mind, Panay said.
+
+Consumers will also now have more app choices with the new Microsoft Store, which will now include Android apps from the Amazon App Store. That means users will be able to access thousands of Android apps on their PC.
+
+During its event, Microsoft took a not-so-subtle swipe at the Apple App Store when it announced that, in the new Microsoft Store, developers can create their own payment systems for their apps and Microsoft will take zero cut. Apple has come under fire by developers for the fee it takes on in-app sales from iOS apps.
+
+"We love that the Microsoft Store continues to be more open, inviting our developers in, inviting more apps into the store, inviting you as our customer to use any app that you love," Panay said.
+
+Microsoft's stores hasn't exactly been an overwhelming success. Most apps continue to be downloaded the old-fashioned way: as .exe files from the internet, outside of Microsoft's control. As Microsoft opens up its store to developers, it hopes to change that, making for a better customer experience — a kind of one-stop-shop for everything on on your PC.
+
+What it means
+
+Windows 11 comes six years after Microsoft last overhauled its operating system with Windows 10, a major update that's now running on around 1.3 billion devices worldwide, according to CCS Insight. Compared to the substantial change from Windows 8 to Windows 10, Windows 11 isn't a "revolutionary step," CCS CEO Geoff Blaber said.
+
+"Windows 11 is an iterative release," he added. "Microsoft is making adjustments to areas that have potential to move the needle on user experience, engagement and the ever-expanding reach of Office 365 apps."
+
+Improving the experience for PC users is important after a year when everyone has spent more time on their devices. Global shipments of PCs grew 13% year-over-year in 2020, the highest rate of growth in a decade, according to data from market research firm the International Data Corporation.

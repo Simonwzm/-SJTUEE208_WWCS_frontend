@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200514152906-airport-traveler-0513.jpg?q=x_27,y_42,h_1622,w_2882,c_crop/w_800

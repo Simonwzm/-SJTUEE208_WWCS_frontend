@@ -1,0 +1,77 @@
+(CNN Business) Apple made good on its "Spring loaded" promise by unveiling a slew of new products at its annual Spring product launch event.
+
+From a new IPad Pro and redesigned, colorful iMacs to a purple iPhone, the long-awaited AirTag location tracker, and an updated Apple TV and remote, here's a closer look at everything Apple announced on Tuesday.
+
+New iPads
+
+As expected, Apple unveiled an updated iPad Pro with a faster processor, 5G support, a Thunderbolt port so it can connect to more external monitors, and a Mini-LED display.
+
+The display will reportedly increase brightness, offer a higher contrast ratio, and improve power efficiencies for a longer battery life.
+
+Apple is also adding its powerful M1 chip to its iPad Pro line, enabling several software updates including better graphics, enhanced video effects and augmented reality features.
+
+An updated camera allows enhanced depth and better quality video, and a feature called Center Stage that automatically zooms out during video calls or meetings, depending on the number of people in the frame.
+
+The new iPad Pro starts at $799 and is available for order starting April 30.
+
+iMac with M1
+
+iMac's new design
+
+Apple announced a redesigned iMac featuring the company's new in-house M1 chip.
+
+The new chip allowed Apple to shrink the internal hardware — building in a smaller logic board and replacing the thermal system that keeps the machine cool with two small fans. The new iMac is just 11.5 millimeters deep.
+
+The M1 chip will also make iMac apps run faster, improve the speed of machine learning and enable the use of iPhone apps such as Zillow and Headspace from the iMac screen, Apple execs said Tuesday.
+
+iMac will now have a 24-inch, 4.5 K display with 11.3 million pixels. And it comes in seven colors, including peach, mint and lavender.
+
+For users still working from home, Apple also improved the iMac's camera. The 1080p camera's features include auto white balance, noise reduction and tone mapping to make you look better. The computer also has a new mic designed to reduce feedback noise so you sound better, too.
+
+The new iMac starts at $1,299 for four colors, and $1,499 for the other three colors plus additional features. It will be available in the second half of May.
+
+Meanwhile, Apple is adding a touch ID button to the iMac's external keyboard for the first time. The Touch ID button will be placed in the top right corner of the keyboard, like it is on the latest MacBooks, and will similarly let users unlock their computer, switch users or make payments through their fingerprints.
+
+Both the keyboard and Apple's Magic Mouse will be available in a variety of colors to match with the new range of colors on the iMac.
+
+AirTag
+
+Apple's new AirTag Bluetooth tracker
+
+In what was Apple's worst kept secret in recent history, the company finally unveiled AirTag, a Tile-like Bluetooth locator that attaches to and helps you find items such as keys, wallets, laptops or even your car.
+
+The small, flat, circular discs with built-in chips allow someone to locate items when connected to Apple's Find My app. It also works with Siri.
+
+The stainless steel devices, which are water and dust resistant, feature a built-in speaker that plays sounds to help locate it. The AirTag is packed with the Apple-designed U1 chip, which uses Ultra Wideband technology -- the same chip used in the iPhone 12.
+
+While location trackers are hardly new -- there are similar products from Samsung, Sony and Tile — the U1 chip will more accurately determine the distance and direction to a lost item, Apple says.
+
+AirTag accessories
+
+Similar to Apple Watch, it's possible to add free engraving to the device.
+
+An AirTag is $29 each or four for $99, starting April 30. Users can also splurge for leather accessories, such as key rings, luggage tags and a bag charm from Hermès.
+
+Apple TV 4K with a new Siri remote
+
+The redesigned Apple remote
+
+Apple is rolling out the next generation of its Apple TV 4K streaming device, along with a new Siri remote.
+
+The remote, made from what Apple says is 100% recycled aluminum, includes a new pad at the top that users can click or swipe through to navigate, as well as a dedicated Siri button on the side.
+
+The remote also has a dedicated power button to switch your TV on and off. The new Apple TV will be available starting April 30, with a 32 GB version for $179 and a 64 GB version for $199
+
+Apple also redesigned its podcast app, including a new section called channels that will curate shows.
+
+Apple card updates, a purple iPhone and more
+
+The iPhone 12 now available in purple
+
+The company also made changes to its Apple Card offering for spouses and families who share their credit card accounts.
+
+Spouses can now merge and share their Apple Card credit lines, while having equal rights on the account and with each person building credit. For families, the company will now allow any member over the age of 13 to use the family Apple Card account. Apple Card is an Apple-branded credit card issued by Goldman Sachs that the company launched in 2019, available only to iPhone users.
+
+Apple also announced a paid service for podcasts called Apple Podcast Subscriptions. Among the perks of a podcast subscription will be ad-free listening, early access to new series and exclusive content. Some of the participating media brands include NPR, the Los Angeles Times and The Athletic. The paid service will be available in 170 regions and countries next month. Podcast creators set their own pricing.
+
+In a bit of a surprise, Apple dedicated some stage time to announce that the iPhone 12 and iPhone 12 mini are now available in purple. This joins existing models available in blue, green, black, white and red. It starts at $799 and will go on sale April 30.

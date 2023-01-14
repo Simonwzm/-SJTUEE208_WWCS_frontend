@@ -1,0 +1,11 @@
+New York (CNN Business) Hackers have stolen around $160 million worth of cryptocurrency from crypto market maker Wintermute, the company said Tuesday. The incident marks the latest in a growing list of large crypto thefts this year.
+
+The hack is said to have targeted Wintermute's decentralized finance (DeFi) operations, according to a series of tweets Tuesday from the company's founder and CEO, Evgeny Gaevoy.
+
+DeFi services, a newer part of the crypto world, cut out centralized exchanges and are based mainly on Ethereum blockchain technology. These services are viewed as "uniquely vulnerable to hacking," according to blockchain analysis firm Elliptic, due to their open source code, large pools of assets and rapid growth that may have led to a lapse in security best practices in some cases.
+
+In the first seven months of 2022, a staggering $1.9 billion worth of cryptocurrency was stolen in hacks of various services, marking a 60% increase from the same period in the year prior, according to a report released from blockchain analysis firm Chainalysis last month.
+
+Wintermute has not provided any indication of who may be behind the theft. Some of the biggest crypto hacks of the year so far were on DeFi protocols, including the $625 million hack in March of a gaming-focused blockchain network that supports the popular video game Axie Infinity. Some of these thefts, including the Axie incident, have since been attributed to hackers associated with North Korea.Wintermute has not provided any indication of who may be behind the theft.
+
+Read More

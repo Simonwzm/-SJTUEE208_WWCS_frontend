@@ -1,0 +1,11 @@
+(CNN Business) Facebook allegedly gave its advertisers "inflated and misleading" metrics on how many people their ads could reach for years, according to newly revealed court documents in a long-running lawsuit against the company.
+
+The documents, unsealed on Wednesday by the US District Court for the Northern District of California, cite emails from a Facebook employee saying the company received "revenue we should have never made given the fact it's based on wrong data."
+
+The lawsuit alleges that the problems with the metric, known as potential reach, were "largely due to fake and duplicate accounts," but Facebook chose not to remove those accounts.
+
+According to internal documents cited in the lawsuit, the product manager suggested changes to potential reach that would have decreased its numbers, but Facebook managers rejected the idea because the "revenue impact" would be "significant."
+
+The lawsuit, originally filed in 2018 by a group of small businesses, cited internal emails in which Facebook COO Sheryl Sandberg acknowledged as far back as 2017 that she had been aware of the problems with the metrics for several years.
+
+Read More

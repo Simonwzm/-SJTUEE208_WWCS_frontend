@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200515112721-apple-store-ny-0420.jpg?q=x_152,y_230,h_1592,w_2830,c_crop/w_800

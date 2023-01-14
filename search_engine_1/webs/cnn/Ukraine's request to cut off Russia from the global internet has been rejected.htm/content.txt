@@ -1,0 +1,11 @@
+(CNN) The international non-profit that coordinates management of the internet told Ukraine it will not intervene in the country's war with Russia, rebuffing a request to cut Russia off from the global internet.
+
+Ukraine's proposal is neither technically feasible nor within the mission of ICANN, the Internet Corporation for Assigned Names and Numbers, according to a letter ICANN sent to Ukrainian officials on Wednesday.
+
+"As you know, the Internet is a decentralized system. No one actor has the ability to control it or shut it down," ICANN CEO Göran Marby wrote in the the letter.
+
+Marby expressed his personal concern about Ukrainians' well-being as well as the "terrible toll being exacted on your country." But, he wrote, "our mission does not extend to taking punitive actions, issuing sanctions, or restricting access against segments of the Internet -- regardless of the provocations."
+
+"Essentially," he added, "ICANN has been built to ensure that the Internet works, not for its coordination role to be used to stop it from working."
+
+Read More

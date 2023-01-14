@@ -1,0 +1,15 @@
+CNN —
+
+A federal judge has agreed to temporarily block Microsoft (MSFT) from beginning work on the Pentagon’s multibillion-dollar cloud computing contract, in an early court victory for Amazon.
+
+The contents of the decision, issued Thursday by Judge Patricia Campbell-Smith in the US Court of Federal Claims, remains under seal. But the order increases the pressure on the US government as it defends against a formal protest filed by Amazon Web Services over its handling of the contract process.
+
+Earlier this week, Amazon (AMZN) asked the court for permission to gather testimony from President Donald Trump, Defense Secretary Mark Esper and former Defense Secretary James Mattis. A decision is expected on that request within weeks.
+
+Amazon has alleged that President Trump exercised undue influence over the Defense Department as it weighed competing bids from Microsoft and Amazon for the cloud computing project, known as the Joint Enterprise Defense Infrastructure, or JEDI.
+
+The e-commerce giant has cited Trump’s public tweets as evidence that the President sought to deny Amazon the contract out of a personal animosity toward CEO Jeff Bezos.
+
+Microsoft said Thursday in a statement it was “disappointed” by the decision.
+
+“While we are disappointed with the additional delay we believe that we will ultimately be able to move forward with the work to make sure those who serve our country can access the new technology they urgently require,” said Frank Shaw, a Microsoft spokesman. “We have confidence in the Department of Defense, and we believe the facts will show they ran a detailed, thorough and fair process in determining the needs of the warfighter were best met by Microsoft.”

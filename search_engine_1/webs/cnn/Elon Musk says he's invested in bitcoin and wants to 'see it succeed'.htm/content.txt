@@ -1,0 +1,29 @@
+New York (CNN Business) Tesla founder Elon Musk is one of the loudest voices in the cryptocurrency world . He frequently uses his massive platform on Twitter to post about various digital assets, and often causes wild swings in their prices, leading some in the space to question his true intentions.
+
+But on Wednesday, Musk aimed to clarify that he's both a crypto investor and supporter.
+
+Speaking at an event called The B Word — which aimed to "explain how institutions can embrace Bitcoin" — alongsideandCEO Jack Dorsey and Ark Invest CEO Cathie Wood, Musk said the only major personal investments he has outside of his companiesand SpaceX are in bitcoin ethereum and dogecoin . He added that Tesla and SpaceX also own bitcoin.
+
+Despite the turmoil he's created in the crypto world recently, Musk said he is "a supporter of bitcoin and the idea of cryptocurrency in general."
+
+The prices of several large cryptocurrencies, including the three Musk owns, went on a wild ride in recent months in response to his statements and actions at Tesla. Dogecoin plummeted in May after Musk appeared on Saturday Night Live and called it a "hustle." That same month, Musk said Tesla would stop accepting bitcoin as payment because of the huge amount of energy used to mine it, causing the price to fall.
+
+But, ultimately, Musk said at the event that his financial success is partly tied up with the performance of such digital currencies. And in Musk fashion, he phrased it in a way that could draw the attention of regulators.
+
+"If the price of bitcoin goes down, I lose money," Musk said. "I might pump, but I don't dump. ... I definitely do not believe in getting the price high and selling, or anything like this. I would like to see bitcoin succeed."
+
+"pump and dump" is a type of securities fraud wherein someone attempts to boost the price of an asset through false, misleading or exaggerated statements (the "pump") and then sells them off to cash in on the inflated prices (the "dump"), the type of scheme monitored and prosecuted by the Securities and Exchange Commission.
+
+Musk is no stranger to the agency. In 2018 he was charged with securities fraud over his use of Twitter, including to post information about Tesla's outlook. He agreed to a settlement requiring Tesla lawyers to review his posts about the company, which he has reportedly violated twice in the past two years.
+
+On Wednesday, Musk and Dorsey also addressed the environmental concerns about bitcoin and other cryptocurrencies, which require huge amounts of energy to power the computers needed to "mine" them. There are a finite number of bitcoins and computers must complete complex equations to access (or "mine") them and enter them into circulation — as more bitcoins are mined, the more difficult and energy intensive that process gets.
+
+In May, Tesla paused bitcoin transactions after Musk said he realized the cryptocurrency's network could rely on coal-powered energy.
+
+"Tesla's mission is accelerating the advent of sustainable energy. We can't be the company that does that and also not do appropriate diligence on the energy usage of bitcoin," Musk said. "Now, it looks like bitcoin is shifting a lot more to renewables."
+
+Musk said the company is keeping bitcoin on its books and will likely start accepting bitcoin payments again when around half of the power used to mine bitcoin comes from clean sources such as solar and wind energy, something he has previously said on Twitter . (Musk, however, is known for making promises and then backtracking.)
+
+Dorsey — whose company Square has bought billions in bitcoin and built an app for crypto developers — highlighted the potential to harness various forms of unused energy to power cryptocurrency mining operations. He mentioned a company called Great American Mining, which captures methane flares on oil fields to power its bitcoin mining systems.
+
+"Just imagine all the unused energy that is being wasted every single day, and being able to get energy and converting it into a secure, sound money system for the planet," Dorsey said.

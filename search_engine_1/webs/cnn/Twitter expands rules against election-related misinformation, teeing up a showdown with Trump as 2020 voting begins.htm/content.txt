@@ -1,0 +1,53 @@
+Washington CNN Business —
+
+Twitter announced Thursday that it is expanding its policies against election-related misinformation, setting new rules that will likely force the platform to more aggressively fact-check President Donald Trump during the final months of the 2020 campaign.
+
+The social media giant rolled out the new policies in a blog post, which said that Twitter (TWTR) will either add fact-check labels to or hide altogether tweets that contain “false or misleading information that causes confusion” about election rules, or posts with “unverified information about election rigging.”
+
+Twitter’s porous and subjective policies have enabled Trump to spread a steady stream of misinformation about the election to millions of Americans. The company led the way for Big Tech when it rebuked Trump for a misleading tweet in May, but that watershed moment has ended up looking more like an outlier. Twitter only rarely applies fact-check labels to Trump’s tweets containing false information about voting, and it’s unclear how much labeling achieves.
+
+The new rules, which Twitter says will go into effect next week, explicitly prohibit a lot of the material Trump is prone to posting, putting the company on a collision course with Trump while it tries to help steer the country through an unprecedented voting and post-election process.
+
+The new rules include policies geared toward reducing potential post-election chaos, a major concern this year because of Trump’s rhetoric and the influx of mail-in ballots, which will slow down vote-counting. Twitter will now prohibit “misleading claims about the results,” premature claims of victory, or “inciting unlawful conduct” that prevents a peaceful transition of power.
+
+The company says it will “label or remove” posts that break the rules, but didn’t spell out what process will be used to determine what is egregious enough to get removed instead of labeled.
+
+Just last week, Trump ran afoul of existing Twitter rules when he encouraged supporters to vote twice – once by mail and again in-person, as a way of testing anti-fraud measures. Twitter hid the posts, while Facebook added a warning label, but neither noted that voting twice is illegal.
+
+Depending on how strictly Twitter implements the new rules, it could put more pressure on Facebook, which has been criticized for how it handles misinformation from the President.
+
+“The conundrum is that the platforms are terrified of being accused of political bias, when they enforce any sort of content moderation policy,” said Joshua Tucker, co-director of the Center for Social Media and Politics at New York University. “The huge tech companies have a lot to lose if they alienate one side of the political spectrum. At some point, the other side will be in power.”
+
+More Trump fact-checks?
+
+Social media companies have struggled with how to handle a President who eagerly shares rumors, unverified viral videos, and conspiracy theories. Facebook and Twitter promised earlier this year to crack down on misinformation, but their responses over the summer to deceptively edited political videos and harmful posts about Covid-19 were often lacking – and too slow.
+
+Twitter says the new rules were needed to reflect “the changing circumstances of how people will vote in 2020.” Because of the pandemic, a historic number of Americans are expected to cast mail-in ballots, a safe method of voting that has been used successfully in many states.
+
+But the sudden uptick in mail-in voting also gives Trump an opening to create chaos. He has already done so – often on Twitter – by spreading false claims that mail-in voting is massively fraudulent, and by preemptively questioning the validity of the results. Democratic nominee Joe Biden has openly questioned whether Trump will peacefully leave the White House if he loses.
+
+A Twitter spokesman declined to say whether previous Trump tweets of this nature would have qualified for fact-checking under the new rules. A close analysis of the rules – which include broad prohibitions and specific examples of unacceptable material – suggests that many of Trump’s tweets about the election in the past few months would violate Twitter’s new rules.
+
+The new policies from Twitter could put the company on a collision course with Trump, who often lashes out against tech companies whenever they sanction his tweets. Earlier this year, after Twitter fact-checked Trump for the first time, he signed a largely symbolic executive order that targeted social media companies, and he urged lawmakers to pass stricter Internet laws.
+
+Trump criticized Twitter on Tuesday, publicly questioning why the platform didn’t censor an image of Senator Majority Mitch McConnell that was doctored to make him look like he was wearing a Soviet military uniform. Trump tweeted, “Stop biased Big Tech before they stop you!”
+
+One piece of the puzzle
+
+Misinformation spreads widely on Twitter and Facebook alike, and Facebook announced its own plans last week for how it will deal with misleading posts about the election this fall.
+
+Facebook CEO Mark Zuckerberg announced that the company won’t accept new political ads during the final week of the 2020 campaign, and that the company will label misinformation about the election, including claims that people could get the coronavirus if they go to the polls.
+
+As a result, Facebook labeled Trump’s misleading post last week about double voting. The company initially added a boilerplate label telling people to browse authenticated election resources. But after some backlash, Facebook updated the label language to say, “Voting by mail has a long history of trustworthiness in the US and the same is predicted this year.”
+
+Facebook’s new policies still allow politicians to run ads containing lies through Election Day. And even with seemingly strict rules on the books this year, Twitter repeatedly declined to take actions against brazenly false misinformation that could undermine public faith in the election.
+
+These weak spots and loopholes exemplified the balance that tech firms are trying to strike.
+
+This time around, Twitter says it’s specifically on the lookout for threats coming not just from foreign actors who have aggressively meddled in recent elections, but also from Americans.
+
+“We will not permit our service to be abused around civic processes, most importantly elections. Any attempt to do so – both foreign and domestic – will be met with strict enforcement of our rules, which are applied equally and judiciously for everyone,” the company said on Thursday.
+
+
+
+– CNN Business’ Donie O’Sullivan contributed to this report.

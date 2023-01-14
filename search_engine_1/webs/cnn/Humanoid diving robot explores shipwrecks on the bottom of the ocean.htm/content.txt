@@ -1,0 +1,91 @@
+Sign up for CNN's Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more
+
+(CNN) A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can't. Known as OceanOneK, the robot allows its operators to feel like they're underwater explorers, too.
+
+OceanOneK resembles a human diver from the front, with arms and hands and eyes that have 3D vision, capturing the underwater world in full color.
+
+The back of the robot has computers and eight multidirectional thrusters that help it carefully maneuver the sites of fragile sunken ships.
+
+OceanOneK, here doing an experiment in a swimming pool at Stanford University, resembles a human diver.
+
+When an operator at the ocean's surface uses controls to direct OceanOneK, the robot's haptic (touch-based) feedback system causes the person to feel the water's resistance as well as the contours of artifacts.
+
+OceanOneK's realistic sight and touch capabilities are enough to make people feel like they're diving down to the depths -- without the dangers or immense underwater pressure a human diver would experience.
+
+Stanford University roboticist Oussama Khatib and his students teamed up with deep-sea archaeologists and began sending the robot on dives in September. The team just finished another underwater expedition in July.
+
+So far, OceanOneK has explored a sunken Beechcraft Baron F-GDPV plane, Italian steamship Le Francesco Crispi, a second century Roman ship off Corsica, a World War II P-38 Lightning aircraft and a submarine called Le Protée.
+
+The Crispi sits about 1,640 feet (500 meters) below the surface of the Mediterranean Sea.
+
+"You are moving very close to this amazing structure, and something incredible happens when you touch it: You actually feel it," said Khatib, the Weichai Professor in Stanford's School of Engineering and director of the Stanford Robotics Lab.
+
+"I'd never experienced anything like that in my life. I can say I'm the one who touched the Crispi at 500 (meters). And I did -- I touched it, I felt it."
+
+OceanOneK could be just the beginning of a future where robots take on underwater exploration too dangerous for humans and help us see oceans in a completely new way.
+
+Stanford University roboticist Oussama Khatib (second from left) was able to feel sensations in his hands using the robot's feedback system.
+
+Creating an underwater robot
+
+The challenge in creating OceanOneK and its predecessor, OceanOne, was building a robot that could endure an underwater environment and the immense pressure at various depths, Khatib said.
+
+OceanOne made its debut in 2016, exploring King Louis XIV's wrecked flagship La Lune , which sits 328 feet (100 meters) below the Mediterranean 20 miles (32 kilometers) off southern France. The 1664 shipwreck remained untouched by humans.
+
+The robot recovered a vase about the size of a grapefruit, and Khatib felt the sensations in his hands when OceanOne touched the vase before placing it in a recovery basket.
+
+The idea for OceanOne came from a desire to study coral reefs within the Red Sea at depths beyond the normal range for divers. The Stanford team wanted to create something that came as close to a human diver as possible, integrating artificial intelligence, advanced robotics and haptic feedback.
+
+The robot is about 5 feet (1.5 meters) long, and its brain can register how carefully it must handle an object without breaking it -- like coral or sea-weathered artifacts. An operator can control the bot, but it's outfitted with sensors and uploaded with algorithms so it can function autonomously and avoid collisions.
+
+While OceanOne was designed to reach maximum depths of 656 feet (200 meters), researchers had a new goal: 1 kilometer (0.62 miles), hence the new name for OceanOneK.
+
+The team changed the robot's body by using special foam that includes glass microspheres to increase buoyancy and combat the pressures of 1,000 meters -- more than 100 times what humans experience at sea level.
+
+OceanOneK goes through a test of grasping an object in a Stanford pool.
+
+The researchers upgraded the robot's arms with an oil and spring mechanism that prevents compression as it descends to the ocean depths. OceanOneK also got two new types of hands and increased arm and head motion.
+
+The project comes with challenges he's never seen in any other system, said Wesley Guo, a doctoral student at Stanford's School of Engineering. "It requires a lot of out-of-the-box thinking to make those solutions work."
+
+The team used Stanford's recreation pool to test out the robot and run through experiments, such as carrying a video camera on a boom and collecting objects. Then came the ultimate test for OceanOneK.
+
+Deep dives
+
+A Mediterranean tour that began in 2021 saw OceanOneK diving to these successive depths: 406 feet (124 meters) to the submarine, 1,095 feet (334 meters) to the Roman ship remains and ultimately 0.5 miles (852 meters) to prove it has the capability of diving to nearly 1 kilometer. But it wasn't without problems.
+
+OceanOneK reaches for cargo from an ancient Roman ship.
+
+Guo and another Stanford doctoral student, Adrian Piedra, had to fix one of the robot's disabled arms on the deck of their boat at night during a storm.
+
+"To me, the robot is eight years in the making," Piedra said. "You have to understand how every single part of this robot is functioning -- what are all of the things that can go wrong, and things are always going wrong. So it's always like a puzzle. Being able to dive deep into the ocean and exploring some wrecks that would have never been seen this close up is very rewarding."
+
+Students work to fix an issue with OceanOneK during an expedition.
+
+During OceanOneK's deep dive in February, team members discovered the robot couldn't ascend when they stopped for a thruster check. Flotations on the communications and power line had collapsed, causing the line to pile on top of the robot.
+
+They were able to pull in the slack, and OceanOneK's descent was a success. It dropped off a commemorative marker on the seabed that reads, "A robot's first touch of the deep seafloor/A vast new world for humans to explore."
+
+Khatib, a professor of computer science, called the experience an "incredible journey." "This is the first time that a robot has been capable of going to such a depth, interacting with the environment, and permitting the human operator to feel that environment," he said.
+
+In July, the team revisited the Roman ship and the Crispi. While the former has all but disappeared, its cargo remains scattered across the seafloor, Khatib said. At the site of the Roman ship, OceanOneK successfully collected ancient vases and oil lamps, which still bear their manufacturer's name.
+
+The robot carefully placed a boom camera inside the Crispi's fractured hull to capture video of corals and rust formations while bacteria feast on the ship's iron.
+
+The robot extends a boom camera inside the hull of Italian steamship Le Francesco Crispi.
+
+"We go all the way to France for the expedition, and there, surrounded by a much larger team, coming from a wide array of backgrounds, you realize that the piece of this robot you've been working on at Stanford is actually part of something much bigger," Piedra said.
+
+"You get a sense of how important this is, how novel and significant the dive is going to be, and what this means for science overall."
+
+A promising future
+
+The project born from an idea in 2014 has a long future of planned expeditions to lost underwater cities, coral reefs and deep wrecks. The innovations of OceanOneK also lay the groundwork for safer underwater engineering projects such as repairing boats, piers and pipelines.
+
+One upcoming mission will explore a sunken steamboat in Lake Titicaca on the border of Peru and Bolivia.
+
+But Khatib and his team have even bigger dreams for the project: space.
+
+Khatib said the European Space Agency has expressed interest in the robot. A haptic device aboard the International Space Station would allow astronauts to interact with the robot.
+
+"They can interact with the robot deep in the water," Khatib said, "and this would be amazing because this would simulate the task of doing this on a different planet or different moon."

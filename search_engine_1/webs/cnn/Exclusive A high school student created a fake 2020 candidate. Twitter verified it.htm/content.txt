@@ -1,0 +1,85 @@
+New York CNN Business —
+
+Andrew Walz calls himself a “proven business leader” and a “passionate advocate for students.” Walz, a Republican from Rhode Island, is running for Congress with the tagline, “Let’s make change in Washington together,” or so his Twitter account claimed.
+
+Earlier this month, Walz’s account received a coveted blue checkmark from Twitter as part of the company’s broader push to verify the authenticity of many Senate, House and gubernatorial candidates currently running for office. Twitter has framed this effort as key to helping Americans find reliable information about politicians in the leadup to the 2020 election.
+
+But there’s just one problem: Walz does not exist. The candidate is the creation of a 17-year-old high school student from upstate New York, CNN Business has learned.
+
+The student, who CNN Business spoke to with the permission of his parents and has agreed not to name as he is a minor, said he was “bored” over the holidays and created the fake account to test Twitter’s election integrity efforts.
+
+The blue checkmark is a hallmark of Twitter and one that was later copied by Facebook. It is often given to prominent accounts belonging to journalists, politicians, government agencies and businesses. The feature is central to Twitter’s goal of helping users find reliable information on the platform, often from verified newsmakers.
+
+The fact that a teenager using next to no resources was able to quickly create a fake candidate in his free time and get it verified by Twitter raises questions about the company’s preparedness for handling how the 2020 elections will play out on its platform. A Twitter spokesperson recently told one publication, “Our worst-case scenario is that we verify someone who isn’t actually the candidate.”
+
+Last year, Twitter was criticized for saying it would not verify candidates unless they won their primaries. In December, Twitter changed its policy and said it would verify primary candidates to help improve information for voters on the platform.
+
+The verification of the false candidate is an example of the challenges social media companies can face when they try to make changes that are meant to make their platforms more transparent.
+
+After CNN Business contacted Twitter about the fake account, the company suspended it. “The creation of a fake candidate account is in violation of our rules and the account has been permanently suspended,” a Twitter spokesperson said.
+
+The verification of the fake candidate came as real candidates across the US have complained that Twitter has not verified their accounts. One Democratic primary candidate in Georgia told CNN Business that not being verified may negatively impact online donations made to her campaign.
+
+Twitter told CNN Business it had verified nearly 1,500 candidates since announcing the expansion of its verification program in December.
+
+This 17-year-old high school student created a Twitter account for a fake candidate running for Congress in Rhode Island. Twitter thought the candidate was real and eventually verified it. Verification of candidates on Twitter is one way the company says it's combating online disinformation after Russia interfered in the 2016 election. Richa Naik/CNN
+
+The making of a fake candidate
+
+The high school student said he became interested in how social media platforms were trying to combat election meddling after learning in history class about Russia’s interference in the 2016 US presidential election.
+
+After Twitter announced in December that it would give a blue checkmark to verify all 2020 congressional and gubernatorial candidates, the high school senior decided to test how the company was verifying that candidates really were who they said they were – and if they existed in the first place.
+
+“During Christmas break I was kind of bored and I learned a lot from history class, but also on the news they were talking more about misinformation,” the high school student told CNN.
+
+The teenager told CNN it took him about 20 minutes to create a website for his fake candidate and five minutes to make the Twitter account.
+
+For the photograph of the fake candidate, he said he downloaded a picture from a website called This Person Does Not Exist. The site uses artificial intelligence to generate realistic faces of fake people. The same type of technology is involved in the creation of deepfake videos, which have become a national security concern.
+
+The student then submitted the information about the fake candidate, including filling in a short survey, to Ballotpedia, a nonprofit website that bills itself as an encyclopedia of American political candidates. Twitter announced in December that it would partner with Ballotpedia “to utilize their expertise in identifying the official campaign Twitter accounts of candidates.”
+
+Neither Twitter nor Ballotpedia asked for any identification or documentation to prove that Andrew Walz was a real candidate, or even a real person, according to the student.
+
+In a comprehensive response to CNN Business’ questions, Geoff Pallay, Ballotpedia’s editor in chief, said, “Ballotpedia definitely made a mistake here.”
+
+Explaining how the false candidate had been approved by Ballotpedia without proof the candidate had officially filed, Pallay explained, “Many candidates generate campaign activities, such as establishing an online presence, far in advance of their states’ filing deadlines. Because of that, we have observed a category of ‘declared candidate’ versus an ‘officially filed candidate.’”
+
+Pallay said Ballotpedia submits lists of candidates to Twitter once a week, which are used as part of Twitter’s verification process. Pallay said Ballotpedia had not distinguished “declared” and “officially filed” candidates in those lists to Twitter. Pallay said Ballotpedia will make this distinction in the future.
+
+As of Thursday evening, Walz’s account was still up on Ballotpedia but a message was added to the page informing users that Ballotpedia had been informed that “Andrew Walz may not be a legitimate candidate for office” and they were investigating.
+
+A few weeks after Walz’s profile went live on Ballotpedia, Twitter reached out to the fake candidate about verifying his account, according to the teenager. Twitter’s only request was that he add a background image on the top of his account, he said.
+
+The fake Twitter account only had 10 followers as of Wednesday. The student deliberately did not promote the account as his intentions were to test Twitter’s systems rather than confuse voters, he told CNN Business.
+
+“I want Twitter to succeed. I love Twitter. I think it’s a great platform and I’ve learned so much from it,” the teen said.
+
+He said Twitter and Ballotpedia could take simple steps to verify a candidate is real, such as checking Federal Election Commission records or asking for proof of identification.
+
+“I never had to do that,” he added.
+
+A real candidate struggles
+
+While Twitter verified the account of a fake candidate, real candidates across the country have complained that Twitter has not verified their accounts.
+
+Jannquell Peters, who is running in the Democratic primary in Georgia’s 13th Congressional District, told CNN Business her campaign has reached out to Twitter multiple times asking to verify her account since December. Peters also has a profile on Ballotpedia.
+
+During an interview at her campaign office on the outskirts of Atlanta on Tuesday, Peters said that not being verified could affect whether people donate to her campaign.
+
+When CNN Business showed Twitter Peters’ account, it said that her website linked out to her campaign team account, rather than her own account. Twitter said this discrepancy had caused a delay in verifying Peters’ account. Twitter verified the account after being contacted by CNN Thursday.
+
+“When you’re asking for money online and you want to put forth the best effort you can when you are running a campaign, every little thing matters,” said Peters, who is running against a longtime incumbent with a verified account.
+
+On Tuesday, political publication The Hill reported that Twitter had yet to verify dozens of candidates.
+
+A Twitter spokesperson told CNN Business Thursday, “We’ve put into place a rigorous process to ensure that, through our partnership with Ballotpedia, we accurately identify and verify candidates’ legitimate Twitter accounts. Sometimes, this thorough process can cause a short delay between when candidates qualify for the primary ballot and when candidates are verified.”
+
+2020
+
+With the 2020 US election looming, there’s pressure on Twitter and other platforms to tackle a huge variety of misinformation threats.
+
+“I had no malicious intent. I just wanted to simply test to see whether this could happen. So in case someone with bad intentions wanted to do this, Twitter now knows and can take steps to fix this,” the student told CNN.
+
+The US intelligence community says America’s adversaries, including Russia, are seeking to interfere in the 2020 election. They are sophisticated and well-resourced actors.
+
+The intelligence community’s concerns were put into perspective by the 17-year-old: “If I could do this as a high schooler, imagine what a highly trained team of people doing this could do.”

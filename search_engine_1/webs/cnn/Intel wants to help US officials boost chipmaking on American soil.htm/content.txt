@@ -1,0 +1,75 @@
+New York CNN Business —
+
+US officials are working with some of the world’s leading chipmakers in an effort to expand semiconductor manufacturing capability in the United States, a move intended to reduce the industry’s reliance on producers in East Asia for those crucial electronics components.
+
+That would be a major shift for an industry that relies heavily on foreign production, largely from Taiwan, South Korea and China. And that transition may already be underway — semiconductor fabrication giant Taiwan Semiconductor Manufacturing Company will soon announce plans to build an advanced chipmaking facility in Arizona to help quell US officials’ concern, according to a Thursday report in The Wall Street Journal.
+
+Some US officials contend that an investment in domestic semiconductor manufacturing would bolster national security — cutting edge microchips have crucial military and defense applications.
+
+It could also be seen as an escalation of tension between the United States and China as they wrestle for technological dominance.
+
+“It would be a fundamental reconfiguration of the entire industry,” Scott Kennedy, senior adviser at the Center for Strategic and International Studies, told CNN Business. “Semiconductors and the information and communications technology sector are “about as globalized as any industry on the planet,” he said.
+
+Intel (INTC), the largest American semiconductor manufacturer, confirmed to CNN Business that it is in talks with the US government to “explore how to ensure continued US technological leadership and strengthen domestic sources for state-of-the-art microelectronics and related technology.”
+
+Intel manufactures some of its own chips domestically — four of its eight so-called fab production sites are in the United States. And many American semiconductor companies design their chips but outsource the manufacturing to foreign firms, including to Taiwan Semiconductor Manufacturing Company (TSM), the world’s largest semiconductor foundry. TSMC produces high performance microchips for a wide range of clients, including such major US tech firms as Advanced Micro Devices and Apple (AAPL).
+
+TSMC did not immediately respond to a request for comment regarding the Thursday report that it will build a manufacturing facility in Arizona.
+
+TSMC told CNN Business earlier in the week that it has been in discussions with the Department of Commerce about the US government’s ambitions to grow domestic semiconductor fabrication. The company’s chairman, Mark Liu, said on an investor call last month that TSMC is “actively evaluating” the US plans.
+
+The third producer of the most highly advanced microchips, South Korea’s Samsung (SSNLF), declined to comment about whether it has been contacted by US officials about the effort.
+
+The Commerce Department said in a statement to CNN Business that “the Trump Administration is actively encouraging semiconductor companies — both here at home and around the world — to increase design, manufacturing, and research and development investments in the United States.” It added that “semiconductors represent a foundational technology that underpins US national security and economic competitiveness.”
+
+“This industry was invented in America, and strategic investment will ensure it remains rooted here,” the department’s statement said.
+
+The Senate Armed Services Committee is also working with the Defense Department to find “ways to mitigate our reliance on foreign sources and secure our supply chain, especially for components critical to our national defense,” a committee spokesperson said.
+
+Investing in a key industry
+
+The globalized nature of the technology industry and US companies’ reliance on offshore supply chains has been under a microscope in recent years, as US-China trade tensions flared and the Trump administration cracked down on Chinese tech giant Huawei.
+
+President Donald Trump has also pressured many companies to increase domestic manufacturing in an effort to employ more Americans.
+
+Then came coronavirus, which has disrupted global supply chains and added urgency to the conversation about expanding semiconductor manufacturing on US soil.
+
+“The COVID-19 pandemic has underscored the need to reduce our dependence on overseas suppliers and manufacturers, including for semiconductors and microelectronics,” the Senate Armed Services Committee spokesperson said in an email.
+
+Long considered a key industrial sector, US semiconductor manufacturing capacity has remained relatively stagnant in recent years relative to other countries, experts say, prompting fears the United States could fall behind.
+
+Currently, the US comprises about 13% of the world’s total semiconductor manufacturing capacity, about the same share it held in 2015, according to Martin Chorzempa, a research fellow at the Peterson Institute for International Economics. China, meanwhile, made up about 8% of worldwide capacity in 2015 and today comprises around 12%.
+
+Building up more domestic semiconductor manufacturing back could help the United States stay ahead of China and other leading countries.
+
+“It’s about having that knowledge and process … in the country and making sure that we have an understanding of all aspects of the process,” Chorzempa said. “The United States dominates the design of semiconductors; we also lead in the manufacturing of semiconductor production equipment that is used in East Asia. It might be the case that expanding it to the actual production could help to make sure that we maintain that kind of edge.”
+
+US government investments in chipmaking would not be without precedent.
+
+Experts say it would mirror the model of other countries such as South Korea and Taiwan that help subsidize the sector. In the 1980s, the US government invested heavily in reviving the semiconductor industry when it appeared to be falling behind the Japanese, a move now viewed as a success.
+
+Intel CEO Bob Swan said his company is "uniquely positioned" to help the United States build up domestic semiconductor manufacturing capacity. David Becker/Getty Images
+
+The process to develop a US foundry
+
+Successfully executing such a strategy would require tens of billions of dollars in investment through what experts believe would likely be a public-private partnership.
+
+In an April 28 letter from Intel CEO Bob Swan to the Pentagon, which was obtained by the Wall Street Journal, Swan said the company is “uniquely positioned” to partner with the US government on the effort.
+
+“Thank you for … the opportunity to discuss the future of ensuring continued US technological leadership and strengthening domestic sources for state of-the-art microelectronics,” Swan said in the letter. “This is more important than ever, given the uncertainty created by the current geopolitical environment.”
+
+Swan suggested that Intel could “operate a commercial US foundry to supply a broad range of microelectronics,” presumably to the government and other American companies.
+
+But while Intel makes its own chips in the United States, it could be a different ballgame to manufacture products for other companies, possibly including its direct competitors.
+
+“Intel up to this point in time has done very little manufacturing for other firms,” said Douglas Fuller, associate professor at the City University of Hong Kong. “It has designed and manufactured its own chips in its own (facilities). But the US has a huge and vibrant chip design sector … I think if it’s just Intel wanting to be a foundry provider, that sort of extends the time frame, because that is not their area of expertise.”
+
+TSMC, however, has extensive experience fabricating chips for many different companies.
+
+The firm’s planned Arizona factory could be producing chips as early as the end of 2023, The Wall Street Journal reported Thursday, citing people familiar with the matter. That would include 5-nanometer transistor chips, considered the most cutting edge and powerful chips currently available.
+
+Another possible model for expanding US fabrication, Fuller added, may be to establish a consortium of semiconductor companies including Intel and others such as Qualcomm (QCOM) and Nvidia (NVDA) to jointly invest in an American foundry.
+
+But whether Intel’s competitors would get on board with the effort remains unknown.
+
+Said Kennedy of CSIS: “There are a few companies that could benefit tremendously, and others that really thrive in a globalized innovation and production ecosystem and want to keep it that way.”

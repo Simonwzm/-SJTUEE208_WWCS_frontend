@@ -1,0 +1,9 @@
+New York (CNN Business) Tesla reversed course Thursday and will no longer allow video games to be played on its cars' touchscreens when they are in motion, bowing to an investigation of the feature by federal safety regulators.
+
+"Following the opening of a preliminary evaluation of Tesla's 'Passenger Play,' Tesla informed the agency that it is changing the functionality of this feature," said a statement from a National Highway Traffic Safety Administration spokesperson late Thursday. "In a new software update, 'Passenger Play' will now be locked and unusable when the vehicle is in motion."
+
+The documentation for the investigation, disclosed Wednesday by the NHTSA, said the feature, known as "Passenger Play," has been available to drivers since December 2020. The games appear on the large touchscreen in the center of the dashboard. While the name suggests it is intended to be played by passengers, nothing prevented drivers from playing while the car is being driven, according to the documentation associated with the investigation.
+
+Prior to December 2020, gameplay was enabled only when the vehicle was in park, the NHTSA investigation document said. Even if the game is being played by a passenger and not the driver, it "may distract the driver and increase the risk of a crash," according to NHTSA.
+
+The agency's investigation generated widespread media coverage on Thursday ahead of Tesla's agreement to change the games' settings.

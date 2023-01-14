@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/200325014212-flipkart-file.jpg?q=x_0,y_104,h_1125,w_1999,c_crop/w_800

@@ -1,0 +1,37 @@
+New York CNN Business —
+
+Apple redesigned the web pages of its privacy policies Wednesday, its latest effort to distinguish itself from its personal data-selling competitors.
+
+“At Apple, privacy is built into everything we make,” CEO Tim Cook tweeted Wednesday announcing the changes. “You decide what you share, how you share it, and who you share it with. Here’s how we protect your data.”
+
+Cook linked to Apple’s new privacy portal, which highlights the user protections it takes on each of its products and apps. The scrollable and colorful list includes policies for Maps, Safari, Wallet and iMessages.
+
+Apple has tried to market its dedication to privacy, comparing itself favorably to competitors that include Amazon (AMZN), Facebook (FB) and Google (GOOGL), which make money by packaging and selling personal information about the people who use their services.
+
+Apple, for the most part, is in a different line of business: it makes the vast majority of its money selling hardware, software and services to its customers.
+
+Cook previously told CNN anchor Christiane Amanpour that he wants governments around the world to restrict how much data companies can collect from their customers.
+
+“You have more information in your devices than in your own home,” Cook said last year. “All of this information that is out there is too much. It is just too much. It should not exist.”
+
+He’s also said that privacy is a basic human right. That’s why, he claims, Apple decided data collection was against its values and the company sought a different business model for its advertising business.
+
+Apple also strongly chastised other tech companies at this year’s Consumer Electronics Show. It placed a billboard in Las Vegas reading “What happens on your iPhone, stays on your iPhone.”
+
+But the iPhone has had its share of security flaws, most recently after the recent release of iOS 13, which exposed contact details stored in iPhones without requiring a passcode or biometric identification.
+
+Apple (AAPL) has encountered other privacy problems, too.
+
+Last year, Bloomberg reported the Chinese government secretly placed data collection chips in Apple hardware. Cook said there was “no truth” to the report.
+
+And in August, Apple apologized for letting contractors listen to commands that users give to its voice assistant Siri. The practice, which is designed to improve Siri’s quality, came under scrutiny after The Guardian reported that contractors could hear users’ private conversations. Apple responded by saying it would no longer keep audio recordings of users’ interactions with Siri.
+
+Google, Facebook and Amazon have also faced similar criticism for how they store recordings on its smart devices.
+
+Facebook, which also deals with practically weekly headlines of data breaches, has also tried to be more transparent regarding user privacy. In August, it rolled out a tool to help users see and manage the data that apps and websites collect on them and share with Facebook.
+
+CEO Mark Zuckerberg also outlined a new privacy focus in April. He said that going forward the company is focusing on private interactions, encryption, reduced permanence and secure data storage.
+
+“Over the next few years we are going to build more of our services around these ideas,” said Zuckerberg. “This isn’t just about building features — we need to change a lot of the different ways that we run this company today.”
+
+Because of all its many privacy issues, Facebook paid a $5 billion settlement with the Federal Trade Commission in July.
