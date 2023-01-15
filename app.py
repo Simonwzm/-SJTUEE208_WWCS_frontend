@@ -31,7 +31,7 @@ def index():
         date = data["date"]
         date = date.split("-")
     result = searchFile.main(keyword,url,date,title)
-    print(result)
+    # print(result)
     return jsonify(result)
 
 @app.route('/upload',methods=["POST"]) # 方法要与前端一致

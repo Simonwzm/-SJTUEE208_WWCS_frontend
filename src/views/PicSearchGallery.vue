@@ -6,15 +6,28 @@
 			
 				<!-- Header -->
 					<header id="header">
-						<PicUploader @func="getSonData"/>
+						<h1 style="margin-right:125px">以图搜图</h1>
+						<HR/>
+						<PicUploader @func="getSonData"  />
+						<br/>
+
+						<div style="margin-top:20px;"></div>
+						<h1 style="margin-right:125px">人脸识别</h1>
+						<HR/>
+						
+						<!-- <input class="file" name="file" type="file" accept="image/png,image/gif,image/jpeg" @change="update"/> -->
+
+						<a-button type="primary" @click="faceDetect" style="margin-right:150px">
+						Primary
+						</a-button>
+						<div style="margin-top:20px;"></div>
+						<div style="margin-right:200px">
+						{{ faceResult }}
+						</div>
 					</header>
 					
 
 				<!-- Thumbnail -->
-					<section id="thumbnails">
-						<h1>留空</h1>
-						<input class="file" name="file" type="file" accept="image/png,image/gif,image/jpeg" @change="update"/>
-					</section>
 					
 					
 				</div>
@@ -90,6 +103,7 @@ export default {
 		srcPic: '',
 		isEmpty: true,
 		testData: '',
+		faceResult: '我是谁'
 		}
 	},
 	
@@ -154,6 +168,9 @@ export default {
 
         this.srcPic = require('@/assets/'+this.picUrlArr[id].url.slice(9, this.picUrlArr[id].url.length));
 		// this.srcPic = this.picUrlArr[id].url
+	},
+	faceDetect() {
+		// pass
 	}
   },
   created() {

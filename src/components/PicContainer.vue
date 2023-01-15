@@ -3,7 +3,7 @@
         <img :src='src' alt="Pic failed to load">
         <div class="text" >
             <h2>{{title}}</h2>
-            <p>{{description}}</p>
+            <p style="font-size:xx-small">{{description}}</p>
         </div>
     </div>
 </template>
@@ -17,10 +17,15 @@ export default
 
         }
     },
-    props: ['nowWidth', 'title','description','url', 'id'],
+    props: ['nowWidth', 'title','description','url', 'id','islocal'],
     computed: {
         src() {
-            return require('@/assets/' + this.url.slice(9, this.url.length));
+            if (this.islocal)  {
+                return require('@/assets/' + this.url.slice(9, this.url.length));
+            }
+            else {
+                return this.url;
+            }
         }
     },
     methods: {
@@ -111,7 +116,7 @@ export default
     transition-delay: 0.4s;
 }
 .card:hover .text p{
-    opacity: 0.9;
+    opacity: 0.5;
     transform: translate(0%,0%);
     transition-delay: 0.6s;
 }

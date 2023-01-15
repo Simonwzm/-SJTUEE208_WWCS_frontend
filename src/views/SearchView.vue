@@ -70,7 +70,7 @@
                     slot="extra"
                     width="272"
                     alt="logo"
-                    src="https://gw.alipayobjects.com/zos/rmsportal/mqaQswcyDLcXyDKnZfES.png"
+                    :src=item.img
                 />
                 <a-list-item-meta :description="item.description">
 
@@ -78,7 +78,7 @@
                     <a-avatar slot="avatar" :src="item.avatar"  />
                 </a-list-item-meta>
                 {{ item.content }}
-
+              <br/>
         <a-button type="primary" @click="showModal(index)">
           Learn More
         </a-button>
@@ -93,8 +93,9 @@
                 :key="index"
                 :nowWidth="item.nowWidth"
                 :title="item.title"
-                :description="item.description"
-                :url="item.url"
+                :description="item.content"
+                :url="item.img"
+                :islocal="islocal"
                 style="display:flex;flex-grow: 1;margin: 10px;"
                 >
             </PicContainer>
@@ -167,6 +168,9 @@
 // const listData = [];
 
 import axios from 'axios';
+import pic1 from '@/assets/avatar/cnn.jpg'
+import pic2 from '@/assets/avatar/sina.jpg'
+import pic3 from '@/assets/avatar/stdaily.jpg'
 export default {
     name: 'SearchView',
     components: {
@@ -198,7 +202,7 @@ export default {
     ],
       // picRow: [{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',},{picList:[{url:'@/assets/bg01.jpg', title:'', description:''}], height:'',}], // 
       referHight: 150,  // refer height for each pic in const height waterfall layout
-
+      islocal:false,
       listData: [],
       isListAnswer: true,
       pagination: {
@@ -235,11 +239,6 @@ export default {
 
 	// get the value in inputbox
 	onSearch(){
-		//alert(this.searchInput);
-		//alert(this.url);
-		//alert(this.title);
-		//alert(this.date);
-    //clear listData
     this.listData = [];
     let that = this;
 
@@ -259,13 +258,13 @@ export default {
         console.log(response.data[el])
         let ava = ''
         if (response.data[el].source == 'cnn') {
-          let ava = '@/assets/avatar/CNN.jpg'
+          ava = pic1
         }
-        else if (response.data[el].source == 'sina') {
-          let ava = '@/assets/avatar/sina.jpg'
+        else if (response.data[el].source == 'tech.sina.com.cn') {
+          ava =pic2
         }
         else if (response.data[el].source == 'stdaily') {
-          let ava = '@/assets/avatar/stdaily.jpg'
+          ava =pic3
         }
         that.listData.push({
           href: response.data[el].url,
@@ -274,9 +273,14 @@ export default {
           // content: that.hasChinese? response.data[el].content : response.data[el].contentEnglish,
           content: response.data[el].para,
           fullcontent:response.data[el].content,
+          img: response.data[el].img,
+          nowWidth:NaN,
+          originalWidth:NaN,
         });
+        that.picUrlArr = that.listData
       }
 		})
+
 	},
 	test(){
     let that = this
@@ -312,7 +316,13 @@ export default {
     getPicWidth() {
       for (let i = 0; i < this.picUrlArr.length; i++) {
         const img = new Image();
-        img.src = require('@/assets/'+this.picUrlArr[i].url.slice(9, this.picUrlArr[i].url.length));
+        if (this.islocal){
+          img.src = require('@/assets/'+this.picUrlArr[i].url.slice(9, this.picUrlArr[i].url.length));
+        }
+        else {
+          img.src = this.picUrlArr[i].url;
+        }
+
         img.onload = () => {
           this.picUrlArr[i].originalWidth = img.width;
           // this.picUrlArr[i].nowWidth = img.width;
@@ -333,6 +343,7 @@ export default {
 
     changeList() {
       // getPicUrl();
+      this.picUrlArr = this.listData
       this.getPicWidth();
       this.scalePic();
       this.isListAnswer = !this.isListAnswer;
