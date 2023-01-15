@@ -2,7 +2,7 @@
 node_modules
 /dist
 deploy.sh
-search_engine_1/index/
+/search_engine_1/index/
 
 # local env files
 .env.local
