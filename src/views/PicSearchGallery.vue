@@ -58,6 +58,7 @@
 							:description="item.description"
 							:url="item.url"
 							:id="index"
+							:islocal=true
 							style="display:flex;flex-grow: 1;margin: 10px;"
 							@sendID="changePic"
 							>

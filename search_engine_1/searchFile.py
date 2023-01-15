@@ -59,6 +59,7 @@ def run(searcher, analyzer,command,site='',date=["0000","00","00"],title_only=0)
             ed=pos+30
         nearbycontents=fullcontent[st:ed]
         unit_dict["para"]=nearbycontents
+        unit_dict["fullcontent"] = fullcontent
         unit_dict["img"]=doc.get("image")
         unit_dict["date"]=doc.get("time")
         unit_dict["title"]=doc.get("title")

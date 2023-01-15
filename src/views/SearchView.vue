@@ -3,16 +3,17 @@
 
   
     <div>
-      <a-modal v-model="visible" title="Basic Modal" @ok="handleOk">
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
+      <a-modal v-model="visible" title="Full text reader" @ok="handleOk" :modelData="modelData" :width="800">
+        <div class="model-title" style="font-size:48px;font-family: 'Sofia Sans Condensed', sans-serif;" > {{ modelData.title }}</div>
+        <div class="model-pic" > <img :src="modelData.img" alt="top img missing" style="width:80%;height:80%;margin:auto;"></div>
+        <br />
+        <div class="model-meta">
+          <div style="display:inline-block">{{ modelData.href }}</div> 
+          <div style="display:inline-block">{{ modelData.date }}</div>
+        </div>     
+        <hr />
+        <br />
+          <div class="model-content" style="font-size:16px;color:black;"> {{ modelData.fullcontent }}</div>
       </a-modal>
     </div>
     <div class="search-container h-1/5 overflow-hidden mt-24 mx-12 z-10" style="position:sticky; top:calc(2em - 8px);">
@@ -55,7 +56,7 @@
 
          </div>
     </div>
-    <div class="left-container h-3/4 float-left ml-12" style='width:60%;'>
+    <div class="left-container h-3/4 float-left ml-12" style='width:60%;' >
         <div class="answer-container overflow-y-scroll" style="height:580px;" v-if="isListAnswer">
             <a-list item-layout="vertical" size="large" :pagination="pagination" :data-source="listData">
                 <!-- <div slot="footer"><b>ant design vue</b> footer part</div> -->
@@ -179,7 +180,8 @@ export default {
     },
   data() {
     return {
-  visible: false,
+    modelData: {},
+    visible: false,
 		searchInput: '',
 		url:'',
 		title:'',
@@ -272,8 +274,9 @@ export default {
           avatar:ava,
           // content: that.hasChinese? response.data[el].content : response.data[el].contentEnglish,
           content: response.data[el].para,
-          fullcontent:response.data[el].content,
+          fullcontent:response.data[el].fullcontent,
           img: response.data[el].img,
+          date:response.data[el].date,
           nowWidth:NaN,
           originalWidth:NaN,
         });
@@ -351,6 +354,7 @@ export default {
     showModal(index) {
       console.log(index);
       this.visible = true;
+      this.modelData = this.listData[index];
     },
     handleOk(e) {
       console.log(e);
@@ -360,6 +364,7 @@ export default {
 };
 </script>
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:wght@300;500&display=swap');
 /* .answer-container {
   max-width: 800px;
   margin: 0 auto;
