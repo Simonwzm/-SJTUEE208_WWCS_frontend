@@ -1,6 +1,6 @@
 <template>
     <div class="input-container container w-1/2 relative mx-auto">
-        <input id='2' type="text" placeholder="ttt" class="input-fill form-input border-bottom text-gold font-serif text-2xl" @change="changeFlag">
+        <input id='2' type="text" placeholder="test" class="input-fill form-input border-bottom text-gold font-serif text-2xl" @change="changeFlag">
         <label class="text-gold input-lable w-full text-center font-serif text-2xl font-thin"  id="1" >Click here to begin search</label>
         <span class="border-bottom-animation center"></span>
     </div>

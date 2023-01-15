@@ -3,6 +3,7 @@
     <a-upload
       action="https://www.mocky.io/v2/5cc8019d300000980a055e76"
       list-type="picture-card"
+      :customRequest = 'imgAdd'
       :file-list="fileList"
       @preview="handlePreview"
       @change="handleChange"
@@ -72,6 +73,22 @@ export default {
     handleCancel() {
       this.previewVisible = false;
     },
+    imgAdd(data) {
+
+      const formData = new FormData();
+      formData.append('file', data.file);
+      console.log(formData.get('file')); //FormData私有类对象，访问不到，可以通过get判断值是否传进去
+      this.$axios.post('http://127.0.0.1:5000/upload',formData,{headers:{'Content-Type':'application/x-www-form-urlencoded' }}, ) //请求头要为表单
+        .then(response=>{
+          console.log(response.data);
+          data.onSuccess(response.data)
+			console.log('success')
+          })
+          .catch(function (error) {
+            console.log(error);
+			console.log('error')
+          })
+        },
     async handlePreview(file) {
       if (!file.url && !file.preview) {
         file.preview = await getBase64(file.originFileObj);

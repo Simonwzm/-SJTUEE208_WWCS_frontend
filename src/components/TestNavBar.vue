@@ -6,7 +6,7 @@
         <ul class="text-lg text-stone">
             <li><router-link to="/search">Text Search</router-link></li>
             <li><router-link to="/picsearch">Pic Search</router-link></li>
-            <li><a href="#">Unavailable</a></li>
+            <li><a href="#">Face Detection</a></li>
             <li><a href="#">Unavailable</a></li>
             <li><a href="#">Unavailable</a></li>
             <li><a href="#">Unavailable</a></li>

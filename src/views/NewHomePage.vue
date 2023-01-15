@@ -12,8 +12,8 @@
 
 		<!-- Signup Form -->
 			<form id="signup-form" method="post" action="#">
-				<input type="email" name="email" id="email" placeholder="Email Address" />
-				<input type="submit" value="Sign Up" />
+				<input type="email" name="email" id="email" placeholder="Begin Search!" />
+				<input type="submit" value="Go to!" />
 			</form>
 	</ydob>
 
@@ -25,7 +25,7 @@
 			<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
 		</ul>
 		<ul class="copyright">
-			<li>&copy; Untitled.</li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
+			<li>Co-developed by our team!</li>
 		</ul>
 	</footer>
 	</body>	
@@ -44,7 +44,7 @@ export default {
   name: 'test',
   data() {
     return {
-      message: 'Hello Vue!'
+      message: 'For more function hit the navbar above!'
     }
   },
   mounted() {
