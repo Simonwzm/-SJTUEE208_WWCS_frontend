@@ -78,11 +78,13 @@ export default {
       const formData = new FormData();
       formData.append('file', data.file);
       console.log(formData.get('file')); //FormData私有类对象，访问不到，可以通过get判断值是否传进去
+      let that = this
       this.$axios.post('http://127.0.0.1:5000/upload',formData,{headers:{'Content-Type':'application/x-www-form-urlencoded' }}, ) //请求头要为表单
         .then(response=>{
-          console.log(response.data);
+          // console.log(response.data);
           data.onSuccess(response.data)
 			console.log('success')
+        that.$emit('func', response)
           })
           .catch(function (error) {
             console.log(error);

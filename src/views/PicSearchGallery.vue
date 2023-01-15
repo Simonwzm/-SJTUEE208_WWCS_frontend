@@ -6,16 +6,7 @@
 			
 				<!-- Header -->
 					<header id="header">
-						<!-- <h1>Lens</h1>
-						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
-						<ul class="icons">
-							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
-						</ul> -->
-
-						<PicUploader />
+						<PicUploader @func="getSonData"/>
 					</header>
 					
 
@@ -25,13 +16,6 @@
 						<input class="file" name="file" type="file" accept="image/png,image/gif,image/jpeg" @change="update"/>
 					</section>
 					
-					
-					<!-- Footer -->
-					<!-- <footer id="footer">
-						<ul class="copyright">
-							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
-						</ul>
-					</footer> -->
 					
 				</div>
 			<div class="inner-shell" style="width:100%; height: 80vh; margin-top:2vh;">
@@ -70,13 +54,6 @@
 			</div>
 
 		</div>
-
-		<!-- Scripts -->
-			<!-- <script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/main.js"></script> -->
-
 	</body>
 </template>
 
@@ -112,6 +89,7 @@ export default {
 		referHight: 140,  // refer height for each pic in const height waterfall layout
 		srcPic: '',
 		isEmpty: true,
+		testData: '',
 		}
 	},
 	
@@ -131,10 +109,10 @@ export default {
 			console.log('error')
           })
       },
-
-
-    
-
+	  getSonData(data) {
+		this.testData = data;
+		console.log(this.testData)
+	  },
     getPicUrl() {
       axios.get('http://localhost:8080/picUrl').then((res) => {
         console.log(res.data);
